@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-31T11:27:30.879638-03:00",
+    "last_updated": "2025-08-31T18:32:41.999152-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -30,6 +30,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Exigencia de ingreso mínimo global de referencia (IMGR), mejoras salariales y condiciones laborales",
             "fuente": "https://prensaobrera.com/sindicales/todo-el-apoyo-a-los-trabajadores-de-ternium, https://www.nortehoy.com.ar/nota/616301-conflicto-en-ternium-mas-de-150-trabajadores-de-contratistas-fueron-impedidos-de-ingresar-a-la-planta-2"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-01",
+            "horario": "12:00",
+            "lugar": "ANDIS (Dragones y Mendoza, Belgrano)",
+            "quien": "Asamblea Discas en Lucha",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste, el escándalo de coimas y para exigir el rechazo al veto de la Ley de Emergencia en Discapacidad.",
+            "fuente": "https://www.anred.org/discas-en-lucha-moviliza-a-las-puertas-de-la-agencia-nacional-de-discapacidad-envuelta-en-el-escandalo-por-coimas/"
         }
     ]
 }
