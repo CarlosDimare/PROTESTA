@@ -1,0 +1,25 @@
+# Ignorar cachés y logs
+.cache/
+.codeoss/
+.npm/
+.local/
+.config/
+.docker/
+.gemini/
+.codegeex/
+.vscode/
+.bash_history
+
+# Archivos específicos de Cloud Shell
+.sudo_as_admin_successful
+README-cloudshell.txt
+
+# Dependencias de Python
+__pycache__/
+*.pyc
+
+# Logs de NPM
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

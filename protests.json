@@ -1,0 +1,35 @@
+{
+    "last_updated": "2025-08-31T11:27:30.879638-03:00",
+    "events": [
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-08-28",
+            "horario": "07:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Junta Interna de ATE Garrahan",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación inmediata de la Ley Garrahan (aumento salarial del 70%) y denuncia de corrupción en el manejo de recursos hospitalarios",
+            "fuente": "https://prensaobrera.com/sindicales/nuevo-paro-en-el-garrahan-por-la-aplicacion-inmediata-de-la-ley-de-emergencia-pediatrica"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-08-28",
+            "horario": "10:30",
+            "lugar": "Juzgado Federal N° 2 de Lomas de Zamora",
+            "quien": "Familiares, amigos, compañeros de militancia del MTR y otros espacios populares organizados por el grupo 'Barrios Lomas'",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar por la liberación y desprocesamiento de Thiago Florentín, detenido por su participación en el ataque contra la comitiva presidencial",
+            "fuente": "https://www.infobae.com/politica/2025/08/28/quienes-son-las-tres-personas-que-fueron-detenidas-por-las-agresiones-a-javier-milei-en-lomas-de-zamora/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-01",
+            "horario": "06:00",
+            "lugar": "Cruce con el río, Ramallo",
+            "quien": "Trabajadores tercerizados de empresas contratistas de Ternium",
+            "tipo_medida": "Piquete",
+            "motivo": "Exigencia de ingreso mínimo global de referencia (IMGR), mejoras salariales y condiciones laborales",
+            "fuente": "https://prensaobrera.com/sindicales/todo-el-apoyo-a-los-trabajadores-de-ternium, https://www.nortehoy.com.ar/nota/616301-conflicto-en-ternium-mas-de-150-trabajadores-de-contratistas-fueron-impedidos-de-ingresar-a-la-planta-2"
+        }
+    ]
+}

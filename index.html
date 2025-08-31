@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor de Conflictos</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Monitor de Protestas</h1>
+    </header>
+
+    <main>
+        <nav class="tab-nav">
+            <button class="tab-link active" data-tab="ayer">Ayer</button>
+            <button class="tab-link" data-tab="hoy">Hoy</button>
+            <button class="tab-link" data-tab="manana">Mañana</button>
+        </nav>
+
+        <div id="ayer" class="tab-content active">
+            <div class="table-container">
+                <table id="table-ayer">
+                    <thead>
+                        <tr>
+                            <th>Hora</th>
+                            <th>Qué</th>
+                            <th>Dónde</th>
+                            <th>Quién</th>
+                            <th>Por qué</th>
+                            <th>Estado</th>
+                            <th>Fuente</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="hoy" class="tab-content">
+            <div class="table-container">
+                <table id="table-hoy">
+                    <thead>
+                        <tr>
+                            <th>Hora</th>
+                            <th>Qué</th>
+                            <th>Dónde</th>
+                            <th>Quién</th>
+                            <th>Por qué</th>
+                            <th>Estado</th>
+                            <th>Fuente</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="manana" class="tab-content">
+            <div class="table-container">
+                <table id="table-manana">
+                    <thead>
+                        <tr>
+                            <th>Hora</th>
+                            <th>Qué</th>
+                            <th>Dónde</th>
+                            <th>Quién</th>
+                            <th>Por qué</th>
+                            <th>Estado</th>
+                            <th>Fuente</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <p class="last-updated">Última actualización: <span id="last-updated-time"></span></p>
+    </main>
+
+    <!-- The Modal -->
+    <div id="source-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <iframe id="source-iframe" src="" frameborder="0"></iframe>
+        </div>
+    </div>
+
+    <footer>
+        <p></p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

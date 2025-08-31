@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+zhipuai
+python-Levenshtein
+thefuzz
+pytz
+ddgs
