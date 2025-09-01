@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T11:24:43.116676-03:00",
+    "last_updated": "2025-09-01T12:19:31.053651-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -50,6 +50,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el ajuste, el escándalo de coimas y para exigir el rechazo al veto de la Ley de Emergencia en Discapacidad.",
             "fuente": "https://www.anred.org/discas-en-lucha-moviliza-a-las-puertas-de-la-agencia-nacional-de-discapacidad-envuelta-en-el-escandalo-por-coimas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-02",
+            "horario": "14:00",
+            "lugar": "Casa de Córdoba, Av. Callao 332, Ciudad Autónoma de Buenos Aires",
+            "quien": "ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Exige la liberación de Federico Giuliani y condena la represión y criminalización de la protesta social",
+            "fuente": "https://www.laizquierdadiario.com/ATE-convoca-paro-con-movilizacion-por-la-libertad-de-Federico-Giuliani"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-04",
+            "horario": "No especificado",
+            "lugar": "Planta de Siderar, San Nicolás",
+            "quien": "UOM San Nicolás",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir aumento salarial y condiciones dignas contra Paolo Rocca y el gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Salarios-de-hambre-arranca-otra-semana-de-lucha-en-Ternium-Siderar"
         }
     ]
 }
