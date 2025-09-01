@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T15:20:20.465213-03:00",
+    "last_updated": "2025-09-01T16:13:06.899770-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -74,12 +74,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-04",
-            "horario": "No especificado",
-            "lugar": "Planta de Siderar, San Nicolás",
+            "horario": "10:00",
+            "lugar": "Planta de Siderar - Centro de San Nicolás",
             "quien": "UOM San Nicolás",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir aumento salarial y condiciones dignas contra Paolo Rocca y el gobierno de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Salarios-de-hambre-arranca-otra-semana-de-lucha-en-Ternium-Siderar"
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por salarios bajos y condiciones laborales en Siderar/Techint",
+            "fuente": "https://www.laizquierdadiario.com/Ternium-Siderar-sigue-el-paro-y-el-jueves-habra-una-gran-movilizacion-en-San-Nicolas, https://www.laizquierdadiario.com/Salarios-de-hambre-arranca-otra-semana-de-lucha-en-Ternium-Siderar"
         }
     ]
 }
