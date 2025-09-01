@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T16:13:06.899770-03:00",
+    "last_updated": "2025-09-01T17:17:24.798428-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -30,6 +30,16 @@
             "tipo_medida": "Paro y movilizaciones",
             "motivo": "Rechazo al veto a la Ley de Emergencia Pediátrica y defensa de condiciones laborales",
             "fuente": "https://www.anred.org/salud-publica-convocan-a-jornada-nacional-de-lucha-con-paros-y-movilizaciones-para-el-28-de-agosto/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-08-29",
+            "horario": "11:00",
+            "lugar": "Cruce de las avenidas Brasil y Defensa, Parque Lezama, Ciudad de Buenos Aires",
+            "quien": "Federación Argentina de Cartoneros, Carreros y Recicladores (FACCyR)",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo a la huelga de hambre de cartoneros contra la suspensión del transporte por parte del Gobierno de la Ciudad",
+            "fuente": "https://www.anred.org/caba-huelga-de-hambre-de-cartoneros-frente-al-ministerio-de-espacio-publico-contra-la-suspension-del-transporte-de-recicladores-urbanos/"
         },
         {
             "es_evento_relevante": true,
