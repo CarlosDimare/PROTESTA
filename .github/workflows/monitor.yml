@@ -1,5 +1,8 @@
 name: Monitor de Protestas
 
+permissions:
+  contents: write
+  
 on:
   schedule:
     # Ejecuta el script cada hora, en el minuto 0.
