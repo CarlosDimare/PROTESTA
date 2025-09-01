@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-31T18:32:41.999152-03:00",
+    "last_updated": "2025-09-01T11:24:43.116676-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -30,6 +30,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Exigencia de ingreso mínimo global de referencia (IMGR), mejoras salariales y condiciones laborales",
             "fuente": "https://prensaobrera.com/sindicales/todo-el-apoyo-a-los-trabajadores-de-ternium, https://www.nortehoy.com.ar/nota/616301-conflicto-en-ternium-mas-de-150-trabajadores-de-contratistas-fueron-impedidos-de-ingresar-a-la-planta-2"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-01",
+            "horario": "10:30",
+            "lugar": "Juzgado Federal N°2 de Lomas de Zamora",
+            "quien": "Colectivo de organizaciones sociales, políticas, sindicales y de DDHH",
+            "tipo_medida": "Movilización",
+            "motivo": "Excarcelación de Thiago Florentin",
+            "fuente": "https://www.laizquierdadiario.com/Corte-y-movilizacion-por-la-liberacion-del-detenido-en-el-repudio-masivo-a-Milei-y-su-caravana"
         },
         {
             "es_evento_relevante": true,
