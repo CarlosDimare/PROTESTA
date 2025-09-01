@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T17:17:24.798428-03:00",
+    "last_updated": "2025-09-01T18:14:38.750914-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -80,6 +80,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exige la liberación de Federico Giuliani y condena la represión y criminalización de la protesta social",
             "fuente": "https://www.laizquierdadiario.com/ATE-convoca-paro-con-movilizacion-por-la-libertad-de-Federico-Giuliani"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-02",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de entrega de alimentos a comedores y merenderos y en contra de la detención de Giuliani",
+            "fuente": "https://www.infobae.com/politica/2025/09/01/liberaron-al-secretario-general-de-ate-cordoba-que-habia-sido-detenido-por-intentar-ingresar-a-la-fuerza-en-la-municipalidad/"
         },
         {
             "es_evento_relevante": true,
