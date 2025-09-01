@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T12:19:31.053651-03:00",
+    "last_updated": "2025-09-01T13:20:07.061751-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -20,6 +20,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar por la liberación y desprocesamiento de Thiago Florentín, detenido por su participación en el ataque contra la comitiva presidencial",
             "fuente": "https://www.infobae.com/politica/2025/08/28/quienes-son-las-tres-personas-que-fueron-detenidas-por-las-agresiones-a-javier-milei-en-lomas-de-zamora/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-08-28",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Fesprosa y sindicatos provinciales (Siprus-Santa Fe, Aptasch-Chaco, Aproslar-La Rioja, Siprosapune-Neuquén)",
+            "tipo_medida": "Paro y movilizaciones",
+            "motivo": "Rechazo al veto a la Ley de Emergencia Pediátrica y defensa de condiciones laborales",
+            "fuente": "https://www.anred.org/salud-publica-convocan-a-jornada-nacional-de-lucha-con-paros-y-movilizaciones-para-el-28-de-agosto/"
         },
         {
             "es_evento_relevante": true,
