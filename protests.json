@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-01T22:07:12.317069-03:00",
+    "last_updated": "2025-09-02T00:05:12.734355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -90,6 +90,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de entrega de alimentos a comedores y merenderos y en contra de la detención de Giuliani",
             "fuente": "https://www.infobae.com/politica/2025/09/01/liberaron-al-secretario-general-de-ate-cordoba-que-habia-sido-detenido-por-intentar-ingresar-a-la-fuerza-en-la-municipalidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-03",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Colectivo por la libertad de Thiago Florentín",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la libertad de Thiago Florentín, preso tras la caravana de Milei",
+            "fuente": "https://www.pagina12.com.ar/tags/62522-protestas-sociales"
         },
         {
             "es_evento_relevante": true,
