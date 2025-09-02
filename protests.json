@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-02T15:19:43.666965-03:00",
+    "last_updated": "2025-09-02T16:13:11.481694-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -134,12 +134,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "No especificado",
-            "horario": "No especificado",
+            "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Federación ceramista",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a los despidos y cierre ilegal de la fábrica Ilva, exigencia de reapertura y solidaridad con los trabajadores",
-            "fuente": "https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo"
+            "quien": "Comunidad universitaria (docentes, estudiantes y no docentes)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el veto presidencial a la ley de financiamiento universitario",
+            "fuente": "https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         }
     ]
 }
