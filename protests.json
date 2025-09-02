@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-02T10:27:38.378599-03:00",
+    "last_updated": "2025-09-02T11:17:33.484067-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -80,6 +80,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exige la liberación de Federico Giuliani y condena la represión y criminalización de la protesta social",
             "fuente": "https://www.laizquierdadiario.com/ATE-convoca-paro-con-movilizacion-por-la-libertad-de-Federico-Giuliani"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-02",
+            "horario": "No especificado",
+            "lugar": "Puerto de Génova, Italia",
+            "quien": "Sindicato USB y trabajadores portuarios de Génova",
+            "tipo_medida": "Huelga",
+            "motivo": "Solidaridad con la Global Sumud Flotilla hacia Gaza y respuesta a amenazas israelíes",
+            "fuente": "https://www.laizquierdadiario.com/Bloquearemos-toda-Europa-trabajadores-portuarios-de-Genova-iran-a-la-huelga-para-proteger-la"
         },
         {
             "es_evento_relevante": true,
