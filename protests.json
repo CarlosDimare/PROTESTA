@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-02T13:20:26.951728-03:00",
+    "last_updated": "2025-09-02T14:14:45.484391-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -100,6 +100,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de entrega de alimentos a comedores y merenderos y en contra de la detención de Giuliani",
             "fuente": "https://www.infobae.com/politica/2025/09/01/liberaron-al-secretario-general-de-ate-cordoba-que-habia-sido-detenido-por-intentar-ingresar-a-la-fuerza-en-la-municipalidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-03",
+            "horario": "12:00",
+            "lugar": "Pami Central (Corrientes 655)",
+            "quien": "Jubilados en lucha (colectivo)",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de corrupción, vaciamiento y recortes en el PAMI que afectan la salud de jubilados",
+            "fuente": "https://prensaobrera.com/sindicales/los-jubilados-marchan-al-pami-contra-los-negociados-y-el-ajuste"
         },
         {
             "es_evento_relevante": true,
