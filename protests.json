@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-02T16:13:11.481694-03:00",
+    "last_updated": "2025-09-02T17:18:41.750095-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -80,6 +80,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exige la liberación de Federico Giuliani y condena la represión y criminalización de la protesta social",
             "fuente": "https://www.laizquierdadiario.com/ATE-convoca-paro-con-movilizacion-por-la-libertad-de-Federico-Giuliani"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-02",
+            "horario": "No especificado",
+            "lugar": "frente a la Secretaría de la Discapacidad",
+            "quien": "Trabajadores de la Secretaría de la Discapacidad y personas con discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de los ajustes y el escándalo de corrupción",
+            "fuente": "https://prensaobrera.com/politicas/crece-el-repudio-popular-contra-milei"
         },
         {
             "es_evento_relevante": true,
