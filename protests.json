@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T15:22:21.081032-03:00",
+    "last_updated": "2025-09-03T16:16:29.815638-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -114,6 +114,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-03",
+            "horario": "09:30",
+            "lugar": "Plaza Congreso",
+            "quien": "Plenario de Trabajadores Jubilados y otras organizaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncian corrupción en Pami y exigen fin del vaciamiento, restitución de medicamentos con cobertura total, acceso a audífonos, sillas de ruedas y atención domiciliaria.",
+            "fuente": "https://prensaobrera.com/sindicales/el-pami-es-nuestro-basta-de-saqueo, http://ctaacordoba.org/autovia-punilla-plenario-abierto-en-la-comuna-de-san-roque/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-03",
             "horario": "12:00",
             "lugar": "Pami Central (Corrientes 655)",
             "quien": "Jubilados en lucha (colectivo)",
@@ -130,6 +140,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Visibilización de recortes en educación/salud pública y respuesta a posible veto de Ley de Financiamiento universitario",
             "fuente": "https://www.pagina12.com.ar/854544-clases-publica-en-contra-del-veto-a-las-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-03",
+            "horario": "17:30",
+            "lugar": "Monumento San Martín, Neuquén",
+            "quien": "Personas autoconvocadas y organizaciones solidarias",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir devolución del niño y sanción a funcionarios judiciales y policiales por irregularidades en el operativo",
+            "fuente": "https://www.anred.org/abajo-la-impunidad-de-staicos-la-sociedad-neuquina-marcha-para-que-devuelvan-a-m-con-su-mama/"
         },
         {
             "es_evento_relevante": true,
