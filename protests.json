@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T10:25:20.428513-03:00",
+    "last_updated": "2025-09-03T11:18:25.364814-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -160,6 +160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denunciar persecución estatal y corrupción gubernamental tras medidas de censura",
             "fuente": "https://www.pagina12.com.ar/854547-repudios-en-el-congreso-a-la-censura-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-05",
+            "horario": "No especificado",
+            "lugar": "Ushuaia (ciudad capital de Tierra del Fuego)",
+            "quien": "SUTEF (Sindicato Unificado de Trabajadores de la Educación de la Fuegia)",
+            "tipo_medida": "Paro con Marcha",
+            "motivo": "Reclamos por salarios congelados, urgente sanción de la ley de Financiamiento Integral del Sistema Educativo, y situación de infraestructura en escuelas",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-la-docencia-acampa-y-prepara-marcha-provincial-por-salarios-e-infraestructura"
         },
         {
             "es_evento_relevante": true,
