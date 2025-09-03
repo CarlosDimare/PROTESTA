@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T13:19:11.449639-03:00",
+    "last_updated": "2025-09-03T14:16:43.989777-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -190,6 +190,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la censura, las persecuciones y en unidad con jubilados y personas con discapacidad, denunciando recortes y corrupción",
             "fuente": "https://www.laizquierdadiario.com/Bregman-Vamos-con-esta-pelea-hasta-el-final-convoquemos-a-una-movilizacion-contra-la-censura, https://as.com/actualidad/sociedad/manifestacion-del-8-de-junio-en-madrid-a-que-hora-es-recorrido-y-calles-cortadas-por-la-movilizacion-del-pp-contra-el-gobierno-n/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Ademys y sindicatos combativos",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición al gobierno de Milei y políticas educativas",
+            "fuente": "https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
         },
         {
             "es_evento_relevante": true,
