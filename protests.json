@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T16:16:29.815638-03:00",
+    "last_updated": "2025-09-03T17:17:41.827960-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -144,22 +144,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-03",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de aumento de haberes y oposición al bono de 70 mil pesos",
+            "fuente": "https://www.pagina12.com.ar/854696-despliegan-un-desmedido-operativo-policial-en-congreso-ante-, https://www.laizquierdadiario.com/Conocelos-jubiladas-y-jubilados-que-marchan-cada-miercoles-van-en-las-listas-del-Frente-de, https://www.pagina12.com.ar/tags/62522-protestas-sociales, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-03",
             "horario": "17:30",
             "lugar": "Monumento San Martín, Neuquén",
             "quien": "Personas autoconvocadas y organizaciones solidarias",
             "tipo_medida": "Movilización",
             "motivo": "Exigir devolución del niño y sanción a funcionarios judiciales y policiales por irregularidades en el operativo",
             "fuente": "https://www.anred.org/abajo-la-impunidad-de-staicos-la-sociedad-neuquina-marcha-para-que-devuelvan-a-m-con-su-mama/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-03",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Jubiladas y jubilados",
-            "tipo_medida": "Marcha",
-            "motivo": "Resistencia contra el ajuste y por movilidad jubilatoria",
-            "fuente": "https://www.laizquierdadiario.com/Conocelos-jubiladas-y-jubilados-que-marchan-cada-miercoles-van-en-las-listas-del-Frente-de, https://www.pagina12.com.ar/tags/62522-protestas-sociales"
         },
         {
             "es_evento_relevante": true,
