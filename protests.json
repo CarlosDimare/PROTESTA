@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T00:25:59.760543-03:00",
+    "last_updated": "2025-09-03T01:19:58.977844-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -150,6 +150,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por salarios bajos y condiciones laborales en Siderar/Techint",
             "fuente": "https://www.laizquierdadiario.com/Ternium-Siderar-sigue-el-paro-y-el-jueves-habra-una-gran-movilizacion-en-San-Nicolas, https://www.laizquierdadiario.com/Salarios-de-hambre-arranca-otra-semana-de-lucha-en-Ternium-Siderar"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-04",
+            "horario": "14:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Jorge Rial y Mauro Federico",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar persecución estatal y corrupción gubernamental tras medidas de censura",
+            "fuente": "https://www.pagina12.com.ar/854547-repudios-en-el-congreso-a-la-censura-del-gobierno"
         },
         {
             "es_evento_relevante": true,
