@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-03T08:15:11.492436-03:00",
+    "last_updated": "2025-09-03T09:31:57.272575-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -160,6 +160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denunciar persecución estatal y corrupción gubernamental tras medidas de censura",
             "fuente": "https://www.pagina12.com.ar/854547-repudios-en-el-congreso-a-la-censura-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ADOSAC",
+            "tipo_medida": "Paro",
+            "motivo": "Reapertura de paritarias y reclamo contra descuentos salariales",
+            "fuente": "https://www.laizquierdadiario.com/Rio-Gallegos-trabajadores-de-la-educacion-y-salud-publica-marcharon-en-unidad"
         },
         {
             "es_evento_relevante": true,
