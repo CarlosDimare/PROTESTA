@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-05T13:19:29.831962-03:00",
+    "last_updated": "2025-09-05T14:17:46.776494-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -180,6 +180,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por recomposición de haberes, extensión de moratoria previsional, recuperación de gratuidad de medicamentos, repudio a corrupción y liberación de Thiago Florentín",
             "fuente": "https://www.pagina12.com.ar/854850-los-jubilados-marcharon-al-ritmo-de-guantanamera, https://www.pagina12.com.ar/854547-repudios-en-el-congreso-a-la-censura-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-05",
+            "horario": "No especificado",
+            "lugar": "Parque Industrial de Pilar, Pilar, Buenos Aires",
+            "quien": "Trabajadores de la fábrica de cerámica ILVA",
+            "tipo_medida": "Acampe",
+            "motivo": "Contra despidos masivos, vaciamiento y lock out patronal; exigen reinicio de actividades y cumplimiento de conciliación obligatoria",
+            "fuente": "https://www.laizquierdadiario.com/Gran-protesta-en-la-fabrica-ceramista-ILVA-frente-a-300-despidos-en-el-Parque-Industrial-de-Pilar"
         },
         {
             "es_evento_relevante": true,
