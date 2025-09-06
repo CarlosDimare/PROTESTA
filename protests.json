@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-05T20:14:47.051468-03:00",
+    "last_updated": "2025-09-05T22:02:50.806694-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -220,6 +220,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la censura, las persecuciones y en unidad con jubilados y personas con discapacidad, denunciando recortes y corrupción",
             "fuente": "https://www.laizquierdadiario.com/Bregman-Vamos-con-esta-pelea-hasta-el-final-convoquemos-a-una-movilizacion-contra-la-censura, https://as.com/actualidad/sociedad/manifestacion-del-8-de-junio-en-madrid-a-que-hora-es-recorrido-y-calles-cortadas-por-la-movilizacion-del-pp-contra-el-gobierno-n/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "07:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Trabajadores del Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al veto presidencial a la ley de emergencia pediátrica y reclamos salariales",
+            "fuente": "https://www.laizquierdadiario.com/No-al-veto-asamblea-de-trabajadores-del-Garrahan-convoca-a-un-paro-el-proximo-viernes, https://www.datagremial.com/informacion-general/contra-el-veto-a-la-emergencia-pediatrica-los-trabajadores-del-hospital-garrahan-vuelven-al-paro-20259417540"
         },
         {
             "es_evento_relevante": true,
