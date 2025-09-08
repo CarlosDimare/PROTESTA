@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-08T04:18:56.693908-03:00",
+    "last_updated": "2025-09-08T05:23:14.424728-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -215,11 +215,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-10",
             "horario": "**11:00**",
-            "lugar": "No especificado",
-            "quien": "PTS y Frente de Izquierda Unidad",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la censura, las persecuciones y en unidad con jubilados y personas con discapacidad, denunciando recortes y corrupción",
-            "fuente": "https://www.laizquierdadiario.com/Bregman-Vamos-con-esta-pelea-hasta-el-final-convoquemos-a-una-movilizacion-contra-la-censura, https://as.com/actualidad/sociedad/manifestacion-del-8-de-junio-en-madrid-a-que-hora-es-recorrido-y-calles-cortadas-por-la-movilizacion-del-pp-contra-el-gobierno-n/"
+            "lugar": "Marchas de jubilados (lugar no especificado)",
+            "quien": "Frente de Izquierda y jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al plan de ajuste del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Repudio-a-Milei-el-Frente-de-Izquierda-es-tercera-fuerza-en-la-Tercera-Seccion-y-conquista-dos-bancas, https://www.laizquierdadiario.com/Bregman-Vamos-con-esta-pelea-hasta-el-final-convoquemos-a-una-movilizacion-contra-la-censura, https://as.com/actualidad/sociedad/manifestacion-del-8-de-junio-en-madrid-a-que-hora-es-recorrido-y-calles-cortadas-por-la-movilizacion-del-pp-contra-el-gobierno-n/"
         },
         {
             "es_evento_relevante": true,
