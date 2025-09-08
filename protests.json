@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-08T13:19:27.061059-03:00",
+    "last_updated": "2025-09-08T14:16:20.101753-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -260,6 +260,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
             "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "17:30",
+            "lugar": "Centros educativos de Catalunya",
+            "quien": "Organizaciones estudiantiles catalanas",
+            "tipo_medida": "Paro estudiantil",
+            "motivo": "En solidaridad con Palestina y protesta contra el posible asalto a la Global Sumud Flotilla y el genocidio palestino",
+            "fuente": "https://www.laizquierdadiario.com/Organizaciones-estudiantiles-y-juveniles-catalanas-llaman-a-un-paro-si-tocan-a-la-Flotilla-a-Gaza, https://www.lavanguardia.com/vida/20240927/9977061/huelga-convocada-genocidio-palestina-corta-diagonal-accesos-universidades-catalunya.html"
         },
         {
             "es_evento_relevante": true,
