@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-07T20:14:08.296548-03:00",
+    "last_updated": "2025-09-07T22:08:11.247027-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -240,6 +240,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición al gobierno de Milei y políticas educativas",
             "fuente": "https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "19:00",
+            "lugar": "Plaza Mariano Moreno, Remedios de Escalada",
+            "quien": "Vecinos y activistas",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
+            "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
         },
         {
             "es_evento_relevante": true,
