@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-08T16:13:21.201667-03:00",
+    "last_updated": "2025-09-08T17:18:44.270722-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -223,6 +223,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "09:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "AGD-UBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y reclamo por presupuesto y salarios",
+            "fuente": "https://prensaobrera.com/universidad/es-ahora-a-las-calles-en-defensa-de-la-universidad-publica"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-11",
+            "horario": "No especificado",
+            "lugar": "San Nicolás, Buenos Aires (frente a la planta de Ternium Siderar)",
+            "quien": "Asamblea de trabajadores de las contratistas de Ternium Siderar",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos salariales y laborales, contra despidos y por condiciones de trabajo",
+            "fuente": "https://prensaobrera.com/sindicales/gran-marcha-en-san-nicolas-de-los-trabajadores-de-ternium"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "07:00",
             "lugar": "Hospital Garrahan",
@@ -240,6 +260,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por la aplicación inmediata de la ley de emergencia pediátrica y contra el ajuste del gobierno",
             "fuente": "https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "18:00",
+            "lugar": "Córdoba capital",
+            "quien": "Upec-Capital, Sutna, Polo Obrero y organizaciones sindicales combativas",
+            "tipo_medida": "Marcha",
+            "motivo": "Aumento de salarios, jubilaciones y defensa de puestos de trabajo",
+            "fuente": "https://prensaobrera.com/sindicales/marcharan-en-cordoba-por-aumento-de-salarios-jubilaciones-y-contra-despidos"
         },
         {
             "es_evento_relevante": true,
