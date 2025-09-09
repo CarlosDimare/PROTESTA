@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-08T20:15:11.155762-03:00",
+    "last_updated": "2025-09-08T22:04:38.290590-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -230,6 +230,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la universidad pública y rechazo al veto a la Ley de Financiamiento Universitario",
             "fuente": "https://prensaobrera.com/universidad/si-hay-veto-hay-ocupaciones-y-una-gran-marcha-universitaria-en-septiembre, https://prensaobrera.com/universidad/es-ahora-a-las-calles-en-defensa-de-la-universidad-publica"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Colectivo de referentes sindicales",
+            "tipo_medida": "Huelga General",
+            "motivo": "Exigir la dimisión de Macron, cambios en el régimen y que los grandes capitalistas paguen la crisis",
+            "fuente": "https://www.laizquierdadiario.com/Francia-cientos-de-referentes-sindicales-llaman-a-organizar-huelga-masiva-y-asamblea-general, https://elpais.com/espana/2025-03-01/ultima-hora-de-la-manifestacion-en-valencia-contra-mazon-en-directo.html"
         },
         {
             "es_evento_relevante": true,
