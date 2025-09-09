@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-08T22:04:38.290590-03:00",
+    "last_updated": "2025-09-09T00:00:15.390358-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -220,6 +220,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al plan de ajuste del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Repudio-a-Milei-el-Frente-de-Izquierda-es-tercera-fuerza-en-la-Tercera-Seccion-y-conquista-dos-bancas, https://www.laizquierdadiario.com/Bregman-Vamos-con-esta-pelea-hasta-el-final-convoquemos-a-una-movilizacion-contra-la-censura, https://as.com/actualidad/sociedad/manifestacion-del-8-de-junio-en-madrid-a-que-hora-es-recorrido-y-calles-cortadas-por-la-movilizacion-del-pp-contra-el-gobierno-n/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "**12:00**",
+            "lugar": "No especificado (mencionado como acciones en múltiples ciudades)",
+            "quien": "Casi 300 referentes sindicales de múltiples sectores (energía, refinerías, ferroviarios, salud, industria, servicios públicos, educación)",
+            "tipo_medida": "Huelga General",
+            "motivo": "Oponerse al presupuesto Bayrou-Macron, exigir que los grandes capitalistas paguen la crisis, movilización desde las bases sin depender de la Intersindical, y cambios políticos radicales como la dimisión de Macron y reforma institucional",
+            "fuente": "https://www.laizquierdadiario.com/Francia-cientos-de-referentes-sindicales-llaman-a-organizar-huelga-ante-la-crisis-politica, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
         },
         {
             "es_evento_relevante": true,
