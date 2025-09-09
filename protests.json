@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-09T08:14:14.235531-03:00",
+    "last_updated": "2025-09-09T09:31:46.722362-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -270,6 +270,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al veto presidencial a la ley de emergencia pediátrica y reclamos salariales",
             "fuente": "https://www.laizquierdadiario.com/No-al-veto-asamblea-de-trabajadores-del-Garrahan-convoca-a-un-paro-el-proximo-viernes, https://www.datagremial.com/informacion-general/contra-el-veto-a-la-emergencia-pediatrica-los-trabajadores-del-hospital-garrahan-vuelven-al-paro-20259417540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "10:00",
+            "lugar": "Sociedad Rural de Río Cuarto, Córdoba",
+            "quien": "Gobernadores de Provincias Unidas (Martín Llaryora, Maximiliano Pullaro, Gustavo Valdés, Ignacio Torres, Carlos Sadir, Claudio Vidal)",
+            "tipo_medida": "Movilización",
+            "motivo": "Muestra de fuerza por desconfianza hacia el gobierno nacional, reclamo de recursos adeudados y crítica a la gestión presidencial",
+            "fuente": "https://www.infobae.com/politica/2025/09/09/los-gobernadores-desconfian-de-la-mesa-de-dialogo-que-convoco-milei-y-preparan-una-muestra-de-fuerza-en-cordoba/"
         },
         {
             "es_evento_relevante": true,
