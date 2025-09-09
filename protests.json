@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-09T16:13:08.239380-03:00",
+    "last_updated": "2025-09-09T17:16:37.595620-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -240,6 +240,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la universidad pública y rechazo al veto a la Ley de Financiamiento Universitario",
             "fuente": "https://prensaobrera.com/universidad/si-hay-veto-hay-ocupaciones-y-una-gran-marcha-universitaria-en-septiembre, https://prensaobrera.com/universidad/es-ahora-a-las-calles-en-defensa-de-la-universidad-publica"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "18:00",
+            "lugar": "Salta y Pueyrredón, Rosario",
+            "quien": "Acción por Palestina de Rosario",
+            "tipo_medida": "Banderazo",
+            "motivo": "Repudio a la presencia y actividades de soldados israelíes en Argentina",
+            "fuente": "https://www.anred.org/alerta-y-repudio-por-la-presencia-de-soldados-israelies-en-argentina-promocionando-el-genocidio/"
         },
         {
             "es_evento_relevante": true,
