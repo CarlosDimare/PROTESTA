@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-09T13:18:49.740332-03:00",
+    "last_updated": "2025-09-09T14:15:16.088221-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -284,12 +284,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
-            "horario": "12:00",
-            "lugar": "Plaza de Mayo",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional",
             "quien": "Sindicalismo combativo",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por la aplicación inmediata de la ley de emergencia pediátrica y contra el ajuste del gobierno",
-            "fuente": "https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
+            "motivo": "Rechazo a las políticas de ajuste del gobierno nacional, incluyendo despidos, recortes salariales, vetos a leyes sociales (universidades, Garrahan) y medidas económicas recesivas",
+            "fuente": "https://prensaobrera.com/politicas/son-muchas-las-razones-para-movilizar-este-12-de-septiembre-contra-el-ajuste, https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
         },
         {
             "es_evento_relevante": true,
