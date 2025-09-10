@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T15:24:15.218922-03:00",
+    "last_updated": "2025-09-10T16:13:45.025817-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -350,6 +350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
             "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "No especificado",
+            "lugar": "Frente al Congreso Nacional y Palacio Pizzurno",
+            "quien": "Asociación de Profesionales y Técnicos del Hospital Garrahan (APyT) y Federación Nacional de Docentes Universitarios (CONADU)",
+            "tipo_medida": "Paro Nacional y Marcha Masiva",
+            "motivo": "Rechazo al veto presidencial a las leyes de Emergencia Pediátrica y Financiamiento Universitario",
+            "fuente": "https://www.anred.org/trabajadores-del-garrahan-y-docentes-universitarios-desafian-a-milei-con-paro-y-movilizacion-si-hay-veto/"
         },
         {
             "es_evento_relevante": true,
