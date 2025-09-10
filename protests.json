@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T13:19:57.876074-03:00",
+    "last_updated": "2025-09-10T14:14:39.330824-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -270,6 +270,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a medidas de ajuste y austeridad y recuperación de conquistas laborales",
             "fuente": "https://www.laizquierdadiario.com/Huelgas-piquetes-y-manifestaciones-Francia-sale-a-las-calles-en-medio-de-la-crisis-politica"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-11",
+            "horario": "No especificado",
+            "lugar": "Frente a la fábrica Ilva Porcellanato",
+            "quien": "Empleados despedidos de Ilva Porcellanato",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamo por 300 despidos masivos y falta de cumplimiento de la conciliación obligatoria dictada por el Ministerio de Trabajo",
+            "fuente": "https://www.pagina12.com.ar/856636-300-trabajadores-que-esperan-respuestas"
         },
         {
             "es_evento_relevante": true,
