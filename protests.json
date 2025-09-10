@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T14:14:39.330824-03:00",
+    "last_updated": "2025-09-10T15:24:15.218922-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -315,6 +315,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "15:30",
+            "lugar": "Plaza de Mayo",
+            "quien": "Sindicatos combativos, organizaciones de desocupados e izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir a la CGT que rompa la tregua con el Gobierno y convoque a paro nacional contra el ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "15:30",
             "lugar": "Congreso Nacional",
             "quien": "Sindicalismo combativo",
             "tipo_medida": "Marcha",
@@ -340,6 +350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
             "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional hasta Plaza de Mayo",
+            "quien": "Sindicatos combativos, movimientos piqueteros independientes y organizaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "En reclamo de un paro general de 36 horas, contra el ajuste de Milei, los gobernadores y el FMI, y por diversos reclamos sociales (aumento para jubilados, paritarias, etc.)",
+            "fuente": "https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
         },
         {
             "es_evento_relevante": true,
