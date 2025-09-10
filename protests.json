@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T17:17:11.654648-03:00",
+    "last_updated": "2025-09-10T18:14:12.696758-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -400,6 +400,16 @@
             "tipo_medida": "Paro estudiantil",
             "motivo": "En solidaridad con Palestina y protesta contra el posible asalto a la Global Sumud Flotilla y el genocidio palestino",
             "fuente": "https://www.laizquierdadiario.com/Organizaciones-estudiantiles-y-juveniles-catalanas-llaman-a-un-paro-si-tocan-a-la-Flotilla-a-Gaza, https://www.lavanguardia.com/vida/20240927/9977061/huelga-convocada-genocidio-palestina-corta-diagonal-accesos-universidades-catalunya.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "La hora de inicio del evento de protesta es **15:00**.  \n*(El texto indica: \"desde las 15, por columnas piqueteras, movimientos sociales...\" y confirma \"Las principales columnas concentran a partir de las 15\")*.",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Jubilados, sindicatos y otras agrupaciones",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de aumento jubilatorio y contra los vetos a leyes de financiamiento universitario y emergencia en pediatría, así como contra el ajuste",
+            "fuente": "https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
