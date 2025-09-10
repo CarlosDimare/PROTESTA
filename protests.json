@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T01:18:26.944665-03:00",
+    "last_updated": "2025-09-10T02:15:57.083180-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -336,10 +336,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Comunidad universitaria (docentes, estudiantes y no docentes)",
+            "quien": "Frente de Lucha por la Soberanía, el Trabajo Digno y el Salario Justo",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el veto presidencial a la ley de financiamiento universitario",
-            "fuente": "https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+            "motivo": "Llamado a la paz en la Franja de Gaza",
+            "fuente": "https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         }
     ]
 }
