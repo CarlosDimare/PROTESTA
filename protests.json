@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T16:13:45.025817-03:00",
+    "last_updated": "2025-09-10T17:17:11.654648-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -244,22 +244,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-10",
-            "horario": "18:00",
-            "lugar": "Salta y Pueyrredón, Rosario",
-            "quien": "Acción por Palestina de Rosario",
-            "tipo_medida": "Banderazo",
-            "motivo": "Repudio a la presencia y actividades de soldados israelíes en Argentina",
-            "fuente": "https://www.anred.org/alerta-y-repudio-por-la-presencia-de-soldados-israelies-en-argentina-promocionando-el-genocidio/"
+            "horario": "16:00",
+            "lugar": "Plaza del Congreso",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por mejoras en los haberes de jubilados",
+            "fuente": "https://www.infobae.com/politica/2025/09/10/nuevo-miercoles-de-marcha-los-jubilados-y-organizaciones-sindicales-se-concentran-en-el-congreso/, https://elintransigente.com/2025/09/jubilados-y-gremios-combativos-marcharan-manana-del-congreso-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-10",
             "horario": "18:00",
             "lugar": "No especificado",
-            "quien": "Colectivo de referentes sindicales",
-            "tipo_medida": "Huelga General",
-            "motivo": "Exigir la dimisión de Macron, cambios en el régimen y que los grandes capitalistas paguen la crisis",
-            "fuente": "https://www.laizquierdadiario.com/Francia-cientos-de-referentes-sindicales-llaman-a-organizar-huelga-masiva-y-asamblea-general, https://elpais.com/espana/2025-03-01/ultima-hora-de-la-manifestacion-en-valencia-contra-mazon-en-directo.html"
+            "quien": "Jubilados (Jubildades del PTS) y trabajadores de prensa (Sipreba)",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con Pablo Grillo, libertad de expresión, contra censura gubernamental y ajuste económico",
+            "fuente": "https://www.laizquierdadiario.com/Nueva-movilizacion-por-Pablo-Grillo-contra-la-censura-y-junto-a-las-y-los-jubilados, https://www.laizquierdadiario.com/Francia-cientos-de-referentes-sindicales-llaman-a-organizar-huelga-masiva-y-asamblea-general, https://elpais.com/espana/2025-03-01/ultima-hora-de-la-manifestacion-en-valencia-contra-mazon-en-directo.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "18:00",
+            "lugar": "Salta y Pueyrredón, Rosario",
+            "quien": "Acción por Palestina de Rosario",
+            "tipo_medida": "Banderazo",
+            "motivo": "Repudio a la presencia y actividades de soldados israelíes en Argentina",
+            "fuente": "https://www.anred.org/alerta-y-repudio-por-la-presencia-de-soldados-israelies-en-argentina-promocionando-el-genocidio/"
         },
         {
             "es_evento_relevante": true,
