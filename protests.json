@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T11:16:24.200033-03:00",
+    "last_updated": "2025-09-10T12:19:09.580463-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -320,6 +320,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
             "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato combativo / Plenario del sindicalismo combativo",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de aumento salarial y presupuesto, y oposición al gobierno de Milei",
+            "fuente": "https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha"
         },
         {
             "es_evento_relevante": true,
