@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T12:19:09.580463-03:00",
+    "last_updated": "2025-09-10T13:19:57.876074-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -260,6 +260,16 @@
             "tipo_medida": "Huelga General",
             "motivo": "Exigir la dimisión de Macron, cambios en el régimen y que los grandes capitalistas paguen la crisis",
             "fuente": "https://www.laizquierdadiario.com/Francia-cientos-de-referentes-sindicales-llaman-a-organizar-huelga-masiva-y-asamblea-general, https://elpais.com/espana/2025-03-01/ultima-hora-de-la-manifestacion-en-valencia-contra-mazon-en-directo.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-10",
+            "horario": "No especificado",
+            "lugar": "Principales ciudades de Francia",
+            "quien": "Asambleas generales de trabajadores y estudiantes",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a medidas de ajuste y austeridad y recuperación de conquistas laborales",
+            "fuente": "https://www.laizquierdadiario.com/Huelgas-piquetes-y-manifestaciones-Francia-sale-a-las-calles-en-medio-de-la-crisis-politica"
         },
         {
             "es_evento_relevante": true,
