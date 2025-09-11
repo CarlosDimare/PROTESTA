@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T10:20:59.610388-03:00",
+    "last_updated": "2025-09-11T11:16:21.079391-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -306,10 +306,10 @@
             "fecha": "2025-09-12",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Federación de las Universidades Nacionales (FEDUN), CTERA, FAGUDT, CONADU, CONADU Histórica, FATUN y UDA",
+            "quien": "Federaciones docentes y no docentes",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al veto de la ley de financiamiento universitario y defensa de la educación pública",
-            "fuente": "https://www.infobae.com/politica/2025/09/11/yacobitti-si-no-logramos-revertir-el-veto-vamos-a-dejar-de-ver-a-las-universidades-publicas-tal-cual-las-conocemos/, https://www.infobae.com/politica/2025/09/10/los-docentes-universitarios-convocaron-a-un-paro-en-rechazo-al-veto-de-milei-a-la-ley-de-financiamiento/, https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y reclamo de recomposición salarial",
+            "fuente": "https://prensaobrera.com/universidad/los-docentes-universitarios-rechazan-el-veto-de-milei-con-paro-y-movilizacion, https://www.infobae.com/politica/2025/09/11/yacobitti-si-no-logramos-revertir-el-veto-vamos-a-dejar-de-ver-a-las-universidades-publicas-tal-cual-las-conocemos/, https://www.infobae.com/politica/2025/09/10/los-docentes-universitarios-convocaron-a-un-paro-en-rechazo-al-veto-de-milei-a-la-ley-de-financiamiento/, https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -345,21 +345,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "15:30",
-            "lugar": "Plaza de Mayo",
-            "quien": "Sindicatos combativos, organizaciones de desocupados e izquierda",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores del Hospital Garrahan y comunidad universitaria",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir a la CGT que rompa la tregua con el Gobierno y convoque a paro nacional contra el ajuste",
-            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
+            "motivo": "Rechazo al veto presidencial y defensa de salud pública y educación",
+            "fuente": "https://prensaobrera.com/politicas/el-garrahan-va-al-paro-contra-el-veto-de-milei, https://prensaobrera.com/politicas/son-muchas-las-razones-para-movilizar-este-12-de-septiembre-contra-el-ajuste, https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "15:30",
-            "lugar": "Congreso Nacional",
-            "quien": "Sindicalismo combativo",
+            "lugar": "Plaza de Mayo",
+            "quien": "Sindicatos combativos, organizaciones de desocupados e izquierda",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a las políticas de ajuste del gobierno nacional, incluyendo despidos, recortes salariales, vetos a leyes sociales (universidades, Garrahan) y medidas económicas recesivas",
-            "fuente": "https://prensaobrera.com/politicas/son-muchas-las-razones-para-movilizar-este-12-de-septiembre-contra-el-ajuste, https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
+            "motivo": "Exigir a la CGT que rompa la tregua con el Gobierno y convoque a paro nacional contra el ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
         },
         {
             "es_evento_relevante": true,
@@ -430,6 +430,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Llamado a la paz en la Franja de Gaza",
             "fuente": "https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "UJS (Unión Juvenil Socialista)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el veto a la ley de financiamiento universitario y por el 'Fuera Milei'",
+            "fuente": "https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
         }
     ]
 }
