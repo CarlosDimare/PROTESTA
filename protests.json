@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T20:13:46.014410-03:00",
+    "last_updated": "2025-09-10T22:05:57.224179-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -345,6 +345,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "FEDUN y gremios docentes (CTERA, FAGUDT, CONADU, CONADU histórica, FATUN, UDA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y defensa de la educación pública",
+            "fuente": "https://www.infobae.com/politica/2025/09/10/los-docentes-universitarios-convocaron-a-un-paro-en-rechazo-al-veto-de-milei-a-la-ley-de-financiamiento/, https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "18:00",
             "lugar": "Córdoba capital",
             "quien": "Upec-Capital, Sutna, Polo Obrero y organizaciones sindicales combativas",
             "tipo_medida": "Marcha",
@@ -380,16 +390,6 @@
             "tipo_medida": "Movilización",
             "motivo": "En reclamo de un paro general de 36 horas, contra el ajuste de Milei, los gobernadores y el FMI, y por diversos reclamos sociales (aumento para jubilados, paritarias, etc.)",
             "fuente": "https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-12",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Sindicato combativo / Plenario del sindicalismo combativo",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo de aumento salarial y presupuesto, y oposición al gobierno de Milei",
-            "fuente": "https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha"
         },
         {
             "es_evento_relevante": true,
