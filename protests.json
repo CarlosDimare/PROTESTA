@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T16:12:33.274658-03:00",
+    "last_updated": "2025-09-11T17:16:04.388230-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -335,21 +335,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "07:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "Trabajadores del Hospital Garrahan (APYT y ATE-Garrahan)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Rechazo al veto presidencial a la ley de financiamiento para el Hospital Garrahan y universidades públicas",
-            "fuente": "https://www.pagina12.com.ar/857077-paro-y-ruidazo-nacional-contra-el-veto-de-milei-al-garrahan, https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
+            "lugar": "Hospital Garrahan",
+            "quien": "Asociación de Trabajadores del Estado (ATE) y Asociación Civil y Gremial de Profesionales y Técnicos (APyT)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al veto presidencial a la ley de emergencia en pediatría y financiamiento universitario, por desamparo laboral, fuga de personal y deterioro de recursos",
+            "fuente": "https://www.infobae.com/politica/2025/09/11/los-trabajadores-del-hospital-garrahan-anunciaron-un-nuevo-paro-tras-el-veto-del-gobierno-a-la-emergencia-en-pediatria/, https://www.laizquierdadiario.com/No-al-veto-asamblea-de-trabajadores-del-Garrahan-convoca-a-un-paro-el-proximo-viernes, https://www.datagremial.com/informacion-general/contra-el-veto-a-la-emergencia-pediatrica-los-trabajadores-del-hospital-garrahan-vuelven-al-paro-20259417540"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "07:00",
-            "lugar": "Hospital Garrahan",
-            "quien": "Trabajadores del Garrahan",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo al veto presidencial a la ley de emergencia pediátrica y reclamos salariales",
-            "fuente": "https://www.laizquierdadiario.com/No-al-veto-asamblea-de-trabajadores-del-Garrahan-convoca-a-un-paro-el-proximo-viernes, https://www.datagremial.com/informacion-general/contra-el-veto-a-la-emergencia-pediatrica-los-trabajadores-del-hospital-garrahan-vuelven-al-paro-20259417540"
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores del Hospital Garrahan (APYT y ATE-Garrahan)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento para el Hospital Garrahan y universidades públicas",
+            "fuente": "https://www.pagina12.com.ar/857077-paro-y-ruidazo-nacional-contra-el-veto-de-milei-al-garrahan, https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
         },
         {
             "es_evento_relevante": true,
