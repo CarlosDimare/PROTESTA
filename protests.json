@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-10T22:05:57.224179-03:00",
+    "last_updated": "2025-09-10T23:58:46.897993-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -300,6 +300,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamos salariales y laborales, contra despidos y por condiciones de trabajo",
             "fuente": "https://prensaobrera.com/sindicales/gran-marcha-en-san-nicolas-de-los-trabajadores-de-ternium"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "00:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Frente Sindical Universitario y comunidad universitaria",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Contra el veto al financiamiento universitario",
+            "fuente": "https://www.anred.org/el-gobierno-veto-la-ley-de-financiamiento-universitario-y-se-anuncia-la-tercer-marcha-universitaria/"
         },
         {
             "es_evento_relevante": true,
