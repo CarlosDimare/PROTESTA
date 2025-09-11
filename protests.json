@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T12:15:16.722955-03:00",
+    "last_updated": "2025-09-11T13:20:27.109216-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -325,6 +325,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "07:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores del Hospital Garrahan (APYT y ATE-Garrahan)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento para el Hospital Garrahan y universidades públicas",
+            "fuente": "https://www.pagina12.com.ar/857077-paro-y-ruidazo-nacional-contra-el-veto-de-milei-al-garrahan, https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "07:00",
             "lugar": "Hospital Garrahan",
             "quien": "Trabajadores del Garrahan",
             "tipo_medida": "Movilización",
@@ -354,16 +364,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
-            "horario": "15:30",
-            "lugar": "Plaza de Mayo",
-            "quien": "Sindicatos combativos, organizaciones de desocupados e izquierda",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir a la CGT que rompa la tregua con el Gobierno y convoque a paro nacional contra el ajuste",
-            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-los-vetos-y-por-paro-nacional-el-sindicalismo-combativo-marchara-a-Plaza-de-Mayo"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-12",
             "horario": "18:00",
             "lugar": "Córdoba capital",
             "quien": "Upec-Capital, Sutna, Polo Obrero y organizaciones sindicales combativas",
@@ -380,6 +380,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de justicia por la represión sufrida por Pablo Grillo y denuncia de actuación policial",
             "fuente": "https://www.pagina12.com.ar/855982-el-reclamo-de-justicia-por-pablo-grillo-presente-en-la-jorna"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "No especificado",
+            "lugar": "Argentina",
+            "quien": "Federación de las Universidades Nacionales (FEDUN), CTERA, FAGUDT, CONADU, CONADU Histórica, FATUN y UDA",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y crítica situación salarial",
+            "fuente": "https://www.infobae.com/politica/2025/09/11/tras-el-veto-a-la-ley-de-financiamiento-la-uba-iniciara-un-plan-de-restriccion/"
         },
         {
             "es_evento_relevante": true,
