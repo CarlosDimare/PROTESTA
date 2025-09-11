@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T14:14:44.877901-03:00",
+    "last_updated": "2025-09-11T15:19:42.311346-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -360,6 +360,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Muestra de fuerza por desconfianza hacia el gobierno nacional, reclamo de recursos adeudados y crítica a la gestión presidencial",
             "fuente": "https://www.infobae.com/politica/2025/09/09/los-gobernadores-desconfian-de-la-mesa-de-dialogo-que-convoco-milei-y-preparan-una-muestra-de-fuerza-en-cordoba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "15:30",
+            "lugar": "Hospital Garrahan (punto de encuentro)",
+            "quien": "Gremios docentes y no docentes de UBA junto a trabajadores del Hospital Garrahan",
+            "tipo_medida": "Paro general y movilización",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y protesta por recortes presupuestarios",
+            "fuente": "https://www.pagina12.com.ar/857109-autoridades-de-las-universidades-convocaron-a-una-movilizaci, https://www.anred.org/trabajadores-del-garrahan-y-docentes-universitarios-desafian-a-milei-con-paro-y-movilizacion-si-hay-veto/"
         },
         {
             "es_evento_relevante": true,
