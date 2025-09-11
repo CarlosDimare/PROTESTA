@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T13:20:27.109216-03:00",
+    "last_updated": "2025-09-11T14:14:44.877901-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -300,6 +300,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamos salariales y laborales, contra despidos y por condiciones de trabajo",
             "fuente": "https://prensaobrera.com/sindicales/gran-marcha-en-san-nicolas-de-los-trabajadores-de-ternium"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "Gremios docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio al veto presidencial a leyes de financiamiento educativo y emergencia pediátrica",
+            "fuente": "https://www.infobae.com/politica/2025/09/11/que-medida-de-alto-impacto-preparan-los-sindicatos-con-el-aval-de-la-cgt-para-rechazar-el-veto-de-milei-a-dos-leyes-clave/"
         },
         {
             "es_evento_relevante": true,
