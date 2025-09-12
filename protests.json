@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T20:15:14.946513-03:00",
+    "last_updated": "2025-09-11T22:04:56.560249-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -324,16 +324,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
-            "horario": "00:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Frente Sindical Universitario y comunidad universitaria",
-            "tipo_medida": "Paro y Marcha",
-            "motivo": "Contra el veto al financiamiento universitario",
-            "fuente": "https://www.anred.org/el-gobierno-veto-la-ley-de-financiamiento-universitario-y-se-anuncia-la-tercer-marcha-universitaria/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-12",
             "horario": "07:00",
             "lugar": "Hospital Garrahan",
             "quien": "Asociación de Trabajadores del Estado (ATE) y Asociación Civil y Gremial de Profesionales y Técnicos (APyT)",
@@ -360,6 +350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Muestra de fuerza por desconfianza hacia el gobierno nacional, reclamo de recursos adeudados y crítica a la gestión presidencial",
             "fuente": "https://www.infobae.com/politica/2025/09/09/los-gobernadores-desconfian-de-la-mesa-de-dialogo-que-convoco-milei-y-preparan-una-muestra-de-fuerza-en-cordoba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "15:30",
+            "lugar": "Congreso de la Nación a Plaza de Mayo",
+            "quien": "Asociación Gremial Docente de la UBA y trabajadores del Hospital Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra del veto a la ley de financiamiento universitario",
+            "fuente": "https://www.infobae.com/politica/2025/09/11/los-docentes-universitarios-realizaran-la-primera-movilizacion-contra-el-veto-de-milei-y-preparan-una-nueva-marcha-federal/, https://www.anred.org/el-gobierno-veto-la-ley-de-financiamiento-universitario-y-se-anuncia-la-tercer-marcha-universitaria/, https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
         },
         {
             "es_evento_relevante": true,
@@ -423,13 +423,13 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2025-09-12",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional hasta Plaza de Mayo",
-            "quien": "Sindicatos combativos, movimientos piqueteros independientes y organizaciones de jubilados",
-            "tipo_medida": "Movilización",
-            "motivo": "En reclamo de un paro general de 36 horas, contra el ajuste de Milei, los gobernadores y el FMI, y por diversos reclamos sociales (aumento para jubilados, paritarias, etc.)",
-            "fuente": "https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
+            "fecha": "2025-09-17",
+            "horario": "18:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Estudiantes, docentes y no docentes universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto presidencial a la Ley de Financiamiento Universitario y oposición al ajuste del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
