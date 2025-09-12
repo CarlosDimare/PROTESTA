@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-12T15:21:26.563788-03:00",
+    "last_updated": "2025-09-12T16:13:27.321141-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -305,6 +305,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "00:00",
+            "lugar": "Sedes y plataformas digitales de la Universidad de Buenos Aires (UBA)",
+            "quien": "Gremios docentes y no docentes de la UBA",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y reclamo por presupuesto y salarios",
+            "fuente": "https://www.infobae.com/politica/2025/09/12/la-protesta-virtual-de-la-uba-contra-el-veto-de-milei-cerro-la-web-oficial-y-las-de-casi-todas-las-facultades/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "00:00",
             "lugar": "No especificado",
             "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
@@ -380,6 +390,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto presidencial y defensa de salud pública y educación",
             "fuente": "https://prensaobrera.com/politicas/el-garrahan-va-al-paro-contra-el-veto-de-milei, https://prensaobrera.com/politicas/son-muchas-las-razones-para-movilizar-este-12-de-septiembre-contra-el-ajuste, https://prensaobrera.com/sindicales/milei-no-tiene-mandato-para-vetar-al-garrahan-sus-trabajadores-paran-y-se-movilizan-el-12, https://prensaobrera.com/politicas/tras-el-golpe-electoral-es-el-momento-de-derrotar-a-milei-en-las-calles, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/gran-asamblea-de-ademys-hacia-las-elecciones-del-sindicato, https://www.eldestapeweb.com/politica/protestas/contra-el-veto-anunciado-por-milei-multiples-sectores-marchan-a-plaza-de-mayo-2025722165442"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-12",
+            "horario": "18:00",
+            "lugar": "Casa de Gobierno (desde Cólon y General Paz)",
+            "quien": "Movimiento obrero y estudiantil unificado (sindicatos, piqueteros, jubilados, UJS)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste de Milei, por presupuesto universitario y derechos laborales",
+            "fuente": "https://prensaobrera.com/universidad/universidad-de-cordoba-todxs-las-calles-para-enfrentar-el-veto-de-milei-en-defensa-de-la-educacion-publica"
         },
         {
             "es_evento_relevante": true,
