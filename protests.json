@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-12T08:12:53.862373-03:00",
+    "last_updated": "2025-09-12T09:29:33.901190-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -420,6 +420,16 @@
             "tipo_medida": "Paro Nacional y Marcha Masiva",
             "motivo": "Rechazo al veto presidencial a las leyes de Emergencia Pediátrica y Financiamiento Universitario",
             "fuente": "https://www.anred.org/trabajadores-del-garrahan-y-docentes-universitarios-desafian-a-milei-con-paro-y-movilizacion-si-hay-veto/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-15",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "ATE Garrahan, APyT y estudiantes universitarios",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a vetos del gobierno y reclamo por salarios y recursos para salud y educación",
+            "fuente": "https://www.infobae.com/politica/2025/09/12/los-trabajadores-del-hospital-garrahan-comenzaron-un-nuevo-paro-tras-el-veto-del-gobierno-a-la-emergencia-en-pediatria/"
         },
         {
             "es_evento_relevante": true,
