@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-11T22:04:56.560249-03:00",
+    "last_updated": "2025-09-11T23:24:38.272499-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -305,21 +305,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "00:00",
-            "lugar": "Todo el país",
-            "quien": "Gremios docentes universitarios",
+            "lugar": "No especificado",
+            "quien": "Comunidad educativa (estudiantes, docentes y rectores universitarios)",
             "tipo_medida": "Paro",
-            "motivo": "Repudio al veto presidencial a leyes de financiamiento educativo y emergencia pediátrica",
-            "fuente": "https://www.infobae.com/politica/2025/09/11/que-medida-de-alto-impacto-preparan-los-sindicatos-con-el-aval-de-la-cgt-para-rechazar-el-veto-de-milei-a-dos-leyes-clave/"
+            "motivo": "Defender la educación pública y resistir los vetos presidenciales a la Ley de Financiamiento Universitario y a la Emergencia en Pediatría",
+            "fuente": "https://www.pagina12.com.ar/857284-veto-a-las-universidades-y-al-garrahan-el-palacio-y-la-calle, https://prensaobrera.com/universidad/los-docentes-universitarios-rechazan-el-veto-de-milei-con-paro-y-movilizacion, https://www.infobae.com/politica/2025/09/11/yacobitti-si-no-logramos-revertir-el-veto-vamos-a-dejar-de-ver-a-las-universidades-publicas-tal-cual-las-conocemos/, https://www.infobae.com/politica/2025/09/10/los-docentes-universitarios-convocaron-a-un-paro-en-rechazo-al-veto-de-milei-a-la-ley-de-financiamiento/, https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Federaciones docentes y no docentes",
+            "lugar": "Todo el país",
+            "quien": "Gremios docentes universitarios",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y reclamo de recomposición salarial",
-            "fuente": "https://prensaobrera.com/universidad/los-docentes-universitarios-rechazan-el-veto-de-milei-con-paro-y-movilizacion, https://www.infobae.com/politica/2025/09/11/yacobitti-si-no-logramos-revertir-el-veto-vamos-a-dejar-de-ver-a-las-universidades-publicas-tal-cual-las-conocemos/, https://www.infobae.com/politica/2025/09/10/los-docentes-universitarios-convocaron-a-un-paro-en-rechazo-al-veto-de-milei-a-la-ley-de-financiamiento/, https://prensaobrera.com/universidad/clases-publicas-en-plaza-de-mayo-en-defensa-de-la-universidad-publica-ahora-mas-que-nunca-profundicemos-nuestra-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Repudio al veto presidencial a leyes de financiamiento educativo y emergencia pediátrica",
+            "fuente": "https://www.infobae.com/politica/2025/09/11/que-medida-de-alto-impacto-preparan-los-sindicatos-con-el-aval-de-la-cgt-para-rechazar-el-veto-de-milei-a-dos-leyes-clave/"
         },
         {
             "es_evento_relevante": true,
@@ -424,12 +424,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
-            "horario": "18:00",
+            "horario": "15:30",
             "lugar": "Congreso Nacional",
-            "quien": "Estudiantes, docentes y no docentes universitarios",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al veto presidencial a la Ley de Financiamiento Universitario y oposición al ajuste del gobierno",
-            "fuente": "https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "quien": "Estudiantes y docentes de la Facultad de Filosofía y Letras (UBA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra los vetos de Milei a las leyes de financiamiento universitario y pediatría, y en contra del ajuste del gobierno y el FMI",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
