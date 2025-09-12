@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-12T04:15:15.491326-03:00",
+    "last_updated": "2025-09-12T05:19:24.878803-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -355,11 +355,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-12",
             "horario": "15:30",
-            "lugar": "Congreso de la Nación a Plaza de Mayo",
-            "quien": "Asociación Gremial Docente de la UBA y trabajadores del Hospital Garrahan",
-            "tipo_medida": "Movilización",
-            "motivo": "En contra del veto a la ley de financiamiento universitario",
-            "fuente": "https://www.infobae.com/politica/2025/09/11/los-docentes-universitarios-realizaran-la-primera-movilizacion-contra-el-veto-de-milei-y-preparan-una-nueva-marcha-federal/, https://www.anred.org/el-gobierno-veto-la-ley-de-financiamiento-universitario-y-se-anuncia-la-tercer-marcha-universitaria/, https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
+            "lugar": "Congreso de la Nación hacia Plaza de Mayo",
+            "quien": "CECSo (Centro de Estudiantes de Ciencias Sociales) y sindicatos universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al veto presidencial a la Ley de Financiamiento Universitario y apoyo a trabajadores del Hospital Garrahan",
+            "fuente": "https://www.infobae.com/politica/2025/09/12/tomaron-la-facultad-de-filosofia-y-letras-de-la-uba-previo-al-paro-contra-el-veto-a-la-ley-de-financiamiento/, https://www.infobae.com/politica/2025/09/11/los-docentes-universitarios-realizaran-la-primera-movilizacion-contra-el-veto-de-milei-y-preparan-una-nueva-marcha-federal/, https://www.anred.org/el-gobierno-veto-la-ley-de-financiamiento-universitario-y-se-anuncia-la-tercer-marcha-universitaria/, https://prensaobrera.com/sindicales/es-el-momento-de-unificar-las-luchas-contra-el-gobierno-el-12-a-plaza-de-mayo-con-el-sindicalismo-combativo"
         },
         {
             "es_evento_relevante": true,
