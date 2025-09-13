@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-12T20:13:30.278564-03:00",
+    "last_updated": "2025-09-12T22:00:47.040253-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -480,6 +480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En contra de los vetos a la ley de financiamiento universitario y a la ley de emergencia pediátrica, y contra el plan de ajuste del gobierno",
             "fuente": "https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "La hora de inicio del evento de protesta es **09:30**.\n\n**Explicación:**\n- El texto indica que las clases públicas realizadas por los docentes de AGD-UBA, que fueron el eje de la manifestación en Plaza de Mayo, **comenzaron a las 9.30 de la mañana**. Este evento inició la protesta descrita para ese miércoles.\n- Las otras actividades mencionadas (como la movilización de los jubilados al mediodía o la futura marcha de los trabajadores de Garrahan) son acciones posteriores o relacionadas, pero no el inicio de la protesta principal.",
+            "lugar": "No especificado",
+            "quien": "Universidades, médicos (Garrahan), jubilados y trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra los vetos de Milei al financiamiento universitario y emergencia pediátrica, y en rechazo al plan de ajuste y políticas del FMI",
+            "fuente": "https://www.laizquierdadiario.com/Derrotemos-los-vetos-al-Garrahan-y-las-universidades-que-la-CGT-convoque-a-un-paro-general-el-17, https://www.eldestapeweb.com/politica/protestas/con-clases-publicas-universitarios-el-garrahan-y-jubilados-confluyen-en-una-protesta-en-plaza-de-mayo-2025910145513"
         },
         {
             "es_evento_relevante": true,
