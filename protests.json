@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-13T14:12:28.144726-03:00",
+    "last_updated": "2025-09-13T15:19:02.007869-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -546,10 +546,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Frente de Lucha por la Soberanía, el Trabajo Digno y el Salario Justo",
+            "quien": "Colectivos en defensa de la salud y educación",
             "tipo_medida": "Marcha",
-            "motivo": "Llamado a la paz en la Franja de Gaza",
-            "fuente": "https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+            "motivo": "Defensa de la universidad y salud pública por vetos a fondos para emergencia pediátrica y educación superior",
+            "fuente": "https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         },
         {
             "es_evento_relevante": true,
