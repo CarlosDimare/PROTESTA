@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-13T22:07:35.395898-03:00",
+    "last_updated": "2025-09-14T00:01:04.411964-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -480,6 +480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a vetos del gobierno y reclamo por salarios y recursos para salud y educación",
             "fuente": "https://www.infobae.com/politica/2025/09/12/los-trabajadores-del-hospital-garrahan-comenzaron-un-nuevo-paro-tras-el-veto-del-gobierno-a-la-emergencia-en-pediatria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "10:30",
+            "lugar": "Comodoro Py",
+            "quien": "Colectivo de afectados y organizaciones de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar justicia por los disparos sufridos durante protestas de jubilados y exigir rendición de cuentas de las fuerzas de seguridad",
+            "fuente": "https://www.pagina12.com.ar/857707-pablo-grillo-seis-meses-en-busqueda-de-justicia, https://www.anred.org/movilizan-a-comodoro-py-para-respaldar-la-apelacion-contra-los-procesamientos-al-polo-obrero/"
         },
         {
             "es_evento_relevante": true,
