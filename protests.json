@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-14T13:15:31.183662-03:00",
+    "last_updated": "2025-09-14T14:12:29.415289-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -505,11 +505,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "18:00",
-            "lugar": "Congreso de la Nación",
-            "quien": "Sindicatos universitarios de Santa Cruz (ADIUNPA y ATIUNPA)",
-            "tipo_medida": "Movilización",
-            "motivo": "Repudio al veto al financiamiento universitario que se tratará en el Congreso",
-            "fuente": "https://www.laizquierdadiario.com/Rio-Gallegos-hubo-marcha-unificada-de-docentes-junto-a-otros-gremios-en-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "lugar": "Congreso Nacional de la Nación",
+            "quien": "Comunidad universitaria (estudiantes, docentes y no docentes) a través del CIN y FUA",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la Ley de Financiamiento Universitario y rechazo al veto presidencial",
+            "fuente": "https://www.infobae.com/politica/2025/09/14/con-un-video-protagonizado-por-estudiantes-las-universidades-convocan-a-una-marcha-para-defender-le-ley-vetada-por-milei/, https://www.laizquierdadiario.com/Rio-Gallegos-hubo-marcha-unificada-de-docentes-junto-a-otros-gremios-en-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
