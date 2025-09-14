@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-13T20:13:50.980146-03:00",
+    "last_updated": "2025-09-13T22:07:35.395898-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -485,11 +485,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "15:30",
-            "lugar": "Congreso Nacional (CABA)",
-            "quien": "Trabajadores del Garrahan (ATE) y universitarios (UBA) en unidad con otros sectores",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al ajuste en salud y educación, contra políticas del gobierno y el FMI",
-            "fuente": "https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "lugar": "Congreso Nacional",
+            "quien": "Estudiantes, docentes y no docentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra los vetos a la ley de presupuesto para universidades y el Hospital Garrahan, reclamando mayor financiamiento",
+            "fuente": "https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
