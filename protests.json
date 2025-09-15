@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-15T08:14:05.989053-03:00",
+    "last_updated": "2025-09-15T09:33:13.749196-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -483,6 +483,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-09-16",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "UJS - Juventud del Partido Obrero y estudiantes secundarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de La Noche de los Lápices y protesta contra políticas educativas del gobierno (veto a financiamiento universitario, reforma BA Aprende, cierres de cursos, despidos docentes, no implementación de boleto educativo)",
+            "fuente": "https://prensaobrera.com/juventud/secundarios-a-49-anos-de-la-noche-de-los-lapices-el-kirchnerismo-de-la-ceb-rompe-una-marcha-de-unidad"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "10:30",
             "lugar": "Comodoro Py",
@@ -490,6 +500,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar justicia por los disparos sufridos durante protestas de jubilados y exigir rendición de cuentas de las fuerzas de seguridad",
             "fuente": "https://www.pagina12.com.ar/857707-pablo-grillo-seis-meses-en-busqueda-de-justicia, https://www.anred.org/movilizan-a-comodoro-py-para-respaldar-la-apelacion-contra-los-procesamientos-al-polo-obrero/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "14:00",
+            "lugar": "Plaza San Martín, Córdoba",
+            "quien": "Sindicatos combativos y organizaciones piqueteras",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto de Milei a la ley de financiamiento",
+            "fuente": "https://prensaobrera.com/sindicales/importante-marcha-de-sindicatos-combativos-y-las-luchas-populares-en-cordoba"
         },
         {
             "es_evento_relevante": true,
