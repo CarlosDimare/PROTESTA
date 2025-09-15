@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-15T19:16:05.778409-03:00",
+    "last_updated": "2025-09-15T20:14:15.758851-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -560,6 +560,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto de Milei a ley de financiamiento universitario",
             "fuente": "https://www.infobae.com/politica/2025/09/15/marcha-federal-universitaria-cuando-sera-en-que-lugares-del-pais-se-hara-y-las-agrupaciones-que-se-sumaran/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "18:00",
+            "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
+            "quien": "Federación Universitaria de Buenos Aires (FUBA) y actores del sistema educativo",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y reclamo por presupuesto actualizado por inflación",
+            "fuente": "https://www.infobae.com/politica/2025/09/15/docentes-de-la-uba-realizaron-clases-publicas-antes-de-la-marcha-contra-el-veto-a-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
