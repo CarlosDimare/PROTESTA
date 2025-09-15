@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-15T16:14:14.328952-03:00",
+    "last_updated": "2025-09-15T17:16:35.902113-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -526,10 +526,10 @@
             "fecha": "2025-09-17",
             "horario": "15:30",
             "lugar": "Congreso Nacional",
-            "quien": "Asamblea Interfacultades/Interclaustros de la UNC",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el veto a la Ley de Financiamiento Universitario y por aumento presupuestario y salarios",
-            "fuente": "https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "quien": "Prensa Obrera",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el Presupuesto 2026 de ajuste, los vetos a la mejora universitaria y la emergencia pediátrica, y por el rechazo a recortes en salud y educación",
+            "fuente": "https://prensaobrera.com/politicas/milei-anuncia-mas-motosierra-para-pagar-la-deuda-y-mas-deuda-para-sostener-la-fuga, https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
