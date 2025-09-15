@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-15T11:16:51.325866-03:00",
+    "last_updated": "2025-09-15T12:17:51.446039-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -524,6 +524,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
+            "horario": "16:00",
+            "lugar": "Alrededores del Congreso de la Nación",
+            "quien": "Estudiantes, docentes, no-docentes y trabajadores del Hospital Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al veto del gobierno a la Ley de Financiamiento Universitario y Ley de Emergencia Pediátrica para el Hospital Garrahan, en oposición a las políticas de ajuste",
+            "fuente": "https://prensaobrera.com/politicas/el-17-todos-al-congreso-para-rechazar-los-vetos-contra-la-universidad-y-el-garrahan"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
             "horario": "18:00",
             "lugar": "Congreso Nacional de la Nación",
             "quien": "Comunidad universitaria (estudiantes, docentes y no docentes) a través del CIN y FUA",
@@ -540,6 +550,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra los vetos de Milei al financiamiento universitario y emergencia pediátrica, y en rechazo al plan de ajuste y políticas del FMI",
             "fuente": "https://www.laizquierdadiario.com/Derrotemos-los-vetos-al-Garrahan-y-las-universidades-que-la-CGT-convoque-a-un-paro-general-el-17, https://www.eldestapeweb.com/politica/protestas/con-clases-publicas-universitarios-el-garrahan-y-jubilados-confluyen-en-una-protesta-en-plaza-de-mayo-2025910145513"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "La hora de inicio del evento de protesta es **12:00**.\n\n**Explicación:**  \nEl texto especifica claramente:  \n*\"El 9 de abril desde el mediodía comenzarán a concentrarse la CGT...\"*.  \n\"Mediodía\" equivale a las **12:00 horas**.",
+            "lugar": "Congreso",
+            "quien": "Universidades públicas argentinas",
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/sociedad/2025/09/15/el-decano-de-la-facultad-de-derecho-dio-una-clase-publica-y-la-uba-se-prepara-para-una-gran-movilizacion-el-proximo-miercoles/, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
         },
         {
             "es_evento_relevante": true,
