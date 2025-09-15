@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-15T13:19:23.279734-03:00",
+    "last_updated": "2025-09-15T14:16:06.580487-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -480,6 +480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a vetos del gobierno y reclamo por salarios y recursos para salud y educación",
             "fuente": "https://www.infobae.com/politica/2025/09/12/los-trabajadores-del-hospital-garrahan-comenzaron-un-nuevo-paro-tras-el-veto-del-gobierno-a-la-emergencia-en-pediatria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-16",
+            "horario": "12:00",
+            "lugar": "Córdoba",
+            "quien": "AGD y La Bordó",
+            "tipo_medida": "Corte",
+            "motivo": "defender la universidad y visibilizar el conflicto salarial",
+            "fuente": "https://prensaobrera.com/universidad/la-rebelion-universitaria-puede-tirar-abajo-el-veto"
         },
         {
             "es_evento_relevante": true,
