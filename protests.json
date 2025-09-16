@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-16T19:15:21.487408-03:00",
+    "last_updated": "2025-09-16T20:14:09.669557-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -534,22 +534,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
+            "horario": "13:00",
+            "lugar": "Congreso Nacional",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra los vetos de Milei al Garrahan y a la universidad",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-de-Milei-Marcha-este-miercoles-frente-al-Congreso-y-en-todo-el-pais, https://prensaobrera.com/politicas/el-miercoles-17-todo-el-pueblo-al-congreso, https://www.infobae.com/politica/2025/09/15/la-cgt-se-endurece-decidio-sumarse-a-la-marcha-al-congreso-contra-los-vetos-presidenciales/, https://prensaobrera.com/universidad/en-una-jornada-de-clases-publicas-en-toda-la-uba-convocan-a-movilizar-el-17-al-congreso-contra-el-veto, https://prensaobrera.com/politicas/milei-anuncia-mas-motosierra-para-pagar-la-deuda-y-mas-deuda-para-sostener-la-fuga, https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
             "horario": "14:00",
             "lugar": "Plaza San Martín, Córdoba",
             "quien": "Sindicatos combativos y organizaciones piqueteras",
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto de Milei a la ley de financiamiento",
             "fuente": "https://prensaobrera.com/sindicales/importante-marcha-de-sindicatos-combativos-y-las-luchas-populares-en-cordoba"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-17",
-            "horario": "15:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Movimiento popular en defensa del Garrahan y la universidad",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra los vetos al Garrahan y la universidad pública, por financiamiento y aumento salarial",
-            "fuente": "https://prensaobrera.com/politicas/el-miercoles-17-todo-el-pueblo-al-congreso, https://www.infobae.com/politica/2025/09/15/la-cgt-se-endurece-decidio-sumarse-a-la-marcha-al-congreso-contra-los-vetos-presidenciales/, https://prensaobrera.com/universidad/en-una-jornada-de-clases-publicas-en-toda-la-uba-convocan-a-movilizar-el-17-al-congreso-contra-el-veto, https://prensaobrera.com/politicas/milei-anuncia-mas-motosierra-para-pagar-la-deuda-y-mas-deuda-para-sostener-la-fuga, https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -565,6 +565,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "17:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "FUBA y organizaciones aliadas",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y exigencia de fondos para universidades, becas y paritarias",
+            "fuente": "https://www.infobae.com/politica/2025/09/16/un-funcionario-dijo-que-hubo-alumnos-de-la-uba-obligados-a-asistir-a-clases-publicas-y-una-docente-le-contesto/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "17:00",
             "lugar": "Congreso de la Nación, Buenos Aires",
             "quien": "Federación Universitaria de Buenos Aires (FUBA) y colectivos afines",
             "tipo_medida": "Marcha",
@@ -575,21 +585,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "18:00",
-            "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
-            "quien": "Federación Universitaria de Buenos Aires (FUBA) y actores del sistema educativo",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Agrupaciones estudiantiles (peronistas y de izquierda), sindicatos universitarios y Consejo Interuniversitario Nacional (CIN)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y reclamo por presupuesto actualizado por inflación",
-            "fuente": "https://www.infobae.com/politica/2025/09/15/docentes-de-la-uba-realizaron-clases-publicas-antes-de-la-marcha-contra-el-veto-a-la-ley-de-financiamiento-universitario/"
+            "motivo": "Rechazo al veto presidencial a la Ley de Financiamiento Universitario y Ley de Emergencia Pediátrica",
+            "fuente": "https://www.infobae.com/politica/2025/09/16/a-un-dia-de-la-marcha-universitaria-hubo-un-abrazo-simbolico-a-una-facultad-un-semaforazo-y-colegios-tomados/, https://www.infobae.com/politica/2025/09/14/con-un-video-protagonizado-por-estudiantes-las-universidades-convocan-a-una-marcha-para-defender-le-ley-vetada-por-milei/, https://www.laizquierdadiario.com/Rio-Gallegos-hubo-marcha-unificada-de-docentes-junto-a-otros-gremios-en-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "18:00",
-            "lugar": "Congreso Nacional de la Nación",
-            "quien": "Comunidad universitaria (estudiantes, docentes y no docentes) a través del CIN y FUA",
+            "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
+            "quien": "Federación Universitaria de Buenos Aires (FUBA) y actores del sistema educativo",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la Ley de Financiamiento Universitario y rechazo al veto presidencial",
-            "fuente": "https://www.infobae.com/politica/2025/09/14/con-un-video-protagonizado-por-estudiantes-las-universidades-convocan-a-una-marcha-para-defender-le-ley-vetada-por-milei/, https://www.laizquierdadiario.com/Rio-Gallegos-hubo-marcha-unificada-de-docentes-junto-a-otros-gremios-en-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y reclamo por presupuesto actualizado por inflación",
+            "fuente": "https://www.infobae.com/politica/2025/09/15/docentes-de-la-uba-realizaron-clases-publicas-antes-de-la-marcha-contra-el-veto-a-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
