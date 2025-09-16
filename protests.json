@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-16T08:13:35.802508-03:00",
+    "last_updated": "2025-09-16T09:30:21.149856-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -484,6 +484,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-16",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Trabajadores opositores a la CGT/CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al acuerdo salarial subyugante y defensa de salarios reales",
+            "fuente": "https://prensaobrera.com/sindicales/paritaria-camionera-la-entrega-de-hugo-moyano-es-la-orientacion-de-toda-la-burocracia-sindical, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-16",
             "horario": "12:00",
             "lugar": "Córdoba",
             "quien": "AGD y La Bordó",
@@ -610,6 +620,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a los vetos de Javier Milei a la Ley de Financiamiento Universitario y de Emergencia Pediátrica",
             "fuente": "https://www.laizquierdadiario.com/Marcha-a-Plaza-de-Mayo-en-vivo-movilizan-trabajadores-del-Garrahan-universidades-y-el-sindicalismo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-18",
+            "horario": "La hora de inicio del evento de protesta mencionado en el texto es **12:30**.",
+            "lugar": "Congreso Nacional",
+            "quien": "Coalición de estudiantes, docentes, sindicatos universitarios y rectores",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto del presidente Javier Milei a la Ley de Financiamiento Universitario y la Ley de Emergencia Pediátrica",
+            "fuente": "https://www.infobae.com/politica/2025/09/16/tomaron-el-colegio-nacional-buenos-aires-y-se-esperan-mas-protestas-antes-de-la-marcha-universitaria/, https://www.infobae.com/politica/2025/09/16/tomaron-el-colegio-nacional-buenos-aires-y-se-esperan-mas-protestas-antes-de-la-marcha-universitaria/"
         },
         {
             "es_evento_relevante": true,
