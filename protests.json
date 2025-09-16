@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-16T09:30:21.149856-03:00",
+    "last_updated": "2025-09-16T10:26:30.282868-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -486,10 +486,10 @@
             "fecha": "2025-09-16",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Trabajadores opositores a la CGT/CTA",
+            "quien": "Docentes y alumnos de la UBA",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo al acuerdo salarial subyugante y defensa de salarios reales",
-            "fuente": "https://prensaobrera.com/sindicales/paritaria-camionera-la-entrega-de-hugo-moyano-es-la-orientacion-de-toda-la-burocracia-sindical, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
+            "motivo": "Rechazo al presupuesto 2026 por recortes, deterioro salarial y falta de actualización de becas",
+            "fuente": "https://www.infobae.com/politica/2025/09/16/la-uba-cuestiono-el-presupuesto-2026-anunciado-por-milei-y-advirtio-sobre-el-agravamiento-de-la-crisis-universitaria/, https://prensaobrera.com/sindicales/paritaria-camionera-la-entrega-de-hugo-moyano-es-la-orientacion-de-toda-la-burocracia-sindical, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
         },
         {
             "es_evento_relevante": true,
