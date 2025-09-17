@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-17T09:30:07.717065-03:00",
+    "last_updated": "2025-09-17T10:24:37.566011-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -530,6 +530,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar justicia por los disparos sufridos durante protestas de jubilados y exigir rendición de cuentas de las fuerzas de seguridad",
             "fuente": "https://www.pagina12.com.ar/857707-pablo-grillo-seis-meses-en-busqueda-de-justicia, https://www.anred.org/movilizan-a-comodoro-py-para-respaldar-la-apelacion-contra-los-procesamientos-al-polo-obrero/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "13:00",
+            "lugar": "Plaza del Congreso, Buenos Aires",
+            "quien": "Conjunto de organizaciones estudiantiles, gremiales y sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a vetos presidenciales que afectan educación y salud pública",
+            "fuente": "https://www.pagina12.com.ar/858507-marcha-federal-universitaria-bullrich-envia-1-100-efectivos-"
         },
         {
             "es_evento_relevante": true,
