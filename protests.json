@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-17T13:19:06.008374-03:00",
+    "last_updated": "2025-09-17T14:13:52.033458-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -554,16 +554,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
-            "horario": "15:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Sindicatos de médicos y personal sanitario del Hospital Garrahan, ATE Garrahan y organizaciones universitarias, sindicales, estudiantiles, sociales y políticas",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir la insistencia en la Ley de Emergencia Pediátrica y Ley de Financiamiento Universitario, en rechazo al veto presidencial",
-            "fuente": "https://www.infobae.com/politica/2025/09/17/comenzo-el-paro-en-el-hospital-garrahan-en-apoyo-a-la-insistencia-de-la-ley-de-emergencia-pediatrica/, https://www.infobae.com/politica/2025/09/17/en-el-gobierno-son-pesimistas-frente-a-la-sesion-por-los-vetos-en-diputados-pero-relativizan-el-impacto-de-la-marcha-federal/, https://www.laizquierdadiario.com/Contra-el-ajuste-de-Milei-Marcha-este-miercoles-frente-al-Congreso-y-en-todo-el-pais, https://prensaobrera.com/politicas/el-miercoles-17-todo-el-pueblo-al-congreso, https://www.infobae.com/politica/2025/09/15/la-cgt-se-endurece-decidio-sumarse-a-la-marcha-al-congreso-contra-los-vetos-presidenciales/, https://prensaobrera.com/universidad/en-una-jornada-de-clases-publicas-en-toda-la-uba-convocan-a-movilizar-el-17-al-congreso-contra-el-veto, https://prensaobrera.com/politicas/milei-anuncia-mas-motosierra-para-pagar-la-deuda-y-mas-deuda-para-sostener-la-fuga, https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-17",
             "horario": "16:00",
             "lugar": "Frente al Congreso Nacional",
             "quien": "Gremios docentes, federaciones estudiantiles, sindicatos (CGT, CTA), médicos del Garrahan, movimientos sociales y jubilados",
@@ -580,6 +570,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al veto del gobierno a la Ley de Financiamiento Universitario y Ley de Emergencia Pediátrica para el Hospital Garrahan, en oposición a las políticas de ajuste",
             "fuente": "https://prensaobrera.com/politicas/el-17-todos-al-congreso-para-rechazar-los-vetos-contra-la-universidad-y-el-garrahan"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores del Garrahan y comunidad universitaria",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a los vetos de Milei a la Ley de Emergencia Pediátrica y Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Comenzo-la-jornada-de-lucha-movilizacion-al-Congreso-contra-los-vetos-al-Garrahan-y-Universidad, https://www.infobae.com/politica/2025/09/17/comenzo-el-paro-en-el-hospital-garrahan-en-apoyo-a-la-insistencia-de-la-ley-de-emergencia-pediatrica/, https://www.infobae.com/politica/2025/09/17/en-el-gobierno-son-pesimistas-frente-a-la-sesion-por-los-vetos-en-diputados-pero-relativizan-el-impacto-de-la-marcha-federal/, https://www.laizquierdadiario.com/Contra-el-ajuste-de-Milei-Marcha-este-miercoles-frente-al-Congreso-y-en-todo-el-pais, https://prensaobrera.com/politicas/el-miercoles-17-todo-el-pueblo-al-congreso, https://www.infobae.com/politica/2025/09/15/la-cgt-se-endurece-decidio-sumarse-a-la-marcha-al-congreso-contra-los-vetos-presidenciales/, https://prensaobrera.com/universidad/en-una-jornada-de-clases-publicas-en-toda-la-uba-convocan-a-movilizar-el-17-al-congreso-contra-el-veto, https://prensaobrera.com/politicas/milei-anuncia-mas-motosierra-para-pagar-la-deuda-y-mas-deuda-para-sostener-la-fuga, https://prensaobrera.com/universidad/universidad-de-cordoba-asamblea-interfacultades-debatio-como-derrotar-el-veto-de-milei-y-preparar-la-marcha-federal, https://www.laizquierdadiario.com/Estudiantes-de-Filo-UBA-contra-el-veto-Que-la-CGT-se-ponga-las-pilas-es-hora-de-un-paro-general, https://www.laizquierdadiario.com/Estudiante-y-camillero-del-Garrahan-reclaman-paro-a-la-CGT-el-17-contra-los-vetos, https://www.laizquierdadiario.com/El-plan-del-Gobierno-no-va-mas-preparemos-una-gran-movilizacion-contra-los-vetos-de-Milei, https://www.laizquierdadiario.com/Asamblea-de-Filosofia-y-Letras-voto-ocupacion-clases-publicas-y-marcha-el-17-contra-vetos-de-Milei, https://www.laizquierdadiario.com/Christian-Castillo-ante-el-veto-Vamos-por-una-movilizacion-contundente-que-derrote-el-plan-de-Milei, https://www.laizquierdadiario.com/UBA-y-UNA-asambleas-votan-plan-de-lucha-hacia-la-marcha-del-17-contra-el-veto-a-la-ley-de, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html, https://www.laizquierdadiario.com/Marcha-a-Plaza-de-Mayo-en-vivo-movilizan-trabajadores-del-Garrahan-universidades-y-el-sindicalismo"
         },
         {
             "es_evento_relevante": true,
@@ -610,16 +610,6 @@
             "tipo_medida": "Marcha",
             "motivo": "En defensa de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/sociedad/2025/09/15/el-decano-de-la-facultad-de-derecho-dio-una-clase-publica-y-la-uba-se-prepara-para-una-gran-movilizacion-el-proximo-miercoles/, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-17",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional a Plaza de Mayo",
-            "quien": "Sectores de la comunidad educativa universitaria, trabajadores del Hospital Garrahan y el sindicalismo combativo",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio a los vetos de Javier Milei a la Ley de Financiamiento Universitario y de Emergencia Pediátrica",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-a-Plaza-de-Mayo-en-vivo-movilizan-trabajadores-del-Garrahan-universidades-y-el-sindicalismo"
         },
         {
             "es_evento_relevante": true,
