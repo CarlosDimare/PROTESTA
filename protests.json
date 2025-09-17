@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-17T15:20:30.305935-03:00",
+    "last_updated": "2025-09-17T16:11:52.350051-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -585,6 +585,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-17",
             "horario": "17:00",
+            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
+            "quien": "Estudiantes, docentes y agrupaciones universitarias",
+            "tipo_medida": "Marcha Federal Universitaria",
+            "motivo": "Rechazo al veto presidencial a la Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/politica/2025/09/17/marcha-federal-universitaria-como-son-las-principales-movilizaciones-en-el-interior-del-pais/, https://www.infobae.com/politica/2025/09/15/docentes-de-la-uba-realizaron-clases-publicas-antes-de-la-marcha-contra-el-veto-a-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-17",
+            "horario": "17:00",
             "lugar": "Congreso Nacional",
             "quien": "Trabajadores del Garrahan y comunidad universitaria",
             "tipo_medida": "Movilización",
@@ -600,16 +610,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto presidencial al financiamiento universitario y emergencia pediátrica",
             "fuente": "https://www.infobae.com/politica/2025/09/17/marcha-universitaria-en-vivo-las-ultimas-noticias-sobre-la-movilizacion-contra-los-vetos-de-milei/, https://www.infobae.com/politica/2025/09/17/marcha-federal-universitaria-cuales-seran-los-puntos-donde-se-concentraran-las-distintas-agrupaciones/, https://www.infobae.com/politica/2025/09/17/con-un-apagon-las-universidades-iniciaron-los-reclamos-cuales-son-los-puntos-donde-concentraran-por-la-marcha-federal/, https://www.infobae.com/politica/2025/09/16/un-funcionario-dijo-que-hubo-alumnos-de-la-uba-obligados-a-asistir-a-clases-publicas-y-una-docente-le-contesto/, https://www.infobae.com/politica/2025/09/16/marcha-federal-universitaria-piqueteros-y-movimientos-sociales-se-suman-a-las-protestas-contra-el-gobierno/, https://www.laizquierdadiario.com/Derrotemos-los-vetos-al-Garrahan-y-las-universidades-que-la-CGT-convoque-a-un-paro-general-el-17, https://www.eldestapeweb.com/politica/protestas/con-clases-publicas-universitarios-el-garrahan-y-jubilados-confluyen-en-una-protesta-en-plaza-de-mayo-2025910145513, https://www.infobae.com/politica/2025/09/17/milei-hablo-antes-de-la-marcha-por-la-educacion-decian-que-iba-a-cerrar-las-universidades-y-eso-nunca-ocurrio/, https://www.infobae.com/politica/2025/09/16/a-un-dia-de-la-marcha-universitaria-hubo-un-abrazo-simbolico-a-una-facultad-un-semaforazo-y-colegios-tomados/, https://www.infobae.com/politica/2025/09/14/con-un-video-protagonizado-por-estudiantes-las-universidades-convocan-a-una-marcha-para-defender-le-ley-vetada-por-milei/, https://www.laizquierdadiario.com/Rio-Gallegos-hubo-marcha-unificada-de-docentes-junto-a-otros-gremios-en-lucha, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-17",
-            "horario": "18:00",
-            "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
-            "quien": "Federación Universitaria de Buenos Aires (FUBA) y actores del sistema educativo",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al veto presidencial a la ley de financiamiento universitario y reclamo por presupuesto actualizado por inflación",
-            "fuente": "https://www.infobae.com/politica/2025/09/15/docentes-de-la-uba-realizaron-clases-publicas-antes-de-la-marcha-contra-el-veto-a-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
