@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-17T05:20:22.653073-03:00",
+    "last_updated": "2025-09-17T06:17:04.234679-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -576,10 +576,10 @@
             "fecha": "2025-09-17",
             "horario": "17:00",
             "lugar": "Congreso de la Nación",
-            "quien": "Agrupaciones estudiantiles, docentes, no docentes, ATE, AABA, trabajadores del Hospital Garrahan, Polo Obrero (PO), Movimiento Socialista de los Trabajadores (MST), Unión de Trabajadores de la Economía Popular (UTEP)",
+            "quien": "Coalición de agrupaciones universitarias, sindicales y sociales (incluyendo ATE, AABA, trabajadores de Garrahan, Polo Obrero, MST y UTEP)",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo contra el veto al financiamiento universitario y situación presupuestaria de las universidades públicas",
-            "fuente": "https://www.infobae.com/politica/2025/09/17/con-un-apagon-las-universidades-iniciaron-los-reclamos-cuales-son-los-puntos-donde-concentraran-por-la-marcha-federal/, https://www.infobae.com/politica/2025/09/16/un-funcionario-dijo-que-hubo-alumnos-de-la-uba-obligados-a-asistir-a-clases-publicas-y-una-docente-le-contesto/, https://www.infobae.com/politica/2025/09/16/marcha-federal-universitaria-piqueteros-y-movimientos-sociales-se-suman-a-las-protestas-contra-el-gobierno/, https://www.laizquierdadiario.com/Derrotemos-los-vetos-al-Garrahan-y-las-universidades-que-la-CGT-convoque-a-un-paro-general-el-17, https://www.eldestapeweb.com/politica/protestas/con-clases-publicas-universitarios-el-garrahan-y-jubilados-confluyen-en-una-protesta-en-plaza-de-mayo-2025910145513"
+            "motivo": "Reclamo contra el veto al financiamiento universitario y situación presupuestaria, bajo el lema 'Nuestro futuro no se veta'",
+            "fuente": "https://www.infobae.com/politica/2025/09/17/marcha-federal-universitaria-cuales-seran-los-puntos-donde-se-concentraran-las-distintas-agrupaciones/, https://www.infobae.com/politica/2025/09/17/con-un-apagon-las-universidades-iniciaron-los-reclamos-cuales-son-los-puntos-donde-concentraran-por-la-marcha-federal/, https://www.infobae.com/politica/2025/09/16/un-funcionario-dijo-que-hubo-alumnos-de-la-uba-obligados-a-asistir-a-clases-publicas-y-una-docente-le-contesto/, https://www.infobae.com/politica/2025/09/16/marcha-federal-universitaria-piqueteros-y-movimientos-sociales-se-suman-a-las-protestas-contra-el-gobierno/, https://www.laizquierdadiario.com/Derrotemos-los-vetos-al-Garrahan-y-las-universidades-que-la-CGT-convoque-a-un-paro-general-el-17, https://www.eldestapeweb.com/politica/protestas/con-clases-publicas-universitarios-el-garrahan-y-jubilados-confluyen-en-una-protesta-en-plaza-de-mayo-2025910145513"
         },
         {
             "es_evento_relevante": true,
