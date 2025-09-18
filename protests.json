@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-18T16:13:07.760714-03:00",
+    "last_updated": "2025-09-18T17:16:49.884632-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -680,6 +680,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia desvío de fondos públicos y eliminación de comedores populares contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "16:00",
+            "lugar": "Trelew, casa Socialista",
+            "quien": "PTS en el Frente de Izquierda",
+            "tipo_medida": "Asamblea abierta",
+            "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
         },
         {
             "es_evento_relevante": true,
