@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-18T18:14:14.239536-03:00",
+    "last_updated": "2025-09-18T19:13:55.081041-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -660,6 +660,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a recortes presupuestarios y políticas de austeridad",
             "fuente": "https://www.laizquierdadiario.com/Huelga-general-en-Francia-contra-el-ajuste-y-cientos-de-miles-en-las-calles"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-19",
+            "horario": "10:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "ATE Garrahan (Junta Interna)",
+            "tipo_medida": "Movilización",
+            "motivo": "Derrotar el vaciamiento del hospital, recomponer salarios y exigir aplicación efectiva de leyes",
+            "fuente": "https://prensaobrera.com/sindicales/el-garrahan-prepara-nuevas-acciones-para-arrancar-el-rechazo-definitivo-al-veto-de-milei"
         },
         {
             "es_evento_relevante": true,
