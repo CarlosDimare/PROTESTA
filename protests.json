@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-18T14:14:57.666015-03:00",
+    "last_updated": "2025-09-18T15:22:57.709180-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -514,6 +514,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-16",
+            "horario": "16:00",
+            "lugar": "Plaza Olazábal, 7 y 38, La Plata",
+            "quien": "Organismos de derechos humanos y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del 49 aniversario de la Noche de los Lápices y protesta contra el gobierno",
+            "fuente": "https://www.anred.org/la-plata-masiva-marcha-estudiantil-a-49-anos-de-la-noche-de-los-lapices/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-16",
             "horario": "No especificado",
             "lugar": "Ministerio de Desarrollo Social",
             "quien": "Frente de Lucha Piquetero",
@@ -640,6 +650,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto del presidente Javier Milei a la Ley de Financiamiento Universitario y la Ley de Emergencia Pediátrica",
             "fuente": "https://www.infobae.com/politica/2025/09/16/tomaron-el-colegio-nacional-buenos-aires-y-se-esperan-mas-protestas-antes-de-la-marcha-universitaria/, https://www.infobae.com/politica/2025/09/16/tomaron-el-colegio-nacional-buenos-aires-y-se-esperan-mas-protestas-antes-de-la-marcha-universitaria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-18",
+            "horario": "No especificado",
+            "lugar": "París",
+            "quien": "CGT y sindicatos franceses",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a recortes presupuestarios y políticas de austeridad",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-general-en-Francia-contra-el-ajuste-y-cientos-de-miles-en-las-calles"
         },
         {
             "es_evento_relevante": true,
