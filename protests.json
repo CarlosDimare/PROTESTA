@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T16:12:00.654704-03:00",
+    "last_updated": "2025-09-19T17:15:46.152163-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -690,6 +690,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Conmemoración de 100 días de detención domiciliaria de Cristina Kirchner, considerando su condena como ilegal y proscriptiva",
             "fuente": "https://www.infobae.com/politica/2025/09/19/el-kirchnerismo-busca-una-movilizacion-contundente-por-cfk-sin-la-certeza-de-si-ira-el-sector-de-kicillof/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-22",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato de la Alimentación (STIA) Buenos Aires",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de mejora salarial ante oferta del 3% desde octubre y rechazo a la inflación acumulada de agosto-septiembre",
+            "fuente": "https://www.infobae.com/politica/2025/09/19/un-sindicato-clave-de-la-industria-rechazo-los-topes-salariales-y-hara-paros-que-afectaran-la-produccion/"
         },
         {
             "es_evento_relevante": true,
