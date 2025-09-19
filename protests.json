@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T02:14:20.173290-03:00",
+    "last_updated": "2025-09-19T03:22:33.548974-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -680,6 +680,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al veto presidencial a la Ley de Financiamiento Universitario y protesta contra recortes presupuestarios en educación",
             "fuente": "https://www.infobae.com/politica/2025/09/18/estudiantes-levantaran-la-toma-en-el-nacional-buenos-aires-luego-de-la-votacion-en-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-20",
+            "horario": "16:00",
+            "lugar": "Esquina San José 1111, Buenos Aires",
+            "quien": "Kirchnerismo (liderado por La Cámpora y otros espacios)",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración de 100 días de detención domiciliaria de Cristina Kirchner, considerando su condena como ilegal y proscriptiva",
+            "fuente": "https://www.infobae.com/politica/2025/09/19/el-kirchnerismo-busca-una-movilizacion-contundente-por-cfk-sin-la-certeza-de-si-ira-el-sector-de-kicillof/"
         },
         {
             "es_evento_relevante": true,
