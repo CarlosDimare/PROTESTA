@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T19:14:11.193781-03:00",
+    "last_updated": "2025-09-19T20:14:16.757234-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -690,6 +690,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Conmemoración de 100 días de detención domiciliaria de Cristina Kirchner, considerando su condena como ilegal y proscriptiva",
             "fuente": "https://www.infobae.com/politica/2025/09/19/el-kirchnerismo-busca-una-movilizacion-contundente-por-cfk-sin-la-certeza-de-si-ira-el-sector-de-kicillof/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-20",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Argentina con Cristina",
+            "tipo_medida": "Movilización",
+            "motivo": "Respaldar a Cristina Kirchner tras 100 días de prisión domiciliaria bajo el reclamo de su libertad",
+            "fuente": "https://www.infobae.com/politica/2025/09/19/el-peronismo-se-mostro-unido-antes-de-la-marcha-por-cfk-y-busca-apuntalar-la-candidatura-de-taiana/"
         },
         {
             "es_evento_relevante": true,
