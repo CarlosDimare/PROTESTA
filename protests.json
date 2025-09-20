@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T20:14:16.757234-03:00",
+    "last_updated": "2025-09-19T22:00:46.826132-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -660,6 +660,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a recortes presupuestarios y políticas de austeridad",
             "fuente": "https://www.laizquierdadiario.com/Huelga-general-en-Francia-contra-el-ajuste-y-cientos-de-miles-en-las-calles"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-19",
+            "horario": "10:00",
+            "lugar": "Plaza Congreso",
+            "quien": "Trabajadores del Hospital Garrahan, universidades, sindicatos (CTA Autónoma, CTA de los Trabajadores, AGD-UBA, Conadu Histórica, Fedun, FUA, Fatun, CGT), organizaciones sociales (Polo Obrero, MTR 12 de Abril) y federaciones estudiantiles",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a los vetos presidenciales a las leyes de financiamiento universitario y emergencia pediátrica, y exigencia de fondos para educación y salud pública",
+            "fuente": "https://prensaobrera.com/politicas/la-plaza-congreso-se-copa-con-el-rechazo-a-los-vetos-al-garrahan-y-las-universidades"
         },
         {
             "es_evento_relevante": true,
