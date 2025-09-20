@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T22:00:46.826132-03:00",
+    "last_updated": "2025-09-19T23:20:17.172683-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -720,6 +720,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de mejora salarial ante oferta del 3% desde octubre y rechazo a la inflación acumulada de agosto-septiembre",
             "fuente": "https://www.infobae.com/politica/2025/09/19/un-sindicato-clave-de-la-industria-rechazo-los-topes-salariales-y-hara-paros-que-afectaran-la-produccion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-23",
+            "horario": "00:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Trabajadoras y trabajadores del hospital Garrahan",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir aumento salarial de emergencia con recursos propios del hospital y respuesta urgente al gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Tras-el-triunfo-en-Diputados-el-Garrahan-va-a-un-paro-de-48-horas"
         },
         {
             "es_evento_relevante": true,
