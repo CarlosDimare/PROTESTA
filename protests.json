@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-20T08:11:10.826547-03:00",
+    "last_updated": "2025-09-20T09:26:40.738729-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -710,6 +710,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Respaldar a Cristina Kirchner tras 100 días de prisión domiciliaria bajo el reclamo de su libertad",
             "fuente": "https://www.infobae.com/politica/2025/09/19/el-peronismo-se-mostro-unido-antes-de-la-marcha-por-cfk-y-busca-apuntalar-la-candidatura-de-taiana/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-21",
+            "horario": "No especificado",
+            "lugar": "San José 1111",
+            "quien": "La Cámpora y aliados",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la condena a Cristina Kirchner y en apoyo a su situación, marcando 100 días de arresto domiciliario",
+            "fuente": "https://www.infobae.com/politica/2025/09/20/el-kirchnerismo-se-movilizara-a-la-casa-de-cristina-kirchner-al-cumplirse-100-dias-de-su-detencion-domiciliaria/"
         },
         {
             "es_evento_relevante": true,
