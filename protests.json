@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-19T23:20:17.172683-03:00",
+    "last_updated": "2025-09-20T00:24:13.968930-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -740,6 +740,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia desvío de fondos públicos y eliminación de comedores populares contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "10:00",
+            "lugar": "Facultad de Exactas UBA",
+            "quien": "AGD-UBA",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y contra el vaciamiento de la educación pública",
+            "fuente": "https://prensaobrera.com/politicas/laura-carboni-un-porcentaje-muy-importante-de-la-sociedad-acompana-el-reclamo-de-las-universidades"
         },
         {
             "es_evento_relevante": true,
