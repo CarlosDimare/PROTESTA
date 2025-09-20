@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-20T14:10:49.684717-03:00",
+    "last_updated": "2025-09-20T15:18:15.228030-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -760,6 +760,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y contra el vaciamiento de la educación pública",
             "fuente": "https://prensaobrera.com/politicas/laura-carboni-un-porcentaje-muy-importante-de-la-sociedad-acompana-el-reclamo-de-las-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "18:00",
+            "lugar": "Local de la Uepc-Capital, Córdoba",
+            "quien": "Plenario de trabajadores ocupados y desocupados",
+            "tipo_medida": "Movilización",
+            "motivo": "Unidad de trabajadores para acciones contra el ajuste de Milei y preparación de huelga política de masas",
+            "fuente": "https://prensaobrera.com/politicas/fracaso-de-milei-en-cordoba-en-plena-corrida-el-presidente-ya-se-compara-con-de-la-rua"
         },
         {
             "es_evento_relevante": true,
