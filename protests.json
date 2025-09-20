@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-20T17:13:34.605715-03:00",
+    "last_updated": "2025-09-20T18:11:54.564715-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -760,6 +760,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y contra el vaciamiento de la educación pública",
             "fuente": "https://prensaobrera.com/politicas/laura-carboni-un-porcentaje-muy-importante-de-la-sociedad-acompana-el-reclamo-de-las-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "18:00",
+            "lugar": "Esquina de Güemes y Maipú, Vicente López",
+            "quien": "Familia de Octavio Buccafusco",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por Octavio Buccafusco y rechazo a la violencia institucional",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2025/09/20/la-familia-del-hombre-que-murio-en-un-operativo-policial-en-vicente-lopez-convoco-a-una-marcha-para-pedir-justicia/"
         },
         {
             "es_evento_relevante": true,
