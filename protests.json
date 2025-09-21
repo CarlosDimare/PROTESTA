@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-21T14:12:21.489637-03:00",
+    "last_updated": "2025-09-21T15:19:48.522406-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -730,6 +730,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Apoyo a la lista de Fuerza Patria para elecciones nacionales del 26 de octubre, representando intereses del movimiento obrero",
             "fuente": "https://www.infobae.com/politica/2025/09/21/kicillof-cerrara-el-primer-acto-grande-de-fuerza-patria-y-sigue-con-su-plan-de-encabezar-la-campana-bonaerense/, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-22",
+            "horario": "21:00",
+            "lugar": "Puertos italianos",
+            "quien": "Sindicatos italianos coordinados por CGIL",
+            "tipo_medida": "Huelga",
+            "motivo": "Solidaridad con Palestina y exigencia de cese de acuerdos con Israel, reconocimiento del Estado Palestino y levantamiento del bloqueo humanitario",
+            "fuente": "https://www.laizquierdadiario.com/Los-estibadores-italianos-bloquean-envios-de-explosivos-a-Israel-y-preparan-una-huelga-contra-el, https://www.eldestapeweb.com/mundo/huelga/sindicatos-italianos-de-transporte-y-educacion-paran-en-todo-el-pais-en-reclamo-de-mejores-salarios-202310207130"
         },
         {
             "es_evento_relevante": true,
