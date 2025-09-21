@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-21T08:11:48.874069-03:00",
+    "last_updated": "2025-09-21T09:26:17.692660-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -720,6 +720,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la condena a Cristina Kirchner y en apoyo a su situación, marcando 100 días de arresto domiciliario",
             "fuente": "https://www.infobae.com/politica/2025/09/20/el-kirchnerismo-se-movilizara-a-la-casa-de-cristina-kirchner-al-cumplirse-100-dias-de-su-detencion-domiciliaria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-22",
+            "horario": "11:00",
+            "lugar": "Club Atenas, La Plata",
+            "quien": "CTA Autónoma y CTA de los Trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo a la lista de Fuerza Patria para elecciones nacionales del 26 de octubre, representando intereses del movimiento obrero",
+            "fuente": "https://www.infobae.com/politica/2025/09/21/kicillof-cerrara-el-primer-acto-grande-de-fuerza-patria-y-sigue-con-su-plan-de-encabezar-la-campana-bonaerense/, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
         },
         {
             "es_evento_relevante": true,
