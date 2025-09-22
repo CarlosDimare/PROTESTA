@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-22T13:18:21.023233-03:00",
+    "last_updated": "2025-09-22T14:13:24.336966-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -766,10 +766,10 @@
             "fecha": "2025-09-23",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Frente de Lucha Piquetero",
+            "quien": "Colectivo de personas con discapacidad",
             "tipo_medida": "Movilización",
-            "motivo": "Denuncia desvío de fondos públicos y eliminación de comedores populares contra el gobierno de Milei",
-            "fuente": "https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+            "motivo": "Rechazo al bloqueo de la Ley de Emergencia en Discapacidad y al ajuste del gobierno",
+            "fuente": "https://prensaobrera.com/politicas/con-una-reglamentacion-trucha-milei-se-niega-a-cumplir-con-la-emergencia-en-discapacidad, https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
