@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-22T19:13:58.630923-03:00",
+    "last_updated": "2025-09-22T20:19:00.406480-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -756,10 +756,10 @@
             "fecha": "2025-09-23",
             "horario": "00:00",
             "lugar": "Hospital Garrahan",
-            "quien": "Trabajadoras y trabajadores del hospital Garrahan",
+            "quien": "ATE Garrahan",
             "tipo_medida": "Paro",
-            "motivo": "Exigir aumento salarial de emergencia con recursos propios del hospital y respuesta urgente al gobierno",
-            "fuente": "https://www.laizquierdadiario.com/Tras-el-triunfo-en-Diputados-el-Garrahan-va-a-un-paro-de-48-horas"
+            "motivo": "Reclamos salariales y condiciones laborales no resueltos",
+            "fuente": "https://www.infobae.com/politica/2025/09/22/el-gobierno-anuncio-un-bono-para-el-personal-del-hospital-garrahan-en-medio-de-la-tension-por-los-reclamos-salariales/, https://www.laizquierdadiario.com/Tras-el-triunfo-en-Diputados-el-Garrahan-va-a-un-paro-de-48-horas"
         },
         {
             "es_evento_relevante": true,
