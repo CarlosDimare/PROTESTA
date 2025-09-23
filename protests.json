@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-23T10:26:02.462274-03:00",
+    "last_updated": "2025-09-23T11:16:29.697476-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -780,6 +780,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir devolución de alimentos a comedores populares, rechazo al plan motosierra y recortes presupuestarios 2026, y denuncia de corrupción en gestión de alimentos",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/el-frente-de-lucha-piquetero-marcha-en-todo-el-pais-reclamando-la-devolucion-de-los-alimentos-robados-por-el-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "00:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Junta Interna de ATE en el Hospital Garrahan",
+            "tipo_medida": "Paro",
+            "motivo": "Aumento real salarial y continuidad laboral de contratos vencidos",
+            "fuente": "https://prensaobrera.com/sindicales/los-trabajadores-del-garrahan-arrancan-una-conquista-salarial-y-van-por-mas"
         },
         {
             "es_evento_relevante": true,
