@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-23T12:16:08.744136-03:00",
+    "last_updated": "2025-09-23T13:18:52.559035-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -830,6 +830,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Unidad de trabajadores para acciones contra el ajuste de Milei y preparación de huelga política de masas",
             "fuente": "https://prensaobrera.com/politicas/fracaso-de-milei-en-cordoba-en-plena-corrida-el-presidente-ya-se-compara-con-de-la-rua"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "10:30",
+            "lugar": "Salón de Art Decó, Humberto Primo y Sucre, Córdoba",
+            "quien": "Coordinadora Sindical Clasista",
+            "tipo_medida": "Plenario",
+            "motivo": "En apoyo al Frente de Izquierda Unidad, contra el ajuste de Llaryora y Milei, en defensa de salarios, jubilaciones, salud y educación",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-de-la-coordinadora-sindical-clasista-en-apoyo-al-frente-de-izquierda-unidad"
         },
         {
             "es_evento_relevante": true,
