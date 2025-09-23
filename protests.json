@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-23T01:17:48.731608-03:00",
+    "last_updated": "2025-09-23T02:15:29.117365-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -770,6 +770,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al bloqueo de la Ley de Emergencia en Discapacidad y al ajuste del gobierno",
             "fuente": "https://prensaobrera.com/politicas/con-una-reglamentacion-trucha-milei-se-niega-a-cumplir-con-la-emergencia-en-discapacidad, https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "10:00",
+            "lugar": "Parque Industrial de Pilar",
+            "quien": "Trabajadores de ILVA y KTM con apoyo de UOM",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo contra despidos y falta de respuestas patronales tras finalización de conciliación obligatoria",
+            "fuente": "https://www.laizquierdadiario.com/Resistencia-25-dias-de-acampe-y-una-jornada-que-paralizo-todo-el-Parque-Industrial-Pilar"
         },
         {
             "es_evento_relevante": true,
