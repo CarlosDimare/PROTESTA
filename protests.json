@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-23T07:15:56.529266-03:00",
+    "last_updated": "2025-09-23T08:14:13.278155-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -758,8 +758,8 @@
             "lugar": "Hospital Garrahan",
             "quien": "ATE Garrahan",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y condiciones laborales no resueltos",
-            "fuente": "https://www.infobae.com/politica/2025/09/22/el-gobierno-anuncio-un-bono-para-el-personal-del-hospital-garrahan-en-medio-de-la-tension-por-los-reclamos-salariales/, https://www.laizquierdadiario.com/Tras-el-triunfo-en-Diputados-el-Garrahan-va-a-un-paro-de-48-horas"
+            "motivo": "Exigen la implementación real de la ley de Emergencia Pediátrica y consideran el bono ofrecido como insuficiente y transitorio.",
+            "fuente": "https://www.infobae.com/sociedad/2025/09/23/comenzo-el-paro-en-el-hospital-garrahan-pese-al-anuncio-del-bono-que-otorgara-el-gobierno/, https://www.infobae.com/politica/2025/09/22/el-gobierno-anuncio-un-bono-para-el-personal-del-hospital-garrahan-en-medio-de-la-tension-por-los-reclamos-salariales/, https://www.laizquierdadiario.com/Tras-el-triunfo-en-Diputados-el-Garrahan-va-a-un-paro-de-48-horas"
         },
         {
             "es_evento_relevante": true,
