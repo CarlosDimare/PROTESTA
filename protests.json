@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-23T08:14:13.278155-03:00",
+    "last_updated": "2025-09-23T09:28:37.269648-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -770,6 +770,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al bloqueo de la Ley de Emergencia en Discapacidad y al ajuste del gobierno",
             "fuente": "https://prensaobrera.com/politicas/con-una-reglamentacion-trucha-milei-se-niega-a-cumplir-con-la-emergencia-en-discapacidad, https://prensaobrera.com/movimiento-piquetero/movilizacion-piquetera-el-23-por-la-devolucion-de-los-alimentos-a-los-comedores-populares, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-23",
+            "horario": "18:00",
+            "lugar": "Desde Plaza Constitución hasta Ministerio de Desarrollo Social, CABA",
+            "quien": "Frente de Lucha Piquetero (Polo Obrero, MTR Votamos Luchar, MTR 12 de Abril, William Cooke)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir devolución de alimentos a comedores populares, rechazo al plan motosierra y recortes presupuestarios 2026, y denuncia de corrupción en gestión de alimentos",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/el-frente-de-lucha-piquetero-marcha-en-todo-el-pais-reclamando-la-devolucion-de-los-alimentos-robados-por-el-gobierno"
         },
         {
             "es_evento_relevante": true,
