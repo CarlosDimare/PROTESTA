@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-24T16:13:26.538661-03:00",
+    "last_updated": "2025-09-24T17:19:02.643699-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -820,6 +820,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al veto a la Ley de Financiamiento Universitario y contra el vaciamiento de la educación pública",
             "fuente": "https://prensaobrera.com/politicas/laura-carboni-un-porcentaje-muy-importante-de-la-sociedad-acompana-el-reclamo-de-las-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "14:00",
+            "lugar": "Palacio de Montecitorio, Roma",
+            "quien": "CGIL",
+            "tipo_medida": "Concentración",
+            "motivo": "En contra de ataques a flotilla hacia Gaza, exigiendo fin del genocidio y cese de colaboración con Israel",
+            "fuente": "https://www.laizquierdadiario.com/Ataque-a-flotilla-sindicatos-italianos-llaman-a-la-movilizacion-y-amenazan-con-una-huelga-general"
         },
         {
             "es_evento_relevante": true,
