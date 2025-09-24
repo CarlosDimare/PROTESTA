@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-24T15:21:58.623736-03:00",
+    "last_updated": "2025-09-24T16:13:26.538661-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -850,6 +850,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Unidad de trabajadores para acciones contra el ajuste de Milei y preparación de huelga política de masas",
             "fuente": "https://prensaobrera.com/politicas/fracaso-de-milei-en-cordoba-en-plena-corrida-el-presidente-ya-se-compara-con-de-la-rua"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-25",
+            "horario": "18:00",
+            "lugar": "Plaza de Flores, Ciudad de Buenos Aires",
+            "quien": "Frente Sindical por la Soberanía, el Trabajo Digno y el Salario Justo (CATT, ATE Nacional y más de 100 organizaciones)",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio al genocidio contra el pueblo palestino y condena al alineamiento del gobierno de Milei con políticas de Netanyahu",
+            "fuente": "https://www.anred.org/el-frente-sindical-moviliza-en-repudio-al-genocidio-en-gaza-y-contra-el-alineamiento-de-milei-con-israel-y-ee-uu/"
         },
         {
             "es_evento_relevante": true,
