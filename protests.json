@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-24T18:14:25.714013-03:00",
+    "last_updated": "2025-09-24T19:16:04.893221-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -785,21 +785,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-09-24",
             "horario": "00:00",
+            "lugar": "AMBA",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, deficiente servicio de ART y bajos ingresos por acuerdos inconsultos",
+            "fuente": "https://www.pagina12.com.ar/860286-trenes-del-amba-por-una-protesta-circulan-a-reglamento-y-hay, https://www.laizquierdadiario.com/La-Fraternidad-protesta-por-salarios-los-trenes-metropolitanos-circular-a-30-km-h, https://www.clarin.com/ciudades/paro-trenes-vivo-lineas-afecta-hora-termina-medida-fuerza-fraternidad_0_mT99GfmRDn.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-24",
+            "horario": "00:00",
             "lugar": "Hospital Garrahan",
             "quien": "Junta Interna de ATE en el Hospital Garrahan",
             "tipo_medida": "Paro",
             "motivo": "Aumento real salarial y continuidad laboral de contratos vencidos",
             "fuente": "https://prensaobrera.com/sindicales/los-trabajadores-del-garrahan-arrancan-una-conquista-salarial-y-van-por-mas"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-09-24",
-            "horario": "09:00",
-            "lugar": "No especificado",
-            "quien": "La Fraternidad",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamos salariales y contra la ART",
-            "fuente": "https://www.laizquierdadiario.com/La-Fraternidad-protesta-por-salarios-los-trenes-metropolitanos-circular-a-30-km-h, https://www.clarin.com/ciudades/paro-trenes-vivo-lineas-afecta-hora-termina-medida-fuerza-fraternidad_0_mT99GfmRDn.html"
         },
         {
             "es_evento_relevante": true,
