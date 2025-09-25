@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-25T00:00:12.650423-03:00",
+    "last_updated": "2025-09-25T00:35:52.550843-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -880,6 +880,16 @@
             "tipo_medida": "Plenario",
             "motivo": "En apoyo al Frente de Izquierda Unidad, contra el ajuste de Llaryora y Milei, en defensa de salarios, jubilaciones, salud y educación",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-de-la-coordinadora-sindical-clasista-en-apoyo-al-frente-de-izquierda-unidad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "16:00",
+            "lugar": "Plaza Flores",
+            "quien": "Asamblea de familiares, vecinos y amigos",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por el triple femicidio de Morena Verri, Brenda Loreley Del Castillo y Lara Morena Gutiérrez",
+            "fuente": "https://www.laizquierdadiario.com/Desde-el-paro-del-Garrahan-reclamaron-justicia-por-Morena-Brenda-y-Lara"
         },
         {
             "es_evento_relevante": true,
