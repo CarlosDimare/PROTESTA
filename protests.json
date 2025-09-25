@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-24T20:15:40.740945-03:00",
+    "last_updated": "2025-09-24T22:05:12.190268-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -880,6 +880,16 @@
             "tipo_medida": "Plenario",
             "motivo": "En apoyo al Frente de Izquierda Unidad, contra el ajuste de Llaryora y Milei, en defensa de salarios, jubilaciones, salud y educación",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-de-la-coordinadora-sindical-clasista-en-apoyo-al-frente-de-izquierda-unidad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "16:30",
+            "lugar": "Plaza de Mayo a Congreso",
+            "quien": "Colectivos feministas, sociales, políticos y sindicales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia por Brenda, Morena y Lara, y todas las víctimas de femicidios. Rechazo a discursos de odio y misoginia, y reclamo de respuestas estatales",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Morena-Brenda-y-Lara-convocan-a-movilizaciones-en-ciudades-de-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
