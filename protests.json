@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-24T22:05:12.190268-03:00",
+    "last_updated": "2025-09-25T00:00:12.650423-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -884,12 +884,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-27",
-            "horario": "16:30",
+            "horario": "16:00",
             "lugar": "Plaza de Mayo a Congreso",
-            "quien": "Colectivos feministas, sociales, políticos y sindicales",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir justicia por Brenda, Morena y Lara, y todas las víctimas de femicidios. Rechazo a discursos de odio y misoginia, y reclamo de respuestas estatales",
-            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Morena-Brenda-y-Lara-convocan-a-movilizaciones-en-ciudades-de-todo-el-pais"
+            "quien": "Colectivo feminista",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir justicia por el triple femicidio de Morena Verdi, Brenda del Castillo y Lara Gutiérrez y políticas de seguridad",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-por-justicia-por-el-triple-femicidio-tras-finalizar-la-Policia-de-Macri-realizo-detenciones, https://www.laizquierdadiario.com/Justicia-por-Morena-Brenda-y-Lara-convocan-a-movilizaciones-en-ciudades-de-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
