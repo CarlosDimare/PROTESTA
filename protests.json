@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-25T13:19:14.759050-03:00",
+    "last_updated": "2025-09-25T14:16:18.597320-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -870,6 +870,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio al genocidio contra el pueblo palestino y condena al alineamiento del gobierno de Milei con políticas de Netanyahu",
             "fuente": "https://www.anred.org/el-frente-sindical-moviliza-en-repudio-al-genocidio-en-gaza-y-contra-el-alineamiento-de-milei-con-israel-y-ee-uu/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-25",
+            "horario": "No especificado",
+            "lugar": "Plaza de Mayo",
+            "quien": "Plenario de Trabajadoras y la 1969",
+            "tipo_medida": "Movilización",
+            "motivo": "Justicia por el triple femicidio de Brenda, Lara y Morena; denuncia de responsabilidad estatal ante femicidios, connivencia con narcotráfico y redes de trata",
+            "fuente": "https://prensaobrera.com/mujer/cortes-en-todo-el-pais-justicia-por-lara-brenda-y-morena"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "**16:00**",
+            "lugar": "Plaza de Mayo a Congreso Nacional, Buenos Aires",
+            "quien": "Colectivos feministas #NiUnaMenos y vecinas/familiares de víctimas",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por el triple femicidio de Brenda del Castillo, Morena Verdi y Lara Morena Gutiérrez; rechazo a la impunidad policial, la estigmatización mediática y la violencia de género",
+            "fuente": "https://prensaobrera.com/mujer/no-las-buscaron-la-responsabilidad-del-estado-en-el-triple-femicidio-narco, https://www.pagina12.com.ar/830986-ni-una-menos-donde-y-a-que-hora-son-las-movilizaciones-de-ho"
         },
         {
             "es_evento_relevante": true,
