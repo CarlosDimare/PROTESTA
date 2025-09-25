@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-25T01:18:46.343120-03:00",
+    "last_updated": "2025-09-25T02:17:52.868548-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -900,6 +900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir justicia por el triple femicidio de Morena Verdi, Brenda del Castillo y Lara Gutiérrez y políticas de seguridad",
             "fuente": "https://www.laizquierdadiario.com/Marcha-por-justicia-por-el-triple-femicidio-tras-finalizar-la-Policia-de-Macri-realizo-detenciones, https://www.laizquierdadiario.com/Justicia-por-Morena-Brenda-y-Lara-convocan-a-movilizaciones-en-ciudades-de-todo-el-pais"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-02",
+            "horario": "La hora de inicio del evento de protesta es **17:00**.",
+            "lugar": "Entre Ríos e Irigoyen, frente a las vallas",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
+            "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
