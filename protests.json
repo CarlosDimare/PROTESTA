@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-25T20:15:08.123593-03:00",
+    "last_updated": "2025-09-25T22:07:58.015017-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -870,6 +870,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio al genocidio contra el pueblo palestino y condena al alineamiento del gobierno de Milei con políticas de Netanyahu",
             "fuente": "https://www.anred.org/el-frente-sindical-moviliza-en-repudio-al-genocidio-en-gaza-y-contra-el-alineamiento-de-milei-con-israel-y-ee-uu/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-25",
+            "horario": "No especificado",
+            "lugar": "Estaciones y vías de las líneas Mitre, San Martín, Sarmiento, Urquiza y Belgrano Sur (AMBA)",
+            "quien": "Sindicato La Fraternidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a las propuestas del Estado para revertir denuncias por estado de vías y seguridad del personal, y exigir mejoras en infraestructura ferroviaria",
+            "fuente": "https://www.pagina12.com.ar/860870-si-bien-se-dicto-la-conciliacion-obligatoria-no-se-anuncio-l"
         },
         {
             "es_evento_relevante": true,
