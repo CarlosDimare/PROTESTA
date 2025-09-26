@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-26T12:17:35.412905-03:00",
+    "last_updated": "2025-09-26T13:21:30.473659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -930,6 +930,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir justicia por el triple femicidio de Morena Verdi, Brenda del Castillo y Lara Gutiérrez y políticas de seguridad",
             "fuente": "https://www.laizquierdadiario.com/Marcha-por-justicia-por-el-triple-femicidio-tras-finalizar-la-Policia-de-Macri-realizo-detenciones, https://www.laizquierdadiario.com/Justicia-por-Morena-Brenda-y-Lara-convocan-a-movilizaciones-en-ciudades-de-todo-el-pais"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "La hora de inicio del evento de protesta es **11:30**.",
+            "lugar": "No especificado",
+            "quien": "Pan y Rosas",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra femicidios, impunidad policial y políticas de género del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/La-bronca-convertida-en-accion-por-Lara-Morena-y-Brenda-por-todas, https://elpais.com/mexico/2023-11-25/marcha-feminista-25-n-horarios-ruta-y-calles-cerradas-en-ciudad-de-mexico.html"
         },
         {
             "es_evento_relevante": true,
