@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-26T09:30:59.217946-03:00",
+    "last_updated": "2025-09-26T10:26:22.450010-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -976,10 +976,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Colectivos en defensa de la salud y educación",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa de la universidad y salud pública por vetos a fondos para emergencia pediátrica y educación superior",
-            "fuente": "https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio al alineamiento del gobierno argentino con Israel con motivo del segundo aniversario de la invasión de Gaza",
+            "fuente": "https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         },
         {
             "es_evento_relevante": true,
