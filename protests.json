@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-26T17:17:12.087458-03:00",
+    "last_updated": "2025-09-26T18:15:45.357349-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -960,6 +960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-15",
+            "horario": "No especificado",
+            "lugar": "Álava, Bizkaia, Gipuzkoa y Navarra",
+            "quien": "CCOO Euskadi, LAB, UGT Euskadi, Steilas, Solidari, Etxalde e Hiru",
+            "tipo_medida": "Huelga general",
+            "motivo": "Solidaridad con Palestina y condena de crímenes de Israel, con exigencias de suspensión de relaciones comerciales con Israel y paralización del Acuerdo UE-Israel",
+            "fuente": "https://www.laizquierdadiario.com/Principales-sindicatos-del-Pais-Vasco-llaman-a-un-paro-general-por-Palestina-para-el-15-de-octubre"
         },
         {
             "es_evento_relevante": true,
