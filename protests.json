@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-26T15:20:44.371356-03:00",
+    "last_updated": "2025-09-26T16:13:38.727576-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -890,6 +890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Justicia por el triple femicidio de Brenda, Lara y Morena; denuncia de responsabilidad estatal ante femicidios, connivencia con narcotráfico y redes de trata",
             "fuente": "https://prensaobrera.com/mujer/cortes-en-todo-el-pais-justicia-por-lara-brenda-y-morena"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-26",
+            "horario": "21:00",
+            "lugar": "Aeropuertos italianos (ej: Malpensa en Milán, terminal 1; Roma terminal 3; Nápoles; Florencia)",
+            "quien": "Trabajadores del aeropuesto (CUB y USB)",
+            "tipo_medida": "Huelga",
+            "motivo": "Reivindicaciones salariales y condiciones laborales, y solidaridad con Palestina",
+            "fuente": "https://www.laizquierdadiario.com/Por-salarios-y-por-Gaza-otro-dia-de-huelga-en-los-aeropuertos-italianos, https://travelface.es/en/alerts/"
         },
         {
             "es_evento_relevante": true,
