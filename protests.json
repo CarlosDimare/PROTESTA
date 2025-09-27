@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-27T08:12:28.093998-03:00",
+    "last_updated": "2025-09-27T09:26:19.773677-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -950,6 +950,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra femicidios, impunidad policial y políticas de género del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/La-bronca-convertida-en-accion-por-Lara-Morena-y-Brenda-por-todas, https://elpais.com/mexico/2023-11-25/marcha-feminista-25-n-horarios-ruta-y-calles-cerradas-en-ciudad-de-mexico.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-27",
+            "horario": "No especificado",
+            "lugar": "Universidad La Sapienza",
+            "quien": "Estudiantes de la Universidad La Sapienza",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigen el fin de colaboraciones con universidades israelíes y se oponen al genocidio de Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Ocupaciones-universitarias-y-bloqueos-la-juventud-italiana-se-une-a-la-movilizacion-contra-el"
         },
         {
             "es_evento_relevante": true,
