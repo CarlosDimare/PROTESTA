@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-27T09:26:19.773677-03:00",
+    "last_updated": "2025-09-27T10:22:08.360257-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -963,6 +963,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-09-29",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Trabajadores de la planta Pinazo de Granja Tres Arroyos",
+            "tipo_medida": "Asamblea",
+            "motivo": "Decidir extensión de la protesta por falta de pago de aguinaldos y amenaza de cierre",
+            "fuente": "https://www.anred.org/pilar-paro-por-falta-de-pago-y-amenaza-de-cierre-en-granja-tres-arroyos/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-10-02",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "Entre Ríos e Irigoyen, frente a las vallas",
@@ -970,6 +980,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-06",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la política salarial y educativa del gobierno, incluyendo pérdida de poder adquisitivo y no convocatoria a paritarias",
+            "fuente": "https://www.infobae.com/politica/2025/09/27/el-secretario-de-educacion-afirmo-que-el-salario-docente-ha-ido-avanzando-desde-diciembre-de-2023/"
         },
         {
             "es_evento_relevante": true,
