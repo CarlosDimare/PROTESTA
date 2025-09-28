@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-28T12:14:46.409645-03:00",
+    "last_updated": "2025-09-28T13:16:43.000743-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -960,6 +960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigen el fin de colaboraciones con universidades israelíes y se oponen al genocidio de Gaza",
             "fuente": "https://www.laizquierdadiario.com/Ocupaciones-universitarias-y-bloqueos-la-juventud-italiana-se-une-a-la-movilizacion-contra-el"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-28",
+            "horario": "10:00",
+            "lugar": "Plaza San Martín",
+            "quien": "Generación Z, gremios de transportistas y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al gobierno de Dina Boluarte, al Congreso, a la Ley de retiro AFP y exigencia de mayor transparencia institucional",
+            "fuente": "https://www.anred.org/peru-segunda-semana-de-protestas-con-18-heridos-y-denuncias-de-represion-policial/"
         },
         {
             "es_evento_relevante": true,
