@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29T19:14:35.920525-03:00",
+    "last_updated": "2025-09-29T20:16:05.054079-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1020,6 +1020,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-02",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores del Hospital Garrahan / Junta Interna de ATE en el Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar la plena vigencia de la ley de Emergencia en Salud Pediátrica, vetada por el presidente Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2025/09/29/tras-el-anuncio-del-bono-los-trabajadores-del-hospital-garrahan-realizaran-una-nueva-manifestacion-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
