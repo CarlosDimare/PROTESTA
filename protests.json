@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29T12:16:28.037284-03:00",
+    "last_updated": "2025-09-29T13:16:34.591297-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -990,6 +990,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos salariales y laborales, y denuncia de incumplimientos de auditorías aeronáuticas",
             "fuente": "https://www.infobae.com/politica/2025/09/28/ate-anuncio-asambleas-en-21-aeropuertos-y-podria-haber-demoras-en-los-vuelos-este-lunes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-29",
+            "horario": "16:00",
+            "lugar": "Plaza Cívica, Ushuaia",
+            "quien": "Vecinos y vecinas de Ushuaia",
+            "tipo_medida": "Concentración",
+            "motivo": "En defensa de la industria, jubilados, trabajadores, estudiantes y personas con discapacidad; rechazo a la entrega de soberanía provincial y al modelo de ajuste y timba financiera del gobierno",
+            "fuente": "https://www.pagina12.com.ar/861627-ushuaia-amanecio-con-pintadas-y-carteles-en-rechazo-a-la-lle"
         },
         {
             "es_evento_relevante": true,
