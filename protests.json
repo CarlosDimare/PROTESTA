@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29T10:28:19.791168-03:00",
+    "last_updated": "2025-09-29T11:17:06.950609-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -974,6 +974,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-09-29",
+            "horario": "09:00",
+            "lugar": "Ecuador (provincias andinas: Imbabura, Pichincha, Zamora Chinchipe, Pastaza, Cotopaxi, Chimborazo)",
+            "quien": "Confederación de Nacionalidades Indígenas del Ecuador (CONAIE)",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Eliminación del subsidio al diésel que incrementó su precio de 1.80 a 2.80 dólares por galón, afectando a campesinos, transportistas, productores agrícolas y comunidades indígenas.",
+            "fuente": "https://www.anred.org/ecuador-pese-al-toque-de-queda-y-la-represion-el-paro-nacional-cumple-su-tercer-dia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-29",
             "horario": "10:00",
             "lugar": "Aeropuertos de Argentina (21 terminales)",
             "quien": "Asociación Trabajadores del Estado (ATE)",
@@ -1010,6 +1020,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la política salarial y educativa del gobierno, incluyendo pérdida de poder adquisitivo y no convocatoria a paritarias",
             "fuente": "https://www.infobae.com/politica/2025/09/27/el-secretario-de-educacion-afirmo-que-el-salario-docente-ha-ido-avanzando-desde-diciembre-de-2023/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-15",
+            "horario": "08:00",
+            "lugar": "Estado Español",
+            "quien": "CCOO y UGT (principalmente), con adhesión de LAB, Steilas, Solidari, Etxalde, Hiru, CCOO Euskadi, UGT Euskadi, IAC, Intersindical-CSC y CUT",
+            "tipo_medida": "Huelga General",
+            "motivo": "Solidaridad con Palestina, oposición al genocidio y apoyo a la Flotilla de Libertad a Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Estado-espanol-organizaciones-solidarias-con-Palestina-y-la-Flotilla-piden-que-los-sindicatos"
         },
         {
             "es_evento_relevante": true,
