@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29T15:22:34.201647-03:00",
+    "last_updated": "2025-09-29T16:14:32.679606-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1020,6 +1020,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-04",
+            "horario": "No especificado",
+            "lugar": "Italia",
+            "quien": "Sindicato USB y CALP",
+            "tipo_medida": "Jornada de movilización nacional",
+            "motivo": "Luchar contra el genocidio en Palestina y el rearme",
+            "fuente": "https://www.laizquierdadiario.com/Reunion-en-Genova-los-portuarios-convocan-una-huelga-general-europea-por-Gaza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-06",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "CTERA (Confederación de Trabajadores de la Educación)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por una nueva Ley de Financiamiento Educativo, convocatoria inmediata a la Paritaria Nacional Docente, restitución del FONID y pago de sumas adeudadas",
+            "fuente": "https://www.infobae.com/politica/2025/09/29/en-medio-del-endurecimiento-del-ala-dura-dirigentes-de-la-cgt-exploran-una-negociacion-con-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
