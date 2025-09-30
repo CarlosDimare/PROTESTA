@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29T22:05:47.190803-03:00",
+    "last_updated": "2025-09-29T23:58:51.943068-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1000,6 +1000,16 @@
             "tipo_medida": "Concentración",
             "motivo": "En defensa de la industria, jubilados, trabajadores, estudiantes y personas con discapacidad; rechazo a la entrega de soberanía provincial y al modelo de ajuste y timba financiera del gobierno",
             "fuente": "https://www.pagina12.com.ar/861627-ushuaia-amanecio-con-pintadas-y-carteles-en-rechazo-a-la-lle"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-09-29",
+            "horario": "No especificado",
+            "lugar": "Depósito de BedTime en Tortuguitas",
+            "quien": "Trabajadores de BedTime (Junta Interna)",
+            "tipo_medida": "Bloqueo",
+            "motivo": "En contra de despidos y ajuste patronal",
+            "fuente": "https://prensaobrera.com/sindicales/bedtime-despidos-y-operativo-desalojo-en-el-deposito-de-tortuguitas"
         },
         {
             "es_evento_relevante": true,
