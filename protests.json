@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-30T11:16:28.369367-03:00",
+    "last_updated": "2025-09-30T12:14:48.122135-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1034,22 +1034,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-02",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores del Hospital Garrahan y docencia universitaria",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra vetos a emergencia pediátrica y financiamiento universitario; protesta por descuentos salariales",
+            "fuente": "https://prensaobrera.com/sindicales/el-garrahan-prepara-una-jornada-de-movilizacion-para-el-rechazo-definitivo-al-veto-de-milei, https://www.infobae.com/politica/2025/09/29/tras-el-anuncio-del-bono-los-trabajadores-del-hospital-garrahan-realizaran-una-nueva-manifestacion-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-02",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "Entre Ríos e Irigoyen, frente a las vallas",
             "quien": "Jubilados",
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-10-02",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Trabajadores del Hospital Garrahan / Junta Interna de ATE en el Garrahan",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamar la plena vigencia de la ley de Emergencia en Salud Pediátrica, vetada por el presidente Javier Milei",
-            "fuente": "https://www.infobae.com/politica/2025/09/29/tras-el-anuncio-del-bono-los-trabajadores-del-hospital-garrahan-realizaran-una-nueva-manifestacion-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
