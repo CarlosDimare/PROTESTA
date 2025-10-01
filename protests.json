@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-01T11:15:39.987433-03:00",
+    "last_updated": "2025-10-01T12:17:39.902826-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1060,6 +1060,16 @@
             "tipo_medida": "Jornada de movilización nacional",
             "motivo": "Luchar contra el genocidio en Palestina y el rearme",
             "fuente": "https://www.laizquierdadiario.com/Reunion-en-Genova-los-portuarios-convocan-una-huelga-general-europea-por-Gaza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-05",
+            "horario": "No especificado",
+            "lugar": "Comunidad de Madrid",
+            "quien": "CGT Metal Madrid",
+            "tipo_medida": "Paro",
+            "motivo": "Apoyo incondicional al pueblo palestino y cuestionamiento a la participación de la industria del metal con empresas israelitas",
+            "fuente": "https://www.laizquierdadiario.com/Metalurgicos-de-Madrid-se-suman-a-los-portuarios-de-Genova-y-convocan-huelga-indefinida-por"
         },
         {
             "es_evento_relevante": true,
