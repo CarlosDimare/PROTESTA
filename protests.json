@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-01T16:13:42.478358-03:00",
+    "last_updated": "2025-10-01T17:18:46.668310-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1020,6 +1020,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Decidir extensión de la protesta por falta de pago de aguinaldos y amenaza de cierre",
             "fuente": "https://www.anred.org/pilar-paro-por-falta-de-pago-y-amenaza-de-cierre-en-granja-tres-arroyos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-01",
+            "horario": "15:00",
+            "lugar": "Plaza Seca, Universidad Nacional de Mar de Plata (Funes y Peña)",
+            "quien": "Prestadores y transportistas de personas con discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste en discapacidad",
+            "fuente": "https://www.laizquierdadiario.com/Del-Cano-en-Mar-del-Plata-acompano-el-reclamo-por-la-Emergencia-en-Discapacidad"
         },
         {
             "es_evento_relevante": true,
