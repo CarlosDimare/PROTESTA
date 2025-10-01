@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-01T17:18:46.668310-03:00",
+    "last_updated": "2025-10-01T18:14:53.499734-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1040,6 +1040,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al veto y políticas de Milei",
             "fuente": "https://prensaobrera.com/politicas/cordoba-importante-plenario-de-la-csc-en-apoyo-al-frente-de-izquierda, https://www.infobae.com/politica/2024/10/01/mapa-de-la-marcha-universitaria-horarios-de-concentracion-organizaciones-que-protestan-y-zonas-afectadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-01",
+            "horario": "18:00",
+            "lugar": "Avenida de Mayo y 9 de Julio, Ciudad Autónoma de Buenos Aires",
+            "quien": "Movimiento de Trabajadores Socialista (MST) - Frente de Izquierda de los Trabajadores Unificados (FITU) y activistas",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la liberación de Celeste Fierro y otros activistas de la Flotilla Global Sumud detenidos por Israel, repudiando la interceptación de ayuda humanitaria a Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Urgente-las-fuerzas-israelies-detuvieron-a-Celeste-Fierro-FITU-y-otros-activistas-de-la-flotilla"
         },
         {
             "es_evento_relevante": true,
