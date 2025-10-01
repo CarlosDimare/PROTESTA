@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-01T19:15:31.950009-03:00",
+    "last_updated": "2025-10-01T20:15:08.804160-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1050,6 +1050,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir la liberación de Celeste Fierro y otros activistas de la Flotilla Global Sumud detenidos por Israel, repudiando la interceptación de ayuda humanitaria a Gaza",
             "fuente": "https://www.laizquierdadiario.com/Urgente-las-fuerzas-israelies-detuvieron-a-Celeste-Fierro-FITU-y-otros-activistas-de-la-flotilla"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-01",
+            "horario": "19:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Comité de Acción y Solidaridad con Palestina",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio al secuestro de la Flotilla Global Sumud y exigencia del fin del genocidio en Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Concentracion-en-La-Plata-contra-la-agresion-de-Israel-a-la-flotilla-Global-Sumud"
         },
         {
             "es_evento_relevante": true,
