@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-02T14:13:07.947172-03:00",
+    "last_updated": "2025-10-02T15:22:20.182651-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1090,6 +1090,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-03",
+            "horario": "00:00",
+            "lugar": "Italia",
+            "quien": "CGIL y USB",
+            "tipo_medida": "Huelga general",
+            "motivo": "Rechazo al genocidio en Gaza, solidaridad con la Flotilla Global Sumud secuestrada y exigencia de liberación de activistas",
+            "fuente": "https://www.laizquierdadiario.com/Manifestaciones-y-huelgas-en-toda-Europa-contra-la-interceptacion-de-la-Global-Sumud-Flotilla-y-el"
         },
         {
             "es_evento_relevante": true,
