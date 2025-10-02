@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-01T20:15:08.804160-03:00",
+    "last_updated": "2025-10-01T22:04:39.859753-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1120,6 +1120,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la política salarial y educativa del gobierno, incluyendo pérdida de poder adquisitivo y no convocatoria a paritarias",
             "fuente": "https://www.infobae.com/politica/2025/09/27/el-secretario-de-educacion-afirmo-que-el-salario-docente-ha-ido-avanzando-desde-diciembre-de-2023/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
+            "horario": "18:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino, Frente de Izquierda (MST-PTS-PO-Nuevo MAS), sindicatos docentes, centros de estudiantes, Judíes por Palestina, Polo Obrero y otras organizaciones",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el genocidio del pueblo palestino y el alineamiento del gobierno de Javier Milei con Israel",
+            "fuente": "https://prensaobrera.com/internacionales/la-flotilla-global-sumud-se-acerca-a-gaza-bajo-el-acecho-israeli"
         },
         {
             "es_evento_relevante": true,
