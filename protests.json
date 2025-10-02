@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-02T18:13:29.073477-03:00",
+    "last_updated": "2025-10-02T19:14:14.433465-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1200,6 +1200,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "15:00",
+            "lugar": "Probablemente Casa de Gobierno de Santa Cruz (por similitud con movilización previa)",
+            "quien": "Trabajadores de salud pública de Santa Cruz con apoyo de gremios (ADOSAC, SOEM, Judiciales, ATE, APAP) y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reapertura de paritarias y eliminación de las sanciones a los 26 trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/Rio-Gallegos-marcharon-los-trabajadores-de-la-salud-publica-sancionados-por-Claudio-Vidal, https://asturgalicia.net/2013/05/08/el-alcalde-reitera-su-apoyo-a-la-protesta-de-los-trabajadores-de-santa-barbara/"
         },
         {
             "es_evento_relevante": true,
