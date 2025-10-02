@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-02T04:16:00.843374-03:00",
+    "last_updated": "2025-10-02T05:21:40.899469-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1074,6 +1074,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-02",
+            "horario": "12:30",
+            "lugar": "Congreso de la Nación",
+            "quien": "Junta Interna de ATE en el Hospital Garrahan",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo contra el veto presidencial a la Ley de Emergencia Pediátrica y por la implementación de leyes del Garrahan y universidad",
+            "fuente": "https://www.infobae.com/politica/2025/10/02/los-trabajadores-del-garrahan-llevan-adelante-un-paro-de-mas-de-24-horas-y-se-movilizaran-hoy-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-02",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "Entre Ríos e Irigoyen, frente a las vallas",
             "quien": "Jubilados",
@@ -1140,6 +1150,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio del pueblo palestino y el alineamiento del gobierno de Javier Milei con Israel",
             "fuente": "https://prensaobrera.com/internacionales/la-flotilla-global-sumud-se-acerca-a-gaza-bajo-el-acecho-israeli"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-09",
+            "horario": "10:00",
+            "lugar": "Plaza de los Dos Congresos",
+            "quien": "Jubilados y jubiladas (grupo 'Los doce apóstoles')",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra ajuste previsional y Ley Bases, defensa de jubilaciones",
+            "fuente": "https://www.pagina12.com.ar/862478-diez-heridos-y-un-detenido-en-la-marcha-de-los-jubilados"
         },
         {
             "es_evento_relevante": true,
