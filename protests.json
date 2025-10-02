@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-02T01:18:39.365943-03:00",
+    "last_updated": "2025-10-02T02:17:22.840016-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1080,6 +1080,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de mejoras en haberes y ajuste por inflación",
             "fuente": "https://www.infobae.com/politica/2025/09/24/se-realizo-una-nueva-marcha-de-jubilados-en-el-congreso-hubo-disturbios-y-la-policia-tiro-gases/, https://www.infobae.com/politica/2025/03/19/el-mapa-de-cortes-de-la-marcha-de-jubilados-barras-y-piqueteros-que-genera-tension-en-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-03",
+            "horario": "No especificado",
+            "lugar": "En toda Italia",
+            "quien": "CGIL y sindicalismo de base",
+            "tipo_medida": "Huelga general",
+            "motivo": "En apoyo a la Flotilla Global Sumud y contra el genocidio en Gaza",
+            "fuente": "https://www.laizquierdadiario.com/En-Italia-la-principal-central-sindical-prepara-una-huelga-general-en-solidaridad-con-Palestina"
         },
         {
             "es_evento_relevante": true,
