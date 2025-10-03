@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T10:22:49.341012-03:00",
+    "last_updated": "2025-10-03T11:15:03.459764-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1100,6 +1100,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Rechazo al genocidio en Gaza, solidaridad con la Flotilla Global Sumud secuestrada y exigencia de liberación de activistas",
             "fuente": "https://www.laizquierdadiario.com/Manifestaciones-y-huelgas-en-toda-Europa-contra-la-interceptacion-de-la-Global-Sumud-Flotilla-y-el"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-03",
+            "horario": "10:00",
+            "lugar": "Casa de Gobierno de Santa Cruz",
+            "quien": "Comunidades originarias y organizaciones sociales y políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el freno al Proyecto Sofía por riesgos de contaminación y violación de derechos indígenas",
+            "fuente": "https://www.laizquierdadiario.com/Concentracion-en-Santa-Cruz-comunidades-originarias-y-organizaciones-rechazan-la-mineria-de-uranio"
         },
         {
             "es_evento_relevante": true,
