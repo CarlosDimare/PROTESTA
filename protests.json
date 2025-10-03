@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T18:12:54.842059-03:00",
+    "last_updated": "2025-10-03T19:14:46.354974-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1200,6 +1200,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio del pueblo palestino y el alineamiento del gobierno de Javier Milei con Israel",
             "fuente": "https://prensaobrera.com/internacionales/la-flotilla-global-sumud-se-acerca-a-gaza-bajo-el-acecho-israeli"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Prensa Obrera",
+            "tipo_medida": "Movilización",
+            "motivo": "En apoyo a la causa palestina y liberación de los detenidos en la flotilla Sumud",
+            "fuente": "https://prensaobrera.com/politicas/reclamo-en-cancilleria-por-la-libertad-de-los-argentinos-detenidos-ilegalmente-en-israel"
         },
         {
             "es_evento_relevante": true,
