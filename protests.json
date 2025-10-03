@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T05:19:37.543931-03:00",
+    "last_updated": "2025-10-03T06:16:17.544271-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1110,6 +1110,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Solidaridad con Palestina y detención de activistas humanitarios, junto a demandas laborales",
             "fuente": "https://www.laizquierdadiario.com/Historico-Italia-va-a-la-huelga-general-por-Palestina-y-los-activistas-capturados-por-Israel, https://www.laizquierdadiario.com/En-Italia-la-principal-central-sindical-prepara-una-huelga-general-en-solidaridad-con-Palestina"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-04",
+            "horario": "06:30",
+            "lugar": "Rutas nacionales en múltiples departamentos (PY05, PY02, etc.)",
+            "quien": "Articulación Nacional Indígena por una Vida Digna (ANIVID)",
+            "tipo_medida": "Cortes de rutas intermitentes y movilizaciones",
+            "motivo": "Reconocimiento de territorios ancestrales, fin de desalojos violentos, destitución del presidente del INDI y creación de mesa de diálogo vinculante",
+            "fuente": "https://www.anred.org/protestas-en-paraguay-comunidades-indigenas-por-el-territorio-y-contra-los-desalojos-del-agronegocio/"
         },
         {
             "es_evento_relevante": true,
