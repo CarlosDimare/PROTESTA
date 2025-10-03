@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T19:14:46.354974-03:00",
+    "last_updated": "2025-10-03T20:16:09.068562-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1125,6 +1125,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-03",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Trabajadores de base",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa del salario, exigencia de básico equivalente a canasta familiar y paritarias electas en asamblea",
+            "fuente": "https://prensaobrera.com/sindicales/en-octubre-los-salarios-van-a-ampliar-la-brecha-con-la-inflacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-03",
+            "horario": "No especificado",
             "lugar": "Provincias de la Sierra (Imbabura, Pichincha, Bolívar, Chimborazo, Cañar, Sucumbíos), epicentro en Imbabura",
             "quien": "CONAIE (Confederación de Nacionalidades Indígenas del Ecuador)",
             "tipo_medida": "Paro Nacional",
@@ -1150,6 +1160,16 @@
             "tipo_medida": "Cortes de rutas intermitentes y movilizaciones",
             "motivo": "Reconocimiento de territorios ancestrales, fin de desalojos violentos, destitución del presidente del INDI y creación de mesa de diálogo vinculante",
             "fuente": "https://www.anred.org/protestas-en-paraguay-comunidades-indigenas-por-el-territorio-y-contra-los-desalojos-del-agronegocio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-04",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CGIL y Unión Sindical de Base (USB)",
+            "tipo_medida": "Huelga general",
+            "motivo": "Solidaridad con Palestina y repudio al genocidio en Gaza; exigencia de liberación de activistas de la Flotilla Global Sumud",
+            "fuente": "https://www.laizquierdadiario.com/ChatPTS-responde-cinco-claves-para-entender-la-huelga-general-en-Italia"
         },
         {
             "es_evento_relevante": true,
