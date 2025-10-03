@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-02T20:14:42.007509-03:00",
+    "last_updated": "2025-10-02T22:03:18.876066-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1105,11 +1105,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-03",
             "horario": "No especificado",
-            "lugar": "En toda Italia",
-            "quien": "CGIL y sindicalismo de base",
+            "lugar": "Italia (diversas ciudades y puertos)",
+            "quien": "CGIL y sindicatos de base",
             "tipo_medida": "Huelga general",
-            "motivo": "En apoyo a la Flotilla Global Sumud y contra el genocidio en Gaza",
-            "fuente": "https://www.laizquierdadiario.com/En-Italia-la-principal-central-sindical-prepara-una-huelga-general-en-solidaridad-con-Palestina"
+            "motivo": "Solidaridad con Palestina y detención de activistas humanitarios, junto a demandas laborales",
+            "fuente": "https://www.laizquierdadiario.com/Historico-Italia-va-a-la-huelga-general-por-Palestina-y-los-activistas-capturados-por-Israel, https://www.laizquierdadiario.com/En-Italia-la-principal-central-sindical-prepara-una-huelga-general-en-solidaridad-con-Palestina"
         },
         {
             "es_evento_relevante": true,
