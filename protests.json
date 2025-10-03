@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T12:16:03.763272-03:00",
+    "last_updated": "2025-10-03T13:18:14.046478-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1100,6 +1100,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Rechazo al genocidio en Gaza, solidaridad con la Flotilla Global Sumud secuestrada y exigencia de liberación de activistas",
             "fuente": "https://www.laizquierdadiario.com/Manifestaciones-y-huelgas-en-toda-Europa-contra-la-interceptacion-de-la-Global-Sumud-Flotilla-y-el"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-03",
+            "horario": "08:00",
+            "lugar": "Complejo Nuclear Atucha I y II",
+            "quien": "Junta Interna de ATE - Trabajadores de Nucleoeléctrica Argentina S.A.",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra políticas de desfinanciamiento, amenazas de privatización parcial y reclamos laborales (recomposición salarial, pase a planta permanente, vigencia de convenios colectivos)",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-la-central-nuclear-de-Atucha-en-asamblea-permanente-ante-las-amenazas-privatistas, https://la100.cienradios.com/sociedad/nueva-protesta-de-ate-por-los-despidos-en-el-estado-a-que-hora-empieza/"
         },
         {
             "es_evento_relevante": true,
