@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-04T02:13:54.049478-03:00",
+    "last_updated": "2025-10-04T03:19:46.937878-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1210,6 +1210,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la política salarial y educativa del gobierno, incluyendo pérdida de poder adquisitivo y no convocatoria a paritarias",
             "fuente": "https://www.infobae.com/politica/2025/09/27/el-secretario-de-educacion-afirmo-que-el-salario-docente-ha-ido-avanzando-desde-diciembre-de-2023/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
+            "horario": "14:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Infobae Política",
+            "tipo_medida": "Marcha",
+            "motivo": "Denuncia de irregularidades en concurso para Defensor del Niño",
+            "fuente": "https://www.infobae.com/politica/2025/10/04/defensor-del-nino-pese-a-las-denuncias-de-irregularidades-quieren-votar-las-candidaturas-el-proximo-miercoles/"
         },
         {
             "es_evento_relevante": true,
