@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-03T20:16:09.068562-03:00",
+    "last_updated": "2025-10-03T22:00:25.836983-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1126,10 +1126,10 @@
             "fecha": "2025-10-03",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Trabajadores de base",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa del salario, exigencia de básico equivalente a canasta familiar y paritarias electas en asamblea",
-            "fuente": "https://prensaobrera.com/sindicales/en-octubre-los-salarios-van-a-ampliar-la-brecha-con-la-inflacion"
+            "quien": "Trabajadores del Garrahan, comunidad universitaria y discapacidad",
+            "tipo_medida": "Reunión organizativa",
+            "motivo": "Organizar la lucha por la aplicación de leyes presupuestarias y planificar movilizaciones",
+            "fuente": "https://prensaobrera.com/sindicales/la-unica-garantia-para-que-estas-conquistas-se-hagan-realidad-es-la-movilizacion-de-los-trabajadores-superando-la-paralisis-de-la-cgt-y-la-cta, https://prensaobrera.com/sindicales/en-octubre-los-salarios-van-a-ampliar-la-brecha-con-la-inflacion"
         },
         {
             "es_evento_relevante": true,
