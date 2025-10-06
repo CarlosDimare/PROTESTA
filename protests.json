@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-06T14:14:21.207143-03:00",
+    "last_updated": "2025-10-06T15:22:29.918560-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1234,6 +1234,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-07",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional (Buenos Aires) hasta Plaza de Mayo",
+            "quien": "Comité Argentino en Solidaridad con el Pueblo Palestino",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al genocidio en Gaza y solidaridad con el pueblo palestino, conmemorando dos años del conflicto y el ataque contra la Global Sumud Flotilla",
+            "fuente": "https://www.laizquierdadiario.com/Dos-anos-de-genocidio-en-Gaza-movilizacion-de-Congreso-a-Plaza-de-Mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
             "horario": "18:00",
             "lugar": "Plaza de Mayo",
             "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino, Frente de Izquierda (MST-PTS-PO-Nuevo MAS), sindicatos docentes, centros de estudiantes, Judíes por Palestina, Polo Obrero y otras organizaciones",
@@ -1260,6 +1270,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra ajuste previsional y Ley Bases, defensa de jubilaciones",
             "fuente": "https://www.pagina12.com.ar/862478-diez-heridos-y-un-detenido-en-la-marcha-de-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "**12:00**",
+            "lugar": "No especificado",
+            "quien": "Ctera",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a recortes presupuestarios y ajuste salarial, defensa del presupuesto educativo",
+            "fuente": "https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
         },
         {
             "es_evento_relevante": true,
