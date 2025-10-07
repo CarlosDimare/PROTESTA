@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-07T15:21:54.249032-03:00",
+    "last_updated": "2025-10-07T16:15:09.321645-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1280,6 +1280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a recortes presupuestarios y ajuste salarial, defensa del presupuesto educativo",
             "fuente": "https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "11:00",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Confederación de Trabajadores de la Educación de la República Argentina (CTERA)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Defensa de la educación pública, derechos docentes, nueva Ley de Financiamiento Educativo, convocatoria a Paritaria Nacional, restitución del FONID, pago de adeudos y aumento presupuestario",
+            "fuente": "https://www.infobae.com/sociedad/2025/10/07/los-gremios-docentes-anunciaron-un-nuevo-paro-y-no-habra-clases-en-todo-el-pais-piden-la-reapertura-de-las-paritarias/, https://www.unotv.com/nacional/cnte-anuncia-paro-nacional-de-24-horas-cuando-sera/"
         },
         {
             "es_evento_relevante": true,
