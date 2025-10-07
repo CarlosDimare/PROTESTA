@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-07T19:14:58.739830-03:00",
+    "last_updated": "2025-10-07T20:14:23.900233-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1255,6 +1255,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-07",
             "horario": "No especificado",
+            "lugar": "Esquina de Güemes y Avellaneda, Mar del Plata",
+            "quien": "Jubilados y grupos opositores",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a las políticas de ajuste del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2025/10/07/milei-encabezara-una-caminata-en-mar-del-plata-hay-marchas-a-favor-y-en-contra-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Prensa Obrera",
             "tipo_medida": "Movilización",
@@ -1276,10 +1286,10 @@
             "fecha": "2025-10-14",
             "horario": "**12:00**",
             "lugar": "No especificado",
-            "quien": "Ctera",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a recortes presupuestarios y ajuste salarial, defensa del presupuesto educativo",
-            "fuente": "https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
+            "quien": "CTERA y Frente de Unidad Docente Bonaerense (AMET, FEB, SADOP, SUTEBA, UDOCBA)",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Exigencia de nueva Ley de Financiamiento Educativo, convocatoria urgente a Paritaria Nacional Docente, restitución del FONID, pago de deudas, aumento presupuestario y mejoras salariales",
+            "fuente": "https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
         },
         {
             "es_evento_relevante": true,
