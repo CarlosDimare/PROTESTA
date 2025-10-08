@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-07T20:14:23.900233-03:00",
+    "last_updated": "2025-10-07T22:03:36.800450-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1250,6 +1250,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio del pueblo palestino y el alineamiento del gobierno de Javier Milei con Israel",
             "fuente": "https://prensaobrera.com/internacionales/la-flotilla-global-sumud-se-acerca-a-gaza-bajo-el-acecho-israeli"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-07",
+            "horario": "21:00",
+            "lugar": "Línea H del Subte de Buenos Aires",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio a agresión a empleados y reclamo de mejores condiciones de seguridad laboral y para usuarios",
+            "fuente": "https://www.infobae.com/sociedad/2025/10/07/sorpresivo-paro-de-subte-agredieron-a-dos-trabajadores-en-la-linea-h-e-interrumpieron-el-servicio/"
         },
         {
             "es_evento_relevante": true,
