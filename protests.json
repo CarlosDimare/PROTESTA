@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-08T13:20:20.240695-03:00",
+    "last_updated": "2025-10-08T14:17:27.438507-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1340,6 +1340,16 @@
             "tipo_medida": "Huelga General",
             "motivo": "Solidaridad con Palestina, oposición al genocidio y apoyo a la Flotilla de Libertad a Gaza",
             "fuente": "https://www.laizquierdadiario.com/Estado-espanol-organizaciones-solidarias-con-Palestina-y-la-Flotilla-piden-que-los-sindicatos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-15",
+            "horario": "La hora de inicio del evento de protesta es **12:00**.",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Huelga General",
+            "motivo": "En contra del genocidio y rearme imperialista, exigiendo destinar fondos públicos de contratos con Israel a servicios públicos y redistribución del gasto en favor de los trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-del-Estado-espanol-llama-a-huelga-de-24-horas-contra-el-genocidio-en-Palestina, https://www.cronista.com/economia-politica/la-cgt-le-puso-fecha-al-primer-paro-y-movilizacion-de-2025-en-medio-de-sus-tensiones/"
         },
         {
             "es_evento_relevante": true,
