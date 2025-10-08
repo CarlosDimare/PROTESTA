@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-08T09:30:37.484571-03:00",
+    "last_updated": "2025-10-08T10:29:59.898171-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1280,6 +1280,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En apoyo a la causa palestina y liberación de los detenidos en la flotilla Sumud",
             "fuente": "https://prensaobrera.com/politicas/reclamo-en-cancilleria-por-la-libertad-de-los-argentinos-detenidos-ilegalmente-en-israel"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Suteba (Corriente Multicolor)",
+            "tipo_medida": "Paro",
+            "motivo": "Denuncia salarios de pobreza, recortes en educación y condiciones deplorables en las escuelas, y critica a los gobiernos de Kicillof y Milei",
+            "fuente": "https://www.laizquierdadiario.com/Vamos-al-paro-porque-no-se-aguantan-mas-los-salarios-de-pobreza-y-el-presupuesto-de-ajuste"
         },
         {
             "es_evento_relevante": true,
