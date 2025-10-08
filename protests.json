@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-08T14:17:27.438507-03:00",
+    "last_updated": "2025-10-08T15:23:30.671262-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1320,6 +1320,16 @@
             "tipo_medida": "Paro y Marcha",
             "motivo": "Exigencia de nueva Ley de Financiamiento Educativo, convocatoria urgente a Paritaria Nacional Docente, restitución del FONID, pago de deudas, aumento presupuestario y mejoras salariales",
             "fuente": "https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "**No especificado**",
+            "lugar": "Casa de Gobierno, Neuquén Capital",
+            "quien": "CTERA y ATEN",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, contra la aplicación de SISO, reformas educativas y por reapertura de negociación salarial",
+            "fuente": "https://www.laizquierdadiario.com/Enorme-asamblea-de-Aten-Capital-vota-paro-el-14-de-octubre, https://www.rionegro.com.ar/politica/ordenan-el-desalojo-de-mapuches-en-la-casa-de-gobierno-de-neuquen-sigue-el-reclamo-de-las-personerias-y-apuntan-contra-rolando-figueroa-4219486/"
         },
         {
             "es_evento_relevante": true,
