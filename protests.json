@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-08T11:17:28.623953-03:00",
+    "last_updated": "2025-10-08T12:18:25.609929-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1280,6 +1280,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En apoyo a la causa palestina y liberación de los detenidos en la flotilla Sumud",
             "fuente": "https://prensaobrera.com/politicas/reclamo-en-cancilleria-por-la-libertad-de-los-argentinos-detenidos-ilegalmente-en-israel"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-08",
+            "horario": "00:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Seccionales Multicolor",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de salarios dignos, mayor presupuesto educativo, contra la precarización laboral y en defensa de la escuela pública",
+            "fuente": "https://www.laizquierdadiario.com/Las-maestras-de-Buenos-Aires-no-paro-masivo-contra-el-ajuste-de-Kicillof"
         },
         {
             "es_evento_relevante": true,
