@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-08T16:13:16.456850-03:00",
+    "last_updated": "2025-10-08T17:17:05.862189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1310,6 +1310,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra ajuste previsional y Ley Bases, defensa de jubilaciones",
             "fuente": "https://www.pagina12.com.ar/862478-diez-heridos-y-un-detenido-en-la-marcha-de-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-09",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones de jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por mejoras en pensiones y condiciones de movilización",
+            "fuente": "https://www.infobae.com/politica/2025/10/08/incidentes-entre-manifestantes-y-la-policia-en-la-habitual-marcha-de-los-miercoles-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
