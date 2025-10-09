@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-09T19:14:40.172299-03:00",
+    "last_updated": "2025-10-09T20:15:13.466855-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1410,6 +1410,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Solidaridad con Palestina y condena de crímenes de Israel, con exigencias de suspensión de relaciones comerciales con Israel y paralización del Acuerdo UE-Israel",
             "fuente": "https://www.laizquierdadiario.com/Principales-sindicatos-del-Pais-Vasco-llaman-a-un-paro-general-por-Palestina-para-el-15-de-octubre"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-24",
+            "horario": "06:00-10:00",
+            "lugar": "Aeroparque",
+            "quien": "APLA (Pilotos)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Recomposición salarial y denuncias de incumplimientos del convenio colectivo",
+            "fuente": "https://www.laizquierdadiario.com/Aeronauticos-asambleas-en-Aeroparque-ante-un-ataque-salarial-del-gobierno"
         },
         {
             "es_evento_relevante": true,
