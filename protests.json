@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-09T14:16:07.538331-03:00",
+    "last_updated": "2025-10-09T15:27:20.940842-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1300,6 +1300,16 @@
             "tipo_medida": "Paro",
             "motivo": "Denuncia salarios de pobreza, recortes en educación y condiciones deplorables en las escuelas, y critica a los gobiernos de Kicillof y Milei",
             "fuente": "https://www.laizquierdadiario.com/Vamos-al-paro-porque-no-se-aguantan-mas-los-salarios-de-pobreza-y-el-presupuesto-de-ajuste"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-09",
+            "horario": "10:00",
+            "lugar": "Puente que conecta el Acceso Este y la Avenida Vicente Zapata, San Rafael, Mendoza",
+            "quien": "Organizaciones gremiales, familias de personas con discapacidad y jubilados de Mendoza",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la visita del presidente Javier Milei y su plan de ajuste económico",
+            "fuente": "https://www.pagina12.com.ar/864452-milei-huevonazo-el-mensaje-con-el-que-los-mendocinos-recibie"
         },
         {
             "es_evento_relevante": true,
