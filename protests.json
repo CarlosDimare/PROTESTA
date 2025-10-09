@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-09T04:19:56.409531-03:00",
+    "last_updated": "2025-10-09T05:27:30.670520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1310,6 +1310,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra ajuste previsional y Ley Bases, defensa de jubilaciones",
             "fuente": "https://www.pagina12.com.ar/862478-diez-heridos-y-un-detenido-en-la-marcha-de-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-09",
+            "horario": "16:00-20:00",
+            "lugar": "No especificado",
+            "quien": "Asociación de Pilotos de Líneas Aérea (APLA)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Incumplimientos del convenio colectivo, demoras en negociaciones paritarias y proceso de desregulación del sector",
+            "fuente": "https://www.infobae.com/economia/2025/10/09/los-vuelos-podrian-sufrir-demoras-en-la-previa-del-fin-de-semana-largo-por-una-medida-de-fuerza-gremial/"
         },
         {
             "es_evento_relevante": true,
