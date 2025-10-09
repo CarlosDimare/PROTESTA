@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-09T11:16:53.885979-03:00",
+    "last_updated": "2025-10-09T12:31:48.790873-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1360,6 +1360,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Defensa de la educación pública, derechos docentes, nueva Ley de Financiamiento Educativo, convocatoria a Paritaria Nacional, restitución del FONID, pago de adeudos y aumento presupuestario",
             "fuente": "https://www.infobae.com/sociedad/2025/10/07/los-gremios-docentes-anunciaron-un-nuevo-paro-y-no-habra-clases-en-todo-el-pais-piden-la-reapertura-de-las-paritarias/, https://www.unotv.com/nacional/cnte-anuncia-paro-nacional-de-24-horas-cuando-sera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "No especificado",
+            "lugar": "Casa de Gobierno de Córdoba",
+            "quien": "CTERA y UEPC Capital",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, jubilaciones, reapertura de paritarias, defensa de la educación pública y rechazo al ajuste de Llaryora y Milei",
+            "fuente": "https://prensaobrera.com/sindicales/uepc-capital-construye-el-paro-y-la-movilizacion-en-cordoba"
         },
         {
             "es_evento_relevante": true,
