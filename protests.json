@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-10T02:16:10.421813-03:00",
+    "last_updated": "2025-10-10T03:23:47.448975-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1410,6 +1410,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Solidaridad con Palestina y condena de crímenes de Israel, con exigencias de suspensión de relaciones comerciales con Israel y paralización del Acuerdo UE-Israel",
             "fuente": "https://www.laizquierdadiario.com/Principales-sindicatos-del-Pais-Vasco-llaman-a-un-paro-general-por-Palestina-para-el-15-de-octubre"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-16",
+            "horario": "19:00",
+            "lugar": "Azopardo e Independencia, sede de la CGT (Azopardo 802)",
+            "quien": "CGT (Central General de Trabajadores)",
+            "tipo_medida": "Acto Cultural",
+            "motivo": "Conmemoración del Día de la Lealtad Peronista con un evento innovador (mapping, teatro, intervenciones callejeras), anticipándose al 17 de octubre por motivos históricos (paro de 1945) y logísticos (multiplicidad de actos ese día)",
+            "fuente": "https://www.infobae.com/politica/2025/10/10/sin-marchas-ni-discursos-pero-con-mapping-y-streaming-la-inusual-formula-de-la-cgt-para-el-17-de-octubre/"
         },
         {
             "es_evento_relevante": true,
