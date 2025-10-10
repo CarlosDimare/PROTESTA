@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-10T17:15:48.187931-03:00",
+    "last_updated": "2025-10-10T18:13:58.827366-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1420,6 +1420,16 @@
             "tipo_medida": "Acto Cultural",
             "motivo": "Conmemoración del Día de la Lealtad Peronista con un evento innovador (mapping, teatro, intervenciones callejeras), anticipándose al 17 de octubre por motivos históricos (paro de 1945) y logísticos (multiplicidad de actos ese día)",
             "fuente": "https://www.infobae.com/politica/2025/10/10/sin-marchas-ni-discursos-pero-con-mapping-y-streaming-la-inusual-formula-de-la-cgt-para-el-17-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-17",
+            "horario": "17:00",
+            "lugar": "San José 1111, barrio de Constitución, Buenos Aires",
+            "quien": "Sindicatos, organizaciones sociales y militantes (Espacio 'Argentina con Cristina')",
+            "tipo_medida": "Movilización",
+            "motivo": "Expresar respaldo a Cristina Kirchner y denunciar su detención como ilegal, en defensa de derechos sociales y laborales peronistas",
+            "fuente": "https://www.infobae.com/politica/2025/10/10/el-peronismo-define-actividades-por-el-17-de-octubre-el-cristinismo-hara-una-caravana-hacia-san-jose-111/"
         },
         {
             "es_evento_relevante": true,
