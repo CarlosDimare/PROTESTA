@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-12T09:25:33.790835-03:00",
+    "last_updated": "2025-10-12T10:21:20.480455-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1360,6 +1360,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Aumento salarial que cubra la canasta familiar, actualización mensual del IPC en lugar de trimestral, defensa del régimen de licencias y eliminación del presentismo",
             "fuente": "https://prensaobrera.com/sindicales/masivas-asambleas-de-aten-capital-y-plottier-se-preparan-para-una-gran-lucha-por-la-mesa-salarial, https://www.laizquierdadiario.com/Enorme-asamblea-de-Aten-Capital-vota-paro-el-14-de-octubre, https://www.rionegro.com.ar/politica/ordenan-el-desalojo-de-mapuches-en-la-casa-de-gobierno-de-neuquen-sigue-el-reclamo-de-las-personerias-y-apuntan-contra-rolando-figueroa-4219486/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "09:00",
+            "lugar": "Todo el país",
+            "quien": "Ctera",
+            "tipo_medida": "Jornada de huelga",
+            "motivo": "Derrotar el ajuste del gobierno provincial contra la educación pública",
+            "fuente": "https://prensaobrera.com/sindicales/docentes-bonaerenses-alcances-y-proyeccion-del-masivo-paro-multicolor"
         },
         {
             "es_evento_relevante": true,
