@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-13T01:18:16.351889-03:00",
+    "last_updated": "2025-10-13T02:15:56.570841-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1460,6 +1460,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Poner un límite a las políticas del gobierno de Javier Milei y responder electoralmente",
             "fuente": "https://www.infobae.com/politica/2025/10/09/con-fuertes-criticas-a-milei-la-catt-formalizo-la-continuidad-de-juan-carlos-schmid-al-frente-del-gremio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-09",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Palestine Solidarity Campaign",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
         },
         {
             "es_evento_relevante": true,
