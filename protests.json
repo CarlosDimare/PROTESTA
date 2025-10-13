@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-13T09:29:30.218183-03:00",
+    "last_updated": "2025-10-13T10:27:07.694067-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1345,11 +1345,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-14",
             "horario": "**12:00**",
-            "lugar": "No especificado",
-            "quien": "CTERA y Frente de Unidad Docente Bonaerense (AMET, FEB, SADOP, SUTEBA, UDOCBA)",
-            "tipo_medida": "Paro y Marcha",
-            "motivo": "Exigencia de nueva Ley de Financiamiento Educativo, convocatoria urgente a Paritaria Nacional Docente, restitución del FONID, pago de deudas, aumento presupuestario y mejoras salariales",
-            "fuente": "https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta"
+            "lugar": "Todo el país",
+            "quien": "Ctera",
+            "tipo_medida": "Paro",
+            "motivo": "Denuncia de paritarias de miseria y ajuste en educación; reclama devolución del Fonid y defensa de derechos de la comunidad educativa",
+            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-docente-este-martes-la-oposicion-exige-un-plan-de-lucha-con-continuidad, https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/docentes-bonaerenses-alcances-y-proyeccion-del-masivo-paro-multicolor"
         },
         {
             "es_evento_relevante": true,
@@ -1360,16 +1360,6 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Aumento salarial que cubra la canasta familiar, actualización mensual del IPC en lugar de trimestral, defensa del régimen de licencias y eliminación del presentismo",
             "fuente": "https://prensaobrera.com/sindicales/masivas-asambleas-de-aten-capital-y-plottier-se-preparan-para-una-gran-lucha-por-la-mesa-salarial, https://www.laizquierdadiario.com/Enorme-asamblea-de-Aten-Capital-vota-paro-el-14-de-octubre, https://www.rionegro.com.ar/politica/ordenan-el-desalojo-de-mapuches-en-la-casa-de-gobierno-de-neuquen-sigue-el-reclamo-de-las-personerias-y-apuntan-contra-rolando-figueroa-4219486/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-10-14",
-            "horario": "09:00",
-            "lugar": "Todo el país",
-            "quien": "Ctera",
-            "tipo_medida": "Jornada de huelga",
-            "motivo": "Derrotar el ajuste del gobierno provincial contra la educación pública",
-            "fuente": "https://prensaobrera.com/sindicales/docentes-bonaerenses-alcances-y-proyeccion-del-masivo-paro-multicolor"
         },
         {
             "es_evento_relevante": true,
