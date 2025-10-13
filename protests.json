@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-13T13:18:25.869182-03:00",
+    "last_updated": "2025-10-13T14:15:07.808006-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1420,6 +1420,16 @@
             "tipo_medida": "Acto Cultural",
             "motivo": "Conmemoración del Día de la Lealtad Peronista con un evento innovador (mapping, teatro, intervenciones callejeras), anticipándose al 17 de octubre por motivos históricos (paro de 1945) y logísticos (multiplicidad de actos ese día)",
             "fuente": "https://www.infobae.com/politica/2025/10/10/sin-marchas-ni-discursos-pero-con-mapping-y-streaming-la-inusual-formula-de-la-cgt-para-el-17-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-17",
+            "horario": "14:00",
+            "lugar": "San José 1111",
+            "quien": "Argentina con Cristina",
+            "tipo_medida": "Caravana",
+            "motivo": "Mostrar respaldo a Cristina Kirchner y rechazo a su condena, en defensa de la soberanía nacional y la justicia social",
+            "fuente": "https://www.infobae.com/politica/2025/10/13/dia-de-la-lealtad-kicillof-envia-representantes-a-la-caravana-por-cfk-pero-prepara-su-propia-actividad/, https://elpais.com/argentina/2025-06-18/la-detencion-de-cristina-kirchner-en-vivo.html"
         },
         {
             "es_evento_relevante": true,
