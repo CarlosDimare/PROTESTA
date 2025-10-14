@@ -22,7 +22,8 @@ SITIOS_A_MONITOREAR = {
     "Pagina12": "https://www.pagina12.com.ar/secciones/el-pais",
     "Iprofesional": "https://www.iprofesional.com/",
     "Anred": "https://www.anred.org/",
-    "Redeco": "https://www.redeco.com.ar/"
+    "Redeco": "https://www.redeco.com.ar/",
+    "Inoreader": "https://www.inoreader.com/stream/user/1003821126/tag/all-articles/view/html?cs=m&n=200"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
