@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-14T12:16:56.458048-03:00",
+    "last_updated": "2025-10-14T13:21:07.301271-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1355,11 +1355,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-14",
             "horario": "10:00",
-            "lugar": "Ministerio de Educación en CABA",
-            "quien": "Ctera",
-            "tipo_medida": "Marcha",
-            "motivo": "Plan de lucha nacional para docentes",
-            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-docente-comenzo-la-movilizacion-al-Ministerio-de-Educacion, https://periodismoenmovimiento.com/2025/10/14/paro-nacional-docente-para-este-martes-14-de-octubre-los-motivos-de-ctera-de-la-medida-de-fuerza/"
+            "lugar": "Ministerio de Educación de la Ciudad de Buenos Aires",
+            "quien": "CTERA",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Denunciar paritarias de miseria y ajuste en educación, exigir plan de lucha continuo contra políticas del gobierno nacional y provinciales",
+            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-docente-y-movilizacion-la-oposicion-exige-continuidad-de-las-medidas-de-lucha, https://www.laizquierdadiario.com/Paro-nacional-docente-comenzo-la-movilizacion-al-Ministerio-de-Educacion, https://periodismoenmovimiento.com/2025/10/14/paro-nacional-docente-para-este-martes-14-de-octubre-los-motivos-de-ctera-de-la-medida-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
