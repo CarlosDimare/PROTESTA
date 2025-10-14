@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-14T10:27:43.855142-03:00",
+    "last_updated": "2025-10-14T11:16:28.060657-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1350,6 +1350,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Aumento salarial que cubra la canasta familiar, actualización mensual del IPC en lugar de trimestral, defensa del régimen de licencias y eliminación del presentismo",
             "fuente": "https://prensaobrera.com/sindicales/masivas-asambleas-de-aten-capital-y-plottier-se-preparan-para-una-gran-lucha-por-la-mesa-salarial, https://www.laizquierdadiario.com/Enorme-asamblea-de-Aten-Capital-vota-paro-el-14-de-octubre, https://www.rionegro.com.ar/politica/ordenan-el-desalojo-de-mapuches-en-la-casa-de-gobierno-de-neuquen-sigue-el-reclamo-de-las-personerias-y-apuntan-contra-rolando-figueroa-4219486/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-14",
+            "horario": "10:00",
+            "lugar": "Ministerio de Educación en CABA",
+            "quien": "Ctera",
+            "tipo_medida": "Marcha",
+            "motivo": "Plan de lucha nacional para docentes",
+            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-docente-comenzo-la-movilizacion-al-Ministerio-de-Educacion, https://periodismoenmovimiento.com/2025/10/14/paro-nacional-docente-para-este-martes-14-de-octubre-los-motivos-de-ctera-de-la-medida-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
