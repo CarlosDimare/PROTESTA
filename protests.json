@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-14T05:19:43.459864-03:00",
+    "last_updated": "2025-10-14T06:17:40.221895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1470,6 +1470,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-01",
+            "horario": "13:00",
+            "lugar": "Río Grande, Tierra del Fuego",
+            "quien": "UOM (Unión Obrera Metalúrgica)",
+            "tipo_medida": "Huelga",
+            "motivo": "Defensa de la industria local y puestos de trabajo ante despidos y políticas del gobierno nacional",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-se-estreno-documental-sobre-la-isla-sus-luchas-y-los-intereses-de-EE-UU, https://www.radiofueguina.com/2025/08/la-uom-vuelve-a-la-calle-paro-movilizacion-y-fuertes-criticas-al-gobierno/"
         },
         {
             "es_evento_relevante": true,
