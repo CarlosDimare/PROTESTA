@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-14T03:23:13.079464-03:00",
+    "last_updated": "2025-10-14T04:16:19.221099-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1354,12 +1354,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-14",
-            "horario": "00:00",
-            "lugar": "Todo el país",
-            "quien": "CTERA y Frente de Unidad Docente Bonaerense (AMET, FEB, SADOP, SUTEBA, UDOCBA)",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "CTERA y Frente de Unidad Docente Bonaerense",
             "tipo_medida": "Paro",
-            "motivo": "Ley de Financiamiento Educativo, convocatoria urgente de Paritaria Docente, aumento de presupuesto educativo e infraestructura, restitución del Fondo Nacional de Incentivo Docente y defensa de derechos previsionales y jubilaciones docentes.",
-            "fuente": "https://www.infobae.com/politica/2025/10/13/los-sindicatos-docentes-realizaran-un-nuevo-paro-este-martes-y-habra-una-fuerte-adhesion-en-todo-el-pais/, https://www.laizquierdadiario.com/Paro-nacional-docente-este-martes-la-oposicion-exige-un-plan-de-lucha-con-continuidad, https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/docentes-bonaerenses-alcances-y-proyeccion-del-masivo-paro-multicolor"
+            "motivo": "Reclamo por ley de Financiamiento Educativo, convocatoria urgente de Paritaria Docente, aumento de presupuesto educativo, restitución del Fondo Nacional de Incentivo Docente y defensa de derechos previsionales",
+            "fuente": "https://www.infobae.com/politica/2025/10/14/los-sindicatos-docentes-llevan-adelante-un-paro-de-24-horas-que-provincias-no-tendrian-clases/, https://www.infobae.com/politica/2025/10/13/los-sindicatos-docentes-realizaran-un-nuevo-paro-este-martes-y-habra-una-fuerte-adhesion-en-todo-el-pais/, https://www.laizquierdadiario.com/Paro-nacional-docente-este-martes-la-oposicion-exige-un-plan-de-lucha-con-continuidad, https://www.infobae.com/politica/2025/10/07/los-sindicatos-docentes-del-ala-dura-retoman-las-protestas-y-haran-un-paro-de-24-horas-contra-el-gobierno/, https://www.laizquierdadiario.com/El-8-de-octubre-habra-paro-docente-por-salario-y-contra-el-ajuste-en-educacion, https://www.pagina12.com.ar/816007-todo-listo-para-las-36-horas-de-protesta, https://prensaobrera.com/sindicales/docentes-bonaerenses-alcances-y-proyeccion-del-masivo-paro-multicolor"
         },
         {
             "es_evento_relevante": true,
