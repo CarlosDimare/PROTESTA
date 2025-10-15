@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-15T12:15:32.101189-03:00",
+    "last_updated": "2025-10-15T13:16:12.259761-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1450,6 +1450,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Expresar respaldo a Cristina Kirchner y denunciar su detención como ilegal, en defensa de derechos sociales y laborales peronistas",
             "fuente": "https://www.infobae.com/politica/2025/10/10/el-peronismo-define-actividades-por-el-17-de-octubre-el-cristinismo-hara-una-caravana-hacia-san-jose-111/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
+            "horario": "12:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "AGD-UBA, trabajadores del Garrahan, jubilados, colectivo de discapacidad y otros sectores en lucha",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir implementación inmediata de leyes presupuestarias para financiamiento universitario, emergencia en salud pediátrica y discapacidad",
+            "fuente": "https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
         },
         {
             "es_evento_relevante": true,
