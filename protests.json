@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-15T14:13:24.271246-03:00",
+    "last_updated": "2025-10-15T15:21:36.480816-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1470,6 +1470,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Recomposición salarial y denuncias de incumplimientos del convenio colectivo",
             "fuente": "https://www.laizquierdadiario.com/Aeronauticos-asambleas-en-Aeroparque-ante-un-ataque-salarial-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-26",
+            "horario": "No especificado",
+            "lugar": "Casa de Gobierno (Neuquén)",
+            "quien": "Base docente opositora Multicolor y movimientos aliados",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a políticas salariales del gobierno provincial y nacional, apoyo al Frente de Izquierda en elecciones",
+            "fuente": "https://prensaobrera.com/sindicales/aten-parazo-y-marcha-a-casa-de-gobierno-contra-el-ajuste-de-milei-y-figueroa"
         },
         {
             "es_evento_relevante": true,
