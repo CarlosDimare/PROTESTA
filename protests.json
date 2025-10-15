@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-15T18:12:53.918683-03:00",
+    "last_updated": "2025-10-15T19:13:25.341263-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1450,6 +1450,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Expresar respaldo a Cristina Kirchner y denunciar su detención como ilegal, en defensa de derechos sociales y laborales peronistas",
             "fuente": "https://www.infobae.com/politica/2025/10/10/el-peronismo-define-actividades-por-el-17-de-octubre-el-cristinismo-hara-una-caravana-hacia-san-jose-111/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-17",
+            "horario": "No especificado",
+            "lugar": "San José 1111, Buenos Aires",
+            "quien": "Kirchnerismo (Movimiento Peronista Kirchnerista)",
+            "tipo_medida": "Movilización",
+            "motivo": "Acompañamiento a Cristina Kirchner en el Día de la Lealtad peronista",
+            "fuente": "https://www.infobae.com/politica/2025/10/15/axel-kicillof-evalua-participar-de-la-caravana-a-la-casa-de-cristina-kirchner-por-el-dia-de-la-lealtad/"
         },
         {
             "es_evento_relevante": true,
