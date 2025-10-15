@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-15T09:30:06.489466-03:00",
+    "last_updated": "2025-10-15T10:29:56.395452-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1394,12 +1394,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-15",
-            "horario": "08:00",
-            "lugar": "Estado Español",
-            "quien": "CCOO y UGT (principalmente), con adhesión de LAB, Steilas, Solidari, Etxalde, Hiru, CCOO Euskadi, UGT Euskadi, IAC, Intersindical-CSC y CUT",
-            "tipo_medida": "Huelga General",
-            "motivo": "Solidaridad con Palestina, oposición al genocidio y apoyo a la Flotilla de Libertad a Gaza",
-            "fuente": "https://www.laizquierdadiario.com/Estado-espanol-organizaciones-solidarias-con-Palestina-y-la-Flotilla-piden-que-los-sindicatos"
+            "horario": "10:00",
+            "lugar": "Estado español",
+            "quien": "Sindicatos combativos (CGT, Co.bas, Solidaridad Obrera, etc.) y organizaciones estudiantiles",
+            "tipo_medida": "Huelga general",
+            "motivo": "Solidaridad con Palestina y condena al genocidio israelí",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-jornada-de-huelga-y-movilizacion-por-Palestina-en-todo-el-Estado-espanol, https://www.laizquierdadiario.com/Estado-espanol-organizaciones-solidarias-con-Palestina-y-la-Flotilla-piden-que-los-sindicatos"
         },
         {
             "es_evento_relevante": true,
@@ -1437,9 +1437,9 @@
             "horario": "14:00",
             "lugar": "San José 1111",
             "quien": "Argentina con Cristina",
-            "tipo_medida": "Caravana",
-            "motivo": "Mostrar respaldo a Cristina Kirchner y rechazo a su condena, en defensa de la soberanía nacional y la justicia social",
-            "fuente": "https://www.infobae.com/politica/2025/10/13/dia-de-la-lealtad-kicillof-envia-representantes-a-la-caravana-por-cfk-pero-prepara-su-propia-actividad/, https://elpais.com/argentina/2025-06-18/la-detencion-de-cristina-kirchner-en-vivo.html"
+            "tipo_medida": "Marcha",
+            "motivo": "Leales de corazón, apoyo a Cristina Kirchner en prisión domiciliaria",
+            "fuente": "https://www.infobae.com/politica/2025/10/15/la-cgt-refuerza-su-festejo-distinto-por-el-17-de-octubre-pero-no-se-sumara-a-la-caravana-hacia-la-casa-de-cfk/, https://www.infobae.com/politica/2025/10/13/dia-de-la-lealtad-kicillof-envia-representantes-a-la-caravana-por-cfk-pero-prepara-su-propia-actividad/, https://elpais.com/argentina/2025-06-18/la-detencion-de-cristina-kirchner-en-vivo.html"
         },
         {
             "es_evento_relevante": true,
