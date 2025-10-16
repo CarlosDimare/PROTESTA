@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-16T13:19:23.711150-03:00",
+    "last_updated": "2025-10-16T14:14:21.383851-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1430,6 +1430,16 @@
             "tipo_medida": "Acto Cultural",
             "motivo": "Conmemoración del Día de la Lealtad Peronista con un evento innovador (mapping, teatro, intervenciones callejeras), anticipándose al 17 de octubre por motivos históricos (paro de 1945) y logísticos (multiplicidad de actos ese día)",
             "fuente": "https://www.infobae.com/politica/2025/10/10/sin-marchas-ni-discursos-pero-con-mapping-y-streaming-la-inusual-formula-de-la-cgt-para-el-17-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-17",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Abogados patrocinantes de la comunidad Lafken Winkul Mapu",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar persecución y la inclusión en el registro de terroristas, que afecta sus derechos básicos como acceso a bancos y asignaciones familiares",
+            "fuente": "https://www.infobae.com/politica/2025/10/16/el-gobierno-declaro-al-mapuche-de-los-binoculares-y-su-grupo-como-organizacion-terrorista/"
         },
         {
             "es_evento_relevante": true,
