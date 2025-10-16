@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-16T17:17:20.977508-03:00",
+    "last_updated": "2025-10-16T18:15:38.588738-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1433,6 +1433,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-10-16",
+            "horario": "No especificado",
+            "lugar": "Chimen Aike",
+            "quien": "ADOSAC",
+            "tipo_medida": "Corte de ruta",
+            "motivo": "Suspensión de negociaciones por parte del gobierno provincial; exigen reapertura de paritarias e inversiones edilicias.",
+            "fuente": "https://www.laizquierdadiario.com/Rio-Gallegos-paro-docente-y-corte-de-ruta-por-suspension-de-las-negociaciones"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-10-17",
             "horario": "10:00",
             "lugar": "No especificado",
@@ -1470,6 +1480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Acompañamiento a Cristina Kirchner en el Día de la Lealtad peronista",
             "fuente": "https://www.infobae.com/politica/2025/10/15/axel-kicillof-evalua-participar-de-la-caravana-a-la-casa-de-cristina-kirchner-por-el-dia-de-la-lealtad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-20",
+            "horario": "No especificado",
+            "lugar": "Barracas, CABA (inmediaciones de las vías del Ferrocarril Roca)",
+            "quien": "Partido Obrero / Polo Obrero",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del 15° aniversario del asesinato de Mariano Ferreyra y protesta contra precarización laboral y alianza de la burocracia sindical con las patronales y el Estado",
+            "fuente": "https://prensaobrera.com/politicas/15-anos-despues-mariano-vive-en-cada-lucha-de-los-explotados"
         },
         {
             "es_evento_relevante": true,
