@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-17T16:13:58.120158-03:00",
+    "last_updated": "2025-10-17T17:17:16.645834-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1480,6 +1480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Acompañamiento a Cristina Kirchner en el Día de la Lealtad peronista",
             "fuente": "https://www.infobae.com/politica/2025/10/15/axel-kicillof-evalua-participar-de-la-caravana-a-la-casa-de-cristina-kirchner-por-el-dia-de-la-lealtad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-20",
+            "horario": "11:00",
+            "lugar": "Sede de la Agencia Nacional de Discapacidad (ANDIS) en Belgrano",
+            "quien": "Foro Permanente Discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir convocatoria inmediata del Directorio del Sistema Único, aplicación efectiva de la Ley de Emergencia en Discapacidad, actualización de aranceles y pago de compensaciones atrasadas",
+            "fuente": "https://www.infobae.com/politica/2025/10/17/tension-en-la-agencia-nacional-de-discapacidad-por-reclamos-de-prestadores-entraron-por-la-fuerza-a-la-sede-de-belgrano/"
         },
         {
             "es_evento_relevante": true,
