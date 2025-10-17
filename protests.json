@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-17T15:19:57.010326-03:00",
+    "last_updated": "2025-10-17T16:13:58.120158-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1464,12 +1464,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-17",
-            "horario": "17:00",
+            "horario": "16:00",
             "lugar": "San José 1111, barrio de Constitución, Buenos Aires",
-            "quien": "Sindicatos, organizaciones sociales y militantes (Espacio 'Argentina con Cristina')",
-            "tipo_medida": "Movilización",
-            "motivo": "Expresar respaldo a Cristina Kirchner y denunciar su detención como ilegal, en defensa de derechos sociales y laborales peronistas",
-            "fuente": "https://www.infobae.com/politica/2025/10/10/el-peronismo-define-actividades-por-el-17-de-octubre-el-cristinismo-hara-una-caravana-hacia-san-jose-111/"
+            "quien": "PJ Nacional / Leales de Corazón",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la liberación de Cristina Fernández de Kirchner y denunciar presunta injusticia judicial, junto con reclamos contra recortes laborales, vaciamiento del Estado y desprecio por educación y salud pública",
+            "fuente": "https://www.pagina12.com.ar/866628-liberen-a-cristina-empieza-la-caravana-que-marcha-hacia-la-c, https://www.infobae.com/politica/2025/10/10/el-peronismo-define-actividades-por-el-17-de-octubre-el-cristinismo-hara-una-caravana-hacia-san-jose-111/"
         },
         {
             "es_evento_relevante": true,
