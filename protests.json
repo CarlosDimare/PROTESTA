@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-18T14:12:06.945372-03:00",
+    "last_updated": "2025-10-18T15:20:13.789151-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1480,6 +1480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Acompañamiento a Cristina Kirchner en el Día de la Lealtad peronista",
             "fuente": "https://www.infobae.com/politica/2025/10/15/axel-kicillof-evalua-participar-de-la-caravana-a-la-casa-de-cristina-kirchner-por-el-dia-de-la-lealtad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-19",
+            "horario": "14:30",
+            "lugar": "Congreso Nacional (partida) hasta Quinta Presidencial de Olivos (destino)",
+            "quien": "Asociación de Profesionales y Técnicos del Hospital Garrahan (APyT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir aplicación inmediata y efectiva de las leyes de Emergencia Pediátrica, Discapacidad y Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/politica/2025/10/18/trabajadores-del-hospital-garrahan-marcharan-en-caravana-a-la-quinta-de-olivos-en-reclamo-por-la-ley-de-emergencia/"
         },
         {
             "es_evento_relevante": true,
