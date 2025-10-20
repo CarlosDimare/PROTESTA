@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-20T18:14:05.579976-03:00",
+    "last_updated": "2025-10-20T19:15:53.262764-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1514,12 +1514,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-21",
-            "horario": "12:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "AGD-UBA, trabajadores del Garrahan, jubilados, colectivo de discapacidad y otros sectores en lucha",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir implementación inmediata de leyes presupuestarias para financiamiento universitario, emergencia en salud pediátrica y discapacidad",
-            "fuente": "https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+            "horario": "16:00",
+            "lugar": "Plaza de Mayo, CABA",
+            "quien": "Diversas organizaciones sindicales, estudiantiles y sociales (AGD-UBA, ATE Garrahan, Soy Garrahan, entre otras)",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir aplicación efectiva de leyes de Emergencia en Discapacidad, Emergencia Pediátrica y Financiamiento Universitario, y rechazar políticas de desfinanciamamiento del sistema público",
+            "fuente": "https://www.pagina12.com.ar/867265-nueva-marcha-a-plaza-de-mayo-por-la-emergencia-en-discapacid, https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional (y plazas de principales ciudades)",
+            "quien": "CONADU (Federación Nacional de Docentes Universitarios)",
+            "tipo_medida": "Jornada de protesta",
+            "motivo": "Exigir la promulgación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/educacion/2025/10/20/los-docentes-universitarios-realizaran-otro-paro-nacional-piden-que-se-aplique-el-financiamiento-para-las-universidades/"
         },
         {
             "es_evento_relevante": true,
