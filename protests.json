@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-20T00:12:48.587987-03:00",
+    "last_updated": "2025-10-20T01:22:02.615996-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1520,6 +1520,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir implementación inmediata de leyes presupuestarias para financiamiento universitario, emergencia en salud pediátrica y discapacidad",
             "fuente": "https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-23",
+            "horario": "17:30",
+            "lugar": "Facultad de Humanidades y Ciencias Sociales",
+            "quien": "Juventud del PTS, MST y Malón Estudiantil",
+            "tipo_medida": "Movilización",
+            "motivo": "Recuperar democracia estudiantil y convocar elecciones de Centro tras 5 años de ausencia, oponiéndose a ajustes y defendiendo educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Humanidades-rompe-el-silencio-convocando-a-Asamblea-Extraordinaria"
         },
         {
             "es_evento_relevante": true,
