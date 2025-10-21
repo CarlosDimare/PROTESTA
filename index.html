@@ -3,94 +3,212 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monitor de Conflictos</title>
+    <meta name="description" content="Monitor de conflictos y protestas en tiempo real">
+    <meta name="keywords" content="conflictos, protestas, manifestaciones, monitor">
+    <meta name="author" content="Monitor de Conflictos">
+    <title>Monitor de Conflictos - Seguimiento en Tiempo Real</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📊</text></svg>">
+    
+    <!-- CSS -->
     <link rel="stylesheet" href="style.css">
+    
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome para iconos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Open Graph para redes sociales -->
+    <meta property="og:title" content="Monitor de Conflictos - Seguimiento en Tiempo Real">
+    <meta property="og:description" content="Monitoreo de conflictos y protestas en tiempo real">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
 </head>
 <body>
-    <header>
-        <h1>Monitor de Protestas</h1>
+    <header class="main-header">
+        <div class="header-container">
+            <div class="logo-section">
+                <div class="logo-icon">
+                    <i class="fas fa-chart-line"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>Monitor de Conflictos</h1>
+                    <p class="tagline">Seguimiento en tiempo real</p>
+                </div>
+            </div>
+            <div class="header-stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="total-events">0</span>
+                    <span class="stat-label">Eventos hoy</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="active-events">0</span>
+                    <span class="stat-label">Activos</span>
+                </div>
+            </div>
+        </div>
     </header>
 
-    <main>
-        <nav class="tab-nav">
-            <button class="tab-link active" data-tab="ayer">Ayer</button>
-            <button class="tab-link" data-tab="hoy">Hoy</button>
-            <button class="tab-link" data-tab="manana">Mañana</button>
-        </nav>
+    <main class="main-content">
+        <div class="content-container">
+            <nav class="tab-nav">
+                <button class="tab-link active" data-tab="ayer">
+                    <i class="fas fa-calendar-day"></i>
+                    <span>Ayer</span>
+                </button>
+                <button class="tab-link" data-tab="hoy">
+                    <i class="fas fa-calendar-check"></i>
+                    <span>Hoy</span>
+                </button>
+                <button class="tab-link" data-tab="manana">
+                    <i class="fas fa-calendar-plus"></i>
+                    <span>Mañana</span>
+                </button>
+            </nav>
 
-        <div id="ayer" class="tab-content active">
-            <div class="table-container">
-                <table id="table-ayer">
-                    <thead>
-                        <tr>
-                            <th>Hora</th>
-                            <th>Qué</th>
-                            <th>Dónde</th>
-                            <th>Quién</th>
-                            <th>Por qué</th>
-                            <th>Estado</th>
-                            <th>Fuente</th>
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label for="filter-type">Filtrar por tipo:</label>
+                    <select id="filter-type">
+                        <option value="all">Todos</option>
+                        <option value="protesta">Protesta</option>
+                        <option value="huelga">Huelga</option>
+                        <option value="manifestacion">Manifestación</option>
+                        <option value="conflicto">Conflicto</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="filter-status">Filtrar por estado:</label>
+                    <select id="filter-status">
+                        <option value="all">Todos</option>
+                        <option value="activo">Activo</option>
+                        <option value="finalizado">Finalizado</option>
+                        <option value="programado">Programado</option>
+                    </select>
+                </div>
+                <div class="search-group">
+                    <input type="text" id="search-input" placeholder="Buscar por ubicación...">
+                    <button id="search-btn"><i class="fas fa-search"></i></button>
+                </div>
+            </div>
+
+            <div id="ayer" class="tab-content active">
+                <div class="table-container">
+                    <table id="table-ayer" class="events-table">
+                        <thead>
+                            <tr>
+                                <th>Hora</th>
+                                <th>Tipo</th>
+                                <th>Qué</th>
+                                <th>Dónde</th>
+                                <th>Quién</th>
+                                <th>Por qué</th>
+                                <th>Estado</th>
+                                <th>Fuente</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <div class="no-data-message" style="display: none;">
+                        <i class="fas fa-info-circle"></i>
+                        <p>No hay eventos registrados para este día</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="hoy" class="tab-content">
+                <div class="table-container">
+                    <table id="table-hoy" class="events-table">
+                        <thead>
+                            <tr>
+                                <th>Hora</th>
+                                <th>Tipo</th>
+                                <th>Qué</th>
+                                <th>Dónde</th>
+                                <th>Quién</th>
+                                <th>Por qué</th>
+                                <th>Estado</th>
+                                <th>Fuente</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <div class="no-data-message" style="display: none;">
+                        <i class="fas fa-info-circle"></i>
+                        <p>No hay eventos registrados para este día</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="manana" class="tab-content">
+                <div class="table-container">
+                    <table id="table-manana" class="events-table">
+                        <thead>
+                            <tr>
+                                <th>Hora</th>
+                                <th>Tipo</th>
+                                <th>Qué</th>
+                                <th>Dónde</th>
+                                <th>Quién</th>
+                                <th>Por qué</th>
+                                <th>Estado</th>
+                                <th>Fuente</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <div class="no-data-message" style="display: none;">
+                        <i class="fas fa-info-circle"></i>
+                        <p>No hay eventos registrados para este día</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="info-section">
+                <p class="last-updated">
+                    <i class="fas fa-sync-alt"></i>
+                    Última actualización: <span id="last-updated-time"></span>
+                </p>
+                <button id="refresh-btn" class="refresh-button">
+                    <i class="fas fa-sync"></i>
+                    Actualizar datos
+                </button>
             </div>
         </div>
-
-        <div id="hoy" class="tab-content">
-            <div class="table-container">
-                <table id="table-hoy">
-                    <thead>
-                        <tr>
-                            <th>Hora</th>
-                            <th>Qué</th>
-                            <th>Dónde</th>
-                            <th>Quién</th>
-                            <th>Por qué</th>
-                            <th>Estado</th>
-                            <th>Fuente</th>
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
-            </div>
-        </div>
-
-        <div id="manana" class="tab-content">
-            <div class="table-container">
-                <table id="table-manana">
-                    <thead>
-                        <tr>
-                            <th>Hora</th>
-                            <th>Qué</th>
-                            <th>Dónde</th>
-                            <th>Quién</th>
-                            <th>Por qué</th>
-                            <th>Estado</th>
-                            <th>Fuente</th>
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
-            </div>
-        </div>
-
-        <p class="last-updated">Última actualización: <span id="last-updated-time"></span></p>
     </main>
 
-    <!-- The Modal -->
-    <div id="source-modal" class="modal">
-        <div class="modal-content">
-            <span class="close-button">&times;</span>
-            <iframe id="source-iframe" src="" frameborder="0"></iframe>
+    <footer class="main-footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>Sobre el Monitor</h3>
+                <p>Herramienta de seguimiento de conflictos y protestas en tiempo real para mantener informada a la ciudadanía.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Fuentes</h3>
+                <ul class="source-list">
+                    <li><i class="fas fa-newspaper"></i> Medios de comunicación</li>
+                    <li><i class="fas fa-users"></i> Reportes ciudadanos</li>
+                    <li><i class="fas fa-building"></i> Organizaciones sociales</li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contacto</h3>
+                <p><i class="fas fa-envelope"></i> info@monitordeconflictos.org</p>
+                <div class="social-links">
+                    <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
+                    <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
         </div>
-    </div>
-
-    <footer>
-        <p></p>
+        <div class="footer-bottom">
+            <p>&copy; 2023 Monitor de Conflictos. Todos los derechos reservados.</p>
+        </div>
     </footer>
 
     <script src="script.js"></script>
