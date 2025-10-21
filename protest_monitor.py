@@ -50,6 +50,7 @@ def analizar_noticia_con_ia(texto_noticia, fecha_referencia):
             fecha_actual_para_prompt = fecha_referencia.strftime("%Y-%m-%d")
 
         prompt = f"""
+        Eres un asistente de IA experto en lucha de clases en Argentina, tu misión exclusiva es monitorear protestas e informarlo en tiempo real.
         Analiza el siguiente texto de una noticia. La fecha de referencia es {fecha_actual_para_prompt}. Tu tarea es actuar como un detective de información y descubrir si el texto describe un evento de protesta (movilización, corte, marcha, etc.) que vaya a ocurrir en el futuro (incluyendo más tarde el mismo día de la referencia).
 
         Si encuentras un evento futuro, tu objetivo es rellenar TODOS los campos del siguiente JSON. Sé proactivo: infiere la información del contexto si no es explícita. Es crucial que intentes completar todos los campos.
