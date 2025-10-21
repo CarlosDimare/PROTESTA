@@ -71,33 +71,7 @@
                 </button>
             </nav>
 
-            <div class="filters-section">
-                <div class="filter-group">
-                    <label for="filter-type">Filtrar por tipo:</label>
-                    <select id="filter-type">
-                        <option value="all">Todos</option>
-                        <option value="protesta">Protesta</option>
-                        <option value="huelga">Huelga</option>
-                        <option value="manifestacion">Manifestación</option>
-                        <option value="conflicto">Conflicto</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="filter-status">Filtrar por estado:</label>
-                    <select id="filter-status">
-                        <option value="all">Todos</option>
-                        <option value="activo">Activo</option>
-                        <option value="finalizado">Finalizado</option>
-                        <option value="programado">Programado</option>
-                    </select>
-                </div>
-                <div class="search-group">
-                    <input type="text" id="search-input" placeholder="Buscar por ubicación...">
-                    <button id="search-btn"><i class="fas fa-search"></i></button>
-                </div>
-            </div>
-
-            <div id="ayer" class="tab-content active">
+                       <div id="ayer" class="tab-content active">
                 <div class="table-container">
                     <table id="table-ayer" class="events-table">
                         <thead>
@@ -181,35 +155,6 @@
             </div>
         </div>
     </main>
-
-    <footer class="main-footer">
-        <div class="footer-container">
-            <div class="footer-section">
-                <h3>Sobre el Monitor</h3>
-                <p>Herramienta de seguimiento de conflictos y protestas en tiempo real para mantener informada a la ciudadanía.</p>
-            </div>
-            <div class="footer-section">
-                <h3>Fuentes</h3>
-                <ul class="source-list">
-                    <li><i class="fas fa-newspaper"></i> Medios de comunicación</li>
-                    <li><i class="fas fa-users"></i> Reportes ciudadanos</li>
-                    <li><i class="fas fa-building"></i> Organizaciones sociales</li>
-                </ul>
-            </div>
-            <div class="footer-section">
-                <h3>Contacto</h3>
-                <p><i class="fas fa-envelope"></i> info@monitordeconflictos.org</p>
-                <div class="social-links">
-                    <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
-                    <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
-                    <a href="#" target="_blank"><i class="fab fa-instagram"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom">
-            <p>&copy; 2023 Monitor de Conflictos. Todos los derechos reservados.</p>
-        </div>
-    </footer>
 
     <script src="script.js"></script>
 </body>
