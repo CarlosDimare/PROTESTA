@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T07:17:50.587896-03:00",
+    "last_updated": "2025-10-21T08:15:34.298053-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1514,6 +1514,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-10-21",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Coad",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y aumento salarial del 42,53% para equiparar poder adquisitivo",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-21-y-miercoles-22-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
             "horario": "16:00",
             "lugar": "Plaza de Mayo, CABA",
             "quien": "Diversas organizaciones sindicales, estudiantiles y sociales (AGD-UBA, ATE Garrahan, Soy Garrahan, entre otras)",
@@ -1530,6 +1540,16 @@
             "tipo_medida": "Jornada de protesta",
             "motivo": "Exigir la promulgación de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/educacion/2025/10/20/los-docentes-universitarios-realizaran-otro-paro-nacional-piden-que-se-aplique-el-financiamiento-para-las-universidades/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-22",
+            "horario": "09:00",
+            "lugar": "Plaza San Martín, Buenos Aires",
+            "quien": "Transportistas nucleados en Atraes e instituciones nucleadas en Apridis",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Exigir la implementación inmediata de la Ley de Emergencia en Discapacidad ante la postergación y falta de respuestas del gobierno nacional",
+            "fuente": "https://elciudadanoweb.com/discapacidad-habra-paro-de-actividades-martes-y-miercoles-y-movilizacion-a-plaza-san-martin/"
         },
         {
             "es_evento_relevante": true,
