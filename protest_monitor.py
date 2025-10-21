@@ -25,8 +25,7 @@ SITIOS_A_MONITOREAR = {
     "Redeco": "https://www.redeco.com.ar/",
     "El Ciudadano": "https://elciudadanoweb.com/",
     "11noticias": "https://11noticias.com/", 
-    "Conclusión": "https://www.conclusion.com.ar/",
-    "Inoreader": "https://www.inoreader.com/stream/user/1003821126/tag/all-articles/view/html?cs=m&n=200"
+    "Conclusión": "https://www.conclusion.com.ar/"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
