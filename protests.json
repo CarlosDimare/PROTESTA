@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T11:16:30.476380-03:00",
+    "last_updated": "2025-10-21T12:17:20.905936-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1540,6 +1540,16 @@
             "tipo_medida": "Jornada de protesta",
             "motivo": "Exigir la promulgación de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/educacion/2025/10/20/los-docentes-universitarios-realizaran-otro-paro-nacional-piden-que-se-aplique-el-financiamiento-para-las-universidades/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
+            "horario": "día",
+            "lugar": "Edificio de la CGT, calle 36, La Plata",
+            "quien": "CGT Regional La Plata y Gobierno bonaerense",
+            "tipo_medida": "Acto",
+            "motivo": "Homenaje a José Ignacio Rucci como emblema de los trabajadores",
+            "fuente": "https://prensaobrera.com/politicas/si-votas-a-fuerza-patria-te-sale-un-rucci"
         },
         {
             "es_evento_relevante": true,
