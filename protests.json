@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T17:17:24.995947-03:00",
+    "last_updated": "2025-10-21T18:13:49.822603-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1545,11 +1545,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-21",
             "horario": "18:00",
-            "lugar": "Municipalidad de Salta 2950 (con concentración) y posteriormente Casa de Gobierno",
+            "lugar": "Municipalidad de Salta 2950",
             "quien": "Asamblea Ni Una Menos Santa Fe",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir políticas públicas contra la violencia de género y femicidios en Santa Fe",
-            "fuente": "https://elciudadanoweb.com/santa-fe-convocan-a-marcha-de-antorchas-tras-nuevos-hechos-de-violencia/"
+            "motivo": "Exigir políticas públicas contra la violencia de género y femicidios",
+            "fuente": "https://elciudadanoweb.com/santa-fe-convocan-a-marcha-de-antorchas-tras-nuevos-hechos-de-violencia-de-genero/, https://elciudadanoweb.com/santa-fe-convocan-a-marcha-de-antorchas-tras-nuevos-hechos-de-violencia/"
         },
         {
             "es_evento_relevante": true,
