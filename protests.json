@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T12:17:20.905936-03:00",
+    "last_updated": "2025-10-21T13:20:26.316905-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1525,11 +1525,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-21",
             "horario": "16:00",
-            "lugar": "Plaza de Mayo, CABA",
-            "quien": "Diversas organizaciones sindicales, estudiantiles y sociales (AGD-UBA, ATE Garrahan, Soy Garrahan, entre otras)",
-            "tipo_medida": "Concentración",
-            "motivo": "Exigir aplicación efectiva de leyes de Emergencia en Discapacidad, Emergencia Pediátrica y Financiamiento Universitario, y rechazar políticas de desfinanciamamiento del sistema público",
-            "fuente": "https://www.pagina12.com.ar/867265-nueva-marcha-a-plaza-de-mayo-por-la-emergencia-en-discapacid, https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+            "lugar": "Plaza de Mayo",
+            "quien": "ATE Garrahan y Conadu Histórica",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la aplicación de las leyes de financiamiento universitario y emergencia pediátrica, aumento salarial y rechazo a la suspensión de las leyes",
+            "fuente": "https://prensaobrera.com/politicas/milei-se-niega-a-cumplir-con-el-financiamiento-universitario-y-la-emergencia-pediatrica, https://www.pagina12.com.ar/867265-nueva-marcha-a-plaza-de-mayo-por-la-emergencia-en-discapacid, https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
         },
         {
             "es_evento_relevante": true,
