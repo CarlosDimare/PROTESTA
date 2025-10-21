@@ -23,6 +23,9 @@ SITIOS_A_MONITOREAR = {
     "Iprofesional": "https://www.iprofesional.com/",
     "Anred": "https://www.anred.org/",
     "Redeco": "https://www.redeco.com.ar/",
+    "El Ciudadano": "https://elciudadanoweb.com/",
+    "11noticias": "https://11noticias.com/", 
+    "Conclusión": "https://www.conclusion.com.ar/",
     "Inoreader": "https://www.inoreader.com/stream/user/1003821126/tag/all-articles/view/html?cs=m&n=200"
 }
 
