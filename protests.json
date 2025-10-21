@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T13:20:26.316905-03:00",
+    "last_updated": "2025-10-21T14:16:34.815556-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1526,10 +1526,20 @@
             "fecha": "2025-10-21",
             "horario": "16:00",
             "lugar": "Plaza de Mayo",
-            "quien": "ATE Garrahan y Conadu Histórica",
+            "quien": "Trabajadores del Hospital Garrahan (ATE-Garrahan), docentes universitarios y sectores de discapacidad",
             "tipo_medida": "Movilización",
-            "motivo": "Exigir la aplicación de las leyes de financiamiento universitario y emergencia pediátrica, aumento salarial y rechazo a la suspensión de las leyes",
-            "fuente": "https://prensaobrera.com/politicas/milei-se-niega-a-cumplir-con-el-financiamiento-universitario-y-la-emergencia-pediatrica, https://www.pagina12.com.ar/867265-nueva-marcha-a-plaza-de-mayo-por-la-emergencia-en-discapacid, https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+            "motivo": "Rechazo a la suspensión de la ley de emergencia pediátrica y financiamiento universitario por parte del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Garrahan-ante-una-nueva-provocacion-del-Gobierno-convocan-paro-movilizacion-y-cacerolazo, https://prensaobrera.com/politicas/milei-se-niega-a-cumplir-con-el-financiamiento-universitario-y-la-emergencia-pediatrica, https://www.pagina12.com.ar/867265-nueva-marcha-a-plaza-de-mayo-por-la-emergencia-en-discapacid, https://prensaobrera.com/sindicales/unificamos-fuerzas-trabajadores-del-garrahan-universidades-y-discapacidad-marchan-a-plaza-de-mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
+            "horario": "18:00",
+            "lugar": "Municipalidad de Salta 2950 (con concentración) y posteriormente Casa de Gobierno",
+            "quien": "Asamblea Ni Una Menos Santa Fe",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir políticas públicas contra la violencia de género y femicidios en Santa Fe",
+            "fuente": "https://elciudadanoweb.com/santa-fe-convocan-a-marcha-de-antorchas-tras-nuevos-hechos-de-violencia/"
         },
         {
             "es_evento_relevante": true,
