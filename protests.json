@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-21T15:20:55.646246-03:00",
+    "last_updated": "2025-10-21T16:13:38.901675-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1520,6 +1520,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y aumento salarial del 42,53% para equiparar poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-21-y-miercoles-22-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-21",
+            "horario": "15:00",
+            "lugar": "Plaza San Martín, Córdoba",
+            "quien": "Familiares de personas con discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo contra recortes en pensiones y prestaciones, y suspensión de leyes de Emergencia Pediátrica y Financiamiento Universitario",
+            "fuente": "https://www.pagina12.com.ar/867494-javier-milei-cierra-la-campana-en-cordoba-rodeado-de-protest"
         },
         {
             "es_evento_relevante": true,
