@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-22T12:16:00.279254-03:00",
+    "last_updated": "2025-10-22T13:21:15.904826-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1570,6 +1570,16 @@
             "tipo_medida": "Acto",
             "motivo": "Homenaje a José Ignacio Rucci como emblema de los trabajadores",
             "fuente": "https://prensaobrera.com/politicas/si-votas-a-fuerza-patria-te-sale-un-rucci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-22",
+            "horario": "09:00",
+            "lugar": "Universidades de todo el país",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la suspensión de la Ley de Financiamiento Universitario y reclamo por actualización de gastos y reapertura de paritarias",
+            "fuente": "https://www.inforegion.com.ar/2025/10/21/universidades-en-pie-de-lucha-paro-de-docentes-y-nodocentes/, https://rebelion.org/nuevo-paro-de-48-horas-de-la-federacion-de-docentes-universitarios/"
         },
         {
             "es_evento_relevante": true,
