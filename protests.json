@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-22T16:13:39.584403-03:00",
+    "last_updated": "2025-10-22T17:19:28.543298-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1660,6 +1660,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa del derecho a huelga y reclamo de devolución de descuentos por días de paro",
             "fuente": "https://prensaobrera.com/sindicales/importante-concentracion-de-la-docencia-combativa-para-defender-el-derecho-a-huelga-en-la-provincia-de-buenos-aires, https://www.infobae.com/politica/2025/10/09/con-fuertes-criticas-a-milei-la-catt-formalizo-la-continuidad-de-juan-carlos-schmid-al-frente-del-gremio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-29",
+            "horario": "14:00",
+            "lugar": "Congreso de la Nación (Palacio Legislativo)",
+            "quien": "Jubilados y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir aumento de jubilaciones acorde a la inflación y rechazar políticas de ajuste del gobierno",
+            "fuente": "https://www.pagina12.com.ar/867788-jubilados-vuelven-a-marchar-al-congreso-en-la-previa-elector"
         },
         {
             "es_evento_relevante": true,
