@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-22T01:18:57.105387-03:00",
+    "last_updated": "2025-10-22T02:16:10.392762-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1580,6 +1580,16 @@
             "tipo_medida": "Paro y Marcha",
             "motivo": "Exigir la implementación inmediata de la Ley de Emergencia en Discapacidad ante la postergación y falta de respuestas del gobierno nacional",
             "fuente": "https://elciudadanoweb.com/discapacidad-habra-paro-de-actividades-martes-y-miercoles-y-movilizacion-a-plaza-san-martin/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-22",
+            "horario": "14:00",
+            "lugar": "Fate (Blanco Encalada 3003, Victoria)",
+            "quien": "SUTNA (Sindicato del Neumático)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de paritarias y rechazo a rebaja salarial, acusando al gobierno de facilitar importaciones y deslocalización",
+            "fuente": "https://www.infobae.com/politica/2025/10/22/un-gremio-de-izquierda-rompe-la-paz-sindical-antes-de-las-elecciones-y-hara-un-paro-de-24-horas-contra-la-rebaja-salarial/"
         },
         {
             "es_evento_relevante": true,
