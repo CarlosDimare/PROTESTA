@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-22T09:30:40.904585-03:00",
+    "last_updated": "2025-10-22T10:32:03.539592-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1590,6 +1590,26 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de paritarias y rechazo a rebaja salarial, acusando al gobierno de facilitar importaciones y deslocalización",
             "fuente": "https://www.infobae.com/politica/2025/10/22/un-gremio-de-izquierda-rompe-la-paz-sindical-antes-de-las-elecciones-y-hara-un-paro-de-24-horas-contra-la-rebaja-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-22",
+            "horario": "16:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CONADU con participación de trabajadores del Hospital Garrahan y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la promulgación de la Ley de Financiamiento Universitaria y crítica a la política económica del gobierno",
+            "fuente": "https://www.inforegion.com.ar/2025/10/21/docentes-universitarios-vuelven-al-paro-por-la-demora-en-la-promulgacion-de-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-23",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU (Federación Nacional de Docentes Universitarios)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir promulgación y ejecución de Ley Nº 27.795 de Financiamiento Universitario y recomposición salarial",
+            "fuente": "https://www.inforegion.com.ar/2025/10/20/universidades-vuelven-al-paro-porque-el-gobierno-no-aplica-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
