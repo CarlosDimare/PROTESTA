@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-22T17:19:28.543298-03:00",
+    "last_updated": "2025-10-22T18:13:13.419582-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1590,6 +1590,16 @@
             "tipo_medida": "Paro y Marcha",
             "motivo": "Exigir la implementación inmediata de la Ley de Emergencia en Discapacidad ante la postergación y falta de respuestas del gobierno nacional",
             "fuente": "https://elciudadanoweb.com/discapacidad-habra-paro-de-actividades-martes-y-miercoles-y-movilizacion-a-plaza-san-martin/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-22",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional (esquina Rivadavia y Entre Ríos)",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de aumento en los haberes y restitución del bono mensual",
+            "fuente": "https://www.inforegion.com.ar/2025/10/22/jubilados-empujados-y-vallados-por-la-policia-en-su-marcha-habitual-de-los-miercoles-en-congreso/"
         },
         {
             "es_evento_relevante": true,
