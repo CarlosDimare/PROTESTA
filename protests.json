@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-23T09:31:31.459508-03:00",
+    "last_updated": "2025-10-23T10:31:04.218688-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1630,6 +1630,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir promulgación y ejecución de Ley Nº 27.795 de Financiamiento Universitario y recomposición salarial",
             "fuente": "https://www.inforegion.com.ar/2025/10/20/universidades-vuelven-al-paro-porque-el-gobierno-no-aplica-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-23",
+            "horario": "17:30",
+            "lugar": "Plaza de la Concertación",
+            "quien": "CATT Rosario, ATE, COAD, CCC, Movimiento Evita, UTEP",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la presencia del presidente Javier Milei y declaración de 'persona no grata'",
+            "fuente": "https://elciudadanoweb.com/milei-encabezara-en-rosario-el-acto-de-campana-antes-de-las-elecciones-legislativas-con-operativo-reforzado-y-protestas-en-puerta/"
         },
         {
             "es_evento_relevante": true,
