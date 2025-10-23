@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-23T03:24:06.807839-03:00",
+    "last_updated": "2025-10-23T04:17:36.698030-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1650,6 +1650,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Recomposición salarial y denuncias de incumplimientos del convenio colectivo",
             "fuente": "https://www.laizquierdadiario.com/Aeronauticos-asambleas-en-Aeroparque-ante-un-ataque-salarial-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-26",
+            "horario": "10:30",
+            "lugar": "Santa Fe (probablemente Rosario)",
+            "quien": "Intersindical Rosario (gremios nucleados)",
+            "tipo_medida": "Movilización electoral",
+            "motivo": "Rechazo a políticas económicas del gobierno de Milei y apoyo a Fuerza Patria en elecciones legislativas",
+            "fuente": "https://elciudadanoweb.com/duro-comunicado-de-la-intersindical-rosario-el-modelo-economico-del-gobierno-nacional-fracaso/, https://elciudadanoweb.com/el-gobierno-de-santa-fe-anuncio-que-descontara-el-dia-a-los-docentes-y-otros-empleados-publicos-que-adhieran-al-paro-nacional/"
         },
         {
             "es_evento_relevante": true,
