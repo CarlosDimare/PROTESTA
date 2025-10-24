@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T16:15:46.041416-03:00",
+    "last_updated": "2025-10-24T17:19:44.932148-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1740,6 +1740,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa del derecho a huelga y reclamo de devolución de descuentos por días de paro",
             "fuente": "https://prensaobrera.com/sindicales/importante-concentracion-de-la-docencia-combativa-para-defender-el-derecho-a-huelga-en-la-provincia-de-buenos-aires, https://www.infobae.com/politica/2025/10/09/con-fuertes-criticas-a-milei-la-catt-formalizo-la-continuidad-de-juan-carlos-schmid-al-frente-del-gremio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-29",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Jubilados autoconvocados",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por mejoras en haberes y condiciones de vida frente a la inflación y deterioro de ingresos",
+            "fuente": "https://www.inforegion.com.ar/2025/10/24/el-reclamo-de-los-jubilados-argentinos-llego-a-la-prensa-internacional/"
         },
         {
             "es_evento_relevante": true,
