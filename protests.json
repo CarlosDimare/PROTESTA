@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-23T20:17:11.963650-03:00",
+    "last_updated": "2025-10-23T22:05:59.355631-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1660,6 +1660,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Recomposición salarial y denuncias de incumplimientos del convenio colectivo",
             "fuente": "https://www.laizquierdadiario.com/Aeronauticos-asambleas-en-Aeroparque-ante-un-ataque-salarial-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-25",
+            "horario": "14:30",
+            "lugar": "Plaza Francia, Lima",
+            "quien": "Colectivo Generación Z",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar el estado policiaco de José Jerí y pedir justicia por el asesinato del rapero 'Trvko'",
+            "fuente": "https://www.anred.org/peru-el-gobierno-declara-estado-de-emergencia-pero-el-sabado-hay-protestas-por-el-asesinato-de-un-manifestante/"
         },
         {
             "es_evento_relevante": true,
