@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T15:25:19.316585-03:00",
+    "last_updated": "2025-10-24T16:15:46.041416-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1750,6 +1750,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir aumento de jubilaciones acorde a la inflación y rechazar políticas de ajuste del gobierno",
             "fuente": "https://www.pagina12.com.ar/867788-jubilados-vuelven-a-marchar-al-congreso-en-la-previa-elector"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-30",
+            "horario": "15:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "jubilados argentinos (autoconvocados)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por mejoras en haberes y condiciones de vida frente al deterioro del poder adquisitivo",
+            "fuente": "https://www.inforegion.com.ar/2025/10/24/el-reclamo-de-los-jubilados-argentinos-llego-a-reuters/"
         },
         {
             "es_evento_relevante": true,
