@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T12:19:45.230267-03:00",
+    "last_updated": "2025-10-24T13:22:40.786567-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1656,10 +1656,10 @@
             "fecha": "2025-10-24",
             "horario": "06:00",
             "lugar": "Aeroparque Jorge Newbery",
-            "quien": "APLA (Asociación de Pilotos de Líneas Aéreas)",
-            "tipo_medida": "Asamblea informativa",
-            "motivo": "Reclamos por salarios, ascensos, dotación, incumplimiento del convenio colectivo, fallas en motores B737 y falta de previsión empresarial",
-            "fuente": "https://www.pagina12.com.ar/868251-asamblea-de-pilotos-en-aeroparque-podria-haber-demoras-y-can"
+            "quien": "Asociación de Pilotos (APLA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, ascensos, dotación, cumplimiento del CCT, seguridad aérea y denuncias de embates empresariales y gubernamentales",
+            "fuente": "https://www.laizquierdadiario.com/Aerolineas-Argentinas-asambleas-de-pilotos-en-defensa-del-salario-convenio-y-seguridad-aerea, https://www.pagina12.com.ar/868251-asamblea-de-pilotos-en-aeroparque-podria-haber-demoras-y-can"
         },
         {
             "es_evento_relevante": true,
