@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T06:20:32.615208-03:00",
+    "last_updated": "2025-10-24T07:20:56.722295-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1690,6 +1690,16 @@
             "tipo_medida": "Movilización electoral",
             "motivo": "Rechazo a políticas económicas del gobierno de Milei y apoyo a Fuerza Patria en elecciones legislativas",
             "fuente": "https://elciudadanoweb.com/duro-comunicado-de-la-intersindical-rosario-el-modelo-economico-del-gobierno-nacional-fracaso/, https://elciudadanoweb.com/el-gobierno-de-santa-fe-anuncio-que-descontara-el-dia-a-los-docentes-y-otros-empleados-publicos-que-adhieran-al-paro-nacional/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-26",
+            "horario": "No especificado",
+            "lugar": "Mitre y Tucumán, Rosario (con desplazamiento hacia Parque España)",
+            "quien": "CATT (Confederación Argentina de Trabajadores del Transporte) y arco opositor (Barrios de Pie, Movimiento Evita, PTS, PO, Sanidad, MST, MTR, Alde, CCC, Coad, sindicato de cadetes, organismos de DDHH y CTA de los Trabajadores)",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la visita del presidente Javier Milei, políticas de su gobierno, crisis económica-financiera, injerencia de EE.UU. y defensa de la democracia y derechos sociales",
+            "fuente": "https://elciudadanoweb.com/marcha-opositora-bajo-gran-custodia-declara-la-presencia-de-milei-como-no-grata-y-la-repudia-bien-fuerte/"
         },
         {
             "es_evento_relevante": true,
