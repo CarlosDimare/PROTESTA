@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T10:29:00.689935-03:00",
+    "last_updated": "2025-10-24T11:18:19.886895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1670,6 +1670,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Recomposición salarial y denuncias de incumplimientos del convenio colectivo",
             "fuente": "https://www.laizquierdadiario.com/Aeronauticos-asambleas-en-Aeroparque-ante-un-ataque-salarial-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-24",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicatos del ala izquierda del AFL-CIO",
+            "tipo_medida": "Huelga general",
+            "motivo": "Contra la ofensiva de Trump, militarización y régimen fascista",
+            "fuente": "https://prensaobrera.com/internacionales/estados-unidos-entre-la-militarizacion-las-movilizaciones-de-masas-y-el-cierre-del-gobierno"
         },
         {
             "es_evento_relevante": true,
