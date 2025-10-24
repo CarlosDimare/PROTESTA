@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24T08:16:41.594093-03:00",
+    "last_updated": "2025-10-24T09:33:14.884622-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1650,6 +1650,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperar democracia estudiantil y convocar elecciones de Centro tras 5 años de ausencia, oponiéndose a ajustes y defendiendo educación pública",
             "fuente": "https://www.laizquierdadiario.com/Humanidades-rompe-el-silencio-convocando-a-Asamblea-Extraordinaria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-24",
+            "horario": "06:00",
+            "lugar": "Aeroparque Jorge Newbery",
+            "quien": "APLA (Asociación de Pilotos de Líneas Aéreas)",
+            "tipo_medida": "Asamblea informativa",
+            "motivo": "Reclamos por salarios, ascensos, dotación, incumplimiento del convenio colectivo, fallas en motores B737 y falta de previsión empresarial",
+            "fuente": "https://www.pagina12.com.ar/868251-asamblea-de-pilotos-en-aeroparque-podria-haber-demoras-y-can"
         },
         {
             "es_evento_relevante": true,
