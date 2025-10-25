@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-25T09:28:19.906348-03:00",
+    "last_updated": "2025-10-25T10:23:26.084181-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1700,6 +1700,16 @@
             "tipo_medida": "Marcha conmemorativa",
             "motivo": "Exigir justicia y verdad por la desaparición forzada de Darío Jerez, 24 años después",
             "fuente": "https://www.anred.org/santa-teresita-nueva-movilizacion-a-24-anos-de-la-desaparicion-forzada-de-dario-jerez/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-26",
+            "horario": "06:00",
+            "lugar": "Aeroparque Jorge Newbery",
+            "quien": "Asociación de Pilotos de Líneas Aéreas (APLA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, cumplimiento del convenio colectivo, ascensos pendientes y mantenimiento de la flota frente a Aerolíneas Argentinas",
+            "fuente": "https://www.infobae.com/economia/2025/10/25/retrasos-masivos-y-caos-en-aeroparque-tras-otra-medida-salvaje-gremial-hubo-unos-7000-pasajeros-afectados/"
         },
         {
             "es_evento_relevante": true,
