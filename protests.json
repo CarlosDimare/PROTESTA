@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-28T15:23:43.765176-03:00",
+    "last_updated": "2025-10-28T16:13:20.563675-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1780,6 +1780,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por mejoras en haberes y condiciones de vida frente al deterioro del poder adquisitivo",
             "fuente": "https://www.inforegion.com.ar/2025/10/24/el-reclamo-de-los-jubilados-argentinos-llego-a-reuters/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "14:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Colectivos y organizaciones LGBTIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el ajuste, recortes a derechos LGBTIQ+ y políticas de odio del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/lgbti/1n-copemos-las-calles-contra-los-liberfachos"
         },
         {
             "es_evento_relevante": true,
