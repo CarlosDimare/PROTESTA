@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-28T08:13:38.025308-03:00",
+    "last_updated": "2025-10-28T09:31:53.534501-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1780,6 +1780,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por mejoras en haberes y condiciones de vida frente al deterioro del poder adquisitivo",
             "fuente": "https://www.inforegion.com.ar/2025/10/24/el-reclamo-de-los-jubilados-argentinos-llego-a-reuters/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "No especificado",
+            "lugar": "Ante embajadas y consulados italianos",
+            "quien": "Tendencia Internacionalista Revolucionaria (TIR)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Solidaridad con activistas detenidos en Italia y repudio a la represión política",
+            "fuente": "https://prensaobrera.com/internacionales/italia-dura-represion-de-una-protesta-pacifica-antisionista-deja-varios-detenidos"
         },
         {
             "es_evento_relevante": true,
