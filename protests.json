@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-29T15:25:56.747430-03:00",
+    "last_updated": "2025-10-29T16:16:20.524417-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1765,6 +1765,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-29",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de los jubilados",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/gestion-bullrich-en-seguridad-1-300-heridos-en-represiones-y-el-delito-en-ascenso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-29",
+            "horario": "10:00",
             "lugar": "Congreso de la Nación",
             "quien": "Jubilados autoconvocados",
             "tipo_medida": "Movilización",
@@ -1810,6 +1820,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el ajuste, recortes a derechos LGBTIQ+ y políticas de odio del gobierno de Milei",
             "fuente": "https://prensaobrera.com/lgbti/1n-copemos-las-calles-contra-los-liberfachos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "16:00",
+            "lugar": "Plaza de Mayo a Congreso",
+            "quien": "Agrupación LGBTI 1969",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a políticas del gobierno de Milei que afectan derechos LGBTI+, mujeres y trabajadores, incluyendo ataques a derechos, ajuste económico, represión y crímenes de odio.",
+            "fuente": "https://prensaobrera.com/lgbti/a-milei-y-los-ajustadores-los-derrotamos-en-las-calles"
         },
         {
             "es_evento_relevante": true,
