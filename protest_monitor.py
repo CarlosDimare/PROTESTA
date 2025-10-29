@@ -29,7 +29,8 @@ SITIOS_A_MONITOREAR = {
     "INFONOROESTE": "https://infonoroeste.com.ar/",
     "INFOREGION": "https://www.inforegion.com.ar/",
     "ATE" : "https://ate.org.ar/",
-    "Data Gremial": "https://www.datagremial.com/"
+    "Data Gremial": "https://www.datagremial.com/",
+    "Estado de Alerta": "https://estadodealerta.com.ar/"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
