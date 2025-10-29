@@ -28,7 +28,8 @@ SITIOS_A_MONITOREAR = {
     "Conclusión": "https://www.conclusion.com.ar/",
     "INFONOROESTE": "https://infonoroeste.com.ar/",
     "INFOREGION": "https://www.inforegion.com.ar/",
-    "ATE" : "https://ate.org.ar/"
+    "ATE" : "https://ate.org.ar/",
+    "Data Gremial": "https://www.datagremial.com/"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
