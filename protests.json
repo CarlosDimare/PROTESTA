@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-29T14:20:02.602267-03:00",
+    "last_updated": "2025-10-29T15:25:56.747430-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1820,6 +1820,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Solidaridad con activistas detenidos en Italia y repudio a la represión política",
             "fuente": "https://prensaobrera.com/internacionales/italia-dura-represion-de-una-protesta-pacifica-antisionista-deja-varios-detenidos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
+            "horario": "12:00",
+            "lugar": "Sedes del PAMI a nivel nacional",
+            "quien": "Frente Sindical de Unidad (ATE, UTI, SUTEPA, APPAMIA)",
+            "tipo_medida": "Asambleas",
+            "motivo": "Rechazo a aumentos salariales irrisorios y reclamo de recomposición tras casi un año de congelamiento",
+            "fuente": "https://estadodealerta.com.ar/el-frente-sindical-del-pami-retoma-a-partir-del-lunes-el-plan-de-asambleas-paros-parciales-y-movilizaciones/"
         },
         {
             "es_evento_relevante": true,
