@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T14:19:52.027648-03:00",
+    "last_updated": "2025-10-30T15:24:35.867480-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1850,6 +1850,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el ajuste, recortes a derechos LGBTIQ+ y políticas de odio del gobierno de Milei",
             "fuente": "https://prensaobrera.com/lgbti/1n-copemos-las-calles-contra-los-liberfachos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "15:00",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Comunidad LGBTIQ+ y aliados",
+            "tipo_medida": "Marcha",
+            "motivo": "Resistencia a la política de odio y reformas antiderechos del gobierno de La Libertad Avanza, defensa de derechos sexuales y diversidad",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-del-orgullo-sobre-el-Estado-del-odio-el-lobby-gay-y-la-resistencia"
         },
         {
             "es_evento_relevante": true,
