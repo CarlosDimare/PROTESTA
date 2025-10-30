@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T12:19:25.793014-03:00",
+    "last_updated": "2025-10-30T13:25:54.002659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1860,6 +1860,16 @@
             "tipo_medida": "Asambleas",
             "motivo": "Rechazo a aumentos salariales irrisorios y reclamo de recomposición tras casi un año de congelamiento",
             "fuente": "https://estadodealerta.com.ar/el-frente-sindical-del-pami-retoma-a-partir-del-lunes-el-plan-de-asambleas-paros-parciales-y-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
+            "horario": "La hora de inicio del evento de protesta especificada en el texto es:  \n**12:00**  \n\n*(Corresponde a la marcha frente al Congreso convocada para el día miércoles, mencionada explícitamente como \"a partir de las 12.00\")*.",
+            "lugar": "Parque Tecnológico Miguelete, General San Martín, Buenos Aires",
+            "quien": "Delegados de ATE-INTI (Erica Dollmann, Francisco Dollmann, entre otros)",
+            "tipo_medida": "Movilización/Protesta",
+            "motivo": "Resistencia a la remoción del cartel no autorizado 'Pancho Dollman' y protesta contra las medidas disciplinarias y de seguridad implementadas por las autoridades del INTI",
+            "fuente": "https://www.infobae.com/politica/2025/10/30/tension-en-el-inti-vandalizaron-4-camaras-de-seguridad-en-la-sede-del-organismo-que-desde-el-lunes-sera-custodiada-por-gendarmeria/, https://elintransigente.com/2025/08/ate-anuncio-un-paro-de-24-horas-y-movilizacion-al-congreso/"
         },
         {
             "es_evento_relevante": true,
