@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T13:25:54.002659-03:00",
+    "last_updated": "2025-10-30T14:19:52.027648-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1795,11 +1795,31 @@
             "es_evento_relevante": true,
             "fecha": "2025-10-30",
             "horario": "12:00",
+            "lugar": "Avenida Roque Sáenz Peña 788, Ciudad de Buenos Aires (Ministerio de Desregulación y Transformación del Estado)",
+            "quien": "Mesa intersindical (ATE, Appamia, Sutepa, UTI)",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Rechazo a oferta salarial del gobierno (2.8% en 3 meses) y reclamo de actualización por sueldos congelados desde noviembre de 2024",
+            "fuente": "https://www.laizquierdadiario.com/Protesta-nacional-de-trabajadores-de-PAMI-por-sueldos-congelados-desde-hace-un-ano"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-30",
+            "horario": "12:00",
             "lugar": "Sede central del PAMI",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al congelamiento salarial y políticas de ajuste de PAMI",
             "fuente": "https://www.infobae.com/politica/2025/10/29/los-jubilados-volvieron-a-marchar-al-congreso-y-la-policia-aplico-el-protocolo-antipiquete/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-30",
+            "horario": "14:00",
+            "lugar": "No especificado",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Plenario Nacional",
+            "motivo": "Debate y planificación de medidas de fuerza frente al incumplimiento de EANA en reincorporaciones, actualizaciones salariales y rubros laborales",
+            "fuente": "https://www.infobae.com/economia/2025/10/30/el-gremio-de-controladores-anuncio-9-paros-para-la-aviacion-de-carga-durante-noviembre/"
         },
         {
             "es_evento_relevante": true,
