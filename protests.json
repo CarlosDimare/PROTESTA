@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T15:24:35.867480-03:00",
+    "last_updated": "2025-10-30T16:17:38.918707-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1900,6 +1900,16 @@
             "tipo_medida": "Movilización/Protesta",
             "motivo": "Resistencia a la remoción del cartel no autorizado 'Pancho Dollman' y protesta contra las medidas disciplinarias y de seguridad implementadas por las autoridades del INTI",
             "fuente": "https://www.infobae.com/politica/2025/10/30/tension-en-el-inti-vandalizaron-4-camaras-de-seguridad-en-la-sede-del-organismo-que-desde-el-lunes-sera-custodiada-por-gendarmeria/, https://elintransigente.com/2025/08/ate-anuncio-un-paro-de-24-horas-y-movilizacion-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Atepsa",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de compromisos del Convenio Colectivo de Trabajo por parte de Eana, específicamente en organización de turnos, condiciones de servicio y procedimientos internos",
+            "fuente": "https://www.pagina12.com.ar/870104-controladores-aereos-anunciaron-un-paro-por-los-incumplimien"
         },
         {
             "es_evento_relevante": true,
