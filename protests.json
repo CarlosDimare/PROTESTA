@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T17:19:47.110713-03:00",
+    "last_updated": "2025-10-30T18:17:15.741341-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1790,6 +1790,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir aumento de jubilaciones acorde a la inflación y rechazar políticas de ajuste del gobierno",
             "fuente": "https://www.pagina12.com.ar/867788-jubilados-vuelven-a-marchar-al-congreso-en-la-previa-elector"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-30",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la eliminación de las cuotas solidarias en la reforma laboral propuesta por el gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/envalentonado-por-el-triunfo-electoral-el-gobierno-volvera-a-intentar-eliminar-la-cuota-solidaria-sindical-2025103012530"
         },
         {
             "es_evento_relevante": true,
