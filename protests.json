@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-30T09:33:09.939717-03:00",
+    "last_updated": "2025-10-30T10:31:12.975139-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1860,6 +1860,16 @@
             "tipo_medida": "Asambleas",
             "motivo": "Rechazo a aumentos salariales irrisorios y reclamo de recomposición tras casi un año de congelamiento",
             "fuente": "https://estadodealerta.com.ar/el-frente-sindical-del-pami-retoma-a-partir-del-lunes-el-plan-de-asambleas-paros-parciales-y-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-05",
+            "horario": "09:00",
+            "lugar": "Congreso Nacional, Avenida Rivadavia entre Callao y Entre Ríos",
+            "quien": "Jubilados y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por jubilaciones dignas, represión policial y situación económica",
+            "fuente": "https://www.pagina12.com.ar/869963-gases-para-los-jubilados-en-el-congreso"
         },
         {
             "es_evento_relevante": true,
