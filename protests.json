@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-31T19:18:00.071512-03:00",
+    "last_updated": "2025-10-31T20:18:26.301829-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1914,22 +1914,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-03",
-            "horario": "08:00",
-            "lugar": "EANA (Empresa Argentina de Navegación Aérea) - A nivel nacional",
-            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
-            "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de acuerdos laborales, convenio colectivo y pauta salarial con EANA",
-            "fuente": "https://www.pagina12.com.ar/870352-los-controladores-aereos-anunciaron-nueve-paros-para-noviemb"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-03",
             "horario": "12:00",
             "lugar": "Sedes del PAMI a nivel nacional",
             "quien": "Frente Sindical de Unidad (ATE, UTI, SUTEPA, APPAMIA)",
             "tipo_medida": "Asambleas",
             "motivo": "Rechazo a aumentos salariales irrisorios y reclamo de recomposición tras casi un año de congelamiento",
             "fuente": "https://estadodealerta.com.ar/el-frente-sindical-del-pami-retoma-a-partir-del-lunes-el-plan-de-asambleas-paros-parciales-y-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
+            "horario": "22:00",
+            "lugar": "Instalaciones de la Empresa Argentina de Navegación Aérea (EANA) y aeropuertos",
+            "quien": "Atepsa (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Incumplimiento de acuerdos por parte de EANA respecto al Convenio Colectivo de Trabajo",
+            "fuente": "https://www.infobae.com/economia/2025/10/31/preocupacion-en-las-aerolineas-por-los-paros-de-controladores-sera-imposible-reprogramar-vuelos-y-se-perderan-millones/, https://www.pagina12.com.ar/870352-los-controladores-aereos-anunciaron-nueve-paros-para-noviemb"
         },
         {
             "es_evento_relevante": true,
