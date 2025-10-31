@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-31T11:18:00.309835-03:00",
+    "last_updated": "2025-10-31T12:19:05.897485-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1904,6 +1904,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-03",
+            "horario": "08:00",
+            "lugar": "EANA (Empresa Argentina de Navegación Aérea) - A nivel nacional",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdos laborales, convenio colectivo y pauta salarial con EANA",
+            "fuente": "https://www.pagina12.com.ar/870352-los-controladores-aereos-anunciaron-nueve-paros-para-noviemb"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
             "horario": "12:00",
             "lugar": "Sedes del PAMI a nivel nacional",
             "quien": "Frente Sindical de Unidad (ATE, UTI, SUTEPA, APPAMIA)",
@@ -1930,6 +1940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de compromisos del Convenio Colectivo de Trabajo por parte de Eana, específicamente en organización de turnos, condiciones de servicio y procedimientos internos",
             "fuente": "https://www.pagina12.com.ar/870104-controladores-aereos-anunciaron-un-paro-por-los-incumplimien"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-05",
+            "horario": "09:00",
+            "lugar": "Estadio de Obras Sanitarias",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Congreso",
+            "motivo": "Renovación de autoridades y definición de estrategias frente a la reforma laboral del gobierno",
+            "fuente": "https://estadodealerta.com.ar/cgt-en-la-uocra-renovacion-autoridades-con-flexibilizacion-laboral-y-ataque-recargado-al-sindicalismo/"
         },
         {
             "es_evento_relevante": true,
