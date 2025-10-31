@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-31T16:15:30.681821-03:00",
+    "last_updated": "2025-10-31T17:22:48.195917-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1860,6 +1860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Resistencia a la reforma laboral del Gobierno y defensa de derechos de los trabajadores",
             "fuente": "https://www.infobae.com/politica/2025/10/30/con-presencias-y-ausencias-sugestivas-la-cgt-debatio-como-enfrentar-la-reforma-laboral-no-descartaron-protestas/, https://cgt.es/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-31",
+            "horario": "No especificado",
+            "lugar": "Astillero Río Santiago, Ensenada",
+            "quien": "Trabajadores del Astillero Río Santiago",
+            "tipo_medida": "Asamblea",
+            "motivo": "Reclamo por aumento salarial y reparto irregular de categorías gremiales",
+            "fuente": "https://prensaobrera.com/sindicales/escandalo-en-el-astillero-rio-santiago-la-conduccion-de-ate-y-la-gerencia-se-reparten-las-categorias"
         },
         {
             "es_evento_relevante": true,
