@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-31T06:20:15.992262-03:00",
+    "last_updated": "2025-10-31T07:19:24.165696-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1850,6 +1850,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Reclamo por actualización salarial y condiciones laborales tras fracaso en negociaciones paritarias",
             "fuente": "https://www.datagremial.com/paritarias/pilotos-realizaron-asambleas-para-pedir-por-salarios-y-hubo-demoras-y-cancelaciones-202510241710, https://estadodealerta.com.ar/pilotos-de-apla-llevaron-adelante-asambleas-informativas-en-aeroparque-reclamando-por-salarios-y-por-seguridad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-10-31",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Resistencia a la reforma laboral del Gobierno y defensa de derechos de los trabajadores",
+            "fuente": "https://www.infobae.com/politica/2025/10/30/con-presencias-y-ausencias-sugestivas-la-cgt-debatio-como-enfrentar-la-reforma-laboral-no-descartaron-protestas/, https://cgt.es/"
         },
         {
             "es_evento_relevante": true,
