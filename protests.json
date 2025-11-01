@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T14:15:40.345979-03:00",
+    "last_updated": "2025-11-01T15:25:33.474071-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1920,6 +1920,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Solidaridad con activistas detenidos en Italia y repudio a la represión política",
             "fuente": "https://prensaobrera.com/internacionales/italia-dura-represion-de-una-protesta-pacifica-antisionista-deja-varios-detenidos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-02",
+            "horario": "09:00",
+            "lugar": "Neuquén capital",
+            "quien": "Plenario de delegadxs y comunidad educativa",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la suspensión inmediata de traslados y cierres de salas anexas en el Nivel Inicial, y defender el derecho a una educación pública con condiciones laborales dignas",
+            "fuente": "https://prensaobrera.com/sindicales/neuquen-avanza-el-cierre-de-cargos-y-la-flexibilizacion-laboral-en-el-nivel-inicial, https://www.infobae.com/mexico/2024/09/30/toma-de-protesta-de-claudia-sheinbaum-hora-y-donde-ver-en-vivo/"
         },
         {
             "es_evento_relevante": true,
