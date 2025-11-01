@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T11:16:27.375101-03:00",
+    "last_updated": "2025-11-01T12:18:04.866282-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1874,22 +1874,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-01",
-            "horario": "14:00",
-            "lugar": "Plaza de Mayo y alrededores (área delimitada por Av. Corrientes, Av. Belgrano, Av. Leandro N. Alem y Sarandí)",
-            "quien": "Comisión Organizadora de la Marcha del Orgullo – Línea Histórica",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo – Línea Histórica (60+ organizaciones sociales)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a los DNU 61/25 y 62/25 por afectar derechos de personas LGBTIQ+, exigencia de reparación histórica para personas travestis y trans adultas mayores, y oposición al discurso y políticas del gobierno",
-            "fuente": "https://www.infobae.com/sociedad/2025/11/01/cuales-son-los-cortes-de-calles-programados-para-la-celebracion-de-la-marcha-del-orgullo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-01",
-            "horario": "14:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Colectivos y organizaciones LGBTIQ+",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el ajuste, recortes a derechos LGBTIQ+ y políticas de odio del gobierno de Milei",
-            "fuente": "https://prensaobrera.com/lgbti/1n-copemos-las-calles-contra-los-liberfachos"
+            "motivo": "Defensa de derechos LGBTIQ+, rechazo a políticas discriminatorias (DNU 61/62), exigencia de reparación histórica para personas trans y travestis, y combate a la violencia de odio",
+            "fuente": "https://www.infobae.com/sociedad/2025/11/01/marcha-del-orgullo-2025-en-vivo-las-ultimas-noticias-de-la-movilizacion-hoy-1-de-noviembre-en-caba/, https://www.infobae.com/sociedad/2025/11/01/cuales-son-los-cortes-de-calles-programados-para-la-celebracion-de-la-marcha-del-orgullo/, https://prensaobrera.com/lgbti/1n-copemos-las-calles-contra-los-liberfachos"
         },
         {
             "es_evento_relevante": true,
