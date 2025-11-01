@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-31T20:18:26.301829-03:00",
+    "last_updated": "2025-10-31T22:16:27.163598-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1885,6 +1885,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-01",
             "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Frente de Izquierda Unidad (PTS, PO, IS, MST)",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a políticas de odio y ajuste del gobierno, reclamos por derechos sociales, apoyo a Palestina y rechazo al imperialismo",
+            "fuente": "https://www.laizquierdadiario.com/El-Frente-de-Izquierda-Unidad-convoca-a-la-34o-Marcha-del-Orgullo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "15:00",
             "lugar": "Ciudad de Buenos Aires",
             "quien": "Comunidad LGBTIQ+ y aliados",
             "tipo_medida": "Marcha",
@@ -1990,6 +2000,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación Sindical de Trabajadores de JetSMART (ASTJ)",
+            "tipo_medida": "Paro",
+            "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
+            "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
         },
         {
             "es_evento_relevante": true,
