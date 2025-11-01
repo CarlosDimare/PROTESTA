@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T05:23:39.575217-03:00",
+    "last_updated": "2025-11-01T06:19:46.369408-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1870,6 +1870,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Reclamo por aumento salarial y reparto irregular de categorías gremiales",
             "fuente": "https://prensaobrera.com/sindicales/escandalo-en-el-astillero-rio-santiago-la-conduccion-de-ate-y-la-gerencia-se-reparten-las-categorias"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-01",
+            "horario": "14:00",
+            "lugar": "Plaza de Mayo y alrededores (área delimitada por Av. Corrientes, Av. Belgrano, Av. Leandro N. Alem y Sarandí)",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo – Línea Histórica",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a los DNU 61/25 y 62/25 por afectar derechos de personas LGBTIQ+, exigencia de reparación histórica para personas travestis y trans adultas mayores, y oposición al discurso y políticas del gobierno",
+            "fuente": "https://www.infobae.com/sociedad/2025/11/01/cuales-son-los-cortes-de-calles-programados-para-la-celebracion-de-la-marcha-del-orgullo/"
         },
         {
             "es_evento_relevante": true,
