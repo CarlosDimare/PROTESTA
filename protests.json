@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T17:17:41.333546-03:00",
+    "last_updated": "2025-11-01T18:15:53.351769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2040,6 +2040,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Defensa de la industria local y puestos de trabajo ante despidos y políticas del gobierno nacional",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-se-estreno-documental-sobre-la-isla-sus-luchas-y-los-intereses-de-EE-UU, https://www.radiofueguina.com/2025/08/la-uom-vuelve-a-la-calle-paro-movilizacion-y-fuertes-criticas-al-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-15",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Uepc (Unión de Educadores de la Provincia de Córdoba)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
         },
         {
             "es_evento_relevante": true,
