@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T22:16:20.447069-03:00",
+    "last_updated": "2025-11-02T00:19:25.364328-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2000,6 +2000,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos por jubilaciones dignas, represión policial y situación económica",
             "fuente": "https://www.pagina12.com.ar/869963-gases-para-los-jubilados-en-el-congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-08",
+            "horario": "14:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Comunidad LGBTIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos por derechos y visibilidad de la comunidad LGBTIQ+",
+            "fuente": "https://www.pagina12.com.ar/tags/19014-marcha-del-orgullo"
         },
         {
             "es_evento_relevante": true,
