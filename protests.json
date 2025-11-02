@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-02T13:25:04.296784-03:00",
+    "last_updated": "2025-11-02T14:23:45.060703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1930,6 +1930,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir la suspensión inmediata de traslados y cierres de salas anexas en el Nivel Inicial, y defender el derecho a una educación pública con condiciones laborales dignas",
             "fuente": "https://prensaobrera.com/sindicales/neuquen-avanza-el-cierre-de-cargos-y-la-flexibilizacion-laboral-en-el-nivel-inicial, https://www.infobae.com/mexico/2024/09/30/toma-de-protesta-de-claudia-sheinbaum-hora-y-donde-ver-en-vivo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-02",
+            "horario": "16:00",
+            "lugar": "Desde Diagonal Norte hasta el Congreso Nacional",
+            "quien": "Comunidad LGBTIQ+ y sindicatos (ATE, SUTEBA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de odio del gobierno de Milei y defensa de derechos para el colectivo LGBTIQ+, incluyendo salud trans y educación inclusiva",
+            "fuente": "https://elciudadanoweb.com/marcha-del-orgullo-lgbtiq-2025-colores-musica-y-rechazo-a-las-politicas-del-gobierno/, https://www.clarin.com/informacion-general/hora-marcha-orgullo-lgbtq-2025-1-noviembre_0_DFQvWqnR6l.html"
         },
         {
             "es_evento_relevante": true,
