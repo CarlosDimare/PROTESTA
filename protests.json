@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-02T18:16:05.856773-03:00",
+    "last_updated": "2025-11-02T19:16:38.251099-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1976,10 +1976,10 @@
             "fecha": "2025-11-03",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Atepsa",
-            "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de compromisos del Convenio Colectivo de Trabajo por parte de Eana, específicamente en organización de turnos, condiciones de servicio y procedimientos internos",
-            "fuente": "https://www.pagina12.com.ar/870104-controladores-aereos-anunciaron-un-paro-por-los-incumplimien"
+            "quien": "Intergremial de trabajadores del Pami (UTI, Sutepa, ATE, Appamia)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Continuidad del plan de lucha y decisión sobre medidas futuras por recomposición salarial",
+            "fuente": "https://prensaobrera.com/sindicales/el-pami-en-lucha, https://www.pagina12.com.ar/870104-controladores-aereos-anunciaron-un-paro-por-los-incumplimien"
         },
         {
             "es_evento_relevante": true,
