@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-01T20:17:39.689477-03:00",
+    "last_updated": "2025-11-01T22:16:20.447069-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2010,6 +2010,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-13",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato Trabajadores Viales y Afines de la República Argentina (STVyARA)",
+            "tipo_medida": "Negociación Paritaria",
+            "motivo": "Reclamo salarial ante inflación, congelación de paritarias desde octubre de 2024 y deterioro de ingresos",
+            "fuente": "https://estadodealerta.com.ar/trabajadores-viales-lograron-reabrir-negociaciaciones-salariales-tras-fallo-judicial-favorable-al-reclamo-sindical/"
         },
         {
             "es_evento_relevante": true,
