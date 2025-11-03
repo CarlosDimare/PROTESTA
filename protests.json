@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-03T06:22:51.909906-03:00",
+    "last_updated": "2025-11-03T07:20:13.189543-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2020,6 +2020,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Reclamo contra descuentos salariales por participación en movilizaciones y denuncias de manejo opaco de recursos",
             "fuente": "https://www.datagremial.com/informacion-general/trabajadores-del-garrahan-ocuparon-la-direccion-del-hospital-en-reclamo-por-descuentos-salariales-2025103119480"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-07",
+            "horario": "No especificado",
+            "lugar": "Tribunales Provinciales de Rosario, Balcarce 1651",
+            "quien": "Asamblea Lesbotransfeminista de Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar complicidad del Poder Judicial en femicidios y violencias machistas, contra políticas de género y autoridades nacionales/provinciales",
+            "fuente": "https://elciudadanoweb.com/asamblea-lesbotransfeminista-la-inaccion-judicial-es-complice-de-los-femicidios/"
         },
         {
             "es_evento_relevante": true,
