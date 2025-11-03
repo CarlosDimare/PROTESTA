@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-03T12:18:00.295012-03:00",
+    "last_updated": "2025-11-03T13:21:06.203511-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1954,12 +1954,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-03",
-            "horario": "22:00",
-            "lugar": "Instalaciones de la Empresa Argentina de Navegación Aérea (EANA) y aeropuertos",
-            "quien": "Atepsa (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
-            "tipo_medida": "Paro parcial",
-            "motivo": "Incumplimiento de acuerdos por parte de EANA respecto al Convenio Colectivo de Trabajo",
-            "fuente": "https://www.infobae.com/economia/2025/10/31/preocupacion-en-las-aerolineas-por-los-paros-de-controladores-sera-imposible-reprogramar-vuelos-y-se-perderan-millones/, https://www.pagina12.com.ar/870352-los-controladores-aereos-anunciaron-nueve-paros-para-noviemb"
+            "horario": "20:00",
+            "lugar": "Aeropuertos de Argentina",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdos laborales, Convenio Colectivo de Trabajo y pauta salarial",
+            "fuente": "https://www.datagremial.com/paritarias/noviembre-comienza-con-problemas-en-los-vuelos-controladores-aereos-anuncian-cronograma-de-protestas--202511312450, https://www.infobae.com/economia/2025/10/31/preocupacion-en-las-aerolineas-por-los-paros-de-controladores-sera-imposible-reprogramar-vuelos-y-se-perderan-millones/, https://www.pagina12.com.ar/870352-los-controladores-aereos-anunciaron-nueve-paros-para-noviemb"
         },
         {
             "es_evento_relevante": true,
@@ -2050,6 +2050,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "09:30",
+            "lugar": "En toda la provincia de Buenos Aires",
+            "quien": "SUTEBA (Sindicato Unificado de Trabajadores de la Educación de la Provincia de Buenos Aires)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Decidir la estrategia sindical frente a políticas de ajuste, reformas laborales y ataques a derechos de los docentes",
+            "fuente": "https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-SUTEBA-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y, https://www.labrujula24.com/notas/2025/10/07/suteba-anuncio-un-paro-para-este-miercoles-n461637/"
         },
         {
             "es_evento_relevante": true,
