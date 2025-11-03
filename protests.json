@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-03T16:14:32.758282-03:00",
+    "last_updated": "2025-11-03T17:20:16.467655-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -1940,6 +1940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas de odio del gobierno de Milei y defensa de derechos para el colectivo LGBTIQ+, incluyendo salud trans y educación inclusiva",
             "fuente": "https://elciudadanoweb.com/marcha-del-orgullo-lgbtiq-2025-colores-musica-y-rechazo-a-las-politicas-del-gobierno/, https://www.clarin.com/informacion-general/hora-marcha-orgullo-lgbtq-2025-1-noviembre_0_DFQvWqnR6l.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-03",
+            "horario": "10:00",
+            "lugar": "Hotel Bauen o Círculo de Militares (lugar histórico de congresos de CGT)",
+            "quien": "CGT - Confederación General del Trabajo",
+            "tipo_medida": "Congreso",
+            "motivo": "Elección de la nueva cúpula sindical ante la fractura interna entre facciones renovadoras y tradicionales",
+            "fuente": "https://www.infobae.com/politica/2025/11/03/el-sector-sindical-que-quiere-frenar-la-eleccion-de-la-cgt-perdio-un-aliado-clave-y-buscan-un-acuerdo/"
         },
         {
             "es_evento_relevante": true,
