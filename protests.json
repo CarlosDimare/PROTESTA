@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-03T20:16:01.982443-03:00",
+    "last_updated": "2025-11-03T22:09:45.479456-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2070,6 +2070,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Decidir la estrategia sindical frente a políticas de ajuste, reformas laborales y ataques a derechos de los docentes",
             "fuente": "https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-SUTEBA-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y, https://www.labrujula24.com/notas/2025/10/07/suteba-anuncio-un-paro-para-este-miercoles-n461637/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "SUTEBA",
+            "tipo_medida": "Asamblea",
+            "motivo": "Decidir la estrategia sindical ante ataques laborales, ajustes y recortes en educación pública",
+            "fuente": "https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y"
         },
         {
             "es_evento_relevante": true,
