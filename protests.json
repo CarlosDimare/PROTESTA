@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-04T16:16:08.506116-03:00",
+    "last_updated": "2025-11-04T17:21:50.549962-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2120,6 +2120,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "No especificado",
+            "lugar": "Roma, Italia",
+            "quien": "Unione Sindicale di Base (USB)",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición al presupuesto de ajuste y rearme bélico del gobierno, defensa de salarios, pensiones y derechos sociales",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-presupuesto-de-ajuste-y-el-rearme-belico-sindicatos-de-base-italianos-llaman-a-la-huelga"
         },
         {
             "es_evento_relevante": true,
