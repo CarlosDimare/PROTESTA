@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-04T18:16:20.232961-03:00",
+    "last_updated": "2025-11-04T19:16:42.301024-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2130,6 +2130,16 @@
             "tipo_medida": "Paro",
             "motivo": "Oposición al presupuesto de ajuste y rearme bélico del gobierno, defensa de salarios, pensiones y derechos sociales",
             "fuente": "https://www.laizquierdadiario.com/Contra-el-presupuesto-de-ajuste-y-el-rearme-belico-sindicatos-de-base-italianos-llaman-a-la-huelga"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-30",
+            "horario": "No especificado",
+            "lugar": "Embajada del Paraguay en Buenos Aires",
+            "quien": "Campaña Solidaridad con la Familia Villalba",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir justicia por desaparición de Lichita y libertad para presas políticas",
+            "fuente": "https://www.anred.org/familia-villalba-valentia-y-dignidad-7-dias-en-huelga-de-hambre/"
         },
         {
             "es_evento_relevante": true,
