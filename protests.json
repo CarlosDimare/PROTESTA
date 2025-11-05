@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-05T12:19:41.044121-03:00",
+    "last_updated": "2025-11-05T13:23:48.542710-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2040,6 +2040,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos por jubilaciones dignas, represión policial y situación económica",
             "fuente": "https://www.pagina12.com.ar/869963-gases-para-los-jubilados-en-el-congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-06",
+            "horario": "11:00",
+            "lugar": "Parque Lezama",
+            "quien": "Frente de Lucha Piquetero",
+            "tipo_medida": "Plenario",
+            "motivo": "Enfrentar el ajuste oficial, cierre de comedores populares, falta de trabajo genuino y reforma laboral antiobrera",
+            "fuente": "https://prensaobrera.com/sindicales/el-garrahan-y-la-cgt-o-la-lucha-y-asamblea-o-la-rosca-burocratica-entreguista"
         },
         {
             "es_evento_relevante": true,
