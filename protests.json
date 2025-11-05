@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-05T08:17:05.285521-03:00",
+    "last_updated": "2025-11-05T09:33:22.663702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2040,6 +2040,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos por jubilaciones dignas, represión policial y situación económica",
             "fuente": "https://www.pagina12.com.ar/869963-gases-para-los-jubilados-en-el-congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-06",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa contra la reforma laboral y derechos de los trabajadores",
+            "fuente": "https://estadodealerta.com.ar/comienzan-a-circular-detalles-sobre-reforma-laboral-que-impulsara-el-gobierno-y-el-sindicalismo-prepara-su-respuesta/, https://medium.com/@SegundoEnfoque/argentina-se-confirmó-la-marcha-de-la-cgt-a427cdbc9c68"
         },
         {
             "es_evento_relevante": true,
