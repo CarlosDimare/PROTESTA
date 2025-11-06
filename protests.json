@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-06T13:24:16.982085-03:00",
+    "last_updated": "2025-11-06T14:19:54.701399-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2060,6 +2060,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa contra la reforma laboral y derechos de los trabajadores",
             "fuente": "https://estadodealerta.com.ar/comienzan-a-circular-detalles-sobre-reforma-laboral-que-impulsara-el-gobierno-y-el-sindicalismo-prepara-su-respuesta/, https://medium.com/@SegundoEnfoque/argentina-se-confirmó-la-marcha-de-la-cgt-a427cdbc9c68"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-06",
+            "horario": "16:00",
+            "lugar": "Juzgado N° 7",
+            "quien": "Familia Fernández y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al sobreseimiento de policías y reclamo de justicia por el travesticidio de Sofía Fernández",
+            "fuente": "https://www.laizquierdadiario.com/Casacion-rechazo-el-sobreseimiento-y-diez-policias-iran-a-juicio-por-el-travesticidio-de-Sofia"
         },
         {
             "es_evento_relevante": true,
