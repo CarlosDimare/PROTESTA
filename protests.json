@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-06T10:31:15.462790-03:00",
+    "last_updated": "2025-11-06T11:19:42.053052-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2140,6 +2140,16 @@
             "tipo_medida": "Negociación Paritaria",
             "motivo": "Reclamo salarial ante inflación, congelación de paritarias desde octubre de 2024 y deterioro de ingresos",
             "fuente": "https://estadodealerta.com.ar/trabajadores-viales-lograron-reabrir-negociaciaciones-salariales-tras-fallo-judicial-favorable-al-reclamo-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "15:00",
+            "lugar": "Plaza San Martín, Córdoba",
+            "quien": "Alerta Torta y colectivo LGBT+ de Córdoba",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de justicia por delitos de odio, lucha por una vida sin violencias hacia la comunidad LGBT+ y reivindicación de derechos en un contexto de hostilidad estatal",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-lesbianas-en-Cordoba-puede-perder-su-casa"
         },
         {
             "es_evento_relevante": true,
