@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-05T20:18:48.204844-03:00",
+    "last_updated": "2025-11-05T22:11:17.140059-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2060,6 +2060,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa contra la reforma laboral y derechos de los trabajadores",
             "fuente": "https://estadodealerta.com.ar/comienzan-a-circular-detalles-sobre-reforma-laboral-que-impulsara-el-gobierno-y-el-sindicalismo-prepara-su-respuesta/, https://medium.com/@SegundoEnfoque/argentina-se-confirmó-la-marcha-de-la-cgt-a427cdbc9c68"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-07",
+            "horario": "10:00",
+            "lugar": "Sede central de la organización piquetera en Buenos Aires",
+            "quien": "Polo Obrero y organizaciones piqueteras adherentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y ajuste contra trabajadores",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/plenario-piquetero-en-cordoba-voto-plan-de-lucha"
         },
         {
             "es_evento_relevante": true,
