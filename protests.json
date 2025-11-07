@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-07T13:21:18.903250-03:00",
+    "last_updated": "2025-11-07T14:19:34.901545-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2130,6 +2130,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamos por derechos y visibilidad de la comunidad LGBTIQ+",
             "fuente": "https://www.pagina12.com.ar/tags/19014-marcha-del-orgullo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-08",
+            "horario": "15:00",
+            "lugar": "Plaza central de Villa Constitución (San Martín al 1100)",
+            "quien": "Sobrevivientes, familiares de víctimas y organismos de derechos humanos",
+            "tipo_medida": "Reunión abierta",
+            "motivo": "Repudio a la absolución en el caso Villazo y exigencia de justicia por crímenes contra la clase obrera",
+            "fuente": "https://elciudadanoweb.com/sobrevivientes-y-familiares-de-victimas-del-villazo-convocan-a-una-asamblea-para-organizar-el-repudio-al-tribunal-que-absolvio-a-todos-los-acusados/"
         },
         {
             "es_evento_relevante": true,
