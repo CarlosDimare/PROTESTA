@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-07T14:19:34.901545-03:00",
+    "last_updated": "2025-11-07T15:28:14.498865-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2260,6 +2260,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-XX",
+            "horario": "No especificado",
+            "lugar": "Región NEA (no especificada)",
+            "quien": "Junta Interna de ATE ANAC",
+            "tipo_medida": "Plenario/Asamblea",
+            "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
         },
         {
             "es_evento_relevante": true,
