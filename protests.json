@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-06T22:11:50.167454-03:00",
+    "last_updated": "2025-11-07T00:11:57.934988-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2070,6 +2070,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al sobreseimiento de policías y reclamo de justicia por el travesticidio de Sofía Fernández",
             "fuente": "https://www.laizquierdadiario.com/Casacion-rechazo-el-sobreseimiento-y-diez-policias-iran-a-juicio-por-el-travesticidio-de-Sofia"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-07",
+            "horario": "10:00",
+            "lugar": "Concejo Deliberante de San Miguel de Tucumán",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Mesa de diálogo",
+            "motivo": "Negociación por suspensiones y congelamiento salarial",
+            "fuente": "https://www.laizquierdadiario.com/Paro-de-transporte-en-protesta-por-las-suspensiones-a-154-trabajadores"
         },
         {
             "es_evento_relevante": true,
