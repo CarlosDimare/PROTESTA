@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-07T16:18:31.589412-03:00",
+    "last_updated": "2025-11-07T17:22:15.733671-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2110,6 +2110,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Reclamo contra descuentos salariales por participación en movilizaciones y denuncias de manejo opaco de recursos",
             "fuente": "https://www.datagremial.com/informacion-general/trabajadores-del-garrahan-ocuparon-la-direccion-del-hospital-en-reclamo-por-descuentos-salariales-2025103119480"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-07",
+            "horario": "No especificado",
+            "lugar": "U6 de Rawson",
+            "quien": "Facundo Jones Huala y Juan Pablo Colhuan",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir traslado a cárcel en Esquel y denunciar prisión política",
+            "fuente": "https://www.infobae.com/politica/2025/11/07/jones-huala-levanto-la-huelga-de-hambre-para-solidarizarse-como-otro-mapuche-detenido/"
         },
         {
             "es_evento_relevante": true,
