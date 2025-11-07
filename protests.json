@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-06T20:17:52.804979-03:00",
+    "last_updated": "2025-11-06T22:11:50.167454-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2150,6 +2150,16 @@
             "tipo_medida": "Negociación Paritaria",
             "motivo": "Reclamo salarial ante inflación, congelación de paritarias desde octubre de 2024 y deterioro de ingresos",
             "fuente": "https://estadodealerta.com.ar/trabajadores-viales-lograron-reabrir-negociaciaciones-salariales-tras-fallo-judicial-favorable-al-reclamo-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Colectivo cannábico",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la despenalización del cannabis, fin de la persecución policial y derogación de la Ley 23.737",
+            "fuente": "https://www.laizquierdadiario.com/El-15N-vamos-a-la-Marcha-Nacional-de-la-Marihuana"
         },
         {
             "es_evento_relevante": true,
