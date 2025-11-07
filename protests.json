@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-07T11:19:11.104485-03:00",
+    "last_updated": "2025-11-07T12:21:56.095306-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2090,6 +2090,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y ajuste contra trabajadores",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/plenario-piquetero-en-cordoba-voto-plan-de-lucha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-07",
+            "horario": "11:00",
+            "lugar": "Astillero Río Santiago (ARS), Ensenada",
+            "quien": "Trabajadores del Astillero Río Santiago, autoconvocados",
+            "tipo_medida": "Asamblea",
+            "motivo": "Exigir explicaciones por reparto discrecional de categorías y definir medidas por planes de trabajo y actualización salarial",
+            "fuente": "https://prensaobrera.com/sindicales/obreros-autoconvocados-del-astillero-rio-santiago-exigen-asamblea-general, https://www.0221.com.ar/nacional/trabajadores-del-astillero-rio-santiago-cortaran-la-autopista-la-plata-buenos-aires-los-bajos-salarios-n112963"
         },
         {
             "es_evento_relevante": true,
