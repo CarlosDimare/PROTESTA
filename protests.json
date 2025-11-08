@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-08T08:15:15.262055-03:00",
+    "last_updated": "2025-11-08T09:30:48.454016-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2190,6 +2190,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Decidir la estrategia sindical ante ataques laborales, ajustes y recortes en educación pública",
             "fuente": "https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "18:00",
+            "lugar": "Distritos de la provincia de Buenos Aires",
+            "quien": "Suteba-Ctera - Lista Multicolor",
+            "tipo_medida": "Asamblea deliberativa",
+            "motivo": "Elección de juntas electorales y definición de política gremial para enfrentar ajuste salarial y políticas educativas",
+            "fuente": "https://prensaobrera.com/sindicales/ante-la-mayor-entrega-del-suteba-de-baradel-votemos-multicolor"
         },
         {
             "es_evento_relevante": true,
