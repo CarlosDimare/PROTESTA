@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-08T19:16:07.637544-03:00",
+    "last_updated": "2025-11-08T20:17:18.762935-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2170,6 +2170,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "00:00",
+            "lugar": "Universidades Nacionales de todo el país",
+            "quien": "Conadu y Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por reapertura de paritarias y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
         },
         {
             "es_evento_relevante": true,
