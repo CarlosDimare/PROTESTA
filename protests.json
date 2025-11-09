@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-08T22:13:08.421970-03:00",
+    "last_updated": "2025-11-09T00:15:48.750997-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2170,6 +2170,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "00:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "CONADU",
+            "tipo_medida": "Paro",
+            "motivo": "Implementación de la Ley de Financiamiento Universitario y recomposición salarial",
+            "fuente": "https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario (UNR) y universidades nacionales",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR) en adhesión a Conadu",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios dignos, presupuesto universitario y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/los-docentes-de-la-unr-realizaran-un-paro-de-72-horas-la-semana-que-viene/"
         },
         {
             "es_evento_relevante": true,
