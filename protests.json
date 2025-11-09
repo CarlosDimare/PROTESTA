@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-09T12:16:19.276937-03:00",
+    "last_updated": "2025-11-09T13:19:54.465443-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2280,6 +2280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "12:30",
+            "lugar": "Virtual",
+            "quien": "Gobierno, empresarios y gremios (CTA y CGT)",
+            "tipo_medida": "Reunión tripartita",
+            "motivo": "Discusión del nuevo Salario Mínimo, Vital y Móvil (SMVM) tras incumplimiento de convocatorias bimestrales y caída real del 31.4%",
+            "fuente": "https://estadodealerta.com.ar/tras-la-presion-gremial-y-judicial-finalmente-el-gobierno-convoco-al-consejo-del-salario-para-fines-de-noviembre/"
         },
         {
             "es_evento_relevante": true,
