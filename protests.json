@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-09T03:23:18.734852-03:00",
+    "last_updated": "2025-11-09T04:17:35.836132-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2170,6 +2170,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y exigir paz duradera en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Otra-masiva-marcha-en-Londres-por-Palestina, https://www.elconfidencial.com/espana/madrid/2025-10-03/horario-manifestacion-madrid-palestina-1tna-1qrt_4221352/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-09",
+            "horario": "No especificado",
+            "lugar": "Av. Almirante Brown y Olavarría, La Boca (lugar del ataque)",
+            "quien": "Organizaciones y familiares de Lucas Cabello",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del 10° aniversario del ataque y reclamo por justicia",
+            "fuente": "https://www.anred.org/justicia-para-lucas-la-corte-suprema-confirmo-la-condena-a-16-anos-de-prision-para-el-policia-que-le-disparo-a-matar/"
         },
         {
             "es_evento_relevante": true,
