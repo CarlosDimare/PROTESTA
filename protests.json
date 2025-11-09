@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-09T18:14:11.893692-03:00",
+    "last_updated": "2025-11-09T19:15:15.946233-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2180,6 +2180,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Conmemoración del 10° aniversario del ataque y reclamo por justicia",
             "fuente": "https://www.anred.org/justicia-para-lucas-la-corte-suprema-confirmo-la-condena-a-16-anos-de-prision-para-el-policia-que-le-disparo-a-matar/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
+            "horario": "14:00",
+            "lugar": "Sede nacional de ATE, Avenida Belgrano 2527 (CABA)",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Plenario federal",
+            "motivo": "Resolver la fecha de un paro nacional contra la reforma laboral del gobierno de Milei",
+            "fuente": "https://www.pagina12.com.ar/872350-arrancan-las-protestas-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
