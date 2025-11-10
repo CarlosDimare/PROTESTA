@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-10T13:21:54.298004-03:00",
+    "last_updated": "2025-11-10T14:18:31.660611-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2250,6 +2250,16 @@
             "tipo_medida": "Asamblea deliberativa",
             "motivo": "Elección de juntas electorales y definición de política gremial para enfrentar ajuste salarial y políticas educativas",
             "fuente": "https://prensaobrera.com/sindicales/ante-la-mayor-entrega-del-suteba-de-baradel-votemos-multicolor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "No especificado",
+            "lugar": "Sedes universitarias nacionales",
+            "quien": "Federación Universitaria Argentina (FUA) y gremios docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación de la Ley de Financiamiento con aumento salarial y oposición a reformas laborales y vaciamiento de la educación pública",
+            "fuente": "https://www.pagina12.com.ar/872503-las-universidades-publicas-convocan-a-un-paro-por-72-horas"
         },
         {
             "es_evento_relevante": true,
