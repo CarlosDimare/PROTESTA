@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-10T19:16:27.286876-03:00",
+    "last_updated": "2025-11-10T20:17:43.469023-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2250,6 +2250,16 @@
             "tipo_medida": "Asamblea deliberativa",
             "motivo": "Elección de juntas electorales y definición de política gremial para enfrentar ajuste salarial y políticas educativas",
             "fuente": "https://prensaobrera.com/sindicales/ante-la-mayor-entrega-del-suteba-de-baradel-votemos-multicolor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-13",
+            "horario": "16:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Asociación de Profesionales y Técnicos (APyT) en coalición con organizaciones de salud, discapacidad, universidad pública, jubilados, DDHH, feministas y sindicatos solidarios",
+            "tipo_medida": "Movilización (Cabildo Abierto)",
+            "motivo": "Evaluar acciones contra sumarios a trabajadores, apoyar reclamos de discapacidad y universidad pública, y preparar campaña contra reformas laboral y jubilatoria del gobierno nacional",
+            "fuente": "https://www.datagremial.com/paritarias/revanchismo-en-el-garrahan-tras-el-conflicto-salarial-el-gobierno-sumario-al-equipo-de-salud-que-lidero-las-protestas-2025111018530"
         },
         {
             "es_evento_relevante": true,
