@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-10T12:19:12.643952-03:00",
+    "last_updated": "2025-11-10T13:21:54.298004-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2236,10 +2236,10 @@
             "fecha": "2025-11-12",
             "horario": "10:00",
             "lugar": "No especificado",
-            "quien": "SUTEBA",
-            "tipo_medida": "Asamblea",
-            "motivo": "Decidir la estrategia sindical ante ataques laborales, ajustes y recortes en educación pública",
-            "fuente": "https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y"
+            "quien": "Gremios docentes universitarios (FUA, AGD-UBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el cumplimiento efectivo de la Ley de Financiamiento para recomposición salarial y frenar el vaciamiento de la educación pública",
+            "fuente": "https://elciudadanoweb.com/universidades-nacionales-convocan-a-un-paro-por-tres-dias-y-reclaman-la-aplicacion-de-la-ley-de-financiamiento/, https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y"
         },
         {
             "es_evento_relevante": true,
