@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-10T14:18:31.660611-03:00",
+    "last_updated": "2025-11-10T15:24:22.672064-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2235,11 +2235,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-12",
             "horario": "10:00",
-            "lugar": "No especificado",
-            "quien": "Gremios docentes universitarios (FUA, AGD-UBA)",
+            "lugar": "Sedes universitarias nacionales",
+            "quien": "Federación Universitaria Argentina (FUA) y gremios docentes",
             "tipo_medida": "Paro",
-            "motivo": "Exigir el cumplimiento efectivo de la Ley de Financiamiento para recomposición salarial y frenar el vaciamiento de la educación pública",
-            "fuente": "https://elciudadanoweb.com/universidades-nacionales-convocan-a-un-paro-por-tres-dias-y-reclaman-la-aplicacion-de-la-ley-de-financiamiento/, https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y"
+            "motivo": "Exigir el cumplimiento efectivo de la Ley de Financiamiento Universitario para recomposición salarial y detener el vaciamiento de la educación pública",
+            "fuente": "https://www.inforegion.com.ar/2025/11/10/las-universidades-nacionales-convocan-a-un-paro-por-tres-dias-y-reclaman-la-aplicacion-de-la-ley-de-financiamiento/, https://elciudadanoweb.com/universidades-nacionales-convocan-a-un-paro-por-tres-dias-y-reclaman-la-aplicacion-de-la-ley-de-financiamiento/, https://www.laizquierdadiario.com/A-las-asambleas-ordinarias-de-Suteba-por-un-sindicato-de-lucha-frente-al-plan-de-ataque-de-Milei-y, https://www.pagina12.com.ar/872503-las-universidades-publicas-convocan-a-un-paro-por-72-horas"
         },
         {
             "es_evento_relevante": true,
@@ -2250,16 +2250,6 @@
             "tipo_medida": "Asamblea deliberativa",
             "motivo": "Elección de juntas electorales y definición de política gremial para enfrentar ajuste salarial y políticas educativas",
             "fuente": "https://prensaobrera.com/sindicales/ante-la-mayor-entrega-del-suteba-de-baradel-votemos-multicolor"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-12",
-            "horario": "No especificado",
-            "lugar": "Sedes universitarias nacionales",
-            "quien": "Federación Universitaria Argentina (FUA) y gremios docentes",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por aplicación de la Ley de Financiamiento con aumento salarial y oposición a reformas laborales y vaciamiento de la educación pública",
-            "fuente": "https://www.pagina12.com.ar/872503-las-universidades-publicas-convocan-a-un-paro-por-72-horas"
         },
         {
             "es_evento_relevante": true,
