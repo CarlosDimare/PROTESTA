@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T16:14:47.940288-03:00",
+    "last_updated": "2025-11-11T17:18:24.563672-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2230,6 +2230,16 @@
             "tipo_medida": "Corte",
             "motivo": "Reclamo por el no pago de salarios por parte de las empresas de transporte, con responsabilidad de gobiernos nacional y provincial",
             "fuente": "https://www.laizquierdadiario.com/No-les-pagaron-el-sueldo-paro-de-los-choferes-de-Moqsa-El-Halcon-y-San-Juan-Bautista"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
+            "horario": "No especificado",
+            "lugar": "Industria aceitera de San Lorenzo",
+            "quien": "Sindicato de Obreros y Empleados Aceiteros (SOEA) San Lorenzo",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial y condiciones laborales",
+            "fuente": "https://estadodealerta.com.ar/acuerdo-salarial-de-la-actividad-aceitera-en-un-nuevo-escenario-empresarial-y-gremial-con-el-gobierno-exhibiendo-negociaciones-por-sector/"
         },
         {
             "es_evento_relevante": true,
