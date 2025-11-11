@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T08:16:44.822884-03:00",
+    "last_updated": "2025-11-11T09:31:12.260734-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2290,6 +2290,16 @@
             "tipo_medida": "Negociación Paritaria",
             "motivo": "Reclamo salarial ante inflación, congelación de paritarias desde octubre de 2024 y deterioro de ingresos",
             "fuente": "https://estadodealerta.com.ar/trabajadores-viales-lograron-reabrir-negociaciaciones-salariales-tras-fallo-judicial-favorable-al-reclamo-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "04:00",
+            "lugar": "Conurbano Bonaerente - Líneas afectadas (22, 148, 159, 219, 300, 372, 584, 603, 619 y El Nuevo Halcón en Florencio Varela)",
+            "quien": "Empresas del grupo MOQSA y El Nuevo Halcón",
+            "tipo_medida": "Paro",
+            "motivo": "Falta de pago de haberes y reclamos salariales",
+            "fuente": "https://www.inforegion.com.ar/2025/11/07/paro-de-colectivos-en-zona-sur-por-falta-de-pago-a-choferes/"
         },
         {
             "es_evento_relevante": true,
