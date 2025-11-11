@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T09:31:12.260734-03:00",
+    "last_updated": "2025-11-11T10:31:45.403379-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2213,13 +2213,23 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-11",
+            "horario": "15:00",
+            "lugar": "Terminales de colectivas en el conurbano sur (Líneas 148, 159, 219, 500)",
+            "quien": "Choferes de la UTA (Unión Tranviarios Automotor)",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo por el no pago de salarios por parte de las empresas de transporte, con responsabilidad de gobiernos nacional y provincial",
+            "fuente": "https://www.laizquierdadiario.com/No-les-pagaron-el-sueldo-paro-de-los-choferes-de-Moqsa-El-Halcon-y-San-Juan-Bautista"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-12",
             "horario": "00:00",
             "lugar": "Universidades Nacionales",
-            "quien": "CONADU",
+            "quien": "CONADU Histórica y CONADU",
             "tipo_medida": "Paro",
-            "motivo": "Implementación de la Ley de Financiamiento Universitario y recomposición salarial",
-            "fuente": "https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas"
+            "motivo": "Rechazo al ajuste salarial y presupuestario, y exigencia de aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-72-horas-reclaman-que-Milei-cumpla-la-Ley-de-Financiamiento-Universitario, https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas, https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
         },
         {
             "es_evento_relevante": true,
@@ -2230,16 +2240,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por salarios dignos, presupuesto universitario y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/los-docentes-de-la-unr-realizaran-un-paro-de-72-horas-la-semana-que-viene/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-12",
-            "horario": "00:00",
-            "lugar": "Universidades Nacionales de todo el país",
-            "quien": "Conadu y Conadu Histórica",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por reapertura de paritarias y cumplimiento de Ley de Financiamiento Universitario",
-            "fuente": "https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
         },
         {
             "es_evento_relevante": true,
@@ -2270,6 +2270,16 @@
             "tipo_medida": "Asamblea deliberativa",
             "motivo": "Elección de juntas electorales y definición de política gremial para enfrentar ajuste salarial y políticas educativas",
             "fuente": "https://prensaobrera.com/sindicales/ante-la-mayor-entrega-del-suteba-de-baradel-votemos-multicolor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-13",
+            "horario": "07:00",
+            "lugar": "Hospital Garrahan, Combate de los Pozos 1881",
+            "quien": "Asociación de Profesionales y Técnicos (APyT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y previsional del Gobierno Nacional y repudio a las sanciones aplicadas por la intervención del Hospital Garrahan",
+            "fuente": "https://elciudadanoweb.com/escandalo-en-el-garrahan-el-interventor-sanciono-al-personal-y-desato-un-nuevo-conflicto-sindical/, https://la100.cienradios.com/sociedad/los-medicos-del-hospital-garrahan-realizan-un-paro-este-viernes-8-de-noviembre-cuales-son-los-motivos-y-cuanto-durara/"
         },
         {
             "es_evento_relevante": true,
