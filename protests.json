@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T18:16:00.779446-03:00",
+    "last_updated": "2025-11-11T19:17:22.588988-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2245,6 +2245,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-12",
             "horario": "00:00",
+            "lugar": "Universidades nacionales de todo el país",
+            "quien": "Gremios docentes (Conadu, Conadu Histórica, FUA, AGD-UBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario y reclamo de recomposición salarial",
+            "fuente": "https://www.infobae.com/politica/2025/11/11/universidades-docentes-ratificaron-el-paro-de-tres-dias-para-exigir-que-se-cumpla-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "00:00",
             "lugar": "Universidades nacionales",
             "quien": "CONADU y CONADU Histórica",
             "tipo_medida": "Paro",
@@ -2476,10 +2486,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "quien": "Asociación Sindical de Trabajadores de Jetsmart (ASTJ)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral del gobierno y reclamo por reapertura de paritarias",
-            "fuente": "https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+            "motivo": "Reincorporación de cinco trabajadores despedidos sin causa y actualización salarial pendiente desde febrero",
+            "fuente": "https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         },
         {
             "es_evento_relevante": true,
