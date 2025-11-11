@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T07:18:46.794461-03:00",
+    "last_updated": "2025-11-11T08:16:44.822884-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2194,6 +2194,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-11",
+            "horario": "11:00",
+            "lugar": "Astillero Río Santiago (ARS)",
+            "quien": "Trabajadores autoconvocados del Astillero Río Santiago",
+            "tipo_medida": "Asamblea",
+            "motivo": "Continuar la lucha por transparencia en categorías, trabajo digno y urgente actualización salarial, tras bloqueos de la conducción de ATE Ensenada",
+            "fuente": "https://prensaobrera.com/sindicales/la-conduccion-de-ate-ensenada-manipula-la-asamblea-general-del-astillero-rio-santiago, https://www.infogremiales.com.ar/trabajadores-del-astillero-rio-santiago-cortaran-la-autopista-la-plata-buenos-aires-por-un-aumento-de-emergencia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
             "horario": "14:00",
             "lugar": "Sede nacional de ATE, Avenida Belgrano 2527 (CABA)",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
@@ -2426,10 +2436,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
             "lugar": "No especificado",
-            "quien": "Sindicatos (CGT y CTA)",
-            "tipo_medida": "Movilización",
-            "motivo": "Oposición a la reforma laboral impulsada por el Gobierno de Milei",
-            "fuente": "https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral del gobierno y reclamo por reapertura de paritarias",
+            "fuente": "https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
         },
         {
             "es_evento_relevante": true,
