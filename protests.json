@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T15:23:00.810694-03:00",
+    "last_updated": "2025-11-11T16:14:47.940288-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2190,6 +2190,16 @@
             "tipo_medida": "Paro",
             "motivo": "Falta de pago de sueldos en el inicio de mes",
             "fuente": "https://www.inforegion.com.ar/2025/11/10/se-extiende-el-paro-de-colectivos-por-falta-de-pagos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
+            "horario": "10:00",
+            "lugar": "Sanatorio 15 de Diciembre III, Laprida 4211, Villa Martelli, Vicente López",
+            "quien": "Empleados de sanatorios del Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por pago de salarios atrasados y respuestas a tres años de deudas en Oschoca",
+            "fuente": "https://www.infobae.com/politica/2025/11/11/el-sindicato-de-hugo-moyano-enfrenta-protestas-en-sus-sanatorios-ante-la-falta-de-pago-de-los-sueldos/"
         },
         {
             "es_evento_relevante": true,
