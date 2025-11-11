@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T19:17:22.588988-03:00",
+    "last_updated": "2025-11-11T20:17:06.389751-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2194,6 +2194,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-11",
+            "horario": "00:00",
+            "lugar": "Todo el país (sector agroexportador: puertos, acopios y empresas de control)",
+            "quien": "URGARA (Unión de Recibidores de Granos y Anexos de la República Argentina)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamos salariales y paritarios: recomposición de septiembre 2025, reconocimiento de pérdida de poder adquisitivo, pago anticipado del REM, negociación de bono anual 2025 y anticipo de paritarias 2026",
+            "fuente": "https://elciudadanoweb.com/dictan-la-conciliacion-de-15-dias-para-evitar-un-paro-nacional-de-recibidores-de-granos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
             "horario": "10:00",
             "lugar": "Sanatorio 15 de Diciembre III, Laprida 4211, Villa Martelli, Vicente López",
             "quien": "Empleados de sanatorios del Sindicato de Camioneros",
@@ -2230,6 +2240,16 @@
             "tipo_medida": "Corte",
             "motivo": "Reclamo por el no pago de salarios por parte de las empresas de transporte, con responsabilidad de gobiernos nacional y provincial",
             "fuente": "https://www.laizquierdadiario.com/No-les-pagaron-el-sueldo-paro-de-los-choferes-de-Moqsa-El-Halcon-y-San-Juan-Bautista"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-11",
+            "horario": "18:00",
+            "lugar": "Comisaría Primera de Necochea (calle 58 entre 61 y 63)",
+            "quien": "Colectivo feminista y espacios de mujeres",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir justicia por el femicidio de Débora Bulacio bajo el lema 'Paren de matarnos'",
+            "fuente": "https://www.laizquierdadiario.com/Necochea-movilizacion-contra-los-femicidios-tras-el-hallazgo-del-cuerpo-de-Debora-Bulacio"
         },
         {
             "es_evento_relevante": true,
@@ -2370,6 +2390,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "No especificado",
+            "lugar": "Secretaría de Trabajo",
+            "quien": "ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a reforma laboral y reapertura de paritarias",
+            "fuente": "https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
