@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T10:31:45.403379-03:00",
+    "last_updated": "2025-11-11T11:16:54.168657-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2225,11 +2225,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-12",
             "horario": "00:00",
-            "lugar": "Universidades Nacionales",
-            "quien": "CONADU Histórica y CONADU",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU y CONADU Histórica",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al ajuste salarial y presupuestario, y exigencia de aplicación de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-72-horas-reclaman-que-Milei-cumpla-la-Ley-de-Financiamiento-Universitario, https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas, https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
+            "motivo": "Exigir cumplimiento efectivo de la Ley de Financiamiento Universitario y denunciar la suspensión como inconstitucional",
+            "fuente": "https://estadodealerta.com.ar/paro-universitario-por-72-horas-en-reclamo-del-cumplimiento-de-la-ley-de-financiamiento-suspendida-por-el-gobierno/, https://www.laizquierdadiario.com/Paro-universitario-de-72-horas-reclaman-que-Milei-cumpla-la-Ley-de-Financiamiento-Universitario, https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas, https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
         },
         {
             "es_evento_relevante": true,
