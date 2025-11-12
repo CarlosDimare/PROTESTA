@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-12T12:19:07.029471-03:00",
+    "last_updated": "2025-11-12T13:23:18.708911-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2265,11 +2265,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-12",
             "horario": "00:00",
-            "lugar": "Universidades nacionales de todo el país",
-            "quien": "Gremios docentes (Conadu, Conadu Histórica, FUA, AGD-UBA)",
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "Conadu y Coad",
             "tipo_medida": "Paro",
-            "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario y reclamo de recomposición salarial",
-            "fuente": "https://www.infobae.com/politica/2025/11/11/universidades-docentes-ratificaron-el-paro-de-tres-dias-para-exigir-que-se-cumpla-la-ley-de-financiamiento/"
+            "motivo": "Reclamo por salarios dignos, mayor presupuesto para educación superior y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/arranco-el-paro-de-72-horas-de-los-docentes-de-la-unr/, https://www.infobae.com/politica/2025/11/11/universidades-docentes-ratificaron-el-paro-de-tres-dias-para-exigir-que-se-cumpla-la-ley-de-financiamiento/, https://elciudadanoweb.com/los-docentes-de-la-unr-realizaran-un-paro-de-72-horas-la-semana-que-viene/"
         },
         {
             "es_evento_relevante": true,
@@ -2280,16 +2280,6 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir cumplimiento efectivo de la Ley de Financiamiento Universitario y denunciar la suspensión como inconstitucional",
             "fuente": "https://estadodealerta.com.ar/paro-universitario-por-72-horas-en-reclamo-del-cumplimiento-de-la-ley-de-financiamiento-suspendida-por-el-gobierno/, https://www.laizquierdadiario.com/Paro-universitario-de-72-horas-reclaman-que-Milei-cumpla-la-Ley-de-Financiamiento-Universitario, https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas, https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-12",
-            "horario": "00:00",
-            "lugar": "Universidad Nacional de Rosario (UNR) y universidades nacionales",
-            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR) en adhesión a Conadu",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por salarios dignos, presupuesto universitario y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://elciudadanoweb.com/los-docentes-de-la-unr-realizaran-un-paro-de-72-horas-la-semana-que-viene/"
         },
         {
             "es_evento_relevante": true,
