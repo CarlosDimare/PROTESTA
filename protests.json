@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-12T16:16:01.124842-03:00",
+    "last_updated": "2025-11-12T17:20:17.695380-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2280,6 +2280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir cumplimiento efectivo de la Ley de Financiamiento Universitario y denunciar la suspensión como inconstitucional",
             "fuente": "https://estadodealerta.com.ar/paro-universitario-por-72-horas-en-reclamo-del-cumplimiento-de-la-ley-de-financiamiento-suspendida-por-el-gobierno/, https://www.laizquierdadiario.com/Paro-universitario-de-72-horas-reclaman-que-Milei-cumpla-la-Ley-de-Financiamiento-Universitario, https://www.pagina12.com.ar/872213-paro-universitario-por-72-horas, https://www.infobae.com/politica/2025/11/08/habra-paro-docente-universitario-de-72-horas-en-todo-el-pais-y-advierten-por-el-inicio-del-ciclo-lectivo-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-12",
+            "horario": "08:00",
+            "lugar": "Planta La China de Granja Tres Arroyos, Concepción del Uruguay",
+            "quien": "Trabajadores de la planta La China",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por atraso salarial (solo 20% abonado) y promesas incumplidas de la empresa",
+            "fuente": "https://www.anred.org/paro-total-en-la-planta-la-china-de-granja-tres-arroyos-los-trabajadores-se-plantan-ante-el-atraso-salarial-y-el-silencio-empresarial/"
         },
         {
             "es_evento_relevante": true,
