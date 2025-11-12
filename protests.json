@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-12T14:17:09.406206-03:00",
+    "last_updated": "2025-11-12T15:26:51.073624-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2370,6 +2370,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por la despenalización del cannabis, fin de la persecución policial y derogación de la Ley 23.737",
             "fuente": "https://www.laizquierdadiario.com/El-15N-vamos-a-la-Marcha-Nacional-de-la-Marihuana"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "14:00",
+            "lugar": "Puerta de fábrica de Morvillo",
+            "quien": "Trabajadores de gráficos de Morvillo",
+            "tipo_medida": "Movilización",
+            "motivo": "Presentación del proyecto de ley de expropiación y continuidad productiva",
+            "fuente": "https://prensaobrera.com/sindicales/morvillo-plenario-abierto-en-puerta-de-fabrica-para-presentar-el-proyecto-de-ley-de-expropiacion-y-movilizacion-a-la-legislatura-bonaerense"
         },
         {
             "es_evento_relevante": true,
