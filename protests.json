@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-12T07:19:34.947304-03:00",
+    "last_updated": "2025-11-12T08:15:58.645249-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2404,12 +2404,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
-            "horario": "No especificado",
+            "horario": "12:00",
             "lugar": "Secretaría de Trabajo",
-            "quien": "ATE",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a reforma laboral y reapertura de paritarias",
-            "fuente": "https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/"
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro nacional con movilización",
+            "motivo": "Rechazo a la reforma laboral del Gobierno y exigencia de reapertura de paritarias",
+            "fuente": "https://www.inforegion.com.ar/2025/11/12/reforma-laboral-ate-toma-la-delantera-y-convoca-al-paro/, https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/, https://canalabierto.com.ar/2025/11/11/ate-lanzo-un-paro-nacional-para-el-miercoles-19-en-rechazo-a-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
