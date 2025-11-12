@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-11T20:17:06.389751-03:00",
+    "last_updated": "2025-11-11T22:09:53.994448-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2350,6 +2350,16 @@
             "tipo_medida": "Negociación Paritaria",
             "motivo": "Reclamo salarial ante inflación, congelación de paritarias desde octubre de 2024 y deterioro de ingresos",
             "fuente": "https://estadodealerta.com.ar/trabajadores-viales-lograron-reabrir-negociaciaciones-salariales-tras-fallo-judicial-favorable-al-reclamo-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-14",
+            "horario": "13:00",
+            "lugar": "Circunscripciones judiciales de San Luis (incluyendo Villa Mercedes y Concarán)",
+            "quien": "Sindicato de Judiciales Puntanos (SIJUPU) con apoyo de la Federación Judicial Argentina (FJA)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Exigencia de paritarias judiciales, convenios colectivos, recomposición salarial y defensa de la autonomía y condiciones laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/la-fja-manifesto-su-mas-energico-y-terminante-repudio-al-recorte-de-la-feria-judicial-en-san-luis-empleados-realizan-paros-quite-de-colaboracion-y-movilizaciones-2025111120290, https://www.laizquierdadiario.com/San-Luis-Paro-de-judiciales-ante-atropellos-laborales-de-la-patronal"
         },
         {
             "es_evento_relevante": true,
