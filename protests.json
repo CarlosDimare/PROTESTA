@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-13T13:22:13.173237-03:00",
+    "last_updated": "2025-11-13T14:21:46.193929-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2355,6 +2355,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-13",
             "horario": "No especificado",
+            "lugar": "Nueva York, Estados Unidos",
+            "quien": "Starbucks Workers United",
+            "tipo_medida": "Huelga",
+            "motivo": "Primer contrato sindical, prácticas laborales desleales y precarización laboral",
+            "fuente": "https://www.laizquierdadiario.com/Los-trabajadores-de-Starbucks-inician-una-huelga-nacional-sin-contrato-sin-cafe"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-13",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Sindicato Trabajadores Viales y Afines de la República Argentina (STVyARA)",
             "tipo_medida": "Negociación Paritaria",
@@ -2445,11 +2455,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "12:00",
-            "lugar": "Secretaría de Trabajo de la Nación, Avenida Leandro N. Alem 650",
+            "lugar": "Secretaría de Trabajo, avenida Leandro N. Alem 650, CABA",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro y Movilización",
-            "motivo": "Rechazo a la reforma laboral del Gobierno y exigencia de reapertura de paritarias",
-            "fuente": "https://www.datagremial.com/informacion-general/ate-llevara-a-cabo-un-paro-nacional-de-24-horas-y-una-movilizacion-a-la-secretaria-de-trabajo-para-manifestarse-en-contra-de-la-reforma-laboral-libertaria-2025111218450, https://estadodealerta.com.ar/ate-convoca-a-un-paro-nacional-para-el-19-por-la-reapertura-de-paritarias-y-contra-los-proyectos-de-reforma-laboral/, https://www.inforegion.com.ar/2025/11/12/reforma-laboral-ate-toma-la-delantera-y-convoca-al-paro/, https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/, https://canalabierto.com.ar/2025/11/11/ate-lanzo-un-paro-nacional-para-el-miercoles-19-en-rechazo-a-la-reforma-laboral/"
+            "tipo_medida": "Paro nacional de 24 horas con movilización",
+            "motivo": "Rechazo a la reforma laboral y exigencia de reapertura de paritarias",
+            "fuente": "https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/, https://www.datagremial.com/informacion-general/ate-llevara-a-cabo-un-paro-nacional-de-24-horas-y-una-movilizacion-a-la-secretaria-de-trabajo-para-manifestarse-en-contra-de-la-reforma-laboral-libertaria-2025111218450, https://estadodealerta.com.ar/ate-convoca-a-un-paro-nacional-para-el-19-por-la-reapertura-de-paritarias-y-contra-los-proyectos-de-reforma-laboral/, https://www.inforegion.com.ar/2025/11/12/reforma-laboral-ate-toma-la-delantera-y-convoca-al-paro/, https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/, https://canalabierto.com.ar/2025/11/11/ate-lanzo-un-paro-nacional-para-el-miercoles-19-en-rechazo-a-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
