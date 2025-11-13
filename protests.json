@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-13T15:25:39.290666-03:00",
+    "last_updated": "2025-11-13T16:16:36.774614-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2380,6 +2380,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Exigencia de paritarias judiciales, convenios colectivos, recomposición salarial y defensa de la autonomía y condiciones laborales",
             "fuente": "https://www.datagremial.com/informacion-general/la-fja-manifesto-su-mas-energico-y-terminante-repudio-al-recorte-de-la-feria-judicial-en-san-luis-empleados-realizan-paros-quite-de-colaboracion-y-movilizaciones-2025111120290, https://www.laizquierdadiario.com/San-Luis-Paro-de-judiciales-ante-atropellos-laborales-de-la-patronal"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-14",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Federación Aceitera y Desmotadora de Algodón (FTCIODyARA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei",
+            "fuente": "https://www.anred.org/los-aceiteros-y-los-desmotadores-vamos-a-ir-a-la-huelga-cuando-este-gobierno-quiera-avanzar-contra-los-derechos-laborales/"
         },
         {
             "es_evento_relevante": true,
