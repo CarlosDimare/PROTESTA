@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-13T14:21:46.193929-03:00",
+    "last_updated": "2025-11-13T15:25:39.290666-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2446,10 +2446,10 @@
             "fecha": "2025-11-19",
             "horario": "00:00",
             "lugar": "Universidades Nacionales (todo el país)",
-            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "quien": "Federación Argentina Trabajadores de Universidades Nacionales (FATUN)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por la aplicación de la Ley de Financiamiento Universitario y presupuesto para educación pública",
-            "fuente": "https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
+            "motivo": "Reclamar la inmediata aplicación de la Ley de Financiamiento Universitario (LFU)",
+            "fuente": "https://elciudadanoweb.com/universidades-sin-no-docentes-paro-nacional-para-el-miercoles-19/, https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
         },
         {
             "es_evento_relevante": true,
