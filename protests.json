@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-13T11:18:58.238285-03:00",
+    "last_updated": "2025-11-13T12:22:00.190971-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2373,6 +2373,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-14",
+            "horario": "No especificado",
+            "lugar": "Estadio Newell's Old Boys",
+            "quien": "Utedyc (Sindicato de Personal de Clubes de fútbol)",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Pago de salarios adeudados (octubre) y aportes de obra social a 300 trabajadores, ante falta de respuestas de la directiva",
+            "fuente": "https://elciudadanoweb.com/deudas-reclamos-y-paro-la-crisis-de-newells-que-amenaza-con-frenar-el-futbol/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-15",
             "horario": "04:00",
             "lugar": "Conurbano Bonaerente - Líneas afectadas (22, 148, 159, 219, 300, 372, 584, 603, 619 y El Nuevo Halcón en Florencio Varela)",
@@ -2420,6 +2430,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "00:00",
+            "lugar": "Universidades Nacionales (todo el país)",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por la aplicación de la Ley de Financiamiento Universitario y presupuesto para educación pública",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
         },
         {
             "es_evento_relevante": true,
