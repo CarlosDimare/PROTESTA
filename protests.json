@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-14T09:32:20.657681-03:00",
+    "last_updated": "2025-11-14T10:29:24.894054-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2470,6 +2470,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-17",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral propuesta por el gobierno, considerada antisindical y que limita la ultratividad de convenios colectivos",
+            "fuente": "https://www.infobae.com/politica/2025/11/14/la-nueva-cgt-se-pone-en-marcha-apuran-una-reunion-clave-para-debatir-sobre-la-reforma-laboral-y-el-encuentro-con-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
