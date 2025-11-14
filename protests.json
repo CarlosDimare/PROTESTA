@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-14T10:29:24.894054-03:00",
+    "last_updated": "2025-11-14T11:17:57.312740-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2485,21 +2485,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "00:00",
-            "lugar": "Universidad Nacional de Lomas de Zamora",
-            "quien": "ADIULZA y APULZ",
+            "lugar": "Todas las universidades del país",
+            "quien": "FEDUN y FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de paritarias y ajuste salarial",
-            "fuente": "https://www.inforegion.com.ar/2025/11/14/adiulza-y-apulz-convocaron-a-un-paro-de-24-horas/"
+            "motivo": "Exigir la aplicación de la Ley de Financiamiento Universitario y protestar contra el gobierno de Javier Milei por no cumplir con la ley y por la pérdida salarial",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-llamo-a-un-paro-de-48-horas-en-todas-las-universidades-del-pais-y-manifesto-su-preocupacion-por-un-presidente-que-se-niega-a-cumplir-con-una-ley-aprobada-por-el-congreso--20251114900, https://elciudadanoweb.com/universidades-sin-no-docentes-paro-nacional-para-el-miercoles-19/, https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "00:00",
-            "lugar": "Universidades Nacionales (todo el país)",
-            "quien": "Federación Argentina Trabajadores de Universidades Nacionales (FATUN)",
+            "lugar": "Universidad Nacional de Lomas de Zamora",
+            "quien": "ADIULZA y APULZ",
             "tipo_medida": "Paro",
-            "motivo": "Reclamar la inmediata aplicación de la Ley de Financiamiento Universitario (LFU)",
-            "fuente": "https://elciudadanoweb.com/universidades-sin-no-docentes-paro-nacional-para-el-miercoles-19/, https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de paritarias y ajuste salarial",
+            "fuente": "https://www.inforegion.com.ar/2025/11/14/adiulza-y-apulz-convocaron-a-un-paro-de-24-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -2520,6 +2520,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de aumento de ingresos y contra el veto de Milei a la reforma jubilatoria",
             "fuente": "https://elciudadanoweb.com/operativo-desmedido-liberaron-al-padre-paco-que-habia-sido-detenido-en-la-marcha-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Movimiento de mujeres y diversidades (Campaña Nacional por el Derecho al Aborto, Ni Una Menos, organizaciones territoriales)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la violencia de género, femicidios y políticas del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/mujer/contra-la-violencia-los-femicidios-y-transtravesticidios-pongamos-en-pie-una-gran-movilizacion-este-25n-para-enfrentar-al-gobierno-de-milei-y-sus-socios"
         },
         {
             "es_evento_relevante": true,
