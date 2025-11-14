@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-14T11:17:57.312740-03:00",
+    "last_updated": "2025-11-14T12:17:33.249633-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2485,11 +2485,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "00:00",
-            "lugar": "Todas las universidades del país",
-            "quien": "FEDUN y FATUN",
+            "lugar": "Universidades nacionales de Argentina",
+            "quien": "FEDUN, FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Exigir la aplicación de la Ley de Financiamiento Universitario y protestar contra el gobierno de Javier Milei por no cumplir con la ley y por la pérdida salarial",
-            "fuente": "https://www.datagremial.com/informacion-general/fedun-llamo-a-un-paro-de-48-horas-en-todas-las-universidades-del-pais-y-manifesto-su-preocupacion-por-un-presidente-que-se-niega-a-cumplir-con-una-ley-aprobada-por-el-congreso--20251114900, https://elciudadanoweb.com/universidades-sin-no-docentes-paro-nacional-para-el-miercoles-19/, https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
+            "motivo": "Exigencia de aplicación de Ley de Financiamiento Universitario y defensa de la educación pública",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-convoco-a-48-horas-de-protestas-en-todas-las-universidades-del-pais-y-manifesto-su-preocupacion-por-un-presidente-que-se-niega-a-cumplir-con-una-ley-aprobada-por-el-congreso--20251114900, https://www.datagremial.com/informacion-general/fedun-llamo-a-un-paro-de-48-horas-en-todas-las-universidades-del-pais-y-manifesto-su-preocupacion-por-un-presidente-que-se-niega-a-cumplir-con-una-ley-aprobada-por-el-congreso--20251114900, https://elciudadanoweb.com/universidades-sin-no-docentes-paro-nacional-para-el-miercoles-19/, https://www.datagremial.com/informacion-general/fatun-convoca-a-un-paro-nacional-y-a-una-jornada-de-visibilizacion-para-reclamar-la-aplicacion-de-la-ley-de-financiamiento-universitario-2025111311200"
         },
         {
             "es_evento_relevante": true,
