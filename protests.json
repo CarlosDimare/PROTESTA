@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-14T07:19:52.392174-03:00",
+    "last_updated": "2025-11-14T08:18:46.685465-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2395,6 +2395,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-14",
             "horario": "No especificado",
+            "lugar": "Universidades de todo el país",
+            "quien": "Conadu y Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al recorte salarial y reclamos por presupuesto universitario, aplicación de Ley de Financiamiento Universitario, restitución de FONID y condiciones laborales",
+            "fuente": "https://www.laizquierdadiario.com/Universidades-huelga-de-72-horas-exige-la-implementacion-de-la-ley-de-financiamiento"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-14",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Federación Aceitera y Desmotadora de Algodón (FTCIODyARA)",
             "tipo_medida": "Paro",
@@ -2460,6 +2470,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "00:00",
+            "lugar": "Universidad Nacional de Lomas de Zamora",
+            "quien": "ADIULZA y APULZ",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de paritarias y ajuste salarial",
+            "fuente": "https://www.inforegion.com.ar/2025/11/14/adiulza-y-apulz-convocaron-a-un-paro-de-24-horas/"
         },
         {
             "es_evento_relevante": true,
