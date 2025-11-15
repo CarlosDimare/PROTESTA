@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-15T07:15:55.221978-03:00",
+    "last_updated": "2025-11-15T08:13:36.156783-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2540,6 +2540,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la política de Trump, Milei y el FMI, y en contra de la reforma laboral anti-obrera",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/las-intervenciones-de-las-luchas-y-de-sindicatos-combativos-en-el-plenario-del-frente-de-lucha-piquetero, https://www.eldestapeweb.com/sociedad/ni-una-menos/marcha-de-ni-una-menos-jubilados-y-trabajadores-a-que-hora-es-la-convocatoria-contra-el-gobierno-de-milei-202563203045"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-22",
+            "horario": "No especificado",
+            "lugar": "Neuquén",
+            "quien": "Mandatarios locales (Rolando Figueroa)",
+            "tipo_medida": "Reunión de presión",
+            "motivo": "Reclamos por avales para créditos internacionales, deuda provincial y Ley de Glaciares",
+            "fuente": "https://www.infobae.com/politica/2025/11/15/el-gobierno-cree-que-aprobara-el-presupuesto-que-piden-las-provincias-y-la-posible-fractura-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
