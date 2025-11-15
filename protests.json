@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-15T08:13:36.156783-03:00",
+    "last_updated": "2025-11-15T09:28:51.111344-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2460,6 +2460,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigencia de justicia por delitos de odio, lucha por una vida sin violencias hacia la comunidad LGBT+ y reivindicación de derechos en un contexto de hostilidad estatal",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-de-lesbianas-en-Cordoba-puede-perder-su-casa"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-15",
+            "horario": "No especificado",
+            "lugar": "Astillero Río Santiago (ARS), Ensenada",
+            "quien": "Trabajadores del ARS, Agrupación Marrón",
+            "tipo_medida": "Retención de tareas",
+            "motivo": "Repudio a ascensos discrecionales de la conducción de ATE y reclamos salariales/categoriales",
+            "fuente": "https://www.laizquierdadiario.com/Astillero-Rio-Santiago-una-rebelion-obrera-contra-los-privilegios-de-la-conduccion-gremial"
         },
         {
             "es_evento_relevante": true,
