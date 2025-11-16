@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-16T17:18:09.027192-03:00",
+    "last_updated": "2025-11-16T18:15:47.508279-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2490,6 +2490,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos arbitrarios, reemplazo de tripulación nacional por personal extranjero temporal, incumplimiento salarial y condiciones laborales degradadas por el Decreto 378/25",
             "fuente": "https://www.pagina12.com.ar/870471-paro-en-jetsmart-denuncian-despidos-y-reemplazo-de-tripulaci"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-16",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Trabajadores de salud y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra recortes en salud pública y el presupuesto 2026 que afecta programas de VIH, tuberculosis y prevención",
+            "fuente": "https://www.laizquierdadiario.com/Presupuesto-2026-Lugones-y-Milei-quieren-mas-recortes-para-la-respuesta-al-VIH"
         },
         {
             "es_evento_relevante": true,
