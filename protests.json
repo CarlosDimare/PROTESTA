@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-16T08:15:02.577970-03:00",
+    "last_updated": "2025-11-16T09:28:54.863707-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2560,6 +2560,16 @@
             "tipo_medida": "Reunión de presión",
             "motivo": "Reclamos por avales para créditos internacionales, deuda provincial y Ley de Glaciares",
             "fuente": "https://www.infobae.com/politica/2025/11/15/el-gobierno-cree-que-aprobara-el-presupuesto-que-piden-las-provincias-y-la-posible-fractura-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "15:00",
+            "lugar": "Centro de Rosario (destino: Municipalidad y sede de Gobierno provincial)",
+            "quien": "Asamblea Lesbotransfeminista Rosario (conformada por 30+ organizaciones políticas, sindicales, sociales y estudiantiles)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a recortes en políticas de género (Línea 144, programa Acompañar) y exigencia de Estado presente ante aumento de violencia de género",
+            "fuente": "https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-el-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/"
         },
         {
             "es_evento_relevante": true,
