@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-16T11:15:28.373986-03:00",
+    "last_updated": "2025-11-16T12:17:04.517742-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2565,21 +2565,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-25",
             "horario": "15:00",
-            "lugar": "Centro de Rosario (destino: Municipalidad y sede de Gobierno provincial)",
-            "quien": "Asamblea Lesbotransfeminista Rosario (conformada por 30+ organizaciones políticas, sindicales, sociales y estudiantiles)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a recortes en políticas de género (Línea 144, programa Acompañar) y exigencia de Estado presente ante aumento de violencia de género",
-            "fuente": "https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-el-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-25",
-            "horario": "15:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Movimiento de mujeres y diversidades (Campaña Nacional por el Derecho al Aborto, Ni Una Menos, organizaciones territoriales)",
             "tipo_medida": "Marcha",
             "motivo": "Contra la violencia de género, femicidios y políticas del gobierno de Milei",
             "fuente": "https://prensaobrera.com/mujer/contra-la-violencia-los-femicidios-y-transtravesticidios-pongamos-en-pie-una-gran-movilizacion-este-25n-para-enfrentar-al-gobierno-de-milei-y-sus-socios"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "Tarde (sin hora específica)",
+            "lugar": "Centro de Rosario (destino: Municipalidad y sede de Gobierno provincial)",
+            "quien": "Asamblea Lesbotransfeminista Rosario y organizaciones aliadas (políticas, sindicales, sociales y estudiantiles)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra recortes presupuestarios en políticas de género (Línea 144, programa Acompañar) y exigencia de respuesta estatal frente a la violencia de género",
+            "fuente": "https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/, https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-el-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/"
         },
         {
             "es_evento_relevante": true,
