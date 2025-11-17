@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-17T19:17:41.160847-03:00",
+    "last_updated": "2025-11-17T20:17:54.629649-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2533,6 +2533,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-18",
+            "horario": "16:00",
+            "lugar": "Sede de la CGT, Azopardo 802, CABA",
+            "quien": "CGT",
+            "tipo_medida": "Reunión estratégica",
+            "motivo": "Definir estrategia para frenar puntos resistidos de la reforma laboral de Milei y coordinar acciones con diputados sindicales",
+            "fuente": "https://www.infobae.com/politica/2025/11/17/reforma-laboral-la-cgt-definira-manana-con-los-diputados-sindicales-la-estrategia-para-frenar-el-proyecto-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "00:00",
             "lugar": "Universidades nacionales de Argentina",
@@ -2570,6 +2580,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de aumento de ingresos y contra el veto de Milei a la reforma jubilatoria",
             "fuente": "https://elciudadanoweb.com/operativo-desmedido-liberaron-al-padre-paco-que-habia-sido-detenido-en-la-marcha-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "16:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Jubilados y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al acuerdo colonial de Milei con Trump y reclamo de aumento de emergencia, devolución de medicamentos y cese de represión",
+            "fuente": "https://prensaobrera.com/politicas/con-los-jubilados-a-plaza-de-mayo-a-rechazar-el-acuerdo-colonial-de-milei-con-trump"
         },
         {
             "es_evento_relevante": true,
