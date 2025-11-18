@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T01:23:00.720533-03:00",
+    "last_updated": "2025-11-18T02:21:40.756009-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2540,6 +2540,16 @@
             "tipo_medida": "Reunión estratégica",
             "motivo": "Definir estrategia para frenar puntos resistidos de la reforma laboral de Milei y coordinar acciones con diputados sindicales",
             "fuente": "https://www.infobae.com/politica/2025/11/17/reforma-laboral-la-cgt-definira-manana-con-los-diputados-sindicales-la-estrategia-para-frenar-el-proyecto-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-18",
+            "horario": "No especificado",
+            "lugar": "Mercado de São Brás hacia la sede de la COP30, Belém, Brasil",
+            "quien": "Comunidades indígenas, campesinas, quilombolas y organizaciones socioambientales internacionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la tierra, el agua y la vida; repudio a los intereses corporativos y a las falsas soluciones climáticas; y demanda de respeto a los derechos de la naturaleza",
+            "fuente": "https://elciudadanoweb.com/marcha-global-por-el-clima-pueblos-del-mundo-en-defensa-de-la-vida/"
         },
         {
             "es_evento_relevante": true,
