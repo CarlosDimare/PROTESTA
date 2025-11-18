@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T11:18:51.355654-03:00",
+    "last_updated": "2025-11-18T12:21:16.019834-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2574,6 +2574,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
+            "horario": "08:00",
+            "lugar": "Secretaría de Trabajo en la Capital Federal",
+            "quien": "ATE y CTA Autónoma",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a reformas laboral, previsional e impositiva del gobierno, y contra el presupuesto de ajuste",
+            "fuente": "https://www.datagremial.com/informacion-general/estatales-bonaerenses-llamaron-a-sumarse-al-paro-nacional-de-ate-unidad-y-masividad-son-la-clave--2025111811410"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
             "horario": "10:00",
             "lugar": "Intersección de Caseros y Ayacucho, Córdoba",
             "quien": "ATE Córdoba (Consejo Directivo Provincial)",
@@ -2780,6 +2790,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a las mediciones oficiales de inflación y salarios, exigencia de aumento salarial del 20% para trabajadores y jubilados, y oposición a políticas de ajuste y reforma laboral",
             "fuente": "https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
+            "lugar": "Mendoza",
+            "quien": "Asociación de Empleados y Funcionarios del Poder Judicial de Mendoza (AEyFPJ)",
+            "tipo_medida": "Paro",
+            "motivo": "Persecución a dirigentes sindicales, reclamo de salarios dignos e implementación del Convenio Colectivo de Trabajo, denunciando acciones del gobernador Alfredo Cornejo y la Suprema Corte",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-de-mendoza-van-al-paro-y-denuncian-intento-de-disciplinamiento-tras-el-autoaumento-salarial-del-gobernador-cornejo-202511181030"
         },
         {
             "es_evento_relevante": true,
