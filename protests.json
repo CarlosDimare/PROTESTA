@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T14:19:12.866703-03:00",
+    "last_updated": "2025-11-18T15:26:06.213024-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2530,6 +2530,16 @@
             "tipo_medida": "Reunión organizativa",
             "motivo": "Planificación de paro y plan de lucha unificado por aumentos salariales, actualización por IPC y mejora laboral",
             "fuente": "https://www.laizquierdadiario.com/Ante-las-mesas-salariales-necesitamos-asambleas-y-plan-de-lucha-unificado-de-todos-los-sindicatos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-18",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones de jubilados y Frente de Lucha Piquetero",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste, el pacto con EE.UU. y la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Miercoles-de-protestas-marchan-estatales-jubilados-y-organizaciones-sociales-la-CGT-no"
         },
         {
             "es_evento_relevante": true,
