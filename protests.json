@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T10:31:35.904280-03:00",
+    "last_updated": "2025-11-18T11:18:51.355654-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2570,6 +2570,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de paritarias y ajuste salarial",
             "fuente": "https://www.inforegion.com.ar/2025/11/14/adiulza-y-apulz-convocaron-a-un-paro-de-24-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "10:00",
+            "lugar": "Intersección de Caseros y Ayacucho, Córdoba",
+            "quien": "ATE Córdoba (Consejo Directivo Provincial)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Repudio a la reforma laboral del gobierno de Milei y exigencia de reapertura de paritarias para empleados públicos",
+            "fuente": "https://www.datagremial.com/informacion-general/el-consejo-directivo-de-ate-cordoba-adhiere-al-paro-nacional-y-protagonizara-una-movilizacion-en-la-provincia-en-contra-de-la-reforma-laboral-202511188240"
         },
         {
             "es_evento_relevante": true,
