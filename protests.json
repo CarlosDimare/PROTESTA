@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T13:24:25.544463-03:00",
+    "last_updated": "2025-11-18T14:19:12.866703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2540,6 +2540,16 @@
             "tipo_medida": "Reunión estratégica",
             "motivo": "Definir estrategia para frenar puntos resistidos de la reforma laboral de Milei y coordinar acciones con diputados sindicales",
             "fuente": "https://www.infobae.com/politica/2025/11/17/reforma-laboral-la-cgt-definira-manana-con-los-diputados-sindicales-la-estrategia-para-frenar-el-proyecto-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-18",
+            "horario": "No especificado",
+            "lugar": "33 barrios populares de Villa Gobernador Gálvez",
+            "quien": "Cooperativa Integral de Villa Gobernador Gálvez",
+            "tipo_medida": "Corte programado",
+            "motivo": "Deuda de $6.000 millones con EPE y consumo clandestino de energía (42% de lo adquirido)",
+            "fuente": "https://elciudadanoweb.com/advertencia-en-villa-gobernador-galvez-la-cooperativa-anticipa-cortes-de-luz-en-33-barrios-por-una-deuda-de-6-000-millones/"
         },
         {
             "es_evento_relevante": true,
