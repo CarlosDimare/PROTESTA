@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T09:36:45.876725-03:00",
+    "last_updated": "2025-11-19T10:33:15.553769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2780,6 +2780,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-25",
+            "horario": "06:00",
+            "lugar": "Rutas Nacionales",
+            "quien": "ATE",
+            "tipo_medida": "Piquete",
+            "motivo": "Contra reforma laboral y por aumento salarial",
+            "fuente": "https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
