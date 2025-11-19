@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T12:23:01.563347-03:00",
+    "last_updated": "2025-11-19T13:27:23.370222-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2733,6 +2733,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "13:00",
+            "lugar": "Hospital Garrahan, Buenos Aires",
+            "quien": "Trabajadores del Hospital Garrahan (Junta Interna de ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a 44 sumarios y denuncia penal contra representantes gremiales tras la lucha salarial del 61%",
+            "fuente": "https://prensaobrera.com/sindicales/el-26-todos-a-garrahan-a-apoyar-a-los-trabajadores-contra-las-sanciones-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-28",
             "horario": "No especificado",
             "lugar": "Roma, Italia",
@@ -2800,6 +2810,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Contra reforma laboral y por aumento salarial",
             "fuente": "https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-25",
+            "horario": "No especificado",
+            "lugar": "Rutas nacionales (no especificado)",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Piquete/Corte",
+            "motivo": "Resistencia contra la reforma laboral del Gobierno Nacional",
+            "fuente": "https://elciudadanoweb.com/ate-aseguro-que-el-paro-tiene-mas-del-90-de-acatamiento/"
         },
         {
             "es_evento_relevante": true,
