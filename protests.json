@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T15:25:06.872766-03:00",
+    "last_updated": "2025-11-19T16:16:41.419433-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2690,6 +2690,16 @@
             "tipo_medida": "Paro y Marcha",
             "motivo": "Rechazo a aumentos salariales insuficientes (4,5% vs inflación del 24%) y bono de $300 mil, defensa del estatuto docente y la educación pública",
             "fuente": "https://prensaobrera.com/sindicales/docentes-jujuy-un-bono-miserable-para-acompanar-un-aumento-miserable"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-20",
+            "horario": "10:00",
+            "lugar": "Sede de la CGT, calle Azopardo",
+            "quien": "CGT y diputados sindicales peronistas",
+            "tipo_medida": "Reunión estratégica",
+            "motivo": "Preparación de resistencia contra la reforma laboral del gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/junto-a-dipu-sindicalistas-la-cgt-ratifico-rechazo-a-la-reforma-laboral-no-va-a-dar-ninguna-solucion--2025111911480"
         },
         {
             "es_evento_relevante": true,
