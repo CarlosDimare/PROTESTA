@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T07:22:48.782440-03:00",
+    "last_updated": "2025-11-19T08:19:11.393263-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2670,6 +2670,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la política de Trump, Milei y el FMI, y en contra de la reforma laboral anti-obrera",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/las-intervenciones-de-las-luchas-y-de-sindicatos-combativos-en-el-plenario-del-frente-de-lucha-piquetero, https://www.eldestapeweb.com/sociedad/ni-una-menos/marcha-de-ni-una-menos-jubilados-y-trabajadores-a-que-hora-es-la-convocatoria-contra-el-gobierno-de-milei-202563203045"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-20",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la Universidad Pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2025/11/19/paro-de-24-horas-en-las-universidades-publicas-por-el-financiamiento/"
         },
         {
             "es_evento_relevante": true,
