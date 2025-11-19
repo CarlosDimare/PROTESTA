@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T18:16:34.536395-03:00",
+    "last_updated": "2025-11-19T19:19:25.811203-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2615,6 +2615,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Unión de Trabajadores Jubilados En Lucha (UTJEL)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por jubilación mínima de $1.250.000, movilidad previsional bimestral sin tope, compensación etaria para retiro anticipado y rechazo a reformas previsionales",
+            "fuente": "https://www.inforegion.com.ar/2025/11/19/importante-operativo-policial-en-congreso-por-una-nueva-la-marcha-de-jubilados/, https://elciudadanoweb.com/operativo-desmedido-liberaron-al-padre-paco-que-habia-sido-detenido-en-la-marcha-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "10:00",
             "lugar": "Intersección de Caseros y Ayacucho, Córdoba",
             "quien": "ATE Córdoba (Consejo Directivo Provincial)",
             "tipo_medida": "Paro y Movilización",
@@ -2630,16 +2640,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reapertura de paritarias y oposición a reforma laboral por pérdida de poder adquisitivo del 32%",
             "fuente": "https://www.infobae.com/politica/2025/11/19/el-gobierno-aumenta-la-tension-con-los-estatales-aviso-que-descontara-el-dia-a-quienes-adhieran-al-paro-de-ate/, https://estadodealerta.com.ar/bullrich-va-contra-aguiar-por-amenazas-al-orden-constitucional-y-muchos-ven-un-ataque-a-la-protesta-sindical/, https://www.laizquierdadiario.com/Persecucion-Bullrich-denuncio-penalmente-a-Rodolfo-Aguiar-secretario-general-de-ATE, https://www.inforegion.com.ar/2025/11/17/de-cara-al-paro-de-ate-contra-la-reforma-laboral-bullrcih-denuncio-a-aguiar/, https://www.infobae.com/politica/2025/11/14/suerte-con-eso-manuel-adorni-critico-al-sindicato-que-convoco-al-paro-por-la-reforma-laboral-y-senalo-que-dia-comienza-la-segunda-etapa-del-gobierno/, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/, https://www.datagremial.com/informacion-general/ate-llevara-a-cabo-un-paro-nacional-de-24-horas-y-una-movilizacion-a-la-secretaria-de-trabajo-para-manifestarse-en-contra-de-la-reforma-laboral-libertaria-2025111218450, https://estadodealerta.com.ar/ate-convoca-a-un-paro-nacional-para-el-19-por-la-reapertura-de-paritarias-y-contra-los-proyectos-de-reforma-laboral/, https://www.inforegion.com.ar/2025/11/12/reforma-laboral-ate-toma-la-delantera-y-convoca-al-paro/, https://elciudadanoweb.com/se-recalienta-la-calle-ate-convoco-a-un-paro-nacional-contra-la-reforma-laboral/, https://canalabierto.com.ar/2025/11/11/ate-lanzo-un-paro-nacional-para-el-miercoles-19-en-rechazo-a-la-reforma-laboral/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-11-19",
-            "horario": "14:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Movimiento de Jubilados y Pensionados",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo de aumento de ingresos y contra el veto de Milei a la reforma jubilatoria",
-            "fuente": "https://elciudadanoweb.com/operativo-desmedido-liberaron-al-padre-paco-que-habia-sido-detenido-en-la-marcha-de-los-jubilados/"
         },
         {
             "es_evento_relevante": true,
@@ -2820,6 +2820,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-20",
+            "horario": "**12:00**",
+            "lugar": "No especificado",
+            "quien": "Plenario de Trabajadores Combativos",
+            "tipo_medida": "Movilización con paro activo",
+            "motivo": "Contra la reforma laboral y el acuerdo colonial entre Milei y EE.UU., con llamado a huelga general",
+            "fuente": "https://prensaobrera.com/politicas/una-movilizacion-a-plaza-de-mayo-denuncio-el-acuerdo-colonial-entre-milei-y-trump, https://www.telesurtv.net/argentina-paro-nacional-reforma-milei-trump/"
         },
         {
             "es_evento_relevante": true,
