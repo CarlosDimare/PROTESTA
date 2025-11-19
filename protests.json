@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T10:33:15.553769-03:00",
+    "last_updated": "2025-11-19T11:22:20.041635-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2670,6 +2670,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la política de Trump, Milei y el FMI, y en contra de la reforma laboral anti-obrera",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/las-intervenciones-de-las-luchas-y-de-sindicatos-combativos-en-el-plenario-del-frente-de-lucha-piquetero, https://www.eldestapeweb.com/sociedad/ni-una-menos/marcha-de-ni-una-menos-jubilados-y-trabajadores-a-que-hora-es-la-convocatoria-contra-el-gobierno-de-milei-202563203045"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Cedems (sindicato docente)",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Rechazo a aumentos salariales insuficientes (4,5% vs inflación del 24%) y bono de $300 mil, defensa del estatuto docente y la educación pública",
+            "fuente": "https://prensaobrera.com/sindicales/docentes-jujuy-un-bono-miserable-para-acompanar-un-aumento-miserable"
         },
         {
             "es_evento_relevante": true,
