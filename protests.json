@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T01:23:34.524482-03:00",
+    "last_updated": "2025-11-19T02:20:40.207980-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2640,6 +2640,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo de aumento de ingresos y contra el veto de Milei a la reforma jubilatoria",
             "fuente": "https://elciudadanoweb.com/operativo-desmedido-liberaron-al-padre-paco-que-habia-sido-detenido-en-la-marcha-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "16:00",
+            "lugar": "Plaza de los Dos Congresos",
+            "quien": "Agrupaciones de jubilados, Polo Obrero, partidos de izquierda, trabajadores del Hospital Garrahan, CTA, ATE, sindicato de neumáticos, Frente Patriótico por la Justicia Social, Territorios en Lucha, UTEP",
+            "tipo_medida": "Marcha y movilización",
+            "motivo": "Contra el imperialismo, la reforma laboral y el acuerdo con Estados Unidos",
+            "fuente": "https://www.infobae.com/politica/2025/11/19/nuevo-miercoles-de-protesta-piquetera-y-de-jubilados-marcharan-desde-el-congreso-hasta-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
