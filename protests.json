@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-18T20:18:19.389778-03:00",
+    "last_updated": "2025-11-18T22:12:14.046876-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2590,6 +2590,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de paritarias y ajuste salarial",
             "fuente": "https://www.inforegion.com.ar/2025/11/14/adiulza-y-apulz-convocaron-a-un-paro-de-24-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-19",
+            "horario": "08:00",
+            "lugar": "Loma La Lata, Neuquén",
+            "quien": "Comunidades Mapuche de Neuquén (Lof Kaxipayiñ y Zonal Xawvnko)",
+            "tipo_medida": "Piquete",
+            "motivo": "Defensa del territorio y oposición a la explotación de fracking en lagos",
+            "fuente": "https://www.laizquierdadiario.com/Mari-Menuco-amenaza-de-represion-a-la-protesta-mapuche-contra-la-contaminacion-petrolera"
         },
         {
             "es_evento_relevante": true,
