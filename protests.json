@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T11:18:12.316693-03:00",
+    "last_updated": "2025-11-20T12:21:13.400578-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2694,6 +2694,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-20",
+            "horario": "00:00",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Problemas en el cobro de salarios (desdoblados) y amenaza empresarial de pagar aguinaldo en cuotas, ante la crisis económica del sector",
+            "fuente": "https://estadodealerta.com.ar/amenaza-de-paro-de-colectivos-empresas-afirman-no-poder-afrontar-el-pago-conjunto-de-salarios-y-aguinaldo/, https://www.eldestapeweb.com/sociedad/transporte-publico/paro-de-colectivos-la-uta-adelanto-que-lineas-no-funcionaran-este-martes-6-de-mayo-202552141029"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-20",
             "horario": "10:00",
             "lugar": "Sede de la CGT, calle Azopardo",
             "quien": "CGT y diputados sindicales peronistas",
@@ -2773,6 +2783,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-27",
+            "horario": "La hora de inicio del evento de protesta es **13:00**.",
+            "lugar": "Secretaría de Trabajo",
+            "quien": "Sindicato Trabajadores Viales y Afines (STVyARA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigencia de urgente recomposición salarial y solución al desfinanciamiento del organismo",
+            "fuente": "https://estadodealerta.com.ar/viales-convocan-asambleas-en-todo-el-pais-ante-sueldos-congelados-y-desfinanciamiento-del-organismo-al-cumplirse-un-ano-sin-aumento-salarial/, https://cronicasindical.com.ar/2025/11/10/viales-movilizan-a-la-sec-trabajo-por-la-reunion-paritaria-a-mas-de-un-ano-de-congelamiento-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-28",
             "horario": "No especificado",
             "lugar": "Roma, Italia",
@@ -2840,6 +2860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Plenario Combativo de Trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral esclavista del gobierno de Milei, defensa de conquistas históricas y organización obrera",
+            "fuente": "https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
