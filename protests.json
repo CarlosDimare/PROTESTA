@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T15:25:06.440689-03:00",
+    "last_updated": "2025-11-20T16:17:32.986603-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2834,12 +2834,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-04",
-            "horario": "06:00",
-            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "horario": "00:00",
+            "lugar": "Red de colectivos del Área Metropolitana de Buenos Aires (AMBA)",
             "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Exigir el pago íntegro de salarios y aguinaldos en tiempo y forma, ante la amenaza empresarial de fraccionarlos",
-            "fuente": "https://www.infobae.com/sociedad/2025/11/20/la-uta-le-puso-fecha-al-paro-de-colectivos-si-las-empresas-incumplen-con-los-sueldos-y-el-aguinaldo/"
+            "motivo": "Exigir pago íntegro de salarios de noviembre y aguinaldo sin fragmentación, rechazando postergaciones",
+            "fuente": "https://www.inforegion.com.ar/2025/11/20/uta-amenazo-con-un-paro-de-colectivos-si-las-empresas-no-pagan-los-salarios-antes-del-cuarto-dia-habil-de-diciembre/, https://www.infobae.com/sociedad/2025/11/20/la-uta-le-puso-fecha-al-paro-de-colectivos-si-las-empresas-incumplen-con-los-sueldos-y-el-aguinaldo/"
         },
         {
             "es_evento_relevante": true,
