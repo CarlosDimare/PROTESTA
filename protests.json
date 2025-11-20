@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-19T20:19:09.399364-03:00",
+    "last_updated": "2025-11-19T22:10:42.909456-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2595,21 +2595,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "08:00",
-            "lugar": "Loma La Lata, Neuquén",
-            "quien": "Comunidades Mapuche de Neuquén (Lof Kaxipayiñ y Zonal Xawvnko)",
-            "tipo_medida": "Piquete",
-            "motivo": "Defensa del territorio y oposición a la explotación de fracking en lagos",
-            "fuente": "https://www.laizquierdadiario.com/Mari-Menuco-amenaza-de-represion-a-la-protesta-mapuche-contra-la-contaminacion-petrolera"
+            "lugar": "Secretaría de Trabajo (CABA) como epicentro, con protestas en todo el país",
+            "quien": "CTA Autónoma y ATE",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Protesta contra el proyecto de reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.datagremial.com/escenario/la-cta-autonoma-alienta-una-contra-reforma-y-la-movilizacion-popular-para-frenar-los-cambios-libertarios--202511191700, https://www.datagremial.com/informacion-general/estatales-bonaerenses-llamaron-a-sumarse-al-paro-nacional-de-ate-unidad-y-masividad-son-la-clave--2025111811410"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-19",
             "horario": "08:00",
-            "lugar": "Secretaría de Trabajo en la Capital Federal",
-            "quien": "ATE y CTA Autónoma",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Rechazo a reformas laboral, previsional e impositiva del gobierno, y contra el presupuesto de ajuste",
-            "fuente": "https://www.datagremial.com/informacion-general/estatales-bonaerenses-llamaron-a-sumarse-al-paro-nacional-de-ate-unidad-y-masividad-son-la-clave--2025111811410"
+            "lugar": "Loma La Lata, Neuquén",
+            "quien": "Comunidades Mapuche de Neuquén (Lof Kaxipayiñ y Zonal Xawvnko)",
+            "tipo_medida": "Piquete",
+            "motivo": "Defensa del territorio y oposición a la explotación de fracking en lagos",
+            "fuente": "https://www.laizquierdadiario.com/Mari-Menuco-amenaza-de-represion-a-la-protesta-mapuche-contra-la-contaminacion-petrolera"
         },
         {
             "es_evento_relevante": true,
