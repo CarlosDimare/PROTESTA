@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T16:17:32.986603-03:00",
+    "last_updated": "2025-11-20T17:21:44.512809-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2920,6 +2920,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "CGT y centrales sindicales",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral y repudio a la persecución sindical del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
