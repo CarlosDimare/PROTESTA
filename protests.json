@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T00:12:11.114766-03:00",
+    "last_updated": "2025-11-20T01:24:02.479375-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2810,6 +2810,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Denuncia de irregularidad en el convenio colectivo aplicado por la empresa CSI, violación de la ley sindical, precarización laboral, falta de pago de horas extras y deudas con aportes y contribuciones",
             "fuente": "https://www.datagremial.com/informacion-general/por-un-conflicto-gremial-corren-peligro-de-no-realizarse-los-dos-recitales-de-los-fundamentalistas-en-el-estadio-unico-de-la-plata--202511122170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-11",
+            "horario": "No especificado",
+            "lugar": "Portugal",
+            "quien": "UGT y CGTP-IN (centrales sindicales)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra el paquete de reformas laborales del gobierno PSD-CDS que flexibiliza contratos, permite tercerización, reduce derechos maternales y reinstaura banco de horas",
+            "fuente": "https://www.laizquierdadiario.com/Portugal-tendra-su-primera-huelga-general-en-12-anos-contra-la-reforma-laboral-de-la-coalicion-PSD"
         },
         {
             "es_evento_relevante": true,
