@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T13:23:00.742113-03:00",
+    "last_updated": "2025-11-20T14:16:03.519248-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2830,6 +2830,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Defensa de la industria local y puestos de trabajo ante despidos y políticas del gobierno nacional",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-se-estreno-documental-sobre-la-isla-sus-luchas-y-los-intereses-de-EE-UU, https://www.radiofueguina.com/2025/08/la-uom-vuelve-a-la-calle-paro-movilizacion-y-fuertes-criticas-al-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-04",
+            "horario": "06:00",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el pago íntegro de salarios y aguinaldos en tiempo y forma, ante la amenaza empresarial de fraccionarlos",
+            "fuente": "https://www.infobae.com/sociedad/2025/11/20/la-uta-le-puso-fecha-al-paro-de-colectivos-si-las-empresas-incumplen-con-los-sueldos-y-el-aguinaldo/"
         },
         {
             "es_evento_relevante": true,
