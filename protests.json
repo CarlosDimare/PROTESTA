@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-20T09:33:49.869686-03:00",
+    "last_updated": "2025-11-20T10:32:25.214790-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2704,6 +2704,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-20",
+            "horario": "12:00",
+            "lugar": "Calle Uruguay 3911 y Acceso Tigre, Planta Victoria de Georgalos",
+            "quien": "Comisión Interna de Georgalos y Congresales de la lista 2 de la alimentación",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al plan de suspensiones indiscriminadas de 600 trabajadores y reclamo por reincorporación de 5 despedidos",
+            "fuente": "https://www.laizquierdadiario.com/Protestaran-en-la-puerta-de-Georgalos-ante-amenazas-de-suspensiones"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-20",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "FEDUN y FATUN",
@@ -2846,10 +2856,10 @@
             "fecha": "2025-12-25",
             "horario": "06:00",
             "lugar": "Rutas nacionales",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "quien": "ATE",
             "tipo_medida": "Piquete",
-            "motivo": "Oposición a reforma laboral y acuerdo comercial con Estados Unidos",
-            "fuente": "https://www.infobae.com/politica/2025/11/20/ate-afirmo-que-el-acatamiento-al-paro-alcanzo-el-90-y-el-gobierno-ratifico-que-descontara-el-dia/, https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/, https://elciudadanoweb.com/ate-aseguro-que-el-paro-tiene-mas-del-90-de-acatamiento/"
+            "motivo": "Resistencia contra la reforma laboral",
+            "fuente": "https://elciudadanoweb.com/como-cada-miercoles-los-jubilados-volvieron-a-marchar-y-entregaron-un-petitorio-en-el-congreso/, https://www.infobae.com/politica/2025/11/20/ate-afirmo-que-el-acatamiento-al-paro-alcanzo-el-90-y-el-gobierno-ratifico-que-descontara-el-dia/, https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/, https://elciudadanoweb.com/ate-aseguro-que-el-paro-tiene-mas-del-90-de-acatamiento/"
         },
         {
             "es_evento_relevante": true,
@@ -2905,21 +2915,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **17:00**.",
-            "lugar": "No especificado",
-            "quien": "Colectivos cannábicos, usuarios, cultivadores y organizaciones de izquierda",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir libertad de personas presas por cannabis y regulación integral basada en derechos humanos y salud comunitaria",
-            "fuente": "https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
             "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
-            "quien": "UTA (Unión Tranviarios Automotor)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al pago en cuotas de salarios y aguinaldos para preservar el poder adquisitivo de los trabajadores",
-            "fuente": "https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
+            "motivo": "Rechazo al pago de salarios en dos partes y al fraccionamiento del aguinaldo",
+            "fuente": "https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
         },
         {
             "es_evento_relevante": true,
