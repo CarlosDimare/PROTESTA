@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-21T02:21:19.183775-03:00",
+    "last_updated": "2025-11-21T03:29:03.348999-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2740,6 +2740,16 @@
             "tipo_medida": "Reunión de presión",
             "motivo": "Reclamos por avales para créditos internacionales, deuda provincial y Ley de Glaciares",
             "fuente": "https://www.infobae.com/politica/2025/11/15/el-gobierno-cree-que-aprobara-el-presupuesto-que-piden-las-provincias-y-la-posible-fractura-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-24",
+            "horario": "No especificado",
+            "lugar": "Azopardo",
+            "quien": "Dueños de ILVA, trabajadores, Sindicato de Ceramistas y CGT",
+            "tipo_medida": "Reunión de negociación",
+            "motivo": "Negociación para reactivar la planta o acordar indemnizaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/desgarrador-testimonio-de-un-despedido-de-ilva-ante-la-cgt-en-el-acampe-mi-hija-es-discapacitada-hace-80-dias-ruego-a-dios-que-no-le-pase-nada-porque-no-tengo-donde-llevarla--2025112020260"
         },
         {
             "es_evento_relevante": true,
