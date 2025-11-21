@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-21T14:20:20.143012-03:00",
+    "last_updated": "2025-11-21T15:25:05.304108-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2740,6 +2740,16 @@
             "tipo_medida": "Protesta",
             "motivo": "Exigir plan de lucha a UTA por recomposición salarial, oposición a pago de salarios y aguinaldo en cuotas, y rechazo a la reforma laboral del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Protesta-y-asamblea-de-choferes-de-la-Linea-60-denuncian-que-las-empresas-quieren-pagar-sueldos-y"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-22",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CGT - Confederación General del Trabajo",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral propuesta por el gobierno de Javier Milei y defensa de derechos laborales",
+            "fuente": "https://estadodealerta.com.ar/cgt-y-diputados-sindicales-planifican-como-enfrentar-la-flexibilizacion-laboral-en-marcha/"
         },
         {
             "es_evento_relevante": true,
