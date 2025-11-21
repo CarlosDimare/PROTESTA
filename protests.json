@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-21T13:22:42.863419-03:00",
+    "last_updated": "2025-11-21T14:20:20.143012-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2733,6 +2733,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-21",
+            "horario": "No especificado",
+            "lugar": "Cabecera de Maschwitz",
+            "quien": "Trabajadores de Línea 60 (Monsa)",
+            "tipo_medida": "Protesta",
+            "motivo": "Exigir plan de lucha a UTA por recomposición salarial, oposición a pago de salarios y aguinaldo en cuotas, y rechazo a la reforma laboral del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Protesta-y-asamblea-de-choferes-de-la-Linea-60-denuncian-que-las-empresas-quieren-pagar-sueldos-y"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-22",
             "horario": "No especificado",
             "lugar": "Neuquén",
@@ -2740,6 +2750,16 @@
             "tipo_medida": "Reunión de presión",
             "motivo": "Reclamos por avales para créditos internacionales, deuda provincial y Ley de Glaciares",
             "fuente": "https://www.infobae.com/politica/2025/11/15/el-gobierno-cree-que-aprobara-el-presupuesto-que-piden-las-provincias-y-la-posible-fractura-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-24",
+            "horario": "07:00",
+            "lugar": "Aeropuerto Internacional Ministro Pistarini (Ezeiza)",
+            "quien": "Atepsa (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales (remuneraciones de $800.000 mensuales para ingresantes) y seguridad operativa, ante falta de respuestas del gobierno",
+            "fuente": "https://www.infobae.com/economia/2025/11/21/un-sindicalista-del-sector-aeronautico-advirtio-vamos-a-afectar-a-los-pasajeros/, https://www.c5n.com/sociedad/comenzo-un-nuevo-paro-controladores-aereos-que-hora-se-extiende-n212350"
         },
         {
             "es_evento_relevante": true,
