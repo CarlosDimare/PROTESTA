@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-21T17:20:51.532607-03:00",
+    "last_updated": "2025-11-21T18:18:52.364934-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2823,6 +2823,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "No especificado",
+            "lugar": "Legislatura Provincial de Buenos Aires",
+            "quien": "Lista Multicolor",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el presupuesto de ajuste y endeudamiento, rechazo al chantaje de Kicillof y exigencia de aumento salarial urgente",
+            "fuente": "https://prensaobrera.com/sindicales/masiva-movilizacion-a-la-paritaria-docente-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2025-11-27",
             "horario": "La hora de inicio del evento de protesta es **13:00**.",
             "lugar": "Secretaría de Trabajo",
@@ -2830,6 +2840,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigencia de urgente recomposición salarial y solución al desfinanciamiento del organismo",
             "fuente": "https://estadodealerta.com.ar/viales-convocan-asambleas-en-todo-el-pais-ante-sueldos-congelados-y-desfinanciamiento-del-organismo-al-cumplirse-un-ano-sin-aumento-salarial/, https://cronicasindical.com.ar/2025/11/10/viales-movilizan-a-la-sec-trabajo-por-la-reunion-paritaria-a-mas-de-un-ano-de-congelamiento-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "Federación Nacional de Trabajadores Camioneros",
+            "tipo_medida": "Congreso sindical",
+            "motivo": "Reelección de Hugo Moyano y conflicto por reparto de poder con dirigentes provinciales",
+            "fuente": "https://www.infobae.com/politica/2025/11/21/presion-por-fondos-y-reeleccion-hugo-moyano-afrontara-una-semana-clave-para-la-feroz-interna-de-camioneros/, https://www.rionegro.com.ar/gremios/fracaso-la-paritaria-y-camioneros-de-rio-negro-se-reunen-para-definir-medidas-de-accion-directa-3936542/"
         },
         {
             "es_evento_relevante": true,
