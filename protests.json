@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-23T18:15:53.479553-03:00",
+    "last_updated": "2025-11-23T19:17:06.706326-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2780,6 +2780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales (remuneraciones de $800.000 mensuales para ingresantes) y seguridad operativa, ante falta de respuestas del gobierno",
             "fuente": "https://www.infobae.com/economia/2025/11/21/un-sindicalista-del-sector-aeronautico-advirtio-vamos-a-afectar-a-los-pasajeros/, https://www.c5n.com/sociedad/comenzo-un-nuevo-paro-controladores-aereos-que-hora-se-extiende-n212350"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-24",
+            "horario": "10:00",
+            "lugar": "Plaza San Martín, Córdoba",
+            "quien": "Sindicato de Docentes de la Provincia de Córdoba (SADOP)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral y la pérdida salarial real",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-movilizacion-de-trabajadores-estatales-a-la-caja-de-jubilaciones-de-cordoba, https://www.infobae.com/politica/2025/10/14/los-sindicatos-docentes-llevan-adelante-un-paro-de-24-horas-que-provincias-no-tendrian-clases/"
         },
         {
             "es_evento_relevante": true,
