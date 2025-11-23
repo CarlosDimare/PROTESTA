@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-22T20:17:24.694953-03:00",
+    "last_updated": "2025-11-22T22:19:47.709298-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2760,6 +2760,16 @@
             "tipo_medida": "Reunión de presión",
             "motivo": "Reclamos por avales para créditos internacionales, deuda provincial y Ley de Glaciares",
             "fuente": "https://www.infobae.com/politica/2025/11/15/el-gobierno-cree-que-aprobara-el-presupuesto-que-piden-las-provincias-y-la-posible-fractura-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-23",
+            "horario": "14:00",
+            "lugar": "Corrientes",
+            "quien": "38º Encuentro Plurinacional de Mujeres, Lesbianas, Bisexuales, Travestis, Trans y No Binaries",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia contra políticas de ajuste, violencia de género y reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Primer-dia-del-encuentro-talleres-panuelazo-acto-contra-los-femicidios-y-marcha-contra-los"
         },
         {
             "es_evento_relevante": true,
