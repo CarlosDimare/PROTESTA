@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-23T08:13:48.832302-03:00",
+    "last_updated": "2025-11-23T09:28:30.781554-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2810,6 +2810,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la violencia de género, femicidios y políticas del gobierno de Milei",
             "fuente": "https://prensaobrera.com/mujer/contra-la-violencia-los-femicidios-y-transtravesticidios-pongamos-en-pie-una-gran-movilizacion-este-25n-para-enfrentar-al-gobierno-de-milei-y-sus-socios"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "18:00",
+            "lugar": "Plaza San Martín (Moreno y Santa Fe), Rosario",
+            "quien": "Asamblea Lesbotransfeminista Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la violencia machista y femicidios, en rechazo a políticas de ajuste y discursos de odio del gobierno",
+            "fuente": "https://elciudadanoweb.com/mujeres-lesbianas-y-travestis-vuelven-a-marchar-este-25n-desde-la-plaza-montenegro-en-rosario/"
         },
         {
             "es_evento_relevante": true,
