@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-23T03:23:58.447692-03:00",
+    "last_updated": "2025-11-23T04:17:27.145264-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2780,6 +2780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales (remuneraciones de $800.000 mensuales para ingresantes) y seguridad operativa, ante falta de respuestas del gobierno",
             "fuente": "https://www.infobae.com/economia/2025/11/21/un-sindicalista-del-sector-aeronautico-advirtio-vamos-a-afectar-a-los-pasajeros/, https://www.c5n.com/sociedad/comenzo-un-nuevo-paro-controladores-aereos-que-hora-se-extiende-n212350"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-24",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Piquete",
+            "motivo": "Rechazo a la reforma laboral y exigencia de diálogo inmediato con el Gobierno",
+            "fuente": "https://www.infobae.com/politica/2025/11/23/se-abre-una-negociacion-clave-entre-gobierno-y-la-cgt-para-evitar-una-guerra-por-la-reforma-laboral/, https://esnota.com/2025/04/09/cgt-plan-de-lucha-de-36-horas-paro-general/"
         },
         {
             "es_evento_relevante": true,
