@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-24T01:32:56.054000-03:00",
+    "last_updated": "2025-11-24T02:20:50.149142-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2780,6 +2780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales (remuneraciones de $800.000 mensuales para ingresantes) y seguridad operativa, ante falta de respuestas del gobierno",
             "fuente": "https://www.infobae.com/economia/2025/11/21/un-sindicalista-del-sector-aeronautico-advirtio-vamos-a-afectar-a-los-pasajeros/, https://www.c5n.com/sociedad/comenzo-un-nuevo-paro-controladores-aereos-que-hora-se-extiende-n212350"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-24",
+            "horario": "09:00",
+            "lugar": "Anfiteatro Cocomarola",
+            "quien": "38º Encuentro Plurinacional de Mujeres, Lesbianas, Bisexuales, Travestis, Trans y No Binarias",
+            "tipo_medida": "Acto",
+            "motivo": "Definición de la próxima sede y lectura de debates del encuentro",
+            "fuente": "https://www.laizquierdadiario.com/Fuerza-hay-miles-se-movilizaron-en-la-marcha-del-38o-Encuentro-Plurinacional"
         },
         {
             "es_evento_relevante": true,
