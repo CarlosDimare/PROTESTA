@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T09:34:51.283160-03:00",
+    "last_updated": "2025-11-25T10:34:55.436866-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2990,6 +2990,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Denuncia de irregularidad en el convenio colectivo aplicado por la empresa CSI, violación de la ley sindical, precarización laboral, falta de pago de horas extras y deudas con aportes y contribuciones",
             "fuente": "https://www.datagremial.com/informacion-general/por-un-conflicto-gremial-corren-peligro-de-no-realizarse-los-dos-recitales-de-los-fundamentalistas-en-el-estadio-unico-de-la-plata--202511122170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-11",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Mujeres nucleadas en centrales obreras argentinas (CGT, CTA Autónoma, ATE) y sindicatos participantes del Encuentro Plurinacional de Mujeres",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a designaciones militares en Ministerio de Defensa y Seguridad, y defensa de Derechos Humanos",
+            "fuente": "https://estadodealerta.com.ar/mujeres-sindicales-vs-nombramientos-en-las-carteras-de-seguridad-y-defensa/, https://elpais.com/mexico/2025-11-25/marcha-del-25n-ruta-y-horarios-de-la-protesta-contra-la-violencia-machista-en-mexico.html"
         },
         {
             "es_evento_relevante": true,
