@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T12:20:27.654360-03:00",
+    "last_updated": "2025-11-25T13:24:23.799405-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2855,11 +2855,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-25",
             "horario": "18:00",
-            "lugar": "Plaza San Martín (Moreno y Santa Fe), Rosario",
-            "quien": "Asamblea Lesbotransfeminista Rosario",
+            "lugar": "Plaza Montenegro (San Martín y San Luis), Rosario",
+            "quien": "Colectivos feministas",
             "tipo_medida": "Marcha",
-            "motivo": "Contra la violencia machista y femicidios, en rechazo a políticas de ajuste y discursos de odio del gobierno",
-            "fuente": "https://elciudadanoweb.com/mujeres-lesbianas-y-travestis-vuelven-a-marchar-este-25n-desde-la-plaza-montenegro-en-rosario/"
+            "motivo": "Día Internacional de la Eliminación de la Violencia contra las Mujeres",
+            "fuente": "https://elciudadanoweb.com/25n-como-sera-el-operativo-de-transito-durante-la-marcha-contra-la-violencia-de-genero/, https://elciudadanoweb.com/mujeres-lesbianas-y-travestis-vuelven-a-marchar-este-25n-desde-la-plaza-montenegro-en-rosario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "No especificado",
+            "lugar": "Secretaría de Trabajo de La Rioja",
+            "quien": "Trabajadores de Vulcanar",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el pago de indemnizaciones tras el cierre de la empresa",
+            "fuente": "https://www.datagremial.com/informacion-general/la-rioja-por-la-caida-sustancial-de-las-ventas-se-multiplican-los-cierres-de-empresas-asi-como-los-recortes-salariales-y-de-jornada-laboral-2025112510570"
         },
         {
             "es_evento_relevante": true,
