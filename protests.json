@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T01:23:28.737964-03:00",
+    "last_updated": "2025-11-25T02:18:56.567567-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2860,6 +2860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra recortes presupuestarios en políticas de género (Línea 144, programa Acompañar) y exigencia de respuesta estatal frente a la violencia de género",
             "fuente": "https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/, https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-el-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "11:00",
+            "lugar": "Leandro N Alem 650, frente a la Secretaría de Trabajo de la Nación",
+            "quien": "UTEP, dos CTA, Territorios en Lucha, Frente Barrial y movimientos opositores al gobierno",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir que el Salario Mínimo Vital y Móvil iguale la Canasta Básica Total, y reclamar bono de fin de año, actualización de programas sociales y AUH",
+            "fuente": "https://www.infobae.com/politica/2025/11/25/movimientos-sociales-y-sindicales-marcharan-a-la-secretaria-de-trabajo-por-un-salario-minimo-digno/"
         },
         {
             "es_evento_relevante": true,
