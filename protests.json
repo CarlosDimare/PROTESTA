@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T13:24:23.799405-03:00",
+    "last_updated": "2025-11-25T14:19:18.259741-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2880,6 +2880,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra recortes presupuestarios en políticas de género (Línea 144, programa Acompañar) y exigencia de respuesta estatal frente a la violencia de género",
             "fuente": "https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/, https://elciudadanoweb.com/estan-en-marcha-los-preparativos-para-la-movilizacion-en-rosario-por-el-25n-el-dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de derechos laborales ante flexibilización laboral y amenaza a huelga",
+            "fuente": "https://estadodealerta.com.ar/aportes-patronales-discusiones-por-provincia-o-por-empresa-y-convenios-apuntados-por-el-gobierno-libertario-contra-derechos-laborales-y-conquistas-sindicales/, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
         },
         {
             "es_evento_relevante": true,
