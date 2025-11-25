@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T16:17:13.844932-03:00",
+    "last_updated": "2025-11-25T17:21:28.057473-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2910,6 +2910,16 @@
             "tipo_medida": "Reunión tripartita",
             "motivo": "Discusión del nuevo Salario Mínimo, Vital y Móvil (SMVM) tras incumplimiento de convocatorias bimestrales y caída real del 31.4%",
             "fuente": "https://estadodealerta.com.ar/tras-la-presion-gremial-y-judicial-finalmente-el-gobierno-convoco-al-consejo-del-salario-para-fines-de-noviembre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "13:00",
+            "lugar": "Hospital Garrahan (Combate de los Pozos 1881, CABA)",
+            "quien": "Trabajadores del Hospital Garrahan (Asociación Profesionales y Técnicos-APyT y Junta Interna de ATE)",
+            "tipo_medida": "Movilización (Abrazo simbólico)",
+            "motivo": "Solidaridad con 44 trabajadores sumariados por participar en medidas de lucha que lograron un aumento salarial del 61%, repudiando represalias del gobierno",
+            "fuente": "https://www.anred.org/abrazo-al-garrahan-en-rechazo-al-sumario-contra-44-trabajadores-y-trabajadoras-por-protestar/"
         },
         {
             "es_evento_relevante": true,
