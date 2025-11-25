@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-24T20:16:12.013914-03:00",
+    "last_updated": "2025-11-24T22:09:33.819753-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2820,6 +2820,16 @@
             "tipo_medida": "Reunión de negociación",
             "motivo": "Negociación para reactivar la planta o acordar indemnizaciones",
             "fuente": "https://www.datagremial.com/informacion-general/desgarrador-testimonio-de-un-despedido-de-ilva-ante-la-cgt-en-el-acampe-mi-hija-es-discapacitada-hace-80-dias-ruego-a-dios-que-no-le-pase-nada-porque-no-tengo-donde-llevarla--2025112020260"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "00:00",
+            "lugar": "Empresas de transporte urbano de pasajeros",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por pago íntegro de salarios ante demoras en subsidios gubernamentales y propuesta empresarial de pagos fraccionados",
+            "fuente": "https://www.inforegion.com.ar/2025/11/24/la-uta-definio-el-momento-en-el-que-decretara-el-paro-si-las-empresas-no-pagan-correctamente/"
         },
         {
             "es_evento_relevante": true,
