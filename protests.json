@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T08:20:41.916854-03:00",
+    "last_updated": "2025-11-25T09:34:51.283160-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2820,6 +2820,16 @@
             "tipo_medida": "Reunión de negociación",
             "motivo": "Negociación para reactivar la planta o acordar indemnizaciones",
             "fuente": "https://www.datagremial.com/informacion-general/desgarrador-testimonio-de-un-despedido-de-ilva-ante-la-cgt-en-el-acampe-mi-hija-es-discapacitada-hace-80-dias-ruego-a-dios-que-no-le-pase-nada-porque-no-tengo-donde-llevarla--2025112020260"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-25",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paro activo",
+            "motivo": "Oposición a la reforma laboral propuesta por el gobierno",
+            "fuente": "https://prensaobrera.com/politicas/reforma-laboral-circula-un-borrador-criminal"
         },
         {
             "es_evento_relevante": true,
