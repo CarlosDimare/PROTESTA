@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T14:19:18.259741-03:00",
+    "last_updated": "2025-11-25T15:27:12.067145-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2940,6 +2940,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigencia de urgente recomposición salarial y solución al desfinanciamiento del organismo",
             "fuente": "https://estadodealerta.com.ar/viales-convocan-asambleas-en-todo-el-pais-ante-sueldos-congelados-y-desfinanciamiento-del-organismo-al-cumplirse-un-ano-sin-aumento-salarial/, https://cronicasindical.com.ar/2025/11/10/viales-movilizan-a-la-sec-trabajo-por-la-reunion-paritaria-a-mas-de-un-ano-de-congelamiento-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "00:00",
+            "lugar": "Roma",
+            "quien": "Unión Sindical de Base (USB) y organizaciones estudiantiles",
+            "tipo_medida": "Huelga general",
+            "motivo": "Contra el presupuesto de guerra y austeridad del gobierno de Meloni, exigiendo salarios dignos, impuestos progresivos y servicios públicos",
+            "fuente": "https://www.laizquierdadiario.com/Los-sindicatos-de-base-de-Italia-llaman-a-la-huelga-este-viernes-contra-el-presupuesto-de-guerra-de"
         },
         {
             "es_evento_relevante": true,
