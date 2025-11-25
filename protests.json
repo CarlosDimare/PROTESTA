@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-25T18:18:05.707908-03:00",
+    "last_updated": "2025-11-25T19:20:06.512451-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2826,10 +2826,10 @@
             "fecha": "2025-11-25",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Paro activo",
-            "motivo": "Oposición a la reforma laboral propuesta por el gobierno",
-            "fuente": "https://prensaobrera.com/politicas/reforma-laboral-circula-un-borrador-criminal"
+            "quien": "Centro de Profesionales por los Derechos Humanos (CeProDH)",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la designación del militar Carlos Presti como ministro de Defensa y contra la política de impunidad y represiva del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/CEPRODH-Nuestro-mas-energico-repudio-a-la-designacion-del-teniente-general-Carlos-Presti-como, https://prensaobrera.com/politicas/reforma-laboral-circula-un-borrador-criminal"
         },
         {
             "es_evento_relevante": true,
@@ -2890,6 +2890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de derechos laborales ante flexibilización laboral y amenaza a huelga",
             "fuente": "https://estadodealerta.com.ar/aportes-patronales-discusiones-por-provincia-o-por-empresa-y-convenios-apuntados-por-el-gobierno-libertario-contra-derechos-laborales-y-conquistas-sindicales/, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "06:00",
+            "lugar": "Sede del Sindicato de Camioneros",
+            "quien": "Sindicato de Camioneros (rama de recolección de residuos)",
+            "tipo_medida": "Trabajo a reglamento",
+            "motivo": "Reclamo de indemnizaciones por aplicación de la 'Ley Moyano' a 6.000 trabajadores de residuos de CABA",
+            "fuente": "https://www.infobae.com/politica/2025/11/25/arde-la-interna-de-camioneros-un-leal-a-hugo-moyano-denuncio-que-alguien-firmo-lo-que-no-tenia-que-haber-firmado/, https://www.infobae.com/mexico/2025/11/24/megabloqueo-de-transportistas-en-cdmx-y-edomex-este-24-de-noviembre-a-que-hora-empiezan-los-cierres/"
         },
         {
             "es_evento_relevante": true,
