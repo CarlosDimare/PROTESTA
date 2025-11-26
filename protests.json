@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-26T13:24:25.766094-03:00",
+    "last_updated": "2025-11-26T14:20:25.888539-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2900,6 +2900,16 @@
             "tipo_medida": "Trabajo a reglamento",
             "motivo": "Reclamo de indemnizaciones por aplicación de la 'Ley Moyano' a 6.000 trabajadores de residuos de CABA",
             "fuente": "https://www.infobae.com/politica/2025/11/25/arde-la-interna-de-camioneros-un-leal-a-hugo-moyano-denuncio-que-alguien-firmo-lo-que-no-tenia-que-haber-firmado/, https://www.infobae.com/mexico/2025/11/24/megabloqueo-de-transportistas-en-cdmx-y-edomex-este-24-de-noviembre-a-que-hora-empiezan-los-cierres/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-26",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Consejo de Mayo",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por falta de precisiones y tiempo para tratar proyecto laboral",
+            "fuente": "https://www.infobae.com/politica/2025/11/26/la-negociacion-aun-abierta-con-los-gobernadores-condiciona-al-congreso-incertidumbre-y-juego-de-internas/"
         },
         {
             "es_evento_relevante": true,
