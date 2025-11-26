@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-26T01:26:59.425980-03:00",
+    "last_updated": "2025-11-26T02:21:32.172076-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2960,6 +2960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el presupuesto de ajuste y endeudamiento, rechazo al chantaje de Kicillof y exigencia de aumento salarial urgente",
             "fuente": "https://prensaobrera.com/sindicales/masiva-movilizacion-a-la-paritaria-docente-de-la-provincia-de-buenos-aires"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-27",
+            "horario": "11:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores petroleros y sindicatos",
+            "tipo_medida": "Paro general",
+            "motivo": "Oposición a reforma laboral que replica modelo de Vaca Muerta con superexplotación, muertes obreras y restricciones sindicales",
+            "fuente": "https://prensaobrera.com/sindicales/reforma-laboral-el-modelo-mortal-de-la-adenda-flexibilizadora-al-convenio-petrolero"
         },
         {
             "es_evento_relevante": true,
