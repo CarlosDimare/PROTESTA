@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T09:34:34.680748-03:00",
+    "last_updated": "2025-11-27T10:33:52.908554-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3020,6 +3020,16 @@
             "tipo_medida": "Petición institucional",
             "motivo": "Rechazo a evento sobre vacunas por considerarlo negacionista y peligroso para la salud pública",
             "fuente": "https://www.inforegion.com.ar/2025/11/26/repudio-generalizado-a-una-jornada-antivacunas-convocada-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "No especificado",
+            "lugar": "Gobernación de Santa Fe",
+            "quien": "Familiares de víctimas del fentanilo contaminado",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir atención estatal ante la tragedia, justicia, información y que el Estado asuma su rol regulador en salud",
+            "fuente": "https://elciudadanoweb.com/los-familiares-de-victimas-de-fentanilo-contaminado-llevaron-su-reclamo-a-la-legislatura-provincial/"
         },
         {
             "es_evento_relevante": true,
