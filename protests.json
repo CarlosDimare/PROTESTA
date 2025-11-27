@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T16:16:17.901534-03:00",
+    "last_updated": "2025-11-27T17:18:33.828329-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3080,6 +3080,16 @@
             "tipo_medida": "Concentración",
             "motivo": "Exigir justicia por desaparición de Lichita y libertad para presas políticas",
             "fuente": "https://www.anred.org/familia-villalba-valentia-y-dignidad-7-dias-en-huelga-de-hambre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-01",
+            "horario": "10:00",
+            "lugar": "Palacio de Justicia de Posadas",
+            "quien": "Sindicatos docentes no oficialistas de Misiones y CTA Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la condena de dirigentes docentes y contra la criminalización de la protesta social",
+            "fuente": "https://www.datagremial.com/informacion-general/grave-precedente-condenan-a-dos-dirigentes-docentes-de-misiones-por-acciones-sindicales--2025112717110, https://www.infobae.com/politica/2025/10/14/los-sindicatos-docentes-llevan-adelante-un-paro-de-24-horas-que-provincias-no-tendrian-clases/"
         },
         {
             "es_evento_relevante": true,
