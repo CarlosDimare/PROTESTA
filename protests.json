@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-26T22:09:27.614416-03:00",
+    "last_updated": "2025-11-27T00:13:29.234402-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3006,10 +3006,10 @@
             "fecha": "2025-11-28",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Federación Nacional de Trabajadores Camioneros",
-            "tipo_medida": "Congreso sindical",
-            "motivo": "Reelección de Hugo Moyano y conflicto por reparto de poder con dirigentes provinciales",
-            "fuente": "https://www.infobae.com/politica/2025/11/21/presion-por-fondos-y-reeleccion-hugo-moyano-afrontara-una-semana-clave-para-la-feroz-interna-de-camioneros/, https://www.rionegro.com.ar/gremios/fracaso-la-paritaria-y-camioneros-de-rio-negro-se-reunen-para-definir-medidas-de-accion-directa-3936542/"
+            "quien": "USB (Unione Sindicale di Base) y sindicatos de base",
+            "tipo_medida": "Huelga general",
+            "motivo": "Contra la guerra, la austeridad y los recortes del gobierno de Meloni",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-general-y-movilizacion-esta-semana-en-Italia-contra-la-politica-de-rearme-de-Meloni, https://www.infobae.com/politica/2025/11/21/presion-por-fondos-y-reeleccion-hugo-moyano-afrontara-una-semana-clave-para-la-feroz-interna-de-camioneros/, https://www.rionegro.com.ar/gremios/fracaso-la-paritaria-y-camioneros-de-rio-negro-se-reunen-para-definir-medidas-de-accion-directa-3936542/"
         },
         {
             "es_evento_relevante": true,
