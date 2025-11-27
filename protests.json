@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T11:19:26.798781-03:00",
+    "last_updated": "2025-11-27T12:19:55.546419-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3050,6 +3050,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y reclamo contra impunidad de genocidas en Argentina y Palestina",
             "fuente": "https://www.anred.org/este-sabado-la-movilizacion-por-palestina-tambien-va-a-repudiar-a-genocidas-argentinos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-29",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra todos los genocidios en el marco del Día Internacional de Solidaridad con el Pueblo Palestino",
+            "fuente": "https://www.laizquierdadiario.com/Marchamos-contra-el-genocidio-en-Palestina"
         },
         {
             "es_evento_relevante": true,
