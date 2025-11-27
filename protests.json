@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T15:24:57.425798-03:00",
+    "last_updated": "2025-11-27T16:16:17.901534-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -2974,6 +2974,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-11-27",
+            "horario": "09:00",
+            "lugar": "Frente a AN-DIF, calle Jean Jaures al 3000, San Justo",
+            "quien": "UOM La Matanza",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de persecución gremial, incumplimiento de derechos laborales y convenios colectivos por parte de la empresa AN-DIF",
+            "fuente": "https://www.datagremial.com/informacion-general/la-uom-la-matanza-acuso-de-persecucion-gremial-y-avasallamiento-a-una-historica-empresa-de-cerraduras-que-recibe-asesoramiento-de-florencia-aprietto--2025112715100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-27",
             "horario": "11:00",
             "lugar": "Congreso Nacional",
             "quien": "Trabajadores petroleros y sindicatos",
@@ -3110,6 +3120,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Denuncia de irregularidad en el convenio colectivo aplicado por la empresa CSI, violación de la ley sindical, precarización laboral, falta de pago de horas extras y deudas con aportes y contribuciones",
             "fuente": "https://www.datagremial.com/informacion-general/por-un-conflicto-gremial-corren-peligro-de-no-realizarse-los-dos-recitales-de-los-fundamentalistas-en-el-estadio-unico-de-la-plata--202511122170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-09",
+            "horario": "00:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "FAECyS/CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a reforma laboral del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/cavalieri-volvio-a-rechazar-la-reforma-laboral-y-convoco-al-sindicalismo-a-mantenerse-como-el-ultimo-refugio-de-la-nacionalidad-argentina-y-de-la-soberania-politica--2025112712190, https://www.perfil.com/noticias/actualidad/a-que-hora-comienza-el-paro-de-la-cgt-y-como-funcionaran-los-servicios-y-el-transporte.phtml"
         },
         {
             "es_evento_relevante": true,
