@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Monitor de Conflictos</title>
-    <!-- We are using custom CSS to achieve the specific terminal/ASCII look -->
+    <title>Monitor de Conflictos </title>
+    <!-- El estilo se define aquí mismo para mantener la estética de terminal -->
     <style>
         /* BASE STYLES - ASCII/Terminal Theme */
         :root {
@@ -52,9 +52,9 @@
             margin: 0;
             color: var(--color-text);
             text-shadow: 0 0 5px var(--color-accent);
-            font-size: 1em;
+            font-size: 0.7em; /* ACHICADO */
             text-align: center;
-            line-height: 0.8; /* Ajuste para compactar el ASCII */
+            line-height: 0.7;
         }
 
 
@@ -192,7 +192,7 @@
 ██████╔╝██████╔╝██║   ██║   ██║   █████╗  ███████╗   ██║   ███████║
 ██╔═══╝ ██╔══██╗██║   ██║   ██║   ██╔══╝  ╚════██║   ██║   ██╔══██║
 ██║     ██║  ██║╚██████╔╝   ██║   ███████╗███████║   ██║   ██║  ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝   ╚═╝  ╚═╝
             </pre>
         </h1>
     </header>
@@ -217,7 +217,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <!-- Contenido insertado por JavaScript (Aquí debe ir tu fuente de datos real) -->
+                        <!-- Contenido insertado por JavaScript -->
                     </tbody>
                 </table>
             </div>
@@ -237,7 +237,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <!-- Contenido insertado por JavaScript (Aquí debe ir tu fuente de datos real) -->
+                        <!-- Contenido insertado por JavaScript -->
                     </tbody>
                 </table>
             </div>
@@ -257,7 +257,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <!-- Contenido insertado por JavaScript (Aquí debe ir tu fuente de datos real) -->
+                        <!-- Contenido insertado por JavaScript -->
                     </tbody>
                 </table>
             </div>
@@ -268,98 +268,6 @@
         <p></p>
     </footer>
 
-    <script>
-        // Los datos simulados se mantienen aquí, pero no se cargan automáticamente
-        // DEBES REEMPLAZAR ESTOS DATOS DE MUESTRA CON TU LLAMADA A TU FUENTE DE DATOS REAL (API, FIRESTORE, ETC.)
-        const mockData = {
-            ayer: [
-                { time: '18:00', what: 'Bloqueo Vial', where: 'Av. Principal (Km 5)', who: 'Sindicato Metalúrgico', why: 'Demanda Salarial', status: 'Disuelto', source: 'https://www.elmundo.es' },
-                { time: '10:30', what: 'Marcha Silenciosa', where: 'Plaza de la Memoria', who: 'Colectivo Estudiantil', why: 'Recorte Presupuestario', status: 'Disuelto', source: 'https://www.elpais.com' },
-                { time: '21:00', what: 'Concentración', where: 'Sede del Gobierno', who: 'Grupos Opositores', why: 'Ley de Medios', status: 'Disuelto', source: 'https://www.bbc.com/mundo' },
-            ],
-            hoy: [
-                { time: '09:00', what: 'Concentración', where: 'Ministerio de Hacienda', who: 'Jubilados Activos', why: 'Aumento de Pensiones', status: 'Activo', source: 'https://www.reuters.com' },
-                { time: '14:30', what: 'Paro de Transporte', where: 'Terminal Central', who: 'Gremio de Conductores', why: 'Condiciones Laborales', status: 'Activo', source: 'https://www.cnnchile.com' },
-                { time: '17:00', what: 'Protesta Digital', where: 'Online / Redes', who: 'Ciberactivistas', why: 'Censura en Redes', status: 'Preventivo', source: 'https://www.dw.com/es' },
-            ],
-            manana: [
-                { time: '16:00', what: 'Cacerolazo', where: 'Barrio Residencial Norte', who: 'Vecinos Organizados', why: 'Seguridad Ciudadana', status: 'Programado', source: 'https://www.latimes.com' },
-                { time: '11:00', what: 'Huelga General', where: 'Nacional', who: 'Confederación Obrera', why: 'Rechazo a Reformas', status: 'Programado', source: 'https://www.nytimes.com' },
-            ]
-        };
-
-        // Función de utilidad para formatear el estado con color (se usará con datos reales)
-        function formatStatus(status) {
-            const statusClass = status.toLowerCase().replace(' ', '-');
-            return `<span class="status-${statusClass}">${status.toUpperCase()}</span>`;
-        }
-
-        // Función para renderizar el contenido de la tabla (se usará con datos reales)
-        function renderTable(tabId, data) {
-            const tableBody = document.querySelector(`#table-${tabId} tbody`);
-            tableBody.innerHTML = ''; // Limpiar contenido previo
-
-            data.forEach(item => {
-                const row = tableBody.insertRow();
-                row.innerHTML = `
-                    <td>${item.time}</td>
-                    <td>${item.what}</td>
-                    <td>${item.where}</td>
-                    <td>${item.who}</td>
-                    <td>${item.why}</td>
-                    <td>${formatStatus(item.status)}</td>
-                    <td><span class="source-link" data-url="${item.source}">Ver Fuente</span></td>
-                `;
-            });
-        }
-
-        // Lógica de cambio de pestañas
-        function setupTabs() {
-            const tabs = document.querySelectorAll('.tab-link');
-            const contents = document.querySelectorAll('.tab-content');
-
-            tabs.forEach(tab => {
-                tab.addEventListener('click', () => {
-                    const targetId = tab.getAttribute('data-tab');
-
-                    tabs.forEach(t => t.classList.remove('active'));
-                    contents.forEach(c => c.classList.remove('active'));
-
-                    tab.classList.add('active');
-                    document.getElementById(targetId).classList.add('active');
-                });
-            });
-        }
-
-        // Manejar clics de enlaces a fuentes (abrir en nueva pestaña)
-        function setupSourceLinks() {
-            // Usar delegación de eventos
-            document.querySelector('main').addEventListener('click', (event) => {
-                const target = event.target;
-                if (target.classList.contains('source-link')) {
-                    const url = target.getAttribute('data-url');
-                    // Abrir enlace en una nueva pestaña como se solicitó
-                    window.open(url, '_blank');
-                }
-            });
-        }
-
-        // Función de inicialización
-        function init() {
-            // Las tablas se inician vacías, listas para que cargues tu fuente de datos real aquí.
-
-            // 1. Configurar la interacción de pestañas y enlaces
-            setupTabs();
-            setupSourceLinks();
-
-            // 2. Establecer la hora de la última actualización
-            const now = new Date();
-            const timeString = now.toLocaleTimeString('es-ES', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
-            document.getElementById('last-updated-time').textContent = timeString;
-        }
-
-        // Ejecutar inicialización al cargar
-        window.onload = init;
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
