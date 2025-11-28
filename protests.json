@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-27T20:17:51.754491-03:00",
+    "last_updated": "2025-11-27T22:08:26.242269-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3170,6 +3170,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-15",
+            "horario": "No especificado",
+            "lugar": "Diversos locales sindicales y plazas públicas",
+            "quien": "Partido Obrero (PO)",
+            "tipo_medida": "Asambleas abiertas",
+            "motivo": "Organizar la lucha contra la reforma laboral y el paquete de medidas económicas del gobierno",
+            "fuente": "https://prensaobrera.com/politicas/asambleas-abiertas-para-luchar-contra-la-reforma-laboral-y-contra-milei"
         },
         {
             "es_evento_relevante": true,
