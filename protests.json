@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28T09:32:24.939722-03:00",
+    "last_updated": "2025-11-28T10:31:34.525507-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3266,10 +3266,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **15:00**.  \n*(El texto indica: \"desde las 15, por columnas piqueteras, movimientos sociales...\" y confirma \"Las principales columnas concentran a partir de las 15\")*.",
             "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Jubilados, sindicatos y otras agrupaciones",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo de aumento jubilatorio y contra los vetos a leyes de financiamiento universitario y emergencia en pediatría, así como contra el ajuste",
-            "fuente": "https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro Nacional con movilización",
+            "motivo": "Rechazo a la reforma laboral, reclamo de reapertura de paritarias y denuncia de persecución sindical",
+            "fuente": "https://www.infobae.com/politica/2025/11/28/ate-convoco-a-un-paro-nacional-y-movilizacion-para-el-dia-en-que-se-trate-la-reforma-laboral/, https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
