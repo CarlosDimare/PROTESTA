@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28T16:15:51.425121-03:00",
+    "last_updated": "2025-11-28T17:20:20.930549-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3035,11 +3035,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-11-28",
             "horario": "18:00",
-            "lugar": "San Martín y San Juan, Rosario",
+            "lugar": "San Martín y San Juan",
             "quien": "Familiares y amigos de Giovanni Mvogo Eteme",
             "tipo_medida": "Marcha",
-            "motivo": "Justicia por Giovanni Mvogo Eteme y otros crímenes impunes",
-            "fuente": "https://elciudadanoweb.com/caso-giovani-familiares-marcharon-y-denunciaron-graves-falencias/"
+            "motivo": "Justicia por la muerte de Giovanni Mvogo Eteme y casos sin resolver",
+            "fuente": "https://elciudadanoweb.com/caso-giovani-familiares-marchan-y-denuncian-graves-falencias-en-el-caso/, https://elciudadanoweb.com/caso-giovani-familiares-marcharon-y-denunciaron-graves-falencias/"
         },
         {
             "es_evento_relevante": true,
@@ -3076,10 +3076,10 @@
             "fecha": "2025-11-29",
             "horario": "15:00",
             "lugar": "Congreso Nacional",
-            "quien": "Comité Argentino de Solidaridad con Palestina y Encuentro Memoria Verdad y Justicia",
+            "quien": "Encuentro Memoria Verdad y Justicia en conjunto con el Comité de Solidaridad por Palestina",
             "tipo_medida": "Marcha",
-            "motivo": "Solidaridad con Palestina y reclamo contra impunidad de genocidas en Argentina y Palestina",
-            "fuente": "https://www.anred.org/este-sabado-la-movilizacion-por-palestina-tambien-va-a-repudiar-a-genocidas-argentinos/"
+            "motivo": "Repudio a genocidios (palestino y de 30.400 desaparecidos) y contramanifestación contra acto de la derecha que defiende a militares",
+            "fuente": "https://www.anred.org/el-sabado-marchamos-contra-el-fascismo/, https://www.anred.org/este-sabado-la-movilizacion-por-palestina-tambien-va-a-repudiar-a-genocidas-argentinos/"
         },
         {
             "es_evento_relevante": true,
