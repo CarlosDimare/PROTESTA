@@ -30,7 +30,8 @@ SITIOS_A_MONITOREAR = {
     "INFOREGION": "https://www.inforegion.com.ar/",
     "ATE" : "https://ate.org.ar/",
     "Data Gremial": "https://www.datagremial.com/",
-    "Estado de Alerta": "https://estadodealerta.com.ar/"
+    "Estado de Alerta": "https://estadodealerta.com.ar/",
+    "Motor económico": "https://motoreconomico.com.ar/"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
