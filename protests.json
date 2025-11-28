@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28T12:18:21.681106-03:00",
+    "last_updated": "2025-11-28T13:21:51.255619-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3030,6 +3030,16 @@
             "tipo_medida": "Petición institucional",
             "motivo": "Rechazo a evento sobre vacunas por considerarlo negacionista y peligroso para la salud pública",
             "fuente": "https://www.inforegion.com.ar/2025/11/26/repudio-generalizado-a-una-jornada-antivacunas-convocada-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "18:00",
+            "lugar": "San Martín y San Juan, Rosario",
+            "quien": "Familiares y amigos de Giovanni Mvogo Eteme",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por Giovanni Mvogo Eteme y otros crímenes impunes",
+            "fuente": "https://elciudadanoweb.com/caso-giovani-familiares-marcharon-y-denunciaron-graves-falencias/"
         },
         {
             "es_evento_relevante": true,
