@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28T10:31:34.525507-03:00",
+    "last_updated": "2025-11-28T11:18:58.907717-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3030,6 +3030,16 @@
             "tipo_medida": "Petición institucional",
             "motivo": "Rechazo a evento sobre vacunas por considerarlo negacionista y peligroso para la salud pública",
             "fuente": "https://www.inforegion.com.ar/2025/11/26/repudio-generalizado-a-una-jornada-antivacunas-convocada-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-11-28",
+            "horario": "No especificado",
+            "lugar": "Génova, Italia",
+            "quien": "Sindicato USB y organizaciones combativas",
+            "tipo_medida": "Huelga General",
+            "motivo": "Solidaridad con Palestina, oposición a la austeridad y al rearme, y denuncia de complicidad del gobierno Meloni",
+            "fuente": "https://www.laizquierdadiario.com/Jornada-de-huelga-general-en-Italia-contra-Meloni-y-el-rearme-militar"
         },
         {
             "es_evento_relevante": true,
