@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28T20:17:04.080793-03:00",
+    "last_updated": "2025-12-15T08:57:05.890479-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3203,13 +3203,93 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2025-12-19",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Plenario Combativo de Trabajadores",
+            "fecha": "2025-12-16",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro nacional con movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno de Javier Milei",
+            "fuente": "https://estadodealerta.com.ar/contra-el-hambre-y-la-reforma-laboral-paro-nacional-y-movilizacion-de-ate-confluye-con-movimientos-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-16",
+            "horario": "18:00",
+            "lugar": "Monumento a la Bandera (Rosario) y Plaza Moreno (La Plata)",
+            "quien": "Familias víctimas del fentanilo adulterado",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral esclavista del gobierno de Milei, defensa de conquistas históricas y organización obrera",
-            "fuente": "https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral"
+            "motivo": "Exigir respuestas políticas y sanitarias frente a la tragedia farmacológica, con consigna 'Verdad y justicia para las víctimas'",
+            "fuente": "https://elciudadanoweb.com/familias-victimas-del-fentanilo-contaminado-convocan-a-una-nueva-marcha-en-el-monumento-a-la-bandera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-17",
+            "horario": "13:00",
+            "lugar": "Aeropuertos de Argentina",
+            "quien": "ATEPSA (Asociación Técnica de Empleados y Profesionales de la Navegación Aérea)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial y desconocimiento del convenio colectivo vigente, con salarios por debajo de la inflación",
+            "fuente": "https://www.inforegion.com.ar/2025/12/12/paro-de-controladores-aereos-sin-acuerdo-entre-atepsa-y-eana-y-crece-la-tension-rumbo-al-17-de-diciembre/, https://es-us.noticias.yahoo.com/paro-controladores-aéreos-hora-medida-145122623.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-17",
+            "horario": "18:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia contra recortes en salud, falta de medicamentos, corrupción en PAMI y reclamo por directorio electo",
+            "fuente": "https://prensaobrera.com/sindicales/bullrich-quiere-desmantelar-el-pami-derivando-su-caja-a-las-obras-sociales-sindicales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
+            "lugar": "Avenida de Mayo y 9 de Julio, Ciudad Autónoma de Buenos Aires",
+            "quien": "Coalición de sindicatos combativos, organizaciones piqueteras, jubilados, mujeres, estudiantiles, socioambientales y partidos de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral de Milei, la reforma penal represiva y el paquete de leyes anti-trabajadores, exigiendo paro nacional y defensa de derechos laborales",
+            "fuente": "https://prensaobrera.com/politicas/contra-la-reforma-laboral-los-trabajadores-combativos-convocan-a-marchar-el-18-en-una-columna-independiente"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Movimiento de Agrupaciones Clasistas (PTS e independientes) y sectores combativos de la izquierda",
+            "tipo_medida": "Marcha y acto",
+            "motivo": "Contra la reforma laboral del gobierno de Milei, exigiendo paro activo y movilización masiva para defender derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT con participación de izquierda (PTS y Frente de Izquierda)",
+            "tipo_medida": "Marcha",
+            "motivo": "Derrotar el plan de Milei y avanzar hacia una huelga general",
+            "fuente": "https://www.laizquierdadiario.com/No-se-trata-solo-de-resistir-sino-de-avanzar-empieza-una-respuesta-del-movimiento-de-masas-como, https://estadodealerta.com.ar/la-mesa-sindical-se-suma-a-la-marcha-contra-la-reforma-laboral-y-denuncia-que-el-indec-mide-una-inflacion-ficticia/, https://radiomitre.cienradios.com/politica/la-cgt-marcha-hoy-por-el-dia-del-trabajador-homenajearan-al-papa-y-habra-reclamos-hacia-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Manifestación",
+            "motivo": "Repudio al proyecto de reforma laboral del Gobierno de Javier Milei",
+            "fuente": "https://estadodealerta.com.ar/cgt-anuncia-movilizacion-que-tambien-podria-ser-paro-nacional-para-el-jueves-18-de-diciembre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos combativos, movimientos piqueteros y agrupaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Frenar las reformas del gobierno de Milei, especialmente la reforma laboral esclavista y el paquete de ajuste",
+            "fuente": "https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus"
         },
         {
             "es_evento_relevante": true,
@@ -3256,10 +3336,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "Pan y Rosas",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la violencia machista y las reformas de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
+            "quien": "Atepsa",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdos por parte de EANA, reclamos salariales, operativos y reincorporación de trabajadores",
+            "fuente": "https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
