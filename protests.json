@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-15T14:25:56.531322-03:00",
+    "last_updated": "2025-12-15T15:26:37.537437-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3190,6 +3190,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir recomposición de haberes jubilatorios, reapertura de paritarias y derogación de leyes regresivas frente a ajustes y reformas laboral/previsional",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-plenario-provincial-de-jubilados-en-uepc-capital-lanza-campana-en-rechazo-a-la-reforma-antijubilatoria"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-15",
+            "horario": "No especificado",
+            "lugar": "Río Gallegos, Santa Cruz",
+            "quien": "Sindicatos de Santa Cruz (ADOSAC, SOEM, JUDICIALES, VIALES, APOC) y CTA",
+            "tipo_medida": "Marcha y Paro Provincial",
+            "motivo": "Contra la reforma laboral de Milei y ajustes del gobierno provincial",
+            "fuente": "https://prensaobrera.com/sindicales/importante-plenario-de-trabajadores-convoca-a-marchar-el-18-en-santa-cruz-contra-la-reforma-antiobrera"
         },
         {
             "es_evento_relevante": true,
