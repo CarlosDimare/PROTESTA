@@ -9,6 +9,11 @@ hoy: document.querySelector('#table-hoy tbody'),
 manana: document.querySelector('#table-manana tbody')
 };
 
+// Validar que todos los elementos existan
+if (!tableBodies.ayer || !tableBodies.hoy || !tableBodies.manana) {
+console.error('Error: No se encontraron las tablas en el HTML');
+}
+
 // --- Tab Navigation ---
 tabs.forEach(tab => {
 tab.addEventListener('click', () => {
@@ -71,6 +76,10 @@ renderEventGroup(categorizedEvents.manana, tableBodies.manana, 'manana');
 };
 
 const renderEventGroup = (eventList, tableBody, dayCategory) => {
+if (!tableBody) {
+console.error(`Error: tableBody no encontrada para ${dayCategory}`);
+return;
+}
 tableBody.innerHTML = '';
 if (eventList.length === 0) {
 tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center; padding: 2rem;">No se encontraron medidas de fuerza para ${dayCategory}.</td></tr>`;
