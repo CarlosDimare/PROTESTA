@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-15T13:25:51.804397-03:00",
+    "last_updated": "2025-12-15T14:25:56.531322-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3274,12 +3274,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
-            "horario": "15:00",
+            "horario": "16:00",
             "lugar": "Plaza de Mayo",
-            "quien": "Movimiento de Agrupaciones Clasistas (PTS e independientes) y sectores combativos de la izquierda",
-            "tipo_medida": "Marcha y acto",
-            "motivo": "Contra la reforma laboral del gobierno de Milei, exigiendo paro activo y movilización masiva para defender derechos laborales",
-            "fuente": "https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900"
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral impulsada por el Gobierno de Javier Milei",
+            "fuente": "https://estadodealerta.com.ar/ataque-al-sindicato-del-vidrio-liderado-por-jeronimo-triunviro-de-la-cgt-en-la-semana-de-la-protesta-contra-la-flexibilizacion-laboral/, https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900"
         },
         {
             "es_evento_relevante": true,
