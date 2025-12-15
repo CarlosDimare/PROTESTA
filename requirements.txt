@@ -1,6 +1,7 @@
 requests
 beautifulsoup4
 zhipuai
+sniffio
 python-Levenshtein
 thefuzz
 pytz
