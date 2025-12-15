@@ -2,9 +2,6 @@ document.addEventListener('DOMContentLoaded', () => {
 const lastUpdatedSpan = document.getElementById('last-updated-time');
 const tabs = document.querySelectorAll('.tab-link');
 const tabContents = document.querySelectorAll('.tab-content');
-const modal = document.getElementById('source-modal');
-const iframe = document.getElementById('source-iframe');
-const closeModalButton = document.querySelector('.close-button');
 
 const tableBodies = {
 ayer: document.querySelector('#table-ayer tbody'),
@@ -24,23 +21,6 @@ target.classList.add('active');
 });
 });
 
-// --- Modal Logic ---
-const openModal = (url) => {
-iframe.src = url;
-modal.style.display = 'block';
-};
-
-const closeModal = () => {
-modal.style.display = 'none';
-iframe.src = ''; // Stop video/audio from playing in the background
-};
-
-closeModalButton.addEventListener('click', closeModal);
-window.addEventListener('click', (event) => {
-if (event.target == modal) {
-closeModal();
-}
-});
 
 // --- Data Fetching and Rendering ---
 const fetchProtests = async () => {
@@ -122,7 +102,7 @@ const row = document.createElement('tr');
 let sourceCellHTML = 'No especificado';
 if (event.fuente) {
 const firstUrl = event.fuente.split(',')[0].trim();
-sourceCellHTML = `<a class="source-link" data-url="${firstUrl}">Ver fuente</a>`;
+sourceCellHTML = `<a href="${firstUrl}" target="_blank" class="source-link">Ver fuente</a>`;
 }
 
 row.innerHTML = `
@@ -135,13 +115,6 @@ row.innerHTML = `
 <td>${sourceCellHTML}</td>
 `;
 
-const sourceLink = row.querySelector('.source-link');
-if (sourceLink) {
-sourceLink.addEventListener('click', (e) => {
-e.preventDefault();
-openModal(sourceLink.dataset.url);
-});
-}
 
 tableBody.appendChild(row);
 });
