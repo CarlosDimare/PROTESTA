@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T15:29:56.354029-03:00",
+    "last_updated": "2025-12-16T16:21:19.334634-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3370,6 +3370,16 @@
             "tipo_medida": "Movilización con paro activo",
             "motivo": "Contra la reforma laboral y el acuerdo colonial entre Milei y EE.UU., con llamado a huelga general",
             "fuente": "https://prensaobrera.com/politicas/una-movilizacion-a-plaza-de-mayo-denuncio-el-acuerdo-colonial-entre-milei-y-trump, https://www.telesurtv.net/argentina-paro-nacional-reforma-milei-trump/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-22",
+            "horario": "No especificado",
+            "lugar": "Museo del Louvre",
+            "quien": "Sindicatos CGT, CFDT y Sud",
+            "tipo_medida": "Huelga",
+            "motivo": "Condiciones laborales precarias, falta de recursos, estado ruinoso de instalaciones, recortes de personal (200 puestos en 15 años), aumento tarifario discriminatorio (45% para no residentes de la UE), y modelo de gobernanza ineficiente",
+            "fuente": "https://elciudadanoweb.com/empleados-del-museo-del-louvre-haran-una-huelga-por-tiempo-indefinido-por-falta-de-recursos-y-problemas-de-seguridad/"
         },
         {
             "es_evento_relevante": true,
