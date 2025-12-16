@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T07:22:55.457483-03:00",
+    "last_updated": "2025-12-16T08:21:23.983638-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3230,6 +3230,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir respuestas políticas y sanitarias frente a la tragedia farmacológica, con consigna 'Verdad y justicia para las víctimas'",
             "fuente": "https://elciudadanoweb.com/familias-victimas-del-fentanilo-contaminado-convocan-a-una-nueva-marcha-en-el-monumento-a-la-bandera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-17",
+            "horario": "08:00",
+            "lugar": "Aeropuertos de todo el país",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto gremial con EANA por reincorporación de trabajadores, actualización de paritarias, incumplimientos contractuales y estabilidad laboral",
+            "fuente": "https://www.infobae.com/economia/2025/12/16/paro-de-controladores-aereos-cuando-comienza-y-cual-es-el-cronograma-de-vuelos-afectados/"
         },
         {
             "es_evento_relevante": true,
