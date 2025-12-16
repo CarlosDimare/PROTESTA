@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-15T22:15:45.951042-03:00",
+    "last_updated": "2025-12-16T00:26:30.744197-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3260,6 +3260,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a violencia contra el movimiento obrero y defensa de derechos sindicales",
             "fuente": "https://www.datagremial.com/informacion-general/fuerte-repudio-de-las-62-organizaciones-peronistas-al-atentado-contra-la-sede-del-seivara--2025121518540, https://www.anred.org/el-gobierno-apura-el-debate-de-la-reforma-laboral-con-protestas-en-las-calles-y-el-reclamo-de-paro-general-a-las-centrales/, https://www.datagremial.com/informacion-general/imagenes-del-ataque-y-destrozos-a-la-sede-del-sindicato-del-vidrio-encabezado-por-cristian-jeronimo-dias-antes-de-la-marcha-de-la-cgt-202512151220, https://estadodealerta.com.ar/las-dos-cta-en-alerta-y-movilizacion-por-la-reforma-laboral-se-suman-a-la-protesta-convocada-por-la-cgt/, https://www.laizquierdadiario.com/No-se-trata-solo-de-resistir-sino-de-avanzar-empieza-una-respuesta-del-movimiento-de-masas-como, https://estadodealerta.com.ar/la-mesa-sindical-se-suma-a-la-marcha-contra-la-reforma-laboral-y-denuncia-que-el-indec-mide-una-inflacion-ficticia/, https://radiomitre.cienradios.com/politica/la-cgt-marcha-hoy-por-el-dia-del-trabajador-homenajearan-al-papa-y-habra-reclamos-hacia-el-gobierno/, https://estadodealerta.com.ar/cgt-anuncia-movilizacion-que-tambien-podria-ser-paro-nacional-para-el-jueves-18-de-diciembre/, https://estadodealerta.com.ar/ataque-al-sindicato-del-vidrio-liderado-por-jeronimo-triunviro-de-la-cgt-en-la-semana-de-la-protesta-contra-la-flexibilizacion-laboral/, https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900, https://www.datagremial.com/informacion-general/el-18d-toma-volumen-y-musculo-las-62-organizaciones-peronistas-se-suman-a-la-marcha-de-la-cgt-al-congreso-contra-la-reforma-laboral-2025121218150"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
+            "lugar": "Av. 9 de Julio y Av. de Mayo, Buenos Aires",
+            "quien": "Izquierda, agrupaciones y sindicalismo combativo",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a reforma laboral y presupuesto de ajuste, exigencia de paro general desde abajo",
+            "fuente": "https://www.laizquierdadiario.com/El-palacio-rosquea-y-la-calle-se-prepara-movilicemos-todos-este-jueves-contra-la-Reforma-Laboral"
         },
         {
             "es_evento_relevante": true,
