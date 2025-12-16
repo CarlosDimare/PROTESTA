@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T04:29:55.186374-03:00",
+    "last_updated": "2025-12-16T05:30:17.076036-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3395,6 +3395,16 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar el ataque del Gobierno, FMI y grandes patronales, en rechazo a la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
             "lugar": "Rutas nacionales hacia el Santuario de Itatí, Corrientes",
             "quien": "Comunidad católica y peregrinos",
             "tipo_medida": "Marcha religiosa / Peregrinación",
@@ -3430,16 +3440,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Presentar el fallo judicial favorable al derecho de huelga y exigir cumplimiento de demandas educativas",
             "fuente": "https://www.laizquierdadiario.com/Paro-masivo-la-docencia-bonaerense-exigio-mejoras-salariales-y-educativas"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "UJS (Unión Juvenil Socialista)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el veto a la ley de financiamiento universitario y por el 'Fuera Milei'",
-            "fuente": "https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
         }
     ]
 }
