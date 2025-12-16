@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T18:19:44.000648-03:00",
+    "last_updated": "2025-12-16T19:18:20.077769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3280,6 +3280,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral del gobierno de Javier Milei, que precariza derechos laborales, ataca jubilaciones y busca imponer un régimen laboral esclavista",
             "fuente": "https://prensaobrera.com/politicas/abajo-la-reforma-laboral-esclavista-exigimos-un-paro-nacional-y-un-plan-de-lucha-sindicatos-y-agrupamientos-combativos-hacia-la-movilizacion-del-18, https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "13:30",
+            "lugar": "Dirección Nacional de Vialidad (Julio Argentino Roca 738) y posteriormente Plaza de Mayo",
+            "quien": "CATT (Confederación Argentina de Trabajadores del Transporte)",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición al proyecto de reforma laboral del Gobierno, defendiendo convenios colectivos, derecho a huelga, indemnizaciones y rechazo al transporte como actividad esencial",
+            "fuente": "https://estadodealerta.com.ar/schmid-resalto-desde-la-catt-la-movilizacion-convocada-por-la-cgt-contra-de-la-reforma-laboral-como-la-mejor-carta-de-presentacion-de-la-nueva-conduccion/"
         },
         {
             "es_evento_relevante": true,
