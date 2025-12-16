@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T13:25:03.083390-03:00",
+    "last_updated": "2025-12-16T14:28:11.156341-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3215,6 +3215,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-16",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT y gremios adherentes (ATE, FTCIODyARA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral del gobierno que busca debilitar derechos sindicales, limitar la negociación colectiva y restringir el derecho de huelga",
+            "fuente": "https://elciudadanoweb.com/reforma-laboral-en-la-mira-aceiteros-lanzan-paro-y-hay-alerta-en-el-gobierno-por-la-liquidacion-de-divisas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-16",
+            "horario": "10:00",
             "lugar": "Congreso Nacional",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro nacional con movilización",
@@ -3276,10 +3286,10 @@
             "fecha": "2025-12-18",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Plenario Combativo de Organizaciones Sindicales y Sociales",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir paro activo nacional y plan de lucha contra la reforma laboral de Milei",
-            "fuente": "https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
+            "quien": "Plenario del Sindicalismo Combativo, movimiento piquetero independiente, jubilados en lucha (ATE Garrahan, AGD UBA, Sindicato del Neumático, Junta Interna de ATE Mecon, Polo Obrero, Partido Obrero, MST)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral del gobierno de Javier Milei, que precariza derechos laborales, ataca jubilaciones y busca imponer un régimen laboral esclavista",
+            "fuente": "https://prensaobrera.com/politicas/abajo-la-reforma-laboral-esclavista-exigimos-un-paro-nacional-y-un-plan-de-lucha-sindicatos-y-agrupamientos-combativos-hacia-la-movilizacion-del-18, https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
@@ -3340,6 +3350,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/ate-considero-una-amenaza-ilegal-el-intento-de-descuento-salarial-a-quienes-se-sumaron-a-su-paro-2025112011470, https://elciudadanoweb.com/como-cada-miercoles-los-jubilados-volvieron-a-marchar-y-entregaron-un-petitorio-en-el-congreso/, https://www.infobae.com/politica/2025/11/20/ate-afirmo-que-el-acatamiento-al-paro-alcanzo-el-90-y-el-gobierno-ratifico-que-descontara-el-dia/, https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/, https://elciudadanoweb.com/ate-aseguro-que-el-paro-tiene-mas-del-90-de-acatamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-29",
+            "horario": "00:00",
+            "lugar": "Palacios Municipales de Santa Fe y Rosario",
+            "quien": "FESTRAM",
+            "tipo_medida": "Paro",
+            "motivo": "Falta de convocatoria a paritarias y defensa de conquistas obreras",
+            "fuente": "https://elciudadanoweb.com/festram-convoca-a-un-paro-de-24-horas-y-movilizaciones-en-toda-la-provincia/"
         },
         {
             "es_evento_relevante": true,
