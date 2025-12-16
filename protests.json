@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T16:21:19.334634-03:00",
+    "last_updated": "2025-12-16T17:23:27.338447-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3216,10 +3216,10 @@
             "fecha": "2025-12-16",
             "horario": "10:00",
             "lugar": "Plaza de Mayo",
-            "quien": "CGT y gremios adherentes (ATE, FTCIODyARA)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral del gobierno que busca debilitar derechos sindicales, limitar la negociación colectiva y restringir el derecho de huelga",
-            "fuente": "https://elciudadanoweb.com/reforma-laboral-en-la-mira-aceiteros-lanzan-paro-y-hay-alerta-en-el-gobierno-por-la-liquidacion-de-divisas/"
+            "quien": "CTA de los Trabajadores, CTA Autónoma y CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral 'libertaria' del gobierno nacional, defendiendo derechos laborales, organización sindical y formalización",
+            "fuente": "https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-debilitar-la-organizacion-sindical--2025121616580, https://elciudadanoweb.com/reforma-laboral-en-la-mira-aceiteros-lanzan-paro-y-hay-alerta-en-el-gobierno-por-la-liquidacion-de-divisas/"
         },
         {
             "es_evento_relevante": true,
@@ -3285,6 +3285,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Confederación General del Trabajo (CGT) y las dos CTA",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al proyecto de reforma laboral impulsado por el Gobierno, considerado una regresión de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/kicillof-definio-a-la-reforma-laboral-libertaria-como-una-regresion-muy-fuerte-de-derechos-y-confirmo-su-presencia-en-la-marcha-cgt-202512161790, https://motoreconomico.com.ar/argentina-movilizacion-18-d-las-cta-movimientos-sociales-docentes-estatales-y-culturales-se-suman-a-la-movilizacion-del-jueves-18/, https://www.anred.org/aceiteros-van-a-la-huelga-contra-la-reforma-laboral-el-proyecto-del-gobierno-esta-dedicado-a-quitarnos-derechos/, https://www.laizquierdadiario.com/18D-Aceiteros-anuncia-huelga-nacional-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Docentes-de-Ademys-convocan-a-marchar-el-18-12-contra-la-reforma-laboral, https://www.datagremial.com/informacion-general/fuerte-repudio-de-las-62-organizaciones-peronistas-al-atentado-contra-la-sede-del-seivara--2025121518540, https://www.anred.org/el-gobierno-apura-el-debate-de-la-reforma-laboral-con-protestas-en-las-calles-y-el-reclamo-de-paro-general-a-las-centrales/, https://www.datagremial.com/informacion-general/imagenes-del-ataque-y-destrozos-a-la-sede-del-sindicato-del-vidrio-encabezado-por-cristian-jeronimo-dias-antes-de-la-marcha-de-la-cgt-202512151220, https://estadodealerta.com.ar/las-dos-cta-en-alerta-y-movilizacion-por-la-reforma-laboral-se-suman-a-la-protesta-convocada-por-la-cgt/, https://www.laizquierdadiario.com/No-se-trata-solo-de-resistir-sino-de-avanzar-empieza-una-respuesta-del-movimiento-de-masas-como, https://estadodealerta.com.ar/la-mesa-sindical-se-suma-a-la-marcha-contra-la-reforma-laboral-y-denuncia-que-el-indec-mide-una-inflacion-ficticia/, https://radiomitre.cienradios.com/politica/la-cgt-marcha-hoy-por-el-dia-del-trabajador-homenajearan-al-papa-y-habra-reclamos-hacia-el-gobierno/, https://estadodealerta.com.ar/cgt-anuncia-movilizacion-que-tambien-podria-ser-paro-nacional-para-el-jueves-18-de-diciembre/, https://estadodealerta.com.ar/ataque-al-sindicato-del-vidrio-liderado-por-jeronimo-triunviro-de-la-cgt-en-la-semana-de-la-protesta-contra-la-flexibilizacion-laboral/, https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900, https://www.datagremial.com/informacion-general/el-18d-toma-volumen-y-musculo-las-62-organizaciones-peronistas-se-suman-a-la-marcha-de-la-cgt-al-congreso-contra-la-reforma-laboral-2025121218150"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "15:00",
             "lugar": "Perón y Carlos Pellegrini (concentración) / Plaza de Mayo (destino)",
             "quien": "Sindicatos combativos y organizaciones de izquierda (SUTNA, GPS, Secco, Unión Ferroviaria Seccional, AGD-UBA, ADEMyS, SUTEBA Tigre, ATE Garrahan, Cooperativa MadyGraf, entre otros)",
             "tipo_medida": "Marcha y acto propio",
@@ -3300,16 +3310,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral impulsada por el Poder Ejecutivo, considerada un ataque a los derechos individuales y colectivos de los trabajadores",
             "fuente": "https://www.anred.org/la-sucesora-de-bullrich-quiere-debutar-reprimiendo-la-protesta-de-la-cgt-contra-la-reforma-laboral/, https://www.diagonales.com/nacion/la-cgt-sale-a-la-calle-contra-la-reforma-laboral--habra-marcha-el-18-de-diciembre_a693b33f01d1c6929ea5eddf8"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-12-18",
-            "horario": "15:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT y centrales sindicales",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la Reforma Laboral del gobierno de Javier Milei",
-            "fuente": "https://www.anred.org/aceiteros-van-a-la-huelga-contra-la-reforma-laboral-el-proyecto-del-gobierno-esta-dedicado-a-quitarnos-derechos/, https://www.laizquierdadiario.com/18D-Aceiteros-anuncia-huelga-nacional-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Docentes-de-Ademys-convocan-a-marchar-el-18-12-contra-la-reforma-laboral, https://www.datagremial.com/informacion-general/fuerte-repudio-de-las-62-organizaciones-peronistas-al-atentado-contra-la-sede-del-seivara--2025121518540, https://www.anred.org/el-gobierno-apura-el-debate-de-la-reforma-laboral-con-protestas-en-las-calles-y-el-reclamo-de-paro-general-a-las-centrales/, https://www.datagremial.com/informacion-general/imagenes-del-ataque-y-destrozos-a-la-sede-del-sindicato-del-vidrio-encabezado-por-cristian-jeronimo-dias-antes-de-la-marcha-de-la-cgt-202512151220, https://estadodealerta.com.ar/las-dos-cta-en-alerta-y-movilizacion-por-la-reforma-laboral-se-suman-a-la-protesta-convocada-por-la-cgt/, https://www.laizquierdadiario.com/No-se-trata-solo-de-resistir-sino-de-avanzar-empieza-una-respuesta-del-movimiento-de-masas-como, https://estadodealerta.com.ar/la-mesa-sindical-se-suma-a-la-marcha-contra-la-reforma-laboral-y-denuncia-que-el-indec-mide-una-inflacion-ficticia/, https://radiomitre.cienradios.com/politica/la-cgt-marcha-hoy-por-el-dia-del-trabajador-homenajearan-al-papa-y-habra-reclamos-hacia-el-gobierno/, https://estadodealerta.com.ar/cgt-anuncia-movilizacion-que-tambien-podria-ser-paro-nacional-para-el-jueves-18-de-diciembre/, https://estadodealerta.com.ar/ataque-al-sindicato-del-vidrio-liderado-por-jeronimo-triunviro-de-la-cgt-en-la-semana-de-la-protesta-contra-la-flexibilizacion-laboral/, https://www.laizquierdadiario.com/18-de-diciembre-la-izquierda-reclama-paro-general-movilizar-al-Congreso-y-un-plan-de-lucha, https://www.laizquierdadiario.com/El-proyecto-de-Reforma-Laboral-arrasa-tambien-con-el-fomento-a-la-cultura-y-el-cine, https://www.datagremial.com/informacion-general/aeda-confirmo-su-adhesion-a-la-movilizacion-de-la-cgt-del-18-de-diciembre-contra-la-reforma-laboral-2025121315480, https://www.datagremial.com/informacion-general/las-cta-ratificaron-que-se-suman-a-la-movilizacion-de-la-cgt-contra-la-reforma-laboral-el-18-de-diciembre-20251213900, https://www.datagremial.com/informacion-general/el-18d-toma-volumen-y-musculo-las-62-organizaciones-peronistas-se-suman-a-la-marcha-de-la-cgt-al-congreso-contra-la-reforma-laboral-2025121218150"
         },
         {
             "es_evento_relevante": true,
