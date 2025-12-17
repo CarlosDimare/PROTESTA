@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T16:20:23.773205-03:00",
+    "last_updated": "2025-12-17T17:26:41.142032-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3284,6 +3284,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
+            "horario": "13:00",
+            "lugar": "Diagonal Sur y Avenida Belgrano, Ciudad Autónoma de Buenos Aires",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales) junto a CGT y organizaciones sindicales y sociales",
+            "tipo_medida": "Paro Nacional Nodocente de 24 horas y Marcha",
+            "motivo": "Defensa de la Universidad Pública, salarios y derechos laborales; exigencia de aplicación de la Ley de Financiamiento Universitario; rechazo a proyectos de reforma laboral y educativa impulsados por el Gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-nodocente-y-movilizacion-fatun-resolvio-una-medida-de-fuerza-nacional-para-el-18d-en-defensa-de-la-universidad-publica-2025121716270"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
             "horario": "13:30",
             "lugar": "Dirección Nacional de Vialidad (Julio Argentino Roca 738) y posteriormente Plaza de Mayo",
             "quien": "CATT (Confederación Argentina de Trabajadores del Transporte)",
@@ -3420,6 +3430,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral de Milei por ataque a derechos laborales, especialmente en mujeres y diversidades (docencia, salud), y en defensa de la democracia sindical",
             "fuente": "https://www.laizquierdadiario.com/Trabajadoras-y-estudiantes-marchamos-en-Jujuy-este-jueves"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "18:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "UPCN y CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto de reforma laboral impulsado por el Gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/andres-rodriguez-adelanto-un-numero-muy-alto-de-manifestantes-en-la-marcha-de-la-cgt-202512171740"
         },
         {
             "es_evento_relevante": true,
