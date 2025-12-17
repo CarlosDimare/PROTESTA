@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T10:37:53.644387-03:00",
+    "last_updated": "2025-12-17T11:20:40.278543-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3430,6 +3430,16 @@
             "tipo_medida": "Paro",
             "motivo": "Falta de convocatoria a paritarias y defensa de conquistas obreras",
             "fuente": "https://elciudadanoweb.com/festram-convoca-a-un-paro-de-24-horas-y-movilizaciones-en-toda-la-provincia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-29",
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "Atepsa",
+            "tipo_medida": "Paro",
+            "motivo": "Condiciones salariales, reincorporación de despedidos y oposición a reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Contundente-paro-de-controladores-aereos-fue-votado-en-asambleas-masivas, https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/"
         },
         {
             "es_evento_relevante": true,
