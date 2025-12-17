@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T12:23:58.594148-03:00",
+    "last_updated": "2025-12-17T13:24:03.453629-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3350,6 +3350,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales, salario y producción nacional",
             "fuente": "https://www.inforegion.com.ar/2025/12/15/mientras-sigue-el-reclamo-por-financiamiento-fedun-y-fatun-marchan-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "16:00",
+            "lugar": "Plaza 25 de Mayo (Córdoba y Buenos Aires), Rosario",
+            "quien": "CGT Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral del gobierno nacional y defensa de derechos laborales frente al empobrecimiento y falta de empleo formal",
+            "fuente": "https://elciudadanoweb.com/movilizacion-sindical-en-rosario-cgt-marcha-por-rechazo-a-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
