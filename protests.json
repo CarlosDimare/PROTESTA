@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T06:25:28.199993-03:00",
+    "last_updated": "2025-12-17T07:21:35.851436-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3295,6 +3295,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "14:00",
+            "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
+            "quien": "Sindicato de Trabajadores de Reparto por Aplicación (SiTraRepA) - CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral que precariza a trabajadores de aplicaciones y niega derechos laborales básicos",
+            "fuente": "https://www.inforegion.com.ar/2025/12/17/repartidores-tambien-convocan-a-marchar-contra-la-reforma-laboral/, https://www.laizquierdadiario.com/El-palacio-rosquea-y-la-calle-se-prepara-movilicemos-todos-este-jueves-contra-la-Reforma-Laboral, https://prensaobrera.com/politicas/contra-la-reforma-laboral-los-trabajadores-combativos-convocan-a-marchar-el-18-en-una-columna-independiente"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "14:00",
             "lugar": "Avenida de Mayo y Tacuarí, Buenos Aires",
             "quien": "MDF con adhesión de CTA y Suteba (CGT)",
             "tipo_medida": "Marcha",
@@ -3325,31 +3335,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "15:00",
-            "lugar": "Av. 9 de Julio y Av. de Mayo, Buenos Aires",
-            "quien": "Izquierda, agrupaciones y sindicalismo combativo",
-            "tipo_medida": "Marcha",
-            "motivo": "Oposición a reforma laboral y presupuesto de ajuste, exigencia de paro general desde abajo",
-            "fuente": "https://www.laizquierdadiario.com/El-palacio-rosquea-y-la-calle-se-prepara-movilicemos-todos-este-jueves-contra-la-Reforma-Laboral"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-12-18",
-            "horario": "15:00",
             "lugar": "Congreso de la Nación",
             "quien": "FEDUN y FATUN",
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales, salario y producción nacional",
             "fuente": "https://www.inforegion.com.ar/2025/12/15/mientras-sigue-el-reclamo-por-financiamiento-fedun-y-fatun-marchan-contra-la-reforma-laboral/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-12-18",
-            "horario": "15:00",
-            "lugar": "Avenida de Mayo y 9 de Julio, Ciudad Autónoma de Buenos Aires",
-            "quien": "Coalición de sindicatos combativos, organizaciones piqueteras, jubilados, mujeres, estudiantiles, socioambientales y partidos de izquierda",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral de Milei, la reforma penal represiva y el paquete de leyes anti-trabajadores, exigiendo paro nacional y defensa de derechos laborales",
-            "fuente": "https://prensaobrera.com/politicas/contra-la-reforma-laboral-los-trabajadores-combativos-convocan-a-marchar-el-18-en-una-columna-independiente"
         },
         {
             "es_evento_relevante": true,
