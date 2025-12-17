@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T22:11:32.344061-03:00",
+    "last_updated": "2025-12-17T00:20:37.100954-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3244,12 +3244,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-17",
-            "horario": "08:00-12:00",
-            "lugar": "Aeropuertos de Argentina",
-            "quien": "Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación (Atepsa)",
+            "horario": "08:00-11:00",
+            "lugar": "Todos los aeropuertos del país",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y paritarios, con medidas que afectan operaciones aéreas durante temporada alta",
-            "fuente": "https://www.infobae.com/economia/2025/12/16/fuerte-rechazo-del-gobierno-al-nuevo-paro-de-controladores-aereos-la-casta-sindical-le-da-la-espalda-a-miles-de-argentinos/, https://www.infobae.com/economia/2025/12/16/paro-de-controladores-aereos-cuando-comienza-y-cual-es-el-cronograma-de-vuelos-afectados/, https://www.inforegion.com.ar/2025/12/12/paro-de-controladores-aereos-sin-acuerdo-entre-atepsa-y-eana-y-crece-la-tension-rumbo-al-17-de-diciembre/, https://es-us.noticias.yahoo.com/paro-controladores-aéreos-hora-medida-145122623.html"
+            "motivo": "Conflicto salarial y laboral con EANA, reincorporación de despedidos, revisión de complejidad de tareas y cumplimiento del convenio colectivo",
+            "fuente": "https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/, https://www.infobae.com/economia/2025/12/16/fuerte-rechazo-del-gobierno-al-nuevo-paro-de-controladores-aereos-la-casta-sindical-le-da-la-espalda-a-miles-de-argentinos/, https://www.infobae.com/economia/2025/12/16/paro-de-controladores-aereos-cuando-comienza-y-cual-es-el-cronograma-de-vuelos-afectados/, https://www.inforegion.com.ar/2025/12/12/paro-de-controladores-aereos-sin-acuerdo-entre-atepsa-y-eana-y-crece-la-tension-rumbo-al-17-de-diciembre/, https://es-us.noticias.yahoo.com/paro-controladores-aéreos-hora-medida-145122623.html"
         },
         {
             "es_evento_relevante": true,
@@ -3266,10 +3266,10 @@
             "fecha": "2025-12-18",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Plenario del Sindicalismo Combativo, movimiento piquetero independiente, jubilados en lucha (ATE Garrahan, AGD UBA, Sindicato del Neumático, Junta Interna de ATE Mecon, Polo Obrero, Partido Obrero, MST)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral del gobierno de Javier Milei, que precariza derechos laborales, ataca jubilaciones y busca imponer un régimen laboral esclavista",
-            "fuente": "https://prensaobrera.com/politicas/abajo-la-reforma-laboral-esclavista-exigimos-un-paro-nacional-y-un-plan-de-lucha-sindicatos-y-agrupamientos-combativos-hacia-la-movilizacion-del-18, https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
+            "quien": "Sindicatos y movimientos sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral que reduce indemnizaciones y precariza el trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Cuales-son-las-empresas-y-estudios-juridicos-que-estan-detras-de-la-reforma-laboral, https://prensaobrera.com/politicas/abajo-la-reforma-laboral-esclavista-exigimos-un-paro-nacional-y-un-plan-de-lucha-sindicatos-y-agrupamientos-combativos-hacia-la-movilizacion-del-18, https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
@@ -3295,11 +3295,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "15:00",
-            "lugar": "Perón y Carlos Pellegrini (concentración), Plaza de Mayo (destino final)",
-            "quien": "SUTNA, GPS, Secco, Comisión Ejecutiva Unión Ferroviaria Seccional, AGD-UBA, ADEMyS, SUTEBA Tigre, Junta interna de ATE Garrahan, Cooperativa MadyGraf ex Donnelley bajo gestión obrera, entre otros sindicatos combativos y organizaciones de izquierda",
-            "tipo_medida": "Marcha con acto propio posterior",
-            "motivo": "Contra la reforma laboral impulsada por Milei y las patronales, exigiendo a la CGT convoque a paro nacional y movilización el día de tratamiento de la reforma en el Congreso",
-            "fuente": "https://www.laizquierdadiario.com/18D-El-sindicalismo-combativo-marchara-contra-la-reforma-laboral-con-columna-propia-exigira-paro, https://www.laizquierdadiario.com/Vivo-El-sindicalismo-combativo-llamar-a-marchar-contra-la-reforma-laboral-exige-paro-nacional"
+            "lugar": "Perón y Carlos Pellegrini (concentración), Plaza de Mayo (destino)",
+            "quien": "Sindicatos combativos y la izquierda (SUTNA, GPS, Secco, Unión Ferroviaria, AGD-UBA, ADEMyS, SUTEBA Tigre, ATE Garrahan, Cooperativa MadyGraf, entre otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir paro nacional y movilización contra la reforma laboral cuando se trate en el Congreso",
+            "fuente": "https://www.laizquierdadiario.com/Contra-la-reforma-laboral-el-sindicalismo-combativo-convoca-a-movilizar-con-todo-exigiendo-paro, https://www.laizquierdadiario.com/18D-El-sindicalismo-combativo-marchara-contra-la-reforma-laboral-con-columna-propia-exigira-paro, https://www.laizquierdadiario.com/Vivo-El-sindicalismo-combativo-llamar-a-marchar-contra-la-reforma-laboral-exige-paro-nacional"
         },
         {
             "es_evento_relevante": true,
