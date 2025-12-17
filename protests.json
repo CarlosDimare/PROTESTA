@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T07:21:35.851436-03:00",
+    "last_updated": "2025-12-17T08:18:12.244719-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3340,6 +3340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales, salario y producción nacional",
             "fuente": "https://www.inforegion.com.ar/2025/12/15/mientras-sigue-el-reclamo-por-financiamiento-fedun-y-fatun-marchan-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "16:00",
+            "lugar": "Aeropuertos de Argentina",
+            "quien": "ATEPSA",
+            "tipo_medida": "Paro",
+            "motivo": "Conflitos salariales y laborales con EANA, incluyendo reincorporación de despedidos, revisión de complejidad laboral y cumplimiento del convenio colectivo",
+            "fuente": "https://www.infobae.com/economia/2025/12/17/comenzo-el-paro-de-controladores-aereos-hay-mas-de-24000-pasajeros-afectados-por-demoras-y-cancelaciones/"
         },
         {
             "es_evento_relevante": true,
