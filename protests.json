@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-16T20:18:36.429678-03:00",
+    "last_updated": "2025-12-16T22:11:32.344061-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3284,6 +3284,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
+            "horario": "14:00",
+            "lugar": "Avenida de Mayo y Tacuarí, Buenos Aires",
+            "quien": "MDF con adhesión de CTA y Suteba (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral del gobierno nacional por afectar derechos sindicales, indemnizaciones, jornada laboral y condiciones de trabajo",
+            "fuente": "https://motoreconomico.com.ar/respaldo-bonaerense-a-la-marcha-de-la-cgt-kicillof-marcha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
             "horario": "15:00",
             "lugar": "Perón y Carlos Pellegrini (concentración), Plaza de Mayo (destino final)",
             "quien": "SUTNA, GPS, Secco, Comisión Ejecutiva Unión Ferroviaria Seccional, AGD-UBA, ADEMyS, SUTEBA Tigre, Junta interna de ATE Garrahan, Cooperativa MadyGraf ex Donnelley bajo gestión obrera, entre otros sindicatos combativos y organizaciones de izquierda",
@@ -3350,6 +3360,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral de Milei por ataque a derechos laborales, especialmente en mujeres y diversidades (docencia, salud), y en defensa de la democracia sindical",
             "fuente": "https://www.laizquierdadiario.com/Trabajadoras-y-estudiantes-marchamos-en-Jujuy-este-jueves"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "La hora de inicio del evento de protesta es:  \n**15:00**",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de la reforma laboral propuesta por el gobierno de La Libertad Avanza, que modifica convenios, indemnizaciones y obras sociales, considerándola un ataque a los derechos laborales",
+            "fuente": "https://motoreconomico.com.ar/la-cgt-se-reunio-con-intendentes-y-diputados-del-pj-llamo-a-movilizarse-contra-la-reforma-laboral-y-remarco-el-caracter-federal-de-la-protesta/, https://elintransigente.com/2025/12/la-cgt-anuncio-una-fuerte-protesta-por-la-reforma-laboral-y-tenso-el-clima-politico/"
         },
         {
             "es_evento_relevante": true,
