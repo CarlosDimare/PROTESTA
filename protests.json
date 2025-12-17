@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T08:18:12.244719-03:00",
+    "last_updated": "2025-12-17T09:35:25.966119-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3355,11 +3355,31 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "17:00",
+            "lugar": "Sede centro del CEDEMS (Centro de Estudiantes de la Universidad Nacional de Jujuy)",
+            "quien": "Trabajadores en lucha y despedidos autoconvocados (columna independiente de la CGT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Lucha contra despidos en el Ingenio Ledesma y contra la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Acampe-azucarero-por-una-Navidad-sin-despidos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "17:00",
             "lugar": "Cedems, Balcarce 162",
             "quien": "Sindicatos combativos, izquierda feminista y diversidades, estudiantes y trabajadoras",
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral de Milei por ataque a derechos laborales, especialmente en mujeres y diversidades (docencia, salud), y en defensa de la democracia sindical",
             "fuente": "https://www.laizquierdadiario.com/Trabajadoras-y-estudiantes-marchamos-en-Jujuy-este-jueves"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "09:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
