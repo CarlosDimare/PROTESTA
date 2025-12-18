@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-18T11:24:35.959103-03:00",
+    "last_updated": "2025-12-18T12:24:05.094652-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3490,6 +3490,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral impulsada por el presidente Javier Milei, por derechos laborales y paz",
             "fuente": "https://www.infobae.com/politica/2025/12/18/el-mapa-de-la-movilizacion-de-la-cgt-organizaciones-sociales-y-politicas-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "16:00",
+            "lugar": "Red de colectivos del AMBA e interior del país",
+            "quien": "Unión Tranviaria Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Falta de pago del aguinaldo a choferes de colectivos",
+            "fuente": "https://www.inforegion.com.ar/2025/12/18/paro-de-colectivos-la-uta-amenazo-con-realizar-un-paro-de-transportes-como-medidas-de-fuerza-por-falta-de-pago-del-aguinaldo/, https://www.eldestapeweb.com/sociedad/paro-de-trenes/paro-de-trenes-por-24-horas-en-vivo-lineas-que-paran-y-estado-del-servicio-202412178942"
         },
         {
             "es_evento_relevante": true,
