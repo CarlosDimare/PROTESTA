@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T20:19:46.006280-03:00",
+    "last_updated": "2025-12-17T22:14:30.747145-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3255,6 +3255,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-17",
             "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Fuerzas del Cielo",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo al gobierno y difusión de políticas económicas",
+            "fuente": "https://www.infobae.com/politica/2025/12/17/javier-milei-participa-de-un-acto-con-las-fuerzas-del-cielo-en-un-canal-de-streaming/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-17",
+            "horario": "18:00",
             "lugar": "Congreso Nacional, Buenos Aires",
             "quien": "Jubilados",
             "tipo_medida": "Movilización",
@@ -3290,6 +3300,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el paquete de ajuste del Gobierno y la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/La-Policia-Federal-gaseo-la-protesta-de-jubiladas-y-jubilados-en-Congreso, https://www.laizquierdadiario.com/Cuales-son-las-empresas-y-estudios-juridicos-que-estan-detras-de-la-reforma-laboral, https://prensaobrera.com/politicas/abajo-la-reforma-laboral-esclavista-exigimos-un-paro-nacional-y-un-plan-de-lucha-sindicatos-y-agrupamientos-combativos-hacia-la-movilizacion-del-18, https://prensaobrera.com/politicas/el-18-todos-al-congreso-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
+            "horario": "11:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral/, https://www.datagremial.com/informacion-general/ruben-crosta-convoca-a-la-marcha-de-la-cgt-contra-la-reforma-laboral-de-milei-2025121720130, https://www.economiadigital.es/galicia/empresas/protestas-black-friday.html"
         },
         {
             "es_evento_relevante": true,
