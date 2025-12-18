@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-18T18:21:17.867884-03:00",
+    "last_updated": "2025-12-18T19:23:45.852712-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3554,12 +3554,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-26",
-            "horario": "15:00",
+            "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Izquierda y sindicalismo combativo",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir paro nacional frente al tratamiento del presupuesto en el Senado y contra ataques antipopulares",
-            "fuente": "https://www.laizquierdadiario.com/Las-crisis-y-las-calles-se-puede-derrotar-a-Milei-movilizar-al-Congreso-y-huelga-general, https://www.laizquierdadiario.com/18D-El-sindicalismo-combativo-marchara-contra-la-reforma-laboral-con-columna-propia-exigira-paro"
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "En contra del Presupuesto 2026 y la reforma laboral, calificadas como ataques anti-obreros",
+            "fuente": "https://www.laizquierdadiario.com/Hay-que-imponer-paro-nacional-movilizacion-masiva-y-rodear-el-Congreso-cuando-se-vote-Presupuesto-y, https://www.laizquierdadiario.com/Las-crisis-y-las-calles-se-puede-derrotar-a-Milei-movilizar-al-Congreso-y-huelga-general, https://www.laizquierdadiario.com/18D-El-sindicalismo-combativo-marchara-contra-la-reforma-laboral-con-columna-propia-exigira-paro"
         },
         {
             "es_evento_relevante": true,
@@ -3576,10 +3576,10 @@
             "fecha": "2025-12-29",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Atepsa",
+            "quien": "Festram (Federación de Sindicatos de Trabajadores Municipales de Santa Fe)",
             "tipo_medida": "Paro",
-            "motivo": "Condiciones salariales, reincorporación de despedidos y oposición a reforma laboral",
-            "fuente": "https://www.laizquierdadiario.com/Contundente-paro-de-controladores-aereos-fue-votado-en-asambleas-masivas, https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/"
+            "motivo": "Reclamo de paritarias y rechazo a la reforma laboral, por la pérdida de poder adquisitivo",
+            "fuente": "https://elciudadanoweb.com/municipales-de-santa-fe-nucleados-en-festram-marcharon-contra-la-reforma-laboral-de-milei-y-adelantan-que-habra-paro-si-provincia-no-llama-a-paritarias/, https://www.laizquierdadiario.com/Contundente-paro-de-controladores-aereos-fue-votado-en-asambleas-masivas, https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/"
         },
         {
             "es_evento_relevante": true,
