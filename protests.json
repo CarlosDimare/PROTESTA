@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-17T22:14:30.747145-03:00",
+    "last_updated": "2025-12-18T00:22:57.152652-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3434,6 +3434,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
+            "horario": "16:30",
+            "lugar": "Inmediaciones del Congreso de la Nación, esquinas de Rivadavia y Callao",
+            "quien": "Club Unido Antifascista / Movimiento Antifa",
+            "tipo_medida": "Movilización con enfrentamientos",
+            "motivo": "Oposición al Presupuesto 2026 y reclamo por situación de jubilados",
+            "fuente": "https://www.infobae.com/politica/2025/12/17/tension-entre-manifestantes-y-la-policia-afuera-del-congreso-mientras-se-debate-el-presupuesto-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-18",
             "horario": "17:00",
             "lugar": "Sede centro del CEDEMS (Centro de Estudiantes de la Universidad Nacional de Jujuy)",
             "quien": "Trabajadores en lucha y despedidos autoconvocados (columna independiente de la CGT)",
@@ -3464,22 +3474,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-19",
-            "horario": "09:00",
-            "lugar": "Congreso Nacional",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
-            "fuente": "https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral-del-gobierno/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-12-19",
             "horario": "12:00",
             "lugar": "No especificado",
             "quien": "Sindicatos combativos, movimientos piqueteros y agrupaciones de jubilados",
             "tipo_medida": "Movilización",
             "motivo": "Frenar las reformas del gobierno de Milei, especialmente la reforma laboral esclavista y el paquete de ajuste",
             "fuente": "https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "16:00",
+            "lugar": "Plaza 25 de Mayo, Rosario",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto de reforma laboral impulsado por el Gobierno nacional y defensa de derechos laborales",
+            "fuente": "https://elciudadanoweb.com/este-jueves-habra-masivas-marchas-en-rosario-en-rechazo-al-proyecto-de-reforma-laboral-de-milei/, https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -3560,6 +3570,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de acuerdos por parte de EANA, reclamos salariales, operativos y reincorporación de trabajadores",
             "fuente": "https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "15:00",
+            "lugar": "Centro de Plaza de Mayo, de espaldas a la Casa Rosada",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la Reforma Laboral impulsada por el gobierno de Javier Milei",
+            "fuente": "https://motoreconomico.com.ar/hoy-marcha-masiva-contra-la-reforma-laboral-del-gobierno-la-cgt-ya-definio-los-detalles-de-la-protesta-escenario-oradores-seguridad-palco-y-el-debate-despues-que/, https://www.lagaceta.com.ar/nota/1116584/politica/gobierno-le-baja-tono-marcha-cgt-contra-reforma-laboral-busca-contrastar-sin-escalar-conflicto.html"
         },
         {
             "es_evento_relevante": true,
