@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-18T02:22:54.348509-03:00",
+    "last_updated": "2025-12-18T03:29:07.680623-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3480,6 +3480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Frenar las reformas del gobierno de Milei, especialmente la reforma laboral esclavista y el paquete de ajuste",
             "fuente": "https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Confederación General del Trabajo (CGT) junto a organizaciones sociales, políticas y gremiales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral impulsada por el presidente Javier Milei, por derechos laborales y paz",
+            "fuente": "https://www.infobae.com/politica/2025/12/18/el-mapa-de-la-movilizacion-de-la-cgt-organizaciones-sociales-y-politicas-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
