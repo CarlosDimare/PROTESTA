@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-18T05:25:33.754223-03:00",
+    "last_updated": "2025-12-18T06:26:22.304189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3395,21 +3395,21 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "16:00",
-            "lugar": "Universidad Nacional de Rosario y seduces universitarios en todo el país",
-            "quien": "Comunidad universitaria (COAD y APUR en Rosario)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Contra la derogación de la ley de financiamiento universitario, el desfinanciamiento de casas de estudio, el retraso salarial y la reforma laboral del gobierno",
-            "fuente": "https://elciudadanoweb.com/jueves-de-movilizacion-universitaria-en-rosario-y-sin-clases-en-la-unr-por-paro-de-docentes-y-no-docentes/, https://www.versionrosario.com.ar/la-marcha-federal-universitaria-se-sentira-fuerte-este-miercoles-en-rosario/"
+            "lugar": "Aeropuertos de Argentina",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Reincorporación de trabajadores despedidos, revisión de condiciones laborales y cumplimiento del convenio colectivo",
+            "fuente": "https://www.infobae.com/economia/2025/12/18/otra-jornada-de-paro-de-los-controladores-aereos-cuando-comienza-la-medida-que-afectara-a-los-vuelos-nacionales/, https://www.inforegion.com.ar/2025/12/17/paro-de-controladores-aereos-la-primera-jornada-afecto-a-11-mil-pasajeros-y-anticipan-nuevas-medidas-en-plenas-fiestas/, https://www.infobae.com/economia/2025/12/17/comenzo-el-paro-de-controladores-aereos-hay-mas-de-24000-pasajeros-afectados-por-demoras-y-cancelaciones/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-18",
             "horario": "16:00",
-            "lugar": "Aeropuertos de Argentina",
-            "quien": "ATEPSA",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamos laborales: reincorporación de trabajadores despedidos, respeto a la estabilidad laboral, revisión de complejidad operativa, actualización de refrigerios y cumplimiento del convenio colectivo.",
-            "fuente": "https://www.inforegion.com.ar/2025/12/17/paro-de-controladores-aereos-la-primera-jornada-afecto-a-11-mil-pasajeros-y-anticipan-nuevas-medidas-en-plenas-fiestas/, https://www.infobae.com/economia/2025/12/17/comenzo-el-paro-de-controladores-aereos-hay-mas-de-24000-pasajeros-afectados-por-demoras-y-cancelaciones/"
+            "lugar": "Universidad Nacional de Rosario y seduces universitarios en todo el país",
+            "quien": "Comunidad universitaria (COAD y APUR en Rosario)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra la derogación de la ley de financiamiento universitario, el desfinanciamiento de casas de estudio, el retraso salarial y la reforma laboral del gobierno",
+            "fuente": "https://elciudadanoweb.com/jueves-de-movilizacion-universitaria-en-rosario-y-sin-clases-en-la-unr-por-paro-de-docentes-y-no-docentes/, https://www.versionrosario.com.ar/la-marcha-federal-universitaria-se-sentira-fuerte-este-miercoles-en-rosario/"
         },
         {
             "es_evento_relevante": true,
