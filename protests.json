@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-18T17:23:21.423862-03:00",
+    "last_updated": "2025-12-18T18:21:17.867884-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3465,6 +3465,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-19",
             "horario": "10:00",
+            "lugar": "Centro de la ciudad de Córdoba",
+            "quien": "Estatales (docentes, judiciales, municipales) y organizaciones combativas (Polo Obrero)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma previsional y recortes salariales del gobierno de Llaryora, defensa de jubilaciones y salario",
+            "fuente": "https://prensaobrera.com/sindicales/masiva-marcha-rechazo-reforma-previsional-en-cordoba"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "10:00",
             "lugar": "Congreso Nacional",
             "quien": "CGT y las dos CTA",
             "tipo_medida": "Marcha",
@@ -3540,6 +3550,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/ate-considero-una-amenaza-ilegal-el-intento-de-descuento-salarial-a-quienes-se-sumaron-a-su-paro-2025112011470, https://elciudadanoweb.com/como-cada-miercoles-los-jubilados-volvieron-a-marchar-y-entregaron-un-petitorio-en-el-congreso/, https://www.infobae.com/politica/2025/11/20/ate-afirmo-que-el-acatamiento-al-paro-alcanzo-el-90-y-el-gobierno-ratifico-que-descontara-el-dia/, https://www.inforegion.com.ar/2025/11/19/ate-informo-un-90-de-adhesion-al-paro-por-paritarias-y-contra-la-reforma-laboral/, https://elciudadanoweb.com/ate-aseguro-que-el-paro-tiene-mas-del-90-de-acatamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-26",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Izquierda y sindicalismo combativo",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir paro nacional frente al tratamiento del presupuesto en el Senado y contra ataques antipopulares",
+            "fuente": "https://www.laizquierdadiario.com/Las-crisis-y-las-calles-se-puede-derrotar-a-Milei-movilizar-al-Congreso-y-huelga-general, https://www.laizquierdadiario.com/18D-El-sindicalismo-combativo-marchara-contra-la-reforma-laboral-con-columna-propia-exigira-paro"
         },
         {
             "es_evento_relevante": true,
