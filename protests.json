@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-19T17:22:04.141919-03:00",
+    "last_updated": "2025-12-19T18:19:26.432357-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3495,11 +3495,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-19",
             "horario": "12:00",
-            "lugar": "No especificado",
-            "quien": "CSIRA (Confederación de Sindicatos Industriales de la República Argentina)",
-            "tipo_medida": "Movilización",
-            "motivo": "Oposición a la reforma laboral propuesta por el Gobierno de Javier Milei y defensa de la industria nacional contra el modelo libertario",
-            "fuente": "https://www.datagremial.com/informacion-general/gremios-industriales-volvieron-a-alertar-por-el-industricidio-y-pidio-a-la-cgt-que-acompane-sus-reclamos-2025121812570, https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus"
+            "lugar": "Plaza 25 de Mayo, Rosario",
+            "quien": "CGT",
+            "tipo_medida": "Paro nacional",
+            "motivo": "En contra de la reforma laboral impulsada por el gobierno de Javier Milei",
+            "fuente": "https://motoreconomico.com.ar/miles-de-personas-marcharon-a-plaza-de-mayo-con-la-cgt-contra-la-reforma-laboral-de-milei-la-cgt-anuncio-un-paro-nacional-contra-la-reforma-laboral-siguen-sin-escucharnos/, https://www.datagremial.com/informacion-general/gremios-industriales-volvieron-a-alertar-por-el-industricidio-y-pidio-a-la-cgt-que-acompane-sus-reclamos-2025121812570, https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus, https://elciudadanoweb.com/este-jueves-habra-masivas-marchas-en-rosario-en-rechazo-al-proyecto-de-reforma-laboral-de-milei/, https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -3530,16 +3530,6 @@
             "tipo_medida": "Paro",
             "motivo": "Falta de pago del aguinaldo a choferes de colectivos",
             "fuente": "https://www.inforegion.com.ar/2025/12/18/paro-de-colectivos-la-uta-amenazo-con-realizar-un-paro-de-transportes-como-medidas-de-fuerza-por-falta-de-pago-del-aguinaldo/, https://www.eldestapeweb.com/sociedad/paro-de-trenes/paro-de-trenes-por-24-horas-en-vivo-lineas-que-paran-y-estado-del-servicio-202412178942"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2025-12-19",
-            "horario": "16:00",
-            "lugar": "Plaza 25 de Mayo, Rosario",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al proyecto de reforma laboral impulsado por el Gobierno nacional y defensa de derechos laborales",
-            "fuente": "https://elciudadanoweb.com/este-jueves-habra-masivas-marchas-en-rosario-en-rechazo-al-proyecto-de-reforma-laboral-de-milei/, https://elciudadanoweb.com/antonio-calo-respaldo-la-movilizacion-de-la-cgt-y-cuestiono-con-dureza-la-reforma-laboral-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -3686,10 +3676,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Izquierda",
-            "tipo_medida": "Movilización",
-            "motivo": "Denunciar el ataque del Gobierno, FMI y grandes patronales, en rechazo a la reforma laboral",
-            "fuente": "https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
+            "quien": "Sindicalismo combativo, movimientos sociales independientes y Frente de Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir paro nacional y movilización masiva contra la reforma laboral durante su tratamiento en el Congreso",
+            "fuente": "https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
         },
         {
             "es_evento_relevante": true,
