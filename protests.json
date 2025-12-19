@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-19T00:28:16.228378-03:00",
+    "last_updated": "2025-12-19T01:38:38.142216-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3490,6 +3490,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a la reforma laboral propuesta por el Gobierno de Javier Milei y defensa de la industria nacional contra el modelo libertario",
             "fuente": "https://www.datagremial.com/informacion-general/gremios-industriales-volvieron-a-alertar-por-el-industricidio-y-pidio-a-la-cgt-que-acompane-sus-reclamos-2025121812570, https://prensaobrera.com/politicas/sumate-a-las-asambleas-abiertas-del-partido-obrero-en-el-frente-de-izquierda, https://prensaobrera.com/politicas/asambleas-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-resolvio-marchar-el-miercoles-31-contra-la-Ley-Omnibus"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo, microcentro porteño",
+            "quien": "CGT, CTA, movimientos sociales y piqueteros",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral, en defensa del trabajo, convenios colectivos, educación pública y salud",
+            "fuente": "https://elciudadanoweb.com/rechazo-contundente-miles-de-personas-marcharon-a-plaza-de-mayo-con-la-cgt-contra-la-reforma-laboral-de-milei/"
         },
         {
             "es_evento_relevante": true,
