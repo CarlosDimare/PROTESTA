@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-19T08:20:47.179186-03:00",
+    "last_updated": "2025-12-19T09:37:40.053858-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3550,6 +3550,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Condiciones laborales precarias, falta de recursos, estado ruinoso de instalaciones, recortes de personal (200 puestos en 15 años), aumento tarifario discriminatorio (45% para no residentes de la UE), y modelo de gobernanza ineficiente",
             "fuente": "https://elciudadanoweb.com/empleados-del-museo-del-louvre-haran-una-huelga-por-tiempo-indefinido-por-falta-de-recursos-y-problemas-de-seguridad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-24",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta por jubilaciones y situación económica",
+            "fuente": "https://elciudadanoweb.com/a-mas-de-mil-dias-de-la-gran-epopeya-del-2022-un-circo-oscuro-puso-en-marcha-una-funcion-que-se-volvio-interminable/"
         },
         {
             "es_evento_relevante": true,
