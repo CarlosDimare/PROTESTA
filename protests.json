@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-19T05:31:11.115063-03:00",
+    "last_updated": "2025-12-19T06:27:31.874915-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3616,10 +3616,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "CGT, CTA-T y CTA Autónoma",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al proyecto de reforma laboral impulsado por el gobierno de Javier Milei",
-            "fuente": "https://www.inforegion.com.ar/2025/12/18/en-la-plaza-de-mayo-la-cgt-advirtio-si-avanza-la-reforma-laboral-vamos-a-ir-al-paro/, https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "En contra de la Reforma Laboral propuesta por el gobierno de Milei, que flexibiliza condiciones laborales y reduce derechos",
+            "fuente": "https://www.anred.org/la-cgt-amenazo-con-un-paro-si-se-aprueba-el-proyecto-en-el-senado/, https://www.inforegion.com.ar/2025/12/18/en-la-plaza-de-mayo-la-cgt-advirtio-si-avanza-la-reforma-laboral-vamos-a-ir-al-paro/, https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
