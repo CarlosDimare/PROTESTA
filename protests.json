@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-19T18:19:26.432357-03:00",
+    "last_updated": "2025-12-19T19:21:13.987197-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3470,6 +3470,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral de Milei por ataque a derechos laborales, especialmente en mujeres y diversidades (docencia, salud), y en defensa de la democracia sindical",
             "fuente": "https://www.laizquierdadiario.com/Trabajadoras-y-estudiantes-marchamos-en-Jujuy-este-jueves"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-19",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Movimiento obrero y organizaciones de discapacidad",
+            "tipo_medida": "Paro general activo",
+            "motivo": "Rechazo al ajuste en discapacidad y políticas sociales, exigencia a CGT y CTAs para convocar a lucha nacional",
+            "fuente": "https://prensaobrera.com/salud/discapacidad-hoy-ajuste-recortes-y-la-fuerza-de-la-calle"
         },
         {
             "es_evento_relevante": true,
