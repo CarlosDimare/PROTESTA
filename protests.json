@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-20T11:20:11.575825-03:00",
+    "last_updated": "2025-12-20T12:18:18.480646-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3544,12 +3544,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-20",
-            "horario": "**12:00**",
+            "horario": "16:00",
             "lugar": "No especificado",
-            "quien": "Plenario de Trabajadores Combativos",
-            "tipo_medida": "Movilización con paro activo",
-            "motivo": "Contra la reforma laboral y el acuerdo colonial entre Milei y EE.UU., con llamado a huelga general",
-            "fuente": "https://prensaobrera.com/politicas/una-movilizacion-a-plaza-de-mayo-denuncio-el-acuerdo-colonial-entre-milei-y-trump, https://www.telesurtv.net/argentina-paro-nacional-reforma-milei-trump/"
+            "quien": "Vecinxs movilizadxs en defensa del Agua",
+            "tipo_medida": "Movilización",
+            "motivo": "Solidaridad con manifestantes condenados y exigencia de anulación de sentencias contra proyectos mineros",
+            "fuente": "https://www.anred.org/avance-extractivista-la-justicia-condena-a-prision-a-vecinos-que-participaron-del-chubutazo/, https://prensaobrera.com/politicas/una-movilizacion-a-plaza-de-mayo-denuncio-el-acuerdo-colonial-entre-milei-y-trump, https://www.telesurtv.net/argentina-paro-nacional-reforma-milei-trump/"
         },
         {
             "es_evento_relevante": true,
@@ -3630,6 +3630,16 @@
             "tipo_medida": "Plenario/Asamblea",
             "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Resistencia a la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
         },
         {
             "es_evento_relevante": true,
