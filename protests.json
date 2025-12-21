@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-21T16:14:58.736053-03:00",
+    "last_updated": "2025-12-21T17:19:40.340754-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3550,6 +3550,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Advertencia por la derogación de la Ley de Financiamiento Universitario y presupuesto insuficiente para el funcionamiento del sistema universitario en 2026",
             "fuente": "https://www.inforegion.com.ar/2025/12/17/el-cin-el-frente-sindical-y-la-fua-rechazan-la-provocacion-del-gobierno/, https://www.anred.org/avance-extractivista-la-justicia-condena-a-prision-a-vecinos-que-participaron-del-chubutazo/, https://prensaobrera.com/politicas/una-movilizacion-a-plaza-de-mayo-denuncio-el-acuerdo-colonial-entre-milei-y-trump, https://www.telesurtv.net/argentina-paro-nacional-reforma-milei-trump/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-22",
+            "horario": "**No especificado**",
+            "lugar": "No especificado",
+            "quien": "Sindicatos y movimientos populares",
+            "tipo_medida": "Huelga general y movilización",
+            "motivo": "Rechazo al Capítulo XI del Presupuesto 2026 y políticas de ajuste del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/politicas/milei-tiene-su-presupuesto-de-guerra-contra-los-trabajadores-pero-con-una-derrota-que-expone-su-fragilidad-politica, https://www.portaloaca.com/articulos/mundonatural/crisis-global-y-renovacion-social/"
         },
         {
             "es_evento_relevante": true,
