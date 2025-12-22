@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T01:39:43.317778-03:00",
+    "last_updated": "2025-12-22T02:25:55.707616-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3595,6 +3595,16 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-24",
             "horario": "No especificado",
+            "lugar": "Tandil",
+            "quien": "Tandil Resiste",
+            "tipo_medida": "Paro",
+            "motivo": "Contra el plan de ajuste del gobierno de Javier Milei",
+            "fuente": "https://www.laizquierdadiario.com/A-dos-anos-de-la-Asamblea-contra-Milei-la-organizacion-desde-abajo-sigue-siendo-una-necesidad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-24",
+            "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "Jubilados",
             "tipo_medida": "Movilización",
@@ -3650,6 +3660,16 @@
             "tipo_medida": "Plenario/Asamblea",
             "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "PTS-FITU y sectores sindicales combativos",
+            "tipo_medida": "Paro nacional y rodeo del Congreso",
+            "motivo": "Rechazo a la reforma laboral del gobierno de Milei que busca recortar derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
