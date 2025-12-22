@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T00:30:45.256942-03:00",
+    "last_updated": "2025-12-22T01:39:43.317778-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3570,6 +3570,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Condiciones laborales precarias, falta de recursos, estado ruinoso de instalaciones, recortes de personal (200 puestos en 15 años), aumento tarifario discriminatorio (45% para no residentes de la UE), y modelo de gobernanza ineficiente",
             "fuente": "https://elciudadanoweb.com/empleados-del-museo-del-louvre-haran-una-huelga-por-tiempo-indefinido-por-falta-de-recursos-y-problemas-de-seguridad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-23",
+            "horario": "09:00",
+            "lugar": "Bolivia",
+            "quien": "Central Obrera Boliviana (COB)",
+            "tipo_medida": "Paro",
+            "motivo": "Derogación del Decreto Supremo 5503 y rechazo al paquete de ajuste neoliberal",
+            "fuente": "https://www.laizquierdadiario.com/La-Central-Obrera-Boliviana-declaro-el-paro-general-indefinido-ante-el-paquetazo-de-ajuste-del, https://www.atb.com.bo/2025/12/20/cob-convoca-gran-marcha-el-lunes-desde-el-alto-contra-el-decreto-5503/"
         },
         {
             "es_evento_relevante": true,
