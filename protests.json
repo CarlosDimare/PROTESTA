@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T17:21:12.491003-03:00",
+    "last_updated": "2025-12-22T18:22:15.495879-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3554,12 +3554,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2025-12-22",
-            "horario": "**No especificado**",
+            "horario": "15:00",
             "lugar": "No especificado",
-            "quien": "Sindicatos y movimientos populares",
-            "tipo_medida": "Huelga general y movilización",
-            "motivo": "Rechazo al Capítulo XI del Presupuesto 2026 y políticas de ajuste del gobierno de Milei",
-            "fuente": "https://prensaobrera.com/politicas/milei-tiene-su-presupuesto-de-guerra-contra-los-trabajadores-pero-con-una-derrota-que-expone-su-fragilidad-politica, https://www.portaloaca.com/articulos/mundonatural/crisis-global-y-renovacion-social/"
+            "quien": "Bloque Justicialista",
+            "tipo_medida": "Movilización",
+            "motivo": "Recorte del 93% en fondos para escuelas técnicas según CEPA",
+            "fuente": "https://www.infobae.com/politica/2025/12/22/presupuesto-el-pj-ajusta-los-reclamos-y-lla-responde-dudas-de-los-aliados-para-lograr-que-el-proyecto-se-apruebe-sin-sobresaltos/, https://prensaobrera.com/politicas/milei-tiene-su-presupuesto-de-guerra-contra-los-trabajadores-pero-con-una-derrota-que-expone-su-fragilidad-politica, https://www.portaloaca.com/articulos/mundonatural/crisis-global-y-renovacion-social/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-22",
+            "horario": "15:00",
+            "lugar": "Polo Científico Tecnológico, Godoy Cruz 2320, Palermo, Ciudad Autónoma de Buenos Aires",
+            "quien": "Red de Autoridades de Institutos de Ciencia y Tecnología",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste presupuestario y recortes en ciencia y tecnología",
+            "fuente": "https://www.inforegion.com.ar/2025/12/22/manifestacion-en-el-polo-cientifico-contra-el-ajuste-y-por-una-navidad-con-ciencia/, https://www.datagremial.com/informacion-general/trabajadores-y-cientificos-del-conicet-marchan-contra-el-cientificidio-del-modelo-libertario--2025122217130"
         },
         {
             "es_evento_relevante": true,
