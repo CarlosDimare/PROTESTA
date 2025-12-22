@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T11:19:29.062787-03:00",
+    "last_updated": "2025-12-22T12:20:50.699468-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3585,11 +3585,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-23",
             "horario": "14:00",
-            "lugar": "Fábricas Fate y Bridgestone en Llavallol, partido de Lomas de Zamora",
+            "lugar": "Fate y Bridgestone",
             "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
-            "tipo_medida": "Paro con manifestaciones",
-            "motivo": "Reclamo contra maniobras dilatorias patronales y defensa del salario",
-            "fuente": "https://www.inforegion.com.ar/2025/12/22/el-sutna-convoco-a-un-paro-en-visperas-de-navidad/"
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, reincorporación de despedidos y oposición a la reforma laboral, ante supuestas maniobras dilatorias de las patronales",
+            "fuente": "https://www.laizquierdadiario.com/En-medio-de-un-clima-caliente-en-Fate-el-Sutna-convoca-un-paro-de-24-horas-en-todas-las-plantas, https://www.inforegion.com.ar/2025/12/22/el-sutna-convoco-a-un-paro-en-visperas-de-navidad/"
         },
         {
             "es_evento_relevante": true,
