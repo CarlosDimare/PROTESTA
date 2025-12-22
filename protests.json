@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T09:33:15.069394-03:00",
+    "last_updated": "2025-12-22T10:33:43.555405-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3580,6 +3580,16 @@
             "tipo_medida": "Paro",
             "motivo": "Derogación del Decreto Supremo 5503 y rechazo al paquete de ajuste neoliberal",
             "fuente": "https://www.laizquierdadiario.com/La-Central-Obrera-Boliviana-declaro-el-paro-general-indefinido-ante-el-paquetazo-de-ajuste-del, https://www.atb.com.bo/2025/12/20/cob-convoca-gran-marcha-el-lunes-desde-el-alto-contra-el-decreto-5503/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-23",
+            "horario": "14:00",
+            "lugar": "Fábricas Fate y Bridgestone en Llavallol, partido de Lomas de Zamora",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
+            "tipo_medida": "Paro con manifestaciones",
+            "motivo": "Reclamo contra maniobras dilatorias patronales y defensa del salario",
+            "fuente": "https://www.inforegion.com.ar/2025/12/22/el-sutna-convoco-a-un-paro-en-visperas-de-navidad/"
         },
         {
             "es_evento_relevante": true,
