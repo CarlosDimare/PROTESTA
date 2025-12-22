@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-22T19:19:13.939494-03:00",
+    "last_updated": "2025-12-22T20:18:51.968400-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3570,6 +3570,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el ajuste presupuestario y recortes en ciencia y tecnología",
             "fuente": "https://www.inforegion.com.ar/2025/12/22/manifestacion-en-el-polo-cientifico-contra-el-ajuste-y-por-una-navidad-con-ciencia/, https://www.datagremial.com/informacion-general/trabajadores-y-cientificos-del-conicet-marchan-contra-el-cientificidio-del-modelo-libertario--2025122217130"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-22",
+            "horario": "No especificado",
+            "lugar": "Bolivia (varias ciudades)",
+            "quien": "Central Obrera Boliviana (COB)",
+            "tipo_medida": "Paro general",
+            "motivo": "Retiro del decreto 5503 que eliminó subsidios a combustibles y aumentó precios de naftas y diésel, conocido como 'gasolinazo'",
+            "fuente": "https://prensaobrera.com/internacionales/bolivia-el-gasolinazo-de-rodrigo-paz"
         },
         {
             "es_evento_relevante": true,
