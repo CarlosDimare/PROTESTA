@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-24T12:20:38.521735-03:00",
+    "last_updated": "2025-12-24T13:26:24.182990-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3754,6 +3754,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "No especificado",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Frente de Izquierda de los Trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a intervención militar de EE.UU. en Venezuela y defensa de la soberanía latinoamericana",
+            "fuente": "https://www.laizquierdadiario.com/El-Frente-de-Izquierda-reclamo-contra-la-amenaza-imperialista-de-Trump-en-Venezuela, https://prensaobrera.com/politicas/el-articulo-del-presupuesto-2026-que-premia-con-la-nuestra-a-los-responsables-de-los-cortes-de-luz, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "Centro de Plaza de Mayo, de espaldas a la Casa Rosada",
             "quien": "CGT",
@@ -3810,16 +3820,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Regularización del encuadramiento laboral de trabajadores en locales de Hard Rock Café y Kentucky, denunciando precarización y disputas sindicales",
             "fuente": "https://www.infobae.com/politica/2025/12/23/tras-abrir-hace-15-dias-en-mar-del-plata-un-bar-de-una-cadena-internacional-peligra-por-una-protesta-sindical/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Prensa Obrera",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a los tarifazos, condonación de deudas a empresas eléctricas y cortes de luz",
-            "fuente": "https://prensaobrera.com/politicas/el-articulo-del-presupuesto-2026-que-premia-con-la-nuestra-a-los-responsables-de-los-cortes-de-luz"
         },
         {
             "es_evento_relevante": true,
