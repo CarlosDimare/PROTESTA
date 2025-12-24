@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-24T03:29:25.102503-03:00",
+    "last_updated": "2025-12-24T04:24:25.651186-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3630,6 +3630,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el proyecto minero San Jorge y en defensa del agua",
             "fuente": "https://www.laizquierdadiario.com/Una-columna-independiente-marcho-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-24",
+            "horario": "No especificado",
+            "lugar": "Mendoza (Capital)",
+            "quien": "Movimiento ciudadano de Mendoza (Asambleas por el Agua)",
+            "tipo_medida": "Paro General",
+            "motivo": "Oposición al proyecto minero San Jorge y defensa del agua",
+            "fuente": "https://www.laizquierdadiario.com/Contundente-movilizacion-del-pueblo-mendocino-contra-la-minera-contaminante-San-Jorge"
         },
         {
             "es_evento_relevante": true,
