@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-26T13:21:36.942888-03:00",
+    "last_updated": "2025-12-26T14:17:35.115891-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3794,6 +3794,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "No especificado",
+            "horario": "La hora de inicio del evento de protesta es **11:30**.  \n\n**Explicación**:  \nEl texto especifica claramente en dos ocasiones:  \n> \"Las manifestaciones se llevarán a cabo hoy, martes 5 de agosto, **a las 11.30** en la Plaza Congreso...\"  \n> \"Convocamos a toda la sociedad a movilizarse este martes 5 de agosto **a las 11.30 hs** en Plaza del Congreso...\"  \n\nAunque se menciona otra hora (\"a las 13 en el Congreso Nacional\") para la CTA Autónoma, el evento principal convocado por el Foro Permanente y otras organizaciones se define como **11:30** en Plaza Congreso.",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones de personas con discapacidad, familiares y trabajadores del sector",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al ajuste del gobierno de Milei sobre discapacidad, reclamo de presupuesto real, respeto de leyes y derechos laborales",
+            "fuente": "https://prensaobrera.com/politicas/movilizacion-de-discapacidad-mientras-el-senado-trata-el-presupuesto-de-ajuste, https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora, https://www.clarin.com/informacion-general/marcha-congreso-hoy-veto-milei-hora-cortes-tenes-saber_0_WVdsiIcpGF.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **15:00**.  \n*(El texto indica: \"desde las 15, por columnas piqueteras, movimientos sociales...\" y confirma \"Las principales columnas concentran a partir de las 15\")*.",
             "lugar": "Congreso Nacional, Buenos Aires",
             "quien": "Asociación Trabajadores del Estado (ATE)",
@@ -3820,16 +3830,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Regularización del encuadramiento laboral de trabajadores en locales de Hard Rock Café y Kentucky, denunciando precarización y disputas sindicales",
             "fuente": "https://www.infobae.com/politica/2025/12/23/tras-abrir-hace-15-dias-en-mar-del-plata-un-bar-de-una-cadena-internacional-peligra-por-una-protesta-sindical/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Sindicalismo combativo, movimientos sociales independientes y Frente de Izquierda",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir paro nacional y movilización masiva contra la reforma laboral durante su tratamiento en el Congreso",
-            "fuente": "https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora"
         },
         {
             "es_evento_relevante": true,
