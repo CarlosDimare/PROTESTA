@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-27T07:18:29.491910-03:00",
+    "last_updated": "2025-12-27T08:17:05.272348-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3700,6 +3700,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Justicia por Juan Gabriel González, denunciando gatillo fácil y represión policial",
             "fuente": "https://www.laizquierdadiario.com/Vecinos-de-Lugano-marchan-para-pedir-por-el-joven-trabajador-asesinado-por-la-Policia-de-Macri"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-27",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Red de Autoridades de Institutos de Ciencia y Tecnología (Raicyt)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar contra recortes presupuestarios en Ciencia y Tecnología, actualización de becas/salarios, restablecimiento de programas PICT y aumento del financiamiento",
+            "fuente": "https://prensaobrera.com/politicas/la-comunidad-cientifica-despide-el-ano-denunciando-el-ajuste-de-milei"
         },
         {
             "es_evento_relevante": true,
