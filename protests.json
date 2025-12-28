@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-28T14:17:45.659557-03:00",
+    "last_updated": "2025-12-28T15:27:33.704910-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3730,6 +3730,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de paritarias y rechazo a la reforma laboral, por la pérdida de poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/municipales-de-santa-fe-nucleados-en-festram-marcharon-contra-la-reforma-laboral-de-milei-y-adelantan-que-habra-paro-si-provincia-no-llama-a-paritarias/, https://www.laizquierdadiario.com/Contundente-paro-de-controladores-aereos-fue-votado-en-asambleas-masivas, https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-30",
+            "horario": "13:00",
+            "lugar": "Secretaría de Trabajo de la Nación",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Contra dilaciones empresariales y exigencia de transparencia salarial",
+            "fuente": "https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
         },
         {
             "es_evento_relevante": true,
