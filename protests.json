@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-29T19:22:06.766815-03:00",
+    "last_updated": "2025-12-29T20:21:02.512637-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3750,6 +3750,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa del poder adquisitivo del salario y resolución de paritaria ante dilaciones patronales",
             "fuente": "https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-30",
+            "horario": "19:30",
+            "lugar": "Plaza de Mayo hacia Santuario de Cromañón",
+            "quien": "Movimiento Cromañón y familiares de víctimas",
+            "tipo_medida": "Marcha",
+            "motivo": "Homenaje por los 21 años de la tragedia del boliche República de Cromañón",
+            "fuente": "https://www.inforegion.com.ar/2025/12/29/a-21-anos-de-cromanon-familiares-y-sobrevivientes-realizaran-una-misa-y-una-marcha/"
         },
         {
             "es_evento_relevante": true,
