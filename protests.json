@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-29T18:19:42.705613-03:00",
+    "last_updated": "2025-12-29T19:22:06.766815-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3730,6 +3730,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de paritarias y rechazo a la reforma laboral, por la pérdida de poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/municipales-de-santa-fe-nucleados-en-festram-marcharon-contra-la-reforma-laboral-de-milei-y-adelantan-que-habra-paro-si-provincia-no-llama-a-paritarias/, https://www.laizquierdadiario.com/Contundente-paro-de-controladores-aereos-fue-votado-en-asambleas-masivas, https://www.infobae.com/economia/2025/12/17/paro-de-controladores-aereos-a-que-hora-comienza-la-medida-de-fuerza-que-afectara-a-los-vuelos-este-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-29",
+            "horario": "10:00",
+            "lugar": "Córdoba",
+            "quien": "Asociación Gremial de Empleados del Poder Judicial (AGEPJ)",
+            "tipo_medida": "Paro provincial de 24 horas y Ruidazo judicial",
+            "motivo": "Rechazo a la nueva ley previsional y advertencia contra recortes en jubilaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/judiciales-de-todo-el-pais-terminan-el-ano-en-pie-de-lucha-paros-ruidazos-y-movilizaciones-contra-el-ajuste-en-seis-provincias-2025122917510, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
         },
         {
             "es_evento_relevante": true,
