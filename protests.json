@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-29T13:26:06.178361-03:00",
+    "last_updated": "2025-12-29T14:19:20.551389-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3735,11 +3735,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-30",
             "horario": "13:00",
-            "lugar": "Secretaría de Trabajo de la Nación",
-            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Contra dilaciones empresariales y exigencia de transparencia salarial",
-            "fuente": "https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
+            "lugar": "Secretaría de Trabajo, Alem 650, Buenos Aires",
+            "quien": "Sindicato Único de Trabajadores del Neumático (Sutna)",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa del poder adquisitivo del salario y resolución de paritaria ante dilaciones patronales",
+            "fuente": "https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
         },
         {
             "es_evento_relevante": true,
