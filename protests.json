@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T09:39:56.321302-03:00",
+    "last_updated": "2025-12-30T10:39:47.493098-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3830,6 +3830,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Resistencia a la reforma laboral",
             "fuente": "https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-XX",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "CGT Nacional (con adhesión del Sindicato de Prensa Rosario - SPR)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Rechazo a la Reforma Laboral que aboliría el Estatuto del Periodista y derechos adquiridos, y defensa de la Libertad de Expresión",
+            "fuente": "https://elciudadanoweb.com/reforma-laboral-el-sindicato-de-prensa-rosario-declaro-el-estado-de-alerta-y-movilizacion-permanente/, https://www.eldestapeweb.com/sociedad/reforma-laboral/a-que-hora-es-la-marcha-de-la-cgt-y-paro-nacional-de-ate-contra-la-reforma-laboral-del-jueves-18-de-diciembre-2025-20251217204718"
         },
         {
             "es_evento_relevante": true,
