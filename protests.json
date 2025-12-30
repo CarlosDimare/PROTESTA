@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T03:30:35.396742-03:00",
+    "last_updated": "2025-12-30T04:24:39.091534-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3755,11 +3755,11 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-30",
             "horario": "13:00",
-            "lugar": "Secretaría de Trabajo, Alem 650, Buenos Aires",
-            "quien": "Sindicato Único de Trabajadores del Neumático (Sutna)",
-            "tipo_medida": "Paro",
-            "motivo": "Defensa del poder adquisitivo del salario y resolución de paritaria ante dilaciones patronales",
-            "fuente": "https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
+            "lugar": "Secretaría de Trabajo, Av. Leandro N. Alem 650",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Reclamo de mejora salarial que supere la inflación tras 12 meses sin acuerdo paritario",
+            "fuente": "https://www.infobae.com/politica/2025/12/30/el-sindicato-del-neumatico-realiza-un-paro-de-25-horas-por-reclamos-salariales-pero-las-empresas-alertan-sobre-un-momento-dificil/, https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
         },
         {
             "es_evento_relevante": true,
