@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T08:20:53.991303-03:00",
+    "last_updated": "2025-12-30T09:39:56.321302-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3755,11 +3755,31 @@
             "es_evento_relevante": true,
             "fecha": "2025-12-30",
             "horario": "13:00",
-            "lugar": "Secretaría de Trabajo, Av. Leandro N. Alem 650",
+            "lugar": "Avenida Alem 650, Ciudad de Buenos Aires (Secretaría de Trabajo)",
             "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Reclamo de mejora salarial que supere la inflación tras 12 meses sin acuerdo paritario",
-            "fuente": "https://www.infobae.com/politica/2025/12/30/el-sindicato-del-neumatico-realiza-un-paro-de-25-horas-por-reclamos-salariales-pero-las-empresas-alertan-sobre-un-momento-dificil/, https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
+            "tipo_medida": "Paro",
+            "motivo": "Defensa del salario y denuncia de dilaciones y mala fe en la negociación salarial del sector neumático",
+            "fuente": "https://www.inforegion.com.ar/2025/12/30/el-sector-del-neumatico-cierra-el-ano-con-un-paro/, https://www.infobae.com/politica/2025/12/30/el-sindicato-del-neumatico-realiza-un-paro-de-25-horas-por-reclamos-salariales-pero-las-empresas-alertan-sobre-un-momento-dificil/, https://prensaobrera.com/sindicales/nueva-jornada-de-lucha-del-sutna-paro-movilizacion-y-festival-solidario, https://www.laizquierdadiario.com/Paros-cortes-ocupaciones-y-protestas-fin-de-ano-movido, https://www.inforegion.com.ar/2025/12/28/negociacion-salarial-del-neumatico-el-sutna-anuncio-otro-paro-nacional-y-acusa-a-las-empresas-de-mala-fe/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-30",
+            "horario": "16:00",
+            "lugar": "Sede del Sindicato de Obreros y Empleados del Azúcar del Ingenio Ledesma (Soeail), Jujuy",
+            "quien": "Delegados autoconvocados del Soeail",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de las proscripciones y despidos, y para impedir la asamblea fraudulenta que expulsará delegados opositores",
+            "fuente": "https://www.laizquierdadiario.com/Fraude-sindical-en-Ledesma-Gobierno-de-Sadir-socio-del-genocida-Blaquier-275067"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-30",
+            "horario": "17:00",
+            "lugar": "Ingenio Ledesma (Jujuy)",
+            "quien": "Delegados autoconvocados y organizaciones de apoyo",
+            "tipo_medida": "Movilización de solidaridad",
+            "motivo": "Contra despidos masivos, persecución antisindical y apoyo a delegados opositores",
+            "fuente": "https://www.laizquierdadiario.com/Todos-a-la-asamblea-para-evitar-las-expulsiones-de-delegados-en-Ledesma"
         },
         {
             "es_evento_relevante": true,
@@ -3796,10 +3816,10 @@
             "fecha": "2026-02-10",
             "horario": "10:00",
             "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "PTS-FITU y sectores sindicales combativos",
-            "tipo_medida": "Paro nacional y rodeo del Congreso",
-            "motivo": "Rechazo a la reforma laboral del gobierno de Milei que busca recortar derechos laborales",
-            "fuente": "https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
+            "quien": "PTS-Frente de Izquierda y MAC (con apoyo de sindicatos antiburocráticos y bases)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Contra la reforma laboral que precariza derechos y reduce conquistas históricas",
+            "fuente": "https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
