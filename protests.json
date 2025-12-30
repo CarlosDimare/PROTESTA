@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T16:21:36.685763-03:00",
+    "last_updated": "2025-12-30T17:25:27.026320-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3770,6 +3770,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En contra de las proscripciones y despidos, y para impedir la asamblea fraudulenta que expulsará delegados opositores",
             "fuente": "https://www.laizquierdadiario.com/Fraude-sindical-en-Ledesma-Gobierno-de-Sadir-socio-del-genocida-Blaquier-275067"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-30",
+            "horario": "17:00",
+            "lugar": "Legislatura porteña (Perú 160, CABA)",
+            "quien": "Anred",
+            "tipo_medida": "Audiencia pública",
+            "motivo": "Reclamo de justicia por Gabriel González, fusilado por la policía",
+            "fuente": "https://www.anred.org/audiencia-en-la-legislatura-portena-en-reclamo-de-justicia-por-el-fusilamiento-policial-de-juan-gabriel-gonzalez/"
         },
         {
             "es_evento_relevante": true,
