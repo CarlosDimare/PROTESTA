@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-30T20:21:01.459942-03:00",
+    "last_updated": "2025-12-30T22:21:38.845810-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3820,6 +3820,16 @@
             "tipo_medida": "Plenario/Asamblea",
             "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-06",
+            "horario": "00:00",
+            "lugar": "Ferrocarril Mitre (líneas Retiro-Tucumán, Retiro-Córdoba, Retiro-Capilla del Señor, Retiro-Zárate, Retiro-José León Suárez, Retiro-Bartolomé Mitre, Retiro-Victoria, Retiro-Tigre)",
+            "quien": "Sindicato La Fraternidad",
+            "tipo_medida": "Paro ferroviario con corte total de servicios",
+            "motivo": "Protesta contra la cancelación de servicios de larga distancia a Córdoba y Tucumán, denunciando que el gobierno usa reparaciones como excusa para privatizar y eliminar servicios públicos accesibles",
+            "fuente": "https://motoreconomico.com.ar/el-gobierno-rompe-al-estado-la-fraternidad-podria-ir-a-paro-en-la-linea-mitre-por-la-suspension-del-servicio-de-larga-distancia-a-tucuman-y-cordoba/"
         },
         {
             "es_evento_relevante": true,
