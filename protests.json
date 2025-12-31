@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-31T08:21:12.800116-03:00",
+    "last_updated": "2025-12-31T09:39:15.857082-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3875,21 +3875,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "10:00",
-            "lugar": "No especificado",
-            "quien": "CGT, CTA Autónoma y CTA de los Trabajadores",
-            "tipo_medida": "Marcha/Movilización",
-            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei y defensa de derechos laborales",
-            "fuente": "https://www.infobae.com/politica/2025/12/30/axel-kicillof-refuerza-su-alianza-con-la-cta-y-la-cgt-para-frenar-la-reforma-laboral-de-milei-y-coordinar-una-estrategia-en-el-congreso/, https://www.laizquierdadiario.com/El-Frente-de-Izquierda-reclamo-contra-la-amenaza-imperialista-de-Trump-en-Venezuela, https://prensaobrera.com/politicas/el-articulo-del-presupuesto-2026-que-premia-con-la-nuestra-a-los-responsables-de-los-cortes-de-luz, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "12:00",
             "lugar": "Centro de Plaza de Mayo, de espaldas a la Casa Rosada",
             "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al proyecto de reforma laboral y exigencia de participación en la discusión",
-            "fuente": "https://www.infobae.com/politica/2025/12/19/la-cgt-advirtio-que-podria-profundizar-las-protestas-si-el-gobierno-no-reabre-las-negociaciones-por-la-reforma-laboral/, https://www.anred.org/la-cgt-amenazo-con-un-paro-si-se-aprueba-el-proyecto-en-el-senado/, https://www.inforegion.com.ar/2025/12/18/en-la-plaza-de-mayo-la-cgt-advirtio-si-avanza-la-reforma-laboral-vamos-a-ir-al-paro/, https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/, https://motoreconomico.com.ar/hoy-marcha-masiva-contra-la-reforma-laboral-del-gobierno-la-cgt-ya-definio-los-detalles-de-la-protesta-escenario-oradores-seguridad-palco-y-el-debate-despues-que/, https://www.lagaceta.com.ar/nota/1116584/politica/gobierno-le-baja-tono-marcha-cgt-contra-reforma-laboral-busca-contrastar-sin-escalar-conflicto.html"
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de derechos sindicales y oposición a la criminalización de la protesta, tras la anulación del protocolo anti-piquetes",
+            "fuente": "https://estadodealerta.com.ar/no-hay-mas-protocolo-anti-piquete-la-cgt-destaco-el-fallo-de-del-juez-martin-cormick/, https://www.infobae.com/politica/2025/12/30/axel-kicillof-refuerza-su-alianza-con-la-cta-y-la-cgt-para-frenar-la-reforma-laboral-de-milei-y-coordinar-una-estrategia-en-el-congreso/, https://www.laizquierdadiario.com/El-Frente-de-Izquierda-reclamo-contra-la-amenaza-imperialista-de-Trump-en-Venezuela, https://prensaobrera.com/politicas/el-articulo-del-presupuesto-2026-que-premia-con-la-nuestra-a-los-responsables-de-los-cortes-de-luz, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html, https://www.infobae.com/politica/2025/12/19/la-cgt-advirtio-que-podria-profundizar-las-protestas-si-el-gobierno-no-reabre-las-negociaciones-por-la-reforma-laboral/, https://www.anred.org/la-cgt-amenazo-con-un-paro-si-se-aprueba-el-proyecto-en-el-senado/, https://www.inforegion.com.ar/2025/12/18/en-la-plaza-de-mayo-la-cgt-advirtio-si-avanza-la-reforma-laboral-vamos-a-ir-al-paro/, https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/, https://motoreconomico.com.ar/hoy-marcha-masiva-contra-la-reforma-laboral-del-gobierno-la-cgt-ya-definio-los-detalles-de-la-protesta-escenario-oradores-seguridad-palco-y-el-debate-despues-que/, https://www.lagaceta.com.ar/nota/1116584/politica/gobierno-le-baja-tono-marcha-cgt-contra-reforma-laboral-busca-contrastar-sin-escalar-conflicto.html"
         },
         {
             "es_evento_relevante": true,
