@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-31T19:23:42.132170-03:00",
+    "last_updated": "2025-12-31T20:26:16.710291-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3810,6 +3810,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Homenaje por los 21 años de la tragedia del boliche República de Cromañón",
             "fuente": "https://www.inforegion.com.ar/2025/12/29/a-21-anos-de-cromanon-familiares-y-sobrevivientes-realizaran-una-misa-y-una-marcha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2025-12-31",
+            "horario": "No especificado",
+            "lugar": "Plaza Murillo, La Paz",
+            "quien": "Central Obrera Boliviana (COB)",
+            "tipo_medida": "Paro",
+            "motivo": "Derogación del Decreto Supremo 5503",
+            "fuente": "https://prensaobrera.com/internacionales/bolivia-el-proletariado-minero-es-protagonista-de-la-huelga-general-contra-el-gasolinazo-de-paz"
         },
         {
             "es_evento_relevante": true,
