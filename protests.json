@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-01T01:52:31.423475-03:00",
+    "last_updated": "2026-01-01T02:32:36.474978-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3840,6 +3840,16 @@
             "tipo_medida": "Paro de 25 horas y movilización",
             "motivo": "Lucha por paritarias, rechazo a tope salarial de Milei, defensa de poder adquisitivo y contra reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/el-sutna-cerro-el-ano-luchando-por-el-salario"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "No especificado",
+            "lugar": "Ingenio Ledesma, Jujuy",
+            "quien": "Trabajadores opositores del SOEAIL",
+            "tipo_medida": "Asamblea de protesta",
+            "motivo": "Oposición a la expulsión de delegados y defensa de derechos laborales contra despidos",
+            "fuente": "https://www.laizquierdadiario.com/Vilca-La-policia-de-Jujuy-garantiza-la-asamblea-del-sindicato-azucarero-para-expulsar-a-delegados"
         },
         {
             "es_evento_relevante": true,
