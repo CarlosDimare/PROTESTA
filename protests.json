@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-12-31T22:28:42.136219-03:00",
+    "last_updated": "2026-01-01T00:54:23.388128-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3830,6 +3830,16 @@
             "tipo_medida": "Plenario/Asamblea",
             "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "00:00",
+            "lugar": "Ministerio de Trabajo (Buenos Aires) y planta de Fate (San Fernando)",
+            "quien": "Sutna (Sindicato Único de Trabajadores del Neumático)",
+            "tipo_medida": "Paro de 25 horas y movilización",
+            "motivo": "Lucha por paritarias, rechazo a tope salarial de Milei, defensa de poder adquisitivo y contra reforma laboral",
+            "fuente": "https://prensaobrera.com/sindicales/el-sutna-cerro-el-ano-luchando-por-el-salario"
         },
         {
             "es_evento_relevante": true,
