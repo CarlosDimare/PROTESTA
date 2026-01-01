@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-01T17:25:54.279160-03:00",
+    "last_updated": "2026-01-01T18:23:16.309401-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3830,6 +3830,16 @@
             "tipo_medida": "Plenario/Asamblea",
             "motivo": "Definir plan de acción y demandas salariales tras falta de respuestas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-reforzo-su-campana-por-una-paritaria-sectorial-y-protagonizo-una-asamblea-en-misiones-202511710160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-01",
+            "horario": "13:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de derechos de protesta y contra el protocolo antipiquetes",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-celebro-el-fallo-que-suspendio-el-protocolo-antipiquetes-de-bullrich-y-aviso-que-seguira-defendiendo-la-protesta-social-202512301570, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
