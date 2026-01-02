@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T00:33:19.983026-03:00",
+    "last_updated": "2026-01-02T01:42:00.753891-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3860,6 +3860,16 @@
             "tipo_medida": "Asamblea de protesta",
             "motivo": "Oposición a la expulsión de delegados y defensa de derechos laborales contra despidos",
             "fuente": "https://www.laizquierdadiario.com/Vilca-La-policia-de-Jujuy-garantiza-la-asamblea-del-sindicato-azucarero-para-expulsar-a-delegados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-03",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT - Sector Duro",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral de Milei y presión para su fracaso legislativo",
+            "fuente": "https://www.infobae.com/politica/2026/01/02/el-avance-de-la-reforma-laboral-amenaza-con-recrear-en-la-cgt-el-enfrentamiento-entre-los-dialoguistas-y-el-ala-dura/"
         },
         {
             "es_evento_relevante": true,
