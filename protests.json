@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T12:23:47.675312-03:00",
+    "last_updated": "2026-01-02T13:26:21.197443-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3850,6 +3850,16 @@
             "tipo_medida": "Paro de 25 horas y movilización",
             "motivo": "Lucha por paritarias, rechazo a tope salarial de Milei, defensa de poder adquisitivo y contra reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/el-sutna-cerro-el-ano-luchando-por-el-salario"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "17:00",
+            "lugar": "Hipólito Yrigoyen 1439, Ciudad de Buenos Aires (sede pensiones de la Agencia Nacional de Discapacidad)",
+            "quien": "Asamblea Discas en Lucha",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio al anuncio de cierre de la Agencia Nacional de Discapacidad (ANDis) y contra el vaciamiento del organismo",
+            "fuente": "https://www.laizquierdadiario.com/Convocan-a-una-concentracion-en-repudio-al-intento-de-cierre-de-la-ANDis"
         },
         {
             "es_evento_relevante": true,
