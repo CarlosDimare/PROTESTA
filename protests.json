@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T03:34:09.787948-03:00",
+    "last_updated": "2026-01-02T04:28:25.331500-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3850,6 +3850,16 @@
             "tipo_medida": "Paro de 25 horas y movilización",
             "motivo": "Lucha por paritarias, rechazo a tope salarial de Milei, defensa de poder adquisitivo y contra reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/el-sutna-cerro-el-ano-luchando-por-el-salario"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "No especificado",
+            "lugar": "La Matanza",
+            "quien": "Movimiento Derecho al Futuro (MDF) con apoyo de CTA y CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Construcción de proyecto político nacional y popular en apoyo a Axel Kicillof",
+            "fuente": "https://www.infobae.com/politica/2026/01/02/kicillof-afronta-un-ano-clave-para-su-proyecto-presidencial-control-del-pj-bonaerense-y-apoyo-sindical/"
         },
         {
             "es_evento_relevante": true,
