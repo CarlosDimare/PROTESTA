@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T18:18:47.628867-03:00",
+    "last_updated": "2026-01-02T19:23:50.364400-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3925,21 +3925,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-10",
             "horario": "10:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "PTS-Frente de Izquierda y MAC (con apoyo de sindicatos antiburocráticos y bases)",
-            "tipo_medida": "Paro y Movilización",
-            "motivo": "Contra la reforma laboral que precariza derechos y reduce conquistas históricas",
-            "fuente": "https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
+            "lugar": "Congreso Nacional",
+            "quien": "PTS-Frente de Izquierda y MAC",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Contra la reforma laboral esclavista",
+            "fuente": "https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-10",
             "horario": "10:00",
-            "lugar": "Congreso Nacional",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Resistencia a la reforma laboral",
-            "fuente": "https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "PTS-Frente de Izquierda y MAC (con apoyo de sindicatos antiburocráticos y bases)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Contra la reforma laboral que precariza derechos y reduce conquistas históricas",
+            "fuente": "https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
