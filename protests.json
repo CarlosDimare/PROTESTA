@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T16:19:06.228690-03:00",
+    "last_updated": "2026-01-02T17:24:30.026132-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3860,6 +3860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio al anuncio de cierre de la Agencia Nacional de Discapacidad (ANDis) y contra el vaciamiento del organismo",
             "fuente": "https://www.laizquierdadiario.com/Convocan-a-una-concentracion-en-repudio-al-intento-de-cierre-de-la-ANDis"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Movilización",
+            "motivo": "En defensa de las libertades democráticas y para anular el DNU 941/25",
+            "fuente": "https://www.laizquierdadiario.com/Tras-el-masivo-repudio-el-Gobierno-y-sus-trolls-defienden-el-decreto-que-le-da-mas-poder-a-la-SIDE"
         },
         {
             "es_evento_relevante": true,
