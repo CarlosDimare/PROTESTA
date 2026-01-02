@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T02:27:52.792786-03:00",
+    "last_updated": "2026-01-02T03:34:09.787948-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3850,6 +3850,16 @@
             "tipo_medida": "Paro de 25 horas y movilización",
             "motivo": "Lucha por paritarias, rechazo a tope salarial de Milei, defensa de poder adquisitivo y contra reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/el-sutna-cerro-el-ano-luchando-por-el-salario"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-02",
+            "horario": "No especificado",
+            "lugar": "Tribunales Federales de Comodoro Py",
+            "quien": "Frente de Izquierda de Trabajadores (FIT) y fuerzas solidarias",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la causa judicial contra Vanina Biasi y defensa de la libertad de expresión al denunciar el genocidio palestino",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/banalizan-el-antisemitismo-llevan-a-juicio-a-vanina-biasi-por-condenar-el-genocidio-del-pueblo-palestino"
         },
         {
             "es_evento_relevante": true,
