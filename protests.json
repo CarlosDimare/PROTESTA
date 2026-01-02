@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-02T15:28:38.236091-03:00",
+    "last_updated": "2026-01-02T16:19:06.228690-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3940,6 +3940,16 @@
             "tipo_medida": "Paro y Movilización",
             "motivo": "Rechazo a la Reforma Laboral que aboliría el Estatuto del Periodista y derechos adquiridos, y defensa de la Libertad de Expresión",
             "fuente": "https://elciudadanoweb.com/reforma-laboral-el-sindicato-de-prensa-rosario-declaro-el-estado-de-alerta-y-movilizacion-permanente/, https://www.eldestapeweb.com/sociedad/reforma-laboral/a-que-hora-es-la-marcha-de-la-cgt-y-paro-nacional-de-ate-contra-la-reforma-laboral-del-jueves-18-de-diciembre-2025-20251217204718"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-01",
+            "horario": "No especificado.",
+            "lugar": "Unidad 6 de Rawson (cárcel)",
+            "quien": "Pablo Colhuan Nahuel (lonko mapuche)",
+            "tipo_medida": "Huelga seca",
+            "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
+            "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
         },
         {
             "es_evento_relevante": true,
