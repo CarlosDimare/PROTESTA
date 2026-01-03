@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03T13:24:30.905136-03:00",
+    "last_updated": "2026-01-03T14:20:40.918982-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3915,11 +3915,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-03",
             "horario": "15:00",
+            "lugar": "Frente a la Embajada de Estados Unidos",
+            "quien": "Movimientos sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la intervención militar de EE.UU. en Venezuela y secuestro de Maduro",
+            "fuente": "https://prensaobrera.com/internacionales/abajo-la-agresion-norteamericana-contra-venezuela"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-03",
+            "horario": "15:00",
             "lugar": "Embajada de Estados Unidos en Buenos Aires",
-            "quien": "Frente de Izquierda Unidad",
-            "tipo_medida": "Concentración",
-            "motivo": "Repudio a intervención militar imperialista contra Venezuela y alineamiento de Milei",
-            "fuente": "https://prensaobrera.com/internacionales/repudio-a-la-agresion-imperialista-a-venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
+            "quien": "Frente de Izquierda y de Trabajadores Unidad (FITU) - PTS, PO, IS, MST",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a ataques militares e intervención de EE.UU. en Venezuela y solidaridad con el pueblo venezolano",
+            "fuente": "https://www.laizquierdadiario.com/Repudio-a-la-agresion-imperialista-a-Venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://prensaobrera.com/internacionales/repudio-a-la-agresion-imperialista-a-venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
         },
         {
             "es_evento_relevante": true,
