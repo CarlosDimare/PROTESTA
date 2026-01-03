@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03T11:20:13.205008-03:00",
+    "last_updated": "2026-01-03T12:20:19.082661-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3910,6 +3910,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a la reforma laboral de Milei y presión para su fracaso legislativo",
             "fuente": "https://www.infobae.com/politica/2026/01/02/el-avance-de-la-reforma-laboral-amenaza-con-recrear-en-la-cgt-el-enfrentamiento-entre-los-dialoguistas-y-el-ala-dura/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-03",
+            "horario": "15:00",
+            "lugar": "Plaza Italia (punto de concentración)",
+            "quien": "Frente de Izquierda Unidad (FITU)",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a bombardeos de Estados Unidos a Venezuela, desde una perspectiva antiimperialista y anticapitalista",
+            "fuente": "https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
         },
         {
             "es_evento_relevante": true,
