@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03T12:20:19.082661-03:00",
+    "last_updated": "2026-01-03T13:24:30.905136-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3915,11 +3915,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-03",
             "horario": "15:00",
-            "lugar": "Plaza Italia (punto de concentración)",
-            "quien": "Frente de Izquierda Unidad (FITU)",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio a bombardeos de Estados Unidos a Venezuela, desde una perspectiva antiimperialista y anticapitalista",
-            "fuente": "https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
+            "lugar": "Embajada de Estados Unidos en Buenos Aires",
+            "quien": "Frente de Izquierda Unidad",
+            "tipo_medida": "Concentración",
+            "motivo": "Repudio a intervención militar imperialista contra Venezuela y alineamiento de Milei",
+            "fuente": "https://prensaobrera.com/internacionales/repudio-a-la-agresion-imperialista-a-venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
         },
         {
             "es_evento_relevante": true,
