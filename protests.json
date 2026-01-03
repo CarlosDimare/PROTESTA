@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-03T15:28:19.270388-03:00",
+    "last_updated": "2026-01-03T16:18:53.200418-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3915,11 +3915,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-03",
             "horario": "15:00",
-            "lugar": "Frente a la Embajada de Estados Unidos",
-            "quien": "Movimientos sociales",
+            "lugar": "No especificado",
+            "quien": "La clase obrera",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la intervención militar de EE.UU. en Venezuela y secuestro de Maduro",
-            "fuente": "https://prensaobrera.com/internacionales/abajo-la-agresion-norteamericana-contra-venezuela"
+            "motivo": "Respuesta contra la reforma laboral antiobrera y los recortes salariales",
+            "fuente": "https://prensaobrera.com/politicas/milei-le-aumenta-el-90-del-salario-a-los-funcionarios-del-ajuste, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-03",
+            "horario": "15:00",
+            "lugar": "Embajada de Estados Unidos (CABA)",
+            "quien": "Frente de Izquierda Unidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la agresión militar de EE.UU. contra Venezuela y captura de Maduro",
+            "fuente": "https://www.laizquierdadiario.com/Golpe-imperialista-tras-los-ataques-y-el-secuestro-de-Maduro-Trump-dijo-Vamos-a-gobernar-Venezuela, https://prensaobrera.com/internacionales/abajo-la-agresion-norteamericana-contra-venezuela"
         },
         {
             "es_evento_relevante": true,
