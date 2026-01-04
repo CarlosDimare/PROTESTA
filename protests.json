@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-04T19:20:26.702714-03:00",
+    "last_updated": "2026-01-04T20:20:51.412971-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3950,6 +3950,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a ataques militares e intervención de EE.UU. en Venezuela y solidaridad con el pueblo venezolano",
             "fuente": "https://www.laizquierdadiario.com/Repudio-a-la-agresion-imperialista-a-Venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://prensaobrera.com/internacionales/repudio-a-la-agresion-imperialista-a-venezuela-y-llamado-a-la-mas-amplia-movilizacion, https://www.laizquierdadiario.com/CABA-todos-y-todas-a-la-Embajada-de-EEUU-en-repudio-a-la-agresion-imperialista-contra-Venezuela"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-04",
+            "horario": "19:00",
+            "lugar": "Peatonal Belgrano, San Salvador de Jujuy",
+            "quien": "Organizaciones autoconvocadas (artistas, sectores sociales, DDHH, FITU)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la intervención militar de EE.UU. en Venezuela y solidaridad con el pueblo venezolano",
+            "fuente": "https://www.laizquierdadiario.com/Jujuy-radio-abierta-contra-el-ataque-imperialista-a-Venezuela"
         },
         {
             "es_evento_relevante": true,
