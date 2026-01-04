@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-04T00:52:33.108112-03:00",
+    "last_updated": "2026-01-04T01:50:08.903368-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4036,10 +4036,10 @@
             "fecha": "No especificado",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Mesa Sindical (integrada por más de 50 organizaciones gremiales)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral y en rechazo a aumentos en servicios públicos, combustibles, energía, alquileres y salud, denunciando inflación ficticia y recorte de subsidios",
-            "fuente": "https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales"
+            "quien": "CLATE",
+            "tipo_medida": "Movilización",
+            "motivo": "Condenar el ataque militar de EE.UU. a Venezuela y exigir respeto a la soberanía y al derecho internacional, en solidaridad con el pueblo venezolano",
+            "fuente": "https://www.datagremial.com/informacion-general/la-clate-condeno-la-invasion-de-estados-unidos-contra-venezuela-y-llamo-a-la-movilizacion-regional-20261318430, https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales"
         },
         {
             "es_evento_relevante": true,
