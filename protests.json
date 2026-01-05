@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05T10:43:12.781177-03:00",
+    "last_updated": "2026-01-05T11:26:40.674679-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3964,6 +3964,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-01-05",
+            "horario": "17:00",
+            "lugar": "Frente a la embajada de Estados Unidos en Buenos Aires",
+            "quien": "40 organizaciones políticas, sociales y gremiales",
+            "tipo_medida": "Concentración",
+            "motivo": "Repudio a la invasión militar estadounidense a Venezuela y apoyo al gobierno de Nicolás Maduro",
+            "fuente": "https://prensaobrera.com/internacionales/importante-repudio-internacional-al-golpe-de-trump-en-venezuela"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-05",
             "horario": "No especificado",
             "lugar": "Sede del Sindicato de Obreros y Empleados del Azúcar del Ingenio Ledesma (Soeail), Jujuy",
             "quien": "Delegados opositores y trabajadores de la resistencia obrera del Soeail",
@@ -3980,6 +3990,16 @@
             "tipo_medida": "Paro ferroviario con corte total de servicios",
             "motivo": "Protesta contra la cancelación de servicios de larga distancia a Córdoba y Tucumán, denunciando que el gobierno usa reparaciones como excusa para privatizar y eliminar servicios públicos accesibles",
             "fuente": "https://motoreconomico.com.ar/el-gobierno-rompe-al-estado-la-fraternidad-podria-ir-a-paro-en-la-linea-mitre-por-la-suspension-del-servicio-de-larga-distancia-a-tucuman-y-cordoba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-16",
+            "horario": "15:00",
+            "lugar": "ATE Sur",
+            "quien": "Trabajadores de ATE Sur y sectores aliados",
+            "tipo_medida": "Movilización",
+            "motivo": "Coordinación de acciones contra la precarización laboral y la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Hospital-Gandulfo-reincorporan-a-una-delegada-y-continuan-los-reclamos-contra-los-despidos, https://www.clarin.com/politica/cgt-marcha-plaza-mayo-reforma-laboral-mapa-cortes-horarios-gremios-movilizan_0_jpcmE0aIBL.html"
         },
         {
             "es_evento_relevante": true,
