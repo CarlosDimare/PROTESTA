@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05T17:25:55.055838-03:00",
+    "last_updated": "2026-01-05T18:22:16.298647-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3966,10 +3966,10 @@
             "fecha": "2026-01-05",
             "horario": "17:00",
             "lugar": "Embajada de Estados Unidos en Palermo, Buenos Aires",
-            "quien": "Frente de Izquierda Unidad (FIT-U) y organizaciones políticas, sindicales y sociales aliadas",
+            "quien": "Frente de Izquierda Unidad y amplio arco de organizaciones políticas, sindicales y sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Repudio a la agresión del gobierno de Donald Trump contra Venezuela y demanda de liberación de Nicolás Maduro",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-a-la-Embajada-de-Estados-Unidos-contra-el-ataque-militar-a-Venezuela, https://prensaobrera.com/internacionales/importante-repudio-internacional-al-golpe-de-trump-en-venezuela"
+            "motivo": "Repudio a la agresión del gobierno de Donald Trump contra Venezuela y exigencia de liberación de Nicolás Maduro",
+            "fuente": "https://www.laizquierdadiario.com/Importante-marcha-a-la-Embajada-de-Estados-Unidos-contra-el-ataque-militar-a-Venezuela, https://www.laizquierdadiario.com/Marcha-a-la-Embajada-de-Estados-Unidos-contra-el-ataque-militar-a-Venezuela, https://prensaobrera.com/internacionales/importante-repudio-internacional-al-golpe-de-trump-en-venezuela"
         },
         {
             "es_evento_relevante": true,
