@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05T14:23:55.844375-03:00",
+    "last_updated": "2026-01-05T15:31:27.724893-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3990,6 +3990,16 @@
             "tipo_medida": "Paro ferroviario con corte total de servicios",
             "motivo": "Protesta contra la cancelación de servicios de larga distancia a Córdoba y Tucumán, denunciando que el gobierno usa reparaciones como excusa para privatizar y eliminar servicios públicos accesibles",
             "fuente": "https://motoreconomico.com.ar/el-gobierno-rompe-al-estado-la-fraternidad-podria-ir-a-paro-en-la-linea-mitre-por-la-suspension-del-servicio-de-larga-distancia-a-tucuman-y-cordoba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "No especificado",
+            "lugar": "Casa de Gobierno de Santa Fe",
+            "quien": "Federación de Sindicatos de Trabajadores Municipales de Santa Fe (Festram)",
+            "tipo_medida": "Paro Total con movilizaciones y cortes de ruta",
+            "motivo": "Rechazo a la oferta salarial por insuficiencia y falta de convocatoria a paritarias por más de 60 días",
+            "fuente": "https://elciudadanoweb.com/festram-lanza-un-plan-de-lucha-con-paro-total-de-48-horas-esta-semana-y-la-proxima/"
         },
         {
             "es_evento_relevante": true,
