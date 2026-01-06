@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-05T20:21:30.006969-03:00",
+    "last_updated": "2026-01-05T22:19:43.723725-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -3965,6 +3965,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-05",
             "horario": "17:00",
+            "lugar": "Plaza Italia, Ciudad Autónoma de Buenos Aires",
+            "quien": "CTA Autónoma y organizaciones sociales, sindicales, políticas, estudiantiles y de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la agresión militar de Estados Unidos contra Venezuela y exigencia de liberación del presidente Nicolás Maduro",
+            "fuente": "https://motoreconomico.com.ar/las-cta-convocaron-a-la-manifestacion-de-este-martes-en-repudio-a-la-agresion-de-estados-unidos-contra-venezuela/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-05",
+            "horario": "17:00",
             "lugar": "Embajada de Estados Unidos en Palermo, Buenos Aires",
             "quien": "Frente de Izquierda Unidad y amplio arco de organizaciones políticas, sindicales y sociales",
             "tipo_medida": "Marcha",
@@ -3990,6 +4000,16 @@
             "tipo_medida": "Paro ferroviario con corte total de servicios",
             "motivo": "Protesta contra la cancelación de servicios de larga distancia a Córdoba y Tucumán, denunciando que el gobierno usa reparaciones como excusa para privatizar y eliminar servicios públicos accesibles",
             "fuente": "https://motoreconomico.com.ar/el-gobierno-rompe-al-estado-la-fraternidad-podria-ir-a-paro-en-la-linea-mitre-por-la-suspension-del-servicio-de-larga-distancia-a-tucuman-y-cordoba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-06",
+            "horario": "17:00",
+            "lugar": "Plaza Italia, barrio de Palermo, Buenos Aires",
+            "quien": "Asociación de Trabajadores del Estado (ATE), Frente de Izquierda y Trabajadores (FIT) y CTA Autónoma",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la intervención de Estados Unidos en Venezuela y exigencia de liberación de Maduro",
+            "fuente": "https://elciudadanoweb.com/fuera-estados-unidos-de-america-latina-ate-el-frente-de-izquierda-y-las-dos-cta-marcharon-por-venezuela/, https://www.anroca.com.ar/noticias/2026/01/05/195433-ate-convoco-a-marchar-este-lunes-contra-la-intervencion-de-estados-unidos-en-venezuela"
         },
         {
             "es_evento_relevante": true,
