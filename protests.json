@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-06T13:25:11.845006-03:00",
+    "last_updated": "2026-01-06T14:24:36.382382-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4020,6 +4020,16 @@
             "tipo_medida": "Paro Total con movilizaciones y cortes de ruta",
             "motivo": "Rechazo a la oferta salarial por insuficiencia y falta de convocatoria a paritarias por más de 60 días",
             "fuente": "https://elciudadanoweb.com/festram-lanza-un-plan-de-lucha-con-paro-total-de-48-horas-esta-semana-y-la-proxima/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-09",
+            "horario": "17:30",
+            "lugar": "Avenida Corrientes 6847, Ciudad de Buenos Aires",
+            "quien": "Trabajadores de Farmacias del Dr. Ahorro",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de despidos, incumplimientos laborales (no pago de aguinaldo, vacaciones) y vaciamiento de la empresa; exigencia de respuestas patronales",
+            "fuente": "https://motoreconomico.com.ar/los-despidos-no-paran-en-argentina-ya-van-90-trabajadores-despedidos-de-farmacias-del-dr-ahorro-falta-de-pagos-y-convocan-a-otra-movilizacion/"
         },
         {
             "es_evento_relevante": true,
