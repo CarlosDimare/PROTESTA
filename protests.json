@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07T16:21:24.503298-03:00",
+    "last_updated": "2026-01-07T17:25:23.258732-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4030,6 +4030,16 @@
             "tipo_medida": "Paro y Concentración",
             "motivo": "Reinstalación de 65 trabajadores despedidos por decisión unilateral de la empresa",
             "fuente": "https://www.laizquierdadiario.com/Quilmes-Paro-total-en-Sealed-Air-contra-la-ofensiva-patronal-y-los-despidos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-07",
+            "horario": "08:00",
+            "lugar": "Frente a los portones de la fábrica Sealed Air en Quilmes",
+            "quien": "Trabajadores de Sealed Air (comisión interna del gremio petroquímico)",
+            "tipo_medida": "Paro por tiempo indeterminado y presencia (acampe/piquete)",
+            "motivo": "Reincorporación de los 65 despedidos y oposición a la reforma laboral que flexibiliza condiciones laborales",
+            "fuente": "https://prensaobrera.com/sindicales/paro-por-tiempo-indeterminado-en-petroquimica-sealed-air-quilmes"
         },
         {
             "es_evento_relevante": true,
