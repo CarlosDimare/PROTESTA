@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-07T12:24:02.029314-03:00",
+    "last_updated": "2026-01-07T13:27:56.869895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4020,6 +4020,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por condiciones laborales, falta de personal, aumento de tarifas para turistas no europeos y problemas estructurales del edificio.",
             "fuente": "https://elciudadanoweb.com/de-paro-las-y-los-trabajadores-del-museo-del-louvre-retomaron-la-huelga-y-las-puertas-se-abriran-solo-de-forma-parcial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-07",
+            "horario": "00:00",
+            "lugar": "Puerta de la planta Sealed Air en Quilmes",
+            "quien": "Trabajadores de Sealed Air",
+            "tipo_medida": "Paro y Concentración",
+            "motivo": "Reinstalación de 65 trabajadores despedidos por decisión unilateral de la empresa",
+            "fuente": "https://www.laizquierdadiario.com/Quilmes-Paro-total-en-Sealed-Air-contra-la-ofensiva-patronal-y-los-despidos"
         },
         {
             "es_evento_relevante": true,
