@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T16:16:47.396570-03:00",
+    "last_updated": "2026-01-08T17:20:06.560423-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4050,6 +4050,16 @@
             "tipo_medida": "Bloqueo general de carreteras",
             "motivo": "Derogación del DS 5503 (decreto de medidas económicas) y rechazo a políticas anti-populares del gobierno",
             "fuente": "https://prensaobrera.com/internacionales/bolivia-se-profundiza-la-resistencia-obrera-y-popular"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "17:00",
+            "lugar": "Minneapolis y otras ciudades de Estados Unidos",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Movilización",
+            "motivo": "Justicia por Renee Nicole Good y fin de operaciones antiinmigratorias de ICE",
+            "fuente": "https://www.laizquierdadiario.com/Movilizaciones-en-repudio-al-asesinato-de-una-mujer-por-un-agente-de-ICE, https://eltiempolatino.com/2026/01/08/locales/dc-protesta-tras-el-tiroteo-fatal-de-ice-que-mato-a-una-mujer-en-minneapolis/"
         },
         {
             "es_evento_relevante": true,
