@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T07:20:43.404873-03:00",
+    "last_updated": "2026-01-08T08:18:54.450188-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4080,6 +4080,16 @@
             "tipo_medida": "Paro Total con movilizaciones y cortes de ruta",
             "motivo": "Rechazo a la oferta salarial por insuficiencia y falta de convocatoria a paritarias por más de 60 días",
             "fuente": "https://elciudadanoweb.com/festram-lanza-un-plan-de-lucha-con-paro-total-de-48-horas-esta-semana-y-la-proxima/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-09",
+            "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "Frente de Izquierda Unidad (PTS y Corriente Revolución Permanente)",
+            "tipo_medida": "Paro continental",
+            "motivo": "Rechazo a la injerencia estadounidense en Venezuela y solidaridad antiimperialista",
+            "fuente": "https://www.laizquierdadiario.com/Es-necesario-que-toda-la-region-se-levante-y-frenar-la-avanzada-de-Trump-con-un-paro-de-todo-el"
         },
         {
             "es_evento_relevante": true,
