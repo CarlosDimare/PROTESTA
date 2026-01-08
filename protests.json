@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T05:26:44.352967-03:00",
+    "last_updated": "2026-01-08T06:25:43.651876-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4040,6 +4040,16 @@
             "tipo_medida": "Paro por tiempo indeterminado y presencia (acampe/piquete)",
             "motivo": "Reincorporación de los 65 despedidos y oposición a la reforma laboral que flexibiliza condiciones laborales",
             "fuente": "https://prensaobrera.com/sindicales/paro-por-tiempo-indeterminado-en-petroquimica-sealed-air-quilmes"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "00:00",
+            "lugar": "Vías nacionales de Bolivia",
+            "quien": "Central Obrera Boliviana (COB) con sectores campesinos, mineros y docentes",
+            "tipo_medida": "Bloqueo general de carreteras",
+            "motivo": "Derogación del DS 5503 (decreto de medidas económicas) y rechazo a políticas anti-populares del gobierno",
+            "fuente": "https://prensaobrera.com/internacionales/bolivia-se-profundiza-la-resistencia-obrera-y-popular"
         },
         {
             "es_evento_relevante": true,
