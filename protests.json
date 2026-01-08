@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T03:30:35.646532-03:00",
+    "last_updated": "2026-01-08T04:25:44.504191-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4040,6 +4040,26 @@
             "tipo_medida": "Paro por tiempo indeterminado y presencia (acampe/piquete)",
             "motivo": "Reincorporación de los 65 despedidos y oposición a la reforma laboral que flexibiliza condiciones laborales",
             "fuente": "https://prensaobrera.com/sindicales/paro-por-tiempo-indeterminado-en-petroquimica-sealed-air-quilmes"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Izquierda y de Trabajadores (FIT-U) y colectivos solidarios",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la persecución judicial contra Vanina Biasi por críticas al Estado de Israel y defensa de la libertad de expresión",
+            "fuente": "https://prensaobrera.com/politicas/importante-proyecto-en-el-congreso-contra-la-elevacion-a-juicio-a-vanina-biasi"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Gremios universitarios (Conadu, AGD UBA, Frente Sindical Universitario)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a recortes presupuestarios y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://estadodealerta.com.ar/milei-y-un-enfrentamiento-puramente-ideologico-con-la-universidad-mas-recortes-menos-salarios-y-riesgo-de-no-inicio-en-2026/"
         },
         {
             "es_evento_relevante": true,
