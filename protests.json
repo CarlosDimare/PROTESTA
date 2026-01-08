@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T11:22:09.562240-03:00",
+    "last_updated": "2026-01-08T12:22:13.888143-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4050,6 +4050,16 @@
             "tipo_medida": "Bloqueo general de carreteras",
             "motivo": "Derogación del DS 5503 (decreto de medidas económicas) y rechazo a políticas anti-populares del gobierno",
             "fuente": "https://prensaobrera.com/internacionales/bolivia-se-profundiza-la-resistencia-obrera-y-popular"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-08",
+            "horario": "No especificado",
+            "lugar": "Ruta Nacional N° 33, frente a la fábrica Vassalli, Firmat",
+            "quien": "Trabajadores de la fábrica Vassalli con apoyo de la Unión Obrera Metalúrgica (UOM) local",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por incumplimiento salarial, falta de respuestas empresariales y futuro incierto de la fábrica",
+            "fuente": "https://elciudadanoweb.com/crece-la-tension-en-vassalli-y-se-endurecen-las-protestas-si-no-hay-respuestas-el-conflicto-va-a-escalar/"
         },
         {
             "es_evento_relevante": true,
