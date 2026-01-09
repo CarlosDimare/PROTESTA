@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-09T06:24:45.443064-03:00",
+    "last_updated": "2026-01-09T07:20:06.590396-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4120,6 +4120,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de despidos, incumplimientos laborales (no pago de aguinaldo, vacaciones) y vaciamiento de la empresa; exigencia de respuestas patronales",
             "fuente": "https://motoreconomico.com.ar/los-despidos-no-paran-en-argentina-ya-van-90-trabajadores-despedidos-de-farmacias-del-dr-ahorro-falta-de-pagos-y-convocan-a-otra-movilizacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-09",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Pan y Rosas",
+            "tipo_medida": "Paro continental",
+            "motivo": "Respuesta antiimperialista contra la agresión de Estados Unidos a Venezuela y defensa de la soberanía latinoamericana",
+            "fuente": "https://www.laizquierdadiario.com/Fuera-el-imperialismo-yanqui-de-Venezuela-Por-la-movilizacion-internacional-de-los-feminismos"
         },
         {
             "es_evento_relevante": true,
