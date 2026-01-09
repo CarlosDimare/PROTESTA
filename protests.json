@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-08T20:16:34.214180-03:00",
+    "last_updated": "2026-01-08T22:16:22.858619-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4120,6 +4120,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de despidos, incumplimientos laborales (no pago de aguinaldo, vacaciones) y vaciamiento de la empresa; exigencia de respuestas patronales",
             "fuente": "https://motoreconomico.com.ar/los-despidos-no-paran-en-argentina-ya-van-90-trabajadores-despedidos-de-farmacias-del-dr-ahorro-falta-de-pagos-y-convocan-a-otra-movilizacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-10",
+            "horario": "10:00",
+            "lugar": "Casa de Gobierno de la provincia de Buenos Aires, La Plata",
+            "quien": "Asamblea Popular por la Soberanía de Puerto Quequén (APSPQ)",
+            "tipo_medida": "Movilización",
+            "motivo": "Recuperar la soberanía del Puerto Quequén de manos privadas para que la Provincia lo gestione en beneficio del pueblo y productores.",
+            "fuente": "https://motoreconomico.com.ar/sabado-se-marchabicicleteada-por-la-soberania-desde-la-plata-al-puerto-de-quequen/"
         },
         {
             "es_evento_relevante": true,
