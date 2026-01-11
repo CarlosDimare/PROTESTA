@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-11T07:17:30.870145-03:00",
+    "last_updated": "2026-01-11T08:14:58.636489-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4140,6 +4140,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperar la soberanía del Puerto Quequén de manos privadas para que la Provincia lo gestione en beneficio del pueblo y productores.",
             "fuente": "https://motoreconomico.com.ar/sabado-se-marchabicicleteada-por-la-soberania-desde-la-plata-al-puerto-de-quequen/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-12",
+            "horario": "No especificado",
+            "lugar": "Hospital Doctor Guillermo Rawson, San Juan",
+            "quien": "Unión del Personal de Seguridad de la República Argentina (UPSRA) - Delegación San Juan",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por reincorporación de 130 vigiladores despedidos, respeto de antigüedad y pago de indemnizaciones completas tras cambio de empresa de seguridad",
+            "fuente": "https://www.datagremial.com/informacion-general/san-juan-upsra-en-estado-de-alerta-y-movilizacion-desde-el-inicio-del-conflicto-por-el-despido-de-130-vigiladores-en-el-hospital-rawson-202611013460"
         },
         {
             "es_evento_relevante": true,
