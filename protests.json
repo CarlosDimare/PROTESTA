@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-12T10:40:04.603311-03:00",
+    "last_updated": "2026-01-12T11:22:23.659716-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4140,6 +4140,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperar la soberanía del Puerto Quequén de manos privadas para que la Provincia lo gestione en beneficio del pueblo y productores.",
             "fuente": "https://motoreconomico.com.ar/sabado-se-marchabicicleteada-por-la-soberania-desde-la-plata-al-puerto-de-quequen/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-12",
+            "horario": "06:00",
+            "lugar": "Puente sobre el río Curruhué, ruta a San Martín de los Andes, Junín de los Andes",
+            "quien": "Trabajadoras municipales de Junín de los Andes (mayoría mujeres)",
+            "tipo_medida": "Corte de ruta",
+            "motivo": "Exigir aumento salarial y denunciar precarización laboral y salarial",
+            "fuente": "https://www.laizquierdadiario.com/Corte-de-ruta-en-Junin-de-los-Andes-trabajadoras-precarizadas-reclaman-aumento-salarial"
         },
         {
             "es_evento_relevante": true,
