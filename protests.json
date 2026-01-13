@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-13T08:19:27.016124-03:00",
+    "last_updated": "2026-01-13T09:38:10.171104-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4163,6 +4163,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-01-13",
+            "horario": "14:00",
+            "lugar": "Casa de Gobierno de la Provincia de Buenos Aires",
+            "quien": "UPCBA (Unión del Personal Civil de la Nación, Seccional Provincia de Buenos Aires)",
+            "tipo_medida": "Reunión Paritaria",
+            "motivo": "Reapertura de negociaciones salariales 2025 y reclamo por ajuste por inflación",
+            "fuente": "https://www.datagremial.com/paritarias/estatales-tras-el-reclamo-de-upcnba-el-gobierno-bonaerense-convoco-a-paritarias-20261121880"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-01-16",
             "horario": "15:00",
             "lugar": "ATE Sur",
@@ -4190,6 +4200,16 @@
             "tipo_medida": "Paro y Movilización",
             "motivo": "Contra la reforma laboral que precariza derechos y reduce conquistas históricas",
             "fuente": "https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "13:00",
+            "lugar": "No especificado",
+            "quien": "CGT y CTAs",
+            "tipo_medida": "Paro Nacional con Movilización",
+            "motivo": "Contra la reforma laboral y en defensa de los puestos de trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
