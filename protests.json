@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-13T13:26:30.939224-03:00",
+    "last_updated": "2026-01-13T14:24:58.287144-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4160,6 +4160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por reincorporación de 130 vigiladores despedidos, respeto de antigüedad y pago de indemnizaciones completas tras cambio de empresa de seguridad",
             "fuente": "https://www.datagremial.com/informacion-general/san-juan-upsra-en-estado-de-alerta-y-movilizacion-desde-el-inicio-del-conflicto-por-el-despido-de-130-vigiladores-en-el-hospital-rawson-202611013460"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-13",
+            "horario": "00:00",
+            "lugar": "Fábrica Lustramax, Parque Industrial Tortuguitas",
+            "quien": "Trabajadores de Lustramax (Sindicato de Comercio)",
+            "tipo_medida": "Acampe y Corte",
+            "motivo": "Despidos ilegales y adeudos de obra social/aguinaldo",
+            "fuente": "https://prensaobrera.com/sindicales/trabajadores-de-lustramax-rechazan-mas-de-60-despidos-con-permanencia-en-la-planta"
         },
         {
             "es_evento_relevante": true,
