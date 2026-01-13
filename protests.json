@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-13T19:19:34.308826-03:00",
+    "last_updated": "2026-01-13T20:19:11.346795-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4180,6 +4180,16 @@
             "tipo_medida": "Reunión Paritaria",
             "motivo": "Reapertura de negociaciones salariales 2025 y reclamo por ajuste por inflación",
             "fuente": "https://www.datagremial.com/paritarias/estatales-tras-el-reclamo-de-upcnba-el-gobierno-bonaerense-convoco-a-paritarias-20261121880"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "18:30",
+            "lugar": "Plataforma Zoom",
+            "quien": "Partido Obrero, Tribuna Ambiental, Apel",
+            "tipo_medida": "Movilización digital",
+            "motivo": "Debate y reagrupamiento contra la minería y la criminalización de la protesta ambiental",
+            "fuente": "https://prensaobrera.com/ambiente/charla-debate-sobre-la-mineria-en-argentina-la-lucha-ambiental-y-el-derecho-a-la-protesta"
         },
         {
             "es_evento_relevante": true,
