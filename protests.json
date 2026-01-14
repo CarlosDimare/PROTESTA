@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T12:23:22.211886-03:00",
+    "last_updated": "2026-01-14T13:25:22.598911-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4220,6 +4220,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Coordinación de acciones contra la precarización laboral y la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Hospital-Gandulfo-reincorporan-a-una-delegada-y-continuan-los-reclamos-contra-los-despidos, https://www.clarin.com/politica/cgt-marcha-plaza-mayo-reforma-laboral-mapa-cortes-horarios-gremios-movilizan_0_jpcmE0aIBL.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-20",
+            "horario": "14:00",
+            "lugar": "AMBA",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial ante falta de acuerdo en paritaria con empresas del transporte, disputa por subsidios y estructura de costos",
+            "fuente": "https://www.datagremial.com/paritarias/la-uta-califico-de-burla-la-nueva-oferta-empresarial-y-vuelve-a-amenazar-con-un-paro-en-el-amba-202611412430"
         },
         {
             "es_evento_relevante": true,
