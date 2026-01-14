@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T08:20:24.147376-03:00",
+    "last_updated": "2026-01-14T09:37:10.630072-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4200,6 +4200,16 @@
             "tipo_medida": "Movilización digital",
             "motivo": "Debate y reagrupamiento contra la minería y la criminalización de la protesta ambiental",
             "fuente": "https://prensaobrera.com/ambiente/charla-debate-sobre-la-mineria-en-argentina-la-lucha-ambiental-y-el-derecho-a-la-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "No especificado",
+            "lugar": "Calle Estados Unidos 4545, Parque Industrial Tortuguitas, partido de Malvinas Argentinas y autopista Panamericana km 35, Pilar",
+            "quien": "Trabajadores de Lustramax y agrupaciones del PTS/FIT-U",
+            "tipo_medida": "Corte",
+            "motivo": "Exigir cumplimiento de la conciliación laboral, reincorporación de despedidos y pago de salarios, aguinaldos y bonos adeudados",
+            "fuente": "https://www.infobae.com/sociedad/2026/01/14/protesta-en-panamericana-empleados-de-empresa-de-papeleria-realizaron-un-corte-total-por-despidos/"
         },
         {
             "es_evento_relevante": true,
