@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T06:27:49.593022-03:00",
+    "last_updated": "2026-01-14T07:22:42.516590-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4180,6 +4180,16 @@
             "tipo_medida": "Reunión Paritaria",
             "motivo": "Reapertura de negociaciones salariales 2025 y reclamo por ajuste por inflación",
             "fuente": "https://www.datagremial.com/paritarias/estatales-tras-el-reclamo-de-upcnba-el-gobierno-bonaerense-convoco-a-paritarias-20261121880"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-14",
+            "horario": "No especificado",
+            "lugar": "Autopista Panamericana, calle Estados Unidos 4545, Parque Industrial de Tortuguitas, Malvinas Argentinas",
+            "quien": "Trabajadores y trabajadoras de Lustramax y organizaciones solidarias",
+            "tipo_medida": "Piquete",
+            "motivo": "Contra despidos ilegales e incumplimiento de Conciliación Obligatoria dictada por el Ministerio de Trabajo bonaerense",
+            "fuente": "https://www.laizquierdadiario.com/Nuevo-corte-en-Panamericana-contra-los-despidos-ilegales-en-Lustramax"
         },
         {
             "es_evento_relevante": true,
