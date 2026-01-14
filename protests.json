@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T16:18:05.474999-03:00",
+    "last_updated": "2026-01-14T17:18:37.854089-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4180,6 +4180,16 @@
             "tipo_medida": "Reunión Paritaria",
             "motivo": "Reapertura de negociaciones salariales 2025 y reclamo por ajuste por inflación",
             "fuente": "https://www.datagremial.com/paritarias/estatales-tras-el-reclamo-de-upcnba-el-gobierno-bonaerense-convoco-a-paritarias-20261121880"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-14",
+            "horario": "12:00",
+            "lugar": "Estados Unidos 4545, Tortuguitas, partido de Malvinas Argentinas",
+            "quien": "Trabajadores y delegados de Lustramax",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de puestos de trabajo, salario y condiciones laborales; rechazo a despidos y ataque a la sindicalización en el marco del conflicto con Lustramax",
+            "fuente": "https://www.datagremial.com/informacion-general/despedidos-de-lustramax-denuncian-que-la-empresa-no-acata-la-conciliacion-obligatoria-y-mantienen-el-corte-20261141780"
         },
         {
             "es_evento_relevante": true,
