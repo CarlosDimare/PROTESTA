@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T19:19:43.842778-03:00",
+    "last_updated": "2026-01-14T20:16:59.875372-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4210,6 +4210,16 @@
             "tipo_medida": "Paro general con cortes",
             "motivo": "Exigencia de salario igual a canasta básica familiar ($1.650.000) y rechazo a reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/rio-negro-y-neuquen-la-cafi-propone-unos-miserables-5-000-de-aumento-por-dia-para-miles-de-rurales-y-en-plena-cosecha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "06:30",
+            "lugar": "Obra de la nueva planta potabilizadora de agua de Benito Roggio en Ensenada",
+            "quien": "Agrupación Trabajadores Unidos de la UOCRA La Plata",
+            "tipo_medida": "Acampe",
+            "motivo": "Exigir puestos de trabajo para desempleados de la región y mejorar condiciones laborales/salariales para obreros actuales en la obra",
+            "fuente": "https://www.datagremial.com/informacion-general/ensenada-la-uocra-de-tobar-sostiene-un-acampe-en-la-obra-de-benito-roggio-por-puestos-laborales-y-condiciones-de-trabajo-202611419220"
         },
         {
             "es_evento_relevante": true,
