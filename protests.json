@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T13:25:22.598911-03:00",
+    "last_updated": "2026-01-14T14:25:31.914869-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4190,6 +4190,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Contra despidos ilegales e incumplimiento de Conciliación Obligatoria dictada por el Ministerio de Trabajo bonaerense",
             "fuente": "https://www.laizquierdadiario.com/Nuevo-corte-en-Panamericana-contra-los-despidos-ilegales-en-Lustramax"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "00:00",
+            "lugar": "Rutas del valle de Río Negro y Neuquén",
+            "quien": "Uatre (Unión Argentina de Trabajadores Rurales y Estibadores)",
+            "tipo_medida": "Paro general con cortes",
+            "motivo": "Exigencia de salario igual a canasta básica familiar ($1.650.000) y rechazo a reforma laboral",
+            "fuente": "https://prensaobrera.com/sindicales/rio-negro-y-neuquen-la-cafi-propone-unos-miserables-5-000-de-aumento-por-dia-para-miles-de-rurales-y-en-plena-cosecha"
         },
         {
             "es_evento_relevante": true,
