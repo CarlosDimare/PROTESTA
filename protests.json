@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T19:18:53.573363-03:00",
+    "last_updated": "2026-01-15T20:19:03.250474-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4255,6 +4255,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-15",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Comunidades originarias (Ponchos Rojos) y otros sectores movilizados",
+            "tipo_medida": "Medidas de fuerza continuas (bloqueos/movilizaciones)",
+            "motivo": "Rechazo al acuerdo con gobierno por considerar insuficiente la derogación de decretos económicos (5503, 5515, 5509); exigen anulación total o renuncia del gobierno",
+            "fuente": "https://www.anred.org/bolivia-la-cob-acuerda-con-el-gobierno-pero-siguen-las-protestas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "No especificado",
             "lugar": "Universidad Nacional de Jujuy",
             "quien": "Asociación de Docentes e Investigadores de la Universidad Nacional de Jujuy (ADIUNJu)",
             "tipo_medida": "Movilización y Paro",
@@ -4317,9 +4327,9 @@
             "horario": "10:00",
             "lugar": "Congreso Nacional",
             "quien": "Mesa Sindical",
-            "tipo_medida": "Paro, Movilización",
-            "motivo": "Compensación salarial del 23%, rechazo a metodología inflacionaria del gobierno, oposición a reforma laboral y recortes en salud, seguridad social y ciencia",
-            "fuente": "https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a política económica, inflación maquillada, despidos y reforma laboral; reclamo de compensación salarial del 23%",
+            "fuente": "https://www.datagremial.com/informacion-general/inflacion-maquillada-y-cada-vez-mas-corrosiva-la-mesa-sindical-volvio-a-cuestionar-los-datos-oficiales-y-convoco-a-la-movilizacion-202611518280, https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
         },
         {
             "es_evento_relevante": true,
