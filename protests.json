@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-14T20:16:59.875372-03:00",
+    "last_updated": "2026-01-14T22:14:21.876673-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4345,11 +4345,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "17:00",
-            "lugar": "No especificado",
-            "quien": "Corriente Revolución Permanente – Cuarta Internacional (CRP-CI) y Red Internacional La Izquierda Diario",
-            "tipo_medida": "Paro Continental",
-            "motivo": "Repudio a agresión militar de EE.UU. contra Venezuela y exigencia de expulsión del imperialismo yanqui",
-            "fuente": "https://www.laizquierdadiario.com/Fuera-el-imperialismo-yanqui-de-Venezuela-Por-la-movilizacion-continental-e-internacional-contra-la, https://www.laizquierdadiario.com/Multitudinaria-marcha-Bolivia-no-se-vende, https://www.datagremial.com/informacion-general/la-clate-condeno-la-invasion-de-estados-unidos-contra-venezuela-y-llamo-a-la-movilizacion-regional-20261318430, https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales"
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al ajuste salarial, exigencia de reapertura de paritarias y oposición a la política económica del gobierno",
+            "fuente": "https://elciudadanoweb.com/tras-el-dato-de-inflacion-en-ascenso-desde-ate-culparon-al-gobierno-de-milei-es-el-artifice-de-una-pesadilla-economica/, https://www.laizquierdadiario.com/Fuera-el-imperialismo-yanqui-de-Venezuela-Por-la-movilizacion-continental-e-internacional-contra-la, https://www.laizquierdadiario.com/Multitudinaria-marcha-Bolivia-no-se-vende, https://www.datagremial.com/informacion-general/la-clate-condeno-la-invasion-de-estados-unidos-contra-venezuela-y-llamo-a-la-movilizacion-regional-20261318430, https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales, https://www.infobae.com/politica/2025/11/28/ate-convoco-a-un-paro-nacional-y-movilizacion-para-el-dia-en-que-se-trate-la-reforma-laboral/, https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -4370,16 +4370,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al ajuste del gobierno de Milei sobre discapacidad, reclamo de presupuesto real, respeto de leyes y derechos laborales",
             "fuente": "https://prensaobrera.com/politicas/movilizacion-de-discapacidad-mientras-el-senado-trata-el-presupuesto-de-ajuste, https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora, https://www.clarin.com/informacion-general/marcha-congreso-hoy-veto-milei-hora-cortes-tenes-saber_0_WVdsiIcpGF.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "La hora de inicio del evento de protesta es **15:00**.  \n*(El texto indica: \"desde las 15, por columnas piqueteras, movimientos sociales...\" y confirma \"Las principales columnas concentran a partir de las 15\")*.",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro Nacional con movilización",
-            "motivo": "Rechazo a la reforma laboral, reclamo de reapertura de paritarias y denuncia de persecución sindical",
-            "fuente": "https://www.infobae.com/politica/2025/11/28/ate-convoco-a-un-paro-nacional-y-movilizacion-para-el-dia-en-que-se-trate-la-reforma-laboral/, https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
