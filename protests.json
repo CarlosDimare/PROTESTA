@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T11:27:00.655866-03:00",
+    "last_updated": "2026-01-15T12:21:54.115258-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4263,6 +4263,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-01-17",
+            "horario": "06:00-14:00",
+            "lugar": "Fate (empresa del neumático)",
+            "quien": "Sutna (gremios del neumático)",
+            "tipo_medida": "Paro total",
+            "motivo": "Rechazo a política de ajuste patronal sin aumentos salariales durante 12 meses",
+            "fuente": "https://prensaobrera.com/sindicales/anuncian-paro-y-plan-de-lucha-en-fate-contra-la-irracionalidad-patronal"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-01-20",
             "horario": "14:00",
             "lugar": "AMBA",
@@ -4276,10 +4286,10 @@
             "fecha": "2026-02-10",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "PTS-Frente de Izquierda y MAC",
-            "tipo_medida": "Paro y Marcha",
-            "motivo": "Contra la reforma laboral esclavista",
-            "fuente": "https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Paro, Movilización",
+            "motivo": "Compensación salarial del 23%, rechazo a metodología inflacionaria del gobierno, oposición a reforma laboral y recortes en salud, seguridad social y ciencia",
+            "fuente": "https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
         },
         {
             "es_evento_relevante": true,
