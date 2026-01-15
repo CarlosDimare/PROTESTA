@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T15:31:17.205450-03:00",
+    "last_updated": "2026-01-15T16:23:30.632994-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4200,6 +4200,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Contra despidos ilegales e incumplimiento de Conciliación Obligatoria dictada por el Ministerio de Trabajo bonaerense",
             "fuente": "https://www.laizquierdadiario.com/Nuevo-corte-en-Panamericana-contra-los-despidos-ilegales-en-Lustramax"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "00:00",
+            "lugar": "Hospital El Cruce, Florencio Varela",
+            "quien": "APHEC y FESINTRAS",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la privatización de hospitales SAMIC y reclamo de salarios dignos",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-en-el-hospital-el-cruce-contra-el-intento-de-privatizacion-del-gobierno-exigimos-definiciones-claras--202611512360"
         },
         {
             "es_evento_relevante": true,
