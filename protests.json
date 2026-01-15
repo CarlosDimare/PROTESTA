@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T05:26:44.944283-03:00",
+    "last_updated": "2026-01-15T06:25:47.774937-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4220,6 +4220,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Exigir puestos de trabajo para desempleados de la región y mejorar condiciones laborales/salariales para obreros actuales en la obra",
             "fuente": "https://www.datagremial.com/informacion-general/ensenada-la-uocra-de-tobar-sostiene-un-acampe-en-la-obra-de-benito-roggio-por-puestos-laborales-y-condiciones-de-trabajo-202611419220"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "10:00",
+            "lugar": "Sede de Osef en Río Grande",
+            "quien": "Familiares, amigos y afiliados de Osef con apoyo del Partido Obrero",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la renuncia del gobernador Gustavo Melella y la presidenta de Osef Mariana Hruby por el colapso sanitario y la muerte de afiliados por falta de medicamentos",
+            "fuente": "https://prensaobrera.com/salud/tierra-del-fuego-trabajador-muere-tras-estar-meses-esperando-una-medicacion-que-la-obra-social-estatal-no-entrego"
         },
         {
             "es_evento_relevante": true,
