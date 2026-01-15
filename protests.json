@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T16:23:30.632994-03:00",
+    "last_updated": "2026-01-15T17:21:47.376724-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4250,6 +4250,16 @@
             "tipo_medida": "Movilización digital",
             "motivo": "Debate y reagrupamiento contra la minería y la criminalización de la protesta ambiental",
             "fuente": "https://prensaobrera.com/ambiente/charla-debate-sobre-la-mineria-en-argentina-la-lucha-ambiental-y-el-derecho-a-la-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-15",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Jujuy",
+            "quien": "Asociación de Docentes e Investigadores de la Universidad Nacional de Jujuy (ADIUNJu)",
+            "tipo_medida": "Movilización y Paro",
+            "motivo": "Rechazo a la reforma laboral, incumplimiento de la Ley de Financiamiento Universitario y salarios de hambre",
+            "fuente": "https://prensaobrera.com/sindicales/asamblea-de-adiunju-vota-el-no-inicio-del-ano-academico-2026"
         },
         {
             "es_evento_relevante": true,
