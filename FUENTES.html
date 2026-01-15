@@ -1,0 +1,1713 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DeClase - Cables</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <style>
+      body { font-family: 'Inter', sans-serif; }
+      .scrollbar-hide::-webkit-scrollbar { display: none; }
+      .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+      .fade-in { animation: fadeIn 0.5s ease-in-out; }
+      @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+      .slide-up { animation: slideUp 0.3s ease-out; }
+      @keyframes slideUp { from { transform: translateY(10px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+      .sidebar-transition { transition: transform 0.3s ease-in-out, width 0.3s ease-in-out; }
+      .sidebar-scroll::-webkit-scrollbar { width: 4px; }
+      .sidebar-scroll::-webkit-scrollbar-track { background: #18181b; }
+      .sidebar-scroll::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 2px; }
+      .sidebar-scroll::-webkit-scrollbar-thumb:hover { background: #52525b; }
+      .translation-loading {
+        background: linear-gradient(90deg, transparent, rgba(239,68,68,0.1), transparent);
+        background-size: 200% 100%;
+        animation: shimmer 1.5s infinite;
+      }
+      @keyframes shimmer {
+        0% { background-position: -200% 0; }
+        100% { background-position: 200% 0; }
+      }
+    </style>
+    <script type="importmap">
+    {
+      "imports": {
+        "react": "https://esm.sh/react@18.2.0",
+        "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+        "lucide-react": "https://esm.sh/lucide-react@0.292.0"
+      }
+    }
+    </script>
+  </head>
+  <body class="bg-neutral-950 text-neutral-200 selection:bg-red-700 selection:text-white">
+    <div id="root"></div>
+
+    <script type="text/babel" data-type="module">
+      import React, { useState, useEffect, useCallback, useMemo } from 'react';
+      import { createRoot } from 'react-dom/client';
+      import { 
+        Clock, ExternalLink, FileText, Rss, X, RefreshCw, 
+        Menu, ChevronLeft, Check, Globe2, AlertTriangle, Key, Info, Minus, Trash2,
+        Filter, Languages, Loader2, Globe, Settings, Plus, Edit3, Save,
+        Calendar as CalendarIcon, Search
+      } from 'lucide-react';
+
+      // ═══════════════════════════════════════════════════════════════════════════
+      // SISTEMA DE TRADUCCIÓN GRATUITO CON PROXIES CORS
+      // ═══════════════════════════════════════════════════════════════════════════
+      
+      const TranslationService = {
+        FUENTE_LENGUAJE: {
+          'La Izquierda Diario': 'es',
+          'Tiempo Argentino': 'es',
+          'El País': 'es',
+          'Le Monde Diplomatique': 'es',
+          'Folha de S.Paulo': 'pt',
+          'Il Manifesto': 'it',
+          'Il Fatto Quotidiano': 'it',
+          'New York Times': 'en',
+          'Democracy Now!': 'en',
+          'ProPublica': 'en',
+          'The Guardian': 'en',
+          'Corriere della Sera': 'it',
+          'Der Spiegel': 'de'
+        },
+        
+        NOMBRES_IDIOMAS: {
+          'es': 'Español',
+          'en': 'Inglés',
+          'it': 'Italiano',
+          'pt': 'Portugués',
+          'de': 'Alemán',
+          'fr': 'Francés',
+          'autodetect': 'Auto-detectado'
+        },
+        
+        cache: new Map(),
+        currentService: null,
+        requestCount: 0,
+        maxRequests: 450,
+        lastReset: Date.now(),
+        
+        async traducirMyMemory(texto, idiomaOrigen = 'autodetect', idiomaDestino = 'es') {
+          const cacheKey = `mymemory_${texto.substring(0, 50)}_${idiomaOrigen}_${idiomaDestino}`;
+          if (this.cache.has(cacheKey)) {
+            return this.cache.get(cacheKey);
+          }
+          
+          const now = Date.now();
+          if (now - this.lastReset > 24 * 60 * 60 * 1000) {
+            this.requestCount = 0;
+            this.lastReset = now;
+          }
+          
+          if (this.requestCount >= this.maxRequests) {
+            console.warn('Límite de traducciones MyMemory alcanzado');
+            return null;
+          }
+          
+          try {
+            const textoLimpio = texto
+              .replace(/<[^>]+>/g, '')
+              .replace(/&nbsp;/g, ' ')
+              .replace(/&amp;/g, '&')
+              .replace(/&lt;/g, '<')
+              .replace(/&gt;/g, '>')
+              .trim()
+              .substring(0, 500);
+            
+            if (!textoLimpio || textoLimpio.length < 3) {
+              return texto;
+            }
+            
+            const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(textoLimpio)}&langpair=${idiomaOrigen}|${idiomaDestino}`;
+            
+            const response = await fetch(url);
+            const data = await response.json();
+            
+            this.requestCount++;
+            
+            if (data.responseStatus === 200 && data.responseData) {
+              const traduccion = data.responseData.translatedText;
+              this.cache.set(cacheKey, traduccion);
+              if (this.cache.size > 500) {
+                const firstKey = this.cache.keys().next().value;
+                this.cache.delete(firstKey);
+              }
+              return traduccion;
+            } else {
+              console.warn('Error en traducción MyMemory:', data);
+              return null;
+            }
+          } catch (error) {
+            console.error('Error al traducir con MyMemory:', error);
+            return null;
+          }
+        },
+        
+        async traducirLingva(texto, idiomaOrigen = 'auto', idiomaDestino = 'es') {
+          const cacheKey = `lingva_${texto.substring(0, 50)}_${idiomaOrigen}_${idiomaDestino}`;
+          if (this.cache.has(cacheKey)) {
+            return this.cache.get(cacheKey);
+          }
+          
+          try {
+            const idiomaMap = {
+              'autodetect': 'auto',
+              'en': 'en',
+              'es': 'es',
+              'it': 'it',
+              'pt': 'pt',
+              'de': 'de',
+              'fr': 'fr'
+            };
+            
+            const sourceLang = idiomaMap[idiomaOrigen] || 'auto';
+            const targetLang = idiomaMap[idiomaDestino] || 'es';
+            
+            // Lista de proxies CORS para evitar bloqueos
+            const corsProxies = [
+              'https://corsproxy.io/?',
+              'https://api.allorigins.win/raw?url=',
+              '' // Sin proxy (para HTTPS directo)
+            ];
+            
+            // Lista de instancias de Lingva
+            const instances = [
+              'https://lingva.ml/api/v1',
+              'https://lingva.garudalinux.org/api/v1',
+              'https://translate.plausibility.cloud/api/v1',
+              'https://lingva.friedmann-dev.com/api/v1'
+            ];
+            
+            // Combinar proxies con instancias
+            const combos = [];
+            for (const proxy of corsProxies) {
+              for (const instance of instances) {
+                combos.push({ proxy, instance });
+              }
+            }
+            
+            for (const { proxy, instance } of combos) {
+              try {
+                const encodedText = encodeURIComponent(texto);
+                const url = `${proxy}${instance}/${sourceLang}/${targetLang}/${encodedText}`;
+                
+                const response = await fetch(url, {
+                  method: 'GET',
+                  headers: {
+                    'Accept': 'application/json',
+                  }
+                });
+                
+                if (response.ok) {
+                  const data = await response.json();
+                  if (data.translation) {
+                    this.cache.set(cacheKey, data.translation);
+                    console.log(`✅ Traducción exitosa via: ${instance}`);
+                    return data.translation;
+                  }
+                }
+              } catch (e) {
+                console.log(`⚠️ Falló combo ${instance} con proxy:`, e.message);
+                continue;
+              }
+            }
+            
+            return null;
+          } catch (error) {
+            console.error('Error al traducir con Lingva:', error);
+            return null;
+          }
+        },
+        
+        async traducir(texto, idiomaOrigen = 'autodetect', idiomaDestino = 'es') {
+          const cacheKey = `${texto.substring(0, 50)}_${idiomaOrigen}_${idiomaDestino}`;
+          if (this.cache.has(cacheKey)) {
+            return this.cache.get(cacheKey);
+          }
+          
+          // Intentar con MyMemory primero
+          let resultado = await this.traducirMyMemory(texto, idiomaOrigen, idiomaDestino);
+          
+          // Si MyMemory falla, usar Lingva con proxies
+          if (!resultado) {
+            console.log('MyMemory no disponible, usando Lingva con CORS proxy...');
+            resultado = await this.traducirLingva(texto, idiomaOrigen, idiomaDestino);
+          }
+          
+          if (resultado) {
+            this.cache.set(cacheKey, resultado);
+          }
+          
+          return resultado;
+        },
+        
+        getIdiomaFuente(nombreFuente) {
+          return this.FUENTE_LENGUAJE[nombreFuente] || 'unknown';
+        },
+        
+        necesitaTraduccion(nombreFuente) {
+          const idioma = this.getIdiomaFuente(nombreFuente);
+          return idioma !== 'es' && idioma !== 'unknown';
+        },
+        
+        getEstado() {
+          const porcentajeUsado = Math.round((this.requestCount / this.maxRequests) * 100);
+          return {
+            usadas: this.requestCount,
+            maximo: this.maxRequests,
+            porcentaje: porcentajeUsado,
+            cacheSize: this.cache.size
+          };
+        }
+      };
+
+      // ═══════════════════════════════════════════════════════════════════════════
+      // SISTEMA DE CLASIFICACIÓN DE NOTICIAS - PERSPECTIVA DE CLASE
+      // ═══════════════════════════════════════════════════════════════════════════
+
+      const ClasificadorNoticias = {
+        DICCIONARIOS: {
+          URGENTE: {
+            vivienda: {
+              palabras: ['desahucio', 'desalojo', 'lanzamiento', 'hipoteca', 'alquiler sube', 'subida alquiler', 
+                        'okupación', 'fondo buitre', 'blackstone', 'especulación inmobiliaria', 'vivienda vacía',
+                        'emergencia habitacional', 'sinhogarismo', 'ley vivienda', 'tope alquiler',
+                        'sfr', 'fondo fondo', 'inmobiliaria', 'precios alquiler', 'crisis habitacional',
+                        'eviction', 'housing', 'rent', 'homeless', 'foreclosure'],
+              peso: 30
+            },
+            trabajo: {
+              palabras: ['despido', 'despidos', 'ere', 'erte', 'cierre planta', 'deslocalización', 'huelga',
+                        'convenio colectivo', 'salario mínimo', 'smi', 'jornada laboral', 'precariedad',
+                        'temporalidad', 'falso autónomo', 'rider', 'externalización', 'subcontrata',
+                        'accidente laboral', 'muerte trabajo', 'reforma laboral', 'paritaria', 'aumento salarial',
+                        'layoff', 'firing', 'strike', 'union', 'workers', 'wage', 'salary'],
+              peso: 30
+            },
+            sanidad: {
+              palabras: ['cierre hospital', 'recorte sanidad', 'privatización sanitaria', 'listas espera',
+                        'copago', 'urgencias colapsadas', 'falta médicos', 'recorte plantilla', 'concierto sanitario',
+                        'healthcare', 'hospital', 'medical', 'nhs', 'health system'],
+              peso: 30
+            },
+            educacion: {
+              palabras: ['recorte educación', 'cierre colegio', 'tasas universitarias', 'becas recortadas',
+                        'ratio alumnos', 'interinos', 'educación concertada', 'education', 'university'],
+              peso: 25
+            },
+            energia: {
+              palabras: ['subida luz', 'precio electricidad', 'factura luz', 'pobreza energética',
+                        'corte suministro', 'bono social', 'precio gas', 'oligopolio eléctrico',
+                        'iberdrola', 'endesa', 'naturgy', 'energy prices', 'power', 'electricity'],
+              peso: 25
+            },
+            pensiones: {
+              palabras: ['reforma pensiones', 'revalorización pensiones', 'edad jubilación', 'años cotización',
+                        'pensión mínima', 'recorte pensiones', 'privatización pensiones', 'retirement', 'pension'],
+              peso: 30
+            },
+            represion: {
+              palabras: ['detención', 'detenido', 'carga policial', 'antidisturbios', 'ley mordaza',
+                        'multa manifestación', 'criminalización', 'piquete', 'desalojo centro social',
+                        'libertad prensa', 'censura', 'police', 'arrest', 'crackdown', 'protest'],
+              peso: 25
+            },
+            legislacion: {
+              palabras: ['entra en vigor', 'ley aprobada', 'aprobado definitivamente', 'congreso vota',
+                        'votación', 'reforma de', 'decreto ley', 'plazo para', 'último día', 'bill', 'law', 'act'],
+              peso: 20
+            }
+          },
+          CLAVE: {
+            poder_economico: {
+              palabras: ['fondo inversión', 'private equity', 'accionista mayoritario', 'consejo administración',
+                        'ibex 35', 'dividendo', 'fusión', 'adquisición', 'opa', 'blackrock', 'vanguard',
+                        'hedge fund', 'capital riesgo', 'investment fund', 'shareholder', 'merger', 'acquisition'],
+              peso: 20
+            },
+            puertas_giratorias: {
+              palabras: ['ex ministro', 'ex presidente', 'puerta giratoria', 'expresidente', 'exministro',
+                        'fichaje político', 'alto cargo', 'regulador', 'lobbyist', 'revolving door'],
+              peso: 25
+            },
+            fiscalidad: {
+              palabras: ['evasión fiscal', 'elusión fiscal', 'paraíso fiscal', 'sicav', 'grandes fortunas',
+                        'amnistía fiscal', 'panama papers', 'pandora papers', 'fraude fiscal', 'offshore',
+                        'tax haven', 'tax evasion', 'wealth tax', 'offshore'],
+              peso: 20
+            },
+            estructura_poder: {
+              palabras: ['propiedad de', 'quién controla', 'dueño de', 'lobby', 'financiación partidos',
+                        'trama', 'red de', 'conexión entre', 'informe revela', 'investigación demuestra',
+                        'ownership', 'media ownership', 'concentration'],
+              peso: 20
+            },
+            soberania: {
+              palabras: ['tratado comercial', 'cesión soberanía', 'fmi', 'banco central europeo', 'bce',
+                        'troika', 'memorándum', 'condicionalidad', 'deuda pública', 'imf', 'ecb', 'sovereign debt'],
+              peso: 20
+            }
+          },
+          IMPORTANTE: {
+            contexto: {
+              palabras: ['según datos', 'informe de', 'estudio señala', 'estadística', 'tasa de pobreza',
+                        'tasa desempleo', 'índice gini', 'desigualdad', 'brecha salarial', 'report', 'study', 'data'],
+              peso: 15
+            },
+            luchas: {
+              palabras: ['sindicato', 'asamblea', 'manifestación convocada', 'protesta', 'movilización',
+                        'plataforma ciudadana', 'colectivo', 'movimiento social', 'movement', 'activist'],
+              peso: 15
+            },
+            internacional: {
+              palabras: ['en otros países', 'experiencia de', 'modelo de', 'caso de', 'internationally'],
+              peso: 10
+            }
+          },
+          BASURA: {
+            clickbait: {
+              palabras: ['increíble', 'no te lo pierdas', 'viral', 'las redes estallan', 'arde twitter',
+                        'el zasca de', 'impactante', 'alucinante', 'no vas a creer', 'te sorprenderá',
+                        'inesperada reacción', 'estalla la guerra', 'polémico vídeo', 'arde', 'explota',
+                        'shocking', 'incredible', 'you won\'t believe', 'viral'],
+              peso: -30
+            },
+            famosos: {
+              palabras: ['celebrity', 'influencer', 'tiktoker', 'youtuber', 'reality', 'gran hermano',
+                        'supervivientes', 'alfombra roja', 'look de', 'outfit', 'boda de', 'divorcio de',
+                        'romance', 'pareja de', 'ex de', 'kardashian', 'swift', 'celeb'],
+              peso: -40
+            },
+            casa_real: {
+              palabras: ['rey felipe', 'reina letizia', 'princesa leonor', 'infanta', 'casa real',
+                        'monarquía', 'corona española', 'royal', 'king', 'queen', 'prince', 'monarchy'],
+              peso: -30
+            },
+            deportes_espectaculo: {
+              palabras: ['fichaje', 'gol de', 'champions', 'liga de fútbol', 'mundial fútbol', 
+                        'balón de oro', 'selección', 'entrenador destituido', 'clásico',
+                        'transfer', 'goal', 'world cup', 'champions league', 'football', 'soccer'],
+              peso: -25
+            },
+            especulacion: {
+              palabras: ['podría ser', 'se rumorea', 'fuentes cercanas', 'según parece', 'no descarta',
+                        'estaría considerando', 'se espera que', 'posiblemente', 'might', 'could', 'rumored'],
+              peso: -15
+            },
+            relleno: {
+              palabras: ['ha declarado que', 'se reunirán para', 'estudiarán la posibilidad',
+                        'ha mostrado partidario', 'en los próximos meses', 'agenda incluye'],
+              peso: -10
+            }
+          },
+          PROPAGANDA: {
+            exito_individual: {
+              palabras: ['emprendedor', 'self-made', 'joven triunfa', 'historia de éxito', 'lo logró solo',
+                        'sin ayuda de nadie', 'desde cero', 'millonario joven', 'entrepreneur', 'self-made', 'success story'],
+              peso: -25
+            },
+            nacionalismo_vacio: {
+              palabras: ['españa va bien', 'orgullo nacional', 'somos los mejores', 'españa lidera',
+                        'recuperación económica', 'el país avanza', 'great again', 'recovery', 'growth'],
+              peso: -20
+            },
+            miedo_sin_solucion: {
+              palabras: ['invasión', 'oleada', 'avalancha de inmigrantes', 'inseguridad ciudadana',
+                        'ola de robos', 'criminalidad aumenta', 'invasion', 'crime wave', 'security'],
+              peso: -30
+            }
+          }
+        },
+        FUENTES: {
+          positivas: {
+            'el salto': 15, 'la marea': 15, 'ctxt': 10, 'público': 5, 'eldiario': 5,
+            'la izquierda diario': 10, 'página/12': 10, 'le monde diplomatique': 15,
+            'the guardian': 5, 'jacobin': 15, 'new york times': 0, 'reuters': 5, 'efe': 5, 'afp': 5,
+            'democracy now!': 10, 'propublica': 15, 'tiempo argentino': 5, 'der spiegel': 10,
+            'folha de s.paulo': 5, 'il manifesto': 15, 'il fatto quotidiano': 10
+          },
+          negativas: {
+            'ok diario': -20, 'libertad digital': -15, 'la razón': -10, 'abc': -10,
+            'el mundo': -5, 'el confidencial': -5, 'expansión': -10, 'cinco días': -10
+          }
+        },
+        clasificar(noticia) {
+          const texto = `${noticia.title} ${noticia.description}`.toLowerCase();
+          const fuente = noticia.source.toLowerCase();
+          let puntuacion = 50;
+          let indicadoresEncontrados = [];
+          let temasDetectados = [];
+          
+          const esBasuraObvia = this.detectarBasuraObvia(texto);
+          if (esBasuraObvia.esBasura) {
+            return {
+              etiqueta: 'BASURA', emoji: '⚫', puntuacion: esBasuraObvia.puntuacion,
+              indicadores: esBasuraObvia.indicadores, temas: ['contenido_descartable'],
+              justificacion: esBasuraObvia.justificacion, confianza: 'ALTA'
+            };
+          }
+          
+          for (const [categoria, data] of Object.entries(this.DICCIONARIOS.URGENTE)) {
+            const coincidencias = this.buscarCoincidencias(texto, data.palabras);
+            if (coincidencias.length > 0) {
+              puntuacion += data.peso;
+              indicadoresEncontrados.push(...coincidencias);
+              temasDetectados.push(categoria);
+            }
+          }
+          
+          for (const [categoria, data] of Object.entries(this.DICCIONARIOS.CLAVE)) {
+            const coincidencias = this.buscarCoincidencias(texto, data.palabras);
+            if (coincidencias.length > 0) {
+              puntuacion += data.peso;
+              indicadoresEncontrados.push(...coincidencias);
+              temasDetectados.push(categoria);
+            }
+          }
+          
+          for (const [categoria, data] of Object.entries(this.DICCIONARIOS.IMPORTANTE)) {
+            const coincidencias = this.buscarCoincidencias(texto, data.palabras);
+            if (coincidencias.length > 0) {
+              puntuacion += data.peso;
+              indicadoresEncontrados.push(...coincidencias);
+              temasDetectados.push(categoria);
+            }
+          }
+          
+          for (const [categoria, data] of Object.entries(this.DICCIONARIOS.BASURA)) {
+            const coincidencias = this.buscarCoincidencias(texto, data.palabras);
+            if (coincidencias.length > 0) {
+              puntuacion += data.peso;
+              indicadoresEncontrados.push(...coincidencias.map(c => `⚠️${c}`));
+            }
+          }
+          
+          for (const [categoria, data] of Object.entries(this.DICCIONARIOS.PROPAGANDA)) {
+            const coincidencias = this.buscarCoincidencias(texto, data.palabras);
+            if (coincidencias.length > 0) {
+              puntuacion += data.peso;
+              indicadoresEncontrados.push(...coincidencias.map(c => `🚩${c}`));
+            }
+          }
+          
+          let modFuente = 0;
+          for (const [nombreFuente, mod] of Object.entries(this.FUENTES.positivas)) {
+            if (fuente.includes(nombreFuente)) { modFuente = mod; break; }
+          }
+          if (modFuente === 0) {
+            for (const [nombreFuente, mod] of Object.entries(this.FUENTES.negativas)) {
+              if (fuente.includes(nombreFuente)) { modFuente = mod; break; }
+            }
+          }
+          puntuacion += modFuente;
+          
+          if (noticia.title.includes('?')) { puntuacion -= 10; indicadoresEncontrados.push('⚠️titular_interrogativo'); }
+          if (/a partir del|entra en vigor|hasta el día|plazo de \d+/i.test(texto)) { puntuacion += 15; indicadoresEncontrados.push('📅fecha_límite'); }
+          if (/\d+%|\d+ (millones|euros|dólares|personas|trabajadores)/i.test(texto)) { puntuacion += 10; indicadoresEncontrados.push('📊datos_cuantificables'); }
+          
+          puntuacion = Math.max(0, Math.min(100, puntuacion));
+          const clasificacion = this.asignarEtiqueta(puntuacion);
+          const justificacion = this.generarJustificacion(clasificacion.etiqueta, temasDetectados, indicadoresEncontrados);
+          
+          return { ...clasificacion, puntuacion, indicadores: indicadoresEncontrados, temas: temasDetectados, justificacion, modFuente, confianza: this.calcularConfianza(indicadoresEncontrados.length, puntuacion) };
+        },
+        detectarBasuraObvia(texto) {
+          const patronesBasura = [
+            { patron: /gran hermano|supervivientes|la isla|reality/i, razon: 'Reality show' },
+            { patron: /horóscopo|tarot|predicción zodiac/i, razon: 'Pseudociencia' },
+            { patron: /look de|outfit|alfombra roja|vestido de/i, razon: 'Moda/espectáculo' },
+            { patron: /kim kardashian|taylor swift|bad bunny|shakira|kylie|kendall/i, razon: 'Celebrity' },
+            { patron: /el zasca|arde twitter|las redes estallan/i, razon: 'Clickbait redes' },
+            { patron: /video viral|se hace viral|tiktok viral/i, razon: 'Viralidad vacía' }
+          ];
+          for (const { patron, razon } of patronesBasura) {
+            if (patron.test(texto)) {
+              return { esBasura: true, puntuacion: 5, indicadores: [razon], justificacion: `Descartado: ${razon}. No aporta información útil.` };
+            }
+          }
+          return { esBasura: false };
+        },
+        buscarCoincidencias(texto, palabras) {
+          const encontradas = [];
+          for (const palabra of palabras) {
+            const regex = new RegExp(palabra.replace(/\s+/g, '\\s+'), 'i');
+            if (regex.test(texto)) { encontradas.push(palabra); }
+          }
+          return encontradas;
+        },
+        asignarEtiqueta(puntuacion) {
+          if (puntuacion >= 80) return { etiqueta: 'URGENTE', emoji: '🔴', color: 'red' };
+          if (puntuacion >= 60) return { etiqueta: 'CLAVE', emoji: '🟠', color: 'orange' };
+          if (puntuacion >= 40) return { etiqueta: 'IMPORTANTE', emoji: '🟡', color: 'yellow' };
+          if (puntuacion >= 20) return { etiqueta: 'RELLENO', emoji: '⚪', color: 'gray' };
+          return { etiqueta: 'BASURA', emoji: '⚫', color: 'black' };
+        },
+        generarJustificacion(etiqueta, temas, indicadores) {
+          const temasStr = temas.length > 0 ? temas.slice(0, 3).join(', ') : 'general';
+          switch(etiqueta) {
+            case 'URGENTE': return `Afecta directamente condiciones materiales. Temas: ${temasStr}. Requiere atención inmediata.`;
+            case 'CLAVE': return `Revela estructuras de poder o mecanismos del sistema. Temas: ${temasStr}.`;
+            case 'IMPORTANTE': return `Aporta contexto o datos relevantes sobre: ${temasStr}.`;
+            case 'RELLENO': return `Información sin impacto directo. No requiere acción.`;
+            case 'BASURA': return `Distracción o contenido sin valor informativo. Ignorar.`;
+            default: return '';
+          }
+        },
+        calcularConfianza(numIndicadores, puntuacion) {
+          if (numIndicadores >= 3 && (puntuacion >= 75 || puntuacion <= 25)) return 'ALTA';
+          if (numIndicadores >= 1) return 'MEDIA';
+          return 'BAJA';
+        }
+      };
+
+      // ═══════════════════════════════════════════════════════════════════════════
+      // FLAGS SVG - BANDERAS CORREGIDAS
+      // ═══════════════════════════════════════════════════════════════════════════
+      const FlagArgentina = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <g fillRule="evenodd" strokeWidth="1pt">
+            <path fill="#74acdf" d="M0 0h640v153.6H0z"/>
+            <path fill="#fff" d="M0 153.6h640v172.8H0z"/>
+            <path fill="#74acdf" d="M0 326.4h640V480H0z"/>
+            <path fill="#f6b40e" d="M256 160l36.8 113.2-96.5-70.1h119.4l-96.5 70.1z"/>
+          </g>
+        </svg>
+      );
+      const FlagBrazil = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <g fillRule="evenodd" strokeWidth="1pt">
+            <path fill="#009c3b" d="M0 0h640v480H0z"/>
+            <path fill="#ffdf00" d="M320 60L54 240l266 180 266-180z"/>
+            <path fill="#002776" d="M319.5 140c-55.3 0-100 45.3-100 101.3s44.7 101.3 100 101.3 100-45.3 100-101.3-44.7-101.3-100-101.3z" stroke="#002776" strokeWidth="8"/>
+          </g>
+        </svg>
+      );
+      const FlagItaly = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <g fillRule="evenodd" strokeWidth="1pt">
+            <path fill="#009246" d="M0 0h213.3v480H0z"/>
+            <path fill="#fff" d="M213.3 0h213.4v480H213.3z"/>
+            <path fill="#ce2b37" d="M426.7 0H640v480H426.7z"/>
+          </g>
+        </svg>
+      );
+      const FlagUSA = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <path fill="#bd3d44" d="M0 0h640v480H0z"/>
+          <path fill="#fff" d="M0 37h640v37H0zm0 73.9h640v37H0zm0 74h640v37H0zm0 73.8h640v37H0zm0 74.1h640v37H0zm0 73.8h640v37H0z"/>
+          <path fill="#192f5d" d="M0 0h256v259.3H0z"/>
+        </svg>
+      );
+      const FlagUK = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <path fill="#012169" d="M0 0h640v480H0z"/>
+          <path fill="#fff" d="M75 0l244 181L563 0h77v62L400 241l240 178v61h-80L320 301 81 480H0v-60l239-178L0 64V0h75z"/>
+          <path fill="#c8102e" d="M424 281l216 159v40L369 281h55zm-184 20l6 35L54 480H0l240-179-6-35h6zm336 0l6 35L545 480H640L400 301l-6-35h6z"/>
+          <path fill="#fff" d="M241 0v480h160V0H241zM0 160v160h640V160H0z"/>
+          <path fill="#c8102e" d="M273 0v480h96V0H273zM0 193v94h640v-94H0z"/>
+        </svg>
+      );
+      const FlagFrance = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <path fill="#fff" d="M0 0h640v480H0z"/>
+          <path fill="#00267f" d="M0 0h213.3v480H0z"/>
+          <path fill="#f31830" d="M426.7 0H640v480H426.7z"/>
+        </svg>
+      );
+      const FlagSpain = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <g fillRule="evenodd" strokeWidth="1pt">
+            <path fill="#aa151b" d="M0 0h640v480H0z"/>
+            <path fill="#f1bf00" d="M0 128h640v224H0z"/>
+          </g>
+        </svg>
+      );
+      // BANDERA ALEMANIA CORREGIDA
+      const FlagGermany = () => (
+        <svg viewBox="0 0 5 3" className="w-5 h-4 rounded-sm shadow-sm">
+          <rect width="5" height="3" fill="#000"/>
+          <rect width="5" height="2" y="1" fill="#d00"/>
+          <rect width="5" height="1" y="2" fill="#ffce00"/>
+        </svg>
+      );
+      // BANDERA QATAR CORREGIDA
+      const FlagQatar = () => (
+        <svg viewBox="0 0 28 11" className="w-5 h-4 rounded-sm shadow-sm">
+          <rect width="28" height="11" fill="#8d1b3d"/>
+          <path fill="#fff" d="M0 0h8l2 0.5L8 1l2 0.5L8 2l2 0.5L8 3l2 0.5L8 4l2 0.5L8 5l2 0.5L8 6l2 0.5L8 7l2 0.5L8 8l2 0.5L8 9l2 0.5L8 10l2 0.5L8 11H0z"/>
+        </svg>
+      );
+      // BANDERA AUSTRALIA CORREGIDA
+      const FlagAustralia = () => (
+        <svg viewBox="0 0 640 480" className="w-5 h-4 rounded-sm shadow-sm">
+          <path fill="#00008b" d="M0 0h640v480H0z"/>
+          {/* Union Jack Simplificado */}
+          <path fill="#fff" d="M0 0l160 120M0 240l160-120M240 0v240M0 120h240" strokeWidth="30" stroke="#fff"/>
+          <path fill="none" d="M0 0l160 120M0 240l160-120M240 0v240M0 120h240" strokeWidth="18" stroke="#c8102e"/>
+          {/* Estrellas (Commonwealth + Southern Cross) */}
+          <g fill="#fff">
+            <circle cx="160" cy="360" r="40"/> {/* Commonwealth Star */}
+            <circle cx="480" cy="120" r="14"/>
+            <circle cx="450" cy="205" r="14"/>
+            <circle cx="480" cy="260" r="14"/>
+            <circle cx="560" cy="180" r="14"/>
+            <circle cx="510" cy="230" r="8"/> 
+          </g>
+        </svg>
+      );
+      // BANDERA SUDÁFRICA CORREGIDA
+      const FlagSouthAfrica = () => (
+        <svg viewBox="0 0 900 600" className="w-5 h-4 rounded-sm shadow-sm">
+          {/* Fondo Rojo (Arriba) y Azul (Abajo) */}
+          <path fill="#de3831" d="M0 0h900v300H0z"/>
+          <path fill="#002395" d="M0 300h900v300H0z"/>
+          
+          {/* La Y Blanca (Fondo de la Y verde) */}
+          <path fill="#fff" d="M0 0l450 300L0 600v-80l340-220L0 80z"/>
+          <rect x="400" y="240" width="500" height="120" fill="#fff"/>
+          
+          {/* La Y Verde Central */}
+          <path fill="#007749" d="M0 35l390 265L0 565v-65l300-200L0 100z"/>
+          <rect x="380" y="260" width="520" height="80" fill="#007749"/>
+          
+          {/* Triángulos Izquierda (Amarillo y Negro) */}
+          <path fill="#ffb81c" d="M0 50l330 250L0 550z"/>
+          <path fill="#000" d="M0 100l260 200L0 500z"/>
+        </svg>
+      );
+      const getFlag = (country) => {
+        switch(country) {
+          case 'AR': return <FlagArgentina />;
+          case 'BR': return <FlagBrazil />;
+          case 'IT': return <FlagItaly />;
+          case 'US': return <FlagUSA />;
+          case 'UK': return <FlagUK />;
+          case 'FR': return <FlagFrance />;
+          case 'ES': return <FlagSpain />;
+          case 'DE': return <FlagGermany />;
+          case 'QA': return <FlagQatar />;
+          case 'AU': return <FlagAustralia />;
+          case 'ZA': return <FlagSouthAfrica />;
+          default: return <Globe2 className="w-5 h-4 text-neutral-500" />;
+        }
+      };
+      // Función auxiliar para obtener el país de una fuente
+      const getCountryBySource = (sourceName) => {
+        const countryMap = {
+          'La Izquierda Diario': 'AR',
+          'Tiempo Argentino': 'AR',
+          'Folha de S.Paulo': 'BR',
+          'Democracy Now!': 'US',
+          'New York Times': 'US',
+          'ProPublica': 'US',
+          'The Guardian': 'UK',
+          'El País': 'ES',
+          'Corriere della Sera': 'IT',
+          'Il Manifesto': 'IT',
+          'Il Fatto Quotidiano': 'IT',
+          'Der Spiegel': 'DE',
+          'Le Monde Diplomatique': 'FR'
+        };
+        return countryMap[sourceName] || null;
+      };
+
+      // ═══════════════════════════════════════════════════════════════════════════
+      // FUENTES POR DEFECTO
+      // ═══════════════════════════════════════════════════════════════════════════
+      
+      const DEFAULT_SOURCES = [
+        // --- AMÉRICA DEL SUR ---
+        { name: 'La Izquierda Diario', country: 'AR', url: 'https://www.laizquierdadiario.com/spip.php?page=backend' },
+        { name: 'Tiempo Argentino', country: 'AR', url: 'https://www.tiempoar.com.ar/articulos/feed' },
+        { name: 'Folha de S.Paulo', country: 'BR', url: 'https://feeds.folha.uol.com.br/mundo/rss091.xml' },
+        
+        // --- EUROPA ---
+        { name: 'Il Manifesto', country: 'IT', url: 'https://ilmanifesto.it/feed/' },
+        { name: 'Il Fatto Quotidiano', country: 'IT', url: 'https://www.ilfattoquotidiano.it/feed/' },
+        { name: 'Corriere della Sera', country: 'IT', url: 'https://xml2.corriereobjects.it/feed-hp/homepage.xml' },
+        { name: 'Der Spiegel', country: 'DE', url: 'https://www.spiegel.de/international/index.rss' },
+        { name: 'El País', country: 'ES', url: 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada' },
+        { name: 'Le Monde Diplomatique', country: 'FR', url: 'https://mondiplo.com/spip.php?page=backend' },
+        { name: 'The Guardian', country: 'UK', url: 'https://www.theguardian.com/world/rss' },
+        
+        // --- AMÉRICA DEL NORTE ---
+        { name: 'Democracy Now!', country: 'US', url: 'https://www.democracynow.org/democracynow.rss' },
+        { name: 'New York Times', country: 'US', url: 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml' },
+        { name: 'ProPublica', country: 'US', url: 'https://feeds.propublica.org/propublica/main' }
+      ];
+
+      const loadSources = () => {
+        try {
+          const stored = localStorage.getItem('declase_sources');
+          return stored ? JSON.parse(stored) : DEFAULT_SOURCES;
+        } catch (e) {
+          return DEFAULT_SOURCES;
+        }
+      };
+
+      const saveSources = (sources) => {
+        try {
+          localStorage.setItem('declase_sources', JSON.stringify(sources));
+        } catch (e) {
+          console.error('Error guardando fuentes:', e);
+        }
+      };
+
+      // ═══════════════════════════════════════════════════════════════════════════
+      // COMPONENTES UI
+      // ═══════════════════════════════════════════════════════════════════════════
+      
+      const ClasificacionBadge = ({ clasificacion, showDetails = false }) => {
+        const colores = {
+          URGENTE: 'bg-red-600 text-white border-red-500',
+          CLAVE: 'bg-orange-600 text-white border-orange-500',
+          IMPORTANTE: 'bg-yellow-600 text-black border-yellow-500',
+          RELLENO: 'bg-neutral-500 text-white border-neutral-400',
+          BASURA: 'bg-neutral-800 text-neutral-400 border-neutral-700'
+        };
+        const iconos = {
+          URGENTE: <AlertTriangle className="w-3 h-3" />,
+          CLAVE: <Key className="w-3 h-3" />,
+          IMPORTANTE: <Info className="w-3 h-3" />,
+          RELLENO: <Minus className="w-3 h-3" />,
+          BASURA: <Trash2 className="w-3 h-3" />
+        };
+        return (
+          <div className="flex items-center gap-2">
+            <span className={`inline-flex items-center gap-1 px-2 py-0.5 text-[10px] font-black uppercase tracking-wider border ${colores[clasificacion.etiqueta]}`}>
+              {iconos[clasificacion.etiqueta]}
+              {clasificacion.emoji} {clasificacion.etiqueta}
+            </span>
+            {showDetails && (
+              <span className="text-[9px] text-neutral-500 font-mono">
+                {clasificacion.puntuacion}pts | {clasificacion.confianza}
+              </span>
+            )}
+          </div>
+        );
+      };
+
+
+
+      const SourceEditor = ({ source, onSave, onCancel }) => {
+        const [name, setName] = useState(source?.name || '');
+        const [url, setUrl] = useState(source?.url || '');
+        const [country, setCountry] = useState(source?.country || 'US');
+        
+        useEffect(() => {
+          if (source) {
+            setName(source.name || '');
+            setUrl(source.url || '');
+            setCountry(source.country || 'US');
+          }
+        }, [source]);
+
+        const countries = [
+          { code: 'AR', name: 'Argentina' },
+          { code: 'BR', name: 'Brasil' },
+          { code: 'DE', name: 'Alemania' },
+          { code: 'ES', name: 'España' },
+          { code: 'FR', name: 'Francia' },
+          { code: 'IT', name: 'Italia' },
+          { code: 'QA', name: 'Qatar' },
+          { code: 'UK', name: 'Reino Unido' },
+          { code: 'US', name: 'Estados Unidos' },
+          { code: 'AU', name: 'Australia' },
+          { code: 'ZA', name: 'Sudáfrica' },
+          { code: 'MX', name: 'México' },
+          { code: 'CL', name: 'Chile' },
+          { code: 'CO', name: 'Colombia' }
+        ];
+
+        const handleSubmit = (e) => {
+          e.preventDefault();
+          if (name.trim() && url.trim()) {
+            onSave({ name: name.trim(), url: url.trim(), country });
+          }
+        };
+
+        return (
+          <div className="p-4 bg-neutral-950 border-t border-neutral-800">
+            <h4 className="text-xs font-bold text-white uppercase tracking-wider mb-3">
+              {source ? 'Editar Fuente' : 'Agregar Fuente'}
+            </h4>
+            <form onSubmit={handleSubmit} className="space-y-3">
+              <div>
+                <label className="text-[10px] text-neutral-500 uppercase font-bold block mb-1">Nombre</label>
+                <input
+                  type="text"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                  className="w-full bg-neutral-900 border border-neutral-700 text-white text-sm px-3 py-2 focus:outline-none focus:border-red-600"
+                  placeholder="Ej: El País"
+                  required
+                />
+              </div>
+              <div>
+                <label className="text-[10px] text-neutral-500 uppercase font-bold block mb-1">URL del RSS</label>
+                <input
+                  type="url"
+                  value={url}
+                  onChange={(e) => setUrl(e.target.value)}
+                  className="w-full bg-neutral-900 border border-neutral-700 text-white text-sm px-3 py-2 focus:outline-none focus:border-red-600 font-mono"
+                  placeholder="https://..."
+                  required
+                />
+              </div>
+              <div>
+                <label className="text-[10px] text-neutral-500 uppercase font-bold block mb-1">País</label>
+                <select
+                  value={country}
+                  onChange={(e) => setCountry(e.target.value)}
+                  className="w-full bg-neutral-900 border border-neutral-700 text-white text-sm px-3 py-2 focus:outline-none focus:border-red-600"
+                >
+                  {countries.map(c => (
+                    <option key={c.code} value={c.code}>{c.name}</option>
+                  ))}
+                </select>
+              </div>
+              <div className="flex gap-2 pt-2">
+                <button
+                  type="submit"
+                  className="flex-1 bg-red-700 hover:bg-red-600 text-white text-xs font-bold uppercase py-2 flex items-center justify-center gap-1"
+                >
+                  <Save className="w-3 h-3" /> Guardar
+                </button>
+                <button
+                  type="button"
+                  onClick={onCancel}
+                  className="flex-1 bg-neutral-800 hover:bg-neutral-700 text-neutral-400 text-xs font-bold uppercase py-2"
+                >
+                  Cancelar
+                </button>
+              </div>
+            </form>
+          </div>
+        );
+      };
+
+      const SourcesSidebar = ({ sources, selectedSources, onToggleSource, onToggleAll, isOpen, onClose, onUpdateSources }) => {
+        const [showConfig, setShowConfig] = useState(false);
+        const [editingSource, setEditingSource] = useState(null);
+        const [allSelected, setAllSelected] = useState(false);
+
+        useEffect(() => {
+          setAllSelected(sources.length > 0 && sources.every(s => selectedSources.has(s.name)));
+        }, [sources, selectedSources]);
+
+        const handleAddSource = () => {
+          setEditingSource(null);
+          setShowConfig(true);
+        };
+
+        const handleEditSource = (source) => {
+          setEditingSource(source);
+          setShowConfig(true);
+        };
+
+        const handleDeleteSource = (sourceName) => {
+          if (window.confirm(`¿Eliminar la fuente "${sourceName}"?`)) {
+            const updated = sources.filter(s => s.name !== sourceName);
+            onUpdateSources(updated);
+          }
+        };
+
+        const handleSaveSource = (sourceData) => {
+          let updated;
+          if (editingSource) {
+            updated = sources.map(s => s.name === editingSource.name ? sourceData : s);
+          } else {
+            if (sources.some(s => s.name === sourceData.name)) {
+              alert('Ya existe una fuente con ese nombre');
+              return;
+            }
+            updated = [...sources, sourceData];
+          }
+          onUpdateSources(updated);
+          setShowConfig(false);
+          setEditingSource(null);
+        };
+
+        const handleRestoreDefaults = () => {
+          if (window.confirm('¿Restaurar las fuentes por defecto? Se perderán las personalizaciones.')) {
+            onUpdateSources(DEFAULT_SOURCES);
+          }
+        };
+
+        const handleToggleAll = () => {
+          onToggleAll(!allSelected);
+        };
+
+        return (
+          <>
+            {isOpen && <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-30 md:hidden fade-in" onClick={onClose} />}
+            <aside className={`fixed left-0 top-16 bottom-0 z-40 bg-neutral-900 border-r border-neutral-800 flex flex-col sidebar-transition w-80 ${isOpen ? 'translate-x-0' : '-translate-x-full'}`}>
+              <div className="flex flex-col h-full">
+                <div className="p-4 border-b border-neutral-800 flex justify-between items-center bg-neutral-950">
+                  <h3 className="text-sm font-black text-white uppercase tracking-wider flex items-center gap-2">
+                    <Rss className="w-4 h-4 text-red-500" /> Fuentes
+                  </h3>
+                  <div className="flex items-center gap-1">
+                    <button 
+                      onClick={handleAddSource}
+                      className="text-neutral-500 hover:text-red-500 p-1 hover:bg-neutral-800 rounded transition-colors"
+                      title="Agregar fuente"
+                    >
+                      <Plus className="w-4 h-4" />
+                    </button>
+                    <button 
+                      onClick={() => setShowConfig(!showConfig)}
+                      className={`text-neutral-500 hover:text-white p-1 hover:bg-neutral-800 rounded transition-colors ${showConfig ? 'bg-red-900/30 text-red-500' : ''}`}
+                      title="Configuración"
+                    >
+                      <Settings className="w-4 h-4" />
+                    </button>
+                    <button onClick={onClose} className="text-neutral-500 hover:text-white p-1 hover:bg-neutral-800 rounded transition-colors">
+                      <X className="w-5 h-5" />
+                    </button>
+                  </div>
+                </div>
+
+                {!showConfig ? (
+                  <>
+                    <div className="p-3 border-b border-neutral-800 bg-neutral-950/50">
+                      <button 
+                        onClick={handleToggleAll}
+                        className="w-full text-[10px] text-neutral-400 hover:text-white uppercase font-bold py-2 px-3 bg-neutral-800 hover:bg-neutral-700 rounded transition-colors flex items-center justify-center gap-2"
+                      >
+                        {allSelected ? (
+                          <>
+                            <X className="w-3 h-3" /> Deseleccionar todas
+                          </>
+                        ) : (
+                          <>
+                            <Check className="w-3 h-3" /> Seleccionar todas
+                          </>
+                        )}
+                      </button>
+                    </div>
+
+                    <div className="flex-1 overflow-y-auto sidebar-scroll p-3 space-y-1">
+                      {sources.map((source) => {
+                        const idioma = TranslationService.getIdiomaFuente(source.name);
+                        const necesitaTraduccion = TranslationService.necesitaTraduccion(source.name);
+                        return (
+                          <div key={source.name} className="group">
+                            <button
+                              onClick={() => onToggleSource(source.name)}
+                              className={`w-full flex items-center gap-3 p-3 rounded-lg transition-all text-left ${
+                                selectedSources.has(source.name) 
+                                  ? 'bg-red-900/20 border border-red-800/50 text-red-100' 
+                                  : 'bg-neutral-800/50 border border-neutral-700/50 text-neutral-400 hover:bg-neutral-800 hover:text-neutral-300'
+                              }`}
+                            >
+                              <div className="shrink-0">{getFlag(source.country)}</div>
+                              <div className="flex-1 min-w-0">
+                                <div className="text-sm font-bold truncate flex items-center gap-2">
+                                  {source.name}
+                                  {necesitaTraduccion && (
+                                    <span className="inline-flex items-center gap-0.5 px-1.5 py-0.5 bg-blue-900/50 text-blue-300 text-[8px] font-bold uppercase rounded border border-blue-800">
+                                      <Languages className="w-2.5 h-2.5" /> {idioma}
+                                    </span>
+                                  )}
+                                </div>
+                                <div className="text-[10px] uppercase tracking-wider opacity-60 truncate">
+                                  {source.country}
+                                </div>
+                              </div>
+                              <div className={`w-5 h-5 rounded flex items-center justify-center shrink-0 ${
+                                selectedSources.has(source.name) ? 'bg-red-600 text-white' : 'bg-neutral-700 text-transparent'
+                              }`}>
+                                <Check className="w-3 h-3" />
+                              </div>
+                            </button>
+                          </div>
+                        );
+                      })}
+                    </div>
+
+                    <div className="p-3 border-t border-neutral-800 bg-neutral-950 space-y-2">
+                      <div className="text-[10px] text-neutral-500 text-center font-mono uppercase">
+                        {selectedSources.size} de {sources.length} fuentes activas
+                      </div>
+                      <button 
+                        onClick={handleRestoreDefaults}
+                        className="w-full text-[9px] text-neutral-600 hover:text-red-500 uppercase font-bold underline"
+                      >
+                        Restaurar fuentes por defecto
+                      </button>
+                    </div>
+                  </>
+                ) : (
+                  <>
+                    <div className="flex-1 overflow-y-auto sidebar-scroll p-3 space-y-1">
+                      {sources.map((source) => (
+                        <div 
+                          key={source.name} 
+                          className="group flex items-center gap-3 p-3 bg-neutral-800/50 border border-neutral-700/50 rounded-lg hover:border-neutral-600 transition-all"
+                        >
+                          <div className="shrink-0">{getFlag(source.country)}</div>
+                          <div className="flex-1 min-w-0">
+                            <div className="text-sm font-bold truncate text-neutral-300">{source.name}</div>
+                            <div className="text-[9px] text-neutral-500 font-mono truncate">{source.url}</div>
+                          </div>
+                          <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                            <button
+                              onClick={() => handleEditSource(source)}
+                              className="text-neutral-500 hover:text-red-500 p-1 hover:bg-neutral-700 rounded"
+                              title="Editar"
+                            >
+                              <Edit3 className="w-3 h-3" />
+                            </button>
+                            <button
+                              onClick={() => handleDeleteSource(source.name)}
+                              className="text-neutral-500 hover:text-red-500 p-1 hover:bg-neutral-700 rounded"
+                              title="Eliminar"
+                            >
+                              <Trash2 className="w-3 h-3" />
+                            </button>
+                          </div>
+                        </div>
+                      ))}
+                      {sources.length === 0 && (
+                        <div className="text-center py-8 text-neutral-600 text-sm">
+                          No hay fuentes configuradas
+                        </div>
+                      )}
+                    </div>
+
+                    <div className="p-3 border-t border-neutral-800 bg-neutral-950">
+                      <button
+                        onClick={handleAddSource}
+                        className="w-full bg-red-700 hover:bg-red-600 text-white text-xs font-bold uppercase py-2 flex items-center justify-center gap-2"
+                      >
+                        <Plus className="w-4 h-4" /> Agregar Nueva Fuente
+                      </button>
+                    </div>
+                  </>
+                )}
+
+                {showConfig && (
+                  <SourceEditor 
+                    source={editingSource}
+                    onSave={handleSaveSource}
+                    onCancel={() => {
+                      setShowConfig(false);
+                      setEditingSource(null);
+                    }}
+                  />
+                )}
+              </div>
+            </aside>
+          </>
+        );
+      };
+
+      const FiltrosClasificacion = ({ filtroActivo, onFiltrar, conteos }) => {
+        const filtros = [
+          { key: 'TODOS', label: 'Todos', emoji: '📰', color: 'bg-neutral-700' },
+          { key: 'URGENTE', label: 'Urgente', emoji: '🔴', color: 'bg-red-600' },
+          { key: 'CLAVE', label: 'Clave', emoji: '🟠', color: 'bg-orange-600' },
+          { key: 'IMPORTANTE', label: 'Importante', emoji: '🟡', color: 'bg-yellow-600' },
+          { key: 'RELLENO', label: 'Relleno', emoji: '⚪', color: 'bg-neutral-500' },
+          { key: 'BASURA', label: 'Basura', emoji: '⚫', color: 'bg-neutral-800' }
+        ];
+        return (
+          <div className="flex flex-wrap gap-2 p-4 bg-neutral-900/50 border-b border-neutral-800">
+            <span className="text-[10px] text-neutral-500 uppercase tracking-wider flex items-center gap-1 mr-2">
+              <Filter className="w-3 h-3" /> Filtrar:
+            </span>
+            {filtros.map(f => (
+              <button
+                key={f.key}
+                onClick={() => onFiltrar(f.key)}
+                className={`px-3 py-1 text-[11px] font-bold uppercase tracking-wider rounded-full transition-all flex items-center gap-1 ${filtroActivo === f.key ? `${f.color} text-white shadow-lg` : 'bg-neutral-800 text-neutral-400 hover:bg-neutral-700'}`}
+              >
+                {f.emoji} {f.label}
+                <span className="ml-1 opacity-70">({conteos[f.key] || 0})</span>
+              </button>
+            ))}
+          </div>
+        );
+      };
+
+      const TranslationToggle = ({ item, traduccion, cargando, onAlternar, mostrarOriginal }) => {
+        const idioma = TranslationService.getIdiomaFuente(item.source);
+        const nombreIdioma = TranslationService.NOMBRES_IDIOMAS[idioma] || idioma;
+        const necesitaTraduccion = TranslationService.necesitaTraduccion(item.source);
+
+        if (!necesitaTraduccion) return null;
+
+        const itemId = `${item.link}-${item.pubDate}`;
+        const estaTraducido = traduccion && !mostrarOriginal;
+
+        return (
+          <div className="flex items-center gap-2 mb-2">
+            {estaTraducido ? (
+              <>
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-green-900/30 text-green-400 text-[9px] font-bold uppercase rounded border border-green-900/50">
+                  <Languages className="w-3 h-3" /> Traducido del {nombreIdioma}
+                </span>
+                <button 
+                  onClick={() => onAlternar(itemId)}
+                  className="text-[9px] text-neutral-400 hover:text-white underline"
+                >
+                  Ver original en {nombreIdioma}
+                </button>
+              </>
+            ) : cargando ? (
+              <>
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-blue-900/30 text-blue-400 text-[9px] font-bold uppercase rounded border border-blue-900/50">
+                  <Globe className="w-3 h-3" /> {nombreIdioma}
+                </span>
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-red-900/30 text-red-400 text-[9px] font-bold uppercase rounded border border-red-900/50">
+                  <Loader2 className="w-3 h-3 animate-spin" /> Traduciendo...
+                </span>
+              </>
+            ) : (
+              <>
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-blue-900/30 text-blue-400 text-[9px] font-bold uppercase rounded border border-blue-900/50">
+                  <Globe className="w-3 h-3" /> Original en {nombreIdioma}
+                </span>
+                {traduccion && (
+                  <button 
+                    onClick={() => onAlternar(itemId)}
+                    className="text-[9px] text-red-400 hover:text-red-300 underline font-bold"
+                  >
+                    Ver traducción al español
+                  </button>
+                )}
+              </>
+            )}
+          </div>
+        );
+      };
+
+      const NewsFeed = ({ news, loading, error, onRefresh }) => {
+        const [selectedNews, setSelectedNews] = useState(null);
+        const [filtroActivo, setFiltroActivo] = useState('TODOS');
+        const [traducciones, setTraducciones] = useState({});
+        const [cargandoTraduccion, setCargandoTraduccion] = useState({});
+        const [mostrarOriginal, setMostrarOriginal] = useState({});
+        const [traduciendoCount, setTraduciendoCount] = useState(0);
+        const [totalParaTraducir, setTotalParaTraducir] = useState(0);
+        const [ordenPorPuntuacion, setOrdenPorPuntuacion] = useState(false); // false = cronológico por defecto
+        const [busqueda, setBusqueda] = useState('');
+
+        // Traducir automáticamente todas las noticias al cargar
+        useEffect(() => {
+          const traducirAutomaticamente = async () => {
+            const noticiasParaTraducir = news.filter(item => 
+              TranslationService.necesitaTraduccion(item.source)
+            );
+            
+            if (noticiasParaTraducir.length === 0) return;
+
+            setTotalParaTraducir(noticiasParaTraducir.length);
+            setTraduciendoCount(0);
+
+            // Inicializar mostrarOriginal en false (mostrar traducción) para todas
+            setMostrarOriginal(prev => {
+              const nuevo = { ...prev };
+              noticiasParaTraducir.forEach(item => {
+                const itemId = `${item.link}-${item.pubDate}`;
+                nuevo[itemId] = false;
+              });
+              return nuevo;
+            });
+
+            // Traducir en lotes de 2 para mejor rendimiento con proxies
+            for (let i = 0; i < noticiasParaTraducir.length; i += 2) {
+              const lote = noticiasParaTraducir.slice(i, i + 2);
+              
+              await Promise.all(lote.map(async (item) => {
+                const itemId = `${item.link}-${item.pubDate}`;
+                const idioma = TranslationService.getIdiomaFuente(item.source);
+                
+                // Solo traducir si no está ya en cache
+                if (!traducciones[itemId]) {
+                  setCargandoTraduccion(prev => ({ ...prev, [itemId]: true }));
+                  
+                  try {
+                    const [tituloTraducido, descTraducida] = await Promise.all([
+                      TranslationService.traducir(item.title, idioma, 'es'),
+                      TranslationService.traducir(item.description?.replace(/<[^>]+>/g, ''), idioma, 'es')
+                    ]);
+                    
+                    if (tituloTraducido || descTraducida) {
+                      setTraducciones(prev => ({
+                        ...prev,
+                        [itemId]: {
+                          title: tituloTraducido || item.title,
+                          description: descTraducida || item.description
+                        }
+                      }));
+                    }
+                  } catch (error) {
+                    console.error('Error traduciendo:', error);
+                  } finally {
+                    setCargandoTraduccion(prev => ({ ...prev, [itemId]: false }));
+                    setTraduciendoCount(prev => prev + 1);
+                  }
+                }
+              }));
+            }
+          };
+
+          traducirAutomaticamente();
+        }, [news]);
+
+        const newsClasificadas = news.map(item => ({
+          ...item,
+          clasificacion: ClasificadorNoticias.clasificar(item)
+        }));
+
+        const newsOrdenadas = [...newsClasificadas].sort((a, b) => {
+          if (ordenPorPuntuacion) {
+            return b.clasificacion.puntuacion - a.clasificacion.puntuacion;
+          } else {
+            return new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime();
+          }
+        });
+
+        // Filtrar por búsqueda
+        const newsConBusqueda = busqueda.trim() 
+          ? newsOrdenadas.filter(item => {
+              const busquedaLower = busqueda.toLowerCase();
+              return item.title.toLowerCase().includes(busquedaLower) ||
+                     item.description.toLowerCase().includes(busquedaLower) ||
+                     item.source.toLowerCase().includes(busquedaLower);
+            })
+          : newsOrdenadas;
+
+        // Filtrar por categoría (solo en modo puntaje)
+        const newsFiltradas = ordenPorPuntuacion 
+          ? (filtroActivo === 'TODOS' ? newsConBusqueda : newsConBusqueda.filter(n => n.clasificacion.etiqueta === filtroActivo))
+          : newsConBusqueda;
+
+        const conteos = {
+          TODOS: newsClasificadas.length,
+          URGENTE: newsClasificadas.filter(n => n.clasificacion.etiqueta === 'URGENTE').length,
+          CLAVE: newsClasificadas.filter(n => n.clasificacion.etiqueta === 'CLAVE').length,
+          IMPORTANTE: newsClasificadas.filter(n => n.clasificacion.etiqueta === 'IMPORTANTE').length,
+          RELLENO: newsClasificadas.filter(n => n.clasificacion.etiqueta === 'RELLENO').length,
+          BASURA: newsClasificadas.filter(n => n.clasificacion.etiqueta === 'BASURA').length
+        };
+
+        const timeAgo = (dateStr) => {
+          const date = new Date(dateStr);
+          const now = new Date();
+          const seconds = Math.floor((now.getTime() - date.getTime()) / 1000);
+          if (seconds < 60) return 'Hace un momento';
+          const minutes = Math.floor(seconds / 60);
+          if (minutes < 60) return `Hace ${minutes} min`;
+          const hours = Math.floor(minutes / 60);
+          if (hours < 24) return `Hace ${hours} h`;
+          const days = Math.floor(hours / 24);
+          if (days === 1) return 'Ayer';
+          if (days < 7) return `Hace ${days} días`;
+          return date.toLocaleDateString('es-AR');
+        };
+
+        const getBgColor = (etiqueta) => {
+          switch(etiqueta) {
+            case 'URGENTE': return 'border-l-4 border-l-red-600 bg-red-950/20';
+            case 'CLAVE': return 'border-l-4 border-l-orange-500 bg-orange-950/20';
+            case 'IMPORTANTE': return 'border-l-4 border-l-yellow-500 bg-yellow-950/10';
+            case 'RELLENO': return 'border-l-4 border-l-neutral-500 opacity-60';
+            case 'BASURA': return 'border-l-4 border-l-neutral-700 opacity-40';
+            default: return '';
+          }
+        };
+
+        const traducionEstado = TranslationService.getEstado();
+        const hayNoticasParaTraducir = news.some(item => TranslationService.necesitaTraduccion(item.source));
+
+        return (
+          <div className="bg-neutral-900 border border-neutral-800 min-h-[500px] relative shadow-2xl">
+            {selectedNews && (() => {
+              const itemId = `${selectedNews.link}-${selectedNews.pubDate}`;
+              const traduccion = traducciones[itemId];
+              const verOriginal = mostrarOriginal[itemId];
+              const mostrarTrad = traduccion && !verOriginal;
+              const idioma = TranslationService.getIdiomaFuente(selectedNews.source);
+              const necesitaTrad = TranslationService.necesitaTraduccion(selectedNews.source);
+              const nombreIdioma = TranslationService.NOMBRES_IDIOMAS[idioma] || idioma;
+              
+              const modalTitle = mostrarTrad ? traduccion.title : selectedNews.title;
+              const modalDesc = mostrarTrad ? traduccion.description : selectedNews.description;
+              
+              return (
+              <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/80 backdrop-blur-sm p-4 fade-in" onClick={() => setSelectedNews(null)}>
+                <div className="bg-neutral-900 border border-neutral-700 max-w-2xl w-full max-h-[90vh] overflow-y-auto shadow-2xl relative slide-up" onClick={(e) => e.stopPropagation()}>
+                  <div className="p-6 border-b border-neutral-800 flex justify-between items-start sticky top-0 bg-neutral-900/95 backdrop-blur z-10">
+                    <div className="flex-1 pr-4">
+                      <div className="flex items-center gap-2 mb-2">
+                        <ClasificacionBadge clasificacion={selectedNews.clasificacion} showDetails={true} />
+                      </div>
+                      <span className="inline-block px-2 py-0.5 bg-neutral-800 text-neutral-300 border border-neutral-700 text-[10px] font-black uppercase tracking-wider mb-2">
+                        {selectedNews.source}
+                      </span>
+                      {necesitaTrad && (
+                        <div className="mb-2">
+                          {mostrarTrad ? (
+                            <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-green-900/30 text-green-400 text-[9px] font-bold uppercase rounded border border-green-900/50">
+                              <Languages className="w-3 h-3" /> Traducido del {nombreIdioma}
+                            </span>
+                          ) : (
+                            <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-blue-900/30 text-blue-400 text-[9px] font-bold uppercase rounded border border-blue-900/50">
+                              <Globe className="w-3 h-3" /> Original en {nombreIdioma}
+                            </span>
+                          )}
+                        </div>
+                      )}
+                      <h2 className="text-xl md:text-2xl font-black text-white leading-tight">{modalTitle}</h2>
+                      <div className="flex items-center gap-2 mt-2 text-xs text-neutral-500 font-mono">
+                        <Clock className="w-3 h-3" /> {selectedNews.pubDate}
+                      </div>
+                    </div>
+                    <button onClick={() => setSelectedNews(null)} className="text-neutral-500 hover:text-white p-2 shrink-0">
+                      <X className="w-6 h-6" />
+                    </button>
+                  </div>
+                  <div className="p-4 bg-neutral-950 border-b border-neutral-800">
+                    <h4 className="text-[10px] font-bold text-neutral-500 uppercase tracking-wider mb-2">Análisis</h4>
+                    <p className="text-sm text-neutral-300 mb-2">{selectedNews.clasificacion.justificacion}</p>
+                    {selectedNews.clasificacion.indicadores.length > 0 && (
+                      <div className="flex flex-wrap gap-1 mt-2">
+                        {selectedNews.clasificacion.indicadores.slice(0, 6).map((ind, i) => (
+                          <span key={i} className="px-2 py-0.5 bg-neutral-800 text-neutral-400 text-[9px] font-mono rounded">{ind}</span>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                  <div className="p-6 space-y-4">
+                    <div className="text-neutral-300 font-medium text-lg leading-relaxed border-l-4 border-red-600 pl-4 italic">
+                      {modalDesc}
+                    </div>
+                    <div className="text-neutral-400 text-sm leading-relaxed space-y-4 font-serif">
+                      {selectedNews.content && selectedNews.content !== selectedNews.description ? (
+                        <div dangerouslySetInnerHTML={{ __html: selectedNews.content }} className="prose prose-invert prose-sm max-w-none" />
+                      ) : (
+                        <p>Para leer el desarrollo completo de la noticia, visite la fuente original.</p>
+                      )}
+                    </div>
+                  </div>
+                  {necesitaTrad && traduccion && (
+                    <div className="px-6 py-3 bg-neutral-950 border-t border-neutral-800">
+                      <button 
+                        onClick={() => setMostrarOriginal(prev => ({ ...prev, [itemId]: !prev[itemId] }))} 
+                        className="text-[10px] text-neutral-400 hover:text-white underline"
+                      >
+                        {mostrarTrad ? `Ver original en ${nombreIdioma}` : 'Ver traducción al español'}
+                      </button>
+                    </div>
+                  )}
+                  <div className="p-6 border-t border-neutral-800 bg-neutral-950">
+                    <a href={selectedNews.link} target="_blank" rel="noreferrer" className="w-full bg-red-700 hover:bg-red-600 text-white font-bold py-3 uppercase tracking-wider text-sm flex items-center justify-center gap-2 transition-colors">
+                      Leer en Fuente Original <ExternalLink className="w-4 h-4" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+              );
+            })()}
+
+            <div className="bg-neutral-950 p-4 border-b border-neutral-800">
+              <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-3">
+                <div className="flex items-center gap-3">
+                  {hayNoticasParaTraducir && traduciendoCount < totalParaTraducir && (
+                    <span className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-blue-900/30 text-blue-400 text-[10px] font-bold uppercase rounded border border-blue-800">
+                      <Loader2 className="w-3.5 h-3.5 animate-spin" /> Traduciendo... ({traduciendoCount}/{totalParaTraducir})
+                    </span>
+                  )}
+                </div>
+                <div className="flex items-center gap-2">
+                  <button 
+                    onClick={() => setOrdenPorPuntuacion(!ordenPorPuntuacion)}
+                    className={`flex items-center gap-1.5 px-3 py-1.5 text-[10px] font-bold uppercase rounded border transition-all ${
+                      ordenPorPuntuacion 
+                        ? 'bg-orange-900/30 text-orange-400 border-orange-800' 
+                        : 'bg-neutral-800 text-neutral-400 border-neutral-700 hover:bg-neutral-700'
+                    }`}
+                    title={ordenPorPuntuacion ? "Cambiar a vista cronológica" : "Cambiar a vista por puntaje"}
+                  >
+                    {ordenPorPuntuacion ? <CalendarIcon className="w-3.5 h-3.5" /> : <Key className="w-3.5 h-3.5" />}
+                    {ordenPorPuntuacion ? "Cronológico" : "Puntaje"}
+                  </button>
+                  <button onClick={onRefresh} disabled={loading} className="text-neutral-500 hover:text-white transition-colors">
+                    <RefreshCw className={`w-4 h-4 ${loading ? 'animate-spin' : ''}`} />
+                  </button>
+                </div>
+              </div>
+              
+              {/* Input de búsqueda */}
+              <div className="relative">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-neutral-500" />
+                <input
+                  type="text"
+                  value={busqueda}
+                  onChange={(e) => setBusqueda(e.target.value)}
+                  placeholder={ordenPorPuntuacion ? "Filtrar por palabras clave..." : "Buscar en cronológico..."}
+                  className="w-full bg-neutral-900 border border-neutral-800 text-white text-sm px-10 py-2 pl-10 focus:outline-none focus:border-red-600 placeholder:text-neutral-600 font-mono"
+                />
+                {busqueda && (
+                  <button 
+                    onClick={() => setBusqueda('')}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-neutral-500 hover:text-white transition-colors"
+                  >
+                    <X className="w-4 h-4" />
+                  </button>
+                )}
+              </div>
+              
+              {/* Contador de resultados de búsqueda */}
+              {busqueda && (
+                <div className="text-[10px] text-neutral-500 font-mono mt-2">
+                  {newsFiltradas.length} {newsFiltradas.length === 1 ? 'resultado' : 'resultados'} para "{busqueda}"
+                </div>
+              )}
+              {hayNoticasParaTraducir && (
+                <div className="flex items-center gap-2 mt-2 text-[9px] text-neutral-500">
+                  <Languages className="w-3 h-3" />
+                  <span>Traducción: MyMemory ({traducionEstado.usadas}/{traducionEstado.maximo}) + Lingva con CORS proxy (ilimitado)</span>
+                </div>
+              )}
+            </div>
+
+            {ordenPorPuntuacion && !loading && !error && news.length > 0 && (
+              <FiltrosClasificacion filtroActivo={filtroActivo} onFiltrar={setFiltroActivo} conteos={conteos} />
+            )}
+
+            <div className="p-0">
+              {loading && (
+                <div className="p-12 text-center text-neutral-500 font-mono animate-pulse flex flex-col items-center gap-4">
+                  <RefreshCw className="w-8 h-8 animate-spin text-red-600" />
+                  RECUPERANDO Y CLASIFICANDO CABLES...
+                </div>
+              )}
+              {!loading && error && (
+                <div className="p-8 text-center">
+                  <p className="text-red-500 font-bold mb-2">ERROR DE CONEXIÓN</p>
+                  <p className="text-neutral-500 text-sm mb-4">No se pudo conectar con los feeds RSS.</p>
+                </div>
+              )}
+              {!loading && !error && (
+                <div className="divide-y divide-neutral-800">
+                  {newsFiltradas.map((item, idx) => {
+                    const itemId = `${item.link}-${item.pubDate}`;
+                    const traduccion = traducciones[itemId];
+                    const verOriginal = mostrarOriginal[itemId];
+                    const mostrarTrad = traduccion && !verOriginal;
+                    
+                    const displayTitle = mostrarTrad ? traduccion.title : item.title;
+                    const displayDesc = mostrarTrad ? traduccion.description : item.description;
+                    const sourceCountry = getCountryBySource(item.source);
+                    
+                    // En modo cronológico, estilo simplificado sin colores de clasificación
+                    const esModoCronologico = !ordenPorPuntuacion;
+                    
+                    return (
+                      <div key={idx} className={`p-5 hover:bg-neutral-800/50 transition-colors group cursor-pointer ${esModoCronologico ? '' : getBgColor(item.clasificacion.etiqueta)}`} onClick={() => setSelectedNews(item)}>
+                        <div className="flex flex-wrap justify-between items-start gap-2 mb-2">
+                          <div className="flex items-center gap-2 flex-wrap">
+                            {!esModoCronologico && <ClasificacionBadge clasificacion={item.clasificacion} />}
+                            {/* BANDERA JUNTO AL NOMBRE DEL MEDIO */}
+                            <div className="flex items-center gap-2">
+                              {sourceCountry && getFlag(sourceCountry)}
+                              <span className="inline-block px-2 py-0.5 bg-neutral-800 text-neutral-400 border border-neutral-700 text-[10px] font-black uppercase tracking-wider">
+                                {item.source}
+                              </span>
+                            </div>
+                          </div>
+                          <span className="text-neutral-500 text-[10px] font-bold uppercase flex items-center gap-1">
+                            <Clock className="w-3 h-3" /> {timeAgo(item.pubDate)}
+                          </span>
+                        </div>
+                        
+                        <TranslationToggle 
+                          item={item}
+                          traduccion={traduccion}
+                          cargando={cargandoTraduccion[itemId]}
+                          onAlternar={(itemId) => setMostrarOriginal(prev => ({ ...prev, [itemId]: !prev[itemId] }))} 
+                          mostrarOriginal={verOriginal}
+                        />
+                        
+                        <h4 className={`font-bold text-lg leading-tight mb-2 px-3 py-2 transition-colors ${esModoCronologico ? 'bg-neutral-800 text-white group-hover:bg-neutral-700' : (item.clasificacion.etiqueta === 'BASURA' || item.clasificacion.etiqueta === 'RELLENO' ? 'bg-neutral-800 text-neutral-400' : 'bg-white text-red-600 group-hover:bg-red-50')}`}>
+                          {displayTitle}
+                        </h4>
+                        
+                        <p className="text-neutral-400 text-sm leading-relaxed line-clamp-2 mb-2">
+                          {displayDesc}
+                        </p>
+                        
+                        {!esModoCronologico && item.clasificacion.indicadores.length > 0 && item.clasificacion.etiqueta !== 'BASURA' && item.clasificacion.etiqueta !== 'RELLENO' && (
+                          <div className="flex flex-wrap gap-1 mb-2">
+                            {item.clasificacion.indicadores.slice(0, 3).map((ind, i) => (
+                              <span key={i} className="px-1.5 py-0.5 bg-neutral-800/50 text-neutral-500 text-[9px] font-mono">{ind}</span>
+                            ))}
+                          </div>
+                        )}
+                        
+                        <span className="inline-flex items-center gap-1 text-xs font-bold text-neutral-500 hover:text-white uppercase tracking-wider">
+                          <FileText className="w-3 h-3" /> Ver Detalle
+                        </span>
+                      </div>
+                    );
+                  })}
+                  {newsFiltradas.length === 0 && !loading && (
+                    <div className="p-8 text-center text-neutral-600 italic">No hay cables con esta clasificación.</div>
+                  )}
+                </div>
+              )}
+            </div>
+            
+            {ordenPorPuntuacion && (
+              <div className="bg-neutral-950 p-4 border-t border-neutral-800">
+                <h4 className="text-xs font-bold text-neutral-500 uppercase tracking-widest mb-3">Estadísticas de Clasificación</h4>
+                <div className="flex flex-wrap gap-4 text-[10px] font-mono text-neutral-500">
+                  <span>🔴 Urgentes: {conteos.URGENTE}</span>
+                  <span>🟠 Claves: {conteos.CLAVE}</span>
+                  <span>🟡 Importantes: {conteos.IMPORTANTE}</span>
+                  <span>⚪ Relleno: {conteos.RELLENO}</span>
+                  <span>⚫ Basura: {conteos.BASURA}</span>
+                </div>
+              </div>
+            )}
+          </div>
+        );
+      };
+
+      const StandaloneApp = () => {
+        const [news, setNews] = useState([]);
+        const [newsLoading, setNewsLoading] = useState(false);
+        const [newsError, setNewsError] = useState(false);
+        const [sidebarOpen, setSidebarOpen] = useState(true);
+        const [sources, setSources] = useState(loadSources);
+        const [selectedSources, setSelectedSources] = useState(() => new Set(loadSources().map(s => s.name)));
+
+        const toggleSource = (sourceName) => {
+          setSelectedSources(prev => {
+            const newSet = new Set(prev);
+            if (newSet.has(sourceName)) { newSet.delete(sourceName); } 
+            else { newSet.add(sourceName); }
+            return newSet;
+          });
+        };
+
+        const toggleAllSources = (selectAll) => {
+          if (selectAll) {
+            setSelectedSources(new Set(sources.map(s => s.name)));
+          } else {
+            setSelectedSources(new Set());
+          }
+        };
+
+        const handleUpdateSources = (newSources) => {
+          setSources(newSources);
+          saveSources(newSources);
+          setSelectedSources(prev => {
+            const newSet = new Set(prev);
+            newSources.forEach(s => newSet.add(s.name));
+            const existingNames = new Set(newSources.map(s => s.name));
+            for (const name of prev) {
+              if (!existingNames.has(name)) {
+                newSet.delete(name);
+              }
+            }
+            return newSet;
+          });
+        };
+
+        const fetchNews = useCallback(async () => {
+          setNewsLoading(true);
+          setNewsError(false);
+          const allNews = [];
+          const activeSources = sources.filter(s => selectedSources.has(s.name));
+
+          try {
+            const promises = activeSources.map(async (source) => {
+              try {
+                const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.url)}`);
+                const data = await res.json();
+                if (data.status === 'ok') {
+                  return data.items.map((item) => ({
+                    title: item.title,
+                    link: item.link,
+                    pubDate: item.pubDate,
+                    source: source.name,
+                    description: item.description?.replace(/<[^>]+>/g, '').substring(0, 300) + '...' || '',
+                    content: item.content || item.description || ''
+                  }));
+                }
+                return [];
+              } catch (e) { console.error(`Error fetching ${source.name}:`, e); return []; }
+            });
+
+            const results = await Promise.all(promises);
+            results.forEach(items => allNews.push(...items));
+            allNews.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+            setNews(allNews);
+          } catch (err) {
+            console.error("Error fetching news:", err);
+            setNewsError(true);
+          } finally {
+            setNewsLoading(false);
+          }
+        }, [selectedSources, sources]);
+
+        useEffect(() => { fetchNews(); }, [fetchNews]);
+
+        return (
+          <div className="min-h-screen flex flex-col bg-neutral-950 text-neutral-200">
+            <nav className="bg-neutral-900 border-b border-neutral-800 sticky top-0 z-50">
+              <div className="container mx-auto px-4 h-16 flex items-center">
+                <div className="flex items-center gap-3">
+                  <button onClick={() => setSidebarOpen(!sidebarOpen)} className="text-neutral-400 hover:text-white p-2 -ml-2 transition-all hover:bg-neutral-800 rounded z-50 relative">
+                    {sidebarOpen ? <ChevronLeft className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+                  </button>
+                </div>
+              </div>
+            </nav>
+
+            <main className="flex-1 bg-neutral-950 relative flex">
+              <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10 pointer-events-none"></div>
+              <SourcesSidebar 
+                sources={sources} 
+                selectedSources={selectedSources} 
+                onToggleSource={toggleSource} 
+                onToggleAll={toggleAllSources}
+                isOpen={sidebarOpen} 
+                onClose={() => setSidebarOpen(false)}
+                onUpdateSources={handleUpdateSources}
+              />
+              <div className={`flex-1 p-4 md:p-8 relative z-10 transition-all duration-300 ${sidebarOpen ? 'md:ml-80' : 'md:ml-0'}`}>
+                <div className="max-w-4xl mx-auto">
+                  <NewsFeed news={news} loading={newsLoading} error={newsError} onRefresh={fetchNews} />
+                </div>
+              </div>
+            </main>
+
+            <footer className="bg-neutral-900 border-t border-neutral-800 py-6 mt-auto">
+              <div className="container mx-auto px-4 flex justify-center items-center text-neutral-600 text-[10px] font-mono uppercase tracking-widest">
+                <div className="flex items-center gap-2">
+                  <span>SISTEMA DE CLASIFICACIÓN</span>
+                  <span className="text-red-900">•</span>
+                  <span>PERSPECTIVA DE CLASE</span>
+                  <span className="text-red-900">•</span>
+                  <span>Traducción: MyMemory + Lingva con CORS proxy</span>
+                </div>
+              </div>
+            </footer>
+          </div>
+        );
+      };
+
+      const root = createRoot(document.getElementById('root'));
+      root.render(<StandaloneApp />);
+    </script>
+  </body>
+</html>
