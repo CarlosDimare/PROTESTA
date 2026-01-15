@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-15T12:21:54.115258-03:00",
+    "last_updated": "2026-01-15T13:31:49.146423-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4260,6 +4260,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Coordinación de acciones contra la precarización laboral y la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Hospital-Gandulfo-reincorporan-a-una-delegada-y-continuan-los-reclamos-contra-los-despidos, https://www.clarin.com/politica/cgt-marcha-plaza-mayo-reforma-laboral-mapa-cortes-horarios-gremios-movilizan_0_jpcmE0aIBL.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-17",
+            "horario": "06:00",
+            "lugar": "Planta de Fate",
+            "quien": "SUTNA (Sindicato Único de Trabajadores del Neumático Argentino)",
+            "tipo_medida": "Paro total",
+            "motivo": "Reclamo salarial por falta de aumentos durante 12 meses y política de crueldad de la empresa",
+            "fuente": "https://www.inforegion.com.ar/2026/01/15/paro-total-en-fate-sutna-confirmo-medidas-de-fuerza-para-que-cumplan-con-el-aumento-salarial/"
         },
         {
             "es_evento_relevante": true,
