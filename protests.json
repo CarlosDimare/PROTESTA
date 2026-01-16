@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16T09:33:22.857861-03:00",
+    "last_updated": "2026-01-16T10:36:14.206810-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4320,6 +4320,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial ante falta de acuerdo en paritaria con empresas del transporte, disputa por subsidios y estructura de costos",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-califico-de-burla-la-nueva-oferta-empresarial-y-vuelve-a-amenazar-con-un-paro-en-el-amba-202611412430"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-21",
+            "horario": "16:00",
+            "lugar": "Sede de la UOM",
+            "quien": "Abel Furlán (UOM) y sindicatos convocados",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Decidir y organizar medidas contra la reforma laboral que tratará el Senado en febrero",
+            "fuente": "https://www.infobae.com/politica/2026/01/16/primera-crisis-de-la-nueva-cgt-la-uom-convoca-por-su-cuenta-a-sindicatos-para-decidir-un-paro-con-movilizacion/"
         },
         {
             "es_evento_relevante": true,
