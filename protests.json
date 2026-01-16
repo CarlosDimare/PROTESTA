@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-16T18:17:55.470779-03:00",
+    "last_updated": "2026-01-16T19:18:59.250742-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4330,6 +4330,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Decidir y organizar medidas contra la reforma laboral que tratará el Senado en febrero",
             "fuente": "https://www.infobae.com/politica/2026/01/16/primera-crisis-de-la-nueva-cgt-la-uom-convoca-por-su-cuenta-a-sindicatos-para-decidir-un-paro-con-movilizacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-31",
+            "horario": "No especificado",
+            "lugar": "Turín, Italia",
+            "quien": "Colectivos solidarios con Palestina y afectados por represión",
+            "tipo_medida": "Manifestación",
+            "motivo": "Repudio a la represión estatal contra activistas y solidaridad con Palestina",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-y-movilizaciones-unitarias-contra-la-ofensiva-represiva-de-Meloni"
         },
         {
             "es_evento_relevante": true,
