@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-17T02:18:31.631794-03:00",
+    "last_updated": "2026-01-17T03:25:30.275277-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4344,12 +4344,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-10",
-            "horario": "10:00",
+            "horario": "08:00",
             "lugar": "Congreso Nacional",
-            "quien": "Mesa Sindical",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a política económica, inflación maquillada, despidos y reforma laboral; reclamo de compensación salarial del 23%",
-            "fuente": "https://www.datagremial.com/informacion-general/inflacion-maquillada-y-cada-vez-mas-corrosiva-la-mesa-sindical-volvio-a-cuestionar-los-datos-oficiales-y-convoco-a-la-movilizacion-202611518280, https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
+            "quien": "UOM (Unión Obrera Metalúrgica) y sindicatos convocados",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Oponerse a la reforma laboral y evitar su sanción en el Senado",
+            "fuente": "https://www.infobae.com/politica/2026/01/17/vuelven-las-tensiones-en-la-cgt-las-claves-ocultas-de-la-nueva-pelea-interna-por-la-reforma-laboral/, https://www.datagremial.com/informacion-general/inflacion-maquillada-y-cada-vez-mas-corrosiva-la-mesa-sindical-volvio-a-cuestionar-los-datos-oficiales-y-convoco-a-la-movilizacion-202611518280, https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
         },
         {
             "es_evento_relevante": true,
