@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-17T16:13:30.888981-03:00",
+    "last_updated": "2026-01-17T17:18:14.005414-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4325,11 +4325,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-01-19",
             "horario": "06:00",
-            "lugar": "Planta de Acindar en Villa Constitución",
-            "quien": "Unión Obrera Metalúrgica (UOM) y trabajadores de empresas contratistas",
+            "lugar": "Planta de Acindar, Villa Constitución",
+            "quien": "Unión Obrera Metalúrgica (UOM)",
             "tipo_medida": "Paro total",
-            "motivo": "Despidos injustificados y políticas de precarización laboral",
-            "fuente": "https://elciudadanoweb.com/la-uom-confirmo-para-indefinido-desde-el-lunes-en-acindar-de-villa-constitucion-por-varios-despidos-y-patronal-que-no-negocia/"
+            "motivo": "Despidos injustificados y precarización laboral en empresas contratistas y Acindar",
+            "fuente": "https://motoreconomico.com.ar/paro-total-e-indefinido-en-acindar-por-despidos-en-contratistas/, https://elciudadanoweb.com/la-uom-confirmo-para-indefinido-desde-el-lunes-en-acindar-de-villa-constitucion-por-varios-despidos-y-patronal-que-no-negocia/"
         },
         {
             "es_evento_relevante": true,
