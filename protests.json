@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-17T09:30:53.570906-03:00",
+    "last_updated": "2026-01-17T10:28:05.019895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4310,6 +4310,16 @@
             "tipo_medida": "Paro total",
             "motivo": "Rechazo a política de ajuste patronal sin aumentos salariales durante 12 meses",
             "fuente": "https://prensaobrera.com/sindicales/anuncian-paro-y-plan-de-lucha-en-fate-contra-la-irracionalidad-patronal"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-17",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la nueva metodología del IPC del INDEC y reclamo de mejora salarial generalizada",
+            "fuente": "https://www.datagremial.com/escenario/el-nuevo-ipc-cosecha-sus-primeras-criticas-la-mesa-sindical-lo-considero-maquillaje--20261161000, https://caracol.com.co/2026/01/17/manifestaciones-en-defensa-del-salario-minimo-2026-fecha-hora-y-puntos-de-concentracion/"
         },
         {
             "es_evento_relevante": true,
