@@ -172,7 +172,7 @@
     let newsData = [];
     let selectedNews = null;
     let chatHistory = [
-        {role: "system", content: "Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes TABLA MARKDOWN si te parece necesario y un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA."}
+        {role: "system", content: "Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes TABLA MARKDOWN si te parece necesario y AGREga al final una breve conclusión con un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA."}
     ];
 
     // Elementos DOM
@@ -265,7 +265,7 @@
         newsData.slice(0, 15).forEach(n => {
             context += `- ${n.titulo} (Fuente: ${n.fuente})\n`;
         });
-        chatHistory[0].content = `Eres un analista político de máximo nivel con perspectiva de clase. Analiza con humor culto y refinado. NO menciones el estilo. puedes usar Markdown si es necesario.\n\n${context}`;
+        chatHistory[0].content = `Eres un analista político de máximo nivel con perspectiva de clase. AGREga al final una breve conclusión con con humor culto y refinado. NO menciones el estilo. puedes usar Markdown si es necesario.\n\n${context}`;
     }
 
     // Chat con IA
@@ -334,7 +334,7 @@
     };
 
     btnSummary.onclick = () => {
-        sendChat("Instrucción: Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes usar una TABLA MARKDOWN si te parece necesario y un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA.");
+        sendChat("Instrucción: Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes usar una TABLA MARKDOWN si te parece necesario y AGREga al final una breve conclusión con un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA.");
     };
 
     btnOpenWeb.onclick = () => {
