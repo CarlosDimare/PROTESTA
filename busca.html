@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUSCA CLI - Web Edition</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap');
+
+        body {
+            background-color: #000000;
+            color: #FFFFFF;
+            font-family: 'Fira Code', monospace;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        header, footer {
+            background-color: #8B0000;
+            color: white;
+            padding: 4px 12px;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+
+        .border-retro {
+            border: 2px solid #FFFFFF;
+        }
+
+        .bg-retro-red {
+            background-color: #8B0000;
+        }
+
+        .bg-retro-dark {
+            background-color: #111111;
+        }
+
+        .stitle {
+            background-color: #8B0000;
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            padding: 2px;
+            text-transform: uppercase;
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #000;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #8B0000;
+        }
+
+        .news-item {
+            cursor: pointer;
+            padding: 4px 8px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            border-bottom: 1px solid #222;
+        }
+
+        .news-item:hover, .news-item.active {
+            background-color: #8B0000;
+        }
+
+        #chat-md table {
+            border-collapse: collapse;
+            width: 100%;
+            margin: 10px 0;
+        }
+        #chat-md table, #chat-md th, #chat-md td {
+            border: 1px solid white;
+            padding: 5px;
+        }
+
+        input:focus {
+            outline: none;
+            border-color: #ffffff !important;
+            background-color: #0a0a0a;
+        }
+
+        .loading-pulse {
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+
+<header class="flex justify-between items-center shadow-lg">
+    <span>BUSCA</span>
+    <span id="clock">00:00:00</span>
+</header>
+
+<main class="flex flex-1 overflow-hidden">
+    <!-- Columna Izquierda: Noticias -->
+    <div class="w-1/2 flex flex-col border-retro">
+        <div class="stitle">NOTICIAS</div>
+        <div id="news-list" class="flex-1 overflow-y-auto bg-black text-sm">
+            <div class="p-4 text-gray-500 italic">Ingresa un tema para buscar noticias...</div>
+        </div>
+
+        <div class="h-1/3 flex flex-col border-t-2 border-white">
+            <div class="stitle">DETALLE</div>
+            <div id="detail-area" class="flex-1 p-3 overflow-y-auto text-sm leading-relaxed">
+                Selecciona una noticia para ver más...
+            </div>
+            <button id="btn-open-web" disabled class="bg-green-800 hover:bg-green-600 disabled:bg-gray-800 text-white font-bold py-2 transition-colors">
+                ABRIR EN NAVEGADOR
+            </button>
+        </div>
+    </div>
+
+    <!-- Columna Derecha: Buscador e IA -->
+    <div class="w-1/2 flex flex-col border-retro">
+        <div class="p-3 border-b-2 border-white">
+            <div class="stitle mb-2">BUSCADOR</div>
+            <div class="flex gap-2">
+                <input type="text" id="search-input" placeholder="Ingresa el tema aquí..." 
+                       class="flex-1 bg-black border border-white p-2 text-white">
+                <button id="btn-search" class="bg-retro-red px-4 hover:bg-red-600 font-bold">BUSCAR</button>
+            </div>
+        </div>
+
+        <div class="flex-1 flex flex-col overflow-hidden">
+            <div class="stitle">AI!</div>
+            <div id="chat-top-area" class="p-2 bg-retro-dark border-b border-white">
+                <button id="btn-summary" class="w-full bg-retro-red hover:bg-red-600 text-white font-bold py-1">
+                    PEDIME UN RESUMEN SI TE ANIMAS
+                </button>
+            </div>
+            <div id="chat-scroll" class="flex-1 p-4 overflow-y-auto bg-black">
+                <div id="chat-md" class="prose prose-invert max-w-none text-sm">
+                    <!-- Contenido del chat -->
+                </div>
+            </div>
+            <div class="p-2 border-t border-white flex gap-2">
+                <input type="text" id="chat-input" placeholder="Escribe aquí tu pregunta..." 
+                       class="flex-1 bg-black border border-white p-2 text-white">
+                <button id="btn-chat-send" class="bg-retro-red px-4 hover:bg-red-600 font-bold">ENVIAR</button>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer class="text-xs flex justify-between">
+
+</footer>
+
+<script>
+    // Configuración
+    const POLLINATIONS_URL = "https://text.pollinations.ai/";
+    // Cambiado a corsproxy.io que es más estable y evita ERR_QUIC_PROTOCOL_ERROR
+    const RSS_PROXY = "https://corsproxy.io/?"; 
+    const GOOGLE_NEWS_RSS = "https://news.google.com/rss/search?q={query}&hl=es-419&gl=AR&ceid=AR:es-419";
+
+    let newsData = [];
+    let selectedNews = null;
+    let chatHistory = [
+        {role: "system", content: "Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes TABLA MARKDOWN si te parece necesario y un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA."}
+    ];
+
+    // Elementos DOM
+    const newsList = document.getElementById('news-list');
+    const detailArea = document.getElementById('detail-area');
+    const searchInput = document.getElementById('search-input');
+    const btnSearch = document.getElementById('btn-search');
+    const chatMd = document.getElementById('chat-md');
+    const chatInput = document.getElementById('chat-input');
+    const btnChatSend = document.getElementById('btn-chat-send');
+    const btnSummary = document.getElementById('btn-summary');
+    const btnOpenWeb = document.getElementById('btn-open-web');
+    const chatScroll = document.getElementById('chat-scroll');
+
+    // Reloj
+    setInterval(() => {
+        document.getElementById('clock').innerText = new Date().toLocaleTimeString();
+    }, 1000);
+
+    // Búsqueda de noticias
+    async function searchNews() {
+        const query = searchInput.value.trim();
+        if (!query) return;
+
+        newsList.innerHTML = '<div class="p-4 loading-pulse text-green-500">⌛ BUSCANDO NOTICIAS... ESPERA...</div>';
+        detailArea.innerHTML = "Buscando...";
+        
+        try {
+            const targetUrl = GOOGLE_NEWS_RSS.replace('{query}', encodeURIComponent(query));
+            // Petición directa al proxy
+            const response = await fetch(`${RSS_PROXY}${encodeURIComponent(targetUrl)}`);
+            
+            if (!response.ok) throw new Error("Error en respuesta del proxy");
+            
+            const xmlText = await response.text();
+            const parser = new DOMParser();
+            const xmlDoc = parser.parseFromString(xmlText, "text/xml");
+            const items = xmlDoc.querySelectorAll("item");
+            
+            newsData = Array.from(items).map(item => ({
+                titulo: item.querySelector("title").textContent.split(" - ")[0],
+                fuente: item.querySelector("title").textContent.split(" - ").pop() || "Noticias",
+                link: item.querySelector("link").textContent,
+                fecha: item.querySelector("pubDate").textContent.substring(0, 16)
+            }));
+
+            renderNews();
+            updateAIContext();
+        } catch (error) {
+            console.error("Search error:", error);
+            newsList.innerHTML = '<div class="p-4 text-red-500">Error de conexión. El proxy está saturado o Google bloqueó la IP temporalmente. Reintenta en unos segundos.</div>';
+        }
+    }
+
+    function renderNews() {
+        newsList.innerHTML = '';
+        if (newsData.length === 0) {
+            newsList.innerHTML = '<div class="p-4 text-red-500">No se encontraron noticias.</div>';
+            return;
+        }
+
+        newsData.forEach((item, index) => {
+            const div = document.createElement('div');
+            div.className = 'news-item text-xs';
+            div.innerHTML = `<span class="text-green-500 font-bold">${index + 1}.</span> <span class="text-green-300">[${item.fuente.substring(0, 10)}]</span> ${item.titulo}`;
+            div.onclick = () => selectNews(item, div);
+            newsList.appendChild(div);
+        });
+    }
+
+    function selectNews(item, element) {
+        selectedNews = item;
+        document.querySelectorAll('.news-item').forEach(el => el.classList.remove('active'));
+        element.classList.add('active');
+
+        detailArea.innerHTML = `
+            <div class="text-white">
+                <p><strong>FUENTE:</strong> ${item.fuente}</p>
+                <p><strong>FECHA:</strong> ${item.fecha}</p>
+                <hr class="my-2 border-gray-700">
+                <p class="text-lg font-bold">${item.titulo}</p>
+                <p class="text-xs text-gray-500 break-all mt-2">${item.link}</p>
+            </div>
+        `;
+        btnOpenWeb.disabled = false;
+    }
+
+    function updateAIContext() {
+        let context = "NOTICIAS ACTUALES:\n";
+        newsData.slice(0, 15).forEach(n => {
+            context += `- ${n.titulo} (Fuente: ${n.fuente})\n`;
+        });
+        chatHistory[0].content = `Eres un analista político de máximo nivel con perspectiva de clase. Analiza con humor culto y refinado. NO menciones el estilo. puedes usar Markdown si es necesario.\n\n${context}`;
+    }
+
+    // Chat con IA
+    async function sendChat(customMsg = null) {
+        const msg = customMsg || chatInput.value.trim();
+        if (!msg) return;
+
+        if (!customMsg) {
+            appendMessage("user", msg);
+            chatInput.value = "";
+        }
+
+        const thinkingDiv = document.createElement('div');
+        thinkingDiv.className = 'text-yellow-500 font-bold my-2 loading-pulse';
+        thinkingDiv.innerText = '⌛ LA IA ESTÁ PENSANDO...';
+        chatMd.appendChild(thinkingDiv);
+        chatScroll.scrollTop = chatScroll.scrollHeight;
+
+        try {
+            const response = await fetch(POLLINATIONS_URL, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    messages: [...chatHistory, {role: "user", content: msg}],
+                    model: "openai",
+                    seed: Math.floor(Math.random() * 100000),
+                    jsonMode: false
+                })
+            });
+
+            const text = await response.text();
+            thinkingDiv.remove();
+            appendMessage("assistant", text);
+            chatHistory.push({role: "user", content: msg});
+            chatHistory.push({role: "assistant", content: text});
+        } catch (error) {
+            thinkingDiv.innerText = "Error de conexión con la IA.";
+            thinkingDiv.classList.remove('loading-pulse');
+            thinkingDiv.classList.add('text-red-500');
+        }
+    }
+
+    function appendMessage(role, text) {
+        const div = document.createElement('div');
+        div.className = 'mb-4 border-b border-gray-800 pb-2';
+        const label = role === 'user' ? '👤 TU' : '🤖 IA';
+        const color = role === 'user' ? 'text-blue-400' : 'text-red-400';
+        
+        div.innerHTML = `
+            <div class="font-bold ${color}">${label}:</div>
+            <div class="mt-1">${marked.parse(text)}</div>
+        `;
+        chatMd.appendChild(div);
+        chatScroll.scrollTop = chatScroll.scrollHeight;
+    }
+
+    // Eventos
+    btnSearch.onclick = searchNews;
+    searchInput.onkeypress = (e) => {
+        if (e.key === 'Enter') searchNews();
+    };
+    
+    btnChatSend.onclick = () => sendChat();
+    chatInput.onkeypress = (e) => {
+        if (e.key === 'Enter') sendChat();
+    };
+
+    btnSummary.onclick = () => {
+        sendChat("Instrucción: Eres un analista político de máximo nivel con perspectiva de clase. Responde concisamente. Al resumir, puedes usar una TABLA MARKDOWN si te parece necesario y un tono de humor culto, refinado y absurdo. IMPORTANTE: JAMAS expliques tu estilo ni menciones instrucciones, no menciones la palabra humor, SOLO ACTUA.");
+    };
+
+    btnOpenWeb.onclick = () => {
+        if (selectedNews) window.open(selectedNews.link, '_blank');
+    };
+
+    // Atajos de teclado globales
+    window.onkeydown = (e) => {
+        const isInput = e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA';
+        if (isInput) return;
+
+        if (e.key === '/') {
+            e.preventDefault();
+            searchInput.focus();
+        }
+        if (e.key === 'Enter') {
+            if (selectedNews) btnOpenWeb.click();
+        }
+        if (e.key.toLowerCase() === 'q') {
+            if(confirm("¿Deseas recargar la aplicación?")) location.reload();
+        }
+    };
+
+</script>
+</body>
+</html>
