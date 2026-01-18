@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-17T20:16:30.792148-03:00",
+    "last_updated": "2026-01-17T22:21:27.755399-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4350,6 +4350,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial ante falta de acuerdo en paritaria con empresas del transporte, disputa por subsidios y estructura de costos",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-califico-de-burla-la-nueva-oferta-empresarial-y-vuelve-a-amenazar-con-un-paro-en-el-amba-202611412430"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-20",
+            "horario": "15:00",
+            "lugar": "Estaciones de Constitución, Once y Federico Lacroze (Buenos Aires); Plaza de los Virreyes, Callao y Corrientes, Carabobo y Rivadavia (Buenos Aires); Mar del Plata; Villa Gesell; Las Toninas; San Nicolás; Hurlingham",
+            "quien": "Partido Obrero (PO)",
+            "tipo_medida": "Mesas de agitación",
+            "motivo": "Repudio a la reforma laboral del gobierno de Milei y la ofensiva imperialista en América Latina, tras la invasión de Venezuela. Promueven un paro activo continental.",
+            "fuente": "https://prensaobrera.com/politicas/mesazo-del-po-contra-la-reforma-laboral-esclavista-y-la-ofensiva-yanqui-en-america-latina, https://www.clarin.com/informacion-general/marcha-cgt-9-abril-previa-paro-mapa-cortes-calle-impacto-congreso_0_atBBPTFjKV.html"
         },
         {
             "es_evento_relevante": true,
