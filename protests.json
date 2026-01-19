@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19T13:24:54.968599-03:00",
+    "last_updated": "2026-01-19T14:24:32.331621-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4370,6 +4370,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Decidir y organizar medidas contra la reforma laboral que tratará el Senado en febrero",
             "fuente": "https://www.infobae.com/politica/2026/01/16/primera-crisis-de-la-nueva-cgt-la-uom-convoca-por-su-cuenta-a-sindicatos-para-decidir-un-paro-con-movilizacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
+            "horario": "No especificado",
+            "lugar": "Minnesota, Estados Unidos",
+            "quien": "Sindicatos y trabajadores de Minnesota",
+            "tipo_medida": "Huelga",
+            "motivo": "Solidaridad contra ICE y el imperialismo, en respuesta al asesinato de Renee Good y la intervención en Venezuela",
+            "fuente": "https://www.laizquierdadiario.com/Sindicatos-convocan-a-huelga-en-Minnesota-contra-las-politicas-racistas-de-Trump"
         },
         {
             "es_evento_relevante": true,
