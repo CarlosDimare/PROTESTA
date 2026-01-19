@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19T14:24:32.331621-03:00",
+    "last_updated": "2026-01-19T15:28:59.871992-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4340,6 +4340,16 @@
             "tipo_medida": "Paro total",
             "motivo": "Despidos injustificados y precarización laboral en empresas contratistas y Acindar",
             "fuente": "https://motoreconomico.com.ar/paro-total-e-indefinido-en-acindar-por-despidos-en-contratistas/, https://elciudadanoweb.com/la-uom-confirmo-para-indefinido-desde-el-lunes-en-acindar-de-villa-constitucion-por-varios-despidos-y-patronal-que-no-negocia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-19",
+            "horario": "14:00",
+            "lugar": "Fábricas del gremio SUTNA (Fate, Pirelli, Bridgestone)",
+            "quien": "SUTNA (Sindicato Único de Trabajadores de la Neumática)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por despidos, congelamiento salarial de 12 meses y condiciones laborales precarias",
+            "fuente": "https://www.laizquierdadiario.com/Fate-tercer-jornada-de-paro-contra-un-ano-de-congelamiento-salarial"
         },
         {
             "es_evento_relevante": true,
