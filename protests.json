@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19T16:22:50.941102-03:00",
+    "last_updated": "2026-01-19T17:21:46.640139-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4350,6 +4350,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por despidos, congelamiento salarial de 12 meses y condiciones laborales precarias",
             "fuente": "https://www.laizquierdadiario.com/Fate-tercer-jornada-de-paro-contra-un-ano-de-congelamiento-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-19",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Docencia bonaerense / FEB / Suteba (seccional)",
+            "tipo_medida": "Paros progresivos y No Inicio de clases",
+            "motivo": "Rechazo al acuerdo salarial del 3% firmado por Suteba, reclamo de recomposición salarial frente a la inflación, y oposición a la política de ajuste educativo del gobierno de Kicillof",
+            "fuente": "https://prensaobrera.com/sindicales/docentes-pongamos-en-pie-asambleas-y-un-plan-de-lucha-para-derrotar-el-ajuste-de-kicillof"
         },
         {
             "es_evento_relevante": true,
