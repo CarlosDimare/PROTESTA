@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19T19:19:25.954310-03:00",
+    "last_updated": "2026-01-19T20:21:23.417355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4324,6 +4324,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-01-19",
+            "horario": "00:00",
+            "lugar": "Parque Industrial de Tortuguitas, provincia de Buenos Aires",
+            "quien": "Trabajadores de Lustramax",
+            "tipo_medida": "Acampe y piquete",
+            "motivo": "Reincorporación de 15 trabajadores despedidos, denuncias de despidos arbitrarios, persecución sindical y deuda salarial, en rechazo a la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-y-democracia-obrera-el-aprendizaje-de-los-trabajadores-para-enfrentar-los-despidos-y-la"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-19",
             "horario": "06:00",
             "lugar": "Plantas de la siderúrgica Acindar y empresas contratistas en Villa Constitución, Santa Fe",
             "quien": "Unión Obrera Metalúrgica (UOM) Seccional Villa Constitución",
@@ -4368,8 +4378,8 @@
             "lugar": "AMBA",
             "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo salarial ante falta de acuerdo en paritaria con empresas del transporte, disputa por subsidios y estructura de costos",
-            "fuente": "https://www.datagremial.com/paritarias/la-uta-califico-de-burla-la-nueva-oferta-empresarial-y-vuelve-a-amenazar-con-un-paro-en-el-amba-202611412430"
+            "motivo": "Rechazo a oferta del 1% de aumento salarial y exigencia de respuesta concreta ante la crisis económica y el aumento de costos operativos",
+            "fuente": "https://www.inforegion.com.ar/2026/01/19/la-uta-define-si-va-al-paro-por-salarios/, https://www.datagremial.com/paritarias/la-uta-califico-de-burla-la-nueva-oferta-empresarial-y-vuelve-a-amenazar-con-un-paro-en-el-amba-202611412430"
         },
         {
             "es_evento_relevante": true,
@@ -4394,6 +4404,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-01-22",
+            "horario": "10:00",
+            "lugar": "Sede de la UOM",
+            "quien": "Abel Furlán (UOM) y sindicatos convocados",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Contra la reforma laboral, específicamente el artículo que limita el derecho de huelga",
+            "fuente": "https://www.infobae.com/politica/2026/01/19/el-ala-dura-del-sindicalismo-se-divide-por-la-reforma-laboral-los-gremios-del-transporte-se-alinean-con-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
             "horario": "No especificado",
             "lugar": "Minnesota, Estados Unidos",
             "quien": "Sindicatos y trabajadores de Minnesota",
@@ -4410,6 +4430,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Repudio a la represión estatal contra activistas y solidaridad con Palestina",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-y-movilizaciones-unitarias-contra-la-ofensiva-represiva-de-Meloni"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "09:00",
+            "lugar": "Calle de Buenos Aires (lugar exacto no especificado)",
+            "quien": "Coalición de activistas autoconvocades, sindicatos (UTE, Ademys), organizaciones políticas (Pan y Rosas, PTS), colectivos LGBTIQ+ (Las Históricas, Libre Diversidad), movimientos sociales (Jubiladxs Insurgentes, AMMAR, Mostri) y asambleas barriales",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al discurso de odio del gobierno de Milei, reclamos contra despidos, reforma laboral, políticas de persecución LGBTIQ+, desfinanciamiento de salud pública, desalojos y represión estatal",
+            "fuente": "https://www.laizquierdadiario.com/Orgullo-antifascista-y-antirracista-LGBTQI-convocan-a-marchar-el-7F-y-cuando-se-trate-la-reforma, https://www.infobae.com/venezuela/2025/08/08/sindicatos-y-organizaciones-civiles-convocaron-una-movilizacion-en-caracas-contra-la-represion-del-regimen-de-maduro/"
         },
         {
             "es_evento_relevante": true,
