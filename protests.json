@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-19T15:28:59.871992-03:00",
+    "last_updated": "2026-01-19T16:22:50.941102-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4426,10 +4426,10 @@
             "fecha": "2026-02-10",
             "horario": "13:00",
             "lugar": "No especificado",
-            "quien": "CGT y CTAs",
-            "tipo_medida": "Paro Nacional con Movilización",
-            "motivo": "Contra la reforma laboral y en defensa de los puestos de trabajo",
-            "fuente": "https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición a la reforma laboral que el gobierno oficialista pretende aprobar en el Congreso",
+            "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-ratifico-que-la-cgt-ira-al-paro-si-no-hay-cambios-en-el-proyecto-de-reforma-laboral--202611911230, https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
