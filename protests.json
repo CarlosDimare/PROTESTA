@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-20T17:12:15.051159-03:00",
+    "last_updated": "2026-01-20T18:21:00.065000-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4370,6 +4370,16 @@
             "tipo_medida": "Paros progresivos y No Inicio de clases",
             "motivo": "Rechazo al acuerdo salarial del 3% firmado por Suteba, reclamo de recomposición salarial frente a la inflación, y oposición a la política de ajuste educativo del gobierno de Kicillof",
             "fuente": "https://prensaobrera.com/sindicales/docentes-pongamos-en-pie-asambleas-y-un-plan-de-lucha-para-derrotar-el-ajuste-de-kicillof"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-20",
+            "horario": "13:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Recorrido provincial para convencer a gobernadores de oponerse al proyecto de reforma laboral en el Senado",
+            "fuente": "https://www.infobae.com/politica/2026/01/20/reforma-laboral-comienzan-los-contactos-para-analizar-cambios-pero-la-cgt-tomo-una-decision-inesperada/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
