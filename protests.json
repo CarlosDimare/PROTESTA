@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-20T11:32:50.302254-03:00",
+    "last_updated": "2026-01-20T12:32:03.325950-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4410,6 +4410,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Contra la reforma laboral, específicamente el artículo que limita el derecho de huelga",
             "fuente": "https://www.infobae.com/politica/2026/01/19/el-ala-dura-del-sindicalismo-se-divide-por-la-reforma-laboral-los-gremios-del-transporte-se-alinean-con-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
+            "horario": "16:00",
+            "lugar": "Sede de la UOM en Buenos Aires",
+            "quien": "Unión Obrera Metalúrgica (UOM) y gremios de industria y transporte",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral de Javier Milei y organización de la lucha contra ella",
+            "fuente": "https://www.datagremial.com/informacion-general/encabezados-por-la-uom-un-grupo-de-gremios-se-reune-para-definir-un-paro-contra-la-reforma-laboral-202612011550"
         },
         {
             "es_evento_relevante": true,
