@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-20T01:44:16.742701-03:00",
+    "last_updated": "2026-01-20T02:32:38.505647-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4470,6 +4470,16 @@
             "tipo_medida": "Paro",
             "motivo": "Oposición a la reforma laboral que el gobierno oficialista pretende aprobar en el Congreso",
             "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-ratifico-que-la-cgt-ira-al-paro-si-no-hay-cambios-en-el-proyecto-de-reforma-laboral--202611911230, https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "10:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "UTEP y organizaciones piqueteras de izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a reforma laboral que precariza y debilita derechos sindicales",
+            "fuente": "https://www.infobae.com/politica/2026/01/20/los-movimientos-sociales-y-piqueteros-se-movilizaran-en-febrero-al-congreso-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
