@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-20T22:21:42.860618-03:00",
+    "last_updated": "2026-01-21T00:35:53.178757-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4420,6 +4420,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Contra la reforma laboral, específicamente el artículo que limita el derecho de huelga",
             "fuente": "https://www.infobae.com/politica/2026/01/19/el-ala-dura-del-sindicalismo-se-divide-por-la-reforma-laboral-los-gremios-del-transporte-se-alinean-con-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
+            "horario": "14:00",
+            "lugar": "Parque industrial de Tortuguitas",
+            "quien": "Mesa de coordinación de la Zona Norte",
+            "tipo_medida": "Caravana",
+            "motivo": "Apoyo a los trabajadores despedidos de Lustramax y visibilización del conflicto laboral",
+            "fuente": "https://www.laizquierdadiario.com/La-mesa-de-coordinacion-de-zona-norte-se-reune-en-el-acampe-de-Lustramax"
         },
         {
             "es_evento_relevante": true,
