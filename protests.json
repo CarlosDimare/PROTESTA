@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T11:31:34.105029-03:00",
+    "last_updated": "2026-01-21T12:35:20.891269-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4414,6 +4414,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-01-22",
+            "horario": "08:00",
+            "lugar": "Líneas de corta y media distancia del Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial por falta de oferta empresarial y reclamo de recomposición salarial acorde con la inflación y el costo de vida",
+            "fuente": "https://www.datagremial.com/paritarias/se-postergo-la-paritaria-de-los-choferes-de-colectivos-y-crece-la-tension-por-un-posible-paro-202612111340"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
             "horario": "10:00",
             "lugar": "Sede de la UOM",
             "quien": "Abel Furlán (UOM) y sindicatos convocados",
@@ -4576,10 +4586,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "ATE y Sindicato de Aceiteros",
+            "quien": "Movimiento sindical",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo total a la reforma laboral, considerada una contrarreforma que precariza y elimina derechos laborales",
-            "fuente": "https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+            "motivo": "Protesta contra ola de despidos y ajustes laborales en diversos sectores",
+            "fuente": "https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
         },
         {
             "es_evento_relevante": true,
