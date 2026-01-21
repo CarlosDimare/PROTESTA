@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T09:42:22.034785-03:00",
+    "last_updated": "2026-01-21T10:50:58.758885-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4450,6 +4450,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Solidaridad contra ICE y el imperialismo, en respuesta al asesinato de Renee Good y la intervención en Venezuela",
             "fuente": "https://www.laizquierdadiario.com/Sindicatos-convocan-a-huelga-en-Minnesota-contra-las-politicas-racistas-de-Trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "15:00",
+            "lugar": "Ruta 9 norte, acceso sur a Jesús María, Córdoba",
+            "quien": "Gremios estatales y movimientos sociales de Córdoba",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la visita de Milei, rechazo a la reforma laboral y reclamo por fondos para la Caja de Jubilaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/gremios-cordobeses-recibieron-a-milei-con-reclamo-de-fondos-y-rechazo-a-la-reforma-laboral-202611617100"
         },
         {
             "es_evento_relevante": true,
