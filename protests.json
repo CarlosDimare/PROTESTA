@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T19:22:07.485790-03:00",
+    "last_updated": "2026-01-21T20:24:32.928203-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4480,6 +4480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a la visita de Milei, rechazo a la reforma laboral y reclamo por fondos para la Caja de Jubilaciones",
             "fuente": "https://www.datagremial.com/informacion-general/gremios-cordobeses-recibieron-a-milei-con-reclamo-de-fondos-y-rechazo-a-la-reforma-laboral-202611617100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-28",
+            "horario": "No especificado",
+            "lugar": "Sede de la Unión Obrera Metalúrgica (UOM)",
+            "quien": "Nucleamiento de gremios liderado por Abel Furlán (UOM) y Omar Maturano (La Fraternidad), con participación de aceiteros, portuarios, ferroviarios, viales, gráficos, entre otros",
+            "tipo_medida": "Reunión preparatoria para definir Paro General o Huelga de 48 horas",
+            "motivo": "Definir una protesta general contra la Reforma Laboral antes de su aprobación legislativa, presionar a gobernadores que apoyen a Javier Milei, y expresar bronca por pérdida de puestos de trabajo",
+            "fuente": "https://motoreconomico.com.ar/furlan-la-uom-reunio-25-gremios-empezaron-a-discutir-la-chance-de-un-paro-general-y-barajaron-llevarle-las-protestas-a-los-gobernadores-que-voten-la-reforma-de-milei/"
         },
         {
             "es_evento_relevante": true,
