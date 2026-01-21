@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T15:39:35.619983-03:00",
+    "last_updated": "2026-01-21T16:26:03.663467-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4460,6 +4460,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Solidaridad contra ICE y el imperialismo, en respuesta al asesinato de Renee Good y la intervención en Venezuela",
             "fuente": "https://www.laizquierdadiario.com/Sindicatos-convocan-a-huelga-en-Minnesota-contra-las-politicas-racistas-de-Trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "00:00",
+            "lugar": "Minneapolis, Minnesota",
+            "quien": "Workers Strike Back (y treintena de organizaciones sindicales, políticas, religiosas y comunitarias)",
+            "tipo_medida": "Huelga general con movilización central",
+            "motivo": "Rechazo a la política migratoria de Trump y represión del ICE, exigiendo retirada de agentes, encarcelamiento del asesino de Renee Nicole Good y corte de fondos al ICE",
+            "fuente": "https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
         },
         {
             "es_evento_relevante": true,
