@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T07:27:41.421325-03:00",
+    "last_updated": "2026-01-21T08:27:47.500499-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4460,6 +4460,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Repudio a la represión estatal contra activistas y solidaridad con Palestina",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-y-movilizaciones-unitarias-contra-la-ofensiva-represiva-de-Meloni"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por revisión salarial urgente y contra la pauta oficial que genera pérdida del salario real",
+            "fuente": "https://www.infobae.com/politica/2026/01/21/moyano-desafia-al-gobierno-reclamo-a-los-empresarios-una-revision-urgente-y-mas-frecuente-de-los-salarios/, https://larepublica.pe/datos-lr/colombia/2025/01/06/como-va-el-paro-camionero-hoy-que-se-sabe-sobre-el-inicio-de-las-protestas-rutas-afectadas-y-a-que-hora-sera-segun-transportistas-lrtmco-198888"
         },
         {
             "es_evento_relevante": true,
