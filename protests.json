@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-21T22:20:21.840313-03:00",
+    "last_updated": "2026-01-22T00:53:45.818070-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4470,6 +4470,16 @@
             "tipo_medida": "Huelga general con movilización central",
             "motivo": "Rechazo a la política migratoria de Trump y represión del ICE, exigiendo retirada de agentes, encarcelamiento del asesino de Renee Nicole Good y corte de fondos al ICE",
             "fuente": "https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "15:00",
+            "lugar": "Minneapolis y St. Paul, Minnesota, EE.UU.",
+            "quien": "Coalición de sindicatos y organizaciones comunitarias de Minnesota",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la ofensiva antiinmigrante de Trump y la violencia de ICE en Minnesota",
+            "fuente": "https://www.laizquierdadiario.com/La-clase-trabajadora-de-Minnesota-quiere-ir-a-una-fuerte-huelga-en-el-dia-de-accion-contra-Ice, https://coloradoimmigrant.org/es/40-unions-and-10-community-organizations-to-rally-to-reclaim-may-day-at-the-colorado-state-capitol-on-may-1st/"
         },
         {
             "es_evento_relevante": true,
