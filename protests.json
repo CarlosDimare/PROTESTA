@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-22T10:47:50.430922-03:00",
+    "last_updated": "2026-01-22T11:33:24.419851-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4570,6 +4570,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a reforma laboral que precariza y debilita derechos sindicales",
             "fuente": "https://www.infobae.com/politica/2026/01/20/los-movimientos-sociales-y-piqueteros-se-movilizaran-en-febrero-al-congreso-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-21",
+            "horario": "10:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Tribuna Docente",
+            "tipo_medida": "Movilización",
+            "motivo": "Congreso Nacional para planificar lucha contra recortes educativos del gobierno de Milei y políticas de ajuste",
+            "fuente": "https://prensaobrera.com/sindicales/milei-y-los-gobernadores-consolidan-desfinanciamiento-historico-de-la-educacion-sin-resistencia-alguna-de-ctera"
         },
         {
             "es_evento_relevante": true,
