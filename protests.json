@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-22T14:32:33.059914-03:00",
+    "last_updated": "2026-01-22T15:31:23.729355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4450,6 +4450,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral de Javier Milei y organización de la lucha contra ella",
             "fuente": "https://www.datagremial.com/informacion-general/encabezados-por-la-uom-un-grupo-de-gremios-se-reune-para-definir-un-paro-contra-la-reforma-laboral-202612011550"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-22",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "UOM (Unión Obrera Metalúrgica), CSIRA, APSEE, Asociación Minera, Pilotos Aeronáuticos, Oficiales Fluviales, Viales, Federación Aceitera, ATE y más de veinte organizaciones sindicales multisectoriales",
+            "tipo_medida": "Movilización",
+            "motivo": "Enfrentar el plan de acción del gobierno de Milei, especialmente el proyecto de flexibilización laboral, ante despidos, cierres de empresas, precarización laboral y caída del poder adquisitivo salarial",
+            "fuente": "https://estadodealerta.com.ar/la-uom-de-furlan-convoca-a-organizaciones-sindicales-para-sumar-fuerza-en-el-enfrentamiento-a-la-administracion-libertaria/"
         },
         {
             "es_evento_relevante": true,
