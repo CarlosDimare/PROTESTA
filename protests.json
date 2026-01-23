@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23T16:26:16.237215-03:00",
+    "last_updated": "2026-01-23T17:24:37.049671-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4480,6 +4480,16 @@
             "tipo_medida": "Huelga general con movilización central",
             "motivo": "Rechazo a la política migratoria de Trump y represión del ICE, exigiendo retirada de agentes, encarcelamiento del asesino de Renee Nicole Good y corte de fondos al ICE",
             "fuente": "https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Campaña nacional por aumento salarial del 20% y crítica al impuesto a las ganancias sobre salarios",
+            "fuente": "https://estadodealerta.com.ar/mesa-sindical-mas-de-2-millones-de-trabajadores-pagaran-ganancias-la-inflacion-maquillada-suma-laburantes-de-salarios-medios-denuncian/, https://caracol.com.co/2026/01/17/manifestaciones-en-defensa-del-salario-minimo-2026-fecha-hora-y-puntos-de-concentracion/"
         },
         {
             "es_evento_relevante": true,
