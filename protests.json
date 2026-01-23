@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23T15:30:50.508939-03:00",
+    "last_updated": "2026-01-23T16:26:16.237215-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4480,6 +4480,16 @@
             "tipo_medida": "Huelga general con movilización central",
             "motivo": "Rechazo a la política migratoria de Trump y represión del ICE, exigiendo retirada de agentes, encarcelamiento del asesino de Renee Nicole Good y corte de fondos al ICE",
             "fuente": "https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "12:00",
+            "lugar": "centro de Minneapolis",
+            "quien": "Sindicatos y organizaciones sociales",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio al ICE y políticas represivas de Trump, justicia por el asesinato de Renee Nicole Good y abusos en centros de detención",
+            "fuente": "https://www.laizquierdadiario.com/Jornada-de-lucha-y-movilizacion-contra-Trump-y-el-ICE"
         },
         {
             "es_evento_relevante": true,
