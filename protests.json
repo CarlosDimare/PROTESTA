@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23T19:19:15.694117-03:00",
+    "last_updated": "2026-01-23T20:24:05.506961-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4476,10 +4476,20 @@
             "fecha": "2026-01-23",
             "horario": "00:00",
             "lugar": "Minneapolis, Minnesota",
-            "quien": "Workers Strike Back (y treintena de organizaciones sindicales, políticas, religiosas y comunitarias)",
-            "tipo_medida": "Huelga general con movilización central",
-            "motivo": "Rechazo a la política migratoria de Trump y represión del ICE, exigiendo retirada de agentes, encarcelamiento del asesino de Renee Nicole Good y corte de fondos al ICE",
-            "fuente": "https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
+            "quien": "Trabajadores, estudiantes y activistas contra ICE",
+            "tipo_medida": "Paro",
+            "motivo": "Contra las políticas de terror del ICE y la ultraderecha",
+            "fuente": "https://www.laizquierdadiario.com/El-vicepresidente-de-EE-UU-defiende-la-violencia-del-ICE-y-se-burla-de-las-protestas, https://prensaobrera.com/internacionales/huelga-en-minnesota-contra-la-politica-antimigrantes-de-trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-23",
+            "horario": "09:30",
+            "lugar": "Hotel Presidente Perón, Mar del Plata",
+            "quien": "Luis Barrionuevo (UTHGRA) y dirigentes sindicales aliados",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral del Gobierno y crítica a la gestión económica de Milei.",
+            "fuente": "https://elciudadanoweb.com/barrionuevo-reune-en-mar-del-plata-a-sus-gremialistas-contra-la-reforma-laboral-de-milei/"
         },
         {
             "es_evento_relevante": true,
