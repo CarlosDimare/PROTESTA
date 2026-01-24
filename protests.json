@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-24T01:35:59.876867-03:00",
+    "last_updated": "2026-01-24T02:21:31.038967-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4530,6 +4530,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a la visita de Milei, rechazo a la reforma laboral y reclamo por fondos para la Caja de Jubilaciones",
             "fuente": "https://www.datagremial.com/informacion-general/gremios-cordobeses-recibieron-a-milei-con-reclamo-de-fondos-y-rechazo-a-la-reforma-laboral-202611617100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-24",
+            "horario": "No especificado",
+            "lugar": "Astillero Río Santiago",
+            "quien": "Trabajadores del Astillero Río Santiago / ATE Ensenada",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a políticas de ajuste, defensa del convenio colectivo, aumento salarial urgente y planes de trabajo para la planta naval",
+            "fuente": "https://prensaobrera.com/sindicales/debate-con-ate-ensenada-kicillof-no-es-companero-de-los-trabajadores"
         },
         {
             "es_evento_relevante": true,
