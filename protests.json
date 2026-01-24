@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23T20:24:05.506961-03:00",
+    "last_updated": "2026-01-23T22:17:30.962006-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4530,6 +4530,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a la visita de Milei, rechazo a la reforma laboral y reclamo por fondos para la Caja de Jubilaciones",
             "fuente": "https://www.datagremial.com/informacion-general/gremios-cordobeses-recibieron-a-milei-con-reclamo-de-fondos-y-rechazo-a-la-reforma-laboral-202611617100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-26",
+            "horario": "No especificado",
+            "lugar": "Pilar",
+            "quien": "Trabajadores de Granja Tres Arroyos",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir pago de salarios, aportes jubilatorios y obra social, aguinaldo adeudado, y normalización de condiciones laborales",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Granja-Tres-Arroyos-en-paro-denuncian-recorte-salarial-falta-de-aportes-y-aguinaldo"
         },
         {
             "es_evento_relevante": true,
