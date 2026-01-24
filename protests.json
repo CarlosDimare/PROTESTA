@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-24T18:16:49.611583-03:00",
+    "last_updated": "2026-01-24T19:20:24.225431-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4560,6 +4560,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir pago de salarios, aportes jubilatorios y obra social, aguinaldo adeudado, y normalización de condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Granja-Tres-Arroyos-en-paro-denuncian-recorte-salarial-falta-de-aportes-y-aguinaldo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-28",
+            "horario": "00:00",
+            "lugar": "Minneapolis, Estados Unidos",
+            "quien": "Colectivo 50501, sindicatos (Unite Here, Sindicato de Graduados Laborales, Federación de Educadores) y líderes religiosos",
+            "tipo_medida": "Paro general con bloqueos",
+            "motivo": "En contra del despliegue de agentes del ICE y la represión migratoria",
+            "fuente": "https://motoreconomico.com.ar/el-imperio-en-problemas-protestas-contra-ice-y-trump-sacuden-ee-uu-e-irrumpen-en-campana-de-medio-termino/"
         },
         {
             "es_evento_relevante": true,
