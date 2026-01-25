@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-25T11:19:17.457283-03:00",
+    "last_updated": "2026-01-25T12:19:47.661372-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4610,6 +4610,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio al discurso de odio del gobierno de Milei, reclamos contra despidos, reforma laboral, políticas de persecución LGBTIQ+, desfinanciamiento de salud pública, desalojos y represión estatal",
             "fuente": "https://www.laizquierdadiario.com/Orgullo-antifascista-y-antirracista-LGBTQI-convocan-a-marchar-el-7F-y-cuando-se-trate-la-reforma, https://www.infobae.com/venezuela/2025/08/08/sindicatos-y-organizaciones-civiles-convocaron-una-movilizacion-en-caracas-contra-la-represion-del-regimen-de-maduro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional a Plaza de Mayo",
+            "quien": "Colectivo LGTBIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra los dichos homofóbicos de Milei en Davos y la política de odio impulsada desde el Estado",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
         },
         {
             "es_evento_relevante": true,
