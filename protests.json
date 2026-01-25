@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-25T10:32:45.922578-03:00",
+    "last_updated": "2026-01-25T11:19:17.457283-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4650,6 +4650,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a reforma laboral que precariza y debilita derechos sindicales",
             "fuente": "https://www.infobae.com/politica/2026/01/20/los-movimientos-sociales-y-piqueteros-se-movilizaran-en-febrero-al-congreso-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "10:30",
+            "lugar": "En todo el país, con concentración principal frente al Congreso Nacional",
+            "quien": "Plenario del sindicalismo combativo, movimientos piqueteros independientes y agrupaciones de jubilados en lucha",
+            "tipo_medida": "Paro activo nacional",
+            "motivo": "Rechazo a la reforma laboral esclavista y plan de lucha contra el gobierno de Milei",
+            "fuente": "https://prensaobrera.com/sindicales/lunes-2-2-a-las-17-gran-autoconvocatoria-independiente-en-parque-lezama-para-preparar-la-movilizacion-el-dia-que-se-trate-la-reforma-laboral, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
         },
         {
             "es_evento_relevante": true,
