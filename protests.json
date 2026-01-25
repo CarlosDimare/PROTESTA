@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-25T12:19:47.661372-03:00",
+    "last_updated": "2026-01-25T13:27:56.595664-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4580,6 +4580,16 @@
             "tipo_medida": "Reunión preparatoria para definir Paro General o Huelga de 48 horas",
             "motivo": "Definir una protesta general contra la Reforma Laboral antes de su aprobación legislativa, presionar a gobernadores que apoyen a Javier Milei, y expresar bronca por pérdida de puestos de trabajo",
             "fuente": "https://motoreconomico.com.ar/furlan-la-uom-reunio-25-gremios-empezaron-a-discutir-la-chance-de-un-paro-general-y-barajaron-llevarle-las-protestas-a-los-gobernadores-que-voten-la-reforma-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-29",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "UnTER",
+            "tipo_medida": "Congreso Extraordinario",
+            "motivo": "Organizar respuesta frente a política salarial y reformas laborales",
+            "fuente": "https://prensaobrera.com/sindicales/la-docencia-no-se-toma-vacaciones-en-rio-negro, https://www.infobae.com/politica/2024/10/01/mapa-de-la-marcha-universitaria-horarios-de-concentracion-organizaciones-que-protestan-y-zonas-afectadas/"
         },
         {
             "es_evento_relevante": true,
