@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T14:32:33.321524-03:00",
+    "last_updated": "2026-01-26T15:31:49.087816-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4766,10 +4766,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "CGT Azul y Blanca (UTHGRA, Camioneros, La Fraternidad, entre otros gremios)",
-            "tipo_medida": "Movilización",
-            "motivo": "Frenar la reforma laboral del gobierno libertaria que implica flexibilización y pérdida de derechos para los trabajadores",
-            "fuente": "https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+            "quien": "Centrales sindicales (CTERA, CGT, CTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral y alineamiento del gobernador Weretilneck con Milei, en defensa de derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
         },
         {
             "es_evento_relevante": true,
