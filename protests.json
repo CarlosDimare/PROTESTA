@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T09:39:38.878054-03:00",
+    "last_updated": "2026-01-26T10:45:33.257421-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4640,6 +4640,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra los dichos homofóbicos de Milei en Davos y la política de odio impulsada desde el Estado",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "06:00",
+            "lugar": "Centro de Villa Constitución, Santa Fe",
+            "quien": "Trabajadores de Acindar y UOM (Unión Obrera Metalúrgica) con apoyo de sindicatos regionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de puestos de trabajo contra despidos ilegales y oposición a la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Paro-total-en-Acindar-Villa-Constitucion-contra-los-despidos, https://www.elciudadanoweb.com/la-uom-confirmo-para-indefinido-desde-el-lunes-en-acindar-de-villa-constitucion-por-varios-despidos-y-patronal-que-no-negocia/"
         },
         {
             "es_evento_relevante": true,
