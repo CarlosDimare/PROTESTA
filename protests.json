@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T11:27:20.283062-03:00",
+    "last_updated": "2026-01-26T12:31:52.568715-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4560,6 +4560,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir pago de salarios, aportes jubilatorios y obra social, aguinaldo adeudado, y normalización de condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Granja-Tres-Arroyos-en-paro-denuncian-recorte-salarial-falta-de-aportes-y-aguinaldo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-27",
+            "horario": "15:00",
+            "lugar": "Conurbano Bonaerense (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del 1% por parte de empresas, considerada insufiente frente a la inflación del 2,8% en diciembre. Exigencia de aumento salarial acorde al índice inflacionario.",
+            "fuente": "https://www.datagremial.com/paritarias/semana-clave-para-la-paritaria-de-los-choferes-de-colectivos-si-no-hay-acuerdo-la-uta-hara-un-paro-de-48-horas-202612611540"
         },
         {
             "es_evento_relevante": true,
