@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T16:24:57.195107-03:00",
+    "last_updated": "2026-01-26T17:24:11.039278-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4550,6 +4550,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Rechazo a políticas de ajuste, defensa del convenio colectivo, aumento salarial urgente y planes de trabajo para la planta naval",
             "fuente": "https://prensaobrera.com/sindicales/debate-con-ate-ensenada-kicillof-no-es-companero-de-los-trabajadores"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-26",
+            "horario": "10:00",
+            "lugar": "Municipio de Esquel",
+            "quien": "Asamblea de vecinas y vecinos autoconvocados",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar al intendente Matías Taccetta explicaciones sobre acciones de prevención contra incendios forestales y un plan de contingencia urgente",
+            "fuente": "https://www.anred.org/incendio-en-parque-nacional-los-alerces-cual-es-el-plan-asamblea-autoconvocada-de-esquel-pide-explicaciones-al-intendente-matias-taccetta/"
         },
         {
             "es_evento_relevante": true,
