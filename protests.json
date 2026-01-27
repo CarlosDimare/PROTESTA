@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T17:24:15.889314-03:00",
+    "last_updated": "2026-01-27T18:18:19.515421-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4690,6 +4690,16 @@
             "tipo_medida": "Plenario",
             "motivo": "Fortalecer la clase trabajadora para frenar la ofensiva patronal y del gobierno de Milei, superando a las burocracias sindicales",
             "fuente": "https://prensaobrera.com/sindicales/ante-la-intransigencia-patronal-en-lustramax-los-trabajadores-profundizan-las-acciones-de-lucha, https://www.laizquierdadiario.com/Este-viernes-jornada-de-sectores-en-lucha-el-sindicalismo-combativo-y-el-movimiento-piquetero"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-02",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "ATE y gremios estatales (judiciales, salud, vialidad, energía, telecomunicaciones, bancarios jerárquicos, PAMI, portuarios, docentes, investigadores universitarios, entre otros)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional y presión sobre senadores y gobernadores provinciales",
+            "fuente": "https://www.infobae.com/politica/2026/01/27/sindicatos-estatales-realizaran-un-paro-el-dia-que-se-trate-la-reforma-laboral-en-el-senado/, https://www.eldestapeweb.com/politica/reforma-laboral/marcha-contra-la-reforma-laboral-horarios-cortes-y-los-servicios-afectados-20251217162948"
         },
         {
             "es_evento_relevante": true,
