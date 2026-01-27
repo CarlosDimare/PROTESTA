@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T00:48:36.315466-03:00",
+    "last_updated": "2026-01-27T01:46:49.923584-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4670,6 +4670,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra los dichos homofóbicos de Milei en Davos y la política de odio impulsada desde el Estado",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "No especificado",
+            "lugar": "Campos de producción de yerba mate en Misiones",
+            "quien": "Productores yerbateros de Misiones",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamo por precio justo de la hoja verde de yerba mate y regulación del INYM",
+            "fuente": "https://www.infobae.com/politica/2026/01/27/crisis-en-la-yerba-productores-amenazan-con-el-desabastecimiento-si-no-mejoran-los-precios-de-la-materia-prima/"
         },
         {
             "es_evento_relevante": true,
