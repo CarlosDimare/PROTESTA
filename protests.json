@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T13:30:46.985244-03:00",
+    "last_updated": "2026-01-27T14:30:34.200805-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4570,6 +4570,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir pago de salarios, aportes jubilatorios y obra social, aguinaldo adeudado, y normalización de condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Granja-Tres-Arroyos-en-paro-denuncian-recorte-salarial-falta-de-aportes-y-aguinaldo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-27",
+            "horario": "15:00",
+            "lugar": "Puerto de Ushuaia",
+            "quien": "SUTAP, ATE y APDFA",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la intervención del puerto dispuesta por el gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/todo-el-arco-sindical-rechazo-la-intervencion-del-puerto-de-ushuaia-arbitraria-excesiva-e-ilegal--202612312550, https://www.eldestapeweb.com/politica/reforma-laboral/paro-nacional-de-ate-cuando-es-la-medida-de-fuerza-contra-la-reforma-laboral-2025121513352"
         },
         {
             "es_evento_relevante": true,
