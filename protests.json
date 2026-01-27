@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T12:33:16.756273-03:00",
+    "last_updated": "2026-01-27T13:30:46.985244-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4574,22 +4574,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-01-27",
-            "horario": "15:00",
-            "lugar": "Conurbano Bonaerense (AMBA)",
-            "quien": "Unión Tranviarios Automotor (UTA)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 1% por parte de empresas, considerada insufiente frente a la inflación del 2,8% en diciembre. Exigencia de aumento salarial acorde al índice inflacionario.",
-            "fuente": "https://www.datagremial.com/paritarias/semana-clave-para-la-paritaria-de-los-choferes-de-colectivos-si-no-hay-acuerdo-la-uta-hara-un-paro-de-48-horas-202612611540"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-01-27",
             "horario": "No especificado",
             "lugar": "Rosario, Santa Fe",
             "quien": "Choferes de Uber",
             "tipo_medida": "Paro",
             "motivo": "Actualización de tarifas congeladas desde hace dos años frente a la inflación y aumento de costos operativos",
             "fuente": "https://elciudadanoweb.com/choferes-rosarinos-de-uber-advierten-que-estan-cobrando-muy-poco-y-van-al-paro-este-martes-piden-que-la-empresa-les-actualice-la-tarifa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-27",
+            "horario": "posterior",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del 1% de los empresarios, frente a la inflación y aumento de boletos de transporte",
+            "fuente": "https://www.inforegion.com.ar/2026/01/27/reunion-clave-de-la-uta-buscan-desactivar-un-paro/, https://www.datagremial.com/paritarias/semana-clave-para-la-paritaria-de-los-choferes-de-colectivos-si-no-hay-acuerdo-la-uta-hara-un-paro-de-48-horas-202612611540"
         },
         {
             "es_evento_relevante": true,
