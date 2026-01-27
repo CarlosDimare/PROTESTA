@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T11:27:36.038925-03:00",
+    "last_updated": "2026-01-27T12:33:16.756273-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4663,6 +4663,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-02",
+            "horario": "07:30",
+            "lugar": "Parque Lezama",
+            "quien": "Sindicalismo combativo, movimiento piquetero independiente y agrupaciones de jubilados en lucha",
+            "tipo_medida": "Plenario",
+            "motivo": "Fortalecer la clase trabajadora para frenar la ofensiva patronal y del gobierno de Milei, superando a las burocracias sindicales",
+            "fuente": "https://prensaobrera.com/sindicales/ante-la-intransigencia-patronal-en-lustramax-los-trabajadores-profundizan-las-acciones-de-lucha, https://www.laizquierdadiario.com/Este-viernes-jornada-de-sectores-en-lucha-el-sindicalismo-combativo-y-el-movimiento-piquetero"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-07",
             "horario": "17:00",
             "lugar": "Congreso Nacional a Plaza de Mayo",
@@ -4796,10 +4806,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "Centrales sindicales (CTERA, CGT, CTA)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral y alineamiento del gobernador Weretilneck con Milei, en defensa de derechos laborales",
-            "fuente": "https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+            "quien": "CTA de los Trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de la reforma laboral propuesta por el gobierno de Javier Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
         },
         {
             "es_evento_relevante": true,
