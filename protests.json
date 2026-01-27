@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26T20:20:21.619499-03:00",
+    "last_updated": "2026-01-26T22:24:06.920161-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4580,6 +4580,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 1% por parte de empresas, considerada insufiente frente a la inflación del 2,8% en diciembre. Exigencia de aumento salarial acorde al índice inflacionario.",
             "fuente": "https://www.datagremial.com/paritarias/semana-clave-para-la-paritaria-de-los-choferes-de-colectivos-si-no-hay-acuerdo-la-uta-hara-un-paro-de-48-horas-202612611540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-27",
+            "horario": "No especificado",
+            "lugar": "Rosario, Santa Fe",
+            "quien": "Choferes de Uber",
+            "tipo_medida": "Paro",
+            "motivo": "Actualización de tarifas congeladas desde hace dos años frente a la inflación y aumento de costos operativos",
+            "fuente": "https://elciudadanoweb.com/choferes-rosarinos-de-uber-advierten-que-estan-cobrando-muy-poco-y-van-al-paro-este-martes-piden-que-la-empresa-les-actualice-la-tarifa/"
         },
         {
             "es_evento_relevante": true,
