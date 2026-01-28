@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T17:25:45.729107-03:00",
+    "last_updated": "2026-01-28T18:27:16.945118-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4750,6 +4750,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional y presión sobre senadores y gobernadores provinciales",
             "fuente": "https://www.infobae.com/politica/2026/01/27/sindicatos-estatales-realizaran-un-paro-el-dia-que-se-trate-la-reforma-laboral-en-el-senado/, https://www.eldestapeweb.com/politica/reforma-laboral/marcha-contra-la-reforma-laboral-horarios-cortes-y-los-servicios-afectados-20251217162948"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "No especificado",
+            "lugar": "Puertos del Mediterráneo (Génova, Pireo, Bilbao, San Sebastián, Turquía, Marruecos)",
+            "quien": "Sindicatos portuarios internacionales (USB de Italia, ENEDEP de Grecia, LAB del País Vasco, sindicatos de Turquía y Marruecos)",
+            "tipo_medida": "Huelga y movilizaciones",
+            "motivo": "Contra la economía de guerra, el transporte de armas hacia Israel y en defensa de derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/No-trabajamos-para-la-guerra-portuarios-del-Mediterraneo-llaman-a-la-huelga-el-6F"
         },
         {
             "es_evento_relevante": true,
