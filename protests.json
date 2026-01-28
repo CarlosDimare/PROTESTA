@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T08:24:36.890364-03:00",
+    "last_updated": "2026-01-28T09:41:45.350544-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4703,6 +4703,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "No especificado",
+            "lugar": "Epuyén, Chubut",
+            "quien": "Asamblea de Vecines afectades de Epuyén y organizaciones de la Comarca Andina",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a la reforma laboral y exigencia de políticas públicas contra el abandono estatal",
+            "fuente": "https://www.anred.org/chubut-corte-de-ruta-y-asamblea-en-epuyen-las-tierras-quemadas-no-seran-robadas/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-02",
             "horario": "07:30",
             "lugar": "Parque Lezama",
@@ -4780,6 +4790,16 @@
             "tipo_medida": "Paro",
             "motivo": "Oposición a la reforma laboral que el gobierno oficialista pretende aprobar en el Congreso",
             "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-ratifico-que-la-cgt-ira-al-paro-si-no-hay-cambios-en-el-proyecto-de-reforma-laboral--202611911230, https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "14:00",
+            "lugar": "Nación (foco en Congreso Nacional)",
+            "quien": "Frente de Sindicatos Estatales Nacionales (ATE y gremios públicos)",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Oponerse a la reforma laboral propuesta por el gobierno, considerada precarizante y que afecta derechos sindicales",
+            "fuente": "https://www.datagremial.com/escenario/gremios-estatales-iran-al-paro-para-ponerle-un-freno-al-gobierno-y-su-reforma-laboral-20261281000, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
         },
         {
             "es_evento_relevante": true,
