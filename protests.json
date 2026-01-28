@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T14:30:15.860961-03:00",
+    "last_updated": "2026-01-28T15:32:56.559376-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4620,6 +4620,16 @@
             "tipo_medida": "Paro general con bloqueos",
             "motivo": "En contra del despliegue de agentes del ICE y la represión migratoria",
             "fuente": "https://motoreconomico.com.ar/el-imperio-en-problemas-protestas-contra-ice-y-trump-sacuden-ee-uu-e-irrumpen-en-campana-de-medio-termino/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-28",
+            "horario": "08:00",
+            "lugar": "Hospital Anselmo Gamen, Villa Gobernador Gálvez",
+            "quien": "Trabajadores del hospital Anselmo Gamen, representados por ATE Rosario",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por condiciones dignas de trabajo ante falta de acondicionamiento térmico en días de calor extremo, que afecta la atención de pacientes y la estabilidad de medicamentos",
+            "fuente": "https://elciudadanoweb.com/trabajadores-del-hospital-gamen-de-villa-gobernador-galvez-protestan-por-las-condiciones-de-atencion-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
