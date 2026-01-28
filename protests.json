@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T09:41:45.350544-03:00",
+    "last_updated": "2026-01-28T10:49:38.226485-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4820,6 +4820,16 @@
             "tipo_medida": "Paro activo nacional",
             "motivo": "Rechazo a la reforma laboral esclavista y plan de lucha contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/sindicales/lunes-2-2-a-las-17-gran-autoconvocatoria-independiente-en-parque-lezama-para-preparar-la-movilizacion-el-dia-que-se-trate-la-reforma-laboral, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "13:00",
+            "lugar": "No especificado",
+            "quien": "Frente de Sindicatos Estatales y Gremios de Empresas Públicas (ATE)",
+            "tipo_medida": "Paro general con movilización",
+            "motivo": "Contra la reforma laboral flexibilizadora del Gobierno de Javier Milei",
+            "fuente": "https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
