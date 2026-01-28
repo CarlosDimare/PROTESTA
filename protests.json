@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T18:27:16.945118-03:00",
+    "last_updated": "2026-01-28T19:25:02.105445-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4750,6 +4750,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional y presión sobre senadores y gobernadores provinciales",
             "fuente": "https://www.infobae.com/politica/2026/01/27/sindicatos-estatales-realizaran-un-paro-el-dia-que-se-trate-la-reforma-laboral-en-el-senado/, https://www.eldestapeweb.com/politica/reforma-laboral/marcha-contra-la-reforma-laboral-horarios-cortes-y-los-servicios-afectados-20251217162948"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "No especificado",
+            "lugar": "Córdoba",
+            "quien": "Frente de Sindicatos Unidos (UOM, ATE, FTCIODyARA, APLA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral, exigiendo a los gobernadores que rechacen el proyecto",
+            "fuente": "https://elciudadanoweb.com/gremios-de-la-cgt-y-las-dos-cta-marcharan-en-rosario-contra-la-reforma-laboral-que-impulsa-milei/"
         },
         {
             "es_evento_relevante": true,
