@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T19:25:02.105445-03:00",
+    "last_updated": "2026-01-28T20:23:26.198981-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4756,10 +4756,10 @@
             "fecha": "2026-02-05",
             "horario": "No especificado",
             "lugar": "Córdoba",
-            "quien": "Frente de Sindicatos Unidos (UOM, ATE, FTCIODyARA, APLA)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral, exigiendo a los gobernadores que rechacen el proyecto",
-            "fuente": "https://elciudadanoweb.com/gremios-de-la-cgt-y-las-dos-cta-marcharan-en-rosario-contra-la-reforma-laboral-que-impulsa-milei/"
+            "quien": "Frente Sindical CGT-CTA (UOM, ATE, Aceiteros, APLA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo frontal al proyecto de reforma laboral y presión a gobernadores para que lo veten",
+            "fuente": "https://www.infobae.com/politica/2026/01/28/gremios-que-integran-la-cgt-y-la-cta-haran-marchas-en-cordoba-y-rosario-contra-la-reforma-laboral/, https://elciudadanoweb.com/gremios-de-la-cgt-y-las-dos-cta-marcharan-en-rosario-contra-la-reforma-laboral-que-impulsa-milei/"
         },
         {
             "es_evento_relevante": true,
