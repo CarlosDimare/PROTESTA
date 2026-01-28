@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T15:32:56.559376-03:00",
+    "last_updated": "2026-01-28T16:25:00.919308-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4680,6 +4680,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Repudio a la represión estatal contra activistas y solidaridad con Palestina",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-y-movilizaciones-unitarias-contra-la-ofensiva-represiva-de-Meloni"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "00:00",
+            "lugar": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            "quien": "Gremios docentes, estatales e industriales",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la intervención del puerto, defensa de puestos de trabajo y soberanía provincial ante recesión y ataques",
+            "fuente": "https://www.laizquierdadiario.com/Intervencion-del-Puerto-de-Ushuaia-el-conflicto-crece-con-protestas-gremiales-y-reclamos-judiciales"
         },
         {
             "es_evento_relevante": true,
