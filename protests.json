@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-27T20:20:03.932217-03:00",
+    "last_updated": "2026-01-27T22:19:20.280667-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4570,6 +4570,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir pago de salarios, aportes jubilatorios y obra social, aguinaldo adeudado, y normalización de condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Granja-Tres-Arroyos-en-paro-denuncian-recorte-salarial-falta-de-aportes-y-aguinaldo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-27",
+            "horario": "07:30-20:30",
+            "lugar": "Avenidas Hipólito Yrigoyen y Raúl Alfonsín, Lanús",
+            "quien": "Sindicatos no especificados",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo laboral u obras",
+            "fuente": "https://www.inforegion.com.ar/2026/01/26/corte-de-transito-en-una-arteria-clave-de-lanus/"
         },
         {
             "es_evento_relevante": true,
