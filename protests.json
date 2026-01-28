@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T07:26:22.644326-03:00",
+    "last_updated": "2026-01-28T08:24:36.890364-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4690,6 +4690,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio al discurso de odio del gobierno de Milei, reclamos contra despidos, reforma laboral, políticas de persecución LGBTIQ+, desfinanciamiento de salud pública, desalojos y represión estatal",
             "fuente": "https://www.laizquierdadiario.com/Orgullo-antifascista-y-antirracista-LGBTQI-convocan-a-marchar-el-7F-y-cuando-se-trate-la-reforma, https://www.infobae.com/venezuela/2025/08/08/sindicatos-y-organizaciones-civiles-convocaron-una-movilizacion-en-caracas-contra-la-represion-del-regimen-de-maduro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "14:00",
+            "lugar": "Provincias con gobernadores oficialistas",
+            "quien": "Frente de Sindicatos Estatales y Gremios de Empresas Públicas (ATE)",
+            "tipo_medida": "Paro general con movilización y medidas de fuerza",
+            "motivo": "Rechazo a la reforma laboral que debilita derechos laborales y fortalece el poder patronal",
+            "fuente": "https://www.inforegion.com.ar/2026/01/28/el-frente-de-sindicatos-estatales-y-gremios-de-empresas-publicas-va-al-paro/, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
         },
         {
             "es_evento_relevante": true,
