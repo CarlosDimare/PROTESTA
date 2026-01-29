@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T15:38:47.212146-03:00",
+    "last_updated": "2026-01-29T16:29:48.501225-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4640,6 +4640,16 @@
             "tipo_medida": "Reunión preparatoria para definir Paro General o Huelga de 48 horas",
             "motivo": "Definir una protesta general contra la Reforma Laboral antes de su aprobación legislativa, presionar a gobernadores que apoyen a Javier Milei, y expresar bronca por pérdida de puestos de trabajo",
             "fuente": "https://motoreconomico.com.ar/furlan-la-uom-reunio-25-gremios-empezaron-a-discutir-la-chance-de-un-paro-general-y-barajaron-llevarle-las-protestas-a-los-gobernadores-que-voten-la-reforma-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-29",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "ATE Nacional, sindicatos estatales y otros sectores sociales y políticos en lucha",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo a la reforma laboral del gobierno, defensa de conquistas históricas y oposición al modelo extractivista",
+            "fuente": "https://www.laizquierdadiario.com/Contra-la-reforma-laboral-tomemos-el-paro-de-gremios-estatales-en-nuestras-manos, https://www.eldestapeweb.com/politica/reforma-laboral/paro-nacional-de-ate-cuando-es-la-medida-de-fuerza-contra-la-reforma-laboral-2025121513352"
         },
         {
             "es_evento_relevante": true,
