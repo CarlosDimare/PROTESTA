@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-28T20:23:26.198981-03:00",
+    "last_updated": "2026-01-28T22:30:00.759003-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4870,6 +4870,16 @@
             "tipo_medida": "Paro general con movilización",
             "motivo": "Contra la reforma laboral flexibilizadora del Gobierno de Javier Milei",
             "fuente": "https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Contra la Reforma Laboral",
+            "fuente": "https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
         },
         {
             "es_evento_relevante": true,
