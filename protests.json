@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T18:25:47.400074-03:00",
+    "last_updated": "2026-01-29T19:24:47.465019-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4750,6 +4750,16 @@
             "tipo_medida": "Paro general con movilización y medidas de fuerza",
             "motivo": "Rechazo a la reforma laboral que debilita derechos laborales y fortalece el poder patronal",
             "fuente": "https://www.inforegion.com.ar/2026/01/28/el-frente-de-sindicatos-estatales-y-gremios-de-empresas-publicas-va-al-paro/, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-01",
+            "horario": "19:30",
+            "lugar": "Pinamar",
+            "quien": "Asociación de Guardavidas de Pinamar (AGP)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial y condiciones laborales inseguras en playas, incluyendo reducción de personal, falta de equipamiento y inhabilitación por parte de la Provincia",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-total-de-guardavidas-en-pinamar-acusan-al-intendente-macrista-de-subir-las-tasas-municipales-un-66-y-ofrecer-0-de-aumento-salarial-tras-un-ano-sin-recomposicion-202612918150, https://www.infozona.com.ar/guardavidas-de-pinamar-realizaron-protesta-por-aumento/"
         },
         {
             "es_evento_relevante": true,
