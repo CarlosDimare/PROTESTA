@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T17:26:18.487429-03:00",
+    "last_updated": "2026-01-29T18:25:47.400074-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4660,6 +4660,16 @@
             "tipo_medida": "Congreso Extraordinario",
             "motivo": "Organizar respuesta frente a política salarial y reformas laborales",
             "fuente": "https://prensaobrera.com/sindicales/la-docencia-no-se-toma-vacaciones-en-rio-negro, https://www.infobae.com/politica/2024/10/01/mapa-de-la-marcha-universitaria-horarios-de-concentracion-organizaciones-que-protestan-y-zonas-afectadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-30",
+            "horario": "08:00",
+            "lugar": "Parque Industrial de Tortuguitas, partido de Malvinas Argentinas",
+            "quien": "Trabajadores de Lustramax",
+            "tipo_medida": "Paro y Acampe",
+            "motivo": "Reclamo por despidos arbitrarios, reincorporación de despedidos, rechazo a la conciliación obligatoria, denuncia de persecución sindical y oposición a supuesta reforma laboral",
+            "fuente": "https://www.datagremial.com/informacion-general/despedidos-de-lustramax-mantiene-el-acampe-y-denuncian-persecucion-sindical-e-incumplimiento-de-derechos-laborales--202612717130, https://argentina.indymedia.org/2026/01/15/lustramax-lock-out-y-mafia-judicial-contra-los-trabajadores/"
         },
         {
             "es_evento_relevante": true,
