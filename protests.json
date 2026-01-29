@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T11:39:03.772083-03:00",
+    "last_updated": "2026-01-29T12:33:38.198967-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4660,6 +4660,16 @@
             "tipo_medida": "Paro con cortes",
             "motivo": "Rechazo a propuesta salarial insuficiente, acumulación de brecha inflacionaria del 10% desde octubre 2025 y denuncia de intervención ilegal del gobierno provincial en paritarias",
             "fuente": "https://elciudadanoweb.com/sin-acuerdo-en-la-paritaria-municipal-decretan-paro-de-72-horas-con-movilizaciones-y-cortes-de-ruta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-30",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CICOP (Sindicato de Profesionales de la Salud de la Provincia de Buenos Aires)",
+            "tipo_medida": "Congreso Gremial",
+            "motivo": "Rechazo a la propuesta salarial del gobernador Kicillof y definición de acciones contra la reforma laboral de Milei, incluyendo la posible convocatoria a un paro y plan de lucha en unidad con otras regiones.",
+            "fuente": "https://www.laizquierdadiario.com/Hospital-Paroissien-profesionales-rechazan-la-oferta-salarial-de-Kicillof-y-organizan-acciones"
         },
         {
             "es_evento_relevante": true,
