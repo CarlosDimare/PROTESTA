@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T13:39:34.583659-03:00",
+    "last_updated": "2026-01-29T14:37:04.948680-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4760,6 +4760,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional y presión sobre senadores y gobernadores provinciales",
             "fuente": "https://www.infobae.com/politica/2026/01/27/sindicatos-estatales-realizaran-un-paro-el-dia-que-se-trate-la-reforma-laboral-en-el-senado/, https://www.eldestapeweb.com/politica/reforma-laboral/marcha-contra-la-reforma-laboral-horarios-cortes-y-los-servicios-afectados-20251217162948"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "No especificado",
+            "lugar": "Córdoba Capital",
+            "quien": "ATE Córdoba",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Contra la reforma laboral propuesta por el gobierno, calificada como antipopular y esclavista",
+            "fuente": "https://www.datagremial.com/informacion-general/el-plan-de-lucha-federal-de-los-estatales-inicia-en-cordoba-confirman-un-paro-para-el-5-de-febrero-202612914200"
         },
         {
             "es_evento_relevante": true,
