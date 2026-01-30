@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-30T03:47:39.766627-03:00",
+    "last_updated": "2026-01-30T04:40:11.699870-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4715,21 +4715,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-01",
             "horario": "00:00",
-            "lugar": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
-            "quien": "Gremios docentes, estatales e industriales",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la intervención del puerto, defensa de puestos de trabajo y soberanía provincial ante recesión y ataques",
-            "fuente": "https://www.laizquierdadiario.com/Intervencion-del-Puerto-de-Ushuaia-el-conflicto-crece-con-protestas-gremiales-y-reclamos-judiciales"
+            "lugar": "No especificado",
+            "quien": "Festram",
+            "tipo_medida": "Movilización y Cortes de rutas",
+            "motivo": "Reclamos salariales y paritarios pendientes desde octubre",
+            "fuente": "https://elciudadanoweb.com/municipales-de-santa-fe-levantaron-el-paro-y-volveran-a-negociar-en-febrero/, https://motoreconomico.com.ar/los-trabajadores-defienden-a-los-trabajadores-reforma-laboral-el-plan-de-accion-sindical-para-frenar-a-milei-y-los-gobernadores/, https://www.laizquierdadiario.com/Milei-reculo-y-evito-atacar-a-la-diversidad-sexual-como-en-Davos-2025, https://www.infobae.com/politica/2026/01/21/moyano-desafia-al-gobierno-reclamo-a-los-empresarios-una-revision-urgente-y-mas-frecuente-de-los-salarios/, https://larepublica.pe/datos-lr/colombia/2025/01/06/como-va-el-paro-camionero-hoy-que-se-sabe-sobre-el-inicio-de-las-protestas-rutas-afectadas-y-a-que-hora-sera-segun-transportistas-lrtmco-198888"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-01",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Plurisindical (UOM, Sindicato de Trabajadores de Vialidad, APSEE, Mesa Sindical)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral y al ajuste salarial, denuncia de manipulación de datos inflacionarios",
-            "fuente": "https://motoreconomico.com.ar/los-trabajadores-defienden-a-los-trabajadores-reforma-laboral-el-plan-de-accion-sindical-para-frenar-a-milei-y-los-gobernadores/, https://www.laizquierdadiario.com/Milei-reculo-y-evito-atacar-a-la-diversidad-sexual-como-en-Davos-2025, https://www.infobae.com/politica/2026/01/21/moyano-desafia-al-gobierno-reclamo-a-los-empresarios-una-revision-urgente-y-mas-frecuente-de-los-salarios/, https://larepublica.pe/datos-lr/colombia/2025/01/06/como-va-el-paro-camionero-hoy-que-se-sabe-sobre-el-inicio-de-las-protestas-rutas-afectadas-y-a-que-hora-sera-segun-transportistas-lrtmco-198888"
+            "lugar": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+            "quien": "Gremios docentes, estatales e industriales",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la intervención del puerto, defensa de puestos de trabajo y soberanía provincial ante recesión y ataques",
+            "fuente": "https://www.laizquierdadiario.com/Intervencion-del-Puerto-de-Ushuaia-el-conflicto-crece-con-protestas-gremiales-y-reclamos-judiciales"
         },
         {
             "es_evento_relevante": true,
