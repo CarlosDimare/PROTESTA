@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-30T16:31:48.250918-03:00",
+    "last_updated": "2026-01-30T17:26:15.611254-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4696,10 +4696,10 @@
             "fecha": "2026-01-30",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "CICOP (Sindicato de Profesionales de la Salud de la Provincia de Buenos Aires)",
-            "tipo_medida": "Congreso Gremial",
-            "motivo": "Rechazo a la propuesta salarial del gobernador Kicillof y definición de acciones contra la reforma laboral de Milei, incluyendo la posible convocatoria a un paro y plan de lucha en unidad con otras regiones.",
-            "fuente": "https://www.laizquierdadiario.com/Hospital-Paroissien-profesionales-rechazan-la-oferta-salarial-de-Kicillof-y-organizan-acciones"
+            "quien": "Sindicatos nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "Solidaridad con la lucha contra ICE y por la abolición del ICE y el DHS",
+            "fuente": "https://www.laizquierdadiario.com/Por-que-los-sindicatos-mas-grandes-de-Estados-Unidos-no-convocan-una-huelga-general-contra-ICE, https://www.laizquierdadiario.com/Hospital-Paroissien-profesionales-rechazan-la-oferta-salarial-de-Kicillof-y-organizan-acciones"
         },
         {
             "es_evento_relevante": true,
@@ -5016,10 +5016,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "Federación de Estibadores Portuarios Argentinos (FEPA)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Represión y desconocimiento de derechos sindicales en el puerto de Concepción del Uruguay",
-            "fuente": "https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+            "quien": "Organizaciones sindicales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral que afecta derechos conquistados",
+            "fuente": "https://elciudadanoweb.com/el-soepu-participo-de-la-mesa-sindical-contra-la-reforma-laboral-y-respaldo-el-plan-nacional-de-lucha/, https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
         },
         {
             "es_evento_relevante": true,
