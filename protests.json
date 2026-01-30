@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-30T08:26:32.831958-03:00",
+    "last_updated": "2026-01-30T09:45:13.919587-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4680,6 +4680,16 @@
             "tipo_medida": "Paro con cortes",
             "motivo": "Rechazo a propuesta salarial insuficiente, acumulación de brecha inflacionaria del 10% desde octubre 2025 y denuncia de intervención ilegal del gobierno provincial en paritarias",
             "fuente": "https://elciudadanoweb.com/sin-acuerdo-en-la-paritaria-municipal-decretan-paro-de-72-horas-con-movilizaciones-y-cortes-de-ruta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-30",
+            "horario": "09:00",
+            "lugar": "Minneapolis y otras ciudades de EE.UU.",
+            "quien": "Movilización popular contra ICE (trabajadores, vecinos, maestros, estudiantes, activistas, inmigrantes)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Defensa de comunidades inmigrantes y oposición al Servicio de Inmigración y Control de Aduanas (ICE)",
+            "fuente": "https://www.laizquierdadiario.com/Fuera-ICE-de-Minneapolis-nueva-jornada-de-protestas-en-Estados-Unidos"
         },
         {
             "es_evento_relevante": true,
