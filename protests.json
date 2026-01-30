@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-30T09:45:13.919587-03:00",
+    "last_updated": "2026-01-30T10:56:05.255680-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4710,6 +4710,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral del gobierno nacional y apoyo irrestricto a la CGT bajo la consigna 'Defender el trabajo hoy para tener un futuro mañana'",
             "fuente": "https://www.infobae.com/politica/2026/01/25/mientras-el-gobierno-negocia-con-las-provincias-kicillof-busca-liderar-la-oposicion-a-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-31",
+            "horario": "**18:30**",
+            "lugar": "Congreso Nacional",
+            "quien": "UnTER (Unión de Trabajadores de la Educación de Río Negro)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a la reforma laboral y exigencia de mejora salarial (piso de 2 millones de pesos)",
+            "fuente": "https://www.laizquierdadiario.com/Docentes-de-Rio-Negro-votaron-paro-contra-la-reforma-laboral, https://www.rionegro.com.ar/gremios/unter-donde-y-a-que-hora-son-las-asambleas-tras-el-malestar-por-no-recibir-una-oferta-3854233/"
         },
         {
             "es_evento_relevante": true,
