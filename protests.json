@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-29T20:24:40.802249-03:00",
+    "last_updated": "2026-01-29T22:29:55.331810-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4924,6 +4924,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Frente de Sindicados Unidos (FreSU)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
+            "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "La Izquierda Diario",
@@ -4990,6 +5000,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Represión y desconocimiento de derechos sindicales en el puerto de Concepción del Uruguay",
             "fuente": "https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "15:00",
+            "lugar": "Frente al Congreso Nacional y movilizaciones regionales (Córdoba, Rosario)",
+            "quien": "Frente de Sindicatos Estatales y Gremios de Empresas Públicas (APJBO, ATE, Federación Judicial Argentina, entre otros) y más de 80 organizaciones sindicales de CGT, CTA Autónoma y CTA de los Trabajadores",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei, calificada como una quita de derechos, precarización laboral y ataque al modelo actual",
+            "fuente": "https://www.datagremial.com/informacion-general/quinoa-palpito-el-paro-contra-la-reforma-laboral-de-milei-la-respuesta-es-en-la-calle-antes-de-que-sea-un-hecho-consumado--202612921230, https://www.eldestapeweb.com/politica/reforma-laboral/marcha-contra-la-reforma-laboral-horarios-cortes-y-los-servicios-afectados-20251217162948"
         },
         {
             "es_evento_relevante": true,
