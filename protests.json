@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31T13:25:10.858351-03:00",
+    "last_updated": "2026-01-31T14:22:33.692784-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4805,11 +4805,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-02",
             "horario": "00:00",
-            "lugar": "Aeropuertos de todo el país",
-            "quien": "ATE (Asociación de Trabajadores del Estado)",
-            "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de acuerdos salariales, no pago de sueldos y retroceso en aumento liquidado por parte de ANAC",
-            "fuente": "https://www.infobae.com/politica/2026/01/31/por-un-incumplimiento-en-los-salarios-de-los-estatales-un-gremio-anuncio-el-paro-en-todos-los-aeropuertos-del-pais-para-el-proximo-lunes/"
+            "lugar": "Más de 27 aeropuertos del país",
+            "quien": "Asociación Trabajadores del Estado (ATE) en la ANAC",
+            "tipo_medida": "Paro total",
+            "motivo": "Rechazo al atraso en el pago de salarios y a la impugnación del aumento acordado por 'racionamiento'",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-lanzo-un-paro-en-todos-los-aeropuertos-por-el-retraso-del-gobierno-en-pagar-salarios-en-la-anac-202613112330, https://www.infobae.com/politica/2026/01/31/por-un-incumplimiento-en-los-salarios-de-los-estatales-un-gremio-anuncio-el-paro-en-todos-los-aeropuertos-del-pais-para-el-proximo-lunes/"
         },
         {
             "es_evento_relevante": true,
