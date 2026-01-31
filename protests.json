@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31T16:20:46.012772-03:00",
+    "last_updated": "2026-01-31T17:24:45.207726-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4840,6 +4840,16 @@
             "tipo_medida": "Paro",
             "motivo": "Impugnación a acuerdo entre ATE y ANAC por parte de un sindicato ajeno, con reclamo por cumplimiento de actas firmadas y normalización de pagos",
             "fuente": "https://motoreconomico.com.ar/los-trabajadores-dicen-basta-por-atraso-en-el-pago-de-salarios-anuncian-para-el-lunes-un-paro-en-todos-los-aeropuertos-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de mejoras salariales ante oferta del 1% para haberes de enero, deterioro del material rodante y oposición a reforma laboral",
+            "fuente": "https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
