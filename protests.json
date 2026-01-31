@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31T12:23:46.235792-03:00",
+    "last_updated": "2026-01-31T13:25:10.858351-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4800,6 +4800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Oposición a la reforma laboral y exigencia de políticas públicas contra el abandono estatal",
             "fuente": "https://www.anred.org/chubut-corte-de-ruta-y-asamblea-en-epuyen-las-tierras-quemadas-no-seran-robadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-02",
+            "horario": "00:00",
+            "lugar": "Aeropuertos de todo el país",
+            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdos salariales, no pago de sueldos y retroceso en aumento liquidado por parte de ANAC",
+            "fuente": "https://www.infobae.com/politica/2026/01/31/por-un-incumplimiento-en-los-salarios-de-los-estatales-un-gremio-anuncio-el-paro-en-todos-los-aeropuertos-del-pais-para-el-proximo-lunes/"
         },
         {
             "es_evento_relevante": true,
