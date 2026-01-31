@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31T17:24:45.207726-03:00",
+    "last_updated": "2026-01-31T18:22:22.639671-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4980,6 +4980,16 @@
             "tipo_medida": "Paro general con movilización",
             "motivo": "Contra la reforma laboral flexibilizadora del Gobierno de Javier Milei",
             "fuente": "https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "15:00",
+            "lugar": "Acceso sur al Senado Nacional",
+            "quien": "Cedems y asamblea permanente contra reforma laboral (con apoyo de Adiunju, Adep, Uatre, FITU, FOL, PCR, Patria Grande, entre otros)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral de Milei y despidos masivos en Ledesma, exigiendo derrotar el proyecto en Senado",
+            "fuente": "https://www.laizquierdadiario.com/Encuentro-de-Cedems-Jujuy-conformaron-la-Asamblea-Permanente-contra-la-Reforma-Laboral, https://www.laizquierdadiario.com/Conoce-donde-es-la-convocatoria-en-tu-ciudad-para-movilizarse-contra-la-reforma-laboral-de-Milei"
         },
         {
             "es_evento_relevante": true,
