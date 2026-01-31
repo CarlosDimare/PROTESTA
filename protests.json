@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-31T04:28:58.438025-03:00",
+    "last_updated": "2026-01-31T05:32:20.309569-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4720,6 +4720,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia de mejora salarial (piso de 2 millones de pesos)",
             "fuente": "https://www.laizquierdadiario.com/Docentes-de-Rio-Negro-votaron-paro-contra-la-reforma-laboral, https://www.rionegro.com.ar/gremios/unter-donde-y-a-que-hora-son-las-asambleas-tras-el-malestar-por-no-recibir-una-oferta-3854233/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-01-31",
+            "horario": "Indefinido",
+            "lugar": "Granja Tres Arroyos, Pilar",
+            "quien": "Trabajadores de Granja Tres Arroyos",
+            "tipo_medida": "Huelga",
+            "motivo": "Incumplimiento en el pago de salarios y aguinaldo",
+            "fuente": "https://www.datagremial.com/informacion-general/quinto-dia-consecutivo-de-paro-en-granja-tres-arroyos-denuncian-que-quieren-pagar-los-salarios-en-cinco-cuotas-y-los-aguinaldos-en-cuatro-202612815330"
         },
         {
             "es_evento_relevante": true,
