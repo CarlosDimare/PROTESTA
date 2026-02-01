@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-01T13:28:03.461841-03:00",
+    "last_updated": "2026-02-01T14:28:48.470782-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4915,11 +4915,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-09",
             "horario": "00:00",
-            "lugar": "Aeropuertos nacionales e internacionales de Argentina",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "lugar": "30 aeropuertos del país",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimiento salarial del Gobierno/ANAC: no pago de sueldos y quita de aumento pactado",
-            "fuente": "https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
+            "motivo": "Reclamo salarial contra la ANAC por la no liquidación de un incremento salarial y el no depósito de haberes",
+            "fuente": "https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
         },
         {
             "es_evento_relevante": true,
