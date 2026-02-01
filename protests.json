@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-01T11:30:15.699238-03:00",
+    "last_updated": "2026-02-01T12:23:59.337719-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4910,6 +4910,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Reclamo por precio justo de la hoja verde de yerba mate y regulación del INYM",
             "fuente": "https://www.infobae.com/politica/2026/01/27/crisis-en-la-yerba-productores-amenazan-con-el-desabastecimiento-si-no-mejoran-los-precios-de-la-materia-prima/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-09",
+            "horario": "00:00",
+            "lugar": "Aeropuertos nacionales e internacionales de Argentina",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento salarial del Gobierno/ANAC: no pago de sueldos y quita de aumento pactado",
+            "fuente": "https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
         },
         {
             "es_evento_relevante": true,
