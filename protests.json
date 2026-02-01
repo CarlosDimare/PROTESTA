@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-01T08:21:23.226247-03:00",
+    "last_updated": "2026-02-01T09:40:59.949495-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4880,6 +4880,16 @@
             "tipo_medida": "Huelga y movilizaciones",
             "motivo": "Contra la economía de guerra, el transporte de armas hacia Israel y en defensa de derechos laborales",
             "fuente": "https://www.laizquierdadiario.com/No-trabajamos-para-la-guerra-portuarios-del-Mediterraneo-llaman-a-la-huelga-el-6F"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín (partida) hacia Monumento a la Bandera",
+            "quien": "Movimientos LGTBIQ+, feministas, personas con discapacidad, jubiladas y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra políticas de ajuste, discursos de odio y en defensa de derechos de grupos vulnerables",
+            "fuente": "https://elciudadanoweb.com/segunda-marcha-del-orgullo-antifascista-no-somos-complices-de-las-politicas-de-hambre/"
         },
         {
             "es_evento_relevante": true,
