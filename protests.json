@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T09:47:03.550309-03:00",
+    "last_updated": "2026-02-02T11:03:24.831474-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4934,12 +4934,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-09",
-            "horario": "00:00",
-            "lugar": "30 aeropuertos del país",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo salarial contra la ANAC por la no liquidación de un incremento salarial y el no depósito de haberes",
-            "fuente": "https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
+            "horario": "08:00",
+            "lugar": "Aeropuertos nacionales",
+            "quien": "Asociación Trabajadores del Estado (ATE) - Sección ANAC",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Exigir el pago completo de salarios incluyendo el aumento pactado tras el incumplimiento de la ANAC",
+            "fuente": "https://www.datagremial.com/paritarias/ate-postergo-el-paro-en-los-aeropuertos-pero-advirtio-que-si-no-pagan-el-aumento-habra-huelga-el-9-de-febrero-20262210460, https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
         },
         {
             "es_evento_relevante": true,
