@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T15:40:33.079634-03:00",
+    "last_updated": "2026-02-02T20:28:47.876158-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4863,13 +4863,33 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Sindicatos combativos, piqueteras de izquierda, Mesa de Coordinación Obrera de Zona Norte y trabajadores de Lustramax",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la reforma laboral del gobierno, recorte de derechos laborales y apoyo a conflictos abiertos como el de Lustramax",
+            "fuente": "https://www.infobae.com/politica/2026/02/02/piqueteros-y-jubilados-marcharan-el-miercoles-al-congreso-contra-la-reforma-laboral-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
             "lugar": "Red ferroviaria nacional",
-            "quien": "La Fraternidad",
+            "quien": "Sindicato La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 1% y reclamo por deterioro del material rodante",
-            "fuente": "https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "motivo": "Reclamo por falta de seguridad en vías y formaciones, deterioro del servicio, incumplimiento en paritarias y pérdida salarial",
+            "fuente": "https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "10:00",
+            "lugar": "Córdoba",
+            "quien": "Frente de Gremios Ultraopositores (UOM, Aceiteros, CTA y Pablo Moyano)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno, considerada regresiva y que vulnera derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/02/02/pablo-moyano-reaparecio-con-otro-gesto-para-diferenciarse-de-hugo-se-sumo-al-frente-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/01/28/gremios-que-integran-la-cgt-y-la-cta-haran-marchas-en-cordoba-y-rosario-contra-la-reforma-laboral/, https://elciudadanoweb.com/gremios-de-la-cgt-y-las-dos-cta-marcharan-en-rosario-contra-la-reforma-laboral-que-impulsa-milei/"
         },
         {
             "es_evento_relevante": true,
@@ -4883,13 +4903,13 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-02-05",
-            "horario": "No especificado",
-            "lugar": "Córdoba",
-            "quien": "Frente Sindical CGT-CTA (UOM, ATE, Aceiteros, APLA)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo frontal al proyecto de reforma laboral y presión a gobernadores para que lo veten",
-            "fuente": "https://www.infobae.com/politica/2026/01/28/gremios-que-integran-la-cgt-y-la-cta-haran-marchas-en-cordoba-y-rosario-contra-la-reforma-laboral/, https://elciudadanoweb.com/gremios-de-la-cgt-y-las-dos-cta-marcharan-en-rosario-contra-la-reforma-laboral-que-impulsa-milei/"
+            "fecha": "2026-02-06",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "La Fraternidad (Sindicato de Maquinistas Ferroviarios)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del 1% y demanda de mejoras en material rodante",
+            "fuente": "https://www.laizquierdadiario.com/Paro-ferroviario-este-jueves-La-Fraternidad-reclamara-contra-una-miserable-oferta-salarial"
         },
         {
             "es_evento_relevante": true,
