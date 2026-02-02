@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T12:41:03.189336-03:00",
+    "last_updated": "2026-02-02T13:37:28.748284-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4865,11 +4865,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "No especificado",
+            "lugar": "Red ferroviaria nacional",
             "quien": "La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo de mejoras salariales ante oferta del 1% para haberes de enero, deterioro del material rodante y oposición a reforma laboral",
-            "fuente": "https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "motivo": "Rechazo a oferta salarial del 1% y reclamo por deterioro del material rodante",
+            "fuente": "https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
