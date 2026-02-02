@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T01:21:52.982387-03:00",
+    "last_updated": "2026-02-02T03:04:24.451832-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4900,6 +4900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra los dichos homofóbicos de Milei en Davos y la política de odio impulsada desde el Estado",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "No especificado",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial por aumento del 4% en tres tramos y actualización de viáticos ante la inflación",
+            "fuente": "https://www.inforegion.com.ar/2026/01/30/acuerdo-salarial-uta-no-habra-paro-de-colectivos-en-el-amba-tras-el-entendimiento-con-las-empresas/"
         },
         {
             "es_evento_relevante": true,
