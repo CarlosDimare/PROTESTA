@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T11:03:24.831474-03:00",
+    "last_updated": "2026-02-02T11:48:48.815691-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5016,10 +5016,10 @@
             "fecha": "2026-02-11",
             "horario": "13:00",
             "lugar": "No especificado",
-            "quien": "Frente de Sindicatos Estatales y Gremios de Empresas Públicas (ATE)",
-            "tipo_medida": "Paro general con movilización",
-            "motivo": "Contra la reforma laboral flexibilizadora del Gobierno de Javier Milei",
-            "fuente": "https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "quien": "Cedems (bloque con Adep, Unju, estudiantes, DDHH, piqueteros, trabajadores Ledesma)",
+            "tipo_medida": "Movilización con cortes",
+            "motivo": "Contra reforma laboral de Milei, por ataque a derechos laborales y precarización",
+            "fuente": "https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
