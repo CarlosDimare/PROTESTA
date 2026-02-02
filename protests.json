@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T11:48:48.815691-03:00",
+    "last_updated": "2026-02-02T12:41:03.189336-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4840,6 +4840,16 @@
             "tipo_medida": "Paro",
             "motivo": "Impugnación a acuerdo entre ATE y ANAC por parte de un sindicato ajeno, con reclamo por cumplimiento de actas firmadas y normalización de pagos",
             "fuente": "https://motoreconomico.com.ar/los-trabajadores-dicen-basta-por-atraso-en-el-pago-de-salarios-anuncian-para-el-lunes-un-paro-en-todos-los-aeropuertos-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-03",
+            "horario": "No especificado",
+            "lugar": "Córdoba y Rosario",
+            "quien": "Frente de Sindicatos Unidos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/antes-de-las-protestas-de-los-gremios-combativos-comienza-la-gira-de-la-cgt-por-las-provincias-20262211520"
         },
         {
             "es_evento_relevante": true,
