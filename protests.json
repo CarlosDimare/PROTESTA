@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T11:57:57.071551-03:00",
+    "last_updated": "2026-02-03T12:47:56.310412-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4940,6 +4940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 1% y demanda de mejoras en material rodante",
             "fuente": "https://www.laizquierdadiario.com/Paro-ferroviario-este-jueves-La-Fraternidad-reclamara-contra-una-miserable-oferta-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "11:00",
+            "lugar": "Plaza San Martín, frente al Gobernador de Córdoba",
+            "quien": "UOM, ATE y otros sindicatos industriales y estatales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y exigencia al gobernador Llaryora",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-define-si-llama-a-un-paro-nacional-convoca-a-su-comision-directiva-a-debatir-la-definicion-20262311580"
         },
         {
             "es_evento_relevante": true,
