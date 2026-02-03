@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T12:47:56.310412-03:00",
+    "last_updated": "2026-02-03T14:00:59.086849-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4924,12 +4924,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
+            "horario": "14:00",
+            "lugar": "Cortes de puente (lugar específico no detallado)",
+            "quien": "Asamblea de Disidencias Sexuales",
+            "tipo_medida": "Corte",
+            "motivo": "Contra la reforma laboral 'esclavista' de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-LGTBIQ-contra-la-reforma-laboral-de-Milei, https://argay.ar/maricamiona/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "15:00",
+            "lugar": "Córdoba (lugar específico no detallado)",
+            "quien": "Sindicalismo combativo y Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Contra-las-negociaciones-por-arriba-derrotarla-con-paro-nacional-y-una-masiva-movilizacion-rodeando, https://www.laizquierdadiario.com/Contra-la-reforma-laboral-el-sindicalismo-combativo-convoca-a-movilizar-con-todo-exigiendo-paro"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
             "horario": "No especificado",
             "lugar": "Córdoba Capital",
-            "quien": "ATE Córdoba",
-            "tipo_medida": "Paro y Marcha",
-            "motivo": "Contra la reforma laboral propuesta por el gobierno, calificada como antipopular y esclavista",
-            "fuente": "https://www.datagremial.com/informacion-general/el-plan-de-lucha-federal-de-los-estatales-inicia-en-cordoba-confirman-un-paro-para-el-5-de-febrero-202612914200"
+            "quien": "Plenario de sindicatos combativos y organizaciones piqueteras",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral y previsional, reclamo de recomposición salarial",
+            "fuente": "https://prensaobrera.com/sindicales/marchas-y-piquete-en-cordoba-en-rechazo-a-la-reforma-laboral-por-un-paro-activo-plan-de-lucha, https://www.datagremial.com/informacion-general/el-plan-de-lucha-federal-de-los-estatales-inicia-en-cordoba-confirman-un-paro-para-el-5-de-febrero-202612914200"
         },
         {
             "es_evento_relevante": true,
@@ -5170,6 +5190,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Oposición a la reforma laboral y postura intransigente del gobierno que quita derechos y debilita sistemas sindicales",
             "fuente": "https://www.datagremial.com/informacion-general/juan-pablo-brey-adelanto-que-si-el-gobierno-no-modifica-su-postura-intransigente-se-terminara-en-un-paro-nacional--202613013580, https://estadodealerta.com.ar/no-hay-mas-protocolo-anti-piquete-la-cgt-destaco-el-fallo-de-del-juez-martin-cormick/, https://www.infobae.com/politica/2025/12/30/axel-kicillof-refuerza-su-alianza-con-la-cta-y-la-cgt-para-frenar-la-reforma-laboral-de-milei-y-coordinar-una-estrategia-en-el-congreso/, https://www.laizquierdadiario.com/El-Frente-de-Izquierda-reclamo-contra-la-amenaza-imperialista-de-Trump-en-Venezuela, https://prensaobrera.com/politicas/el-articulo-del-presupuesto-2026-que-premia-con-la-nuestra-a-los-responsables-de-los-cortes-de-luz, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html, https://www.infobae.com/politica/2025/12/19/la-cgt-advirtio-que-podria-profundizar-las-protestas-si-el-gobierno-no-reabre-las-negociaciones-por-la-reforma-laboral/, https://www.anred.org/la-cgt-amenazo-con-un-paro-si-se-aprueba-el-proyecto-en-el-senado/, https://www.inforegion.com.ar/2025/12/18/en-la-plaza-de-mayo-la-cgt-advirtio-si-avanza-la-reforma-laboral-vamos-a-ir-al-paro/, https://www.inforegion.com.ar/2025/12/14/paro-de-controladores-aereos-atepsa-anuncio-un-cronograma-de-medidas-que-afectara-vuelos-nacionales-e-internacionales/, https://www.datagremial.com/informacion-general/la-mesa-sindical-llamo-a-movilizar-contra-la-reforma-laboral-por-anticonstitucional-y-anti-obrera--2025121216450, https://www.laizquierdadiario.com/Voces-que-irrumpen-mira-las-intervenciones-de-Pan-y-Rosas-en-talleres-y-asambleas, https://www.datagremial.com/informacion-general/repudio-generalizado-a-la-nueva-denuncia-penal-de-bullrich-contra-el-lider-de-ate-nacional--202511191810, https://www.mundolaboralsanjuan.com/2025/04/03/la-cgt-ratifico-la-protesta-gremial-de-36-horas-en-rechazo-a-las-politicas-del-gobierno/, https://motoreconomico.com.ar/hoy-marcha-masiva-contra-la-reforma-laboral-del-gobierno-la-cgt-ya-definio-los-detalles-de-la-protesta-escenario-oradores-seguridad-palco-y-el-debate-despues-que/, https://www.lagaceta.com.ar/nota/1116584/politica/gobierno-le-baja-tono-marcha-cgt-contra-reforma-laboral-busca-contrastar-sin-escalar-conflicto.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "10:30",
+            "lugar": "Congreso de la Nación",
+            "quien": "Plenario del Sindicalismo Combativo, movimiento piquetero independiente, jubilados y sectores contra el ajuste",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reforma laboral de Milei y plan de lucha por derechos laborales",
+            "fuente": "https://prensaobrera.com/sindicales/reforma-laboral-la-cgt-sin-mesa-de-negociacion-y-el-sindicalismo-combativo-de-pie, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
         },
         {
             "es_evento_relevante": true,
