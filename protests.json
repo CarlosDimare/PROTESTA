@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T07:38:05.563444-03:00",
+    "last_updated": "2026-02-03T08:35:33.978476-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4850,6 +4850,16 @@
             "tipo_medida": "Marchas y vigilias",
             "motivo": "Rechazo a la política represiva y antimigrante de Trump, en solidaridad con afectados por acciones del ICE",
             "fuente": "https://prensaobrera.com/internacionales/movilizaciones-en-el-apagon-nacional-contra-la-ice-y-la-represion-xenofoba-de-trump"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-03",
+            "horario": "15:00",
+            "lugar": "Senado de la Nación, oficina central de la bancada de la UCR",
+            "quien": "Sindicatos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos sobre aportes obligatorios/voluntarios y modificaciones estatutarias laborales frente a la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/03/los-aliados-del-gobierno-esperan-gestos-para-cambiar-la-reforma-laboral-y-hoy-habra-una-cumbre-con-bullrich/"
         },
         {
             "es_evento_relevante": true,
