@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T11:06:14.764284-03:00",
+    "last_updated": "2026-02-03T11:57:57.071551-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4895,21 +4895,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "Estaciones de ferrocarriles afectadas (Roca, Belgrano, Urquiza, San Martín)",
-            "quien": "Sindicato La Fraternidad (Omar Maturano)",
+            "lugar": "Red ferroviaria nacional",
+            "quien": "Sindicato La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial y reclamos por seguridad/mantenimiento ferroviario",
-            "fuente": "https://www.inforegion.com.ar/2026/02/03/paro-de-trenes-la-fraternidad-anuncio-una-huelga-ferroviaria-de-24-horas-para-el-jueves/"
+            "motivo": "Rechazo a oferta salarial del 1% y reclamo de recomposición salarial",
+            "fuente": "https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "Red ferroviaria nacional",
-            "quien": "Sindicato La Fraternidad",
+            "lugar": "Estaciones de ferrocarriles afectadas (Roca, Belgrano, Urquiza, San Martín)",
+            "quien": "Sindicato La Fraternidad (Omar Maturano)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por falta de seguridad en vías y formaciones, deterioro del servicio, incumplimiento en paritarias y pérdida salarial",
-            "fuente": "https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "motivo": "Rechazo a oferta salarial y reclamos por seguridad/mantenimiento ferroviario",
+            "fuente": "https://www.inforegion.com.ar/2026/02/03/paro-de-trenes-la-fraternidad-anuncio-una-huelga-ferroviaria-de-24-horas-para-el-jueves/"
         },
         {
             "es_evento_relevante": true,
