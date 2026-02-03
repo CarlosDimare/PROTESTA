@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T09:47:15.821402-03:00",
+    "last_updated": "2026-02-03T11:06:14.764284-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4890,6 +4890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra la reforma laboral del gobierno, recorte de derechos laborales y apoyo a conflictos abiertos como el de Lustramax",
             "fuente": "https://www.infobae.com/politica/2026/02/02/piqueteros-y-jubilados-marcharan-el-miercoles-al-congreso-contra-la-reforma-laboral-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "00:00",
+            "lugar": "Estaciones de ferrocarriles afectadas (Roca, Belgrano, Urquiza, San Martín)",
+            "quien": "Sindicato La Fraternidad (Omar Maturano)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial y reclamos por seguridad/mantenimiento ferroviario",
+            "fuente": "https://www.inforegion.com.ar/2026/02/03/paro-de-trenes-la-fraternidad-anuncio-una-huelga-ferroviaria-de-24-horas-para-el-jueves/"
         },
         {
             "es_evento_relevante": true,
