@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T15:54:24.411531-03:00",
+    "last_updated": "2026-02-03T16:48:09.471174-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4900,6 +4900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra la reforma laboral del gobierno, recorte de derechos laborales y apoyo a conflictos abiertos como el de Lustramax",
             "fuente": "https://www.infobae.com/politica/2026/02/02/piqueteros-y-jubilados-marcharan-el-miercoles-al-congreso-contra-la-reforma-laboral-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "No especificado",
+            "lugar": "Provincia de Córdoba",
+            "quien": "CGT, CTA y más de 60 organizaciones gremiales (lideradas por UOM)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la Reforma Laboral del Gobierno y advertencia a gobernadores sobre consecuencias locales",
+            "fuente": "https://motoreconomico.com.ar/mas-de-60-organizaciones-se-reunieron-para-definir-la-movilizacion-en-cordoba-y-rosario-y-la-cgt-convoco-el-viernes-al-consejo-directivo-ante-el-inminente-tratamiento-de-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
