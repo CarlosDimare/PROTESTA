@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T22:32:29.243718-03:00",
+    "last_updated": "2026-02-03T01:14:03.036756-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5035,6 +5035,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Plenario del Sindicalismo Combativo y movimientos afines",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "10:00",
             "lugar": "Frente al Congreso Nacional",
             "quien": "UTEP y organizaciones piqueteras de izquierda",
             "tipo_medida": "Movilización",
@@ -5080,16 +5090,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
             "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "La Izquierda Diario",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Contra la Reforma Laboral",
-            "fuente": "https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
         },
         {
             "es_evento_relevante": true,
