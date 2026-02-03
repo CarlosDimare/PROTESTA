@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T14:00:59.086849-03:00",
+    "last_updated": "2026-02-03T14:53:04.489136-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4940,6 +4940,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En contra de la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Contra-las-negociaciones-por-arriba-derrotarla-con-paro-nacional-y-una-masiva-movilizacion-rodeando, https://www.laizquierdadiario.com/Contra-la-reforma-laboral-el-sindicalismo-combativo-convoca-a-movilizar-con-todo-exigiendo-paro"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "No especificado",
+            "lugar": "Córdoba, Argentina",
+            "quien": "Frente Sindical de Oposición (UOM, Federación de Aceiteros, Sindicato de Pilotos, CTA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/02/03/tras-la-frustrada-gira-con-gobernadores-la-cgt-se-reune-el-viernes-por-la-reforma-laboral-y-amenaza-con-un-paro-general/"
         },
         {
             "es_evento_relevante": true,
