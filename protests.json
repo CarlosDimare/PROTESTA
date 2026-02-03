@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-02T20:28:47.876158-03:00",
+    "last_updated": "2026-02-02T22:32:29.243718-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4840,6 +4840,16 @@
             "tipo_medida": "Paro",
             "motivo": "Impugnación a acuerdo entre ATE y ANAC por parte de un sindicato ajeno, con reclamo por cumplimiento de actas firmadas y normalización de pagos",
             "fuente": "https://motoreconomico.com.ar/los-trabajadores-dicen-basta-por-atraso-en-el-pago-de-salarios-anuncian-para-el-lunes-un-paro-en-todos-los-aeropuertos-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-03",
+            "horario": "08:00",
+            "lugar": "Ciudades de Estados Unidos (principalmente Minneapolis, Nueva York, Baltimore, Detroit, San Francisco, Denver)",
+            "quien": "Organizaciones estudiantiles",
+            "tipo_medida": "Marchas y vigilias",
+            "motivo": "Rechazo a la política represiva y antimigrante de Trump, en solidaridad con afectados por acciones del ICE",
+            "fuente": "https://prensaobrera.com/internacionales/movilizaciones-en-el-apagon-nacional-contra-la-ice-y-la-represion-xenofoba-de-trump"
         },
         {
             "es_evento_relevante": true,
