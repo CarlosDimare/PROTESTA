@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T16:48:09.471174-03:00",
+    "last_updated": "2026-02-03T17:34:01.689758-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4890,6 +4890,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por recomposición salarial ante oferta considerada insuficiente por debajo de la inflación",
             "fuente": "https://www.infobae.com/sociedad/2026/02/03/la-fraternidad-ratifico-el-paro-de-trenes-del-jueves-pero-anticipo-que-acatara-una-conciliacion-obligatoria/, https://www.inforegion.com.ar/2026/02/02/la-fraternidad-amenaza-con-un-paro-de-trenes-el-jueves/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "16:00",
+            "lugar": "hall central del Garrahan",
+            "quien": "Asociación de Profesionales y Técnicos del Garrahan (APyT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudiar la reforma laboral",
+            "fuente": "https://www.datagremial.com/informacion-general/denuncian-que-el-interventor-del-garrahan-prohibio-realizar-asambleas-bajo-amenaza-de-descuentos-y-sanciones--20262317190, https://www.infogremiales.com.ar/el-garrahan-convoca-a-un-cabildo-abierto-en-rechazo-a-la-reforma-laboral-y-en-defensa-de-los-44-trabajadores-sumariados/"
         },
         {
             "es_evento_relevante": true,
