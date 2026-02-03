@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T14:53:04.489136-03:00",
+    "last_updated": "2026-02-03T15:54:24.411531-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4854,6 +4854,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-03",
+            "horario": "10:00",
+            "lugar": "Sede de Smata",
+            "quien": "Treintena de sindicatos industriales",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la Reforma Laboral y a la línea deliberativa de la CGT",
+            "fuente": "https://www.infobae.com/politica/2026/02/03/reforma-laboral-y-ley-penal-juvenil-el-gobierno-intensifica-negociaciones-y-reactiva-la-agenda-del-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-03",
             "horario": "15:00",
             "lugar": "Senado de la Nación, oficina central de la bancada de la UCR",
             "quien": "Sindicatos",
@@ -4875,11 +4885,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-04",
             "horario": "00:00",
-            "lugar": "Sistema ferroviario nacional",
+            "lugar": "Estaciones y vías de Trenes Argentinos Pasajeros y Belgrano Cargas",
             "quien": "La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 1% y críticas a reforma laboral, deterioro del material rodante e inestabilidad en la Secretaría de Transporte",
-            "fuente": "https://www.inforegion.com.ar/2026/02/02/la-fraternidad-amenaza-con-un-paro-de-trenes-el-jueves/"
+            "motivo": "Reclamo por recomposición salarial ante oferta considerada insuficiente por debajo de la inflación",
+            "fuente": "https://www.infobae.com/sociedad/2026/02/03/la-fraternidad-ratifico-el-paro-de-trenes-del-jueves-pero-anticipo-que-acatara-una-conciliacion-obligatoria/, https://www.inforegion.com.ar/2026/02/02/la-fraternidad-amenaza-con-un-paro-de-trenes-el-jueves/"
         },
         {
             "es_evento_relevante": true,
@@ -5150,6 +5160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
             "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "No especificado",
+            "lugar": "Senado Nacional",
+            "quien": "Partido Obrero",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la baja de edad de punibilidad a 13 años y el paquete de reformas regresivas del gobierno",
+            "fuente": "https://prensaobrera.com/politicas/derrotemos-la-ley-penal-juvenil-del-gobierno"
         },
         {
             "es_evento_relevante": true,
