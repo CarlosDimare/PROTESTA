@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T19:25:09.049483-03:00",
+    "last_updated": "2026-02-04T20:25:17.616285-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5070,6 +5070,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y previsional, reclamo de recomposición salarial",
             "fuente": "https://prensaobrera.com/sindicales/marchas-y-piquete-en-cordoba-en-rechazo-a-la-reforma-laboral-por-un-paro-activo-plan-de-lucha, https://www.datagremial.com/informacion-general/el-plan-de-lucha-federal-de-los-estatales-inicia-en-cordoba-confirman-un-paro-para-el-5-de-febrero-202612914200"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "00:00",
+            "lugar": "Servicio ferroviario nacional",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial (2% vs inflación del 2.8%) y falta de inversión en infraestructura ferroviaria",
+            "fuente": "https://www.infobae.com/politica/2026/02/04/el-gobierno-dicto-la-conciliacion-obligatoria-y-suspendieron-el-paro-de-trenes-de-este-jueves/"
         },
         {
             "es_evento_relevante": true,
