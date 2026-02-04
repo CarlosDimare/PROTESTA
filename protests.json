@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T15:47:21.155123-03:00",
+    "last_updated": "2026-02-04T16:41:00.929643-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4906,10 +4906,10 @@
             "fecha": "2026-02-04",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "La Fraternidad (sindicato ferroviario)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por insuficiente oferta salarial del Gobierno (2% para diciembre vs inflación del 2,8%) y falta de inversión en el sector ferroviario",
-            "fuente": "https://www.infobae.com/politica/2026/02/04/la-fraternidad-persiste-con-el-paro-de-trenes-para-manana-pero-fijo-las-condiciones-para-suspenderlo/, https://www.cadena3.com/noticia/ahora-pais/la-fraternidad-confirmo-un-paro-de-trenes-de-24-horas-para-este-jueves_515071"
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por índice de inflación falso y devolución del 23% adeudado a trabajadores y jubilados",
+            "fuente": "https://www.datagremial.com/informacion-general/tras-la-renuncia-de-lavagna-en-el-indec-la-mesa-sindical-acuso-al-gobierno-de-querer-tapar-el-sol-con-la-mano-y-ocultar-el-indice-de-inflacion-2026231490, https://www.infobae.com/politica/2026/02/04/la-fraternidad-persiste-con-el-paro-de-trenes-para-manana-pero-fijo-las-condiciones-para-suspenderlo/, https://www.cadena3.com/noticia/ahora-pais/la-fraternidad-confirmo-un-paro-de-trenes-de-24-horas-para-este-jueves_515071"
         },
         {
             "es_evento_relevante": true,
@@ -4945,6 +4945,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-04",
             "horario": "17:00",
+            "lugar": "Avenida de Mayo, hacia 9 de Julio, Ciudad de Buenos Aires",
+            "quien": "Agrupaciones de jubilados, organizaciones piqueteras de izquierda, sindicalismo combativo y sectores kirchneristas",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la reforma laboral, con apoyo de sectores que buscan confluir en una movilización masiva y paro nacional cuando el proyecto sea tratado en el Senado",
+            "fuente": "https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "17:00",
             "lugar": "Congreso Nacional",
             "quien": "Sindicatos combativos, piqueteras de izquierda, Mesa de Coordinación Obrera de Zona Norte y trabajadores de Lustramax",
             "tipo_medida": "Movilización",
@@ -4975,21 +4985,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "La Fraternidad",
+            "lugar": "Red ferroviaria Área Metropolitana de Buenos Aires",
+            "quien": "Sindicato La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Aumento de salarios",
-            "fuente": "https://www.laizquierdadiario.com/Paro-de-trenes-este-5-de-febrero-la-declaracion-de-la-Naranja-Ferroviaria"
+            "motivo": "Reclamo por recomposición salarial frente a oferta del 1% trimestral y falta de inversión en material rodante",
+            "fuente": "https://www.infobae.com/politica/2026/02/04/paro-de-trenes-a-que-hora-empieza-y-que-lineas-no-funcionaran/, https://www.inforegion.com.ar/2026/02/04/confirmado-manana-habra-paro-total-de-trenes-en-que-horarios-y-cuales-lineas-son-las-afectadas/, https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "Red ferroviaria nacional",
-            "quien": "Sindicato La Fraternidad",
-            "tipo_medida": "Paro General",
-            "motivo": "Reclamo de recomposición salarial superior a la inflación y recuperación de salarios adeudados frente a la oferta del 2% para diciembre y 1.3% para enero/febrero/marzo",
-            "fuente": "https://www.inforegion.com.ar/2026/02/04/confirmado-manana-habra-paro-total-de-trenes-en-que-horarios-y-cuales-lineas-son-las-afectadas/, https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "lugar": "No especificado",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Aumento de salarios",
+            "fuente": "https://www.laizquierdadiario.com/Paro-de-trenes-este-5-de-febrero-la-declaracion-de-la-Naranja-Ferroviaria"
         },
         {
             "es_evento_relevante": true,
