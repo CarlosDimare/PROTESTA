@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T12:41:34.887109-03:00",
+    "last_updated": "2026-02-04T13:46:24.626299-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5216,10 +5216,10 @@
             "fecha": "2026-02-11",
             "horario": "13:00",
             "lugar": "No especificado",
-            "quien": "Cedems (bloque con Adep, Unju, estudiantes, DDHH, piqueteros, trabajadores Ledesma)",
-            "tipo_medida": "Movilización con cortes",
-            "motivo": "Contra reforma laboral de Milei, por ataque a derechos laborales y precarización",
-            "fuente": "https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "quien": "Asociación de Trabajadores del Estado (ATE) y Frente de Sindicatos Estatales",
+            "tipo_medida": "Paro general",
+            "motivo": "Contra el proyecto de Reforma Laboral impulsado por el Gobierno nacional",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
