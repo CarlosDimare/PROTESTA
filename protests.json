@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T08:34:51.590333-03:00",
+    "last_updated": "2026-02-04T09:48:39.643174-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4900,6 +4900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
             "fuente": "https://www.datagremial.com/informacion-general/antes-de-las-protestas-de-los-gremios-combativos-comienza-la-gira-de-la-cgt-por-las-provincias-20262211520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "La Fraternidad (sindicato ferroviario)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por insuficiente oferta salarial del Gobierno (2% para diciembre vs inflación del 2,8%) y falta de inversión en el sector ferroviario",
+            "fuente": "https://www.infobae.com/politica/2026/02/04/la-fraternidad-persiste-con-el-paro-de-trenes-para-manana-pero-fijo-las-condiciones-para-suspenderlo/, https://www.cadena3.com/noticia/ahora-pais/la-fraternidad-confirmo-un-paro-de-trenes-de-24-horas-para-este-jueves_515071"
         },
         {
             "es_evento_relevante": true,
