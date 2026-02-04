@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T20:27:00.456190-03:00",
+    "last_updated": "2026-02-03T22:28:17.957616-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5146,10 +5146,10 @@
             "fecha": "2026-02-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Plenario del Sindicalismo Combativo y movimientos afines",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la reforma laboral del gobierno de Milei",
-            "fuente": "https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
+            "quien": "CTA A y CTA de los Trabajadores",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra la Reforma Laboral 'esclavista' que se tratará en el Senado",
+            "fuente": "https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
         },
         {
             "es_evento_relevante": true,
