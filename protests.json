@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T11:49:25.473569-03:00",
+    "last_updated": "2026-02-04T12:41:34.887109-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4977,9 +4977,9 @@
             "horario": "00:00",
             "lugar": "Red ferroviaria nacional",
             "quien": "Sindicato La Fraternidad",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 1% y reclamo de recomposición salarial",
-            "fuente": "https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "tipo_medida": "Paro General",
+            "motivo": "Reclamo de recomposición salarial superior a la inflación y recuperación de salarios adeudados frente a la oferta del 2% para diciembre y 1.3% para enero/febrero/marzo",
+            "fuente": "https://www.inforegion.com.ar/2026/02/04/confirmado-manana-habra-paro-total-de-trenes-en-que-horarios-y-cuales-lineas-son-las-afectadas/, https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
