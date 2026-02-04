@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T11:05:11.783040-03:00",
+    "last_updated": "2026-02-04T11:49:25.473569-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5070,6 +5070,16 @@
             "tipo_medida": "Huelga y movilizaciones",
             "motivo": "Contra la economía de guerra, el transporte de armas hacia Israel y en defensa de derechos laborales",
             "fuente": "https://www.laizquierdadiario.com/No-trabajamos-para-la-guerra-portuarios-del-Mediterraneo-llaman-a-la-huelga-el-6F"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "00:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CTA de los Trabajadores y CTA Autónoma",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la reforma laboral, considerada regresiva para la clase trabajadora",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-confirmaron-que-iran-al-paro-contra-la-reforma-laboral-la-respuesta-es-mas-unidad--20262411380"
         },
         {
             "es_evento_relevante": true,
