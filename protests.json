@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T14:45:11.443689-03:00",
+    "last_updated": "2026-02-04T15:47:21.155123-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5194,6 +5194,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
+            "horario": "09:00",
+            "lugar": "Senado Nacional",
+            "quien": "Plenarios sindicales, coordinadoras regionales y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral impulsada por el gobierno de Javier Milei",
+            "fuente": "https://www.anred.org/ante-la-pasividad-de-la-cgt-y-las-centrales-se-multiplican-las-coordinadoras-sindicales-contra-la-reforma-laboral-de-milei/, https://prensaobrera.com/politicas/derrotemos-la-ley-penal-juvenil-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
             "quien": "CTA A y CTA de los Trabajadores",
@@ -5250,16 +5260,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
             "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "No especificado",
-            "lugar": "Senado Nacional",
-            "quien": "Partido Obrero",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la baja de edad de punibilidad a 13 años y el paquete de reformas regresivas del gobierno",
-            "fuente": "https://prensaobrera.com/politicas/derrotemos-la-ley-penal-juvenil-del-gobierno"
         },
         {
             "es_evento_relevante": true,
