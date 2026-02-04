@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T09:48:39.643174-03:00",
+    "last_updated": "2026-02-04T11:05:11.783040-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4950,6 +4950,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra la reforma laboral del gobierno, recorte de derechos laborales y apoyo a conflictos abiertos como el de Lustramax",
             "fuente": "https://www.infobae.com/politica/2026/02/02/piqueteros-y-jubilados-marcharan-el-miercoles-al-congreso-contra-la-reforma-laboral-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "No especificado",
+            "lugar": "AMBA (Área Metropolitana de Buenos Aires)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y conflicto por subsidios al transporte",
+            "fuente": "https://www.datagremial.com/paritarias/acuerdo-en-la-paritaria-de-los-colectiveros-la-uta-firmo-la-mejora-salarial-y-no-habra-paro-en-el-amba-202613018390"
         },
         {
             "es_evento_relevante": true,
