@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-03T22:28:17.957616-03:00",
+    "last_updated": "2026-02-04T01:10:53.633415-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4910,6 +4910,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por recomposición salarial ante oferta considerada insuficiente por debajo de la inflación",
             "fuente": "https://www.infobae.com/sociedad/2026/02/03/la-fraternidad-ratifico-el-paro-de-trenes-del-jueves-pero-anticipo-que-acatara-una-conciliacion-obligatoria/, https://www.inforegion.com.ar/2026/02/02/la-fraternidad-amenaza-con-un-paro-de-trenes-el-jueves/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "10:00",
+            "lugar": "Córdoba, Argentina",
+            "quien": "Asociación Trabajadores del Estado (ATE) y sindicatos aliados (transporte, judiciales, gráficos, viales)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/aguiar-se-reunio-con-la-conduccion-de-ate-cordoba-en-la-previa-de-la-movilizacion-contra-la-reforma-laboral-20262321200"
         },
         {
             "es_evento_relevante": true,
