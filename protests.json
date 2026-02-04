@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T16:41:00.929643-03:00",
+    "last_updated": "2026-02-04T17:34:49.091752-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5104,6 +5104,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-07",
+            "horario": "11:00",
+            "lugar": "Córdoba",
+            "quien": "Frente de Sindicatos Unidos (UOM y centrales obreras)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral y pedido al gobernador para que legisladores no la respalden",
+            "fuente": "https://www.datagremial.com/informacion-general/ruben-urbano-le-pidio-a-la-cgt-que-llame-a-un-paro-no-hay-nada-que-negociar-para-los-trabajadores--20262417140, https://www.cba24n.com.ar/cordoba/jueves-de-protesta-en-cordoba--las-centrales-obreras-marchan-contra-la-reforma-laboral_a698210052128774661cb82ed"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
             "horario": "17:00",
             "lugar": "Plaza San Martín (partida) hacia Monumento a la Bandera",
             "quien": "Movimientos LGTBIQ+, feministas, personas con discapacidad, jubiladas y organizaciones sociales",
@@ -5396,10 +5406,10 @@
             "fecha": "No especificado",
             "horario": "La hora de inicio del evento de protesta es **11:30**.  \n\n**Explicación**:  \nEl texto especifica claramente en dos ocasiones:  \n> \"Las manifestaciones se llevarán a cabo hoy, martes 5 de agosto, **a las 11.30** en la Plaza Congreso...\"  \n> \"Convocamos a toda la sociedad a movilizarse este martes 5 de agosto **a las 11.30 hs** en Plaza del Congreso...\"  \n\nAunque se menciona otra hora (\"a las 13 en el Congreso Nacional\") para la CTA Autónoma, el evento principal convocado por el Foro Permanente y otras organizaciones se define como **11:30** en Plaza Congreso.",
             "lugar": "Congreso Nacional",
-            "quien": "Organizaciones de personas con discapacidad, familiares y trabajadores del sector",
+            "quien": "Coordinadora Sindical Clasista y el Partido Obrero",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo al ajuste del gobierno de Milei sobre discapacidad, reclamo de presupuesto real, respeto de leyes y derechos laborales",
-            "fuente": "https://prensaobrera.com/politicas/movilizacion-de-discapacidad-mientras-el-senado-trata-el-presupuesto-de-ajuste, https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora, https://www.clarin.com/informacion-general/marcha-congreso-hoy-veto-milei-hora-cortes-tenes-saber_0_WVdsiIcpGF.html"
+            "motivo": "Exigir un paro activo y plan de lucha contra la reforma laboral",
+            "fuente": "https://prensaobrera.com/sindicales/lustramax-la-fuerza-de-la-organizacion-obrera-frena-la-ofensiva-patronal, https://prensaobrera.com/politicas/movilizacion-de-discapacidad-mientras-el-senado-trata-el-presupuesto-de-ajuste, https://www.laizquierdadiario.com/Argentina-marcha-contra-la-reforma-laboral-del-gobierno-de-Milei, https://www.laizquierdadiario.com/Bregman-sobre-la-reforma-laboral-Buscan-precarizar-aun-mas-a-la-clase-trabajadora, https://prensaobrera.com/juventud/la-debacle-de-milei-y-los-desafios-de-la-juventud-trabajadora, https://www.clarin.com/informacion-general/marcha-congreso-hoy-veto-milei-hora-cortes-tenes-saber_0_WVdsiIcpGF.html"
         },
         {
             "es_evento_relevante": true,
