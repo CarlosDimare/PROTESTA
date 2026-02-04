@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T13:46:24.626299-03:00",
+    "last_updated": "2026-02-04T14:45:11.443689-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4970,6 +4970,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la Reforma Laboral del Gobierno y advertencia a gobernadores sobre consecuencias locales",
             "fuente": "https://motoreconomico.com.ar/mas-de-60-organizaciones-se-reunieron-para-definir-la-movilizacion-en-cordoba-y-rosario-y-la-cgt-convoco-el-viernes-al-consejo-directivo-ante-el-inminente-tratamiento-de-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Aumento de salarios",
+            "fuente": "https://www.laizquierdadiario.com/Paro-de-trenes-este-5-de-febrero-la-declaracion-de-la-Naranja-Ferroviaria"
         },
         {
             "es_evento_relevante": true,
