@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T18:33:03.790511-03:00",
+    "last_updated": "2026-02-04T19:25:09.049483-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4960,6 +4960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra la reforma laboral del gobierno, recorte de derechos laborales y apoyo a conflictos abiertos como el de Lustramax",
             "fuente": "https://www.infobae.com/politica/2026/02/02/piqueteros-y-jubilados-marcharan-el-miercoles-al-congreso-contra-la-reforma-laboral-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-04",
+            "horario": "21:00",
+            "lugar": "Intersección calles 21 y 28, Miramar, Buenos Aires",
+            "quien": "Familia de Natalia Melmann y colectivos contra la violencia institucional",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 25 años del femicidio de Natalia Melmann y apoyo a la familia por la resolución del quinto ADN",
+            "fuente": "https://elciudadanoweb.com/25-anos-sin-justicia-para-natalia-melmann-una-marcha-y-la-esperanza-puesta-en-el-adn/"
         },
         {
             "es_evento_relevante": true,
