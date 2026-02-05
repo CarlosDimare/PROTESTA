@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T15:47:26.143468-03:00",
+    "last_updated": "2026-02-05T16:39:49.647240-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5310,6 +5310,16 @@
             "tipo_medida": "Paro activo nacional",
             "motivo": "Rechazo a la reforma laboral esclavista y plan de lucha contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/sindicales/lunes-2-2-a-las-17-gran-autoconvocatoria-independiente-en-parque-lezama-para-preparar-la-movilizacion-el-dia-que-se-trate-la-reforma-laboral, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación al Congreso Nacional",
+            "quien": "Fesprosa, APyT, ATE, CICOP y organizaciones de la salud y jubilados",
+            "tipo_medida": "Paro Nacional y Movilización",
+            "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
+            "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
