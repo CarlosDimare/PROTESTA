@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T19:23:30.168827-03:00",
+    "last_updated": "2026-02-05T20:22:17.541776-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5054,6 +5054,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
+            "horario": "11:00",
+            "lugar": "Bulevar Perón y San Jerónimo, Córdoba",
+            "quien": "CGT Córdoba, CGT Regional Córdoba, CTA Autónoma Córdoba, CTA de las y los Trabajadores Córdoba, ATE, UOM, organizaciones sociales y organismos de Derechos Humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo absoluto a la Ley de Modernización Laboral, en defensa de convenios colectivos, contra despidos y precarización laboral",
+            "fuente": "https://motoreconomico.com.ar/comienza-a-calentarse-la-protesta-social-en-cordoba-las-centrales-obreras-marcharon-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
             "horario": "14:00",
             "lugar": "Cortes de puente (lugar específico no detallado)",
             "quien": "Asamblea de Disidencias Sexuales",
@@ -5350,6 +5360,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
             "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "No especificado",
+            "lugar": "Rosario, Santa Fe",
+            "quien": "Frente de Sindicatos Unidos (integrado por UOM, ATE, Aceiteros, Aeronáuticos, SUTEBA-CTERA, entre otros)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el presidente Javier Milei y presión a gobernadores para que no acompañen la iniciativa en el Senado",
+            "fuente": "https://www.datagremial.com/informacion-general/los-gremios-combativos-marcharon-en-cordoba-y-trataron-de-cobardes-a-los-gobernadores--20262519290"
         },
         {
             "es_evento_relevante": true,
