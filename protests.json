@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T08:36:45.930959-03:00",
+    "last_updated": "2026-02-05T09:56:46.220688-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5090,6 +5090,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 1% y demanda de mejoras en material rodante",
             "fuente": "https://www.laizquierdadiario.com/Paro-ferroviario-este-jueves-La-Fraternidad-reclamara-contra-una-miserable-oferta-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "10:00",
+            "lugar": "Polo Judicial",
+            "quien": "Colectivo de manifestantes y organizaciones sociales",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir la libertad de los 9 detenidos por la represión a la movilización",
+            "fuente": "https://www.laizquierdadiario.com/Masiva-movilizacion-por-el-agua-y-los-glaciares-en-Mendoza-termino-con-represion-y-7-detenidos"
         },
         {
             "es_evento_relevante": true,
