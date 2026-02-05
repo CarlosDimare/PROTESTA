@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T11:10:49.380438-03:00",
+    "last_updated": "2026-02-05T12:42:32.468037-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5025,6 +5025,26 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT (Confederación General del Trabajo)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral que restringe derechos sindicales, habilita banco de horas y deroga estatutos profesionales",
+            "fuente": "https://www.infobae.com/politica/2026/02/05/el-secretario-de-trabajo-defendio-la-reforma-laboral-los-jovenes-ya-no-quieren-irse-35-dias-de-vacaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "10:00",
+            "lugar": "Centro Cívico (El Panal)",
+            "quien": "Frente de Izquierda, diferentes sectores de trabajadores, UOM, CGT y CTA regionales",
+            "tipo_medida": "Corte y Movilización",
+            "motivo": "Rechazo a la reforma laboral esclavista, modificación de la Ley de Glaciares, baja de la edad de imputabilidad y otros ataques a derechos",
+            "fuente": "https://www.laizquierdadiario.com/Cordoba-comenzo-la-jornada-de-lucha-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "10:00",
             "lugar": "Córdoba",
             "quien": "Frente de Gremios Ultraopositores (UOM, Aceiteros, CTA y Pablo Moyano)",
             "tipo_medida": "Movilización",
@@ -5226,10 +5246,10 @@
             "fecha": "2026-02-10",
             "horario": "13:00",
             "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Oposición a la reforma laboral que el gobierno oficialista pretende aprobar en el Congreso",
-            "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-ratifico-que-la-cgt-ira-al-paro-si-no-hay-cambios-en-el-proyecto-de-reforma-laboral--202611911230, https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "quien": "Sindicatos de Ubisoft (STJV, CGT, Solidaire Informatique, CFE-CGC, Printemps Écologique)",
+            "tipo_medida": "Huelga/Paro",
+            "motivo": "Protesta contra recortes masivos de empleo, deterioro de condiciones laborales y eliminación del teletrabajo en el plan de reestructuración de Ubisoft",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Ubisoft-convocan-una-huelga-internacional-de-3-dias, https://www.datagremial.com/informacion-general/jorge-sola-ratifico-que-la-cgt-ira-al-paro-si-no-hay-cambios-en-el-proyecto-de-reforma-laboral--202611911230, https://www.laizquierdadiario.com/Suspensiones-y-amenazas-de-despidos-en-la-planta-de-TN-Platex-en-Tucuman, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
