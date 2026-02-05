@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T14:45:49.999209-03:00",
+    "last_updated": "2026-02-05T15:47:26.143468-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5070,6 +5070,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En contra de la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Contra-las-negociaciones-por-arriba-derrotarla-con-paro-nacional-y-una-masiva-movilizacion-rodeando, https://www.laizquierdadiario.com/Contra-la-reforma-laboral-el-sindicalismo-combativo-convoca-a-movilizar-con-todo-exigiendo-paro"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-05",
+            "horario": "No especificado",
+            "lugar": "Ciudad de Córdoba",
+            "quien": "Centrales sindicales y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el proyecto de reforma laboral",
+            "fuente": "https://elciudadanoweb.com/universitarios-debaten-hacer-paro-de-24-horas-la-proxima-semana/"
         },
         {
             "es_evento_relevante": true,
