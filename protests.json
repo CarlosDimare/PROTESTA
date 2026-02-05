@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T17:30:03.433152-03:00",
+    "last_updated": "2026-02-05T18:29:00.991972-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5246,10 +5246,10 @@
             "fecha": "2026-02-10",
             "horario": "10:00",
             "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "PTS-Frente de Izquierda y MAC (con apoyo de sindicatos antiburocráticos y bases)",
-            "tipo_medida": "Paro y Movilización",
-            "motivo": "Contra la reforma laboral que precariza derechos y reduce conquistas históricas",
-            "fuente": "https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y contención de sectores duros",
+            "fuente": "https://www.infobae.com/politica/2026/02/05/entre-presiones-por-un-paro-crece-en-la-cgt-la-propuesta-de-movilizarse-el-dia-que-se-debata-la-reforma-laboral/, https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
