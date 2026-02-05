@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-05T16:39:49.647240-03:00",
+    "last_updated": "2026-02-05T17:30:03.433152-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5175,21 +5175,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-07",
             "horario": "17:00",
-            "lugar": "Plaza San Martín (partida) hacia Monumento a la Bandera",
-            "quien": "Movimientos LGTBIQ+, feministas, personas con discapacidad, jubiladas y organizaciones sociales",
+            "lugar": "Desde Congreso Nacional hasta Plaza de Mayo",
+            "quien": "Colectivo LGBTIQNB+ y organizaciones sociales (CTA, CELS, AMMAR, CNDA, Pan y Rosas, MST, PO, La Cámpora, Patria Grande, entre otros)",
             "tipo_medida": "Marcha",
-            "motivo": "Contra políticas de ajuste, discursos de odio y en defensa de derechos de grupos vulnerables",
-            "fuente": "https://elciudadanoweb.com/segunda-marcha-del-orgullo-antifascista-no-somos-complices-de-las-politicas-de-hambre/"
+            "motivo": "Antifascismo, antirracismo, contra reforma laboral y políticas de gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Conferencia-de-prensa-por-la-segunda-Marcha-del-orgullo-Antifascista-y-antiracista, https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-07",
             "horario": "17:00",
-            "lugar": "Congreso Nacional a Plaza de Mayo",
-            "quien": "Colectivo LGTBIQ+",
+            "lugar": "Plaza San Martín (partida) hacia Monumento a la Bandera",
+            "quien": "Movimientos LGTBIQ+, feministas, personas con discapacidad, jubiladas y organizaciones sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Contra los dichos homofóbicos de Milei en Davos y la política de odio impulsada desde el Estado",
-            "fuente": "https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
+            "motivo": "Contra políticas de ajuste, discursos de odio y en defensa de derechos de grupos vulnerables",
+            "fuente": "https://elciudadanoweb.com/segunda-marcha-del-orgullo-antifascista-no-somos-complices-de-las-politicas-de-hambre/"
         },
         {
             "es_evento_relevante": true,
