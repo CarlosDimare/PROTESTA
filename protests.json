@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-04T20:25:17.616285-03:00",
+    "last_updated": "2026-02-04T22:31:22.392517-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -4995,21 +4995,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "Red ferroviaria Área Metropolitana de Buenos Aires",
-            "quien": "Sindicato La Fraternidad",
+            "lugar": "No especificado",
+            "quien": "La Fraternidad (sindicato de maquinistas)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por recomposición salarial frente a oferta del 1% trimestral y falta de inversión en material rodante",
-            "fuente": "https://www.infobae.com/politica/2026/02/04/paro-de-trenes-a-que-hora-empieza-y-que-lineas-no-funcionaran/, https://www.inforegion.com.ar/2026/02/04/confirmado-manana-habra-paro-total-de-trenes-en-que-horarios-y-cuales-lineas-son-las-afectadas/, https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
+            "motivo": "Reclamo salarial y contra reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/El-Gobierno-dicto-la-conciliacion-obligatoria-y-se-levanto-el-paro-de-trenes, https://www.laizquierdadiario.com/Paro-de-trenes-este-5-de-febrero-la-declaracion-de-la-Naranja-Ferroviaria"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-05",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "La Fraternidad",
+            "lugar": "Red ferroviaria Área Metropolitana de Buenos Aires",
+            "quien": "Sindicato La Fraternidad",
             "tipo_medida": "Paro",
-            "motivo": "Aumento de salarios",
-            "fuente": "https://www.laizquierdadiario.com/Paro-de-trenes-este-5-de-febrero-la-declaracion-de-la-Naranja-Ferroviaria"
+            "motivo": "Reclamo por recomposición salarial frente a oferta del 1% trimestral y falta de inversión en material rodante",
+            "fuente": "https://www.infobae.com/politica/2026/02/04/paro-de-trenes-a-que-hora-empieza-y-que-lineas-no-funcionaran/, https://www.inforegion.com.ar/2026/02/04/confirmado-manana-habra-paro-total-de-trenes-en-que-horarios-y-cuales-lineas-son-las-afectadas/, https://www.infobae.com/politica/2026/02/03/paro-de-trenes-el-gobierno-no-descarto-dictar-la-conciliacion-obligatoria/, https://motoreconomico.com.ar/maturano-ratifico-que-el-jueves-habra-paro-de-trenes-por-la-falta-de-seguridad-en-las-vias-y-formaciones-y-porque-el-gobierno-piso-las-paritarias/, https://www.infobae.com/politica/2026/02/02/el-gremio-de-maquinistas-confirmo-que-este-jueves-realizara-un-paro-ferroviario-de-24-horas/, https://www.infobae.com/sociedad/2026/01/31/el-gremio-la-fraternidad-advirtio-sobre-un-posible-paro-general-ferroviario-para-la-semana-proxima/, https://www.cronica.com.ar/sociedad/Paro-de-trenes-A-que-hora-arranca-la-medida-de-fuerza-de-La-Fraternidad-y-que-exigen-20241217-0071.html"
         },
         {
             "es_evento_relevante": true,
