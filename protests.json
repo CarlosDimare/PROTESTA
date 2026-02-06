@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T14:42:50.296558-03:00",
+    "last_updated": "2026-02-06T15:49:01.302955-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5174,22 +5174,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-06",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Colectivo LGBTI",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al discurso de Milei en Davos y contra las políticas del gobierno",
+            "fuente": "https://prensaobrera.com/lgbti/7f-a-las-calles-marcha-antifacista-y-antirracista-contra-las-reformas-de-milei-y-sus-complices, https://prensaobrera.com/politicas/obligado-por-la-justicia-milei-reglamento-una-emergencia-en-discapacidad-que-no-responde-a-los-reclamos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
             "horario": "18:00",
             "lugar": "Empresas de colectivos del AMBA (MOGSM, MOQSA, Empresa 216, San Juan Bautista)",
             "quien": "Sindicatos de choferes de colectivos del AMBA",
             "tipo_medida": "Extensión de paro",
             "motivo": "Reclamo por falta de pago de salarios y viáticos",
             "fuente": "https://www.infobae.com/sociedad/2026/02/06/paro-de-colectivos-hoy-que-lineas-no-funcionan-este-viernes-6-de-febrero/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-06",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Movimiento de Personas con Discapacidad",
-            "tipo_medida": "Movilización",
-            "motivo": "Luchar contra el ajuste y los ataques del gobierno a la Ley de Emergencia en Discapacidad",
-            "fuente": "https://prensaobrera.com/politicas/obligado-por-la-justicia-milei-reglamento-una-emergencia-en-discapacidad-que-no-responde-a-los-reclamos"
         },
         {
             "es_evento_relevante": true,
@@ -5343,6 +5343,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "No especificado",
+            "lugar": "Rosario",
+            "quien": "Asociación Gremial de Docentes e Investigadores de la UNR (Coad)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral del gobierno de Javier Milei",
+            "fuente": "https://elciudadanoweb.com/coad-para-el-10f-y-los-docentes-de-la-unr-marchan-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "09:00",
             "lugar": "Senado Nacional",
@@ -5356,10 +5366,10 @@
             "fecha": "2026-02-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Sindicato de Camioneros",
+            "quien": "Sindicatos CGT y CTA",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral del Gobierno nacional y defensa de derechos laborales",
-            "fuente": "https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
+            "motivo": "Rechazo a la reforma laboral y exigencia de plan de lucha",
+            "fuente": "https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
         },
         {
             "es_evento_relevante": true,
@@ -5400,6 +5410,16 @@
             "tipo_medida": "Paro Nacional y Movilización",
             "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
             "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición al proyecto de Reforma Laboral impulsado por el Gobierno de Javier Milei, que implica retrocesos en derechos laborales históricos",
+            "fuente": "https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
         },
         {
             "es_evento_relevante": true,
