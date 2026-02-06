@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T07:35:53.545771-03:00",
+    "last_updated": "2026-02-06T08:34:58.749662-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5150,6 +5150,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia al gobernador Llaryora",
             "fuente": "https://www.datagremial.com/informacion-general/la-cgt-define-si-llama-a-un-paro-nacional-convoca-a-su-comision-directiva-a-debatir-la-definicion-20262311580"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "18:00",
+            "lugar": "Empresas de colectivos del AMBA (MOGSM, MOQSA, Empresa 216, San Juan Bautista)",
+            "quien": "Sindicatos de choferes de colectivos del AMBA",
+            "tipo_medida": "Extensión de paro",
+            "motivo": "Reclamo por falta de pago de salarios y viáticos",
+            "fuente": "https://www.infobae.com/sociedad/2026/02/06/paro-de-colectivos-hoy-que-lineas-no-funcionan-este-viernes-6-de-febrero/"
         },
         {
             "es_evento_relevante": true,
