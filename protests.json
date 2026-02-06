@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T19:18:58.890848-03:00",
+    "last_updated": "2026-02-06T20:23:27.497232-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5365,11 +5365,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "UOM y gremios adherentes",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición al tratamiento del proyecto de Reforma Laboral en el Senado",
+            "fuente": "https://motoreconomico.com.ar/la-uom-ratifico-la-movilizacion-del-martes-en-rosario-y-convocara-a-un-paro-general-desde-las-10-de-la-manana-el-11-de-febrero-para-sumarse-a-la-protesta-de-la-cgt-frente-al-congreso/, https://estadodealerta.com.ar/paro-por-tiempo-indeterminado-de-camioneros-en-coca-cola-por-la-efectivizacion-de-contratados/, https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Confederación General del Trabajo (CGT) y organizaciones sindicales aliadas",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral impulsada por el oficialismo",
-            "fuente": "https://elciudadanoweb.com/ni-alfajores-ni-paro-la-cgt-se-anima-a-caminar-contra-la-reforma-laboral/, https://elciudadanoweb.com/botellas-paradas-conflicto-interno-deja-a-coca-cola-en-huelga/, https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional y defensa de derechos laborales",
+            "fuente": "https://motoreconomico.com.ar/el-sindicato-de-camioneros-lanzo-un-paro-por-tiempo-indeterminado-en-la-planta-mega-de-coca-cola-en-el-gran-buenos-aires-tras-una-asamblea-con-1-500-trabajadores-encabezada-por-pablo-moyano/, https://elciudadanoweb.com/ni-alfajores-ni-paro-la-cgt-se-anima-a-caminar-contra-la-reforma-laboral/, https://elciudadanoweb.com/botellas-paradas-conflicto-interno-deja-a-coca-cola-en-huelga/, https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
         },
         {
             "es_evento_relevante": true,
@@ -5390,16 +5400,6 @@
             "tipo_medida": "Paro activo nacional",
             "motivo": "Rechazo a la reforma laboral esclavista y plan de lucha contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/sindicales/lunes-2-2-a-las-17-gran-autoconvocatoria-independiente-en-parque-lezama-para-preparar-la-movilizacion-el-dia-que-se-trate-la-reforma-laboral, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "13:00",
-            "lugar": "No especificado",
-            "quien": "Sindicato de Camioneros, Frente de Gremios Estatales y sindicatos combativos de la CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Oposición a la reforma laboral y defensa de derechos conquistados",
-            "fuente": "https://estadodealerta.com.ar/paro-por-tiempo-indeterminado-de-camioneros-en-coca-cola-por-la-efectivizacion-de-contratados/, https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
