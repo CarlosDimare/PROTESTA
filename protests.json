@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T11:10:54.923053-03:00",
+    "last_updated": "2026-02-06T11:42:56.156642-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5130,6 +5130,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 1% y demanda de mejoras en material rodante",
             "fuente": "https://www.laizquierdadiario.com/Paro-ferroviario-este-jueves-La-Fraternidad-reclamara-contra-una-miserable-oferta-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "06:00",
+            "lugar": "Rutas 12 y 27 (Goya, Corrientes y Villa Ángela, Chaco)",
+            "quien": "Trabajadores de Emilio Alal",
+            "tipo_medida": "Corte",
+            "motivo": "Exigir el pago total de indemnizaciones y soluciones ante el cierre de fábricas que dejó a 254 trabajadores en la calle",
+            "fuente": "https://www.laizquierdadiario.com/Hilanderias-Alal-corte-de-ruta-en-Corrientes-contra-cierre-y-estafa"
         },
         {
             "es_evento_relevante": true,
