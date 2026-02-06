@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T17:28:44.644223-03:00",
+    "last_updated": "2026-02-06T18:27:00.541702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5417,9 +5417,19 @@
             "horario": "15:00",
             "lugar": "Congreso Nacional, Buenos Aires",
             "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Marcha",
-            "motivo": "Oposición al proyecto de Reforma Laboral impulsado por el Gobierno de Javier Milei, que implica retrocesos en derechos laborales históricos",
-            "fuente": "https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral del Gobierno que, según la CGT, recorta derechos laborales y pone en riesgo conquistas históricas",
+            "fuente": "https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "15:00",
+            "lugar": "Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al proyecto de reforma laboral del oficialismo",
+            "fuente": "https://www.datagremial.com/informacion-general/con-marcha-pero-sin-paro-al-final-la-cgt-se-decidio-por-una-postura-intermedia-ante-la-reforma-laboral-20262617370"
         },
         {
             "es_evento_relevante": true,
