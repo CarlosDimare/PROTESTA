@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T01:13:05.722412-03:00",
+    "last_updated": "2026-02-06T02:53:12.655520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5296,10 +5296,10 @@
             "fecha": "2026-02-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "CTA A y CTA de los Trabajadores",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Contra la Reforma Laboral 'esclavista' que se tratará en el Senado",
-            "fuente": "https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan"
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
         },
         {
             "es_evento_relevante": true,
@@ -5350,16 +5350,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la reforma laboral de Milei y despidos masivos en Ledesma, exigiendo derrotar el proyecto en Senado",
             "fuente": "https://www.laizquierdadiario.com/Encuentro-de-Cedems-Jujuy-conformaron-la-Asamblea-Permanente-contra-la-Reforma-Laboral, https://www.laizquierdadiario.com/Conoce-donde-es-la-convocatoria-en-tu-ciudad-para-movilizarse-contra-la-reforma-laboral-de-Milei"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "16:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Frente de Sindicados Unidos (FreSU)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional",
-            "fuente": "https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/"
         },
         {
             "es_evento_relevante": true,
