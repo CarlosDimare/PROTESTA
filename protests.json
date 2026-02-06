@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T09:51:07.523372-03:00",
+    "last_updated": "2026-02-06T11:10:54.923053-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5165,6 +5165,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-06",
             "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento de Personas con Discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Luchar contra el ajuste y los ataques del gobierno a la Ley de Emergencia en Discapacidad",
+            "fuente": "https://prensaobrera.com/politicas/obligado-por-la-justicia-milei-reglamento-una-emergencia-en-discapacidad-que-no-responde-a-los-reclamos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "No especificado",
             "lugar": "Puertos del Mediterráneo (Génova, Pireo, Bilbao, San Sebastián, Turquía, Marruecos)",
             "quien": "Sindicatos portuarios internacionales (USB de Italia, ENEDEP de Grecia, LAB del País Vasco, sindicatos de Turquía y Marruecos)",
             "tipo_medida": "Huelga y movilizaciones",
@@ -5190,6 +5200,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y pedido al gobernador para que legisladores no la respalden",
             "fuente": "https://www.datagremial.com/informacion-general/ruben-urbano-le-pidio-a-la-cgt-que-llame-a-un-paro-no-hay-nada-que-negociar-para-los-trabajadores--20262417140, https://www.cba24n.com.ar/cordoba/jueves-de-protesta-en-cordoba--las-centrales-obreras-marchan-contra-la-reforma-laboral_a698210052128774661cb82ed"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "16:00",
+            "lugar": "Ciudad de Mendoza",
+            "quien": "Organizaciones ambientales de la provincia",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la Ley de Glaciares y oposición a la reforma laboral de Milei",
+            "fuente": "https://prensaobrera.com/ambiente/cornejo-vuelve-a-reprimir-y-detener-manifestantes-que-defienden-el-agua-en-mendoza"
         },
         {
             "es_evento_relevante": true,
@@ -5234,12 +5254,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-09",
-            "horario": "08:00",
-            "lugar": "Aeropuertos nacionales",
-            "quien": "Asociación Trabajadores del Estado (ATE) - Sección ANAC",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Exigir el pago completo de salarios incluyendo el aumento pactado tras el incumplimiento de la ANAC",
-            "fuente": "https://www.datagremial.com/paritarias/ate-postergo-el-paro-en-los-aeropuertos-pero-advirtio-que-si-no-pagan-el-aumento-habra-huelga-el-9-de-febrero-20262210460, https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
+            "horario": "00:00",
+            "lugar": "Aeropuerto Internacional de Ezeiza y terminales aéreas nacionales",
+            "quien": "ATE-ANAC (Asociación de Trabajadores del Estado en ANAC)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a recortos salariales unilaterales y exigencia de recomposición salarial frente a la inflación",
+            "fuente": "https://www.inforegion.com.ar/2026/02/06/paro-en-aeropuertos-ate-anac-ratifico-una-huelga-nacional-desde-el-lunes-y-podria-paralizar-los-vuelos/, https://www.datagremial.com/paritarias/ate-postergo-el-paro-en-los-aeropuertos-pero-advirtio-que-si-no-pagan-el-aumento-habra-huelga-el-9-de-febrero-20262210460, https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
         },
         {
             "es_evento_relevante": true,
@@ -5400,6 +5420,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Prensa Obrera",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la persecución a migrantes, el ajuste y la represión, en defensa de los derechos de los trabajadores migrantes",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/villa-celina-primera-asamblea-migrante-contra-los-operativos-de-la-federal-y-migraciones"
         },
         {
             "es_evento_relevante": true,
