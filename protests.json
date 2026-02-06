@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-06T12:39:44.499849-03:00",
+    "last_updated": "2026-02-06T13:46:02.765805-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5115,6 +5115,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-06",
             "horario": "00:00",
+            "lugar": "Zona sur, norte y CABA (Área Metropolitana de Buenos Aires)",
+            "quien": "Choferes de colectivos de líneas MOQSA, MOGSM, Empresa 2016 y San Juan Bautista",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios adeudados, incumplimiento de pagos y condiciones laborales precarias (mantenimiento deficiente, jornadas extenuantes)",
+            "fuente": "https://www.laizquierdadiario.com/Paro-de-colectivos-hoy-el-reclamo-de-los-choferes-por-salario-y-las-lineas-que-no-funcionan-este-6, https://es-us.noticias.yahoo.com/paro-colectivos-vivo-hora-dura-101100806.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-06",
+            "horario": "00:00",
             "lugar": "Servicio ferroviario nacional",
             "quien": "La Fraternidad",
             "tipo_medida": "Paro",
@@ -5225,11 +5235,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-07",
             "horario": "17:00",
-            "lugar": "Desde Congreso Nacional hasta Plaza de Mayo",
-            "quien": "Colectivo LGBTIQNB+ y organizaciones sociales (CTA, CELS, AMMAR, CNDA, Pan y Rosas, MST, PO, La Cámpora, Patria Grande, entre otros)",
+            "lugar": "Congreso Nacional a Plaza de Mayo",
+            "quien": "Comisión organizadora de la Marcha del Orgullo LGTBIQNB+ Antifascista y Antirracista",
             "tipo_medida": "Marcha",
-            "motivo": "Antifascismo, antirracismo, contra reforma laboral y políticas de gobierno de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Conferencia-de-prensa-por-la-segunda-Marcha-del-orgullo-Antifascista-y-antiracista, https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
+            "motivo": "Antifascismo, antirracismo, defensa de derechos LGTBIQNB+, oposición al gobierno de Milei y sus discursos de odio",
+            "fuente": "https://www.anred.org/se-viene-la-segunda-marcha-del-orgullo-lgtbiqnb-antifascista-y-antirracista/, https://www.laizquierdadiario.com/Conferencia-de-prensa-por-la-segunda-Marcha-del-orgullo-Antifascista-y-antiracista, https://www.laizquierdadiario.com/Asamblea-LGBTIQ-marchara-el-7F-y-cuando-se-trate-la-reforma-laboral-piden-paro-general"
         },
         {
             "es_evento_relevante": true,
@@ -5270,6 +5280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a recortos salariales unilaterales y exigencia de recomposición salarial frente a la inflación",
             "fuente": "https://www.inforegion.com.ar/2026/02/06/paro-en-aeropuertos-ate-anac-ratifico-una-huelga-nacional-desde-el-lunes-y-podria-paralizar-los-vuelos/, https://www.datagremial.com/paritarias/ate-postergo-el-paro-en-los-aeropuertos-pero-advirtio-que-si-no-pagan-el-aumento-habra-huelga-el-9-de-febrero-20262210460, https://www.inforegion.com.ar/2026/02/01/paro-en-los-aeropuertos-ate-postergo-la-huelga-total-y-crece-la-tension-por-reclamos-salariales/, https://www.infobae.com/politica/2026/02/01/postergan-la-fecha-del-paro-en-todos-los-aeropuertos-pero-igual-podria-haber-demoras-en-los-vuelos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-09",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/06/la-cgt-se-movilizara-el-miercoles-ante-el-congreso-cuando-comience-el-debate-por-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
@@ -5365,21 +5385,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "13:00",
-            "lugar": "Ministerio de Salud de la Nación al Congreso Nacional",
-            "quien": "Fesprosa, APyT, ATE, CICOP y organizaciones de la salud y jubilados",
-            "tipo_medida": "Paro Nacional y Movilización",
-            "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
-            "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros, Frente de Gremios Estatales y sindicatos combativos de la CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a la reforma laboral y defensa de derechos conquistados",
+            "fuente": "https://estadodealerta.com.ar/paro-por-tiempo-indeterminado-de-camioneros-en-coca-cola-por-la-efectivizacion-de-contratados/, https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "13:00",
-            "lugar": "No especificado",
-            "quien": "Asociación de Trabajadores del Estado (ATE) y Frente de Sindicatos Estatales",
-            "tipo_medida": "Paro general",
-            "motivo": "Contra el proyecto de Reforma Laboral impulsado por el Gobierno nacional",
-            "fuente": "https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+            "lugar": "Ministerio de Salud de la Nación al Congreso Nacional",
+            "quien": "Fesprosa, APyT, ATE, CICOP y organizaciones de la salud y jubilados",
+            "tipo_medida": "Paro Nacional y Movilización",
+            "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
+            "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
