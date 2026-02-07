@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-07T09:36:59.947983-03:00",
+    "last_updated": "2026-02-07T10:43:37.230969-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5415,11 +5415,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "15:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
+            "lugar": "Plaza de los Dos Congresos",
             "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral del Gobierno que, según la CGT, recorta derechos laborales y pone en riesgo conquistas históricas",
-            "fuente": "https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
+            "motivo": "Rechazo a reforma laboral del Gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
         },
         {
             "es_evento_relevante": true,
