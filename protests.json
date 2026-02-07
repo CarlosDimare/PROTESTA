@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-07T10:43:37.230969-03:00",
+    "last_updated": "2026-02-07T11:24:46.848257-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5230,6 +5230,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la Ley de Glaciares y oposición a la reforma laboral de Milei",
             "fuente": "https://prensaobrera.com/ambiente/cornejo-vuelve-a-reprimir-y-detener-manifestantes-que-defienden-el-agua-en-mendoza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-07",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Comunidad LGTBIQNB+, Asamblea Lesbotransfeminista de Rosario, Comunidad Travesti Trans Rosario, organizaciones sociales, políticas, sindicatos y gremios",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra políticas fascistas, racistas e imperialistas del gobierno nacional; por presupuesto en salud y educación, cumplimiento del cupo laboral trans, rechazo a reformas laboral y previsional, y denuncia de crímenes de odio",
+            "fuente": "https://elciudadanoweb.com/antifascista-antirracista-antiimperialista-rosario-marcha-hoy-contra-las-politicas-de-javier-milei/"
         },
         {
             "es_evento_relevante": true,
