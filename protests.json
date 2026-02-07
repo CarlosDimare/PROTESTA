@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-07T08:19:57.762700-03:00",
+    "last_updated": "2026-02-07T09:36:59.947983-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5440,6 +5440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el presidente Javier Milei y presión a gobernadores para que no acompañen la iniciativa en el Senado",
             "fuente": "https://www.datagremial.com/informacion-general/los-gremios-combativos-marcharon-en-cordoba-y-trataron-de-cobardes-a-los-gobernadores--20262519290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-12",
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "Sectores del transporte liderados por Juan Carlos Schmid y La Fraternidad",
+            "tipo_medida": "Paro sectorial",
+            "motivo": "Oposición a la reforma laboral y defensa de derechos sindicales",
+            "fuente": "https://www.infobae.com/politica/2026/02/07/en-medio-de-la-tension-en-la-cgt-por-la-reforma-laboral-pablo-moyano-paraliza-una-megaplanta-de-coca-cola/"
         },
         {
             "es_evento_relevante": true,
