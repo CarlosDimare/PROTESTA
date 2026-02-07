@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-07T17:22:50.111392-03:00",
+    "last_updated": "2026-02-07T18:23:08.082082-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5440,6 +5440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la reforma laboral de Milei y despidos masivos en Ledesma, exigiendo derrotar el proyecto en Senado",
             "fuente": "https://www.laizquierdadiario.com/Encuentro-de-Cedems-Jujuy-conformaron-la-Asamblea-Permanente-contra-la-Reforma-Laboral, https://www.laizquierdadiario.com/Conoce-donde-es-la-convocatoria-en-tu-ciudad-para-movilizarse-contra-la-reforma-laboral-de-Milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "16:00",
+            "lugar": "Ciudad de Buenos Aires y puntos del país",
+            "quien": "Activismo LGBTIQ+, organizaciones sociales, políticas y de derechos humanos",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la reforma laboral, exigencia de paro general, rechazo a la ley de glaciares, críticas a la gestión de incendios en Patagonia y represión del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Comenzo-la-2o-marcha-del-orgullo-antifascista-y-antirracista"
         },
         {
             "es_evento_relevante": true,
