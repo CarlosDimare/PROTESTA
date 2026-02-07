@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-07T02:43:28.897648-03:00",
+    "last_updated": "2026-02-07T03:40:43.213363-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5440,6 +5440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el presidente Javier Milei y presión a gobernadores para que no acompañen la iniciativa en el Senado",
             "fuente": "https://www.datagremial.com/informacion-general/los-gremios-combativos-marcharon-en-cordoba-y-trataron-de-cobardes-a-los-gobernadores--20262519290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-14",
+            "horario": "10:00",
+            "lugar": "Sede de Nucleoeléctrica Argentina",
+            "quien": "Trabajadores de Nucleoeléctrica Argentina",
+            "tipo_medida": "Asamblea",
+            "motivo": "Definición de remociones de autoridades y desenmarañar supuestos manejos corruptos vinculados a sobreprecios en licitaciones",
+            "fuente": "https://www.infobae.com/politica/2026/02/06/nucleoelectrica-renunciaron-dos-gerentes-que-respondian-a-demian-reidel-y-habra-inminentes-cambios/"
         },
         {
             "es_evento_relevante": true,
