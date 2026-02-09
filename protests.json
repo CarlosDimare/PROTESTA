@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09T08:45:30.897556-03:00",
+    "last_updated": "2026-02-09T09:59:52.652720-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5350,6 +5350,16 @@
             "tipo_medida": "Paro Nacional",
             "motivo": "Oponerse a la reforma laboral propuesta por el gobierno, considerada precarizante y que afecta derechos sindicales",
             "fuente": "https://www.datagremial.com/escenario/gremios-estatales-iran-al-paro-para-ponerle-un-freno-al-gobierno-y-su-reforma-laboral-20261281000, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "18:00",
+            "lugar": "Embajada de Argentina en Madrid (C. de Fernando el Santo, 13)",
+            "quien": "CGT de Madrid, Castilla La Mancha y Extremadura, Co.bas Madrid, Solidaridad Obrera, ASC y STEM",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la contrarreforma laboral del gobierno de Javier Milei y solidaridad con la clase trabajadora argentina",
+            "fuente": "https://www.laizquierdadiario.com/Sindicatos-combativos-del-Estado-espanol-marcharan-a-la-embajada-de-Argentina-en-Madrid-contra-la"
         },
         {
             "es_evento_relevante": true,
