@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09T17:03:43.812606-03:00",
+    "last_updated": "2026-02-09T17:45:41.275192-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5295,11 +5295,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-09",
             "horario": "12:00",
-            "lugar": "Congreso Nacional",
+            "lugar": "Congreso Nacional, Buenos Aires",
             "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Protesta contra la reforma laboral",
-            "fuente": "https://www.infobae.com/politica/2026/02/06/la-cgt-se-movilizara-el-miercoles-ante-el-congreso-cuando-comience-el-debate-por-la-reforma-laboral/"
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto de Modernización Laboral y presión contra los gobernadores que apoyaron la iniciativa",
+            "fuente": "https://elciudadanoweb.com/protesta-sindical-en-rosario-movilizacion-contra-la-reforma-laboral-de-mile/, https://www.infobae.com/politica/2026/02/06/la-cgt-se-movilizara-el-miercoles-ante-el-congreso-cuando-comience-el-debate-por-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
@@ -5350,6 +5350,16 @@
             "tipo_medida": "Paro Nacional",
             "motivo": "Oponerse a la reforma laboral propuesta por el gobierno, considerada precarizante y que afecta derechos sindicales",
             "fuente": "https://www.datagremial.com/escenario/gremios-estatales-iran-al-paro-para-ponerle-un-freno-al-gobierno-y-su-reforma-laboral-20261281000, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "15:45",
+            "lugar": "Puerta del INDEC (sede central)",
+            "quien": "Junta Interna de ATE en el INDEC",
+            "tipo_medida": "Movilización (radio abierta)",
+            "motivo": "Rechazo a la intromisión gubernamental en decisiones técnicas y exigencia de independencia del organismo estadístico",
+            "fuente": "https://www.datagremial.com/informacion-general/ante-el-descredito-de-las-estadisticas-oficiales-la-cgt-analiza-poner-en-marcha-su-propio-ipc--20262917100"
         },
         {
             "es_evento_relevante": true,
@@ -5500,6 +5510,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra la reforma laboral del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Encuentro-intersindical-convoca-a-marchar-sin-paro-de-la-CGT-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "No especificado",
+            "lugar": "Provincias del interior de Argentina",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir la aplicación del acuerdo salarial del AMBA en todas las provincias del interior, cuestionando la postura empresarial de falta de recursos",
+            "fuente": "https://elciudadanoweb.com/paro-de-colectivos-en-el-interior-quedara-rosario-sin-transporte/"
         },
         {
             "es_evento_relevante": true,
