@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-08T22:48:48.490056-03:00",
+    "last_updated": "2026-02-09T01:31:36.230706-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5450,6 +5450,16 @@
             "tipo_medida": "Movilización con micrófono abierto",
             "motivo": "Oposición a la reforma laboral que se tratará en el Senado",
             "fuente": "https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-hgamos-tambien-gran-acto-desde-las-18-hs, https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-participa-tambien-del-acto-desde-las-18-hs, https://www.infobae.com/politica/2026/02/07/reforma-laboral-la-cgt-redujo-su-protesta-como-un-gesto-hacia-las-negociaciones-con-el-gobierno-pero-el-transporte-hara-un-paro/, https://motoreconomico.com.ar/el-sindicato-de-camioneros-lanzo-un-paro-por-tiempo-indeterminado-en-la-planta-mega-de-coca-cola-en-el-gran-buenos-aires-tras-una-asamblea-con-1-500-trabajadores-encabezada-por-pablo-moyano/, https://elciudadanoweb.com/ni-alfajores-ni-paro-la-cgt-se-anima-a-caminar-contra-la-reforma-laboral/, https://elciudadanoweb.com/botellas-paradas-conflicto-interno-deja-a-coca-cola-en-huelga/, https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/, https://www.datagremial.com/informacion-general/con-marcha-pero-sin-paro-al-final-la-cgt-se-decidio-por-una-postura-intermedia-ante-la-reforma-laboral-20262617370"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "18:30",
+            "lugar": "Plaza San Martín",
+            "quien": "CGT y las dos CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la reforma laboral del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Encuentro-intersindical-convoca-a-marchar-sin-paro-de-la-CGT-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
