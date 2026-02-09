@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09T18:36:48.657542-03:00",
+    "last_updated": "2026-02-09T19:33:50.820473-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5394,6 +5394,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
+            "horario": "00:00",
+            "lugar": "Provincias del interior de Argentina",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial con cámaras empresariales del transporte; exigencia de aplicar el acuerdo salarial del AMBA al interior del país",
+            "fuente": "https://www.inforegion.com.ar/2026/02/09/la-uta-amenazo-con-un-paro-de-colectivos/, https://elciudadanoweb.com/paro-de-colectivos-en-el-interior-quedara-rosario-sin-transporte/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "08:00",
+            "lugar": "Córdoba",
+            "quien": "Uepc-Capital Multicolor",
+            "tipo_medida": "Corte y movilización",
+            "motivo": "Rechazo a reforma laboral y defensa de derechos docentes",
+            "fuente": "https://prensaobrera.com/sindicales/desde-jujuy-hasta-santa-cruz-paros-y-movilizaciones-independientes-del-sindicalismo-docente-combativo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
             "horario": "09:00",
             "lugar": "Senado Nacional",
             "quien": "Plenarios sindicales, coordinadoras regionales y organizaciones sociales",
@@ -5465,21 +5485,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "13:00",
+            "lugar": "Plaza de los Dos Congresos",
+            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Rechazo a la reforma laboral que se tratará en el Senado, considerada regresiva y precarizante de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/gremios-del-transporte-realizaran-cese-de-actividades-y-marcharan-al-congreso-el-miercoles-contra-la-reforma-laboral-20262918450, https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "13:00",
             "lugar": "Ministerio de Salud de la Nación al Congreso Nacional",
             "quien": "Fesprosa, APyT, ATE, CICOP y organizaciones de la salud y jubilados",
             "tipo_medida": "Paro Nacional y Movilización",
             "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
             "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "15:00",
-            "lugar": "Plaza de los Dos Congresos",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a reforma laboral del Gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
         },
         {
             "es_evento_relevante": true,
@@ -5510,16 +5530,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra la reforma laboral del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Encuentro-intersindical-convoca-a-marchar-sin-paro-de-la-CGT-contra-la-reforma-laboral"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "No especificado",
-            "lugar": "Provincias del interior de Argentina",
-            "quien": "Unión Tranviarios Automotor (UTA)",
-            "tipo_medida": "Paro",
-            "motivo": "Exigir la aplicación del acuerdo salarial del AMBA en todas las provincias del interior, cuestionando la postura empresarial de falta de recursos",
-            "fuente": "https://elciudadanoweb.com/paro-de-colectivos-en-el-interior-quedara-rosario-sin-transporte/"
         },
         {
             "es_evento_relevante": true,
