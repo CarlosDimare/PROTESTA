@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09T22:59:32.587933-03:00",
+    "last_updated": "2026-02-10T01:32:07.660231-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5315,21 +5315,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-10",
             "horario": "08:00",
+            "lugar": "Plantas de Barman y Vymat",
+            "quien": "Trabajadores de Barman y Vymat",
+            "tipo_medida": "Paro",
+            "motivo": "Falta de pago de salarios y reincorporación de despedidos",
+            "fuente": "https://motoreconomico.com.ar/el-conflicto-en-lustramax-se-extiende-a-las-plantas-de-barman-y-vymat-con-un-paro-por-deudas-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "08:00",
             "lugar": "Congreso Nacional",
             "quien": "Sindicatos y movimiento obrero",
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral que restringe derechos sindicales y de huelga",
             "fuente": "https://www.laizquierdadiario.com/Reforma-laboral-como-ataca-el-derecho-a-huelga-asambleas-y-organizacion-sindical, https://www.infobae.com/politica/2026/01/17/vuelven-las-tensiones-en-la-cgt-las-claves-ocultas-de-la-nueva-pelea-interna-por-la-reforma-laboral/, https://www.datagremial.com/informacion-general/inflacion-maquillada-y-cada-vez-mas-corrosiva-la-mesa-sindical-volvio-a-cuestionar-los-datos-oficiales-y-convoco-a-la-movilizacion-202611518280, https://estadodealerta.com.ar/mesa-sindical-vuelve-a-cuestionar-los-indices-de-inflacion-del-indec-el-maquillaje-no-puede-ocultar-la-realidad/, https://www.laizquierdadiario.com/Paro-y-movilizacion-para-rodear-el-Congreso-cuando-se-vote, https://www.infobae.com/politica/2025/12/20/reforma-laboral-entre-el-eterno-loop-de-la-cgt-con-sus-protestas-y-un-gobierno-que-arrincona-al-sindicalismo-dialoguista/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-10",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral y contención de sectores duros",
-            "fuente": "https://www.infobae.com/politica/2026/02/05/entre-presiones-por-un-paro-crece-en-la-cgt-la-propuesta-de-movilizarse-el-dia-que-se-debata-la-reforma-laboral/, https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
@@ -5350,6 +5350,16 @@
             "tipo_medida": "Paro Nacional",
             "motivo": "Oponerse a la reforma laboral propuesta por el gobierno, considerada precarizante y que afecta derechos sindicales",
             "fuente": "https://www.datagremial.com/escenario/gremios-estatales-iran-al-paro-para-ponerle-un-freno-al-gobierno-y-su-reforma-laboral-20261281000, https://www.infogremiales.com.ar/sindicatos-estatales-se-reunen-hoy-y-podrian-definir-el-primer-paro-nacional-del-2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-10",
+            "horario": "14:30",
+            "lugar": "Plaza de los Dos Congresos",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/10/que-sindicatos-van-a-parar-este-miercoles-por-la-movilizacion-de-la-cgt-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/05/entre-presiones-por-un-paro-crece-en-la-cgt-la-propuesta-de-movilizarse-el-dia-que-se-debata-la-reforma-laboral/, https://www.laizquierdadiario.com/PARO-Y-MOVILIZACION-PARA-RODEAR-EL-CONGRESO-CUANDO-SE-VOTE, https://www.laizquierdadiario.com/18D-un-fuerte-bloque-independiente-exigio-paro-y-plan-de-lucha-en-Jujuy"
         },
         {
             "es_evento_relevante": true,
