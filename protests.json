@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T08:50:18.312375-03:00",
+    "last_updated": "2026-02-10T10:06:32.553166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5404,12 +5404,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
-            "horario": "00:00",
-            "lugar": "Provincias del interior de Argentina",
+            "horario": "08:00",
+            "lugar": "Provincias del interior de Argentina (excluyendo AMBA)",
             "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Conflicto salarial con cámaras empresariales del transporte; exigencia de aplicar el acuerdo salarial del AMBA al interior del país",
-            "fuente": "https://www.inforegion.com.ar/2026/02/09/la-uta-amenazo-con-un-paro-de-colectivos/, https://elciudadanoweb.com/paro-de-colectivos-en-el-interior-quedara-rosario-sin-transporte/"
+            "motivo": "Reclamo por incumplimiento empresarial en el pago de salarios con aumentos homologados acordados en paritarias del AMBA",
+            "fuente": "https://www.infobae.com/economia/2026/02/10/la-uta-amenazo-con-un-paro-de-colectivos-para-el-11-de-febrero-que-sectores-del-pais-se-verian-afectados/, https://www.inforegion.com.ar/2026/02/09/la-uta-amenazo-con-un-paro-de-colectivos/, https://elciudadanoweb.com/paro-de-colectivos-en-el-interior-quedara-rosario-sin-transporte/"
         },
         {
             "es_evento_relevante": true,
