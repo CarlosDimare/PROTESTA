@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T16:04:21.387382-03:00",
+    "last_updated": "2026-02-10T17:06:02.358969-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5510,6 +5510,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral y en repudio a despidos/suspensiones en el Hospital Garrahan",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-general-del-Hospital-Garrahan-voto-paro-y-movilizacion-para-este-miercoles"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "13:00",
+            "lugar": "Rodríguez Peña y Rivadavia",
+            "quien": "Plenario del Sindicalismo Combativo, sindicatos combativos, organizaciones piqueteras independientes, agrupaciones de jubilados, organismos de derechos humanos, representaciones estudiantiles y partidos de izquierda",
+            "tipo_medida": "Movilización con paros sectoriales",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei y exigencia de un plan de lucha nacional a las centrales sindicales",
+            "fuente": "https://prensaobrera.com/sindicales/rechazamos-de-plano-la-reforma-laboral-esclavista-todos-al-congreso-con-el-sindicalismo-combativo"
         },
         {
             "es_evento_relevante": true,
