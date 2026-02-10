@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T11:33:13.558073-03:00",
+    "last_updated": "2026-02-10T13:12:45.811864-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5404,6 +5404,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
+            "horario": "**No especificado**",
+            "lugar": "Frente a dependencias policiales en Rosario (Ovidio Lagos 5200)",
+            "quien": "Policía de Santa Fe",
+            "tipo_medida": "Concentración",
+            "motivo": "Retraso salarial, falta de tratamiento psicológico, exigencias laborales y rechazo a medidas insuficientes del gobierno",
+            "fuente": "https://elciudadanoweb.com/el-vocero-legal-de-los-policias-en-protesta-detallo-los-reclamos-y-justifico-la-protesta/, https://www.infobae.com/politica/2026/02/10/crece-la-tension-en-santa-fe-por-la-protesta-de-policias-denuncian-falta-de-dialogo-y-la-provincia-impuso-sanciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
             "horario": "08:00",
             "lugar": "Provincias del interior de Argentina (excluyendo AMBA)",
             "quien": "Unión Tranviarios Automotor (UTA)",
@@ -5440,16 +5450,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral impulsada por el gobierno de Javier Milei",
             "fuente": "https://www.anred.org/ante-la-pasividad-de-la-cgt-y-las-centrales-se-multiplican-las-coordinadoras-sindicales-contra-la-reforma-laboral-de-milei/, https://prensaobrera.com/politicas/derrotemos-la-ley-penal-juvenil-del-gobierno"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Plenario del Sindicalismo Combativo (PSC)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral antiobrera del gobierno de Milei y exigencia de paro activo nacional",
-            "fuente": "https://prensaobrera.com/sindicales/el-sindicalismo-combativo-prepara-la-jornada-del-miercoles-11-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
@@ -5520,6 +5520,16 @@
             "tipo_medida": "Paro Nacional y Movilización",
             "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
             "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "15:00",
+            "lugar": "Plaza Congreso, Buenos Aires",
+            "quien": "Coalición de movimientos sociales, sindicatos (CGT, CTA, UTEP) y organizaciones piqueteras (Polo Obrero, MST, PTS, etc.)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al tratamiento parlamentario de la reforma laboral impulsada por el Gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/02/10/como-sera-el-operativo-policial-que-el-gobierno-desplegara-durante-la-marcha-contra-la-reforma-laboral-en-el-congreso/, https://prensaobrera.com/sindicales/el-sindicalismo-combativo-prepara-la-jornada-del-miercoles-11-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
