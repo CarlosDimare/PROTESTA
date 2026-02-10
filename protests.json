@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-09T20:35:11.320577-03:00",
+    "last_updated": "2026-02-09T22:59:32.587933-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5415,21 +5415,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "09:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento obrero argentino (CGT y CTAs)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y defensa de derechos sindicales",
+            "fuente": "https://prensaobrera.com/politicas/la-cgt-autohumillada-por-milei-y-los-gobernadores, https://www.laizquierdadiario.com/11-de-febrero-EEUU-va-por-los-minerales-criticos-a-costa-de-los-Glaciares-hay-que-enfrentarlo-276339, https://prensaobrera.com/sindicales/la-matanza-importante-plenario-de-la-multicolor-resuelve-parar-y-movilizarse-al-congreso-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Un-centenar-de-abogados-juristas-y-sindicalistas-del-Estado-espanol-se-manifiestan-contra-la, https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-hgamos-tambien-gran-acto-desde-las-18-hs, https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-participa-tambien-del-acto-desde-las-18-hs, https://www.infobae.com/politica/2026/02/07/reforma-laboral-la-cgt-redujo-su-protesta-como-un-gesto-hacia-las-negociaciones-con-el-gobierno-pero-el-transporte-hara-un-paro/, https://motoreconomico.com.ar/el-sindicato-de-camioneros-lanzo-un-paro-por-tiempo-indeterminado-en-la-planta-mega-de-coca-cola-en-el-gran-buenos-aires-tras-una-asamblea-con-1-500-trabajadores-encabezada-por-pablo-moyano/, https://elciudadanoweb.com/ni-alfajores-ni-paro-la-cgt-se-anima-a-caminar-contra-la-reforma-laboral/, https://elciudadanoweb.com/botellas-paradas-conflicto-interno-deja-a-coca-cola-en-huelga/, https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/, https://www.datagremial.com/informacion-general/con-marcha-pero-sin-paro-al-final-la-cgt-se-decidio-por-una-postura-intermedia-ante-la-reforma-laboral-20262617370"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "09:00",
             "lugar": "Senado Nacional",
             "quien": "Plenarios sindicales, coordinadoras regionales y organizaciones sociales",
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral impulsada por el gobierno de Javier Milei",
             "fuente": "https://www.anred.org/ante-la-pasividad-de-la-cgt-y-las-centrales-se-multiplican-las-coordinadoras-sindicales-contra-la-reforma-laboral-de-milei/, https://prensaobrera.com/politicas/derrotemos-la-ley-penal-juvenil-del-gobierno"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Sindicato combativo, jubilados y movimiento piquetero",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la reforma laboral, repudio a políticas de ajuste, despidos y ataques a la educación pública",
-            "fuente": "https://prensaobrera.com/sindicales/la-matanza-importante-plenario-de-la-multicolor-resuelve-parar-y-movilizarse-al-congreso-contra-la-reforma-laboral, https://www.laizquierdadiario.com/Un-centenar-de-abogados-juristas-y-sindicalistas-del-Estado-espanol-se-manifiestan-contra-la, https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-hgamos-tambien-gran-acto-desde-las-18-hs, https://www.laizquierdadiario.com/Miercoles-jornada-de-lucha-hasta-la-noche-participa-tambien-del-acto-desde-las-18-hs, https://www.infobae.com/politica/2026/02/07/reforma-laboral-la-cgt-redujo-su-protesta-como-un-gesto-hacia-las-negociaciones-con-el-gobierno-pero-el-transporte-hara-un-paro/, https://motoreconomico.com.ar/el-sindicato-de-camioneros-lanzo-un-paro-por-tiempo-indeterminado-en-la-planta-mega-de-coca-cola-en-el-gran-buenos-aires-tras-una-asamblea-con-1-500-trabajadores-encabezada-por-pablo-moyano/, https://elciudadanoweb.com/ni-alfajores-ni-paro-la-cgt-se-anima-a-caminar-contra-la-reforma-laboral/, https://elciudadanoweb.com/botellas-paradas-conflicto-interno-deja-a-coca-cola-en-huelga/, https://www.laizquierdadiario.com/Desde-el-Hospital-Paroissien-Este-es-el-inicio-de-una-coordinadora-de-trabajadores-y-trabajadoras, https://www.laizquierdadiario.com/Miercoles-11-2-la-CGT-deberia-haber-llamado-a-paro-nacional-convoco-a-marcha-con-libertad-de-accion, https://www.laizquierdadiario.com/En-la-megaplanta-de-Coca-Cola-paralizada-por-una-huelga-Pablo-Moyano-hablo-de-copar-las-calles, https://www.infobae.com/politica/2026/02/06/reforma-laboral-guerra-de-versiones-sobre-posibles-cambios-que-conformarian-a-los-gobernadores-pero-no-a-la-cgt/, https://www.laizquierdadiario.com/El-11-de-febrero-se-trata-la-Reforma-Laboral-hay-que-impulsar-un-paro-nacional-para-ser-miles, https://prensaobrera.com/sindicales/1-000-dirigentes-delegados-y-activistas-combativos-llaman-a-movilizar-el-11-contra-la-reforma-laboral-exigiendo-paro-activo-nacional-y-plan-de-lucha, https://www.laizquierdadiario.com/Distintos-gremios-anuncian-medidas-contra-la-reforma-laboral-hace-falta-paro-general-activo-y-plan, https://motoreconomico.com.ar/gremios-del-sector-publico-y-privado-lanzaron-un-nuevo-espacio-sindical-contra-la-reforma-laboral/, https://bairessecreta.com/marcha-del-1-de-febrero-del-orgullo-antifascista-y-antirracista-horario-recorrido-y-cronograma/, https://www.datagremial.com/informacion-general/con-marcha-pero-sin-paro-al-final-la-cgt-se-decidio-por-una-postura-intermedia-ante-la-reforma-laboral-20262617370"
         },
         {
             "es_evento_relevante": true,
@@ -5480,6 +5480,16 @@
             "tipo_medida": "Paro activo nacional",
             "motivo": "Rechazo a la reforma laboral esclavista y plan de lucha contra el gobierno de Milei",
             "fuente": "https://prensaobrera.com/sindicales/lunes-2-2-a-las-17-gran-autoconvocatoria-independiente-en-parque-lezama-para-preparar-la-movilizacion-el-dia-que-se-trate-la-reforma-laboral, https://agduba.org.ar/plenario-nacional-del-sindicalismo-combativo-el-movimiento-piquetero-independiente-las-organizaciones-de-jubilados-y-todas-las-luchas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "12:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Trabajadores de Garrahan nucleados en ATE, APyT e independientes",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral y en repudio a despidos/suspensiones en el Hospital Garrahan",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-general-del-Hospital-Garrahan-voto-paro-y-movilizacion-para-este-miercoles"
         },
         {
             "es_evento_relevante": true,
