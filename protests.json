@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T15:04:33.190782-03:00",
+    "last_updated": "2026-02-11T16:14:01.426105-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5535,16 +5535,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "13:00",
-            "lugar": "Plaza de los Dos Congresos",
-            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral del Gobierno Nacional que se considera regresiva y precarizante de derechos laborales",
-            "fuente": "https://estadodealerta.com.ar/movilizacion-contra-la-reforma-laboral-la-catt-determino-paro-aereo-maritimo-portuario-y-de-subterraneos/, https://www.datagremial.com/informacion-general/gremios-del-transporte-realizaran-cese-de-actividades-y-marcharan-al-congreso-el-miercoles-contra-la-reforma-laboral-20262918450, https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "13:00",
             "lugar": "Ministerio de Salud de la Nación al Congreso Nacional",
             "quien": "Fesprosa, APyT, ATE, CICOP y organizaciones de la salud y jubilados",
             "tipo_medida": "Paro Nacional y Movilización",
@@ -5600,6 +5590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a la reforma laboral, exigencia de paro general, rechazo a la ley de glaciares, críticas a la gestión de incendios en Patagonia y represión del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Comenzo-la-2o-marcha-del-orgullo-antifascista-y-antirracista"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "18:00",
+            "lugar": "Plaza del Congreso",
+            "quien": "Frente de Izquierda y sindicalismo combativo",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-adentro-la-sesion-afuera-bronca-resistencia-y-movilizacion-contra-la-reforma-laboral, https://estadodealerta.com.ar/movilizacion-contra-la-reforma-laboral-la-catt-determino-paro-aereo-maritimo-portuario-y-de-subterraneos/, https://www.datagremial.com/informacion-general/gremios-del-transporte-realizaran-cese-de-actividades-y-marcharan-al-congreso-el-miercoles-contra-la-reforma-laboral-20262918450, https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
         },
         {
             "es_evento_relevante": true,
