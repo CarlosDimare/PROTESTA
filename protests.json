@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T05:50:31.467029-03:00",
+    "last_updated": "2026-02-11T06:55:17.161307-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5414,12 +5414,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
-            "horario": "**No especificado**",
-            "lugar": "Frente a dependencias policiales en Rosario (Ovidio Lagos 5200)",
+            "horario": "00:00",
+            "lugar": "Ovidio Lagos al 5200, Rosario",
             "quien": "Policía de Santa Fe",
-            "tipo_medida": "Concentración",
-            "motivo": "Retraso salarial, falta de tratamiento psicológico, exigencias laborales y rechazo a medidas insuficientes del gobierno",
-            "fuente": "https://elciudadanoweb.com/el-vocero-legal-de-los-policias-en-protesta-detallo-los-reclamos-y-justifico-la-protesta/, https://www.infobae.com/politica/2026/02/10/crece-la-tension-en-santa-fe-por-la-protesta-de-policias-denuncian-falta-de-dialogo-y-la-provincia-impuso-sanciones/"
+            "tipo_medida": "Corte de tránsito",
+            "motivo": "Protesta por descontento por aumentos no uniformes y medidas de contención",
+            "fuente": "https://elciudadanoweb.com/se-reactivo-la-protesta-policial-en-toda-santa-fe-y-desalojaron-una-concentracion-de-familiares-frente-a-la-jefatura-de-rosario/, https://elciudadanoweb.com/el-vocero-legal-de-los-policias-en-protesta-detallo-los-reclamos-y-justifico-la-protesta/, https://www.infobae.com/politica/2026/02/10/crece-la-tension-en-santa-fe-por-la-protesta-de-policias-denuncian-falta-de-dialogo-y-la-provincia-impuso-sanciones/"
         },
         {
             "es_evento_relevante": true,
