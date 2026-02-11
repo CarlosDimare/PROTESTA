@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T22:57:38.807204-03:00",
+    "last_updated": "2026-02-11T01:32:34.894521-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5515,6 +5515,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "13:00",
+            "lugar": "Argentina",
+            "quien": "Frente de Sindicatos Unidos (FreSU) - UOM, Aceiteros, Portuarios, Pilotos, Vialidad, CTA, ATE",
+            "tipo_medida": "Huelga por tiempo indeterminado",
+            "motivo": "En contra de la reforma laboral impulsada por La Libertad Avanza y por condiciones dignas (vivienda, salud, educación, alimentación, vestimenta y movilidad)",
+            "fuente": "https://www.anred.org/marcha-en-rosario-contra-la-reforma-laboral-sobran-los-motivos-para-ir-a-una-huelga/, https://www.infobae.com/politica/2026/02/10/que-sindicatos-van-a-parar-este-miercoles-por-la-movilizacion-de-la-cgt-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "13:00",
             "lugar": "Congreso Nacional",
             "quien": "Centrales obreras (CGT, CTA) y sindicatos combativos",
             "tipo_medida": "Movilización",
@@ -5630,6 +5640,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al proyecto de reforma laboral del Gobierno nacional y exigencia a senadores para que lo rechacen",
             "fuente": "https://www.inforegion.com.ar/2026/02/10/ate-ratifico-paro-de-24-horas-y-movilizacion-al-congreso-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-12",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "PTS-Frente de Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral esclavista del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/El-Gobierno-denuncio-al-dirigente-aceitero-Daniel-Yofra-repudio-de-Bregman-y-Del-Cano"
         },
         {
             "es_evento_relevante": true,
