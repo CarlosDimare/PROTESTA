@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T19:29:55.699057-03:00",
+    "last_updated": "2026-02-11T20:33:19.242780-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5620,6 +5620,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/En-vivo-adentro-la-sesion-afuera-bronca-resistencia-y-movilizacion-contra-la-reforma-laboral, https://estadodealerta.com.ar/movilizacion-contra-la-reforma-laboral-la-catt-determino-paro-aereo-maritimo-portuario-y-de-subterraneos/, https://www.datagremial.com/informacion-general/gremios-del-transporte-realizaran-cese-de-actividades-y-marcharan-al-congreso-el-miercoles-contra-la-reforma-laboral-20262918450, https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "No especificado",
+            "lugar": "Intersección de Av. Hipólito Yrigoyen y Av. Brasil, Lanús",
+            "quien": "Ex empleados despedidos de barrido y limpieza + UTEP + organizaciones sociales y gremiales",
+            "tipo_medida": "Piquete y Corte",
+            "motivo": "Reincorporación de los 80 trabajadores despedidos, fin de la precarización laboral, pago de salarios adeudados y restablecimiento de asistencia alimentaria",
+            "fuente": "https://www.datagremial.com/informacion-general/protestas-y-represion-en-lanus-el-reclamo-por-el-despido-de-80-trabajadores-del-municipio-de-julian-alvarez-termino-en-violencia-202621020470"
         },
         {
             "es_evento_relevante": true,
