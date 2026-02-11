@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T09:59:44.070997-03:00",
+    "last_updated": "2026-02-11T11:21:22.402187-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5565,6 +5565,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "15:00",
+            "lugar": "Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT Confederación General del Trabajo",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al tratamiento de la reforma laboral en el Senado",
+            "fuente": "https://www.infobae.com/politica/2026/02/11/paro-de-transporte-hoy-11-de-febrero-que-servicios-se-veran-afectados-por-la-medida-de-la-cgt-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "15:00",
             "lugar": "Plaza Congreso, Buenos Aires",
             "quien": "Coalición de movimientos sociales, sindicatos (CGT, CTA, UTEP) y organizaciones piqueteras (Polo Obrero, MST, PTS, etc.)",
             "tipo_medida": "Movilización",
@@ -5590,6 +5600,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a la reforma laboral, exigencia de paro general, rechazo a la ley de glaciares, críticas a la gestión de incendios en Patagonia y represión del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Comenzo-la-2o-marcha-del-orgullo-antifascista-y-antirracista"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "21:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires (líneas A, B, C, D, E, H y Premetro)",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://www.inforegion.com.ar/2026/02/11/paro-de-subte-metrodelegados-se-suman-a-la-medida-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
