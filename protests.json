@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T08:47:34.232893-03:00",
+    "last_updated": "2026-02-11T09:59:44.070997-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5415,11 +5415,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "00:00",
-            "lugar": "Ovidio Lagos al 5200, Rosario",
-            "quien": "Policía de Santa Fe",
-            "tipo_medida": "Corte de tránsito",
-            "motivo": "Protesta por descontento por aumentos no uniformes y medidas de contención",
-            "fuente": "https://elciudadanoweb.com/se-reactivo-la-protesta-policial-en-toda-santa-fe-y-desalojaron-una-concentracion-de-familiares-frente-a-la-jefatura-de-rosario/, https://elciudadanoweb.com/el-vocero-legal-de-los-policias-en-protesta-detallo-los-reclamos-y-justifico-la-protesta/, https://www.infobae.com/politica/2026/02/10/crece-la-tension-en-santa-fe-por-la-protesta-de-policias-denuncian-falta-de-dialogo-y-la-provincia-impuso-sanciones/"
+            "lugar": "Jefatura de la Unidad Regional II, Rosario y otras ciudades de Santa Fe",
+            "quien": "Policías de Santa Fe",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales y reincorporación de 20 agentes afectados por medidas disciplinarias",
+            "fuente": "https://www.infobae.com/politica/2026/02/11/tension-policial-en-santa-fe-piden-levantar-la-protesta-y-prometen-que-no-habra-mas-pases-a-disponibilidad/, https://elciudadanoweb.com/se-reactivo-la-protesta-policial-en-toda-santa-fe-y-desalojaron-una-concentracion-de-familiares-frente-a-la-jefatura-de-rosario/, https://elciudadanoweb.com/el-vocero-legal-de-los-policias-en-protesta-detallo-los-reclamos-y-justifico-la-protesta/, https://www.infobae.com/politica/2026/02/10/crece-la-tension-en-santa-fe-por-la-protesta-de-policias-denuncian-falta-de-dialogo-y-la-provincia-impuso-sanciones/"
         },
         {
             "es_evento_relevante": true,
@@ -5450,16 +5450,6 @@
             "tipo_medida": "Corte y movilización",
             "motivo": "Rechazo a reforma laboral y defensa de derechos docentes",
             "fuente": "https://prensaobrera.com/sindicales/desde-jujuy-hasta-santa-cruz-paros-y-movilizaciones-independientes-del-sindicalismo-docente-combativo"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "09:00",
-            "lugar": "Hipólito Yrigoyen 1584, Casa de las Madres de Plaza de Mayo",
-            "quien": "CGT y CTA",
-            "tipo_medida": "Marcha",
-            "motivo": "Oposición a la reforma laboral impulsada por el gobierno nacional, considerada una ley de precarización laboral y derogación de derechos como el estatuto del periodista",
-            "fuente": "https://www.infobae.com/politica/2026/02/10/kicillof-tildo-de-repugnante-a-la-reforma-laboral-y-se-sumara-manana-a-la-movilizacion-al-congreso/"
         },
         {
             "es_evento_relevante": true,
@@ -5560,6 +5550,16 @@
             "tipo_medida": "Paro Nacional y Movilización",
             "motivo": "Rechazo a la Reforma Laboral, despidos y vaciamiento del sistema público de salud (Hospitales Garrahan y Posadas)",
             "fuente": "https://www.anred.org/reforma-laboral-cabildo-abierto-del-garrahan-definio-impulsar-un-paro-nacional-el-11-de-febrero/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "14:30",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT y CTA",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral por considerar que implica un retroceso en derechos laborales, cambios en contratación/despido, reducción de indemnizaciones, flexibilización de convenios y debilitamiento de la negociación colectiva",
+            "fuente": "https://www.inforegion.com.ar/2026/02/11/reforma-laboral-la-cgt-y-las-cta-marchan-al-congreso-para-rechazar-el-proyecto-en-el-senado/, https://www.infobae.com/politica/2026/02/10/kicillof-tildo-de-repugnante-a-la-reforma-laboral-y-se-sumara-manana-a-la-movilizacion-al-congreso/"
         },
         {
             "es_evento_relevante": true,
