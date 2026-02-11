@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-10T20:39:19.794263-03:00",
+    "last_updated": "2026-02-10T22:57:38.807204-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5424,6 +5424,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CTA y ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al proyecto de reforma laboral",
+            "fuente": "https://motoreconomico.com.ar/sera-masiva-la-cgt-y-las-dos-cta-encabezaran-este-miercoles-una-movilizacion-al-congreso-de-la-nacion-para-rechazar-el-proyecto-de-reforma-laboral-el-gobierno-dice-que-tiene-los-votos-asegurados/, https://motoreconomico.com.ar/marcha-del-7f-y-febrero-caliente-en-argentina-que-hacer-frente-a-la-deshumanizacion/, https://www.laizquierdadiario.com/Se-realizo-la-2o-marcha-del-orgullo-contra-el-antifascismo-y-el-antirracismo, https://motoreconomico.com.ar/la-uom-ratifico-la-movilizacion-del-martes-en-rosario-y-convocara-a-un-paro-general-desde-las-10-de-la-manana-el-11-de-febrero-para-sumarse-a-la-protesta-de-la-cgt-frente-al-congreso/, https://estadodealerta.com.ar/paro-por-tiempo-indeterminado-de-camioneros-en-coca-cola-por-la-efectivizacion-de-contratados/, https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
             "horario": "08:00",
             "lugar": "Provincias del interior de Argentina (excluyendo AMBA)",
             "quien": "Unión Tranviarios Automotor (UTA)",
@@ -5470,16 +5480,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral del gobierno de Milei, defensa de convenios colectivos y lucha contra la precarización",
             "fuente": "https://www.datagremial.com/informacion-general/docentes-y-nodocentes-universitario-se-suman-a-la-marcha-de-la-cgt-defendamos-la-dignidad-laboral--20262911480"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "10:00",
-            "lugar": "No especificado",
-            "quien": "CGT y sindicatos",
-            "tipo_medida": "Paro general y movilización",
-            "motivo": "Rechazo a la reforma laboral y frente al proceso de ajuste y empobrecimiento",
-            "fuente": "https://motoreconomico.com.ar/marcha-del-7f-y-febrero-caliente-en-argentina-que-hacer-frente-a-la-deshumanizacion/, https://www.laizquierdadiario.com/Se-realizo-la-2o-marcha-del-orgullo-contra-el-antifascismo-y-el-antirracismo, https://motoreconomico.com.ar/la-uom-ratifico-la-movilizacion-del-martes-en-rosario-y-convocara-a-un-paro-general-desde-las-10-de-la-manana-el-11-de-febrero-para-sumarse-a-la-protesta-de-la-cgt-frente-al-congreso/, https://estadodealerta.com.ar/paro-por-tiempo-indeterminado-de-camioneros-en-coca-cola-por-la-efectivizacion-de-contratados/, https://estadodealerta.com.ar/la-cgt-convoca-a-conferencia-de-prensa-para-este-viernes-y-se-espera-el-anuncio-de-un-nuevo-paro-general/, https://prensaobrera.com/sindicales/jujuy-asamblea-contra-la-reforma-laboral-resuelve-movilizar-con-columna-independiente-y-cortes-el-dia-que-se-trate-la-ley-en-el-congreso, https://estadodealerta.com.ar/contra-la-reforma-laboral-frente-de-estatales-convoco-a-un-paro-general-en-febrero-y-busca-el-apoyo-de-la-cgt/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
         },
         {
             "es_evento_relevante": true,
