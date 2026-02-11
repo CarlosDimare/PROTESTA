@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T17:40:04.204494-03:00",
+    "last_updated": "2026-02-11T18:34:18.400272-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5505,6 +5505,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "12:00",
+            "lugar": "Inmediaciones del Congreso de la Nación",
+            "quien": "CGT, CTA, gremios estatales y bancarios, movimientos políticos (Movimiento Derecho al Futuro, La Cámpora) y organizaciones de jubilados",
+            "tipo_medida": "Movilización con cortes",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://www.inforegion.com.ar/2026/02/11/incidentes-y-cortes-totales-en-el-centro-porteno-por-la-protesta-de-la-cgt-contra-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/11/paro-de-subte-metrodelegados-se-suman-a-la-medida-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "12:00",
             "lugar": "Hospital Garrahan",
             "quien": "Junta Interna de ATE Garrahan",
             "tipo_medida": "Movilización",
@@ -5610,16 +5620,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/En-vivo-adentro-la-sesion-afuera-bronca-resistencia-y-movilizacion-contra-la-reforma-laboral, https://estadodealerta.com.ar/movilizacion-contra-la-reforma-laboral-la-catt-determino-paro-aereo-maritimo-portuario-y-de-subterraneos/, https://www.datagremial.com/informacion-general/gremios-del-transporte-realizaran-cese-de-actividades-y-marcharan-al-congreso-el-miercoles-contra-la-reforma-laboral-20262918450, https://www.infobae.com/politica/2026/02/07/pese-a-la-falta-de-consenso-para-un-paro-la-cgt-advierte-que-crecera-la-conflictividad-si-se-aprueba-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/06/la-cgt-convoca-a-una-movilizacion-contra-la-reforma-laboral-frente-al-congreso/, https://estadodealerta.com.ar/finalmente-la-cgt-convoco-a-movilizar-el-11-de-febrero-habilitando-a-los-gremios-a-paros-parciales-o-totales/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
-            "horario": "21:00",
-            "lugar": "Ciudad Autónoma de Buenos Aires (líneas A, B, C, D, E, H y Premetro)",
-            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
-            "fuente": "https://www.inforegion.com.ar/2026/02/11/paro-de-subte-metrodelegados-se-suman-a-la-medida-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
@@ -5776,10 +5776,10 @@
             "fecha": "No especificado",
             "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "Comunidad LGBTIQNB+",
-            "tipo_medida": "Paro activo con movilización",
-            "motivo": "Contra la Reforma Laboral esclavista propuesta por el gobierno",
-            "fuente": "https://elciudadanoweb.com/la-marcha-antifascista-antirracista-y-antiimperialista-interpelo-a-la-cgt-basta-de-paros-domingueros/, https://www.laizquierdadiario.com/Las-CTA-convocaran-a-paro-cuando-se-trate-la-reforma, https://www.laizquierdadiario.com/El-congreso-de-CICOP-voto-Paro-y-Movilizacion-contra-la-reforma-laboral, https://elciudadanoweb.com/el-soepu-participo-de-la-mesa-sindical-contra-la-reforma-laboral-y-respaldo-el-plan-nacional-de-lucha/, https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo contra la reforma laboral y represión policial",
+            "fuente": "https://www.laizquierdadiario.com/Del-Cano-Los-delincuentes-son-los-que-roban-en-Discapacidad-hay-que-convocar-un-gran-paro-nacional, https://elciudadanoweb.com/la-marcha-antifascista-antirracista-y-antiimperialista-interpelo-a-la-cgt-basta-de-paros-domingueros/, https://www.laizquierdadiario.com/Las-CTA-convocaran-a-paro-cuando-se-trate-la-reforma, https://www.laizquierdadiario.com/El-congreso-de-CICOP-voto-Paro-y-Movilizacion-contra-la-reforma-laboral, https://elciudadanoweb.com/el-soepu-participo-de-la-mesa-sindical-contra-la-reforma-laboral-y-respaldo-el-plan-nacional-de-lucha/, https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/"
         },
         {
             "es_evento_relevante": true,
