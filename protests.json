@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-11T16:14:01.426105-03:00",
+    "last_updated": "2026-02-11T17:40:04.204494-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5465,6 +5465,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al proyecto de reforma laboral que se trata en el Senado",
+            "fuente": "https://www.datagremial.com/informacion-general/el-paro-de-ate-alcanza-un-acatamiento-del-92-y-aguiar-acuso-al-gobierno-de-recorrer-con-un-maletin-las-provincias-para-aprobar-la-reforma-laboral-202621113250, https://prensaobrera.com/sindicales/con-el-garrahan-a-la-cabeza-ya-concentran-en-congreso-trabajadores-en-lucha-y-el-sindicalismo-combativo, https://www.inforegion.com.ar/2026/02/11/reforma-laboral-la-cgt-y-las-cta-marchan-al-congreso-para-rechazar-el-proyecto-en-el-senado/, https://www.infobae.com/politica/2026/02/10/kicillof-tildo-de-repugnante-a-la-reforma-laboral-y-se-sumara-manana-a-la-movilizacion-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "10:00",
             "lugar": "Plazas y calles de todo el país",
             "quien": "CGT con adhesión de FATUN y FEDUN",
             "tipo_medida": "Movilización",
@@ -5544,16 +5554,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-11",
-            "horario": "14:30",
-            "lugar": "Congreso Nacional",
-            "quien": "Trabajadores del Hospital Garrahan, sindicatos combativos (Sutna, AGD UBA), piqueteros, jubilados, movimientos estudiantil y socioambiental",
-            "tipo_medida": "Movilización y Marcha",
-            "motivo": "Rechazo a la reforma laboral 'esclavista' que se trata en el Senado, exigencia de paro nacional y plan de lucha",
-            "fuente": "https://prensaobrera.com/sindicales/con-el-garrahan-a-la-cabeza-ya-concentran-en-congreso-trabajadores-en-lucha-y-el-sindicalismo-combativo, https://www.inforegion.com.ar/2026/02/11/reforma-laboral-la-cgt-y-las-cta-marchan-al-congreso-para-rechazar-el-proyecto-en-el-senado/, https://www.infobae.com/politica/2026/02/10/kicillof-tildo-de-repugnante-a-la-reforma-laboral-y-se-sumara-manana-a-la-movilizacion-al-congreso/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-11",
             "horario": "15:00",
             "lugar": "Plaza de los Dos Congresos, Ciudad Autónoma de Buenos Aires",
             "quien": "CGT Confederación General del Trabajo",
@@ -5590,6 +5590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a la reforma laboral, exigencia de paro general, rechazo a la ley de glaciares, críticas a la gestión de incendios en Patagonia y represión del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Comenzo-la-2o-marcha-del-orgullo-antifascista-y-antirracista"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-11",
+            "horario": "17:30",
+            "lugar": "Parque San Martín (frente a Grido), con posterior movilización por el centro capitalino",
+            "quien": "Asamblea Permanente contra la Reforma Laboral (integrada por Cedems, Uatre-Ledesma, Adep, ATE Verde Blanca, Utep, FOL, DDHH, FITU y otros colectivos)",
+            "tipo_medida": "Concentración y movilización",
+            "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/Protesta-en-el-acceso-sur-de-la-capital-jujena-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
