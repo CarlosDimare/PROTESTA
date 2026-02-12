@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T03:08:29.920323-03:00",
+    "last_updated": "2026-02-12T04:23:15.037506-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5680,6 +5680,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo absoluto al proyecto de reforma laboral del Gobierno que vulnera derechos fundamentales del sector",
             "fuente": "https://www.inforegion.com.ar/2026/02/11/paro-de-pilotos-afectara-vuelos-en-aeroparque-y-ezeiza-por-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-12",
+            "horario": "15:00",
+            "lugar": "Rutas y avenidas de todo el territorio nacional",
+            "quien": "Sectores de vanguardia, sindicalismo combativo e izquierda",
+            "tipo_medida": "Huelga general con cortes y piquetes",
+            "motivo": "Rechazo a la reforma laboral 'esclavista' y exigencia de paro activo para derrotar las políticas de ajuste del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/La-reforma-laboral-no-tiene-legitimidad-paro-activo-y-plan-de-lucha-para-tirarla-abajo-en-Diputados, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
