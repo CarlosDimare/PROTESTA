@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T04:23:15.037506-03:00",
+    "last_updated": "2026-02-12T05:52:38.629481-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5656,10 +5656,10 @@
             "fecha": "2026-02-12",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Sectores del transporte liderados por Juan Carlos Schmid y La Fraternidad",
-            "tipo_medida": "Paro sectorial",
-            "motivo": "Oposición a la reforma laboral y defensa de derechos sindicales",
-            "fuente": "https://www.infobae.com/politica/2026/02/07/en-medio-de-la-tension-en-la-cgt-por-la-reforma-laboral-pablo-moyano-paraliza-una-megaplanta-de-coca-cola/"
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Reclamo salarial",
+            "motivo": "Rechazo a cifras oficiales de inflación y reclamo de aumentos salariales equivalentes a la inflación real",
+            "fuente": "https://www.datagremial.com/informacion-general/un-relato-que-ya-no-funciona-la-mesa-sindical-considero-que-la-inflacion-oficial-del-2-9-es-una-verdadera-burla--20262111180, https://www.infobae.com/politica/2026/02/07/en-medio-de-la-tension-en-la-cgt-por-la-reforma-laboral-pablo-moyano-paraliza-una-megaplanta-de-coca-cola/"
         },
         {
             "es_evento_relevante": true,
