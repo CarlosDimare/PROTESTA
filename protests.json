@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T16:02:53.527236-03:00",
+    "last_updated": "2026-02-12T16:55:53.890928-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5655,21 +5655,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-12",
             "horario": "08:00",
-            "lugar": "Interior del país",
-            "quien": "Unión Tranviarios Automotor (UTA)",
-            "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de acuerdo paritario en provincias del interior del país",
-            "fuente": "https://www.datagremial.com/paritarias/la-uta-acato-la-conciliacion-obligatoria-y-se-levanto-el-paro-de-colectivos-en-el-interior-del-pais-202621112110"
+            "lugar": "No especificado",
+            "quien": "Juventud del PTS",
+            "tipo_medida": "Paro General",
+            "motivo": "Rechazo a la reforma laboral y represión estatal, exigiendo contención sindical y participación social",
+            "fuente": "https://www.infobae.com/politica/2026/02/12/el-principal-responsable-de-que-la-gente-no-pudiera-movilizarse-es-la-cgt-luca-bonfante-referente-del-pts-tras-los-incidentes-en-el-congreso/, https://www.datagremial.com/informacion-general/un-relato-que-ya-no-funciona-la-mesa-sindical-considero-que-la-inflacion-oficial-del-2-9-es-una-verdadera-burla--20262111180, https://www.infobae.com/politica/2026/02/07/en-medio-de-la-tension-en-la-cgt-por-la-reforma-laboral-pablo-moyano-paraliza-una-megaplanta-de-coca-cola/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-12",
             "horario": "08:00",
-            "lugar": "No especificado",
-            "quien": "Mesa Sindical",
-            "tipo_medida": "Reclamo salarial",
-            "motivo": "Rechazo a cifras oficiales de inflación y reclamo de aumentos salariales equivalentes a la inflación real",
-            "fuente": "https://www.datagremial.com/informacion-general/un-relato-que-ya-no-funciona-la-mesa-sindical-considero-que-la-inflacion-oficial-del-2-9-es-una-verdadera-burla--20262111180, https://www.infobae.com/politica/2026/02/07/en-medio-de-la-tension-en-la-cgt-por-la-reforma-laboral-pablo-moyano-paraliza-una-megaplanta-de-coca-cola/"
+            "lugar": "Interior del país",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdo paritario en provincias del interior del país",
+            "fuente": "https://www.datagremial.com/paritarias/la-uta-acato-la-conciliacion-obligatoria-y-se-levanto-el-paro-de-colectivos-en-el-interior-del-pais-202621112110"
         },
         {
             "es_evento_relevante": true,
