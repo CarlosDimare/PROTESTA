@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T06:52:32.763176-03:00",
+    "last_updated": "2026-02-12T07:49:09.482999-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5650,6 +5650,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el presidente Javier Milei y presión a gobernadores para que no acompañen la iniciativa en el Senado",
             "fuente": "https://www.datagremial.com/informacion-general/los-gremios-combativos-marcharon-en-cordoba-y-trataron-de-cobardes-a-los-gobernadores--20262519290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-12",
+            "horario": "08:00",
+            "lugar": "Interior del país",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de acuerdo paritario en provincias del interior del país",
+            "fuente": "https://www.datagremial.com/paritarias/la-uta-acato-la-conciliacion-obligatoria-y-se-levanto-el-paro-de-colectivos-en-el-interior-del-pais-202621112110"
         },
         {
             "es_evento_relevante": true,
