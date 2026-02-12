@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T14:01:00.975332-03:00",
+    "last_updated": "2026-02-12T15:04:11.028992-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5710,6 +5710,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral esclavista del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/El-Gobierno-denuncio-al-dirigente-aceitero-Daniel-Yofra-repudio-de-Bregman-y-Del-Cano"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-12",
+            "horario": "No especificado",
+            "lugar": "Congreso de la Nación y puntos de concentración (ej: Hospital Garrahan)",
+            "quien": "Sindicatos combativos, piqueteros, organizaciones de jubilados y trabajadores en lucha (Sutna, AGD UBA, Ademys, etc.)",
+            "tipo_medida": "Movilización y plan de lucha",
+            "motivo": "Rechazo a la reforma laboral y prevención de su aprobación en Diputados",
+            "fuente": "https://prensaobrera.com/politicas/el-gobierno-obtuvo-media-sancion-de-la-reforma-laboral-con-el-pacto-con-los-gobernadores-y-la-cgt"
         },
         {
             "es_evento_relevante": true,
