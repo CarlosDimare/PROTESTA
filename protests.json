@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T11:48:24.891763-03:00",
+    "last_updated": "2026-02-13T12:48:40.323020-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5770,6 +5770,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia de paro general",
             "fuente": "https://www.laizquierdadiario.com/Jujuy-tuvo-una-movilizacion-contra-la-reforma-laboral-y-dos-politicas-traicion-vs-combate"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "10:00",
+            "lugar": "Tribunales I, Córdoba",
+            "quien": "Gremios cordobeses aportantes a la Caja de Jubilaciones (incluyendo AEGPJ y SIVIALCO)",
+            "tipo_medida": "Paro provincial con concentración",
+            "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
+            "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
         },
         {
             "es_evento_relevante": true,
