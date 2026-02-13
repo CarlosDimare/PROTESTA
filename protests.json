@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T15:45:45.291791-03:00",
+    "last_updated": "2026-02-13T16:49:37.915040-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5830,6 +5830,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "No especificado",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Gremios docentes bonaerenses (FEB, SUTEBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del 3%, reclamo por recomposición salarial frente a inflación, oposición a reformas laborales nacionales y exigencias sobre IOMA",
+            "fuente": "https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/"
         },
         {
             "es_evento_relevante": true,
