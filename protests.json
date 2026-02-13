@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T12:48:40.323020-03:00",
+    "last_updated": "2026-02-13T13:47:16.305014-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5730,6 +5730,16 @@
             "tipo_medida": "Movilización y plan de lucha",
             "motivo": "Rechazo a la reforma laboral y prevención de su aprobación en Diputados",
             "fuente": "https://prensaobrera.com/politicas/el-gobierno-obtuvo-media-sancion-de-la-reforma-laboral-con-el-pacto-con-los-gobernadores-y-la-cgt"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-13",
+            "horario": "**18:00**",
+            "lugar": "No especificado",
+            "quien": "Frente Sindical Universitario",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Cobro del 50% de incremento salarial adeudado por Ley de Financiamiento Universitario y frenar su derogación",
+            "fuente": "https://prensaobrera.com/universidad/abajo-la-reforma-de-la-ley-de-financiamiento-universitario, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
