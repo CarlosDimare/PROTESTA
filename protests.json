@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T19:37:17.821020-03:00",
+    "last_updated": "2026-02-13T20:30:59.847580-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5770,6 +5770,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Definición de remociones de autoridades y desenmarañar supuestos manejos corruptos vinculados a sobreprecios en licitaciones",
             "fuente": "https://www.infobae.com/politica/2026/02/06/nucleoelectrica-renunciaron-dos-gerentes-que-respondian-a-demian-reidel-y-habra-inminentes-cambios/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-14",
+            "horario": "12:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Frente de Sindicatos Unidos (FReSU)",
+            "tipo_medida": "Paro general con movilización",
+            "motivo": "Rechazo absoluto a la reforma laboral impulsada por el gobierno de Javier Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-convoco-a-un-nuevo-paro-general-con-movilizacion-al-congreso-202621319460, https://federacionaceitera.com.ar/2026/02/10/huelga-contra-la-reforma-laboral-2/"
         },
         {
             "es_evento_relevante": true,
