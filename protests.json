@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T11:09:46.171073-03:00",
+    "last_updated": "2026-02-13T11:48:24.891763-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5740,6 +5740,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral de Milei y denuncia de pacto con la CGT",
             "fuente": "https://prensaobrera.com/sindicales/neuquen-multitudinaria-movilizacion-contra-la-reforma-laboral, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-13",
+            "horario": "No especificado",
+            "lugar": "Sedes de la fuerza de seguridad en Rosario y Santa Fe",
+            "quien": "Policías de Santa Fe",
+            "tipo_medida": "Concentración y Corte de calle",
+            "motivo": "Reclamos salariales y contra pases a disponibilidad",
+            "fuente": "https://elciudadanoweb.com/tras-nueva-reunion-hasta-la-madrugada-con-otra-propuesta-salarial-y-promesa-de-rever-pases-a-disponibilidad-sigue-la-protesta-policial-en-santa-fe/"
         },
         {
             "es_evento_relevante": true,
