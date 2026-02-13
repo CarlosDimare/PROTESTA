@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T18:39:22.295234-03:00",
+    "last_updated": "2026-02-13T19:37:17.821020-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5780,6 +5780,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Organizar la resistencia contra la reforma laboral del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Sumate-a-las-asambleas-abiertas-para-preparar-la-pelea-contra-la-reforma-laboral-en-diputados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-15",
+            "horario": "La hora de inicio del evento de protesta es **15:00**.",
+            "lugar": "No especificado",
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Asamblea",
+            "motivo": "Resistencia contra reforma laboral de Milei, exigiendo paro activo y huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Sabado-14-Asambleas-abiertas-para-organizar-la-resistencia-contra-la-reforma-laboral-esclavista, https://indiario.com/politica/izquierda-convoca-primera-protesta"
         },
         {
             "es_evento_relevante": true,
