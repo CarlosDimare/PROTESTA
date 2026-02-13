@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12T20:29:56.866451-03:00",
+    "last_updated": "2026-02-12T22:57:09.121804-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5743,6 +5743,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-17",
+            "horario": "12:00",
+            "lugar": "No especificado (contexto: Jujuy)",
+            "quien": "Asamblea Permanente contra la Reforma Laboral en Jujuy",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y exigencia de paro general",
+            "fuente": "https://www.laizquierdadiario.com/Jujuy-tuvo-una-movilizacion-contra-la-reforma-laboral-y-dos-politicas-traicion-vs-combate"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-21",
             "horario": "10:00",
             "lugar": "Ciudad Autónoma de Buenos Aires",
@@ -5780,6 +5790,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
         },
         {
             "es_evento_relevante": true,
