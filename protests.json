@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-13T09:52:09.775434-03:00",
+    "last_updated": "2026-02-13T11:09:46.171073-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5730,6 +5730,16 @@
             "tipo_medida": "Movilización y plan de lucha",
             "motivo": "Rechazo a la reforma laboral y prevención de su aprobación en Diputados",
             "fuente": "https://prensaobrera.com/politicas/el-gobierno-obtuvo-media-sancion-de-la-reforma-laboral-con-el-pacto-con-los-gobernadores-y-la-cgt"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-13",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Polo Obrero, PTS, FIT-U y sectores combativos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral de Milei y denuncia de pacto con la CGT",
+            "fuente": "https://prensaobrera.com/sindicales/neuquen-multitudinaria-movilizacion-contra-la-reforma-laboral, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
