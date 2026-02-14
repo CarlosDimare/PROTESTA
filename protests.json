@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14T19:24:40.739640-03:00",
+    "last_updated": "2026-02-14T20:27:11.362531-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5830,6 +5830,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia de paro general",
             "fuente": "https://www.laizquierdadiario.com/Jujuy-tuvo-una-movilizacion-contra-la-reforma-laboral-y-dos-politicas-traicion-vs-combate"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro General",
+            "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional, que incluye reducción de salarios en licencias médicas, cambios en indemnizaciones, jornada laboral, vacaciones y regulación del derecho de huelga",
+            "fuente": "https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
