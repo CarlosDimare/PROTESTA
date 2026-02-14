@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14T11:34:11.329461-03:00",
+    "last_updated": "2026-02-14T12:30:32.142887-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5860,6 +5860,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "21:00",
+            "lugar": "No especificado",
+            "quien": "CTERA y sindicatos docentes (Suteba, FEB, Udocba)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del 3% y oposición a la reforma laboral de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
         },
         {
             "es_evento_relevante": true,
