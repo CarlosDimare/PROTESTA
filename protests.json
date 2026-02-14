@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14T13:31:14.704652-03:00",
+    "last_updated": "2026-02-14T14:32:55.451914-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5765,11 +5765,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-14",
             "horario": "10:00",
-            "lugar": "Congreso de la Nación, Buenos Aires",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Paro general y movilización",
-            "motivo": "Contra la reforma laboral y por el salario",
-            "fuente": "https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-un-paro-general-frente-al-avance-de-la-reforma-laboral/, https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-convoco-a-un-nuevo-paro-general-con-movilizacion-al-congreso-202621319460, https://federacionaceitera.com.ar/2026/02/10/huelga-contra-la-reforma-laboral-2/"
+            "lugar": "Rosario",
+            "quien": "Frente de Sindicatos Unidos",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra reforma laboral de Milei y reclamos salariales policiales",
+            "fuente": "https://estadodealerta.com.ar/rosario-movilizacion-contra-la-reforma-laboral-con-acuartelamiento-y-represion-a-policias-que-reclaman-por-salarios/, https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-un-paro-general-frente-al-avance-de-la-reforma-laboral/, https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-convoco-a-un-nuevo-paro-general-con-movilizacion-al-congreso-202621319460, https://federacionaceitera.com.ar/2026/02/10/huelga-contra-la-reforma-laboral-2/"
         },
         {
             "es_evento_relevante": true,
