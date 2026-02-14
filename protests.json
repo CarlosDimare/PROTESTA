@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14T16:27:44.548170-03:00",
+    "last_updated": "2026-02-14T17:28:46.015202-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5810,6 +5810,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Resistencia contra reforma laboral de Milei, exigiendo paro activo y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Sabado-14-Asambleas-abiertas-para-organizar-la-resistencia-contra-la-reforma-laboral-esclavista, https://indiario.com/politica/izquierda-convoca-primera-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-16",
+            "horario": "18:00",
+            "lugar": "Somellera 5786 (Lugano, zona oeste de CABA) y San Juan 1836 (zona sur de CABA)",
+            "quien": "Docentes de la agrupación 9 de abril, jubilados del PTS, juventud trabajadora y estudiantes de la UTN (Lugano); trabajadores estatales Marron Clasista, docentes Ademys, obreros industriales, jóvenes precarizados, estudiantes, trabajadores de la salud, Jubilades del PTS y Pan y Rosas (zona sur)",
+            "tipo_medida": "Asamblea abierta de organización",
+            "motivo": "Preparación de la resistencia contra la reforma laboral y el plan de ajuste de Milei, coordinando acciones para la votación en Diputados",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-abiertas-para-organizar-el-segundo-round-contra-la-reforma-laboral-en-la-Ciudad"
         },
         {
             "es_evento_relevante": true,
