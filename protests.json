@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-14T15:34:24.650676-03:00",
+    "last_updated": "2026-02-14T16:27:44.548170-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5760,6 +5760,16 @@
             "tipo_medida": "Concentración y Corte de calle",
             "motivo": "Reclamos salariales y contra pases a disponibilidad",
             "fuente": "https://elciudadanoweb.com/tras-nueva-reunion-hasta-la-madrugada-con-otra-propuesta-salarial-y-promesa-de-rever-pases-a-disponibilidad-sigue-la-protesta-policial-en-santa-fe/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-14",
+            "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Protesta contra la reforma laboral del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/02/14/la-cgt-adelanto-una-reunion-para-debatir-un-paro-general-de-24-horas-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
