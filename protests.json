@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15T08:28:14.602613-03:00",
+    "last_updated": "2026-02-15T09:47:10.320591-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5820,6 +5820,16 @@
             "tipo_medida": "Asamblea abierta de organización",
             "motivo": "Preparación de la resistencia contra la reforma laboral y el plan de ajuste de Milei, coordinando acciones para la votación en Diputados",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-abiertas-para-organizar-el-segundo-round-contra-la-reforma-laboral-en-la-Ciudad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-17",
+            "horario": "12:00",
+            "lugar": "Ministerio de Trabajo de la Provincia de Buenos Aires",
+            "quien": "Sutna (Sindicato Único de Trabajadores del Neumático)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por pago de salarios atrasados (enero, vacaciones y adelanto), contra la patronal Ruiz que presentó concurso de acreedores y viola derechos laborales, y en apoyo a trabajadores despedidos",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-el-sutna-llamo-a-marchar-por-el-pago-de-salarios-y-contra-despidos, https://www.clarin.com/economia/nueva-medida-fuerza-fabricas-neumaticos-gremio-sutna-pide-bono-extraordinario-siguen-despidos_0_al6myqKWkS.html"
         },
         {
             "es_evento_relevante": true,
