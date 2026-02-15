@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15T17:26:12.862662-03:00",
+    "last_updated": "2026-02-15T18:27:45.956581-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5860,6 +5860,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional, que incluye reducción de salarios en licencias médicas, cambios en indemnizaciones, jornada laboral, vacaciones y regulación del derecho de huelga",
             "fuente": "https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Frente Sindical Unido (FreSU)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral que contempla recortes salariales, restricciones al derecho a huelga, fin de la ultraactividad de convenios y precarización de trabajadores",
+            "fuente": "https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/"
         },
         {
             "es_evento_relevante": true,
