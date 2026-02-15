@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15T19:25:40.574036-03:00",
+    "last_updated": "2026-02-15T20:29:39.513867-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5810,6 +5810,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Resistencia contra reforma laboral de Milei, exigiendo paro activo y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Sabado-14-Asambleas-abiertas-para-organizar-la-resistencia-contra-la-reforma-laboral-esclavista, https://indiario.com/politica/izquierda-convoca-primera-protesta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-16",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT (Confederación General del Trabajo) y Frente de Sindicatos Unidos",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición a la ley de flexibilización laboral del gobierno de Milei, buscando evitar su aprobación en febrero y ampliar el debate en el Congreso",
+            "fuente": "https://estadodealerta.com.ar/el-ejercicio-sindical-de-ponerse-al-frente-del-conflicto-laboral-frente-al-avance-recargado-de-la-flexibilizacion-libertaria/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
