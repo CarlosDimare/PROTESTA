@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T14:44:44.348257-03:00",
+    "last_updated": "2026-02-16T15:42:35.753610-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5864,12 +5864,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
-            "horario": "11:00",
+            "horario": "00:00",
+            "lugar": "Nivel nacional",
+            "quien": "CGT y gremios adherentes (UTA, ferroviarios, CATT, etc.)",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la reforma laboral, específicamente al artículo 44 que reduce salarios en licencias no laborales",
+            "fuente": "https://www.inforegion.com.ar/2026/02/16/la-cgt-convoco-a-un-paro-general-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
             "lugar": "Sede CGT Azopardo",
-            "quien": "CGT (Confederación General del Trabajo)",
-            "tipo_medida": "Conferencia de prensa",
-            "motivo": "Anunciar medidas de lucha contra la reforma laboral libertaria, incluyendo posible paro nacional del transporte y paro general",
-            "fuente": "https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral, especialmente cambios en indemnizaciones, jornada laboral, derecho de huelga, vacaciones y licencias",
+            "fuente": "https://www.inforegion.com.ar/2026/02/16/la-cgt-se-reune-de-urgencia-y-evalua-convocar-a-un-paro-general-por-la-reforma-laboral/, https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
         },
         {
             "es_evento_relevante": true,
