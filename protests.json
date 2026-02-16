@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T12:44:06.008101-03:00",
+    "last_updated": "2026-02-16T13:45:48.864853-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5816,10 +5816,10 @@
             "fecha": "2026-02-16",
             "horario": "15:00",
             "lugar": "No especificado",
-            "quien": "CGT (Confederación General del Trabajo) y Frente de Sindicatos Unidos",
-            "tipo_medida": "Paro",
-            "motivo": "Oposición a la ley de flexibilización laboral del gobierno de Milei, buscando evitar su aprobación en febrero y ampliar el debate en el Congreso",
-            "fuente": "https://estadodealerta.com.ar/el-ejercicio-sindical-de-ponerse-al-frente-del-conflicto-laboral-frente-al-avance-recargado-de-la-flexibilizacion-libertaria/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+            "quien": "Sindicatos",
+            "tipo_medida": "Huelga General",
+            "motivo": "Rechazo a la modificación del régimen de licencias médicas en la reforma laboral (Artículo 44)",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/el-gobierno-confia-en-aprobar-la-reforma-laboral-en-diputados-pero-negocia-una-salida-por-las-licencias-medicas/, https://estadodealerta.com.ar/el-ejercicio-sindical-de-ponerse-al-frente-del-conflicto-laboral-frente-al-avance-recargado-de-la-flexibilizacion-libertaria/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
@@ -5903,6 +5903,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "No especificado",
+            "lugar": "En todo el país",
+            "quien": "CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Contra la reforma laboral, específicamente por el artículo 44 que reduce el pago de licencias médicas y ante la falta de espacio para negociaciones con el gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-21",
             "horario": "00:00",
             "lugar": "No especificado",
@@ -5915,11 +5925,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-21",
             "horario": "10:00",
-            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "lugar": "Facultad de Ciencias Sociales de la UBA, Santiago del Estero 1029",
             "quien": "Tribuna Docente",
-            "tipo_medida": "Movilización",
-            "motivo": "Congreso Nacional para planificar lucha contra recortes educativos del gobierno de Milei y políticas de ajuste",
-            "fuente": "https://prensaobrera.com/sindicales/milei-y-los-gobernadores-consolidan-desfinanciamiento-historico-de-la-educacion-sin-resistencia-alguna-de-ctera"
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral y lucha por salarios",
+            "fuente": "https://prensaobrera.com/sindicales/paros-de-no-inicio-de-clases-y-plan-de-lucha-hasta-derrotar-la-avanzada-antieducativa-de-milei-y-los-gobernadores, https://prensaobrera.com/sindicales/milei-y-los-gobernadores-consolidan-desfinanciamiento-historico-de-la-educacion-sin-resistencia-alguna-de-ctera"
         },
         {
             "es_evento_relevante": true,
