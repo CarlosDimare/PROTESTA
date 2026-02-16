@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T08:45:03.177840-03:00",
+    "last_updated": "2026-02-16T09:56:05.199093-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5884,12 +5884,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
-            "horario": "No especificado",
+            "horario": "La hora de inicio del evento de protesta principal es:  \n**15:00**  \n\n*Fundamento*: El texto indica claramente:  \n*\"La movilización principal se realizará este miércoles 11 de febrero **desde las 15** en la Plaza de los Dos Congresos\"* (sección correspondiente a la CGT). Las otras horas mencionadas (13:00 para la CATT y 21:00 para el subte) se refieren a medidas de fuerza complementarias, no al evento principal de protesta.",
             "lugar": "No especificado",
-            "quien": "Frente Sindical Unido (FreSU)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral que contempla recortes salariales, restricciones al derecho a huelga, fin de la ultraactividad de convenios y precarización de trabajadores",
-            "fuente": "https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/"
+            "quien": "CGT y sindicatos adheridos (incluyendo UTA)",
+            "tipo_medida": "Paro general",
+            "motivo": "Contra la reforma laboral del gobierno de Milei, específicamente por el artículo 44 que modifica las licencias médicas",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
@@ -5900,6 +5900,16 @@
             "tipo_medida": "Paro provincial con concentración",
             "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
             "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-21",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Federación de Trabajadores del Complejo Industrial Oleaginoso, Desmontadores de Algodón y afines (Aceiteros) y Frente de Sindicatos Unidos (Fresu)",
+            "tipo_medida": "Huelga",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno, específicamente por la limitación del derecho a huelga, fraccionamiento de vacaciones, no pago de horas extras y recorte de indemnizaciones",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/reforma-laboral-el-titular-de-aceiteros-confirmo-que-iran-al-paro-el-proximo-jueves-y-pidio-que-la-cgt-se-sume-a-la-medida/, https://www.larepublica.co/globoeconomia/los-sindicatos-aceiteros-de-argentina-anuncian-una-huelga-contra-la-reforma-laboral-4324484"
         },
         {
             "es_evento_relevante": true,
@@ -5930,6 +5940,16 @@
             "tipo_medida": "Piquete/Corte de calles",
             "motivo": "Reclamo de pago de deudas por medicamentos a jubilados y evitar interrupción de provisión",
             "fuente": "https://estadodealerta.com.ar/el-conflicto-en-la-provision-de-medicamentos-va-mas-alla-de-pami-con-reclamos-al-secretario-de-gestion-sanitaria-raul-flores-pudiendo-escalar-al-ministro-lugones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-01",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "APJ Gas y organizaciones sindicales del sector gas natural",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por inflación real, aumento salarial adeudado y oposición a políticas económicas del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/jerarquicos-del-gas-anunciaron-que-recibiran-mas-de-1-600-000-por-sumas-adicionales-acordadas-con-naturgy-ban-e-insistieron-con-el-reclamo-de-viaticos-y-refrigerio-20262129330"
         },
         {
             "es_evento_relevante": true,
