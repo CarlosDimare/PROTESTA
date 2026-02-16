@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T13:45:48.864853-03:00",
+    "last_updated": "2026-02-16T14:44:44.348257-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5860,6 +5860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia de paro general",
             "fuente": "https://www.laizquierdadiario.com/Jujuy-tuvo-una-movilizacion-contra-la-reforma-laboral-y-dos-politicas-traicion-vs-combate"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "11:00",
+            "lugar": "Sede CGT Azopardo",
+            "quien": "CGT (Confederación General del Trabajo)",
+            "tipo_medida": "Conferencia de prensa",
+            "motivo": "Anunciar medidas de lucha contra la reforma laboral libertaria, incluyendo posible paro nacional del transporte y paro general",
+            "fuente": "https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
         },
         {
             "es_evento_relevante": true,
