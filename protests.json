@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T15:42:35.753610-03:00",
+    "last_updated": "2026-02-16T16:37:18.161669-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5865,6 +5865,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
             "horario": "00:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT y sindicatos de transporte (UTA, Unión Ferroviaria, La Fraternidad, CATT, UGATT)",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la reforma laboral, especialmente por el recorte en licencias por enfermedad (artículo 44)",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
             "lugar": "Nivel nacional",
             "quien": "CGT y gremios adherentes (UTA, ferroviarios, CATT, etc.)",
             "tipo_medida": "Paro general",
@@ -5904,12 +5914,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
+            "horario": "14:30",
+            "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT y sindicatos adherentes",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la reforma laboral y repudio a la CGT",
+            "fuente": "https://www.laizquierdadiario.com/La-bronca-desde-abajo-le-impuso-a-la-CGT-el-paro-nacional-hagamoslo-activo, https://www.clarin.com/informacion-general/marcha-cgt-11-febrero-horario-recorrido-cortes-puntos-concentracion_0_KcJTIHeYkV.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
             "horario": "La hora de inicio del evento de protesta principal es:  \n**15:00**  \n\n*Fundamento*: El texto indica claramente:  \n*\"La movilización principal se realizará este miércoles 11 de febrero **desde las 15** en la Plaza de los Dos Congresos\"* (sección correspondiente a la CGT). Las otras horas mencionadas (13:00 para la CATT y 21:00 para el subte) se refieren a medidas de fuerza complementarias, no al evento principal de protesta.",
             "lugar": "No especificado",
-            "quien": "CGT y sindicatos adheridos (incluyendo UTA)",
+            "quien": "CGT",
             "tipo_medida": "Paro general",
-            "motivo": "Contra la reforma laboral del gobierno de Milei, específicamente por el artículo 44 que modifica las licencias médicas",
-            "fuente": "https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+            "motivo": "Oposición a la reforma laboral que modifica indemnizaciones, jornada laboral, derecho a huelga, vacaciones y licencias, excluyendo a trabajadores marinos de la Ley de Contrato de Trabajo",
+            "fuente": "https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
