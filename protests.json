@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-15T20:29:39.513867-03:00",
+    "last_updated": "2026-02-15T22:39:37.715642-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5870,6 +5870,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional, que incluye reducción de salarios en licencias médicas, cambios en indemnizaciones, jornada laboral, vacaciones y regulación del derecho de huelga",
             "fuente": "https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Sindicatos y organizaciones estudiantiles del conurbano sur GBA",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral propuesta por el gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Cientos-de-trabajadores-discutieron-preparar-una-gran-movilizacion-si-se-trata-el-19-la-reforma"
         },
         {
             "es_evento_relevante": true,
