@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T18:29:46.293238-03:00",
+    "last_updated": "2026-02-16T19:25:29.145645-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5865,6 +5865,26 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
             "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "En contra de la reforma laboral que tratará la Cámara de Diputados",
+            "fuente": "https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
+            "lugar": "Sede CGT Azopardo",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición a la reforma laboral, específicamente por la modificación del régimen de licencias por enfermedad incorporada de forma sorpresiva en el Senado",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-convoco-a-un-paro-nacional-cuando-diputados-trate-la-reforma-laboral-tras-el-intento-furtivo-del-gobierno-de-pasar-la-motosierra-sobre-las-licencias--202621616440, https://www.inforegion.com.ar/2026/02/16/la-cgt-se-reune-de-urgencia-y-evalua-convocar-a-un-paro-general-por-la-reforma-laboral/, https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
             "lugar": "Congreso Nacional",
             "quien": "CGT y sindicatos de transporte (UTA, Unión Ferroviaria, La Fraternidad, CATT, UGATT)",
             "tipo_medida": "Paro general",
@@ -5880,26 +5900,6 @@
             "tipo_medida": "Paro general",
             "motivo": "Rechazo a la reforma laboral, específicamente al artículo 44 que reduce salarios en licencias no laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/16/la-cgt-convoco-a-un-paro-general-contra-la-reforma-laboral/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-18",
-            "horario": "00:00",
-            "lugar": "Sede CGT Azopardo",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral, especialmente cambios en indemnizaciones, jornada laboral, derecho de huelga, vacaciones y licencias",
-            "fuente": "https://www.inforegion.com.ar/2026/02/16/la-cgt-se-reune-de-urgencia-y-evalua-convocar-a-un-paro-general-por-la-reforma-laboral/, https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-18",
-            "horario": "15:00",
-            "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la Reforma Laboral por modificaciones en indemnizaciones, jornada laboral, derecho a huelga, vacaciones y licencias por enfermedad",
-            "fuente": "https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
@@ -5927,9 +5927,9 @@
             "horario": "La hora de inicio del evento de protesta principal es:  \n**15:00**  \n\n*Fundamento*: El texto indica claramente:  \n*\"La movilización principal se realizará este miércoles 11 de febrero **desde las 15** en la Plaza de los Dos Congresos\"* (sección correspondiente a la CGT). Las otras horas mencionadas (13:00 para la CATT y 21:00 para el subte) se refieren a medidas de fuerza complementarias, no al evento principal de protesta.",
             "lugar": "No especificado",
             "quien": "CGT",
-            "tipo_medida": "Paro general",
-            "motivo": "Oposición a la reforma laboral que modifica indemnizaciones, jornada laboral, derecho a huelga, vacaciones y licencias, excluyendo a trabajadores marinos de la Ley de Contrato de Trabajo",
-            "fuente": "https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral y medidas del gobierno como reducción de salarios por enfermedad",
+            "fuente": "https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
