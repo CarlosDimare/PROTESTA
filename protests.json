@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T17:30:37.398616-03:00",
+    "last_updated": "2026-02-16T18:29:46.293238-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5934,22 +5934,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-20",
+            "horario": "08:00",
+            "lugar": "En todo el país",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición a las políticas del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/02/16/javier-milei-afrontara-su-cuarto-paro-general-de-la-cgt-desde-que-asumio-cual-es-el-record-en-democracia-que-registra/, https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
             "horario": "10:00",
             "lugar": "Tribunales I, Córdoba",
             "quien": "Gremios cordobeses aportantes a la Caja de Jubilaciones (incluyendo AEGPJ y SIVIALCO)",
             "tipo_medida": "Paro provincial con concentración",
             "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
             "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-20",
-            "horario": "No especificado",
-            "lugar": "En todo el país",
-            "quien": "CGT",
-            "tipo_medida": "Paro general",
-            "motivo": "Contra la reforma laboral, específicamente por el artículo 44 que reduce el pago de licencias médicas y ante la falta de espacio para negociaciones con el gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
         },
         {
             "es_evento_relevante": true,
