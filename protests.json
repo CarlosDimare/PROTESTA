@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-16T09:56:05.199093-03:00",
+    "last_updated": "2026-02-16T11:09:42.493590-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5866,10 +5866,10 @@
             "fecha": "2026-02-18",
             "horario": "15:00",
             "lugar": "No especificado",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Paro General",
-            "motivo": "Rechazo a la Reforma Laboral impulsada por el Gobierno nacional, que incluye reducción de salarios en licencias médicas, cambios en indemnizaciones, jornada laboral, vacaciones y regulación del derecho de huelga",
-            "fuente": "https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la Reforma Laboral por modificaciones en indemnizaciones, jornada laboral, derecho a huelga, vacaciones y licencias por enfermedad",
+            "fuente": "https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
