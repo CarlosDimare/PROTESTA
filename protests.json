@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T17:35:07.486612-03:00",
+    "last_updated": "2026-02-17T18:36:11.431142-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5885,16 +5885,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
             "horario": "00:00",
-            "lugar": "Congreso Nacional",
-            "quien": "CGT y ATE",
-            "tipo_medida": "Paro nacional con movilización",
-            "motivo": "Oposición a la reforma laboral que quita derechos y no genera empleo",
-            "fuente": "https://www.infobae.com/politica/2026/02/17/el-gobierno-les-descontara-el-dia-a-los-estatales-que-se-adhieran-al-paro-nacional-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-18",
-            "horario": "00:00",
             "lugar": "Rosario y sectores de trabajo adheridos",
             "quien": "CGT Nacional y Regional Rosario",
             "tipo_medida": "Paro General",
@@ -5924,12 +5914,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Poder Ejecutivo",
+            "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-general-de-la-cgt-la-central-obrera-dara-detalles-de-la-medida-sin-movilizacion/, https://www.infobae.com/politica/2026/02/17/el-gobierno-les-descontara-el-dia-a-los-estatales-que-se-adhieran-al-paro-nacional-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
             "horario": "17:00",
             "lugar": "Plaza San Martín, Rosario",
             "quien": "Frente de Izquierda (PTS y sectores combativos de AMSAFE)",
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra la reforma laboral y salarios de hambre, en rechazo a la pasividad de la CGT y exigiendo autoorganización. Convocan a movilizaciones en todo el país el mismo día del paro nacional.",
             "fuente": "https://elciudadanoweb.com/la-izquierda-llama-a-movilizar-en-rosario-y-en-todo-el-pais-durante-el-paro-de-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Frente de Sindicatos Unidos (ATE, UOM, FTCIODyARA, APLA), CTA, Corriente Clasista y Combativa (CCC), UTEP y organizaciones de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la reforma laboral que se tratará en la Cámara Baja",
+            "fuente": "https://www.infobae.com/politica/2026/02/17/el-gobierno-endurece-las-medidas-de-seguridad-y-control-en-la-marcha-prevista-contra-la-reforma-laboral-en-el-congreso/, https://www.infobae.com/politica/2026/02/10/que-sindicatos-van-a-parar-este-miercoles-por-la-movilizacion-de-la-cgt-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
