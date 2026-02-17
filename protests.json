@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T11:15:50.792005-03:00",
+    "last_updated": "2026-02-17T12:53:57.478084-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5876,20 +5876,30 @@
             "fecha": "2026-02-18",
             "horario": "00:00",
             "lugar": "Congreso Nacional",
-            "quien": "CGT",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "En contra de la reforma laboral que limita derechos de los trabajadores, especialmente por el artículo 44 que reduce el salario por enfermedad o accidente",
-            "fuente": "https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
+            "quien": "CGT y ATE",
+            "tipo_medida": "Paro nacional con movilización",
+            "motivo": "Oposición a la reforma laboral que quita derechos y no genera empleo",
+            "fuente": "https://www.infobae.com/politica/2026/02/17/el-gobierno-les-descontara-el-dia-a-los-estatales-que-se-adhieran-al-paro-nacional-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
             "horario": "00:00",
-            "lugar": "Sede CGT Azopardo",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Paro",
-            "motivo": "Oposición a la reforma laboral, específicamente por la modificación del régimen de licencias por enfermedad incorporada de forma sorpresiva en el Senado",
-            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-convoco-a-un-paro-nacional-cuando-diputados-trate-la-reforma-laboral-tras-el-intento-furtivo-del-gobierno-de-pasar-la-motosierra-sobre-las-licencias--202621616440, https://www.inforegion.com.ar/2026/02/16/la-cgt-se-reune-de-urgencia-y-evalua-convocar-a-un-paro-general-por-la-reforma-laboral/, https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
+            "lugar": "Rosario y sectores de trabajo adheridos",
+            "quien": "CGT Nacional y Regional Rosario",
+            "tipo_medida": "Paro General",
+            "motivo": "Rechazo al proyecto de reforma laboral antiobrera del gobierno",
+            "fuente": "https://elciudadanoweb.com/la-cgt-rosario-adhiere-al-paro-general-por-24-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "CGT (Confederación General del Trabajo)",
+            "tipo_medida": "Paro total",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno nacional, considerada como intento de imponer 'esclavitud' y violación de derechos constitucionales de protesta",
+            "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-cgt-omar-maturano-confirmo-que-no-habra-transporte-y-cargo-contra-la-reforma-laboral/, https://www.datagremial.com/informacion-general/la-cgt-convoco-a-un-paro-nacional-cuando-diputados-trate-la-reforma-laboral-tras-el-intento-furtivo-del-gobierno-de-pasar-la-motosierra-sobre-las-licencias--202621616440, https://www.inforegion.com.ar/2026/02/16/la-cgt-se-reune-de-urgencia-y-evalua-convocar-a-un-paro-general-por-la-reforma-laboral/, https://estadodealerta.com.ar/cgt-convoca-a-conferencia-de-prensa-para-el-miercoles-donde-podria-anunciar-la-radicalizacion-del-enfrentamiento-a-la-administracion-libertaria-con-paro-de-transporte/"
         },
         {
             "es_evento_relevante": true,
@@ -5903,6 +5913,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Frente de Izquierda (PTS y sectores combativos de AMSAFE)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la reforma laboral y salarios de hambre, en rechazo a la pasividad de la CGT y exigiendo autoorganización. Convocan a movilizaciones en todo el país el mismo día del paro nacional.",
+            "fuente": "https://elciudadanoweb.com/la-izquierda-llama-a-movilizar-en-rosario-y-en-todo-el-pais-durante-el-paro-de-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "10:00",
             "lugar": "Congreso Nacional, Buenos Aires",
@@ -5910,6 +5930,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral propuesta por el gobierno",
             "fuente": "https://www.laizquierdadiario.com/Cientos-de-trabajadores-discutieron-preparar-una-gran-movilizacion-si-se-trata-el-19-la-reforma"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "12:00",
+            "lugar": "Plaza Congreso",
+            "quien": "Plenario del Sindicalismo Combativo, movimientos piqueteros independientes, organizaciones de jubilados en lucha, Sutna, AGD UBA, Ademys, Suteba Multicolor, Unión Ferroviaria de Oeste, Polo Obrero y partidos de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral esclavista y reclamo por un plan de lucha real hacia la huelga general para derrotar al gobierno de Milei",
+            "fuente": "https://prensaobrera.com/sindicales/el-sindicalismo-combativo-convoca-a-un-acto-en-el-marco-del-paro-contra-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
