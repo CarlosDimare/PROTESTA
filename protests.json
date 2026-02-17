@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T12:53:57.478084-03:00",
+    "last_updated": "2026-02-17T13:57:40.850155-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5870,6 +5870,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral y exigencia de paro general",
             "fuente": "https://www.laizquierdadiario.com/Jujuy-tuvo-una-movilizacion-contra-la-reforma-laboral-y-dos-politicas-traicion-vs-combate"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "00:00",
+            "lugar": "Nación Argentina",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la reforma laboral del gobierno",
+            "fuente": "https://elciudadanoweb.com/los-gremios-del-transporte-adhieren-al-paro-convocado-por-la-cgt-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
