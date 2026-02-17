@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T14:58:30.832859-03:00",
+    "last_updated": "2026-02-17T15:57:37.859960-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5966,10 +5966,10 @@
             "fecha": "2026-02-19",
             "horario": "La hora de inicio del evento de protesta principal es:  \n**15:00**  \n\n*Fundamento*: El texto indica claramente:  \n*\"La movilización principal se realizará este miércoles 11 de febrero **desde las 15** en la Plaza de los Dos Congresos\"* (sección correspondiente a la CGT). Las otras horas mencionadas (13:00 para la CATT y 21:00 para el subte) se refieren a medidas de fuerza complementarias, no al evento principal de protesta.",
             "lugar": "No especificado",
-            "quien": "CGT",
+            "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral y medidas del gobierno como reducción de salarios por enfermedad",
-            "fuente": "https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+            "motivo": "Oposición a la reforma laboral impulsada por el Gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-nacional-el-gobierno-descontara-el-dia-a-estatales-que-adhieran-a-la-medida-de-la-cgt/, https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
