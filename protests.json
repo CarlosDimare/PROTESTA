@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T08:44:25.809461-03:00",
+    "last_updated": "2026-02-17T09:52:43.921937-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5840,6 +5840,16 @@
             "tipo_medida": "Asamblea abierta de organización",
             "motivo": "Preparación de la resistencia contra la reforma laboral y el plan de ajuste de Milei, coordinando acciones para la votación en Diputados",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-abiertas-para-organizar-el-segundo-round-contra-la-reforma-laboral-en-la-Ciudad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-17",
+            "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "CGT con participación de La Fraternidad",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral que limita el derecho a la protesta y derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/02/17/omar-maturano-confirmo-la-adhesion-total-del-transporte-al-paro-nacional-contra-la-reforma-laboral-y-acuso-de-traidores-a-los-legisladores/"
         },
         {
             "es_evento_relevante": true,
