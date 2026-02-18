@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18T01:33:52.812084-03:00",
+    "last_updated": "2026-02-18T03:04:56.764221-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6010,6 +6010,16 @@
             "tipo_medida": "Paro",
             "motivo": "Oposición a la reforma laboral impulsada por el Gobierno",
             "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-nacional-el-gobierno-descontara-el-dia-a-estatales-que-adhieran-a-la-medida-de-la-cgt/, https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "No especificado",
+            "lugar": "Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "En contra de la reforma laboral y las políticas de ajuste del gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/02/18/reforma-laboral-el-gobierno-encapsula-el-error-no-forzado-del-articulo-44-y-busca-frenar-reclamos-de-ultimo-momento/"
         },
         {
             "es_evento_relevante": true,
