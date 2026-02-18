@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T22:47:32.300409-03:00",
+    "last_updated": "2026-02-18T01:33:52.812084-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5944,6 +5944,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
+            "horario": "00:00",
+            "lugar": "Puertos de Argentina",
+            "quien": "Federación Sindical Marítima y Fluvial (Fe.Si.Ma.F.)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la reforma laboral y por la exclusión de la Marina Mercante de la Ley de Contrato de Trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Arranca-este-miercoles-paro-portuario-de-48-horas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
             "horario": "10:00",
             "lugar": "Congreso de la Nación",
             "quien": "Frente de Sindicatos Unidos (ATE, UOM, FTCIODyARA, APLA), CTA, Corriente Clasista y Combativa (CCC), UTEP y organizaciones de izquierda",
@@ -5960,6 +5970,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral propuesta por el gobierno",
             "fuente": "https://www.laizquierdadiario.com/Cientos-de-trabajadores-discutieron-preparar-una-gran-movilizacion-si-se-trata-el-19-la-reforma"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "12:00",
+            "lugar": "Bernardo de Irigoyen y Avenida de Mayo (Plaza de los Dos Congresos)",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo al proyecto de reforma laboral y defensa de derechos laborales históricos",
+            "fuente": "https://estadodealerta.com.ar/el-frente-sindicatos-unidos-confirmo-paro-nacional-con-movilizacion-al-congreso-para-frenar-la-reforma-laboral-en-las-calles/"
         },
         {
             "es_evento_relevante": true,
@@ -6010,6 +6030,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra la reforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Reforma-laboral-esclavista-y-paro-nacional-desde-este-martes-preparamos-la-resistencia, https://www.infobae.com/politica/2026/02/16/javier-milei-afrontara-su-cuarto-paro-general-de-la-cgt-desde-que-asumio-cual-es-el-record-en-democracia-que-registra/, https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "09:00",
+            "lugar": "Sede de Gendarmería Nacional Argentina en Oroño y 3 de Febrero, Santa Fe",
+            "quien": "Efectivos y familiares de la Gendarmería Nacional Argentina",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, condiciones laborales, cobertura de obra social y falta de contención en salud mental",
+            "fuente": "https://elciudadanoweb.com/siguen-las-protestas-de-efectivos-de-seguridad-gendarmes-que-ganan-850-mil-pesos-salieron-a-la-calle-en-rosario-para-pedir-mejoras-salariales-y-de-salud/"
         },
         {
             "es_evento_relevante": true,
