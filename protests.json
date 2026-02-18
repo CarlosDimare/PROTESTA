@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18T08:40:24.088092-03:00",
+    "last_updated": "2026-02-18T09:55:01.883962-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5950,6 +5950,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra la reforma laboral y salarios de hambre, en rechazo a la pasividad de la CGT y exigiendo autoorganización. Convocan a movilizaciones en todo el país el mismo día del paro nacional.",
             "fuente": "https://elciudadanoweb.com/la-izquierda-llama-a-movilizar-en-rosario-y-en-todo-el-pais-durante-el-paro-de-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Unter (Unión de Trabajadores de la Educación de Río Negro)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por aumento salarial, no cierre de cargos, contra la fusión de escuelas especiales y políticas de ajuste del gobierno de Weretilneck",
+            "fuente": "https://prensaobrera.com/sindicales/48-horas-de-paro-de-no-inicio-en-rio-negro"
         },
         {
             "es_evento_relevante": true,
