@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-17T20:29:23.423779-03:00",
+    "last_updated": "2026-02-17T22:47:32.300409-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5990,6 +5990,16 @@
             "tipo_medida": "Paro",
             "motivo": "Oposición a la reforma laboral impulsada por el Gobierno",
             "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-nacional-el-gobierno-descontara-el-dia-a-estatales-que-adhieran-a-la-medida-de-la-cgt/, https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "desde temprano",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Sindicatos Unidos y PTS-Frente de Izquierda",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Impedir la reforma laboral esclavista",
+            "fuente": "https://www.laizquierdadiario.com/El-FreSU-ratifica-el-paro-y-la-movilizacion-la-izquierda-estara-en-la-plaza-desde-temprano"
         },
         {
             "es_evento_relevante": true,
