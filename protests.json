@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18T16:50:52.032944-03:00",
+    "last_updated": "2026-02-18T17:37:05.628497-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5985,11 +5985,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "00:00",
-            "lugar": "Todo el territorio nacional",
-            "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al proyecto de reforma laboral que se tratará en la Cámara de Diputados, por considerarlo un retroceso en derechos laborales y no generar empleo genuino",
-            "fuente": "https://www.inforegion.com.ar/2026/02/18/la-cgt-ratifico-el-paro-nacional-la-argentina-se-paralizara-de-punta-a-punta/, https://www.infobae.com/politica/2026/02/18/la-cgt-confirmo-el-paro-contra-la-reforma-laboral-y-atribuyo-el-cierre-de-fate-al-fracaso-del-plan-economico-del-gobierno/, https://www.laizquierdadiario.com/La-bronca-desde-abajo-le-impuso-a-la-CGT-un-paro-nacional-hagamoslo-activo-con-caravanas-y, https://www.infobae.com/politica/2026/02/18/el-gobierno-analiza-el-caso-de-fate-como-un-capitulo-de-la-reconversion-industrial-y-culpa-a-los-sindicatos/, https://www.datagremial.com/informacion-general/gremios-de-la-alimentacion-se-suman-al-paro-de-la-cgt-para-rechazar-la-retrograda-y-recesiva-reforma-impulsada-por-grupos-concentrados--202621810110, https://www.infobae.com/economia/2026/02/18/trenes-colectivos-y-subtes-que-gremios-adheriran-al-paro-general-y-no-prestaran-servicio/, https://www.laizquierdadiario.com/Cientos-de-trabajadores-discutieron-preparar-una-gran-movilizacion-si-se-trata-el-19-la-reforma, https://www.inforegion.com.ar/2026/02/17/paro-nacional-el-gobierno-descontara-el-dia-a-estatales-que-adhieran-a-la-medida-de-la-cgt/, https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035, https://www.infobae.com/politica/2026/02/18/reforma-laboral-el-gobierno-encapsula-el-error-no-forzado-del-articulo-44-y-busca-frenar-reclamos-de-ultimo-momento/"
+            "lugar": "Todo el país",
+            "quien": "UTA y CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei, por considerarla una transferencia de recursos desde los trabajadores hacia los empleadores que debilita derechos laborales y agrava la crisis sociolaboral.",
+            "fuente": "https://www.infobae.com/politica/2026/02/18/la-uta-confirmo-que-se-sumara-manana-al-paro-general-de-la-cgt-en-rechazo-a-la-reforma-laboral/, https://www.anred.org/reforma-laboral-con-cortes-y-movilizacion-organizaciones-volveran-activo-el-paro-dominguero-de-la-cgt/"
         },
         {
             "es_evento_relevante": true,
@@ -6044,6 +6044,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
+            "horario": "14:00",
+            "lugar": "Plaza del Congreso, Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo frontal a la reforma laboral por recorte de derechos y creación del Fondo de Asistencia Laboral (FAL)",
+            "fuente": "https://www.infobae.com/politica/2026/02/18/el-oficialismo-convoco-a-sesion-manana-en-diputados-por-la-reforma-laboral-eliminaran-el-articulo-de-las-licencias/, https://www.inforegion.com.ar/2026/02/18/la-cgt-ratifico-el-paro-nacional-la-argentina-se-paralizara-de-punta-a-punta/, https://www.infobae.com/politica/2026/02/18/la-cgt-confirmo-el-paro-contra-la-reforma-laboral-y-atribuyo-el-cierre-de-fate-al-fracaso-del-plan-economico-del-gobierno/, https://www.laizquierdadiario.com/La-bronca-desde-abajo-le-impuso-a-la-CGT-un-paro-nacional-hagamoslo-activo-con-caravanas-y, https://www.infobae.com/politica/2026/02/18/el-gobierno-analiza-el-caso-de-fate-como-un-capitulo-de-la-reconversion-industrial-y-culpa-a-los-sindicatos/, https://www.datagremial.com/informacion-general/gremios-de-la-alimentacion-se-suman-al-paro-de-la-cgt-para-rechazar-la-retrograda-y-recesiva-reforma-impulsada-por-grupos-concentrados--202621810110, https://www.infobae.com/economia/2026/02/18/trenes-colectivos-y-subtes-que-gremios-adheriran-al-paro-general-y-no-prestaran-servicio/, https://www.laizquierdadiario.com/Cientos-de-trabajadores-discutieron-preparar-una-gran-movilizacion-si-se-trata-el-19-la-reforma, https://www.inforegion.com.ar/2026/02/17/paro-nacional-el-gobierno-descontara-el-dia-a-estatales-que-adhieran-a-la-medida-de-la-cgt/, https://www.laizquierdadiario.com/Nicolas-del-Cano-La-clase-trabajadora-tiene-que-tomar-esta-accion-en-sus-manos, https://elciudadanoweb.com/la-cgt-convoco-a-un-paro-general-sin-movilizacion-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/16/la-cgt-ya-consiguio-la-adhesion-clave-de-los-colectiveros-para-el-paro-contra-la-reforma-laboral/, https://estadodealerta.com.ar/el-frente-de-sindicatos-unidos-que-integra-gremios-industriales-como-la-uom-la-mesa-sindical-y-las-dos-ctas-crece-en-la-protesta-contra-la-reforma-laboral-libertaria-en-el-senado/, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035, https://www.infobae.com/politica/2026/02/18/reforma-laboral-el-gobierno-encapsula-el-error-no-forzado-del-articulo-44-y-busca-frenar-reclamos-de-ultimo-momento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
             "horario": "14:30",
             "lugar": "Congreso de la Nación, Ciudad Autónoma de Buenos Aires",
             "quien": "CGT y sindicatos adherentes",
@@ -6090,6 +6100,16 @@
             "tipo_medida": "Paro provincial con concentración",
             "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
             "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional (con concentración específica en Avenida de Mayo y Bernardo de Irigoyen, Ciudad Autónoma de Buenos Aires)",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro general con movilización",
+            "motivo": "Rechazo al proyecto de reforma laboral que se tratará en la Cámara de Diputados",
+            "fuente": "https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-toma-distancia-de-la-cgt-y-ratifica-la-marcha-de-manana-al-congreso-202621816570"
         },
         {
             "es_evento_relevante": true,
