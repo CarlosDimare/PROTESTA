@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18T15:53:51.137988-03:00",
+    "last_updated": "2026-02-18T16:50:52.032944-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5934,6 +5934,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
+            "horario": "00:00-24:00",
+            "lugar": "Congreso Nacional (epicentro), Ciudad de Buenos Aires y todo el país",
+            "quien": "CGT (Confederación General del Trabajo) con adhesiones de UTA, Unión Ferroviaria, La Fraternidad, AGTSyP, gremios aeronáuticos, Asociación Bancaria, UGATT y camioneros",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo al proyecto de reforma laboral, incluyendo quita de derechos, restricciones a huelga, modificaciones en indemnizaciones, banco de horas, limitaciones a asambleas sindicales y cambios en vacaciones",
+            "fuente": "https://www.infobae.com/sociedad/2026/02/18/paro-general-de-la-cgt-todos-los-servicios-que-no-funcionaran-este-19-de-febrero-uno-por-uno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-18",
             "horario": "12:00",
             "lugar": "Bernardo de Irigoyen y Av. de Mayo",
             "quien": "Sindicatos aeronáuticos (APLA, AAA, APA, UPSA) adheridos al paro CGT",
@@ -6108,8 +6118,8 @@
             "lugar": "Todo el país",
             "quien": "CGT",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral y defensa de derechos constitucionales de los trabajadores",
-            "fuente": "https://elciudadanoweb.com/adelantan-que-este-jueves-los-colectivos-tampoco-circularan-en-rosario-maturano-confirmo-que-con-el-paro-de-la-cgt-no-habra-transportes-en-todo-el-pais/"
+            "motivo": "En contra de la reforma laboral",
+            "fuente": "https://www.infobae.com/economia/2026/02/18/que-pasara-con-supermercados-shoppings-y-otros-comercios-este-19-de-febrero-en-el-paro-general-de-la-cgt/, https://elciudadanoweb.com/adelantan-que-este-jueves-los-colectivos-tampoco-circularan-en-rosario-maturano-confirmo-que-con-el-paro-de-la-cgt-no-habra-transportes-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
