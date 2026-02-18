@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-18T04:02:56.087112-03:00",
+    "last_updated": "2026-02-18T04:53:35.290991-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5924,12 +5924,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-18",
-            "horario": "12:00",
+            "horario": "15:00",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la reforma laboral impulsada por el Poder Ejecutivo",
-            "fuente": "https://www.inforegion.com.ar/2026/02/17/paro-general-de-la-cgt-la-central-obrera-dara-detalles-de-la-medida-sin-movilizacion/, https://www.infobae.com/politica/2026/02/17/el-gobierno-les-descontara-el-dia-a-los-estatales-que-se-adhieran-al-paro-nacional-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
+            "quien": "SICONARA y FeSiMaF",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral que excluye a trabajadores embarcados de la Ley de Contrato de Trabajo",
+            "fuente": "https://estadodealerta.com.ar/conductores-navales-en-paro-nacional-por-48-horas-desde-la-0hs-del-miercoles-18-en-defensa-de-derechos-cercenados-por-el-senado/, https://www.inforegion.com.ar/2026/02/17/paro-general-de-la-cgt-la-central-obrera-dara-detalles-de-la-medida-sin-movilizacion/, https://www.infobae.com/politica/2026/02/17/el-gobierno-les-descontara-el-dia-a-los-estatales-que-se-adhieran-al-paro-nacional-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/17/la-uom-tildo-a-los-dirigentes-de-la-cgt-como-bastante-tibios-ante-la-reforma-laboral/, https://www.inforegion.com.ar/2026/02/16/el-transporte-se-suma-al-paro-de-la-cgt-y-anticipa-un-fuerte-impacto-en-todo-el-pais/, https://elciudadanoweb.com/se-reune-la-cgt-y-define-si-habra-un-paro-general/, https://www.inforegion.com.ar/2026/02/14/paro-general-la-cgt-analiza-una-medida-de-fuerza-contra-la-reforma-laboral/, https://www.infobae.com/america/agencias/2026/02/12/protesta-contra-la-reforma-laboral-termina-en-batalla-campal-en-las-calles-de-buenos-aires/, https://www.infobae.com/politica/2026/02/16/tras-el-anuncio-de-la-cgt-tambien-habra-paro-total-de-los-medios-de-transporte-de-pasajeros-en-el-pais/"
         },
         {
             "es_evento_relevante": true,
