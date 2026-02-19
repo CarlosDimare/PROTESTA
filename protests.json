@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T17:34:01.016448-03:00",
+    "last_updated": "2026-02-19T18:36:00.127243-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5995,16 +5995,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "00:00",
-            "lugar": "En todo el país",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Paro",
-            "motivo": "En contra de la reforma laboral y deterioro económico",
-            "fuente": "https://motoreconomico.com.ar/hablan-las-encuestas-el-719-respalda-el-paro-general-y-cae-el-apoyo-a-la-reforma-laboral-casi-siete-puntos-en-tres-meses/, https://www.datagremial.com/informacion-general/19f-la-cgt-recalco-que-el-paro-nacional-se-siente-en-todo-el-pais--20262191410, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-19",
-            "horario": "00:00",
             "lugar": "Congreso Nacional y todo el territorio argentino",
             "quien": "CGT y gremios confederados (CATT, UTA, FeMPINRA)",
             "tipo_medida": "Paro nacional",
@@ -6130,6 +6120,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral esclavista y reclamo por un plan de lucha real hacia la huelga general para derrotar al gobierno de Milei",
             "fuente": "https://prensaobrera.com/sindicales/el-sindicalismo-combativo-convoca-a-un-acto-en-el-marco-del-paro-contra-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "14:00",
+            "lugar": "En todo el país",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral",
+            "fuente": "https://www.inforegion.com.ar/2026/02/19/paro-nacional-el-gobierno-estimo-perdidas-por-us600-millones-y-califico-como-extorsivo-el-paro-comandado-por-la-cgt/, https://motoreconomico.com.ar/hablan-las-encuestas-el-719-respalda-el-paro-general-y-cae-el-apoyo-a-la-reforma-laboral-casi-siete-puntos-en-tres-meses/, https://www.datagremial.com/informacion-general/19f-la-cgt-recalco-que-el-paro-nacional-se-siente-en-todo-el-pais--20262191410, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
@@ -6304,22 +6304,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
+            "horario": "11:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Frente de Unidad Docente Bonaerense (FUDB) - SUTEBA, FEB, UDOCBA, AMET, SADOP",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y contra políticas educativas del gobierno nacional/provincial, incluyendo restitución del FONID, aumento del presupuesto educativo, rechazo al proyecto de Libertad Educativa y fondos adeudados por la administración de Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
             "horario": "21:00",
             "lugar": "No especificado",
             "quien": "CTERA y sindicatos docentes (Suteba, FEB, Udocba)",
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la propuesta salarial del 3% y oposición a la reforma laboral de Milei",
             "fuente": "https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "No especificado",
-            "lugar": "Provincia de Buenos Aires",
-            "quien": "Gremios docentes bonaerenses (FEB, SUTEBA)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 3%, reclamo por recomposición salarial frente a inflación, oposición a reformas laborales nacionales y exigencias sobre IOMA",
-            "fuente": "https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/"
         },
         {
             "es_evento_relevante": true,
