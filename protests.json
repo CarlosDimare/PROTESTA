@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T15:02:15.424673-03:00",
+    "last_updated": "2026-02-19T15:54:49.130648-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6054,12 +6054,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
-            "horario": "10:45",
-            "lugar": "No especificado",
-            "quien": "CGT, CTA y CATT",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales en el sector aeronáutico",
-            "fuente": "https://estadodealerta.com.ar/los-gremios-aeronauticos-suman-contundencia-al-paro-general-contra-la-reforma-laboral-flexibilizadora/, https://elciudadanoweb.com/el-sindicato-de-prensa-rosario-adhiere-al-paro-convocado-por-la-cgt/, https://www.eldiariocba.com.ar/nacionales/2026/2/10/multitudinaria-marcha-en-rosario-contra-la-reforma-laboral-que-impulsa-javier-milei-143443.html"
+            "horario": "08:00",
+            "lugar": "Sede de Amsafe Santa Fe",
+            "quien": "Asociación del Magisterio de Santa Fe (Amsafe)",
+            "tipo_medida": "Asamblea Provincial",
+            "motivo": "Decisión sobre la propuesta paritaria docente y adopción de medidas de lucha",
+            "fuente": "https://elciudadanoweb.com/asamblea-provincial-de-amsafe-este-viernes-por-la-propuesta-salarial-para-la-dirigencia-es-insuficiente/, https://www.inforegion.com.ar/2026/02/19/gira-de-javier-milei-en-estados-unidos-en-medio-del-paro-nacional-por-la-reforma-laboral/, https://estadodealerta.com.ar/los-gremios-aeronauticos-suman-contundencia-al-paro-general-contra-la-reforma-laboral-flexibilizadora/, https://elciudadanoweb.com/el-sindicato-de-prensa-rosario-adhiere-al-paro-convocado-por-la-cgt/, https://www.eldiariocba.com.ar/nacionales/2026/2/10/multitudinaria-marcha-en-rosario-contra-la-reforma-laboral-que-impulsa-javier-milei-143443.html, https://elciudadanoweb.com/este-viernes-habra-una-asamblea-provincial-de-amsafe-por-la-propuesta-salarial/"
         },
         {
             "es_evento_relevante": true,
@@ -6140,16 +6140,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Apoyo al paro general contra la reforma laboral y manifestación frente al Congreso",
             "fuente": "https://www.infobae.com/politica/2026/02/19/el-gobierno-califico-de-perverso-y-extorsivo-el-paro-de-la-cgt/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-19",
-            "horario": "15:00",
-            "lugar": "Sede de Amsafe Santa Fe",
-            "quien": "Asociación del Magisterio de Santa Fe (Amsafe)",
-            "tipo_medida": "Asamblea Provincial",
-            "motivo": "Rechazo a oferta salarial provincial y definición de medidas de fuerza ante deterioro salarial acumulado",
-            "fuente": "https://elciudadanoweb.com/este-viernes-habra-una-asamblea-provincial-de-amsafe-por-la-propuesta-salarial/"
         },
         {
             "es_evento_relevante": true,
