@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T14:03:42.544052-03:00",
+    "last_updated": "2026-02-19T15:02:15.424673-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5985,6 +5985,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "00:00",
+            "lugar": "Congreso Nacional y todo el territorio argentino",
+            "quien": "CGT y gremios confederados (CATT, UTA, FeMPINRA)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Rechazo al proyecto de reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/con-una-alta-adhesion-del-transporte-el-paro-de-la-cgt-se-inicio-con-calles-casi-vacias--202621911560, https://estadodealerta.com.ar/el-frente-sindicatos-unidos-confirmo-paro-nacional-con-movilizacion-al-congreso-para-frenar-la-reforma-laboral-en-las-calles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "00:00",
             "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
             "quien": "Confederación General del Trabajo (CGT) y Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro general",
@@ -6095,16 +6105,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "12:00",
-            "lugar": "Bernardo de Irigoyen y Avenida de Mayo (Plaza de los Dos Congresos)",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Rechazo al proyecto de reforma laboral y defensa de derechos laborales históricos",
-            "fuente": "https://estadodealerta.com.ar/el-frente-sindicatos-unidos-confirmo-paro-nacional-con-movilizacion-al-congreso-para-frenar-la-reforma-laboral-en-las-calles/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-19",
-            "horario": "12:00",
             "lugar": "Plaza Congreso",
             "quien": "Plenario del Sindicalismo Combativo, movimientos piqueteros independientes, organizaciones de jubilados en lucha, Sutna, AGD UBA, Ademys, Suteba Multicolor, Unión Ferroviaria de Oeste, Polo Obrero y partidos de izquierda",
             "tipo_medida": "Marcha",
@@ -6120,6 +6120,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Rechazo a la reforma laboral y repudio a la CGT",
             "fuente": "https://www.laizquierdadiario.com/La-bronca-desde-abajo-le-impuso-a-la-CGT-el-paro-nacional-hagamoslo-activo, https://www.clarin.com/informacion-general/marcha-cgt-11-febrero-horario-recorrido-cortes-puntos-concentracion_0_KcJTIHeYkV.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "15:00",
+            "lugar": "En todo el país",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta por la situación económica y rechazo al proyecto de 'modernización laboral', que consideran precarizante y violatorio de derechos constitucionales",
+            "fuente": "https://www.datagremial.com/informacion-general/19f-la-cgt-recalco-que-el-paro-nacional-se-siente-en-todo-el-pais--20262191410, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
         },
         {
             "es_evento_relevante": true,
