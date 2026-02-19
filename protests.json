@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T16:48:12.606513-03:00",
+    "last_updated": "2026-02-19T17:34:01.016448-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6160,6 +6160,16 @@
             "tipo_medida": "Movilización con cortes",
             "motivo": "Rechazo a la Reforma Laboral de Milei y Bullrich y situación de despidos en FATE",
             "fuente": "https://www.laizquierdadiario.com/Jamas-esclavos-jueves-paro-general-contra-la-reforma-laboral-y-despidos-en-FATE, https://www.eldestapeweb.com/sociedad/marchas/a-que-hora-es-la-marcha-de-la-cgt-en-rechazo-a-la-reforma-laboral-cortes-y-todo-lo-que-se-sabe-2026210144035"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "18:00",
+            "lugar": "Provincia de Santa Fe (varias ciudades)",
+            "quien": "Docentes y estatales autoconvocados, impulsados por Tribuna Docente",
+            "tipo_medida": "Paro provincial",
+            "motivo": "Contra salario congelado, reforma previsional, ajuste de Milei/FMI y burocracia sindical; por recomposición salarial y mejora de condiciones laborales",
+            "fuente": "https://prensaobrera.com/sindicales/santa-fe-crecen-las-autoconvocatorias-docentes-contra-el-ajuste-de-pullaro, https://www.launion.digital/sociedad/en-medio-tension-docentes-autoconvocados-confirmo-marcha-sabado-n212787"
         },
         {
             "es_evento_relevante": true,
