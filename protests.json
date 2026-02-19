@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T12:54:50.275052-03:00",
+    "last_updated": "2026-02-19T14:03:42.544052-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6046,10 +6046,20 @@
             "fecha": "2026-02-19",
             "horario": "10:45",
             "lugar": "No especificado",
-            "quien": "Sindicato de Prensa Rosario (SPR) y sindicatos de prensa adheridos",
-            "tipo_medida": "Paro General",
-            "motivo": "Rechazo a la reforma laboral y derogación del Estatuto del Periodista Profesional",
-            "fuente": "https://elciudadanoweb.com/el-sindicato-de-prensa-rosario-adhiere-al-paro-convocado-por-la-cgt/, https://www.eldiariocba.com.ar/nacionales/2026/2/10/multitudinaria-marcha-en-rosario-contra-la-reforma-laboral-que-impulsa-javier-milei-143443.html"
+            "quien": "CGT, CTA y CATT",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales en el sector aeronáutico",
+            "fuente": "https://estadodealerta.com.ar/los-gremios-aeronauticos-suman-contundencia-al-paro-general-contra-la-reforma-laboral-flexibilizadora/, https://elciudadanoweb.com/el-sindicato-de-prensa-rosario-adhiere-al-paro-convocado-por-la-cgt/, https://www.eldiariocba.com.ar/nacionales/2026/2/10/multitudinaria-marcha-en-rosario-contra-la-reforma-laboral-que-impulsa-javier-milei-143443.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "12:00",
+            "lugar": "Plaza 25 de Mayo, Córdoba y Buenos Aires",
+            "quien": "Frente de Izquierda y de Trabajadores (FIT) y sectores combativos",
+            "tipo_medida": "Corte",
+            "motivo": "Contra la reforma laboral de Milei y por salarios dignos",
+            "fuente": "https://elciudadanoweb.com/el-paro-de-la-cgt-contra-la-reforma-laboral-se-siente-en-rosario-sin-colectivos-y-con-cortes-y-movilizaciones-programadas/"
         },
         {
             "es_evento_relevante": true,
@@ -6208,8 +6218,8 @@
             "lugar": "Todo el país",
             "quien": "CGT",
             "tipo_medida": "Paro",
-            "motivo": "En contra de la reforma laboral",
-            "fuente": "https://www.infobae.com/economia/2026/02/18/que-pasara-con-supermercados-shoppings-y-otros-comercios-este-19-de-febrero-en-el-paro-general-de-la-cgt/, https://elciudadanoweb.com/adelantan-que-este-jueves-los-colectivos-tampoco-circularan-en-rosario-maturano-confirmo-que-con-el-paro-de-la-cgt-no-habra-transportes-en-todo-el-pais/"
+            "motivo": "Protesta contra la reforma laboral que se debate en el Congreso",
+            "fuente": "https://www.infobae.com/politica/2026/02/19/en-medio-del-paro-de-la-cgt-martin-yeza-defendio-la-reforma-laboral-y-pidio-habilitar-las-billeteras-virtuales-como-cuenta-sueldo/, https://www.infobae.com/economia/2026/02/18/que-pasara-con-supermercados-shoppings-y-otros-comercios-este-19-de-febrero-en-el-paro-general-de-la-cgt/, https://elciudadanoweb.com/adelantan-que-este-jueves-los-colectivos-tampoco-circularan-en-rosario-maturano-confirmo-que-con-el-paro-de-la-cgt-no-habra-transportes-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
