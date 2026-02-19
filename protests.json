@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-19T09:59:34.705984-03:00",
+    "last_updated": "2026-02-19T11:21:08.673986-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -5985,6 +5985,26 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-19",
             "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la reforma laboral que implica pérdida de derechos históricos, eliminación de leyes como la del teletrabajo, reducción de indemnizaciones y desregulación de plataformas",
+            "fuente": "https://www.infobae.com/politica/2026/02/19/miguel-angel-pichetto-advirtio-sobre-la-destruccion-de-empleo-en-argentina-donde-entra-china-no-queda-nada/, https://elciudadanoweb.com/conciencia-de-clase-nicki-nicole-reprogramo-su-show-en-el-teatro-colon-y-respaldo-el-paro-nacional-de-este-jueves/, https://www.inforegion.com.ar/2026/02/18/lanus-flamengo-suspendido-por-el-paro-general-de-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "00:00",
+            "lugar": "Rosario",
+            "quien": "CGT y gremios adherentes (Sindicato Municipal, UTA)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamos laborales generales",
+            "fuente": "https://elciudadanoweb.com/paro-nacional-se-garantizan-guardias-en-salud-publica-no-habra-recoleccion-de-residuos-ni-transporte-urbano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-19",
+            "horario": "00:00",
             "lugar": "Área Metropolitana de Buenos Aires y principales ciudades del interior",
             "quien": "UTA, La Fraternidad y CGT",
             "tipo_medida": "Paro",
@@ -6083,23 +6103,23 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-02-19",
-            "horario": "No especificado",
-            "lugar": "Argentina",
-            "quien": "CGT (Confederación General del Trabajo)",
-            "tipo_medida": "Paro general",
-            "motivo": "No especificado",
-            "fuente": "https://www.inforegion.com.ar/2026/02/18/lanus-flamengo-suspendido-por-el-paro-general-de-la-cgt/"
+            "fecha": "2026-02-20",
+            "horario": "00:00",
+            "lugar": "Congreso Nacional, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Paro General",
+            "motivo": "Rechazo al proyecto de reforma laboral que reduce indemnizaciones, limita derechos de huelga y modifica condiciones de trabajo y vacaciones",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/02/19/a-mi-gobierno-jamas-le-hicieron-un-paro-general-la-reaccion-de-alberto-fernandez-tras-la-medida-de-fuerza-de-la-cgt-contra-la-reforma-laboral/, https://elciudadanoweb.com/este-jueves-los-colectivos-tampoco-circulan-en-rosario-porque-la-uta-adhiere-al-paro-de-la-cgt/, https://www.infobae.com/politica/2026/02/19/la-cgt-se-encamina-a-un-paro-de-mayor-impacto-pero-el-dilema-es-el-dia-despues-los-sectores-mas-duros-se-unen-y-van-por-mas/, https://elciudadanoweb.com/este-jueves-los-colectivos-tampoco-circularan-en-rosario-desde-la-medianoche-a-pata-por-el-paro/, https://www.laizquierdadiario.com/Reforma-laboral-esclavista-y-paro-nacional-desde-este-martes-preparamos-la-resistencia, https://www.infobae.com/politica/2026/02/16/javier-milei-afrontara-su-cuarto-paro-general-de-la-cgt-desde-que-asumio-cual-es-el-record-en-democracia-que-registra/, https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-20",
             "horario": "00:00",
-            "lugar": "Rosario",
-            "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Oposición a la reforma laboral y políticas económicas del gobierno de Milei, que consideran 'esclavitud' y atentan contra derechos de los trabajadores.",
-            "fuente": "https://elciudadanoweb.com/este-jueves-los-colectivos-tampoco-circulan-en-rosario-porque-la-uta-adhiere-al-paro-de-la-cgt/, https://www.infobae.com/politica/2026/02/19/la-cgt-se-encamina-a-un-paro-de-mayor-impacto-pero-el-dilema-es-el-dia-despues-los-sectores-mas-duros-se-unen-y-van-por-mas/, https://elciudadanoweb.com/este-jueves-los-colectivos-tampoco-circularan-en-rosario-desde-la-medianoche-a-pata-por-el-paro/, https://www.laizquierdadiario.com/Reforma-laboral-esclavista-y-paro-nacional-desde-este-martes-preparamos-la-resistencia, https://www.infobae.com/politica/2026/02/16/javier-milei-afrontara-su-cuarto-paro-general-de-la-cgt-desde-que-asumio-cual-es-el-record-en-democracia-que-registra/, https://www.infobae.com/politica/2026/02/16/la-cgt-confirmo-un-paro-general-de-24-horas-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
+            "lugar": "Nacional",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro General",
+            "motivo": "Rechazo al tratamiento del proyecto de reforma laboral en la Cámara de Diputados",
+            "fuente": "https://elciudadanoweb.com/en-este-jueves-de-paro-general-flybondi-opera-en-rosario/, https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-toma-distancia-de-la-cgt-y-ratifica-la-marcha-de-manana-al-congreso-202621816570"
         },
         {
             "es_evento_relevante": true,
@@ -6120,16 +6140,6 @@
             "tipo_medida": "Paro provincial con concentración",
             "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
             "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-20",
-            "horario": "12:00",
-            "lugar": "Congreso Nacional (con concentración específica en Avenida de Mayo y Bernardo de Irigoyen, Ciudad Autónoma de Buenos Aires)",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Paro general con movilización",
-            "motivo": "Rechazo al proyecto de reforma laboral que se tratará en la Cámara de Diputados",
-            "fuente": "https://www.datagremial.com/informacion-general/el-frente-de-sindicatos-unidos-toma-distancia-de-la-cgt-y-ratifica-la-marcha-de-manana-al-congreso-202621816570"
         },
         {
             "es_evento_relevante": true,
