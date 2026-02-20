@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T07:39:14.372962-03:00",
+    "last_updated": "2026-02-20T08:35:57.687239-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6210,6 +6210,16 @@
             "tipo_medida": "Paro provincial con concentración",
             "motivo": "Contra reforma previsional de Llaryola (Ley de Equidad Jubilatoria) y ajuste previsional",
             "fuente": "https://www.laizquierdadiario.com/Cordoba-Judiciales-y-otros-gremios-estatales-convocan-paro-contra-la-reforma-previsional"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "No especificado",
+            "lugar": "Alrededores del Congreso",
+            "quien": "Trabajadores",
+            "tipo_medida": "Paro general",
+            "motivo": "Contra la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/La-reforma-laboral-empezo-a-tratarse-en-Diputados-quienes-le-dieron-quorum-al-gobierno"
         },
         {
             "es_evento_relevante": true,
