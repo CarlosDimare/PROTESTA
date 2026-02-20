@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T13:42:26.833391-03:00",
+    "last_updated": "2026-02-20T14:47:01.476844-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6215,6 +6215,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-20",
             "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Sindicatos combativos y Frente de Izquierda Unidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral antiobrera y defensa de derechos laborales",
+            "fuente": "https://prensaobrera.com/politicas/diputados-aprobo-la-reforma-laboral-ante-el-rechazo-del-paro-nacional-y-los-cacerolazos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "No especificado",
             "lugar": "Alrededores del Congreso",
             "quien": "Trabajadores",
             "tipo_medida": "Paro general",
@@ -6370,6 +6380,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la política educativa del gobierno de Javier Milei y consideración de insuficiente el aumento salarial provincial",
             "fuente": "https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Mujeres y disidencias organizadas en asamblea (ATE Rosario, sindicatos, organizaciones políticas, barriales, docentes, LGBTIQ+, autoconvocadas)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral y su impacto en la feminización de la pobreza, con consigna 'trabajadoras somos todas'. También reclama por infancias vulneradas en barrios.",
+            "fuente": "https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
