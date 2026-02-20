@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T15:46:17.571034-03:00",
+    "last_updated": "2026-02-20T16:42:14.296935-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6214,6 +6214,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-20",
+            "horario": "12:00",
+            "lugar": "Autopista Panamericana (tramo hacia Ciudad de Buenos Aires)",
+            "quien": "Operarios despedidos de FATE con apoyo de SUTNA y agrupaciones de izquierda",
+            "tipo_medida": "Piquete/Corte y Movilización",
+            "motivo": "Contra el cierre de la planta en San Fernando y despidos de más de 900 trabajadores, en el marco del paro nacional contra la reforma laboral",
+            "fuente": "https://www.inforegion.com.ar/2026/02/19/corte-en-panamericana-por-fate-trabajadores-protestan-tras-el-cierre-de-la-planta-en-san-fernando/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "Sindicatos combativos y Frente de Izquierda Unidad",
@@ -6364,12 +6374,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
-            "horario": "11:00",
-            "lugar": "Provincia de Buenos Aires",
-            "quien": "Frente de Unidad Docente Bonaerense (FUDB) - SUTEBA, FEB, UDOCBA, AMET, SADOP",
+            "horario": "08:00",
+            "lugar": "Escuelas de la Provincia de Buenos Aires",
+            "quien": "Frente de Unidad Docente Bonaerense (FUDB) - SUTEBA, FEB, UDOCBA, SADOP, AMET",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y contra políticas educativas del gobierno nacional/provincial, incluyendo restitución del FONID, aumento del presupuesto educativo, rechazo al proyecto de Libertad Educativa y fondos adeudados por la administración de Milei",
-            "fuente": "https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+            "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
+            "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
         },
         {
             "es_evento_relevante": true,
