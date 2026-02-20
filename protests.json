@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T08:35:57.687239-03:00",
+    "last_updated": "2026-02-20T09:55:12.240254-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6260,6 +6260,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra la reforma laboral que se debate en el Congreso",
             "fuente": "https://www.infobae.com/politica/2026/02/19/en-medio-del-paro-de-la-cgt-martin-yeza-defendio-la-reforma-laboral-y-pidio-habilitar-las-billeteras-virtuales-como-cuenta-sueldo/, https://www.infobae.com/economia/2026/02/18/que-pasara-con-supermercados-shoppings-y-otros-comercios-este-19-de-febrero-en-el-paro-general-de-la-cgt/, https://elciudadanoweb.com/adelantan-que-este-jueves-los-colectivos-tampoco-circularan-en-rosario-maturano-confirmo-que-con-el-paro-de-la-cgt-no-habra-transportes-en-todo-el-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-22",
+            "horario": "06:00",
+            "lugar": "Sede de la Secretaría de Trabajo, Alem, Buenos Aires",
+            "quien": "Sindicato de Trabajadores de la Industria del Neumático (SUTNA) con apoyo de CGT y CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir continuidad laboral ante el cierre de FATE y denunciar incumplimiento de la conciliación obligatoria",
+            "fuente": "https://prensaobrera.com/sindicales/fate-sigue-cerrada-con-candado-y-los-obreros-mantienen-la-permanencia-por-su-continuidad-laboral, https://www.excelsior.com.mx/comunidad/bloqueos-ecatepec-mas-25-horas-protestas-no-hay-solucion/1690493"
         },
         {
             "es_evento_relevante": true,
