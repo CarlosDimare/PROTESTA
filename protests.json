@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T11:12:18.932190-03:00",
+    "last_updated": "2026-02-20T11:50:25.187265-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6250,6 +6250,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral y lucha por salarios",
             "fuente": "https://prensaobrera.com/sindicales/paros-de-no-inicio-de-clases-y-plan-de-lucha-hasta-derrotar-la-avanzada-antieducativa-de-milei-y-los-gobernadores, https://prensaobrera.com/sindicales/milei-y-los-gobernadores-consolidan-desfinanciamiento-historico-de-la-educacion-sin-resistencia-alguna-de-ctera"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-21",
+            "horario": "No especificado",
+            "lugar": "Parque Avellaneda",
+            "quien": "Vecinos de Parque Avellaneda",
+            "tipo_medida": "Asamblea",
+            "motivo": "Enfrentar la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Crece-la-bronca-contra-la-reforma-laboral-con-cortes-de-calles-cacerolazos-y-semaforazos"
         },
         {
             "es_evento_relevante": true,
