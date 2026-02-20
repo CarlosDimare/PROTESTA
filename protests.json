@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T19:30:06.795770-03:00",
+    "last_updated": "2026-02-20T20:30:54.021531-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6375,11 +6375,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
-            "lugar": "No especificado",
+            "lugar": "Todo el país",
             "quien": "CTERA",
             "tipo_medida": "Paro",
-            "motivo": "Contra reforma laboral, educativa y por recuperación de Fonid y paritaria nacional",
-            "fuente": "https://prensaobrera.com/sindicales/congreso-ctera-habra-paro-de-no-inicio-el-2-de-marzo-en-todo-el-pais, https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
+            "motivo": "Reclamo de convocatoria urgente a Paritaria Nacional Docente y aumento salarial que supere la inflación, junto a demandas por Ley de Financiamiento Educativo, restitución del FONID, aumento del presupuesto educativo y rechazo a proyectos de reforma laboral y Ley de Libertad Educativa",
+            "fuente": "https://www.infobae.com/politica/2026/02/20/declararon-un-paro-nacional-docente-para-el-2-de-marzo-y-peligra-el-inicio-de-las-clases/, https://prensaobrera.com/sindicales/congreso-ctera-habra-paro-de-no-inicio-el-2-de-marzo-en-todo-el-pais, https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
         },
         {
             "es_evento_relevante": true,
