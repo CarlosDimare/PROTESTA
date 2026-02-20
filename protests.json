@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T09:55:12.240254-03:00",
+    "last_updated": "2026-02-20T11:12:18.932190-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6293,6 +6293,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-27",
+            "horario": "00:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-XX",
             "horario": "15:00",
             "lugar": "Congreso Nacional, Buenos Aires",
@@ -6346,10 +6356,10 @@
             "fecha": "2026-03-02",
             "horario": "21:00",
             "lugar": "No especificado",
-            "quien": "CTERA y sindicatos docentes (Suteba, FEB, Udocba)",
+            "quien": "SUTEBA",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la propuesta salarial del 3% y oposición a la reforma laboral de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
+            "motivo": "Rechazo a la política educativa del gobierno de Javier Milei y consideración de insuficiente el aumento salarial provincial",
+            "fuente": "https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
         },
         {
             "es_evento_relevante": true,
@@ -6370,6 +6380,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la persecución a migrantes, el ajuste y la represión, en defensa de los derechos de los trabajadores migrantes",
             "fuente": "https://prensaobrera.com/libertades-democraticas/villa-celina-primera-asamblea-migrante-contra-los-operativos-de-la-federal-y-migraciones"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
+            "horario": "00:00",
+            "lugar": "Minneapolis (Ciudades Gemelas)",
+            "quien": "Círculo de Solidaridad de los Trabajadores, Sindicato de Trabajadores de la Comunicación de América Local 7250, Sindicato de Transporte Amalgamado Local 1005, Sindicato de Educadores de Minneapolis Local 59",
+            "tipo_medida": "Movilización con paro y boicot",
+            "motivo": "Protesta contra ICE y sus consecuencias en comunidades migrantes, con demandas de expulsión total de agentes y atención a afectados",
+            "fuente": "https://www.laizquierdadiario.com/La-Asamblea-de-Trabajadores-de-Minneapolis-es-un-ejemplo-para-organizar-la-lucha-contra-ICE"
         },
         {
             "es_evento_relevante": true,
