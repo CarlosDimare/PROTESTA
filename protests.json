@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T16:42:14.296935-03:00",
+    "last_updated": "2026-02-20T17:32:50.604607-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6374,22 +6374,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Contra reforma laboral, educativa y por recuperación de Fonid y paritaria nacional",
+            "fuente": "https://prensaobrera.com/sindicales/congreso-ctera-habra-paro-de-no-inicio-el-2-de-marzo-en-todo-el-pais, https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
             "horario": "08:00",
             "lugar": "Escuelas de la Provincia de Buenos Aires",
             "quien": "Frente de Unidad Docente Bonaerense (FUDB) - SUTEBA, FEB, UDOCBA, SADOP, AMET",
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "21:00",
-            "lugar": "No especificado",
-            "quien": "SUTEBA",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la política educativa del gobierno de Javier Milei y consideración de insuficiente el aumento salarial provincial",
-            "fuente": "https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
         },
         {
             "es_evento_relevante": true,
