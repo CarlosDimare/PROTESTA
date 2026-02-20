@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T18:27:15.482006-03:00",
+    "last_updated": "2026-02-20T19:30:06.795770-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6205,6 +6205,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-20",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Sindicatos Unidos (UOM, aceiteros, pilotos, Aeronáuticos, ATE y otros gremios de CGT y CTA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-destaco-el-impacto-del-paro-nacional-hemos-sido-consecuentes-y-responsables--202621917320, https://prensaobrera.com/politicas/diputados-aprobo-la-reforma-laboral-ante-el-rechazo-del-paro-nacional-y-los-cacerolazos, https://www.cadena3.com/noticia/noticias-rosario/sindicatos-marcharon-contra-la-reforma-laboral-hay-que-prender-fuego-el-pais_517665"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-20",
+            "horario": "10:00",
             "lugar": "Tribunales I, Córdoba",
             "quien": "Gremios cordobeses aportantes a la Caja de Jubilaciones (incluyendo AEGPJ y SIVIALCO)",
             "tipo_medida": "Paro provincial con concentración",
@@ -6220,16 +6230,6 @@
             "tipo_medida": "Piquete/Corte y Movilización",
             "motivo": "Contra el cierre de la planta en San Fernando y despidos de más de 900 trabajadores, en el marco del paro nacional contra la reforma laboral",
             "fuente": "https://www.inforegion.com.ar/2026/02/19/corte-en-panamericana-por-fate-trabajadores-protestan-tras-el-cierre-de-la-planta-en-san-fernando/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-20",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Sindicatos combativos y Frente de Izquierda Unidad",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral antiobrera y defensa de derechos laborales",
-            "fuente": "https://prensaobrera.com/politicas/diputados-aprobo-la-reforma-laboral-ante-el-rechazo-del-paro-nacional-y-los-cacerolazos"
         },
         {
             "es_evento_relevante": true,
