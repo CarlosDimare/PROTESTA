@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T15:38:55.184355-03:00",
+    "last_updated": "2026-02-21T16:32:31.308904-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6340,6 +6340,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En contra de la Reforma Laboral del Gobierno de Javier Milei",
             "fuente": "https://www.inforegion.com.ar/2026/02/19/puente-pueyrredon-tension-y-represion-con-gases-para-impedir-un-corte-en-avellaneda/, https://www.eldestapeweb.com/politica/cortes/cortan-el-puente-pueyrredon-por-el-trabajo-y-el-salario--202561012239"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-25",
+            "horario": "08:00",
+            "lugar": "Todos los aeropuertos de Argentina",
+            "quien": "Atepsa",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales e incumplimiento del CCT por falta de acuerdo con EANA",
+            "fuente": "https://www.infobae.com/sociedad/2026/02/21/controladores-aereos-realizaran-paros-la-proxima-semana-el-cronograma-con-los-vuelos-afectados-en-todo-el-pais/, https://delatribunatv.com/politica/sociedad/paro-de-atepsa-provoca-demoras-y-cancelaciones-en-todos-los-aeropuertos-del-pais/"
         },
         {
             "es_evento_relevante": true,
