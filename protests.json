@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T22:31:05.686246-03:00",
+    "last_updated": "2026-02-21T01:10:23.810774-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6370,6 +6370,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato Docente Provincial",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta paritaria insuficiente y reclamo de actualización salarial frente a inflación y pérdida acumulada del 33%",
+            "fuente": "https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
