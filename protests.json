@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T03:43:50.129578-03:00",
+    "last_updated": "2026-02-21T04:39:47.329087-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6300,6 +6300,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir continuidad laboral ante el cierre de FATE y denunciar incumplimiento de la conciliación obligatoria",
             "fuente": "https://prensaobrera.com/sindicales/fate-sigue-cerrada-con-candado-y-los-obreros-mantienen-la-permanencia-por-su-continuidad-laboral, https://www.excelsior.com.mx/comunidad/bloqueos-ecatepec-mas-25-horas-protestas-no-hay-solucion/1690493"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-22",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos y movimiento obrero",
+            "tipo_medida": "Paro General",
+            "motivo": "En contra de la Reforma Laboral aprobada que afecta indemnizaciones, condiciones de contratación y derecho a huelga",
+            "fuente": "https://elciudadanoweb.com/claudio-vidal-de-sindicalista-combativo-a-gobernador-aliado-del-gobierno/, https://www.bbc.com/mundo/articles/cgrj42e2d6po"
         },
         {
             "es_evento_relevante": true,
