@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20T20:30:54.021531-03:00",
+    "last_updated": "2026-02-20T22:31:05.686246-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6370,6 +6370,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Rechazo a políticas de ajuste, defensa de educación pública, reclamo de aumento salarial que supere la inflación, oposición a Ley de Libertad Educativa y exigencia de financiamiento educativo",
+            "fuente": "https://elciudadanoweb.com/el-congreso-nacional-de-ctera-definio-paro-nacional-docente-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
