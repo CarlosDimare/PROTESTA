@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T14:28:53.943179-03:00",
+    "last_updated": "2026-02-21T15:38:55.184355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6350,6 +6350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral",
             "fuente": "https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-28",
+            "horario": "La hora de inicio del evento de protesta es **16:00**.  \n*(Corresponde a la concentración del 12 de marzo en el anexo del Congreso, mencionada explícitamente en el texto: \"la concentración será en el anexo del Congreso a las 16\")*.",
+            "lugar": "Congreso Nacional",
+            "quien": "Movilización convocada por ATE Nacional y movimientos feministas/LGTBIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta por la ley que se tratará en el Senado y contra las políticas del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Caluroso-debate-en-los-feminismos-como-enfrentar-la-reforma-laboral-y-a-Milei-que-cada-dia-nos, https://www.eldestapeweb.com/politica/ate/ate-anuncio-un-paro-para-el-27-y-una-movilizacion-al-ministerio-de-sturzenegger-20253111966"
         },
         {
             "es_evento_relevante": true,
