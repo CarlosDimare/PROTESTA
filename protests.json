@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T17:24:19.878470-03:00",
+    "last_updated": "2026-02-21T18:24:44.710536-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6325,6 +6325,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-23",
             "horario": "00:00",
+            "lugar": "Centro de Buenos Aires",
+            "quien": "Frente de Sindicatos Unidos (FreSu) - UOM, Aceiteros, Pilotos, ATE",
+            "tipo_medida": "Paro general de 24 horas y movilización de 12 horas",
+            "motivo": "Rechazo a la reforma laboral y presión ante la votación en el Senado",
+            "fuente": "https://elciudadanoweb.com/se-viene-un-paro-de-36-horas-uom-y-otros-gremios-presionan-a-la-cgt-en-contra-de-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-23",
+            "horario": "00:00",
             "lugar": "Argentina",
             "quien": "CGT",
             "tipo_medida": "Paro",
@@ -6410,6 +6420,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "Santa Fe",
+            "quien": "SADOP (Sindicato Argentino de Docentes Particulares)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a reformas laboral y educativa del Gobierno, que precarizan condiciones laborales y mercantilizan el sistema educativo",
+            "fuente": "https://elciudadanoweb.com/sadop-adhiere-al-paro-nacional-de-2-de-marzo-y-define-si-acepta-o-no-paritaria-este-lunes/"
         },
         {
             "es_evento_relevante": true,
