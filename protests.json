@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T08:23:44.063065-03:00",
+    "last_updated": "2026-02-21T09:41:10.258762-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6390,6 +6390,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "CTERA, SUTEBA, Sadop, Udocba, AMET, FEB, UDA, CEA",
+            "tipo_medida": "Paro Nacional Docente",
+            "motivo": "Reclamos salariales, convocatoria a paritaria nacional, restitución del FONID, aumento del presupuesto educativo, rechazo a Ley de Libertad Educativa y fin de la sobrecarga laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
