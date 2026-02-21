@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-21T05:29:40.886438-03:00",
+    "last_updated": "2026-02-21T06:35:25.712780-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6330,6 +6330,16 @@
             "tipo_medida": "Paro",
             "motivo": "Debate por la reforma laboral en la Cámara de Diputados",
             "fuente": "https://www.inforegion.com.ar/2026/02/19/paro-general-dota-y-empresas-locales-mantienen-colectivos-en-lomas-y-el-conurbano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "11:00",
+            "lugar": "Puente Pueyrredón, avenida Mitre, Avellaneda",
+            "quien": "Distintas organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de la Reforma Laboral del Gobierno de Javier Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/02/19/puente-pueyrredon-tension-y-represion-con-gases-para-impedir-un-corte-en-avellaneda/, https://www.eldestapeweb.com/politica/cortes/cortan-el-puente-pueyrredon-por-el-trabajo-y-el-salario--202561012239"
         },
         {
             "es_evento_relevante": true,
