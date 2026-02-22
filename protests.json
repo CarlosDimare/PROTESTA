@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-22T14:28:53.728288-03:00",
+    "last_updated": "2026-02-22T15:35:14.822357-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6370,6 +6370,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales e incumplimiento del CCT por falta de acuerdo con EANA",
             "fuente": "https://www.infobae.com/sociedad/2026/02/21/controladores-aereos-realizaran-paros-la-proxima-semana-el-cronograma-con-los-vuelos-afectados-en-todo-el-pais/, https://delatribunatv.com/politica/sociedad/paro-de-atepsa-provoca-demoras-y-cancelaciones-en-todos-los-aeropuertos-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-25",
+            "horario": "15:00",
+            "lugar": "Recinto de la Cámara de Diputados y Diputadas de Santa Fe",
+            "quien": "Organizaciones feministas (MultiPalabras, Asamblea LesboTransFeminista, Red Mujeres para la Justicia)",
+            "tipo_medida": "Audiencia pública",
+            "motivo": "Exigir que los pliegos para integrar la Corte Suprema respeten la paridad de género según la nueva Constitución provincial",
+            "fuente": "https://elciudadanoweb.com/pliegos-de-la-corte-suprema-promover-la-paridad-no-es-sostener-la-sobrerrepresentacion-masculina/"
         },
         {
             "es_evento_relevante": true,
