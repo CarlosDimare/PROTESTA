@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-22T16:30:14.112368-03:00",
+    "last_updated": "2026-02-22T17:28:14.226587-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6300,6 +6300,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir continuidad laboral ante el cierre de FATE y denunciar incumplimiento de la conciliación obligatoria",
             "fuente": "https://prensaobrera.com/sindicales/fate-sigue-cerrada-con-candado-y-los-obreros-mantienen-la-permanencia-por-su-continuidad-laboral, https://www.excelsior.com.mx/comunidad/bloqueos-ecatepec-mas-25-horas-protestas-no-hay-solucion/1690493"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-22",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CTA (A y T), Partido Obrero, MST, Polo Obrero, MTR",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral que se debate en la Cámara de Diputados",
+            "fuente": "https://www.inforegion.com.ar/2026/02/19/seis-heridos-por-las-protestas-contra-la-reforma-laboral-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
