@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-22T18:26:39.441785-03:00",
+    "last_updated": "2026-02-22T19:27:48.027798-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6390,6 +6390,16 @@
             "tipo_medida": "Audiencia pública",
             "motivo": "Exigir que los pliegos para integrar la Corte Suprema respeten la paridad de género según la nueva Constitución provincial",
             "fuente": "https://elciudadanoweb.com/pliegos-de-la-corte-suprema-promover-la-paridad-no-es-sostener-la-sobrerrepresentacion-masculina/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "14:30",
+            "lugar": "Senado de la Nación",
+            "quien": "CGT y otros sindicatos",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la reforma laboral que traslada la justicia a CABA y modifica el régimen de jueces",
+            "fuente": "https://www.infobae.com/politica/2026/02/22/la-reforma-laboral-que-aprobara-el-senado-ordena-el-sistema-de-juicios-laborales-y-le-da-mas-poder-a-la-corte-suprema/, https://es-us.noticias.yahoo.com/senado-argentino-inicia-debate-reforma-171333605.html"
         },
         {
             "es_evento_relevante": true,
