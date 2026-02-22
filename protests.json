@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-22T08:23:02.167626-03:00",
+    "last_updated": "2026-02-22T09:44:07.234034-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6340,6 +6340,16 @@
             "tipo_medida": "Paro",
             "motivo": "Debate por la reforma laboral en la Cámara de Diputados",
             "fuente": "https://www.inforegion.com.ar/2026/02/19/paro-general-dota-y-empresas-locales-mantienen-colectivos-en-lomas-y-el-conurbano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-23",
+            "horario": "No especificado",
+            "lugar": "Córdoba capital",
+            "quien": "UEPC Capital",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la miseria salarial y políticas del gobernador Martín Llaryora",
+            "fuente": "https://prensaobrera.com/sindicales/despues-del-paro-nacional-en-cordoba-se-calienta-la-lucha-por-el-salario-y-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
