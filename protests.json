@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T08:41:25.898714-03:00",
+    "last_updated": "2026-02-23T09:58:45.479450-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6540,6 +6540,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la reforma laboral y su impacto en la feminización de la pobreza, con consigna 'trabajadoras somos todas'. También reclama por infancias vulneradas en barrios.",
             "fuente": "https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Plenario de Trabajadoras",
+            "tipo_medida": "Paro general con movilización",
+            "motivo": "Oposición a la reforma laboral esclavista y ataques del gobierno contra los trabajadores",
+            "fuente": "https://prensaobrera.com/mujer/hacia-el-8m-fuerte-apoyo-a-la-lucha-de-fate-en-la-asamblea-de-mujeres-y-diversidades"
         },
         {
             "es_evento_relevante": true,
