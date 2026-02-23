@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T18:45:12.684351-03:00",
+    "last_updated": "2026-02-23T19:43:42.940332-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6380,6 +6380,16 @@
             "tipo_medida": "Paro General con cortes y movilizaciones",
             "motivo": "Oposición a la reforma laboral y políticas económicas del gobierno de Milei",
             "fuente": "https://www.anred.org/reforma-laboral-claves-de-la-jornada-de-paro-general-lucha-y-represion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "11:00",
+            "lugar": "Corte Suprema de Justicia de la Nación",
+            "quien": "Trabajadores de la Justicia Nacional del Trabajo",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo al traspaso de competencias de la Justicia Nacional del Trabajo a la Ciudad de Buenos Aires y por estabilidad laboral",
+            "fuente": "https://prensaobrera.com/sindicales/los-judiciales-ocuparon-los-juzgados-laborales-contra-su-disolucion-por-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
