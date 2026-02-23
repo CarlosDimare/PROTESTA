@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T12:52:44.149821-03:00",
+    "last_updated": "2026-02-23T13:55:01.056639-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6385,11 +6385,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-24",
             "horario": "11:00",
+            "lugar": "No especificado",
+            "quien": "Unión de Empleados de la Justicia de la Nación",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la transferencia de competencias de la Justicia Nacional del Trabajo a la Justicia de CABA, contemplada en la Reforma Laboral",
+            "fuente": "https://www.infobae.com/judiciales/2026/02/23/en-medio-de-un-paro-judiciales-tomaron-el-edificio-del-fuero-laboral-en-rechazo-al-traspaso-a-la-ciudad-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "11:00",
             "lugar": "Puente Pueyrredón, avenida Mitre, Avellaneda",
             "quien": "Distintas organizaciones sociales",
             "tipo_medida": "Movilización",
             "motivo": "En contra de la Reforma Laboral del Gobierno de Javier Milei",
             "fuente": "https://www.inforegion.com.ar/2026/02/19/puente-pueyrredon-tension-y-represion-con-gases-para-impedir-un-corte-en-avellaneda/, https://www.eldestapeweb.com/politica/cortes/cortan-el-puente-pueyrredon-por-el-trabajo-y-el-salario--202561012239"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-25",
+            "horario": "00:00",
+            "lugar": "Plaza Congreso",
+            "quien": "CGT y Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición al proyecto de flexibilización laboral del gobierno de Milei y políticas salariales",
+            "fuente": "https://estadodealerta.com.ar/ante-la-inminente-aprobacion-de-la-reforma-laboral-las-centrales-sindicales-evaluan-profundizar-el-plan-de-lucha/, https://www.datagremial.com/informacion-general/a-pesar-de-la-amenaza-del-gobierno-de-no-pagar-los-salarios-ate-reafirma-su-pertenencia-al-fresu-y-llama-a-profundizar-el-plan-de-lucha-con-un-paro-de-36-horas-202622312210"
         },
         {
             "es_evento_relevante": true,
@@ -6410,16 +6430,6 @@
             "tipo_medida": "Audiencia pública",
             "motivo": "Exigir que los pliegos para integrar la Corte Suprema respeten la paridad de género según la nueva Constitución provincial",
             "fuente": "https://elciudadanoweb.com/pliegos-de-la-corte-suprema-promover-la-paridad-no-es-sostener-la-sobrerrepresentacion-masculina/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-02-25",
-            "horario": "No especificado",
-            "lugar": "Senado de la Nación",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Rechazo a la reforma laboral libertaria y reclamo por el pago completo de salarios, reapertura de paritarias y oposición a la gestión del Gobierno",
-            "fuente": "https://www.datagremial.com/informacion-general/a-pesar-de-la-amenaza-del-gobierno-de-no-pagar-los-salarios-ate-reafirma-su-pertenencia-al-fresu-y-llama-a-profundizar-el-plan-de-lucha-con-un-paro-de-36-horas-202622312210"
         },
         {
             "es_evento_relevante": true,
