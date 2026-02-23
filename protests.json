@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T16:10:54.228326-03:00",
+    "last_updated": "2026-02-23T17:05:57.135350-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6583,6 +6583,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "21:00",
+            "lugar": "Estadios de Primera División",
+            "quien": "Clubes de Primera División",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio a la denuncia de ARCA por presuntos delitos fiscales contra la AFA",
+            "fuente": "https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-08",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -6720,6 +6730,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al pago de salarios en dos partes y al fraccionamiento del aguinaldo",
             "fuente": "https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro con movilización nacional",
+            "motivo": "En contra de la reforma laboral y el traspaso del fuero laboral a la Ciudad de Buenos Aires",
+            "fuente": "https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
         },
         {
             "es_evento_relevante": true,
