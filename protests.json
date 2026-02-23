@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T17:05:57.135350-03:00",
+    "last_updated": "2026-02-23T17:48:27.397546-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6586,10 +6586,10 @@
             "fecha": "2026-03-05",
             "horario": "21:00",
             "lugar": "Estadios de Primera División",
-            "quien": "Clubes de Primera División",
+            "quien": "Liga Profesional de Fútbol",
             "tipo_medida": "Paro",
-            "motivo": "Repudio a la denuncia de ARCA por presuntos delitos fiscales contra la AFA",
-            "fuente": "https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+            "motivo": "Repudio a la denuncia de ARCA contra la AFA por presuntos delitos fiscales",
+            "fuente": "https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
         },
         {
             "es_evento_relevante": true,
