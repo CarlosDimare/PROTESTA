@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T15:04:19.879999-03:00",
+    "last_updated": "2026-02-23T16:10:54.228326-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6380,6 +6380,16 @@
             "tipo_medida": "Paro General con cortes y movilizaciones",
             "motivo": "Oposición a la reforma laboral y políticas económicas del gobierno de Milei",
             "fuente": "https://www.anred.org/reforma-laboral-claves-de-la-jornada-de-paro-general-lucha-y-represion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "11:00",
+            "lugar": "Palacio de Justicia",
+            "quien": "Asociación de Abogados Laboralistas (AAL)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el traspaso de la justicia nacional del trabajo y la reforma laboral impulsada por el gobierno nacional",
+            "fuente": "https://www.laizquierdadiario.com/Este-24-de-febrero-movilizan-contra-el-traspaso-de-la-Justicia-Nacional-del-Trabajo"
         },
         {
             "es_evento_relevante": true,
