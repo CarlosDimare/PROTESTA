@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T01:26:39.158949-03:00",
+    "last_updated": "2026-02-23T03:09:43.117346-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6360,6 +6360,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra la miseria salarial y políticas del gobernador Martín Llaryora",
             "fuente": "https://prensaobrera.com/sindicales/despues-del-paro-nacional-en-cordoba-se-calienta-la-lucha-por-el-salario-y-contra-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Sindicatos Unidos (FreSU) con sectores autoconvocados",
+            "tipo_medida": "Paro General con cortes y movilizaciones",
+            "motivo": "Oposición a la reforma laboral y políticas económicas del gobierno de Milei",
+            "fuente": "https://www.anred.org/reforma-laboral-claves-de-la-jornada-de-paro-general-lucha-y-represion/"
         },
         {
             "es_evento_relevante": true,
