@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T11:13:05.228124-03:00",
+    "last_updated": "2026-02-23T12:52:44.149821-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6354,6 +6354,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-23",
+            "horario": "09:00",
+            "lugar": "Justicia Nacional del Trabajo, Diagonal Roque Sáenz Peña 760, Ciudad de Buenos Aires",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro total con ocupación",
+            "motivo": "Rechazo a la reforma laboral y defensa del fuero judicial",
+            "fuente": "https://www.laizquierdadiario.com/Judiciales-ocuparon-Tribunales-del-Trabajo-y-anuncian-paro-total-en-defensa-del-fuero-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-23",
             "horario": "No especificado",
             "lugar": "Córdoba capital",
             "quien": "UEPC Capital",
@@ -6403,6 +6413,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-25",
+            "horario": "No especificado",
+            "lugar": "Senado de la Nación",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a la reforma laboral libertaria y reclamo por el pago completo de salarios, reapertura de paritarias y oposición a la gestión del Gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/a-pesar-de-la-amenaza-del-gobierno-de-no-pagar-los-salarios-ate-reafirma-su-pertenencia-al-fresu-y-llama-a-profundizar-el-plan-de-lucha-con-un-paro-de-36-horas-202622312210"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-26",
             "horario": "14:30",
             "lugar": "Senado de la Nación",
@@ -6410,6 +6430,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra la reforma laboral que traslada la justicia a CABA y modifica el régimen de jueces",
             "fuente": "https://www.infobae.com/politica/2026/02/22/la-reforma-laboral-que-aprobara-el-senado-ordena-el-sistema-de-juicios-laborales-y-le-da-mas-poder-a-la-corte-suprema/, https://es-us.noticias.yahoo.com/senado-argentino-inicia-debate-reforma-171333605.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "15:00",
+            "lugar": "Todos los aeropuertos del país",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y denuncias por incumplimiento del Convenio Colectivo de Trabajo",
+            "fuente": "https://www.datagremial.com/paritarias/sin-acuerdo-en-su-reclamo-por-mejoras-salariales-controladores-aereos-anuncian-nuevos-paros-202622312170"
         },
         {
             "es_evento_relevante": true,
