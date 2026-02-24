@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T01:23:38.672792-03:00",
+    "last_updated": "2026-02-24T03:04:41.987642-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6555,6 +6555,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "CTERA con adhesión de SUTEBA y otros gremios docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por mejora salarial y condiciones laborales en el marco de la negociación paritaria",
+            "fuente": "https://www.infobae.com/politica/2026/02/24/kicillof-apuesta-a-acordar-la-paritaria-docente-aunque-no-podra-desactivar-el-paro-en-el-inicio-de-clases/, https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
             "lugar": "Tucumán",
             "quien": "CTERA",
             "tipo_medida": "Paro",
@@ -6570,16 +6580,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a reformas laboral y educativa del Gobierno, que precarizan condiciones laborales y mercantilizan el sistema educativo",
             "fuente": "https://elciudadanoweb.com/sadop-adhiere-al-paro-nacional-de-2-de-marzo-y-define-si-acepta-o-no-paritaria-este-lunes/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "00:00",
-            "lugar": "Provincia de Buenos Aires",
-            "quien": "CTERA, SUTEBA, Sadop, Udocba, AMET, FEB, UDA, CEA",
-            "tipo_medida": "Paro Nacional Docente",
-            "motivo": "Reclamos salariales, convocatoria a paritaria nacional, restitución del FONID, aumento del presupuesto educativo, rechazo a Ley de Libertad Educativa y fin de la sobrecarga laboral",
-            "fuente": "https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
