@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T18:38:34.132889-03:00",
+    "last_updated": "2026-02-24T19:38:10.820659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6523,6 +6523,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "19:00",
+            "lugar": "Facultad de Filosofía y Letras de la UBA",
+            "quien": "Frente de Izquierda y de los Trabajadores–Unidad (FIT-U) y agrupaciones estudiantiles",
+            "tipo_medida": "Asamblea general",
+            "motivo": "Organización y resistencia contra la reforma laboral del gobierno y su impacto en estudiantes trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/Convocan-a-asamblea-para-enfrentar-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-27",
             "horario": "00:00",
             "lugar": "Congreso Nacional",
@@ -6585,6 +6595,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Profesionales Universitarios de la Sanidad (SiPrUS)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo a la propuesta paritaria del Gobierno Provincial",
+            "fuente": "https://elciudadanoweb.com/medicos-de-siprus-van-a-la-huelga-el-proximo-lunes/, https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
             "lugar": "Provincia de Buenos Aires",
             "quien": "Frente de Unidad Docente Bonaerense (FUDB) - Federación de Educadores Bonaerenses (FEB) - Suteba",
             "tipo_medida": "Paro",
@@ -6610,16 +6630,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a reformas laboral y educativa del Gobierno, que precarizan condiciones laborales y mercantilizan el sistema educativo",
             "fuente": "https://elciudadanoweb.com/sadop-adhiere-al-paro-nacional-de-2-de-marzo-y-define-si-acepta-o-no-paritaria-este-lunes/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Sindicato Docente Provincial",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a propuesta paritaria insuficiente y reclamo de actualización salarial frente a inflación y pérdida acumulada del 33%",
-            "fuente": "https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
@@ -6700,6 +6710,16 @@
             "tipo_medida": "Paro general con movilización",
             "motivo": "Oposición a la reforma laboral esclavista y ataques del gobierno contra los trabajadores",
             "fuente": "https://prensaobrera.com/mujer/hacia-el-8m-fuerte-apoyo-a-la-lucha-de-fate-en-la-asamblea-de-mujeres-y-diversidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "14:30",
+            "lugar": "Bahía Blanca",
+            "quien": "Colectivos feministas y sindicales de Bahía Blanca (SUTEBA, ADUNS, UMSUR, Campaña por el derecho al aborto, Socorristas en red, entre otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a la reforma laboral impulsada por el gobierno, defensa de derechos de mujeres trabajadoras y consigna 'Abajo la reforma laboral, nuestras vidas valen más'",
+            "fuente": "https://www.laizquierdadiario.com/Nuestras-vidas-valen-mas-en-Bahia-Blanca-la-asamblea-feminista-voto-movilizar-el-9M, https://wips.digital/2025/12/16/interes-general/docentes-bahienses-haran-el-jueves-una-nueva-jornada-de-protesta/"
         },
         {
             "es_evento_relevante": true,
