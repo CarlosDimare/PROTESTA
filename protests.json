@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T16:58:39.844396-03:00",
+    "last_updated": "2026-02-24T17:38:58.210241-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6453,6 +6453,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "19:30",
+            "lugar": "Plaza Manuel Belgrano, La Unión, partido de Ezeiza",
+            "quien": "Familia de Malena Maidana y vecinos",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de justicia por femicidio y medidas de seguridad",
+            "fuente": "https://www.inforegion.com.ar/2026/02/24/marcha-del-silencio-por-malena-en-ezeiza-vecinos-convocan-a-un-reclamo-de-justicia-y-seguridad/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-25",
             "horario": "00:00",
             "lugar": "Plaza Congreso",
@@ -6576,10 +6586,10 @@
             "fecha": "2026-03-02",
             "horario": "00:00",
             "lugar": "Provincia de Buenos Aires",
-            "quien": "CTERA con adhesión de SUTEBA y otros gremios docentes",
+            "quien": "Frente de Unidad Docente Bonaerense (FUDB) - Federación de Educadores Bonaerenses (FEB) - Suteba",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por mejora salarial y condiciones laborales en el marco de la negociación paritaria",
-            "fuente": "https://www.infobae.com/politica/2026/02/24/kicillof-apuesta-a-acordar-la-paritaria-docente-aunque-no-podra-desactivar-el-paro-en-el-inicio-de-clases/, https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
+            "motivo": "Rechazo a la oferta salarial del 3% y reclamo por recortes presupuestarios nacionales que impactan en la negociación paritaria",
+            "fuente": "https://www.infobae.com/politica/2026/02/24/con-las-paritarias-trabadas-el-gobierno-de-kicillof-tenso-con-la-nacion-y-recordo-que-le-debe-222-billones/, https://www.infobae.com/politica/2026/02/24/kicillof-apuesta-a-acordar-la-paritaria-docente-aunque-no-podra-desactivar-el-paro-en-el-inicio-de-clases/, https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
