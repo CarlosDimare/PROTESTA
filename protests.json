@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T11:18:11.835328-03:00",
+    "last_updated": "2026-02-24T13:08:08.681549-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6433,6 +6433,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "11:30",
+            "lugar": "Palacio de Tribunales (calle Talcahuano)",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al traspaso de competencias judiciales laborales a la Ciudad de Buenos Aires y oposición a la reforma laboral del gobierno",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-se-suma-al-reclamo-de-los-judiciales-y-moviliza-este-martes-contra-el-traspaso-a-caba-del-fuero-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-25",
             "horario": "00:00",
             "lugar": "Plaza Congreso",
@@ -6620,6 +6630,16 @@
             "tipo_medida": "Paro",
             "motivo": "Repudio a la denuncia de ARCA contra la AFA por presuntos delitos fiscales",
             "fuente": "https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "No especificado",
+            "lugar": "Sede de la Liga Profesional (Puerto Madero) y estadios de Primera División",
+            "quien": "Clubes de Primera División de la AFA",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra investigaciones judiciales a dirigentes de la AFA (Tapia y Toviggino) por presunto desvío de fondos",
+            "fuente": "https://www.infobae.com/deportes/2026/02/24/el-argumento-de-los-dirigentes-que-impulsan-el-paro-del-futbol-y-quienes-se-ausentaron-a-la-reunion-en-afa/"
         },
         {
             "es_evento_relevante": true,
