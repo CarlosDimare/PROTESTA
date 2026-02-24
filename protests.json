@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T22:37:02.806506-03:00",
+    "last_updated": "2026-02-24T01:23:38.672792-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6464,6 +6464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-26",
+            "horario": "00:00",
+            "lugar": "Nacional",
+            "quien": "Frente de Sindicatos Unidos (Fresu)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la reforma laboral y al traspaso de votos en el Senado",
+            "fuente": "https://www.infobae.com/politica/2026/02/24/reforma-laboral-el-sector-duro-lanzo-un-paro-de-36-horas-pero-en-la-cgt-creen-que-no-hay-clima-para-otra-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
             "horario": "14:30",
             "lugar": "Senado de la Nación",
             "quien": "CGT y otros sindicatos",
@@ -6610,6 +6620,16 @@
             "tipo_medida": "Paro",
             "motivo": "Repudio a la denuncia de ARCA contra la AFA por presuntos delitos fiscales",
             "fuente": "https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Comité Ejecutivo de la AFA y clubes adheridos",
+            "tipo_medida": "Lock out",
+            "motivo": "Repudio a la denuncia fiscal de ARCA contra Tapia y Toviggino, considerada como persecución política",
+            "fuente": "https://www.laizquierdadiario.com/Se-suspende-la-fecha-9-de-la-Liga-es-un-paro-la-medida-de-AFA"
         },
         {
             "es_evento_relevante": true,
