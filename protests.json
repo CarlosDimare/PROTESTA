@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T15:06:37.226993-03:00",
+    "last_updated": "2026-02-24T16:09:22.075061-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6630,6 +6630,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "00:00",
+            "lugar": "Estadios de fútbol de Argentina",
+            "quien": "Comité Ejecutivo de la Liga Profesional de Fútbol (30 clubes) con adhesión de UADA y AAA",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra investigación judicial por presunto desvío de 19.300 millones de pesos en aportes de clubes (2024-2025)",
+            "fuente": "https://www.infobae.com/deportes/2026/02/24/los-arbitros-del-futbol-argentino-anunciaron-que-se-uniran-al-paro-en-apoyo-a-chiqui-tapia-y-pablo-toviggino/"
         },
         {
             "es_evento_relevante": true,
