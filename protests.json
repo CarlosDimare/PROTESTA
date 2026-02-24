@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T19:38:10.820659-03:00",
+    "last_updated": "2026-02-24T20:35:44.449606-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6463,6 +6463,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-02-24",
+            "horario": "No especificado",
+            "lugar": "Entidades del fútbol argentino",
+            "quien": "Sectores del fútbol argentino",
+            "tipo_medida": "Paro",
+            "motivo": "Apoyo a la conducción de la AFA frente a la causa judicial por presuntas irregularidades fiscales",
+            "fuente": "https://www.inforegion.com.ar/2026/02/24/patricia-bullrich-califico-como-ridiculo-el-paro-en-el-futbol-argentino/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-02-25",
             "horario": "00:00",
             "lugar": "Plaza Congreso",
@@ -6575,6 +6585,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-01",
             "horario": "10:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Movimiento obrero y sindicatos",
+            "tipo_medida": "Protesta frente al Senado",
+            "motivo": "Rechazo a la Reforma Laboral en sesión final",
+            "fuente": "https://www.anred.org/con-los-dirigentes-a-la-cabeza-o-sin-ellos-hubo-mas-de-50-marchas-30-piquetes-y-movilizaciones-en-todo-el-pais-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-01",
+            "horario": "10:00",
             "lugar": "Congreso de la Nación",
             "quien": "APJ Gas y organizaciones sindicales del sector gas natural",
             "tipo_medida": "Marcha",
@@ -6650,6 +6670,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "No especificado",
+            "lugar": "Nación",
+            "quien": "CTERA y sindicatos de la CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Apertura de paritaria nacional, aumento salarial y restitución del FONID",
+            "fuente": "https://www.infobae.com/politica/2026/02/24/mercedes-miguel-ministra-de-educacion-de-caba-los-tres-anos-pudimos-iniciar-las-clases-en-tiempo-y-forma-sin-paros/"
         },
         {
             "es_evento_relevante": true,
