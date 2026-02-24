@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-23T20:38:13.177417-03:00",
+    "last_updated": "2026-02-23T22:37:02.806506-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6335,6 +6335,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-23",
             "horario": "00:00",
+            "lugar": "Todo el territorio nacional",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo al proyecto de reforma laboral del Gobierno que busca debilitar la negociación colectiva, restringir el derecho a huelga, reducir protecciones contra despidos y desregular condiciones laborales",
+            "fuente": "https://estadodealerta.com.ar/la-itf-apoyo-el-paro-general-de-la-cgt-y-expreso-el-rol-estrategico-de-los-sindicatos-del-transporte/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-23",
+            "horario": "00:00",
             "lugar": "Centro de Buenos Aires",
             "quien": "Frente de Sindicatos Unidos (FreSu) - UOM, Aceiteros, Pilotos, ATE",
             "tipo_medida": "Paro general de 24 horas y movilización de 12 horas",
@@ -6376,10 +6386,10 @@
             "fecha": "2026-02-24",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Sindicatos Unidos (FreSU) con sectores autoconvocados",
-            "tipo_medida": "Paro General con cortes y movilizaciones",
-            "motivo": "Oposición a la reforma laboral y políticas económicas del gobierno de Milei",
-            "fuente": "https://www.anred.org/reforma-laboral-claves-de-la-jornada-de-paro-general-lucha-y-represion/"
+            "quien": "Agrupación Bordó / STIA Georgalos",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra suspensiones ilegales en Georgalos y en rechazo a la reforma laboral esclavista del gobierno Milei",
+            "fuente": "https://www.laizquierdadiario.com/Despues-del-paro-masivo-Georgalos-suspende-trabajadores, https://www.anred.org/reforma-laboral-claves-de-la-jornada-de-paro-general-lucha-y-represion/"
         },
         {
             "es_evento_relevante": true,
