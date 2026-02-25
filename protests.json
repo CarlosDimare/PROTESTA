@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T14:10:41.112151-03:00",
+    "last_updated": "2026-02-25T16:02:45.402160-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6530,6 +6530,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y al traspaso de votos en el Senado",
             "fuente": "https://www.infobae.com/politica/2026/02/24/reforma-laboral-el-sector-duro-lanzo-un-paro-de-36-horas-pero-en-la-cgt-creen-que-no-hay-clima-para-otra-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Sindicatos (Sutna, AGD-UBA, Ademys, ATE Garrahan, Unión Ferroviaria) y organizaciones políticas (Polo Obrero, Frente de Izquierda)",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo a trabajadores de FATE, defensa de puestos de trabajo y oposición a la reforma laboral del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/sindicales/el-sindicalismo-combativo-convoca-acciones-en-todo-el-pais-en-apoyo-a-fate-y-el-viernes-al-congreso-contra-la-reforma-esclavista"
         },
         {
             "es_evento_relevante": true,
