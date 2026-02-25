@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T06:55:39.259557-03:00",
+    "last_updated": "2026-02-25T07:53:53.033369-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6500,6 +6500,16 @@
             "tipo_medida": "Audiencia pública",
             "motivo": "Exigir que los pliegos para integrar la Corte Suprema respeten la paridad de género según la nueva Constitución provincial",
             "fuente": "https://elciudadanoweb.com/pliegos-de-la-corte-suprema-promover-la-paridad-no-es-sostener-la-sobrerrepresentacion-masculina/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-25",
+            "horario": "No especificado",
+            "lugar": "Lanús",
+            "quien": "Asamblea de Lanús",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la libertad de Milton Tolomeo y denunciar la criminalización de la protesta social",
+            "fuente": "https://www.anred.org/desde-la-asamblea-barrial-de-lanus-piden-por-la-libertad-de-milton-acusado-de-terrorista-por-el-gobierno-y-los-medios-hegemonicos/"
         },
         {
             "es_evento_relevante": true,
