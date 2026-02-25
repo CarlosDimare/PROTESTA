@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T19:32:48.605612-03:00",
+    "last_updated": "2026-02-25T20:30:18.597269-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6750,6 +6750,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "No especificado",
+            "lugar": "Todo el territorio nacional",
+            "quien": "UDA, CEA y CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a recortes presupuestarios, reclamo de paritarias salariales, aumento del presupuesto educativo, restitución del FONID, y oposición a proyectos de Ley de Libertad Educativa y reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/02/25/los-gremios-docentes-de-la-cgt-se-suman-al-paro-nacional-del-2-de-marzo-y-se-complica-el-inicio-de-clases/"
         },
         {
             "es_evento_relevante": true,
