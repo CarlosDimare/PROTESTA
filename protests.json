@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T05:04:07.746131-03:00",
+    "last_updated": "2026-02-25T05:51:49.276509-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6580,6 +6580,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei",
             "fuente": "https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-28",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "ATE y organizaciones de barrios populares",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de puestos de trabajo y mantenimiento de la Secretaría de Integración Socio Urbana ante el vencimiento de contratos y amenaza de despidos",
+            "fuente": "https://www.laizquierdadiario.com/Movilizacion-en-defensa-de-los-puestos-de-trabajo-y-de-la-Secretaria-de-Integracion-Socio-Urbana"
         },
         {
             "es_evento_relevante": true,
