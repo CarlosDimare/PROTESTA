@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T17:38:06.751457-03:00",
+    "last_updated": "2026-02-25T18:40:12.562227-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6640,6 +6640,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta por la ley que se tratará en el Senado y contra las políticas del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Caluroso-debate-en-los-feminismos-como-enfrentar-la-reforma-laboral-y-a-Milei-que-cada-dia-nos, https://www.eldestapeweb.com/politica/ate/ate-anuncio-un-paro-para-el-27-y-una-movilizacion-al-ministerio-de-sturzenegger-20253111966"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-29",
+            "horario": "10:00",
+            "lugar": "Palacio de Tribunales",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Acompañar la impugnación judicial contra la reforma laboral del Gobierno de Milei",
+            "fuente": "https://www.infobae.com/politica/2026/02/25/la-cgt-descarto-un-paro-o-movilizacion-contra-la-reforma-laboral-el-viernes-solo-marchara-a-tribunales-el-lunes-para-impugnarla/"
         },
         {
             "es_evento_relevante": true,
