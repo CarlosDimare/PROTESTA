@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T07:53:53.033369-03:00",
+    "last_updated": "2026-02-25T08:42:41.327225-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6600,6 +6600,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de puestos de trabajo y mantenimiento de la Secretaría de Integración Socio Urbana ante el vencimiento de contratos y amenaza de despidos",
             "fuente": "https://www.laizquierdadiario.com/Movilizacion-en-defensa-de-los-puestos-de-trabajo-y-de-la-Secretaria-de-Integracion-Socio-Urbana"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-28",
+            "horario": "12:00",
+            "lugar": "Senado de la Nación",
+            "quien": "Frente de Sindicatos Unidos (FreSU) y ATE",
+            "tipo_medida": "Movilización y Paro nacional",
+            "motivo": "Rechazo a la reforma laboral",
+            "fuente": "https://www.inforegion.com.ar/2026/02/25/se-reune-la-mesa-chica-de-la-cgt-se-viene-otro-paro/"
         },
         {
             "es_evento_relevante": true,
