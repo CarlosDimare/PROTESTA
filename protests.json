@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T11:16:26.017299-03:00",
+    "last_updated": "2026-02-25T13:03:53.805571-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6544,6 +6544,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-26",
+            "horario": "13:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "APyT y ATE Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "Protestar contra la persecución gremial y exigir la anulación definitiva de los sumarios administrativos, en defensa de la libertad sindical y los derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/triunfo-gremial-en-el-garrahan-la-justicia-da-marcha-atras-con-los-sumarios-persecutorios-20262251220"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
             "horario": "14:30",
             "lugar": "Senado de la Nación",
             "quien": "CGT y otros sindicatos",
@@ -6676,10 +6686,10 @@
             "fecha": "2026-03-02",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Sindicato de Profesionales Universitarios de la Sanidad (SiPrUS)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Rechazo a la propuesta paritaria del Gobierno Provincial",
-            "fuente": "https://elciudadanoweb.com/medicos-de-siprus-van-a-la-huelga-el-proximo-lunes/, https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
+            "quien": "Suteba Tigre",
+            "tipo_medida": "Paro",
+            "motivo": "Contra reformas educativas y laborales, exigencia de salario de $1.360.000 por cargo, rechazo a cierres de secciones y creación de cargos faltantes",
+            "fuente": "https://prensaobrera.com/sindicales/masiva-movilizacion-docente-contra-los-cierres-de-cursos-en-primaria-secundaria-e-inicial, https://elciudadanoweb.com/medicos-de-siprus-van-a-la-huelga-el-proximo-lunes/, https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
