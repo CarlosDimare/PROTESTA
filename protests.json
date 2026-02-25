@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-24T20:35:44.449606-03:00",
+    "last_updated": "2026-02-24T22:40:03.207253-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6510,6 +6510,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y al traspaso de votos en el Senado",
             "fuente": "https://www.infobae.com/politica/2026/02/24/reforma-laboral-el-sector-duro-lanzo-un-paro-de-36-horas-pero-en-la-cgt-creen-que-no-hay-clima-para-otra-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "12:00",
+            "lugar": "Avenida de Mayo y Bernardo de Irigoyen, Plaza del Congreso",
+            "quien": "FreSU (UOM y ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y exigencia de respuesta directa de los trabajadores ante la inacción de la CGT",
+            "fuente": "https://motoreconomico.com.ar/aunque-la-cgt-no-convoco-mas-de-cien-gremios-marcharan-al-congreso-cuando-se-vote-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
