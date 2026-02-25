@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T13:03:53.805571-03:00",
+    "last_updated": "2026-02-25T14:10:41.112151-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6685,11 +6685,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Suteba Tigre",
+            "lugar": "Argentina",
+            "quien": "Confederación de Trabajadores de la Educación de la República Argentina (CTERA)",
             "tipo_medida": "Paro",
-            "motivo": "Contra reformas educativas y laborales, exigencia de salario de $1.360.000 por cargo, rechazo a cierres de secciones y creación de cargos faltantes",
-            "fuente": "https://prensaobrera.com/sindicales/masiva-movilizacion-docente-contra-los-cierres-de-cursos-en-primaria-secundaria-e-inicial, https://elciudadanoweb.com/medicos-de-siprus-van-a-la-huelga-el-proximo-lunes/, https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/"
+            "motivo": "Reclamos salariales y condiciones laborales docentes, incluyendo paritarias, ley de financiamiento educativo, restitución del FONID, aumento del presupuesto educativo y rechazo a proyectos laborales y educativos del Gobierno",
+            "fuente": "https://estadodealerta.com.ar/se-complica-el-inicio-de-clases-con-un-paro-nacional-de-ctera-por-reclamos-salariales-y-financiamiento-educativo/, https://prensaobrera.com/sindicales/masiva-movilizacion-docente-contra-los-cierres-de-cursos-en-primaria-secundaria-e-inicial, https://elciudadanoweb.com/medicos-de-siprus-van-a-la-huelga-el-proximo-lunes/, https://elciudadanoweb.com/amsafe-rechazo-la-paritaria-propuesta-por-la-provincia-y-adelanto-un-paro-para-el-2-de-marzo/, https://elciudadanoweb.com/el-congreso-nacional-de-ctera-definio-paro-nacional-docente-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
@@ -6720,16 +6720,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a reformas laboral y educativa del Gobierno, que precarizan condiciones laborales y mercantilizan el sistema educativo",
             "fuente": "https://elciudadanoweb.com/sadop-adhiere-al-paro-nacional-de-2-de-marzo-y-define-si-acepta-o-no-paritaria-este-lunes/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "00:00",
-            "lugar": "Argentina",
-            "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Rechazo a políticas de ajuste, defensa de educación pública, reclamo de aumento salarial que supere la inflación, oposición a Ley de Libertad Educativa y exigencia de financiamiento educativo",
-            "fuente": "https://elciudadanoweb.com/el-congreso-nacional-de-ctera-definio-paro-nacional-docente-el-2-de-marzo/"
         },
         {
             "es_evento_relevante": true,
