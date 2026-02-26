@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T18:34:01.785981-03:00",
+    "last_updated": "2026-02-26T19:33:31.988218-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6760,6 +6760,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "Provincia de Córdoba",
+            "quien": "Uepc-Capital",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial del gobierno provincial, reclamo de recuperación salarial y condiciones laborales",
+            "fuente": "https://prensaobrera.com/sindicales/paritaria-docente-en-cordoba-uepc-capital-rechazo-ajuste-salarial-de-llaryora"
         },
         {
             "es_evento_relevante": true,
