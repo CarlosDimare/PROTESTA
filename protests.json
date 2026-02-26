@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T20:30:18.597269-03:00",
+    "last_updated": "2026-02-25T22:38:24.503067-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6534,6 +6534,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-26",
+            "horario": "09:00",
+            "lugar": "Fábrica NEBA, Catamarca",
+            "quien": "Unión Obrera Metalúrgica (UOM) Catamarca",
+            "tipo_medida": "Acampe",
+            "motivo": "Cierre de fábrica y despidos, rechazo a política industrial y apertura de importaciones",
+            "fuente": "https://motoreconomico.com.ar/la-politica-del-gobierno-se-lleva-puesta-la-industriay-mascerro-la-fabrica-de-heladeras-neba-en-catamarca-y-56-operarios-ocupan-la-planta-en-asamblea/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "12:00",
+            "lugar": "Plaza de los dos Congresos (Congreso Nacional)",
+            "quien": "Sindicalismo combativo, jubilados, organizaciones feministas, estudiantes y la Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral 'esclavista' de Milei, solidaridad con trabajadores de FATE y oposición a despidos/ajustes",
+            "fuente": "https://www.laizquierdadiario.com/Concentracion-en-el-Obelisco-contra-la-reforma-laboral-y-en-apoyo-a-la-permanencia-en-FATE"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
             "horario": "12:00",
             "lugar": "Congreso Nacional",
             "quien": "Sindicatos (Sutna, AGD-UBA, Ademys, ATE Garrahan, Unión Ferroviaria) y organizaciones políticas (Polo Obrero, Frente de Izquierda)",
@@ -6604,12 +6624,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
-            "horario": "12:00",
-            "lugar": "Plaza del Congreso, Ciudad Autónoma de Buenos Aires",
-            "quien": "UTEP, CGT, ATE, Polo Obrero y Frente Unidad Sindical",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral impulsada por el gobierno de Javier Milei",
-            "fuente": "https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
+            "horario": "11:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Frente de Sindicatos Unidos (Fresu)",
+            "tipo_medida": "Paro con Concentración",
+            "motivo": "Rechazo a la reforma laboral del gobierno de Javier Milei",
+            "fuente": "https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -6700,6 +6720,16 @@
             "tipo_medida": "Huelga seca",
             "motivo": "Exigencia de inicio de su juicio y fin de la persecución judicial/policial",
             "fuente": "https://www.anred.org/pablo-colhuan-desde-rawson-si-en-marzo-no-comienza-mi-juicio-ire-a-una-huelga-seca/, https://www.publimetro.com.mx/jalisco/2024/12/05/cuando-y-donde-observar-la-toma-de-protesta-de-pablo-lemus-como-gobernador-constitucional-de-jalisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
+            "lugar": "Provincia de Santa Fe",
+            "quien": "CTERA con adhesión de Amsafé y Sadop",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial oficial por ser insuficiente frente a la inflación, reclamo por actualización real de salarios, concursos, traslados y crítica al premio por asistencia perfecta",
+            "fuente": "https://elciudadanoweb.com/reclamo-de-docentes-de-amsafe-y-sadop-en-el-centro-de-rosario-exigen-mejores-salarios/"
         },
         {
             "es_evento_relevante": true,
