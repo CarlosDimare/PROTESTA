@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T11:14:48.364812-03:00",
+    "last_updated": "2026-02-26T12:56:27.656135-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6596,10 +6596,10 @@
             "fecha": "2026-02-26",
             "horario": "15:00",
             "lugar": "Aeropuertos de todo el país",
-            "quien": "Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación (ATEPSA)",
+            "quien": "ATEPSA (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y denuncias por incumplimiento del Convenio Colectivo de Trabajo, tras el vencimiento de la conciliación obligatoria",
-            "fuente": "https://www.infobae.com/economia/2026/02/26/hoy-comienzan-los-paros-de-controladores-aereos-en-todo-el-pais-a-que-vuelos-afecta-y-cuando-terminaran/, https://www.datagremial.com/paritarias/sin-acuerdo-en-su-reclamo-por-mejoras-salariales-controladores-aereos-anuncian-nuevos-paros-202622312170"
+            "motivo": "Reclamo salarial por falta de acuerdo con la Empresa Argentina de Navegación Aérea (EANA)",
+            "fuente": "https://estadodealerta.com.ar/controladores-aereos-suman-tension-gremial-con-paros-escalonados-entre-este-jueves-y-el-lunes-2-de-marzo/, https://www.infobae.com/economia/2026/02/26/hoy-comienzan-los-paros-de-controladores-aereos-en-todo-el-pais-a-que-vuelos-afecta-y-cuando-terminaran/, https://www.datagremial.com/paritarias/sin-acuerdo-en-su-reclamo-por-mejoras-salariales-controladores-aereos-anuncian-nuevos-paros-202622312170"
         },
         {
             "es_evento_relevante": true,
