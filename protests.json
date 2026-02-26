@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T08:46:49.595694-03:00",
+    "last_updated": "2026-02-26T10:03:55.676908-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6616,10 +6616,20 @@
             "fecha": "2026-02-27",
             "horario": "00:00",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Sindicatos Unidos (Fresu) - UOM, Aceiteros, ATE, Pilotos, Viales, SOMU, CTA, La Fraternidad",
+            "quien": "Estudiantes de la Facultad de Filosofía y Letras UBA y agrupaciones de izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral del gobierno de Milei, en solidaridad con trabajadores de FATE y Garrahan, y contra el ajuste y precarización",
+            "fuente": "https://www.laizquierdadiario.com/Resuelven-movilizar-contra-la-reforma-laboral-y-en-solidaridad-con-FATE-y-el-Garrahan, https://www.infobae.com/politica/2026/02/25/cuales-son-las-tres-alternativas-que-dividen-a-la-cgt-para-seguir-la-ofensiva-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-27",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional, Avenida de Mayo y Salta, Ciudad Autónoma de Buenos Aires",
+            "quien": "Frente de Sindicatos Unidos (FreSU), con adhesión de ATE, UOM, CTA, F.T.C.I.O.D y A.R.A. y movimientos sociales",
             "tipo_medida": "Paro con movilización",
-            "motivo": "Contra la reforma laboral y en respaldo a la convocatoria de la CGT",
-            "fuente": "https://www.infobae.com/politica/2026/02/25/cuales-son-las-tres-alternativas-que-dividen-a-la-cgt-para-seguir-la-ofensiva-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
+            "motivo": "En contra de la reforma laboral impulsada por el gobierno de Javier Milei, por la defensa de derechos laborales y exigencia de aumentos salariales inmediatos",
+            "fuente": "https://www.infobae.com/politica/2026/02/26/que-sindicatos-y-gremios-van-a-hacer-paro-este-viernes-27-contra-la-reforma-laboral-y-cuales-movilizaran-a-congreso/"
         },
         {
             "es_evento_relevante": true,
