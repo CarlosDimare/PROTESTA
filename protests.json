@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T17:36:46.783407-03:00",
+    "last_updated": "2026-02-26T18:34:01.785981-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6656,10 +6656,10 @@
             "fecha": "2026-02-27",
             "horario": "11:00",
             "lugar": "Plaza San Martín, Rosario",
-            "quien": "Frente de Sindicatos Unidos (Fresu)",
-            "tipo_medida": "Paro con Concentración",
-            "motivo": "Rechazo a la reforma laboral del gobierno de Javier Milei",
-            "fuente": "https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
+            "quien": "Asociación Trabajadores del Estado (ATE), Coad, Unión Obrera Metalúrgica (UOM), Sindicato de Aceiteros y organizaciones sociales",
+            "tipo_medida": "Paro y Concentración",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://elciudadanoweb.com/ate-rosario-convoca-a-un-cese-de-actividades-y-a-una-marcha-en-rechazo-a-la-reforma-laboral/, https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -6810,6 +6810,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a reformas laboral y educativa del Gobierno, que precarizan condiciones laborales y mercantilizan el sistema educativo",
             "fuente": "https://elciudadanoweb.com/sadop-adhiere-al-paro-nacional-de-2-de-marzo-y-define-si-acepta-o-no-paritaria-este-lunes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "08:00",
+            "lugar": "Santa Fe (Capital Provincial)",
+            "quien": "Asociación del Magisterio de Santa Fe (Amsafe)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del gobierno provincial",
+            "fuente": "https://elciudadanoweb.com/la-provincia-descontara-el-dia-a-los-docentes-que-adhieran-al-paro-del-lunes-2/, https://radioamanecer.com.ar/jornada-de-protesta-docente-se-realizara-este-miercoles-en-toda-la-provincia-de-santa-fe/"
         },
         {
             "es_evento_relevante": true,
