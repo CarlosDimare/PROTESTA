@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T15:04:01.665051-03:00",
+    "last_updated": "2026-02-26T15:50:22.028267-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6534,6 +6534,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-26",
+            "horario": "08:00",
+            "lugar": "La Plata, Buenos Aires",
+            "quien": "Docentes Multicolor (oposición a Baradel)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra políticas de Milei (reforma laboral y ataque a educación), salarios insuficientes de Kicillof, cierres de fábricas y falta de respuesta de Suteba",
+            "fuente": "https://www.laizquierdadiario.com/Paro-docente-el-2-y-3-de-marzo-contra-el-ajuste-de-Milei-y-la-miseria-salarial-de-Kicillof"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
             "horario": "09:00",
             "lugar": "Fábrica NEBA, Catamarca",
             "quien": "Unión Obrera Metalúrgica (UOM) Catamarca",
@@ -6615,11 +6625,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
             "horario": "00:00",
-            "lugar": "Sedes universitarias y plazas del país",
-            "quien": "Federación Argentina del Trabajador de Universidades Nacionales (FATUN)",
+            "lugar": "Sedes universitarias y plazas principales del país",
+            "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a reforma laboral que afecta derechos laborales",
-            "fuente": "https://www.inforegion.com.ar/2026/02/26/fatun-confirmo-que-manana-realizaran-un-paro-de-24-horas-con-movilizacion-en-todo-el-pais/"
+            "motivo": "Oposición a la reforma laboral que se tratará en el Senado, considerada un retroceso en derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/los-nodocentes-van-al-paro-para-intentar-detener-la-reforma-laboral-los-derechos-se-defienden--202622615390, https://www.inforegion.com.ar/2026/02/26/fatun-confirmo-que-manana-realizaran-un-paro-de-24-horas-con-movilizacion-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
