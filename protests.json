@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T12:56:27.656135-03:00",
+    "last_updated": "2026-02-26T14:01:35.812695-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6615,6 +6615,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
             "horario": "00:00",
+            "lugar": "Sedes universitarias y plazas del país",
+            "quien": "Federación Argentina del Trabajador de Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a reforma laboral que afecta derechos laborales",
+            "fuente": "https://www.inforegion.com.ar/2026/02/26/fatun-confirmo-que-manana-realizaran-un-paro-de-24-horas-con-movilizacion-en-todo-el-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-27",
+            "horario": "00:00",
             "lugar": "Congreso Nacional",
             "quien": "Estudiantes y agrupaciones de izquierda de la Facultad de Filosofía y Letras UBA",
             "tipo_medida": "Movilización",
@@ -6660,6 +6670,16 @@
             "tipo_medida": "Movilización y Paro nacional",
             "motivo": "Rechazo a la reforma laboral",
             "fuente": "https://www.inforegion.com.ar/2026/02/25/se-reune-la-mesa-chica-de-la-cgt-se-viene-otro-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-28",
+            "horario": "15:00",
+            "lugar": "Aeropuertos de todo el país",
+            "quien": "Atepsa",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por falta de acuerdo con EANA; medidas de fuerza vigentes del 28 de febrero al 2 de marzo",
+            "fuente": "https://www.infobae.com/economia/2026/02/26/los-controladores-aereos-levantaron-el-paro-para-hoy-y-manana-pero-sostienen-las-medidas-para-los-dias-siguientes/, https://www.cadena3.com/noticia/sociedad/paro-de-controladores-aereos-dias-y-horarios-de-las-protestas_523543"
         },
         {
             "es_evento_relevante": true,
