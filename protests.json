@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T19:33:31.988218-03:00",
+    "last_updated": "2026-02-26T20:30:44.241686-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6620,6 +6620,16 @@
             "tipo_medida": "Asamblea general",
             "motivo": "Organización y resistencia contra la reforma laboral del gobierno y su impacto en estudiantes trabajadores",
             "fuente": "https://www.laizquierdadiario.com/Convocan-a-asamblea-para-enfrentar-la-reforma-laboral"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "No especificado",
+            "lugar": "Plaza San Martín, frente a la sede de Gobernación (Santa Fe)",
+            "quien": "Corriente Clasista y Combativa (CCC)",
+            "tipo_medida": "Acampe con ollas populares",
+            "motivo": "Reclamo por continuidad de los planes Volver al Trabajo, ayuda alimentaria para comedores barriales y asistencia para compra de útiles escolares, además de rechazo a la reforma antilaboral en el Congreso",
+            "fuente": "https://elciudadanoweb.com/la-ccc-inicio-un-acampe-en-plaza-san-martin-en-reclamo-de-ayuda-escolar-y-continuidad-de-planes-volver-al-trabajo/"
         },
         {
             "es_evento_relevante": true,
