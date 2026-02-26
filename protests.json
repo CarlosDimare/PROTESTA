@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-25T22:38:24.503067-03:00",
+    "last_updated": "2026-02-26T01:22:16.785376-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6785,6 +6785,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicatos docentes de CTERA y CGT (incluyendo UDA, CEA, FUDB)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y aumento del presupuesto educativo",
+            "fuente": "https://www.infobae.com/politica/2026/02/26/tras-el-anuncio-del-paro-docente-el-gobierno-convoco-a-los-gremios-para-tratar-la-cuestion-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "No especificado",
             "lugar": "Todo el territorio nacional",
             "quien": "UDA, CEA y CTERA",
             "tipo_medida": "Paro",
@@ -6870,6 +6880,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Oposición a la reforma laboral impulsada por el gobierno, defensa de derechos de mujeres trabajadoras y consigna 'Abajo la reforma laboral, nuestras vidas valen más'",
             "fuente": "https://www.laizquierdadiario.com/Nuestras-vidas-valen-mas-en-Bahia-Blanca-la-asamblea-feminista-voto-movilizar-el-9M, https://wips.digital/2025/12/16/interes-general/docentes-bahienses-haran-el-jueves-una-nueva-jornada-de-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional a Plaza de Mayo",
+            "quien": "Movimiento feminista",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra femicidios, violencia machista, despidos, ataques a trabajos feminizados y sobrecarga de tareas de cuidado",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Malena-en-Ezeiza-marcharon-contra-el-femicidio-de-una-joven, https://es-us.noticias.yahoo.com/niunamenos-actos-frente-congreso-reclamar-223543497.html"
         },
         {
             "es_evento_relevante": true,
