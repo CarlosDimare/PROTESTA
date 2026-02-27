@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T07:38:08.467851-03:00",
+    "last_updated": "2026-02-27T08:36:17.200893-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6664,6 +6664,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
+            "horario": "07:00",
+            "lugar": "Obelisco (con movilización hacia Congreso Nacional)",
+            "quien": "Sindicatos combativos, izquierda y FreSU",
+            "tipo_medida": "Marcha y corte",
+            "motivo": "Contra la reforma laboral de Milei y apoyo a la lucha de los obreros de Fate",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-hay-resistencia-y-el-operativo-policial-no-logra-desalojar-protesta-por-reforma-laboral-y"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-27",
             "horario": "10:00",
             "lugar": "Congreso Nacional, Avenida de Mayo y Salta, Ciudad Autónoma de Buenos Aires",
             "quien": "Frente de Sindicatos Unidos (FreSU), con adhesión de ATE, UOM, CTA, F.T.C.I.O.D y A.R.A. y movimientos sociales",
@@ -6795,6 +6805,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CTERA, CGT (UDA, CEA) y entidades docentes nucleadas",
+            "tipo_medida": "Paro nacional docente",
+            "motivo": "Rechazo al ajuste educativo, reclamo de Paritaria Nacional Docente, reactivación del FONID, oposición a Ley de Libertad Educativa y defensa de derechos laborales/salariales",
+            "fuente": "https://www.datagremial.com/escenario/mapa-del-paro-nacional-docente-las-provincias-se-pliegan-y-complican-el-inicio-de-clases-2026-20262277480, https://www.infobae.com/politica/2026/02/26/tras-el-anuncio-del-paro-docente-el-gobierno-convoco-a-los-gremios-para-tratar-la-cuestion-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
             "lugar": "Provincia de Córdoba",
             "quien": "Uepc-Capital",
             "tipo_medida": "Paro",
@@ -6870,16 +6890,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Sindicatos docentes de CTERA y CGT (incluyendo UDA, CEA, FUDB)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y aumento del presupuesto educativo",
-            "fuente": "https://www.infobae.com/politica/2026/02/26/tras-el-anuncio-del-paro-docente-el-gobierno-convoco-a-los-gremios-para-tratar-la-cuestion-salarial/"
         },
         {
             "es_evento_relevante": true,
