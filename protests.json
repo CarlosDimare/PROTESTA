@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T13:44:34.253513-03:00",
+    "last_updated": "2026-02-27T14:41:10.243529-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6645,21 +6645,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
             "horario": "00:00",
-            "lugar": "Sedes universitarias y plazas principales del país",
-            "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales)",
-            "tipo_medida": "Paro",
-            "motivo": "Oposición a la reforma laboral que se tratará en el Senado, considerada un retroceso en derechos laborales",
-            "fuente": "https://www.datagremial.com/informacion-general/los-nodocentes-van-al-paro-para-intentar-detener-la-reforma-laboral-los-derechos-se-defienden--202622615390, https://www.inforegion.com.ar/2026/02/26/fatun-confirmo-que-manana-realizaran-un-paro-de-24-horas-con-movilizacion-en-todo-el-pais/"
+            "lugar": "Congreso Nacional",
+            "quien": "Sindicalismo combativo",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral y al Régimen Penal Juvenil",
+            "fuente": "https://prensaobrera.com/sindicales/el-sindicalismo-combativo-concentra-contra-la-sancion-de-la-reforma-laboral-esclavista-en-el-senado, https://www.laizquierdadiario.com/En-el-CEFyL-resuelven-movilizar-contra-la-reforma-laboral-y-en-solidaridad-con-FATE-y-el-Garrahan, https://www.laizquierdadiario.com/Resuelven-movilizar-contra-la-reforma-laboral-y-en-solidaridad-con-FATE-y-el-Garrahan, https://www.infobae.com/politica/2026/02/25/cuales-son-las-tres-alternativas-que-dividen-a-la-cgt-para-seguir-la-ofensiva-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
             "horario": "00:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Estudiantes y agrupaciones de izquierda de la Facultad de Filosofía y Letras UBA",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la reforma laboral impulsada por el gobierno de Milei, en solidaridad con trabajadores de FATE y Garrahan, y en lucha contra el ajuste y la precarización",
-            "fuente": "https://www.laizquierdadiario.com/En-el-CEFyL-resuelven-movilizar-contra-la-reforma-laboral-y-en-solidaridad-con-FATE-y-el-Garrahan, https://www.laizquierdadiario.com/Resuelven-movilizar-contra-la-reforma-laboral-y-en-solidaridad-con-FATE-y-el-Garrahan, https://www.infobae.com/politica/2026/02/25/cuales-son-las-tres-alternativas-que-dividen-a-la-cgt-para-seguir-la-ofensiva-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/20/como-seguira-el-plan-de-lucha-de-la-cgt-el-debate-interno-que-viene-y-que-puede-quebrar-al-sindicalismo/, https://www.infobae.com/politica/2026/02/19/paro-general-de-la-cgt-contra-la-reforma-laboral-en-vivo-las-ultimas-noticias-sobre-la-medida-este-19-de-febrero/"
+            "lugar": "Sedes universitarias y plazas principales del país",
+            "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales)",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición a la reforma laboral que se tratará en el Senado, considerada un retroceso en derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/los-nodocentes-van-al-paro-para-intentar-detener-la-reforma-laboral-los-derechos-se-defienden--202622615390, https://www.inforegion.com.ar/2026/02/26/fatun-confirmo-que-manana-realizaran-un-paro-de-24-horas-con-movilizacion-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
