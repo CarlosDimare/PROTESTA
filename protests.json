@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T19:23:19.744142-03:00",
+    "last_updated": "2026-02-27T20:26:45.198093-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6710,6 +6710,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de puestos de trabajo y mantenimiento de la Secretaría de Integración Socio Urbana ante el vencimiento de contratos y amenaza de despidos",
             "fuente": "https://www.laizquierdadiario.com/Movilizacion-en-defensa-de-los-puestos-de-trabajo-y-de-la-Secretaria-de-Integracion-Socio-Urbana"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-28",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "Atepsa (Asociación Técnicos y Empleados de Protección y Seguridad a la Aeronavegación)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto por incumplimiento del convenio colectivo y cuestiones salariales con EANA",
+            "fuente": "https://www.infobae.com/economia/2026/02/27/se-levanto-el-paro-de-los-controladores-aereos-y-los-vuelos-operaran-con-normalidad-este-fin-de-semana/, https://www.cadena3.com/noticia/sociedad/paro-de-controladores-aereos-dias-y-horarios-de-las-protestas_523543"
         },
         {
             "es_evento_relevante": true,
