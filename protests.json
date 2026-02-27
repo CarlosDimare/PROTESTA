@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T02:52:54.816632-03:00",
+    "last_updated": "2026-02-27T03:50:58.093308-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6750,6 +6750,16 @@
             "tipo_medida": "Piquete/Corte de calles",
             "motivo": "Reclamo de pago de deudas por medicamentos a jubilados y evitar interrupción de provisión",
             "fuente": "https://estadodealerta.com.ar/el-conflicto-en-la-provision-de-medicamentos-va-mas-alla-de-pami-con-reclamos-al-secretario-de-gestion-sanitaria-raul-flores-pudiendo-escalar-al-ministro-lugones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-01",
+            "horario": "10:00",
+            "lugar": "Plaza Congreso, Avenida Entre Ríos, Avenida Rivadavia, Virrey Cevallos y Avenida Hipólito Yrigoyen",
+            "quien": "Frente Sindical Unidos (FreSU) y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la Ley de Reforma Laboral por recortar derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/02/27/el-mapa-de-la-marcha-contra-la-reforma-laboral-habra-fuertes-medidas-de-seguridad-y-movilizacion-piquetera/"
         },
         {
             "es_evento_relevante": true,
