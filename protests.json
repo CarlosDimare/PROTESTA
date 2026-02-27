@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T15:42:52.713380-03:00",
+    "last_updated": "2026-02-27T16:40:49.671057-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6684,12 +6684,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-02-27",
-            "horario": "11:00",
-            "lugar": "Plaza San Martín, Rosario",
-            "quien": "Asociación Trabajadores del Estado (ATE), Coad, Unión Obrera Metalúrgica (UOM), Sindicato de Aceiteros y organizaciones sociales",
-            "tipo_medida": "Paro y Concentración",
-            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
-            "fuente": "https://elciudadanoweb.com/ate-rosario-convoca-a-un-cese-de-actividades-y-a-una-marcha-en-rechazo-a-la-reforma-laboral/, https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
+            "horario": "14:00",
+            "lugar": "Plaza Congreso",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma laboral del gobierno nacional",
+            "fuente": "https://estadodealerta.com.ar/el-senado-se-prepara-para-aprobar-la-modernizacion-laboral-en-un-marco-de-importante-protesta-callejera/, https://elciudadanoweb.com/ate-rosario-convoca-a-un-cese-de-actividades-y-a-una-marcha-en-rechazo-a-la-reforma-laboral/, https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
