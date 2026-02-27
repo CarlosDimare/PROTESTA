@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T09:50:34.938950-03:00",
+    "last_updated": "2026-02-27T11:06:16.854768-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6806,10 +6806,10 @@
             "fecha": "2026-03-02",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "CTERA, CGT (UDA, CEA) y entidades docentes nucleadas",
-            "tipo_medida": "Paro nacional docente",
-            "motivo": "Rechazo al ajuste educativo, reclamo de Paritaria Nacional Docente, reactivación del FONID, oposición a Ley de Libertad Educativa y defensa de derechos laborales/salariales",
-            "fuente": "https://www.datagremial.com/escenario/mapa-del-paro-nacional-docente-las-provincias-se-pliegan-y-complican-el-inicio-de-clases-2026-20262277480, https://www.infobae.com/politica/2026/02/26/tras-el-anuncio-del-paro-docente-el-gobierno-convoco-a-los-gremios-para-tratar-la-cuestion-salarial/"
+            "quien": "Tribuna Docente",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio a la reforma laboral de Milei, ataques de gobernadores y abandono de la Ctera",
+            "fuente": "https://prensaobrera.com/sindicales/xviii-congreso-nacional-de-tribuna-docente-voto-paros-de-no-inicio-con-continuidad-hasta-derrotar-a-milei-y-al-ajuste-de-los-gobernadores, https://www.datagremial.com/escenario/mapa-del-paro-nacional-docente-las-provincias-se-pliegan-y-complican-el-inicio-de-clases-2026-20262277480, https://www.infobae.com/politica/2026/02/26/tras-el-anuncio-del-paro-docente-el-gobierno-convoco-a-los-gremios-para-tratar-la-cuestion-salarial/"
         },
         {
             "es_evento_relevante": true,
