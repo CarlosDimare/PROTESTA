@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-26T20:30:44.241686-03:00",
+    "last_updated": "2026-02-26T22:32:16.613710-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6610,6 +6610,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial por falta de acuerdo con la Empresa Argentina de Navegación Aérea (EANA)",
             "fuente": "https://estadodealerta.com.ar/controladores-aereos-suman-tension-gremial-con-paros-escalonados-entre-este-jueves-y-el-lunes-2-de-marzo/, https://www.infobae.com/economia/2026/02/26/hoy-comienzan-los-paros-de-controladores-aereos-en-todo-el-pais-a-que-vuelos-afecta-y-cuando-terminaran/, https://www.datagremial.com/paritarias/sin-acuerdo-en-su-reclamo-por-mejoras-salariales-controladores-aereos-anuncian-nuevos-paros-202622312170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-26",
+            "horario": "16:00",
+            "lugar": "Todas las universidades nacionales y organismos de Ciencia y Técnica del país",
+            "quien": "Agrupación Naranja de docentes e investigadores universitarios (Conadu Histórica y Conadu) y organismos de Ciencia y Técnica (Conicet/CIC)",
+            "tipo_medida": "Paro universitario con movilizaciones locales y federales",
+            "motivo": "Exigir el pago del 51% adeudado por Ley de Financiamiento Universitario y rechazar la reforma laboral",
+            "fuente": "https://prensaobrera.com/universidad/plenario-de-la-agrupacion-naranja-prepara-el-paro-universitario-hasta-ganar, https://conaduhistorica.org.ar/prensa/27-y-28-de-octubre-paro-nacional-de-la-conadu-historica/"
         },
         {
             "es_evento_relevante": true,
