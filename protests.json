@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T12:42:50.445065-03:00",
+    "last_updated": "2026-02-27T13:44:34.253513-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6894,12 +6894,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
-            "horario": "12:00",
+            "horario": "09:00",
             "lugar": "Tribunales",
             "quien": "CGT",
             "tipo_medida": "Marcha",
-            "motivo": "En contra de la reforma laboral esclavista",
-            "fuente": "https://www.laizquierdadiario.com/Apoyo-popular-a-la-protesta-en-el-centro-porteno-contra-la-reforma-laboral-esclavista, https://www.infobae.com/politica/2023/12/27/la-cgt-protesta-contra-el-dnu-de-milei-entre-la-presion-por-un-paro-general-y-el-desafio-del-protocolo-antipiquetes/"
+            "motivo": "Contra la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-protesta-en-el-Obelisco-y-en-todo-el-pais-contra-la-reforma-laboral-y-en-apoyo-a-la-lucha, https://www.laizquierdadiario.com/Apoyo-popular-a-la-protesta-en-el-centro-porteno-contra-la-reforma-laboral-esclavista, https://www.infobae.com/politica/2023/12/27/la-cgt-protesta-contra-el-dnu-de-milei-entre-la-presion-por-un-paro-general-y-el-desafio-del-protocolo-antipiquetes/"
         },
         {
             "es_evento_relevante": true,
