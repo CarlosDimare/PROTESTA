@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-27T20:26:45.198093-03:00",
+    "last_updated": "2026-02-27T22:29:11.183220-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6690,6 +6690,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la reforma laboral del gobierno nacional",
             "fuente": "https://estadodealerta.com.ar/el-senado-se-prepara-para-aprobar-la-modernizacion-laboral-en-un-marco-de-importante-protesta-callejera/, https://elciudadanoweb.com/ate-rosario-convoca-a-un-cese-de-actividades-y-a-una-marcha-en-rechazo-a-la-reforma-laboral/, https://elciudadanoweb.com/frente-de-sindicatos-unidos-marcha-a-plaza-san-martin-este-viernes-contra-la-reforma-laboral/, https://www.infobae.com/politica/2026/02/25/piqueteros-y-gremios-volveran-a-marchar-el-viernes-al-congreso-el-megaoperativo-que-prepara-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-02-27",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Infobae Política",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra el nuevo Régimen Penal Juvenil y la reforma laboral",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/02/28/protestaba-en-el-congreso-y-lo-detuvieron-por-el-ataque-con-bombas-molotov-del-11-de-febrero/"
         },
         {
             "es_evento_relevante": true,
