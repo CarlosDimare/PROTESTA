@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-28T17:25:05.014815-03:00",
+    "last_updated": "2026-02-28T18:20:46.163713-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6960,6 +6960,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigación judicial por presunto desvío de 19.300 millones de pesos en aportes de clubes (2024-2025)",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/los-arbitros-del-futbol-argentino-anunciaron-que-se-uniran-al-paro-en-apoyo-a-chiqui-tapia-y-pablo-toviggino/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Agrupaciones de la Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la Reforma Laboral",
+            "fuente": "https://elciudadanoweb.com/manifestantes-cortaron-la-9-de-julio-y-se-enfrentaron-con-la-policia-marchan-al-congreso/"
         },
         {
             "es_evento_relevante": true,
