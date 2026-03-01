@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-28T20:22:11.127157-03:00",
+    "last_updated": "2026-02-28T22:54:47.600379-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6825,6 +6825,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "00:00",
+            "lugar": "Escuelas de Santa Fe",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Contra auditoría de declaraciones juradas y controles de asistencia",
+            "fuente": "https://elciudadanoweb.com/el-gobierno-provincial-refuerza-control-de-la-asistencia-en-medio-de-la-protesta-docente/, https://www.datagremial.com/informacion-general/ctera-anuncio-un-paro-nacional-y-la-proxima-semana-no-comenzaran-las-clases-en-todo-el-pais-202622317440, https://www.laizquierdadiario.com/Paritaria-docente-basta-de-salarios-por-debajo-de-la-pobreza-paro-activo-y-plan-de-lucha, https://www.infobae.com/politica/2026/02/20/declararon-un-paro-nacional-docente-para-el-2-de-marzo-y-peligra-el-inicio-de-las-clases/, https://prensaobrera.com/sindicales/congreso-ctera-habra-paro-de-no-inicio-el-2-de-marzo-en-todo-el-pais, https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "00:00",
             "lugar": "No especificado",
             "quien": "Tribuna Docente",
             "tipo_medida": "Paro",
@@ -6870,16 +6880,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del 3% y reclamo por recortes presupuestarios nacionales que impactan en la negociación paritaria",
             "fuente": "https://www.infobae.com/politica/2026/02/24/con-las-paritarias-trabadas-el-gobierno-de-kicillof-tenso-con-la-nacion-y-recordo-que-le-debe-222-billones/, https://www.infobae.com/politica/2026/02/24/kicillof-apuesta-a-acordar-la-paritaria-docente-aunque-no-podra-desactivar-el-paro-en-el-inicio-de-clases/, https://www.infobae.com/politica/2026/02/21/suteba-se-suma-al-paro-contra-axel-kicillof-y-peligra-el-inicio-de-clases-en-la-provincia-de-buenos-aires/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "00:00",
-            "lugar": "Tucumán",
-            "quien": "CTERA",
-            "tipo_medida": "Paro",
-            "motivo": "Paritaria nacional docente, salario, FONID, rechazo a Ley de Libertad Educativa",
-            "fuente": "https://www.datagremial.com/informacion-general/ctera-anuncio-un-paro-nacional-y-la-proxima-semana-no-comenzaran-las-clases-en-todo-el-pais-202622317440, https://www.laizquierdadiario.com/Paritaria-docente-basta-de-salarios-por-debajo-de-la-pobreza-paro-activo-y-plan-de-lucha, https://www.infobae.com/politica/2026/02/20/declararon-un-paro-nacional-docente-para-el-2-de-marzo-y-peligra-el-inicio-de-las-clases/, https://prensaobrera.com/sindicales/congreso-ctera-habra-paro-de-no-inicio-el-2-de-marzo-en-todo-el-pais, https://infonoroeste.com.ar/nota/52975/todos-los-gremios-se-suman-al-paro-docente-del-2-de-marzo-en-pba/, https://www.laizquierdadiario.com/Docentes-bonaerenses-rechazan-la-miseria-salarial-de-Kicillof-y-van-al-paro-el-2-de-marzo, https://www.infobae.com/politica/2026/02/11/cese-de-actividades-en-el-subte-por-una-fuerte-protesta-sindical-contra-la-reforma-laboral-tenemos-un-gobierno-que-se-dedica-a-desprestigiar-la-unica-herramienta-que-tenemos/"
         },
         {
             "es_evento_relevante": true,
