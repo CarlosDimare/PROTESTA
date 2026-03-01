@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-01T03:44:00.786821-03:00",
+    "last_updated": "2026-03-01T04:36:01.475467-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6790,6 +6790,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa del derecho a huelga de docentes por bajos salarios y contra el ajuste en la universidad pública",
             "fuente": "https://elciudadanoweb.com/estudiantes-del-partido-de-los-trabajadores-socialistas-expresaron-su-apoyo-al-paro-docente-en-la-unr/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-01",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Bloques opositores (Unión por la Patria, Frente de Izquierda, radicales dialoguistas)",
+            "tipo_medida": "Movilización con carteles",
+            "motivo": "Visibilizar crisis económica, cierre de empresas y despidos, temas no tratados por el gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/03/01/la-oposicion-espera-la-apertura-de-sesiones-entre-la-resignacion-y-la-protesta-simbolica-ante-milei/"
         },
         {
             "es_evento_relevante": true,
