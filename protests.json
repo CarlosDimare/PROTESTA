@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-01T15:29:31.619777-03:00",
+    "last_updated": "2026-03-01T16:25:31.051553-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6925,6 +6925,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "08:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CTERA y sindicatos de la CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios docentes por el piso, condiciones laborales extenuantes y oposición a la reforma laboral que afecta derechos sindicales y la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Abajo-el-ajuste-y-la-reforma-laboral-de-Milei-y-los-gobernadores-Arriba-los-salarios-docentes, https://www.infobae.com/politica/2026/02/24/mercedes-miguel-ministra-de-educacion-de-caba-los-tres-anos-pudimos-iniciar-las-clases-en-tiempo-y-forma-sin-paros/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "08:00",
             "lugar": "Santa Fe (Capital Provincial)",
             "quien": "Asociación del Magisterio de Santa Fe (Amsafe)",
             "tipo_medida": "Paro",
@@ -6960,16 +6970,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a recortes presupuestarios, reclamo de paritarias salariales, aumento del presupuesto educativo, restitución del FONID, y oposición a proyectos de Ley de Libertad Educativa y reforma laboral",
             "fuente": "https://www.infobae.com/politica/2026/02/25/los-gremios-docentes-de-la-cgt-se-suman-al-paro-nacional-del-2-de-marzo-y-se-complica-el-inicio-de-clases/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "No especificado",
-            "lugar": "Nación",
-            "quien": "CTERA y sindicatos de la CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Apertura de paritaria nacional, aumento salarial y restitución del FONID",
-            "fuente": "https://www.infobae.com/politica/2026/02/24/mercedes-miguel-ministra-de-educacion-de-caba-los-tres-anos-pudimos-iniciar-las-clases-en-tiempo-y-forma-sin-paros/"
         },
         {
             "es_evento_relevante": true,
