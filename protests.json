@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T09:45:43.487080-03:00",
+    "last_updated": "2026-03-02T11:03:33.822810-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6954,12 +6954,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
-            "horario": "09:00",
-            "lugar": "Tribunales",
+            "horario": "11:00",
+            "lugar": "Tribunales, Ciudad Autónoma de Buenos Aires",
             "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la reforma laboral",
-            "fuente": "https://www.laizquierdadiario.com/En-vivo-protesta-en-el-Obelisco-y-en-todo-el-pais-contra-la-reforma-laboral-y-en-apoyo-a-la-lucha, https://www.laizquierdadiario.com/Apoyo-popular-a-la-protesta-en-el-centro-porteno-contra-la-reforma-laboral-esclavista, https://www.infobae.com/politica/2023/12/27/la-cgt-protesta-contra-el-dnu-de-milei-entre-la-presion-por-un-paro-general-y-el-desafio-del-protocolo-antipiquetes/"
+            "tipo_medida": "Concentración",
+            "motivo": "Rechazo a artículos de la reforma laboral por considerarlos inconstitucionales",
+            "fuente": "https://www.laizquierdadiario.com/Tras-la-claudicacion-en-las-calles-y-el-Congreso-la-CGT-le-pide-al-Poder-Judicial-que-frene-parte, https://www.laizquierdadiario.com/En-vivo-protesta-en-el-Obelisco-y-en-todo-el-pais-contra-la-reforma-laboral-y-en-apoyo-a-la-lucha, https://www.laizquierdadiario.com/Apoyo-popular-a-la-protesta-en-el-centro-porteno-contra-la-reforma-laboral-esclavista, https://www.infobae.com/politica/2023/12/27/la-cgt-protesta-contra-el-dnu-de-milei-entre-la-presion-por-un-paro-general-y-el-desafio-del-protocolo-antipiquetes/"
         },
         {
             "es_evento_relevante": true,
