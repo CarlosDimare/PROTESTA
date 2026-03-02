@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T19:31:20.876064-03:00",
+    "last_updated": "2026-03-02T20:32:03.954319-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7015,6 +7015,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-03",
             "horario": "No especificado",
+            "lugar": "Córdoba Capital e interior provincial",
+            "quien": "Uepc-Capital y comunidad educativa",
+            "tipo_medida": "Movilización con cortes",
+            "motivo": "Reclamo del 40% de aumento salarial y rechazo a la propuesta de ajuste del gobierno provincial",
+            "fuente": "https://prensaobrera.com/sindicales/lucha-docente-8-cuadras-de-movilizacion-y-un-parazo-en-toda-la-provincia-de-cordoba"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-03",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Seccionales Multicolor",
             "tipo_medida": "Paro",
@@ -7285,21 +7295,21 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "No especificado",
-            "lugar": "Ministerio de Trabajo de Córdoba",
-            "quien": "Sindicato combativo y Polo Obrero",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la reforma laboral de Milei y apoyo a trabajadores del neumático en lucha por salarios y fábricas",
-            "fuente": "https://prensaobrera.com/sindicales/las-batallas-del-movimiento-obrero-de-cordoba-por-el-salario-y-contra-la-reforma-laboral"
+            "lugar": "No especificado",
+            "quien": "Coad y Conadu",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, falta de negociaciones paritarias y recorte presupuestario",
+            "fuente": "https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
-            "tipo_medida": "Paro con movilización nacional",
-            "motivo": "En contra de la reforma laboral y el traspaso del fuero laboral a la Ciudad de Buenos Aires",
-            "fuente": "https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
+            "lugar": "Ministerio de Trabajo de Córdoba",
+            "quien": "Sindicato combativo y Polo Obrero",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral de Milei y apoyo a trabajadores del neumático en lucha por salarios y fábricas",
+            "fuente": "https://prensaobrera.com/sindicales/las-batallas-del-movimiento-obrero-de-cordoba-por-el-salario-y-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
