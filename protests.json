@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T18:36:45.449140-03:00",
+    "last_updated": "2026-03-02T19:31:20.876064-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7024,6 +7024,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-04",
+            "horario": "11:00",
+            "lugar": "Edificio gubernamental de la provincia de Buenos Aires (probablemente La Plata)",
+            "quien": "Frente de Unidad Gremial Docente (FUGD), Federación de Educadores Bonaerenses (FEB), Sindicato Unificado de Trabajadores de la Educación de Buenos Aires (Suteba) y autoridades provinciales",
+            "tipo_medida": "Reunión paritaria",
+            "motivo": "Negociación salarial tras rechazo del 3% de aumento y reclamos por recomposición salarial frente a la inflación, convocatoria a paritaria nacional y refuerzo del presupuesto educativo",
+            "fuente": "https://www.infobae.com/politica/2026/03/02/el-gobierno-se-reunio-con-los-gremios-docentes-y-reitero-que-los-salarios-son-responsabilidad-de-las-provincias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-04",
             "horario": "18:00",
             "lugar": "Plaza Lavalle",
             "quien": "Frente Sindical de Universidades Nacionales / FEDUN junto con CGT",
@@ -7140,6 +7150,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra femicidios, violencia machista, despidos, ataques a trabajos feminizados y sobrecarga de tareas de cuidado",
             "fuente": "https://www.laizquierdadiario.com/Justicia-por-Malena-en-Ezeiza-marcharon-contra-el-femicidio-de-una-joven, https://es-us.noticias.yahoo.com/niunamenos-actos-frente-congreso-reclamar-223543497.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-10",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "ATE-ANAC",
+            "tipo_medida": "Paro general",
+            "motivo": "Reclamo salarial por desconocimiento y reversión de aumento acordado, y falta de propuestas concretas del Gobierno",
+            "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-asambleas-que-podrian-generar-demoras-en-aeropuertos-de-todo-el-pais-y-un-posible-paro-tras-un-mes-sin-respuestas-por-la-quita-de-un-aumento-ya-pactado-20263218290"
         },
         {
             "es_evento_relevante": true,
