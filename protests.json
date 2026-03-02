@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T11:03:33.822810-03:00",
+    "last_updated": "2026-03-02T11:50:38.678496-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6955,6 +6955,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "11:00",
+            "lugar": "Palacio de Tribunales",
+            "quien": "CGT y delegados sindicales",
+            "tipo_medida": "Marcha",
+            "motivo": "Acompañar las presentaciones judiciales contra la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/03/02/reforma-laboral-la-cgt-definio-una-doble-via-para-impugnar-la-ley-y-marcha-hoy-al-palacio-de-tribunales/, https://www.cadenanueve.com/2026/03/02/la-cgt-se-moviliza-a-tribunales-para-respaldar-su-presentacion-judicial-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "11:00",
             "lugar": "Tribunales, Ciudad Autónoma de Buenos Aires",
             "quien": "CGT",
             "tipo_medida": "Concentración",
@@ -6973,6 +6983,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-03",
+            "horario": "10:00",
+            "lugar": "Puente Pueyrredón (Avellaneda-Barracas)",
+            "quien": "ATE bonaerense (Asociación de Trabajadores del Estado de Buenos Aires)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de convocatoria a paritarias tras rechazar el 3% ofrecido por el gobierno de Axel Kicillof",
+            "fuente": "https://www.inforegion.com.ar/2026/03/02/movilizacion-de-ate-en-avellaneda-tension-en-puente-pueyrredon/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-04",
             "horario": "18:00",
             "lugar": "Plaza Lavalle",
@@ -6980,6 +7000,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defender la Ley de Financiamiento Universitario, rechazo a la reforma laboral y reclamo por reapertura de paritarias",
             "fuente": "https://www.datagremial.com/escenario/fedun-marchara-con-la-cgt-a-tribunales-y-crece-el-reclamo-universitario-por-su-ley-de-financiamiento-20262267500, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-04",
+            "horario": "No especificado",
+            "lugar": "Secretaría de Trabajo de la Nación",
+            "quien": "Sutna y trabajadores de Fate",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra despidos y cierre de fábrica Fate, por reincorporación de trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/Fate-marchan-al-Ministerio-de-Trabajo-exigiendo-la-reapertura"
         },
         {
             "es_evento_relevante": true,
