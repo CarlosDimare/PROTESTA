@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T12:44:20.835975-03:00",
+    "last_updated": "2026-03-02T13:46:12.189510-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6925,16 +6925,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-02",
             "horario": "08:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CTERA y sindicatos de la CGT",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por salarios docentes por el piso, condiciones laborales extenuantes y oposición a la reforma laboral que afecta derechos sindicales y la educación pública",
-            "fuente": "https://www.laizquierdadiario.com/Abajo-el-ajuste-y-la-reforma-laboral-de-Milei-y-los-gobernadores-Arriba-los-salarios-docentes, https://www.infobae.com/politica/2026/02/24/mercedes-miguel-ministra-de-educacion-de-caba-los-tres-anos-pudimos-iniciar-las-clases-en-tiempo-y-forma-sin-paros/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-02",
-            "horario": "08:00",
             "lugar": "Santa Fe (Capital Provincial)",
             "quien": "Asociación del Magisterio de Santa Fe (Amsafe)",
             "tipo_medida": "Paro",
@@ -6950,6 +6940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial del 1.5% por insuficiencia frente a la inflación, reclamo de recomposición del poder adquisitivo, mejoras en infraestructura escolar y condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/02/20/conflicto-docente-en-buenos-aires-los-gremios-confirmaron-un-paro-para-el-2-de-marzo/, https://www.inforegion.com.ar/2026/02/19/docentes-bonaerenses-ratifican-el-paro-en-el-inicio-del-ciclo-lectivo/, https://www.inforegion.com.ar/2026/02/13/paro-docente-en-provincia/, https://www.laprensa.com.ar/415795-Docentes-de-Udocba-iniciaron-un-paro-de-dos-dias-en-la-Provincia.note.aspx"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "10:00",
+            "lugar": "Cipolletti",
+            "quien": "UnTER (Sindicato UnTER)",
+            "tipo_medida": "Movilización",
+            "motivo": "Recortes presupuestarios en educación, cierre de cargos y condiciones precarias en las escuelas",
+            "fuente": "https://www.laizquierdadiario.com/Sin-respuesta-al-hacinamiento-y-el-recorte-en-las-escuelas, https://www.unter.org.ar/2026/02/24/el-lunes-02-03-paramos-en-toda-la-provincia-y-movilizamos-en-cipolletti/"
         },
         {
             "es_evento_relevante": true,
@@ -6970,6 +6970,16 @@
             "tipo_medida": "Concentración",
             "motivo": "Rechazo a artículos de la reforma laboral por considerarlos inconstitucionales",
             "fuente": "https://www.laizquierdadiario.com/Tras-la-claudicacion-en-las-calles-y-el-Congreso-la-CGT-le-pide-al-Poder-Judicial-que-frene-parte, https://www.laizquierdadiario.com/En-vivo-protesta-en-el-Obelisco-y-en-todo-el-pais-contra-la-reforma-laboral-y-en-apoyo-a-la-lucha, https://www.laizquierdadiario.com/Apoyo-popular-a-la-protesta-en-el-centro-porteno-contra-la-reforma-laboral-esclavista, https://www.infobae.com/politica/2023/12/27/la-cgt-protesta-contra-el-dnu-de-milei-entre-la-presion-por-un-paro-general-y-el-desafio-del-protocolo-antipiquetes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-02",
+            "horario": "12:00",
+            "lugar": "Cabildo y Congreso Nacional, Buenos Aires",
+            "quien": "CTERA y sindicatos de la CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por plan de lucha unificado y continuidad de protestas",
+            "fuente": "https://www.laizquierdadiario.com/Vivo-paro-nacional-docente-y-movilizacion-al-Congreso, https://www.laizquierdadiario.com/Abajo-el-ajuste-y-la-reforma-laboral-de-Milei-y-los-gobernadores-Arriba-los-salarios-docentes, https://www.infobae.com/politica/2026/02/24/mercedes-miguel-ministra-de-educacion-de-caba-los-tres-anos-pudimos-iniciar-las-clases-en-tiempo-y-forma-sin-paros/"
         },
         {
             "es_evento_relevante": true,
