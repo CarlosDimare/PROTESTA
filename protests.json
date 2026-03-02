@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T06:46:06.181755-03:00",
+    "last_updated": "2026-03-02T07:44:47.003703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -6980,6 +6980,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defender la Ley de Financiamiento Universitario, rechazo a la reforma laboral y reclamo por reapertura de paritarias",
             "fuente": "https://www.datagremial.com/escenario/fedun-marchara-con-la-cgt-a-tribunales-y-crece-el-reclamo-universitario-por-su-ley-de-financiamiento-20262267500, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-04",
+            "horario": "No especificado",
+            "lugar": "Establecimientos educativos públicos y privados de 15 provincias, con foco en Provincia de Buenos Aires",
+            "quien": "Confederación de Trabajadores de la Educación de la República Argentina (Ctera) y Frente de Unidad Gremial Docente (FUGD) en Buenos Aires",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, convocatoria a paritaria nacional docente, restitución del Fondo Nacional de Incentivo Docente (FONID), refuerzo del presupuesto educativo y recomposición salarial frente a la inflación.",
+            "fuente": "https://www.infobae.com/sociedad/2026/03/02/por-un-paro-docente-no-arrancan-hoy-las-clases-en-la-provincia-de-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
