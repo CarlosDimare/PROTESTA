@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T17:29:22.242772-03:00",
+    "last_updated": "2026-03-03T18:32:48.627685-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7045,11 +7045,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-04",
             "horario": "09:00",
-            "lugar": "Ministerio de Trabajo",
-            "quien": "Suteba Tigre y la lista multicolor combativa",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo salarial y contra el ajuste del gobierno provincial",
-            "fuente": "https://www.laizquierdadiario.com/Segundo-dia-de-paro-docente-en-Provincia-de-Buenos-Aires"
+            "lugar": "Ministerio de Trabajo de la Provincia de Buenos Aires",
+            "quien": "Lista Multicolor Combativa de Suteba",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar aumento salarial real y discutir propuestas del gobierno en asambleas",
+            "fuente": "https://www.laizquierdadiario.com/Provincia-de-Buenos-Aires-fuerte-paro-docente-convocado-desde-la-oposicion-a-Baradel, https://www.laizquierdadiario.com/Segundo-dia-de-paro-docente-en-Provincia-de-Buenos-Aires"
         },
         {
             "es_evento_relevante": true,
