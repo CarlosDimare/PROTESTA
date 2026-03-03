@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T15:42:37.801016-03:00",
+    "last_updated": "2026-03-03T16:41:41.028258-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7044,6 +7044,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-04",
+            "horario": "09:00",
+            "lugar": "Ministerio de Trabajo",
+            "quien": "Suteba Tigre y la lista multicolor combativa",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial y contra el ajuste del gobierno provincial",
+            "fuente": "https://www.laizquierdadiario.com/Segundo-dia-de-paro-docente-en-Provincia-de-Buenos-Aires"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-04",
             "horario": "10:00",
             "lugar": "Sedes universitarias nacionales",
             "quien": "Gremios docentes y no docentes de universidades nacionales",
@@ -7160,6 +7170,16 @@
             "tipo_medida": "Paro",
             "motivo": "Repudio a la denuncia de ARCA contra la AFA por presuntos delitos fiscales",
             "fuente": "https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "No especificado",
+            "lugar": "Estadios de fútbol de todo el país",
+            "quien": "AFA y clubes del Ascenso",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio a la denuncia de ARCA por presunta evasión impositiva y en apoyo a las autoridades de la AFA",
+            "fuente": "https://www.infobae.com/deportes/2026/03/03/la-afa-ratifico-el-paro-en-el-futbol-argentino-cuando-se-jugara-la-fecha-9-del-torneo-apertura/"
         },
         {
             "es_evento_relevante": true,
