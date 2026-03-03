@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T18:32:48.627685-03:00",
+    "last_updated": "2026-03-03T19:26:09.925756-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7280,6 +7280,16 @@
             "tipo_medida": "Movilización con paro y boicot",
             "motivo": "Protesta contra ICE y sus consecuencias en comunidades migrantes, con demandas de expulsión total de agentes y atención a afectados",
             "fuente": "https://www.laizquierdadiario.com/La-Asamblea-de-Trabajadores-de-Minneapolis-es-un-ejemplo-para-organizar-la-lucha-contra-ICE"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
+            "horario": "No especificado",
+            "lugar": "Estadios de Primera División de fútbol",
+            "quien": "Liga Profesional de Fútbol (representando a los 30 clubes)",
+            "tipo_medida": "Paro",
+            "motivo": "Suspensión del Torneo Apertura por causa judicial contra autoridades de la AFA y disputa por irregularidades fiscales",
+            "fuente": "https://elciudadanoweb.com/la-afa-ratifico-el-paro-de-este-fin-de-semana-la-fecha-9-del-torneo-apertura-se-disputara-el-3-de-mayo/"
         },
         {
             "es_evento_relevante": true,
