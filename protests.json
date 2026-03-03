@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T05:40:32.249718-03:00",
+    "last_updated": "2026-03-03T06:41:53.968631-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7010,6 +7010,16 @@
             "tipo_medida": "Reunión de decisión sobre paro",
             "motivo": "Decisión sobre levantamiento del paro de la novena fecha del Torneo Apertura en repudio a la citación a indagatoria del presidente Claudio Tapia y confrontación con el Gobierno Nacional",
             "fuente": "https://elciudadanoweb.com/dan-marcha-atras-puede-levantarse-el-paro-el-fin-de-semana-que-propuso-la-afa-y-disputarse-la-fecha-nueve-con-normalidad/, https://elciudadanoweb.com/dan-marcha-atras-podria-levantarse-el-paro-el-fin-de-semana-que-propuso-la-afa-y-disputarse-la-fecha-nueve-con-normalidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-03",
+            "horario": "No especificado",
+            "lugar": "Plaza Lavalle",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Respaldo a la presentación judicial de un amparo contra la reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/ruben-crosta-celebro-la-movilizacion-contra-la-reforma-laboral-es-un-mensaje-claro-en-defensa-de-los-derechos-conquistados--2026322190"
         },
         {
             "es_evento_relevante": true,
