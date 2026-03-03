@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T19:26:09.925756-03:00",
+    "last_updated": "2026-03-03T20:23:33.515634-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7135,6 +7135,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-05",
             "horario": "00:00",
+            "lugar": "Predio Lionel Andrés Messi (Ezeiza)",
+            "quien": "Liga Profesional de Fútbol (30 clubes)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto judicial por presuntas irregularidades fiscales y citación a indagatoria de autoridades de la AFA",
+            "fuente": "https://www.inforegion.com.ar/2026/03/03/paro-del-futbol-argentino-la-afa-ratifico-la-suspension-de-la-fecha-9-del-apertura-2026/, https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "00:00",
             "lugar": "Estadios de fútbol de Argentina",
             "quien": "Comité Ejecutivo de la Liga Profesional de Fútbol (30 clubes) con adhesión de UADA y AAA",
             "tipo_medida": "Paro",
@@ -7160,16 +7170,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a la Reforma Laboral",
             "fuente": "https://elciudadanoweb.com/manifestantes-cortaron-la-9-de-julio-y-se-enfrentaron-con-la-policia-marchan-al-congreso/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-05",
-            "horario": "21:00",
-            "lugar": "Estadios de Primera División",
-            "quien": "Liga Profesional de Fútbol",
-            "tipo_medida": "Paro",
-            "motivo": "Repudio a la denuncia de ARCA contra la AFA por presuntos delitos fiscales",
-            "fuente": "https://elciudadanoweb.com/pelota-parada-los-clubes-decidieron-convocar-a-un-paro-en-todas-sus-categorias-para-los-dias-5-6-7-y-8-de-marzo/, https://www.infobae.com/deportes/2026/02/23/en-defensa-de-la-afa-los-clubes-de-primera-decidieron-convocar-a-un-paro-no-habria-fecha-el-primer-fin-de-semana-de-marzo/, https://www.esdiario.com/deportes/251017/169995/equipos-laliga-partidos-protesta-villarreal-barcelona-miami.html"
         },
         {
             "es_evento_relevante": true,
@@ -7210,6 +7210,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste salarial del gobierno de Llaryora, defensa del salario y jubilaciones, y apoyo a la lucha de trabajadores",
             "fuente": "https://prensaobrera.com/sindicales/paritaria-docente-cristalli-contra-las-escuelas-de-cordoba-fraude-en-asamblea-departamental-para-no-llamar-a-parar-por-48-horas, https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "10:00",
+            "lugar": "Córdoba",
+            "quien": "UEPC Multicolor",
+            "tipo_medida": "Paro",
+            "motivo": "Continuación del plan de lucha contra el ajuste y salarios de pobreza",
+            "fuente": "https://prensaobrera.com/sindicales/masivo-paro-docente-de-no-inicio-de-clases-en-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
