@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T20:32:03.954319-03:00",
+    "last_updated": "2026-03-02T22:42:37.976533-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7015,6 +7015,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-03",
             "horario": "No especificado",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Seccionales Multicolor",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales contra los salarios de miseria de Kicillof y políticas educativas",
+            "fuente": "https://www.laizquierdadiario.com/La-bronca-de-900-mil-maestras-se-sintio-con-fuerza-en-todo-el-pais-como-la-seguimos, https://www.laizquierdadiario.com/Mas-de-300-000-docentes-paran-en-la-Provincia-de-Buenos-Aires"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-03",
+            "horario": "No especificado",
             "lugar": "Córdoba Capital e interior provincial",
             "quien": "Uepc-Capital y comunidad educativa",
             "tipo_medida": "Movilización con cortes",
@@ -7023,13 +7033,13 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-03-03",
-            "horario": "No especificado",
+            "fecha": "2026-03-04",
+            "horario": "11:00",
             "lugar": "No especificado",
-            "quien": "Seccionales Multicolor",
-            "tipo_medida": "Paro",
-            "motivo": "Contra los salarios de miseria de Kicillof",
-            "fuente": "https://www.laizquierdadiario.com/Mas-de-300-000-docentes-paran-en-la-Provincia-de-Buenos-Aires"
+            "quien": "CGT y sindicatos docentes (incluyendo UDA)",
+            "tipo_medida": "Medidas de fuerza",
+            "motivo": "Reclamo por recomposición salarial para superar la línea de pobreza, rechazo a la Ley de Libertad Educativa por falta de consulta, y denuncia de desfinanciamiento del sistema educativo",
+            "fuente": "https://www.infobae.com/politica/2026/03/03/conflicto-docente-la-cgt-denuncio-que-el-gobierno-no-hizo-ninguna-oferta-salarial-y-advirtio-sobre-nuevas-protestas/, https://www.perfil.com/noticias/politica/la-cgt-salio-a-la-calle-contra-la-reforma-laboral-de-milei-cuales-son-los-principales-reclamos-y-que-plantean-ante-la-justicia.phtml"
         },
         {
             "es_evento_relevante": true,
@@ -7080,6 +7090,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigación judicial por presunto desvío de 19.300 millones de pesos en aportes de clubes (2024-2025)",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/los-arbitros-del-futbol-argentino-anunciaron-que-se-uniran-al-paro-en-apoyo-a-chiqui-tapia-y-pablo-toviggino/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "10:00",
+            "lugar": "Villa Regina",
+            "quien": "Unter",
+            "tipo_medida": "Congreso gremial",
+            "motivo": "Análisis de continuidad del plan de frente a falta de propuesta salarial y respuestas al pliego de demandas",
+            "fuente": "https://prensaobrera.com/sindicales/rio-negro-parazo-docente-y-movilizacion-al-puente-carretero, https://www.rionegro.com.ar/gremios/unter-llega-al-congreso-de-bariloche-con-mandatos-de-prolongar-el-paro-2769820/"
         },
         {
             "es_evento_relevante": true,
