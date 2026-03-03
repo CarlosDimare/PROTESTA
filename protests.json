@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-02T22:42:37.976533-03:00",
+    "last_updated": "2026-03-03T01:16:54.014195-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7004,12 +7004,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-03",
-            "horario": "12:00",
-            "lugar": "Sede de la Asociación del Fútbol Argentino (AFA)",
+            "horario": "13:00",
+            "lugar": "Sede de la AFA, Buenos Aires",
             "quien": "Comité Ejecutivo de la Asociación del Fútbol Argentino (AFA)",
             "tipo_medida": "Reunión de decisión sobre paro",
-            "motivo": "Decidir el levantamiento del paro de la novena fecha del Torneo Apertura como repudio a la citación a indagatoria del presidente Claudio Tapia y frente a la disputa con el Gobierno Nacional",
-            "fuente": "https://elciudadanoweb.com/dan-marcha-atras-podria-levantarse-el-paro-el-fin-de-semana-que-propuso-la-afa-y-disputarse-la-fecha-nueve-con-normalidad/"
+            "motivo": "Decisión sobre levantamiento del paro de la novena fecha del Torneo Apertura en repudio a la citación a indagatoria del presidente Claudio Tapia y confrontación con el Gobierno Nacional",
+            "fuente": "https://elciudadanoweb.com/dan-marcha-atras-puede-levantarse-el-paro-el-fin-de-semana-que-propuso-la-afa-y-disputarse-la-fecha-nueve-con-normalidad/, https://elciudadanoweb.com/dan-marcha-atras-podria-levantarse-el-paro-el-fin-de-semana-que-propuso-la-afa-y-disputarse-la-fecha-nueve-con-normalidad/"
         },
         {
             "es_evento_relevante": true,
