@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T08:33:51.791307-03:00",
+    "last_updated": "2026-03-03T09:48:36.795822-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7015,21 +7015,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-03",
             "horario": "No especificado",
-            "lugar": "Plaza Lavalle",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Respaldo a la presentación judicial de un amparo contra la reforma laboral y defensa de derechos laborales",
-            "fuente": "https://www.datagremial.com/informacion-general/ruben-crosta-celebro-la-movilizacion-contra-la-reforma-laboral-es-un-mensaje-claro-en-defensa-de-los-derechos-conquistados--2026322190"
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Seccionales Multicolor de la docencia",
+            "tipo_medida": "Continuación de paro",
+            "motivo": "Reclamo por salario digno, contra la reforma laboral y carga laboral",
+            "fuente": "https://www.laizquierdadiario.com/Alerta-los-grandes-diarios-del-pais-esconden-que-hubo-un-gran-paro-nacional-docente, https://www.laizquierdadiario.com/La-bronca-de-900-mil-maestras-se-sintio-con-fuerza-en-todo-el-pais-como-la-seguimos, https://www.laizquierdadiario.com/Mas-de-300-000-docentes-paran-en-la-Provincia-de-Buenos-Aires"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-03",
             "horario": "No especificado",
-            "lugar": "Provincia de Buenos Aires",
-            "quien": "Seccionales Multicolor",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales contra los salarios de miseria de Kicillof y políticas educativas",
-            "fuente": "https://www.laizquierdadiario.com/La-bronca-de-900-mil-maestras-se-sintio-con-fuerza-en-todo-el-pais-como-la-seguimos, https://www.laizquierdadiario.com/Mas-de-300-000-docentes-paran-en-la-Provincia-de-Buenos-Aires"
+            "lugar": "Plaza Lavalle",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Respaldo a la presentación judicial de un amparo contra la reforma laboral y defensa de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/ruben-crosta-celebro-la-movilizacion-contra-la-reforma-laboral-es-un-mensaje-claro-en-defensa-de-los-derechos-conquistados--2026322190"
         },
         {
             "es_evento_relevante": true,
