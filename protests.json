@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-03T14:44:23.892955-03:00",
+    "last_updated": "2026-03-03T15:42:37.801016-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7044,22 +7044,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-04",
-            "horario": "06:00",
-            "lugar": "Todas las plantas de fabricación de neumáticas del país, excepto Fate",
-            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
-            "tipo_medida": "Paro",
-            "motivo": "Denuncia de hostigamiento patronal, atentado contra fuentes de trabajo y condiciones laborales, y conflicto con la empresa Fate por su actitud ilegal desde el 18 de febrero",
-            "fuente": "https://www.inforegion.com.ar/2026/03/03/el-sutna-anuncio-un-paro-de-24-horas/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-04",
             "horario": "10:00",
             "lugar": "Sedes universitarias nacionales",
             "quien": "Gremios docentes y no docentes de universidades nacionales",
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a recortes en educación universitaria, reclamo salarial y oposición a Ley de Libertad Educativa",
             "fuente": "https://estadodealerta.com.ar/despues-del-contundente-paro-nacional-docente-se-profundiza-el-conflicto-educativo-en-todos-los-niveles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-04",
+            "horario": "11:00",
+            "lugar": "Secretaría de Trabajo de la Nación, ubicada en Alem 650, CABA",
+            "quien": "Sindicato Único de Trabajadores del Neumático (SUTNA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Basta de despidos, ningún cierre de fábrica. Defender la mano de obra argentina es defender a nuestras familias. Reincorporación inmediata de trabajadores. Resistencia contra cierre ilegal de FATE.",
+            "fuente": "https://www.anred.org/basta-de-despidos-ningun-cierre-de-fabrica-movilizacion-multisectorial-en-apoyo-a-fate/, https://www.inforegion.com.ar/2026/03/03/el-sutna-anuncio-un-paro-de-24-horas/"
         },
         {
             "es_evento_relevante": true,
