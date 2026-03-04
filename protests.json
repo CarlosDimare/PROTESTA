@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-04T13:40:40.594418-03:00",
+    "last_updated": "2026-03-04T14:40:14.797568-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7200,6 +7200,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigaciones judiciales a dirigentes de la AFA (Tapia y Toviggino) por presunto desvío de fondos",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/el-argumento-de-los-dirigentes-que-impulsan-el-paro-del-futbol-y-quienes-se-ausentaron-a-la-reunion-en-afa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-06",
+            "horario": "No especificado",
+            "lugar": "Puerta de la planta de Fate",
+            "quien": "Sutna y trabajadores de Fate",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo a la lucha contra el intento de cierre de la fábrica y por la reincorporación de los obreros",
+            "fuente": "https://prensaobrera.com/sindicales/los-obreros-de-fate-reclamaron-ante-la-secretaria-de-trabajo-y-la-movilizacion-fue-reprimida"
         },
         {
             "es_evento_relevante": true,
