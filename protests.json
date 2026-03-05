@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05T17:37:56.707800-03:00",
+    "last_updated": "2026-03-05T18:36:18.823504-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7254,6 +7254,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-09",
+            "horario": "**16:00**",
+            "lugar": "Congreso de la Nación - Plaza de Mayo, Buenos Aires",
+            "quien": "Prensa Obrera",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la guerra imperialista, el genocidio en Palestina, la política de Milei y en defensa de los derechos de mujeres, diversidades y trabajadores",
+            "fuente": "https://prensaobrera.com/mujer/dia-internacional-de-la-mujer-trabajadora-a-luchar-por-la-huelga-general-para-derrotar-a-milei-trump-y-netanyahu, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
             "horario": "10:00",
             "lugar": "Córdoba",
             "quien": "UEPC Multicolor",
@@ -7350,6 +7360,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la persecución a migrantes, el ajuste y la represión, en defensa de los derechos de los trabajadores migrantes",
             "fuente": "https://prensaobrera.com/libertades-democraticas/villa-celina-primera-asamblea-migrante-contra-los-operativos-de-la-federal-y-migraciones"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-31",
+            "horario": "No especificado",
+            "lugar": "Yacimientos petroleros de Vaca Muerta (Neuquén, Río Negro y La Pampa)",
+            "quien": "Sindicato de Petroleros de la Patagonia",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por actualización salarial frente a inflación acumulada del 33% en Neuquén y críticas a la conducción sindical por no haber parado contra la reforma laboral",
+            "fuente": "https://prensaobrera.com/sindicales/petroleros-entre-despidos-y-un-ano-de-paritaria-a-la-baja"
         },
         {
             "es_evento_relevante": true,
