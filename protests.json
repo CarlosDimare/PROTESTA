@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05T11:05:27.123593-03:00",
+    "last_updated": "2026-03-05T11:49:27.729319-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7290,6 +7290,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Debate organizativo para construir fuerza colectiva frente al aislamiento, desafiar a la clase dominante y analizar coyuntura política y económica",
             "fuente": "https://www.laizquierdadiario.com/Primera-Asamblea-de-la-Comunidad-de-La-Izquierda-Diario-junto-a-Christian-Castillo-y-Fernando-Rosso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "00:00",
+            "lugar": "Universidad de Buenos Aires (UBA) y seduces universitarias nacionales",
+            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
+            "tipo_medida": "Paro docente por tiempo indeterminado",
+            "motivo": "Exigir aumento salarial del 51% y plena aplicación de la Ley de Financiamiento Universitario (Ley 27.795)",
+            "fuente": "https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
