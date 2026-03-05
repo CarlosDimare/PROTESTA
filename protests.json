@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05T15:01:52.091490-03:00",
+    "last_updated": "2026-03-05T16:24:37.925100-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7184,6 +7184,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-05",
+            "horario": "12:48",
+            "lugar": "Facultad de Medicina UBA",
+            "quien": "AGD-UBA y Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario con 51% de recomposición salarial, oponiéndose a la propuesta del gobierno de 12,3% en tres pagos",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-AGD-UBA-vota-paro-activo-por-tiempo-indeterminado-por-la-Ley-de-Financiamiento"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
             "horario": "No especificado",
             "lugar": "Estadios de fútbol de todo el país",
             "quien": "AFA y clubes del Ascenso",
@@ -7310,6 +7320,16 @@
             "tipo_medida": "Paro docente por tiempo indeterminado",
             "motivo": "Exigir aumento salarial del 51% y plena aplicación de la Ley de Financiamiento Universitario (Ley 27.795)",
             "fuente": "https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "No especificado",
+            "lugar": "Universidades nacionales (específicamente UBA y Córdoba)",
+            "quien": "CONADU Histórica, ADIUC y AGD-UBA",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo del 51% de aumento salarial adeudado, cumplimiento de la Ley de Financiamiento Universitario y rechazo a la propuesta del 12% en tres cuotas del gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/03/05/paro-universitario-docentes-convocan-al-cese-de-tareas-por-tiempo-indeterminado/"
         },
         {
             "es_evento_relevante": true,
