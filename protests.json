@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05T08:34:58.671548-03:00",
+    "last_updated": "2026-03-05T09:48:51.074935-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7280,6 +7280,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Reclamo salarial por desconocimiento y reversión de aumento acordado, y falta de propuestas concretas del Gobierno",
             "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-asambleas-que-podrian-generar-demoras-en-aeropuertos-de-todo-el-pais-y-un-posible-paro-tras-un-mes-sin-respuestas-por-la-quita-de-un-aumento-ya-pactado-20263218290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-14",
+            "horario": "17:00",
+            "lugar": "Callao 1082",
+            "quien": "Comunidad de La Izquierda Diario",
+            "tipo_medida": "Movilización",
+            "motivo": "Debate organizativo para construir fuerza colectiva frente al aislamiento, desafiar a la clase dominante y analizar coyuntura política y económica",
+            "fuente": "https://www.laizquierdadiario.com/Primera-Asamblea-de-la-Comunidad-de-La-Izquierda-Diario-junto-a-Christian-Castillo-y-Fernando-Rosso"
         },
         {
             "es_evento_relevante": true,
