@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-04T20:26:39.156989-03:00",
+    "last_updated": "2026-03-04T22:32:33.493420-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7200,6 +7200,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigaciones judiciales a dirigentes de la AFA (Tapia y Toviggino) por presunto desvío de fondos",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/el-argumento-de-los-dirigentes-que-impulsan-el-paro-del-futbol-y-quienes-se-ausentaron-a-la-reunion-en-afa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-06",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FOEVA (Federación de Obreros y Empleados Vitivinícolas y Afines)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial y denuncia de maniobra empresarial para limitar recomposición salarial",
+            "fuente": "https://motoreconomico.com.ar/foeva-rechaza-oferta-salarial-por-miserable-en-la-paritaria-vitivinicola-y-lanza-un-paro-nacional-para-este-viernes/"
         },
         {
             "es_evento_relevante": true,
