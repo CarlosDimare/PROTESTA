@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05T11:49:27.729319-03:00",
+    "last_updated": "2026-03-05T12:50:42.730787-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7150,6 +7150,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigación judicial por presunto desvío de 19.300 millones de pesos en aportes de clubes (2024-2025)",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/los-arbitros-del-futbol-argentino-anunciaron-que-se-uniran-al-paro-en-apoyo-a-chiqui-tapia-y-pablo-toviggino/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-05",
+            "horario": "10:00",
+            "lugar": "Ministerio de Salud de la Nación",
+            "quien": "Colectivo de discapacidad (prestadores, trabajadores, personas con discapacidad y familias)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Exigencia de aplicación inmediata de la Ley de Emergencia en Discapacidad, aumento en aranceles de prestaciones y regularización de atrasos en Incluir Salud y PAMI",
+            "fuente": "https://www.laizquierdadiario.com/Emergencia-en-Discapacidad-cese-de-actividades-y-movilizacion-al-Ministerio-de-Salud"
         },
         {
             "es_evento_relevante": true,
