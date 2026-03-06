@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T01:10:49.686550-03:00",
+    "last_updated": "2026-03-06T02:47:11.614565-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7220,6 +7220,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra investigaciones judiciales a dirigentes de la AFA (Tapia y Toviggino) por presunto desvío de fondos",
             "fuente": "https://www.infobae.com/deportes/2026/02/24/el-argumento-de-los-dirigentes-que-impulsan-el-paro-del-futbol-y-quienes-se-ausentaron-a-la-reunion-en-afa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-06",
+            "horario": "14:00",
+            "lugar": "Sede de la Secretaría de Trabajo",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial por pérdida del 45,3% de poder adquisitivo, crítica a recortes como el bono de presentismo y exigencia de acuerdos por encima de la inflación",
+            "fuente": "https://estadodealerta.com.ar/ate-lleva-a-la-paritaria-estatal-nacional-de-este-viernes-un-reclamo-de-aumento-superior-al-45/"
         },
         {
             "es_evento_relevante": true,
