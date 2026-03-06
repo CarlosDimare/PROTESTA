@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T14:36:07.955246-03:00",
+    "last_updated": "2026-03-06T15:42:35.291042-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7346,10 +7346,10 @@
             "fecha": "2026-03-16",
             "horario": "00:00",
             "lugar": "Universidades nacionales",
-            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario y mejoras salariales",
-            "fuente": "https://www.datagremial.com/informacion-general/fatun-anuncio-cinco-paros-nacional-en-defensa-del-salario-y-de-los-derechos-laborales--20263614270, https://www.inforegion.com.ar/2026/03/06/trabajadores-de-universidades-anunciaron-un-plan-de-lucha-con-cinco-paros/"
+            "motivo": "Mejoras salariales y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-anuncio-cinco-paros-nacionales-en-defensa-del-salario-y-de-los-derechos-laborales--20263614270, https://www.datagremial.com/informacion-general/fatun-anuncio-cinco-paros-nacional-en-defensa-del-salario-y-de-los-derechos-laborales--20263614270, https://www.inforegion.com.ar/2026/03/06/trabajadores-de-universidades-anunciaron-un-plan-de-lucha-con-cinco-paros/"
         },
         {
             "es_evento_relevante": true,
