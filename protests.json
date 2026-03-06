@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T18:32:11.309675-03:00",
+    "last_updated": "2026-03-06T19:31:28.920300-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7263,13 +7263,33 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-07",
+            "horario": "17:00",
+            "lugar": "Mendoza, Argentina",
+            "quien": "Asambleas socioambientales, organizaciones de mujeres y diversidad, estudiantes UNCuyo, jubilados, trabajadores de la educación, trabajadores vitivinícolas, sindicatos y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la minería San Jorge y en defensa de la Ley de Glaciares, además de apoyar luchas laborales (educación y vitivinicultura) y políticas del gobierno de Cornejo y Milei",
+            "fuente": "https://www.laizquierdadiario.com/Alfredo-Cornejo-celebra-la-destruccion-del-empleo-en-Mendoza, https://www.infobae.com/politica/2024/10/01/mapa-de-la-marcha-universitaria-horarios-de-concentracion-organizaciones-que-protestan-y-zonas-afectadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-07",
+            "horario": "No especificado",
+            "lugar": "Industrias Zapla SA (Palpalá, Jujuy)",
+            "quien": "Unión Obrera Metalúrgica (UOM) Jujuy",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a propuesta salarial insuficiente y condiciones no remunerativas, reclamo de aumento sin condicionamientos y pago de deudas históricas",
+            "fuente": "https://www.laizquierdadiario.com/Rechazo-de-asamblea-al-ofrecimiento-salarial-de-la-ex-Aceros-Zapla"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-08",
             "horario": "18:00",
             "lugar": "No especificado",
-            "quien": "Delegación combativa de UEPC Capital",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al ajuste salarial del gobierno de Llaryora, defensa del salario y jubilaciones, y apoyo a la lucha de trabajadores",
-            "fuente": "https://prensaobrera.com/sindicales/paritaria-docente-cristalli-contra-las-escuelas-de-cordoba-fraude-en-asamblea-departamental-para-no-llamar-a-parar-por-48-horas, https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
+            "quien": "Motor económico",
+            "tipo_medida": "Paro feminista",
+            "motivo": "Contra las reformas de Milei y el FMI; defensa de derechos humanos, justicia social y derechos de las mujeres y diversidades",
+            "fuente": "https://motoreconomico.com.ar/8-9m-en-argentina-frente-al-derrotismo-paro-y-movilizacion-feminista/, https://prensaobrera.com/sindicales/paritaria-docente-cristalli-contra-las-escuelas-de-cordoba-fraude-en-asamblea-departamental-para-no-llamar-a-parar-por-48-horas, https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
         },
         {
             "es_evento_relevante": true,
