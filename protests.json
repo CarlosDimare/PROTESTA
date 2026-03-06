@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T16:35:28.031676-03:00",
+    "last_updated": "2026-03-06T17:33:59.794853-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7394,6 +7394,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
+            "horario": "08:00",
+            "lugar": "Plaza de Mayo, Ciudad Autónoma de Buenos Aires",
+            "quien": "Organizaciones integrantes del EMVyJ (MST, Izquierda Socialista, entre otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Marcha unitaria por el 50° aniversario del golpe militar, con debate interno sobre críticas al kirchnerismo y organismos estatales",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Prensa Obrera",
@@ -7526,10 +7536,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Liga Profesional de Fútbol",
+            "quien": "CATT (Confederación Argentina de Trabajadores del Transporte) y CGT (Confederación General del Trabajo)",
             "tipo_medida": "Paro",
-            "motivo": "Causa judicial por presuntas irregularidades fiscales que afecta a las autoridades de la AFA",
-            "fuente": "https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
+            "motivo": "Repudio a sumarios del gobierno contra sindicatos y defensa del derecho a huelga",
+            "fuente": "https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
         },
         {
             "es_evento_relevante": true,
