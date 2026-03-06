@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T09:45:17.937894-03:00",
+    "last_updated": "2026-03-06T11:03:49.164326-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7335,6 +7335,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
+            "lugar": "Universidad de Buenos Aires (UBA) y sedes nacionales",
+            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario 2025 y pago del 51% de recomposición salarial",
+            "fuente": "https://estadodealerta.com.ar/docentes-de-la-universidad-de-buenos-aires-van-al-paro-por-tiempo-indeterminado-por-financiamiento-y-salarios/, https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "00:00",
             "lugar": "No especificado",
             "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
             "tipo_medida": "Paro",
@@ -7344,12 +7354,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
-            "horario": "00:00",
-            "lugar": "Universidad de Buenos Aires (UBA) y seduces universitarias nacionales",
-            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
-            "tipo_medida": "Paro docente por tiempo indeterminado",
-            "motivo": "Exigir aumento salarial del 51% y plena aplicación de la Ley de Financiamiento Universitario (Ley 27.795)",
-            "fuente": "https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+            "horario": "09:30",
+            "lugar": "Universidad de Buenos Aires (UBA)",
+            "quien": "Asociación Gremial Docente de la Universidad de Buenos Aires (AGD-UBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial del 51% y aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/politica/2026/03/06/peligran-las-clases-en-la-uba-los-docentes-anunciaron-un-paro-indeterminado/, https://desdeelaula.blogspot.com/2025/09/agd-uba-asociacion-gremial-docente-de.html"
         },
         {
             "es_evento_relevante": true,
