@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T13:41:14.423032-03:00",
+    "last_updated": "2026-03-06T14:36:07.955246-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7253,6 +7253,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-07",
+            "horario": "00:00",
+            "lugar": "Secretaría de Trabajo",
+            "quien": "Sindicato de Fate",
+            "tipo_medida": "Paro",
+            "motivo": "Respaldo a empleados tras anuncio de cierre de la planta",
+            "fuente": "https://www.inforegion.com.ar/2026/03/04/represion-en-la-secretaria-de-trabajo-incidentes-y-detenidos-en-la-protesta-de-trabajadores-de-fate/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-08",
             "horario": "18:00",
             "lugar": "No especificado",
@@ -7335,21 +7345,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
-            "lugar": "Universidad de Buenos Aires (UBA) y sedes nacionales",
-            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
-            "tipo_medida": "Paro por tiempo indeterminado",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario 2025 y pago del 51% de recomposición salarial",
-            "fuente": "https://estadodealerta.com.ar/docentes-de-la-universidad-de-buenos-aires-van-al-paro-por-tiempo-indeterminado-por-financiamiento-y-salarios/, https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+            "lugar": "Universidades nacionales",
+            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario y mejoras salariales",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-anuncio-cinco-paros-nacional-en-defensa-del-salario-y-de-los-derechos-laborales--20263614270, https://www.inforegion.com.ar/2026/03/06/trabajadores-de-universidades-anunciaron-un-plan-de-lucha-con-cinco-paros/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo de paritarias y aumentos salariales acorde a la realidad económica, en defensa de la universidad pública y salarios dignos",
-            "fuente": "https://www.inforegion.com.ar/2026/03/06/trabajadores-de-universidades-anunciaron-un-plan-de-lucha-con-cinco-paros/"
+            "lugar": "Universidad de Buenos Aires (UBA) y sedes nacionales",
+            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario 2025 y pago del 51% de recomposición salarial",
+            "fuente": "https://estadodealerta.com.ar/docentes-de-la-universidad-de-buenos-aires-van-al-paro-por-tiempo-indeterminado-por-financiamiento-y-salarios/, https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
