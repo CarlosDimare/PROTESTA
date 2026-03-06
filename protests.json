@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T08:28:01.916496-03:00",
+    "last_updated": "2026-03-06T09:45:17.937894-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7330,6 +7330,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Debate organizativo para construir fuerza colectiva frente al aislamiento, desafiar a la clase dominante y analizar coyuntura política y económica",
             "fuente": "https://www.laizquierdadiario.com/Primera-Asamblea-de-la-Comunidad-de-La-Izquierda-Diario-junto-a-Christian-Castillo-y-Fernando-Rosso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de paritarias y aumentos salariales acorde a la realidad económica, en defensa de la universidad pública y salarios dignos",
+            "fuente": "https://www.inforegion.com.ar/2026/03/06/trabajadores-de-universidades-anunciaron-un-plan-de-lucha-con-cinco-paros/"
         },
         {
             "es_evento_relevante": true,
