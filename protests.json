@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-06T17:33:59.794853-03:00",
+    "last_updated": "2026-03-06T18:32:11.309675-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7330,6 +7330,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Reclamo salarial por desconocimiento y reversión de aumento acordado, y falta de propuestas concretas del Gobierno",
             "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-asambleas-que-podrian-generar-demoras-en-aeropuertos-de-todo-el-pais-y-un-posible-paro-tras-un-mes-sin-respuestas-por-la-quita-de-un-aumento-ya-pactado-20263218290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "11:00",
+            "lugar": "Córdoba capital",
+            "quien": "Docencia organizada desde escuelas y UEPC Capital",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a cierres de cursos/carreras, cobertura de cargos, reincorporación de 3.200 docentes despedidos, aumento salarial (40% y 82% móvil), y contra descuentos abusivos de Apross",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-sigue-el-ataque-a-la-educacion-tecnica, https://www.unotv.com/nacional/paros-y-protestas-de-maestros-afectan-varios-estados-anuncian-mas-movilizaciones/"
         },
         {
             "es_evento_relevante": true,
