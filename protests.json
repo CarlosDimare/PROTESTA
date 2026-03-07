@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-07T15:31:04.696582-03:00",
+    "last_updated": "2026-03-07T16:25:08.896522-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7330,6 +7330,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Oposición a la reforma laboral impulsada por el gobierno, defensa de derechos de mujeres trabajadoras y consigna 'Abajo la reforma laboral, nuestras vidas valen más'",
             "fuente": "https://www.laizquierdadiario.com/Nuestras-vidas-valen-mas-en-Bahia-Blanca-la-asamblea-feminista-voto-movilizar-el-9M, https://wips.digital/2025/12/16/interes-general/docentes-bahienses-haran-el-jueves-una-nueva-jornada-de-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "APUR (Asociación del Personal de la Universidad Nacional de Rosario)",
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de los derechos de las mujeres trabajadoras y por una sociedad más justa e igualitaria, en adhesión al Día Internacional de la Mujer Trabajadora",
+            "fuente": "https://elciudadanoweb.com/sin-clases-este-lunes-9-en-la-unr-por-paro-de-no-docentes/"
         },
         {
             "es_evento_relevante": true,
