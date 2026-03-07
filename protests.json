@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-07T18:23:36.167320-03:00",
+    "last_updated": "2026-03-07T19:24:28.655552-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7330,6 +7330,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Oposición a la reforma laboral impulsada por el gobierno, defensa de derechos de mujeres trabajadoras y consigna 'Abajo la reforma laboral, nuestras vidas valen más'",
             "fuente": "https://www.laizquierdadiario.com/Nuestras-vidas-valen-mas-en-Bahia-Blanca-la-asamblea-feminista-voto-movilizar-el-9M, https://wips.digital/2025/12/16/interes-general/docentes-bahienses-haran-el-jueves-una-nueva-jornada-de-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "16:30",
+            "lugar": "Congreso Nacional (intersección de Salta y Av. de Mayo) hasta Plaza de Mayo",
+            "quien": "Bloque sindical (CGT, CTA-T, CTA-A, CCC, UTEP), CTERA, con adhesión de UTE, ATE y SUTEBA",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste y reformas laborales del gobierno de Milei, defensa de derechos educativos y laborales, conmemoración del Día Internacional de la Mujer Trabajadora",
+            "fuente": "https://www.infobae.com/sociedad/2026/03/07/gremios-docentes-se-sumaron-al-paro-del-lunes-por-el-8m-y-no-habra-clases-en-varias-escuelas-de-caba-y-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
