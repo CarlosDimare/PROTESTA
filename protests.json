@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-07T17:25:03.310657-03:00",
+    "last_updated": "2026-03-07T18:23:36.167320-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7380,6 +7380,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Debate organizativo para construir fuerza colectiva frente al aislamiento, desafiar a la clase dominante y analizar coyuntura política y económica",
             "fuente": "https://www.laizquierdadiario.com/Primera-Asamblea-de-la-Comunidad-de-La-Izquierda-Diario-junto-a-Christian-Castillo-y-Fernando-Rosso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "00:00",
+            "lugar": "Todas las universidades de Argentina",
+            "quien": "FEDUN, FATUN y otros gremios docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias",
+            "fuente": "https://www.inforegion.com.ar/2026/03/07/la-fedun-tambien-para-en-reclamo-de-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
