@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-08T10:47:07.910460-03:00",
+    "last_updated": "2026-03-08T11:28:30.220519-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7335,6 +7335,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-09",
             "horario": "16:30",
+            "lugar": "Congreso Nacional a Plaza de Mayo",
+            "quien": "Organizaciones feministas y colectivos sociales/sindicales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra reformas laborales y políticas de ajuste del gobierno, con enfoque en derechos laborales y de género",
+            "fuente": "https://www.laizquierdadiario.com/Las-convocatorias-en-todo-el-pais-por-el-Dia-Internacional-de-las-Mujeres, https://www.laizquierdadiario.com/Justicia-por-Malena-en-Ezeiza-marcharon-contra-el-femicidio-de-una-joven, https://es-us.noticias.yahoo.com/niunamenos-actos-frente-congreso-reclamar-223543497.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "16:30",
             "lugar": "Congreso Nacional (intersección de Salta y Av. de Mayo) hasta Plaza de Mayo",
             "quien": "Bloque sindical (CGT, CTA-T, CTA-A, CCC, UTEP), CTERA, con adhesión de UTE, ATE y SUTEBA",
             "tipo_medida": "Marcha",
@@ -7360,16 +7370,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del aborto legal y repudio a la reforma laboral de Milei",
             "fuente": "https://elciudadanoweb.com/la-campana-por-el-derecho-al-aborto-en-rosario-convoca-a-la-movilizacion-por-el-8m/, https://elciudadanoweb.com/sin-clases-este-lunes-9-en-la-unr-por-paro-de-no-docentes/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-09",
-            "horario": "17:00",
-            "lugar": "Congreso Nacional a Plaza de Mayo",
-            "quien": "Movimiento feminista",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra femicidios, violencia machista, despidos, ataques a trabajos feminizados y sobrecarga de tareas de cuidado",
-            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Malena-en-Ezeiza-marcharon-contra-el-femicidio-de-una-joven, https://es-us.noticias.yahoo.com/niunamenos-actos-frente-congreso-reclamar-223543497.html"
         },
         {
             "es_evento_relevante": true,
