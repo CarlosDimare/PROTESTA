@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-08T08:23:16.889414-03:00",
+    "last_updated": "2026-03-08T09:41:37.331292-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7340,6 +7340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas de ajuste y reformas laborales del gobierno de Milei, defensa de derechos educativos y laborales, conmemoración del Día Internacional de la Mujer Trabajadora",
             "fuente": "https://www.infobae.com/sociedad/2026/03/07/gremios-docentes-se-sumaron-al-paro-del-lunes-por-el-8m-y-no-habra-clases-en-varias-escuelas-de-caba-y-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín (partida)",
+            "quien": "Asamblea Lesbotransfeminista Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la reforma laboral de Milei, en defensa de derechos laborales, de género y contra políticas que precarizan mujeres y disidencias",
+            "fuente": "https://elciudadanoweb.com/8m-en-rosario-horario-y-recorrido-de-la-marcha-de-este-lunes-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
