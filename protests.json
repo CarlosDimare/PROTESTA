@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-08T17:24:39.566613-03:00",
+    "last_updated": "2026-03-08T18:23:01.031482-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7340,6 +7340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Oposición a la reforma laboral impulsada por el gobierno, defensa de derechos de mujeres trabajadoras y consigna 'Abajo la reforma laboral, nuestras vidas valen más'",
             "fuente": "https://www.laizquierdadiario.com/Nuestras-vidas-valen-mas-en-Bahia-Blanca-la-asamblea-feminista-voto-movilizar-el-9M, https://wips.digital/2025/12/16/interes-general/docentes-bahienses-haran-el-jueves-una-nueva-jornada-de-protesta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "16:30",
+            "lugar": "Congreso Nacional (concentración principal en CBA) y puntos federales",
+            "quien": "Colectivo Ni Una Menos, CGT, CTA, Pan y Rosas, Campaña Nacional por el Derecho al Aborto Legal, Seguro y Gratuito",
+            "tipo_medida": "Paro y movilización federal",
+            "motivo": "Lucha contra la violencia machista, brecha salarial, precarización laboral y defensa de derechos conquistados",
+            "fuente": "https://www.inforegion.com.ar/2026/03/08/el-dia-de-la-mujer-se-traslada-a-las-calles-este-lunes-habra-paro-nacional-y-movilizaciones-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
