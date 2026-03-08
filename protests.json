@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-08T12:27:21.791562-03:00",
+    "last_updated": "2026-03-08T13:29:16.066021-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7290,6 +7290,16 @@
             "tipo_medida": "Paro feminista",
             "motivo": "Contra las reformas de Milei y el FMI; defensa de derechos humanos, justicia social y derechos de las mujeres y diversidades",
             "fuente": "https://motoreconomico.com.ar/8-9m-en-argentina-frente-al-derrotismo-paro-y-movilizacion-feminista/, https://prensaobrera.com/sindicales/paritaria-docente-cristalli-contra-las-escuelas-de-cordoba-fraude-en-asamblea-departamental-para-no-llamar-a-parar-por-48-horas, https://elciudadanoweb.com/camino-al-8m-asamblea-lesbotransfeminista-se-organiza-en-rosario-contra-la-reforma-laboral/, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-08",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones transfeministas y movimientos feministas, sindicales y sociales",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra la explotación laboral, sobrecarga de trabajos de cuidado y profundización de desigualdades para mujeres y diversidades",
+            "fuente": "https://www.anred.org/8m-llamado-al-paro-internacional-con-la-potencia-de-la-resistencia-transfeminista/"
         },
         {
             "es_evento_relevante": true,
