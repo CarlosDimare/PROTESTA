@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09T08:39:36.472353-03:00",
+    "last_updated": "2026-03-09T09:53:32.847831-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7395,6 +7395,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-09",
             "horario": "18:00",
+            "lugar": "Monumento a San Martín, Neuquén",
+            "quien": "Sindicatos (ATE, ATEN, ATE, La Bancaria, Prensa, APUNC, ANEL, SADOP, Sitramune, ADUNC, UPCN, Sanidad, SEJUN), Multisectorial de Mujeres y Diversidades de Neuquén, Pan y Rosas, centros y organizaciones estudiantiles",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo a políticas de ajuste de Milei, reforma laboral, ley de baja de punibilidad, Ley de Glaciares, violencia machista y femicidios; consigna 'Unir las luchas contra Milei y las ultraderechas'",
+            "fuente": "https://www.laizquierdadiario.com/Paro-y-movilizacion-de-las-mujeres-y-diversidades-contra-el-ajuste-de-Milei-y-los-gobernadores"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "18:00",
             "lugar": "Plaza San Martín (punto de encuentro) y recorrido por calle Moreno, San Lorenzo, Laprida, Córdoba hasta Parque Nacional a la Bandera",
             "quien": "Colectivos feministas (no especificado)",
             "tipo_medida": "Marcha",
@@ -7423,6 +7433,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "19:30",
+            "lugar": "No especificado",
+            "quien": "Docentes autoconvocados de Catamarca",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial y oposición a reformas educativas/laborales",
+            "fuente": "https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-14",
             "horario": "17:00",
             "lugar": "Callao 1082",
@@ -7436,10 +7456,10 @@
             "fecha": "2026-03-16",
             "horario": "00:00",
             "lugar": "Todas las universidades de Argentina",
-            "quien": "FEDUN, FATUN y otros gremios docentes universitarios",
+            "quien": "FEDUN, FATUN y otros gremios universitarios",
             "tipo_medida": "Paro",
-            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias",
-            "fuente": "https://www.inforegion.com.ar/2026/03/07/la-fedun-tambien-para-en-reclamo-de-la-ley-de-financiamiento-universitario/"
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y aumento salarial del 51,4%",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-anuncia-un-paro-y-alerta-sobre-el-inicio-de-clases-no-estan-dadas-las-condiciones--2026399270, https://www.inforegion.com.ar/2026/03/07/la-fedun-tambien-para-en-reclamo-de-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
