@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09T14:49:51.948548-03:00",
+    "last_updated": "2026-03-09T15:49:20.417460-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7430,6 +7430,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a cierres de cursos/carreras, cobertura de cargos, reincorporación de 3.200 docentes despedidos, aumento salarial (40% y 82% móvil), y contra descuentos abusivos de Apross",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-sigue-el-ataque-a-la-educacion-tecnica, https://www.unotv.com/nacional/paros-y-protestas-de-maestros-afectan-varios-estados-anuncian-mas-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "16:30",
+            "lugar": "Congreso de la Nación (partida) hacia Plaza de Mayo (destino)",
+            "quien": "Colectivos feministas (Ni Una Menos, asambleas feministas del 8M) y sindicatos (ATE, CTERA, SUTEBA, Ademys)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Rechazo al ajuste económico del gobierno de Milei, defensa de derechos laborales y denuncia de violencias de género",
+            "fuente": "https://estadodealerta.com.ar/paros-y-movilizaciones-en-todo-el-pais-por-el-dia-de-la-mujer-con-importante-adhesion-sindical/"
         },
         {
             "es_evento_relevante": true,
