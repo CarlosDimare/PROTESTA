@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09T07:45:34.762167-03:00",
+    "last_updated": "2026-03-09T08:39:36.472353-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7390,6 +7390,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del aborto legal y repudio a la reforma laboral de Milei",
             "fuente": "https://elciudadanoweb.com/la-campana-por-el-derecho-al-aborto-en-rosario-convoca-a-la-movilizacion-por-el-8m/, https://elciudadanoweb.com/sin-clases-este-lunes-9-en-la-unr-por-paro-de-no-docentes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "18:00",
+            "lugar": "Plaza San Martín (punto de encuentro) y recorrido por calle Moreno, San Lorenzo, Laprida, Córdoba hasta Parque Nacional a la Bandera",
+            "quien": "Colectivos feministas (no especificado)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del Día Internacional de la Mujer",
+            "fuente": "https://elciudadanoweb.com/habra-transporte-urbano-gratuito-y-desvios-de-recorridos-por-la-marcha-del-dia-de-la-mujer/"
         },
         {
             "es_evento_relevante": true,
