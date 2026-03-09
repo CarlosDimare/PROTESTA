@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09T17:33:29.114550-03:00",
+    "last_updated": "2026-03-09T18:35:02.775351-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7345,6 +7345,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-09",
             "horario": "16:30",
+            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
+            "quien": "Ni Una Menos y otras organizaciones (CGT, CTA, Pan y Rosas, Campaña Nacional por el Derecho al Aborto)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del Día Internacional de la Mujer Trabajadora y reclamos por igualdad de género, lucha contra la violencia machista, brecha salarial y precarización laboral",
+            "fuente": "https://elciudadanoweb.com/organizaciones-feministas-sociales-politicas-y-sindicales-se-manifestaron-en-todo-el-pais-por-el-dia-internacional-de-la-mujer/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "16:30",
             "lugar": "Congreso Nacional (concentración principal en CBA) y puntos federales",
             "quien": "Colectivo Ni Una Menos, CGT, CTA, Pan y Rosas, Campaña Nacional por el Derecho al Aborto Legal, Seguro y Gratuito",
             "tipo_medida": "Paro y movilización federal",
@@ -7410,6 +7420,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración del Día Internacional de la Mujer",
             "fuente": "https://elciudadanoweb.com/habra-transporte-urbano-gratuito-y-desvios-de-recorridos-por-la-marcha-del-dia-de-la-mujer/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
+            "horario": "18:30",
+            "lugar": "Plaza de Mayo",
+            "quien": "Organizaciones feministas, LGTBIQ+, sociales, sindicales y políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a las reformas laborales esclavistas, políticas de ajuste de Milei, y defensa de derechos de mujeres y trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-Miles-movilizan-a-Plaza-de-Mayo-por-el-Dia-Internacional-de-las-Mujeres"
         },
         {
             "es_evento_relevante": true,
