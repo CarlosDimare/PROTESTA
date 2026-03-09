@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-09T18:35:02.775351-03:00",
+    "last_updated": "2026-03-09T19:28:51.672980-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7344,6 +7344,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-09",
+            "horario": "16:00",
+            "lugar": "Congreso de la Nación hacia Plaza de Mayo",
+            "quien": "Organizaciones feministas, LGTBIQ+, sociales, sindicales y políticas (incluyendo Pan y Rosas, FIT-U/PTS, comisión de mujeres de FATE, trabajadoras del Garrahan, etc.)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a reformas laborales 'esclavistas', políticas de ajuste de Milei, defensa de derechos femeninos, reclamos por reincorporación de trabajadoras despedidas y contra el cierre de FATE",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-Masiva-movilizacion-por-el-Dia-Internacional-de-las-Mujeres-en-la-Ciudad-de-Buenos-Aires"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-09",
             "horario": "16:30",
             "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
             "quien": "Ni Una Menos y otras organizaciones (CGT, CTA, Pan y Rosas, Campaña Nacional por el Derecho al Aborto)",
@@ -7466,10 +7476,10 @@
             "fecha": "2026-03-11",
             "horario": "19:30",
             "lugar": "No especificado",
-            "quien": "Docentes autoconvocados de Catamarca",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo salarial y oposición a reformas educativas/laborales",
-            "fuente": "https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
+            "quien": "FESTRAM (Federación de Sindicatos de Trabajadores Municipales de Santa Fe)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del 12.5% para el primer semestre 2026 y reclamo por garantías salariales mínimas de $170.000",
+            "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-festram-rechazo-la-oferta-salarial-y-confirmo-un-paro-de-48-horas-para-esta-semana/, https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
         },
         {
             "es_evento_relevante": true,
