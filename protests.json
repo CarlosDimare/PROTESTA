@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T15:45:26.181641-03:00",
+    "last_updated": "2026-03-10T16:42:26.684440-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7500,6 +7500,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 12.5% para el primer semestre 2026 y reclamo por garantías salariales mínimas de $170.000",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-festram-rechazo-la-oferta-salarial-y-confirmo-un-paro-de-48-horas-para-esta-semana/, https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-12",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional, Plaza del Congreso",
+            "quien": "Colectivos antirrepresivos (Cadep, Unidos por la Cultura)",
+            "tipo_medida": "Festival/Movilización",
+            "motivo": "Solidaridad con víctimas de represión y contra el protocolo antipiquetes",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/el-juicio-antipiquetes-armado-por-la-federal-y-un-ano-del-disparo-a-pablo-grillo"
         },
         {
             "es_evento_relevante": true,
