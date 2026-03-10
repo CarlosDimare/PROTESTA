@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T08:39:19.720673-03:00",
+    "last_updated": "2026-03-10T09:55:54.525436-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7470,6 +7470,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a cierres de cursos/carreras, cobertura de cargos, reincorporación de 3.200 docentes despedidos, aumento salarial (40% y 82% móvil), y contra descuentos abusivos de Apross",
             "fuente": "https://prensaobrera.com/sindicales/cordoba-sigue-el-ataque-a-la-educacion-tecnica, https://www.unotv.com/nacional/paros-y-protestas-de-maestros-afectan-varios-estados-anuncian-mas-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "14:00",
+            "lugar": "Calle Tomás Bridges 2875, Río Grande, Tierra del Fuego",
+            "quien": "Unión Obrera Metalúrgica (UOM) - Seccional Río Grande y Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Reclamar por la continuidad de la empresa Aires del Sur y respaldo a 140 trabajadores afectados por abandono patronal y falta de pago",
+            "fuente": "https://www.datagremial.com/informacion-general/con-apoyo-del-frente-de-sindicatos-unidos-la-uom-lanza-un-paro-en-tierra-del-fuego-20263109260"
         },
         {
             "es_evento_relevante": true,
