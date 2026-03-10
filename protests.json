@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T12:00:02.147974-03:00",
+    "last_updated": "2026-03-10T13:12:34.789483-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7550,6 +7550,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de recomposición salarial del 51% y aplicación de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/03/06/peligran-las-clases-en-la-uba-los-docentes-anunciaron-un-paro-indeterminado/, https://desdeelaula.blogspot.com/2025/09/agd-uba-asociacion-gremial-docente-de.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CONADU y AGD-UBA",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir aplicación de Ley de Financiamiento Universitario, convocatoria a paritarias y recomposición salarial del 51%",
+            "fuente": "https://www.infobae.com/politica/2026/03/10/el-gobierno-preve-semanas-tensas-por-el-financiamiento-universitario-y-podria-acelerar-con-su-proyecto-ante-las-amenazas-de-paro/"
         },
         {
             "es_evento_relevante": true,
