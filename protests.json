@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T07:42:55.926465-03:00",
+    "last_updated": "2026-03-10T08:39:19.720673-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7450,6 +7450,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Reclamo salarial por desconocimiento y reversión de aumento acordado, y falta de propuestas concretas del Gobierno",
             "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-asambleas-que-podrian-generar-demoras-en-aeropuertos-de-todo-el-pais-y-un-posible-paro-tras-un-mes-sin-respuestas-por-la-quita-de-un-aumento-ya-pactado-20263218290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "11:00",
+            "lugar": "Puertas de la fábrica FATE en San Fernando",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de puestos de trabajo contra el cierre de la fábrica FATE y reincorporación de los 920 trabajadores despedidos",
+            "fuente": "https://www.infobae.com/sociedad/2026/03/10/la-justicia-revoco-el-desalojo-en-fate-y-legitimo-la-protesta-del-sindicato-por-el-cierre-de-la-fabrica/"
         },
         {
             "es_evento_relevante": true,
