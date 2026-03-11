@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T18:32:27.876414-03:00",
+    "last_updated": "2026-03-11T19:27:28.892241-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7520,6 +7520,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 12.5% para el primer semestre 2026 y reclamo por garantías salariales mínimas de $170.000",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-festram-rechazo-la-oferta-salarial-y-confirmo-un-paro-de-48-horas-para-esta-semana/, https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "No especificado",
+            "lugar": "Neuquén",
+            "quien": "Polo Obrero y Partido Obrero",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa contra la persecución judicial y política, en el marco de la lucha contra el hambre",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/neuquen-abajo-la-causa-persecutoria-contra-las-organizaciones-sociales-y-piqueteras"
         },
         {
             "es_evento_relevante": true,
