@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T03:55:47.663155-03:00",
+    "last_updated": "2026-03-11T04:50:13.436520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7520,6 +7520,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el proyecto de reforma laboral",
             "fuente": "https://estadodealerta.com.ar/frente-sindicatos-unidos-anuncia-ofensiva-sindical-federal-contra-la-reforma-laboral-y-un-ipc-propio-para-medir-la-inflacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-14",
+            "horario": "17:00",
+            "lugar": "bar Cultural La Paz Arriba, Callao 1082 (CABA)",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Encuentro comunitario",
+            "motivo": "Creación de espacios de debate político y formación para la comunidad lectora, frente al contexto de ajuste y guerra",
+            "fuente": "https://www.laizquierdadiario.com/Una-comunidad-que-quiere-debatir-La-Izquierda-Diario-convoca-a-su-primera-asamblea"
         },
         {
             "es_evento_relevante": true,
