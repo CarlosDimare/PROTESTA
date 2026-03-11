@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T19:27:28.892241-03:00",
+    "last_updated": "2026-03-11T20:27:32.380317-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7660,6 +7660,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "09:00",
+            "lugar": "Sede ANAC, Ciudad Autónoma de Buenos Aires",
+            "quien": "Asociación de Trabajadores del Estado (ATE) - ANAC",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Incumplimiento de acuerdos salariales y techo salarial impuesto",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-anac-profundiza-su-plan-de-lucha-con-medidas-de-accion-gremial-que-provocaran-cancelaciones-y-demoras-en-los-vuelos-del-proximo-fin-de-semana-largo-202631119140"
         },
         {
             "es_evento_relevante": true,
