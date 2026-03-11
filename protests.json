@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T05:46:49.154833-03:00",
+    "last_updated": "2026-03-11T06:49:19.241273-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7500,6 +7500,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta salarial del 12.5% para el primer semestre 2026 y reclamo por garantías salariales mínimas de $170.000",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-festram-rechazo-la-oferta-salarial-y-confirmo-un-paro-de-48-horas-para-esta-semana/, https://www.laizquierdadiario.com/Profundizamos-la-autoorganizacion-impulsamos-cortes-afectando-a-las-mineras"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "No especificado",
+            "lugar": "Casa de Gobierno de Jujuy",
+            "quien": "Policía de Jujuy",
+            "tipo_medida": "Manifestación",
+            "motivo": "Reclamo salarial con exigencia de piso salarial de $1.150.000 y adicionales por presentismo",
+            "fuente": "https://www.infobae.com/politica/2026/03/11/ante-el-reclamo-policial-el-gobierno-de-jujuy-propuso-un-esquema-de-aumentos-escalonados/"
         },
         {
             "es_evento_relevante": true,
