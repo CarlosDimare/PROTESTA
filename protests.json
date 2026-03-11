@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T12:55:52.662174-03:00",
+    "last_updated": "2026-03-11T13:52:06.836479-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7455,6 +7455,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-11",
             "horario": "11:00",
+            "lugar": "Córdoba Capital",
+            "quien": "UEPC Capital",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la propuesta salarial del gobierno provincial y plan de lucha por aumento salarial y presupuesto para educación",
+            "fuente": "https://prensaobrera.com/sindicales/no-hay-ningun-aumento-ni-recuperacion-salarial-para-la-docencia-de-cordoba, https://prensaobrera.com/sindicales/cordoba-sigue-el-ataque-a-la-educacion-tecnica, https://www.unotv.com/nacional/paros-y-protestas-de-maestros-afectan-varios-estados-anuncian-mas-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "11:00",
             "lugar": "Planta de FATE en San Fernando, Provincia de Buenos Aires",
             "quien": "Sindicato de Trabajadores de la Industria del Neumático (SUTNA) y trabajadores de FATE",
             "tipo_medida": "Movilización",
@@ -7480,16 +7490,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de puestos de trabajo contra el cierre de la fábrica FATE y reincorporación de los 920 trabajadores despedidos",
             "fuente": "https://www.infobae.com/sociedad/2026/03/10/la-justicia-revoco-el-desalojo-en-fate-y-legitimo-la-protesta-del-sindicato-por-el-cierre-de-la-fabrica/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-11",
-            "horario": "11:00",
-            "lugar": "Córdoba capital",
-            "quien": "Docencia organizada desde escuelas y UEPC Capital",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a cierres de cursos/carreras, cobertura de cargos, reincorporación de 3.200 docentes despedidos, aumento salarial (40% y 82% móvil), y contra descuentos abusivos de Apross",
-            "fuente": "https://prensaobrera.com/sindicales/cordoba-sigue-el-ataque-a-la-educacion-tecnica, https://www.unotv.com/nacional/paros-y-protestas-de-maestros-afectan-varios-estados-anuncian-mas-movilizaciones/"
         },
         {
             "es_evento_relevante": true,
