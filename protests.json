@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-10T20:28:36.853724-03:00",
+    "last_updated": "2026-03-10T22:39:41.846668-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7510,6 +7510,16 @@
             "tipo_medida": "Festival/Movilización",
             "motivo": "Solidaridad con víctimas de represión y contra el protocolo antipiquetes",
             "fuente": "https://prensaobrera.com/libertades-democraticas/el-juicio-antipiquetes-armado-por-la-federal-y-un-ano-del-disparo-a-pablo-grillo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-13",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Frente de Sindicatos Unidos (FreSu)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el proyecto de reforma laboral",
+            "fuente": "https://estadodealerta.com.ar/frente-sindicatos-unidos-anuncia-ofensiva-sindical-federal-contra-la-reforma-laboral-y-un-ipc-propio-para-medir-la-inflacion/"
         },
         {
             "es_evento_relevante": true,
