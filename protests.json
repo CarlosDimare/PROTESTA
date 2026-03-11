@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T08:35:31.019504-03:00",
+    "last_updated": "2026-03-11T09:52:04.855099-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7590,6 +7590,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de recomposición salarial del 51% y aplicación de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/03/06/peligran-las-clases-en-la-uba-los-docentes-anunciaron-un-paro-indeterminado/, https://desdeelaula.blogspot.com/2025/09/agd-uba-asociacion-gremial-docente-de.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "10:00",
+            "lugar": "Aulas de la Universidad de La Habana",
+            "quien": "Estudiantes de la Universidad de La Habana",
+            "tipo_medida": "Asamblea",
+            "motivo": "Consensuar reclamos contra clases virtuales, tareas sociales y representación estudiantil",
+            "fuente": "https://www.laizquierdadiario.com/Sigue-la-protesta-estudiantil-en-Cuba, https://www.infobae.com/america/mundo/2026/03/09/una-protesta-estudiantil-sacude-la-universidad-de-la-habana-en-medio-de-la-crisis-en-cuba/"
         },
         {
             "es_evento_relevante": true,
