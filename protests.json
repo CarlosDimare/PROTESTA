@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T11:14:14.233328-03:00",
+    "last_updated": "2026-03-11T12:55:52.662174-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7450,6 +7450,26 @@
             "tipo_medida": "Paro general",
             "motivo": "Reclamo salarial por desconocimiento y reversión de aumento acordado, y falta de propuestas concretas del Gobierno",
             "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-asambleas-que-podrian-generar-demoras-en-aeropuertos-de-todo-el-pais-y-un-posible-paro-tras-un-mes-sin-respuestas-por-la-quita-de-un-aumento-ya-pactado-20263218290"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "11:00",
+            "lugar": "Planta de FATE en San Fernando, Provincia de Buenos Aires",
+            "quien": "Sindicato de Trabajadores de la Industria del Neumático (SUTNA) y trabajadores de FATE",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el pago de salarios y cumplimiento de conciliación obligatoria",
+            "fuente": "https://www.laizquierdadiario.com/Abrazo-a-la-lucha-de-los-trabajadores-de-Fate"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "11:00",
+            "lugar": "Fábrica de neumáticos FATE, San Fernando",
+            "quien": "Trabajadores del SUTNA y organizaciones solidarias",
+            "tipo_medida": "Movilización (abrazo a la planta)",
+            "motivo": "Defensa de los puestos de trabajo, derecho a huelga y rechazo al desalojo",
+            "fuente": "https://estadodealerta.com.ar/fate-bajo-presion-multas-de-capital-humano-respaldo-judicial-al-sutna-y-creciente-solidaridad-gremial-y-popular/"
         },
         {
             "es_evento_relevante": true,
