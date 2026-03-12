@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T09:50:20.222695-03:00",
+    "last_updated": "2026-03-12T11:08:24.461973-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7560,6 +7560,26 @@
             "tipo_medida": "Festival/Movilización",
             "motivo": "Solidaridad con víctimas de represión y contra el protocolo antipiquetes",
             "fuente": "https://prensaobrera.com/libertades-democraticas/el-juicio-antipiquetes-armado-por-la-federal-y-un-ano-del-disparo-a-pablo-grillo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-12",
+            "horario": "19:00",
+            "lugar": "Plaza San Martín, Río Gallegos",
+            "quien": "ADOSAC (Asociación Docentes de Santa Cruz)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a incumplimientos paritarios, despidos, salarios por debajo de la línea de pobreza y congelamiento salarial por el Proyecto de Emergencia Económica",
+            "fuente": "https://www.laizquierdadiario.com/La-docencia-de-Santa-Cruz-sale-a-la-calle-paro-por-despidos-encubiertos-y-pobreza-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-13",
+            "horario": "10:00",
+            "lugar": "Casa de Gobierno",
+            "quien": "Docentes de Jujuy (Cedems)",
+            "tipo_medida": "Marcha",
+            "motivo": "Por falta de convocatoria a paritarias y por salario igual a la canasta familiar",
+            "fuente": "https://www.laizquierdadiario.com/Pese-al-cerco-policial-la-movilizacion-de-docentes-y-estatales-obligo-a-reabrir-paritarias, https://www.quepasajujuy.com.ar/politica/paro-24-horas-jujuy-docentes/"
         },
         {
             "es_evento_relevante": true,
