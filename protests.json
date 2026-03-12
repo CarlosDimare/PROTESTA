@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T08:37:44.148389-03:00",
+    "last_updated": "2026-03-12T09:50:20.222695-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7670,6 +7670,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "00:00",
+            "lugar": "Todos los aeropueros del país",
+            "quien": "ATE ANAC (Asociación de Trabajadores del Estado - Administración Nacional de Aviación Civil)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de aumentos salariales acordados pero no pagados por parte de la ANAC",
+            "fuente": "https://estadodealerta.com.ar/por-reclamo-salarial-trabajadores-de-anac-anuncian-paro-que-afectara-vuelos-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
