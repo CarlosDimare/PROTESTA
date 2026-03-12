@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-11T20:27:32.380317-03:00",
+    "last_updated": "2026-03-11T22:30:19.439941-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7500,6 +7500,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Reclamar por la continuidad de la empresa Aires del Sur y respaldo a 140 trabajadores afectados por abandono patronal y falta de pago",
             "fuente": "https://www.datagremial.com/informacion-general/con-apoyo-del-frente-de-sindicatos-unidos-la-uom-lanza-un-paro-en-tierra-del-fuego-20263109260"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-11",
+            "horario": "15:00",
+            "lugar": "Gobernación de Catamarca (ciudad capital)",
+            "quien": "Docentes de Catamarca con apoyo de jubilados autoconvocados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo salarial (mínimo $1.300.000), contra ajuste en educación, bonos no acumulables, precarización laboral y falta de presupuesto para infraestructura",
+            "fuente": "https://www.laizquierdadiario.com/Mientras-Jalil-pasea-con-Milei-en-Nueva-York-una-gran-marcha-de-docentes-en-Catamarca-reclamo-por"
         },
         {
             "es_evento_relevante": true,
