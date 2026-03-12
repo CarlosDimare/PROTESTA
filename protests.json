@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T16:41:45.818052-03:00",
+    "last_updated": "2026-03-12T17:34:19.582403-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7730,6 +7730,16 @@
             "tipo_medida": "Paro parcial",
             "motivo": "Incumplimiento de acuerdos salariales y techo salarial impuesto",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anac-profundiza-su-plan-de-lucha-con-medidas-de-accion-gremial-que-provocaran-cancelaciones-y-demoras-en-los-vuelos-del-proximo-fin-de-semana-largo-202631119140"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
+            "horario": "10:00",
+            "lugar": "Todo el país",
+            "quien": "Sindicatos docentes (CTERA, UDA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
+            "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
