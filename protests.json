@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T12:58:38.879023-03:00",
+    "last_updated": "2026-03-12T13:59:46.284596-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7580,6 +7580,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Por falta de convocatoria a paritarias y por salario igual a la canasta familiar",
             "fuente": "https://www.laizquierdadiario.com/Pese-al-cerco-policial-la-movilizacion-de-docentes-y-estatales-obligo-a-reabrir-paritarias, https://www.quepasajujuy.com.ar/politica/paro-24-horas-jujuy-docentes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-13",
+            "horario": "No especificado",
+            "lugar": "Rosario",
+            "quien": "Amsafé y Sadop",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial, reapertura de paritaria, salud laboral e igualdad salarial en el sistema educativo de Santa Fe",
+            "fuente": "https://elciudadanoweb.com/protesta-de-amsafe-y-sadop-en-rosario-tenemos-que-ir-a-trabajar-enfermos-y-hay-desproteccion/"
         },
         {
             "es_evento_relevante": true,
