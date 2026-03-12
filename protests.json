@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T14:48:16.679641-03:00",
+    "last_updated": "2026-03-12T15:50:33.759525-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7550,6 +7550,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Reclamo salarial con exigencia de piso salarial de $1.150.000 y adicionales por presentismo",
             "fuente": "https://www.infobae.com/politica/2026/03/11/ante-el-reclamo-policial-el-gobierno-de-jujuy-propuso-un-esquema-de-aumentos-escalonados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-12",
+            "horario": "10:00",
+            "lugar": "Plaza 25 de Mayo (San Fernando del Valle de Catamarca)",
+            "quien": "Docentes autoconvocados de Catamarca",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir salario básico de $1.300.000, evitar descuentos por huelga, rechazo a reformas educativas antieducativas y defensa de la educación pública contra el ajuste de Milei y Jalil",
+            "fuente": "https://prensaobrera.com/sindicales/gran-movilizacion-docente-en-catamarca"
         },
         {
             "es_evento_relevante": true,
