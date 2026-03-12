@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12T17:34:19.582403-03:00",
+    "last_updated": "2026-03-12T18:31:53.591123-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7740,6 +7740,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
             "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-22",
+            "horario": "17:00",
+            "lugar": "Esquina Eva Perón y avenida San Martín, Granadero Baigorria",
+            "quien": "Documenta Baigorria y Encuentro Provincial por los Derechos Humanos",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del 50° aniversario del golpe de Estado y memoria de las víctimas de La Calamita",
+            "fuente": "https://elciudadanoweb.com/habra-una-marcha-hacia-la-calamita-el-centro-clandestino-de-detencion-de-granadero-baigorria/"
         },
         {
             "es_evento_relevante": true,
