@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T06:45:28.157899-03:00",
+    "last_updated": "2026-03-13T07:36:44.015736-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7580,6 +7580,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a incumplimientos paritarios, despidos, salarios por debajo de la línea de pobreza y congelamiento salarial por el Proyecto de Emergencia Económica",
             "fuente": "https://www.laizquierdadiario.com/La-docencia-de-Santa-Cruz-sale-a-la-calle-paro-por-despidos-encubiertos-y-pobreza-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-13",
+            "horario": "10:00",
+            "lugar": "San Fernando del Valle de Catamarca",
+            "quien": "Docentes autoconvocados de Catamarca",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de salario mínimo de $1.300.000 y defensa de la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Miserable-oferta-salarial-del-peronista-Jalil-sigue-la-lucha-docente-en-Catamarca"
         },
         {
             "es_evento_relevante": true,
