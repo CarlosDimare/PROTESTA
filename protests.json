@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T15:41:03.613866-03:00",
+    "last_updated": "2026-03-13T16:34:31.443936-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7680,6 +7680,16 @@
             "tipo_medida": "Paro por tiempo indeterminado",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario 2025 y pago del 51% de recomposición salarial",
             "fuente": "https://estadodealerta.com.ar/docentes-de-la-universidad-de-buenos-aires-van-al-paro-por-tiempo-indeterminado-por-financiamiento-y-salarios/, https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "08:00",
+            "lugar": "Cruce de Av. Puán y Av. Rivadavia",
+            "quien": "Estudiantes de Filosofía y Letras (UBA) - En Clave Roja",
+            "tipo_medida": "Corte",
+            "motivo": "Apoyo a la lucha docente y no docente universitaria por salarios y Ley de Emergencia Presupuestaria",
+            "fuente": "https://www.laizquierdadiario.com/La-asamblea-del-CEFyL-resolvio-movilizar-el-24M-de-forma-independiente-y-acompanar-la-lucha-de-los"
         },
         {
             "es_evento_relevante": true,
