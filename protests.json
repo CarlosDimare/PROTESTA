@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T14:37:40.934176-03:00",
+    "last_updated": "2026-03-13T15:41:03.613866-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7710,6 +7710,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Consensuar reclamos contra clases virtuales, tareas sociales y representación estudiantil",
             "fuente": "https://www.laizquierdadiario.com/Sigue-la-protesta-estudiantil-en-Cuba, https://www.infobae.com/america/mundo/2026/03/09/una-protesta-estudiantil-sacude-la-universidad-de-la-habana-en-medio-de-la-crisis-en-cuba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "11:00",
+            "lugar": "Edificio Malecón, Av. Elvira Rawson de Dellepiane 150, Puerto Madero",
+            "quien": "Sindicato del Seguro",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por el pago inmediato de haberes a trabajadores de Galeno ART tras la revocación de su autorización y la liquidación de la empresa",
+            "fuente": "https://estadodealerta.com.ar/galeno-art-en-crisis-el-sindicato-del-seguro-marcha-el-lunes-a-puerto-madero-por-el-pago-de-salarios/"
         },
         {
             "es_evento_relevante": true,
