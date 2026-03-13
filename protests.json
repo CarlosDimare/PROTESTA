@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T11:50:31.971634-03:00",
+    "last_updated": "2026-03-13T12:45:23.168187-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7620,6 +7620,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el proyecto de reforma laboral",
             "fuente": "https://estadodealerta.com.ar/frente-sindicatos-unidos-anuncia-ofensiva-sindical-federal-contra-la-reforma-laboral-y-un-ipc-propio-para-medir-la-inflacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-14",
+            "horario": "12:00",
+            "lugar": "Esquina de Astor Piazzola y Montesquieu",
+            "quien": "Vecinos evacuados del complejo habitacional de Parque Patricios",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar justicia, reubicación y recuperación de pertenencias tras el derrumbe del edificio",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/03/13/los-vecinos-afectados-por-el-derrumbe-de-parque-patricios-convocaron-a-una-marcha-para-pedir-justicia/"
         },
         {
             "es_evento_relevante": true,
