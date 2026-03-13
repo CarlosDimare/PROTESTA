@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T11:04:34.633623-03:00",
+    "last_updated": "2026-03-13T11:50:31.971634-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8020,6 +8020,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Presentar el fallo judicial favorable al derecho de huelga y exigir cumplimiento de demandas educativas",
             "fuente": "https://www.laizquierdadiario.com/Paro-masivo-la-docencia-bonaerense-exigio-mejoras-salariales-y-educativas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado (posterior a 2026-03-13)",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ASIJEMIN (Sindicato Jerárquico Minero)",
+            "tipo_medida": "Paro",
+            "motivo": "Discriminación en el pago del bono de producción hacia personal técnico y profesional, tras la intransigencia de la empresa Newmont en la conciliación obligatoria",
+            "fuente": "https://www.datagremial.com/informacion-general/cerro-negro-asijemin-acuso-a-newmont-de-vaciar-la-audiencia-por-el-bono-se-declaro-en-estado-de-alerta-y-asamblea-permanente-y-quedo-al-borde-del-paro-2026312700"
         }
     ]
 }
