@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-13T09:47:21.319865-03:00",
+    "last_updated": "2026-03-13T11:04:34.633623-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7670,6 +7670,16 @@
             "tipo_medida": "Paro por tiempo indeterminado",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario 2025 y pago del 51% de recomposición salarial",
             "fuente": "https://estadodealerta.com.ar/docentes-de-la-universidad-de-buenos-aires-van-al-paro-por-tiempo-indeterminado-por-financiamiento-y-salarios/, https://www.inforegion.com.ar/2026/03/05/paro-docente-anuncian-huelga-por-tiempo-indeterminado-desde-el-16-de-marzo-para-que-cumpla-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "08:00",
+            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN Rosario)",
+            "quien": "Coad (UNR) y Fagdut (UTN Rosario)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial y presupuestario por incumplimiento de la ley de financiamiento universitaria que promete 54% de recomposición salarial, frente a la propuesta oficial del 12%",
+            "fuente": "https://elciudadanoweb.com/el-paro-docente-en-la-unr-y-utn-se-extendera-del-16-al-22-de-marzo/"
         },
         {
             "es_evento_relevante": true,
