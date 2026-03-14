@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-14T15:34:28.876960-03:00",
+    "last_updated": "2026-03-14T16:27:27.968088-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7725,6 +7725,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Trabajadores de Lácteos Verónica",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir respuestas patronales, cobro de salarios atrasados, aguinaldos y evitar despidos",
+            "fuente": "https://elciudadanoweb.com/crisis-en-lacteos-veronica-convocan-a-una-manifestacion-en-apoyo-a-trabajadoras-y-trabajadores/, https://www.infobae.com/politica/2026/03/10/el-gobierno-preve-semanas-tensas-por-el-financiamiento-universitario-y-podria-acelerar-con-su-proyecto-ante-las-amenazas-de-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "10:00",
             "lugar": "Aulas de la Universidad de La Habana",
             "quien": "Estudiantes de la Universidad de La Habana",
             "tipo_medida": "Asamblea",
@@ -7740,16 +7750,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por el pago inmediato de haberes a trabajadores de Galeno ART tras la revocación de su autorización y la liquidación de la empresa",
             "fuente": "https://estadodealerta.com.ar/galeno-art-en-crisis-el-sindicato-del-seguro-marcha-el-lunes-a-puerto-madero-por-el-pago-de-salarios/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-16",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "CONADU y AGD-UBA",
-            "tipo_medida": "Paro",
-            "motivo": "Exigir aplicación de Ley de Financiamiento Universitario, convocatoria a paritarias y recomposición salarial del 51%",
-            "fuente": "https://www.infobae.com/politica/2026/03/10/el-gobierno-preve-semanas-tensas-por-el-financiamiento-universitario-y-podria-acelerar-con-su-proyecto-ante-las-amenazas-de-paro/"
         },
         {
             "es_evento_relevante": true,
