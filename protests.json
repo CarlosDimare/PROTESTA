@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-15T19:26:10.241028-03:00",
+    "last_updated": "2026-03-15T20:28:56.610886-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7665,6 +7665,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN Rosario)",
+            "quien": "Coad (UNR) y Federación Gremial de Docentes de la UTN (Fagdut)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial y presupuestario, incumplimiento de la ley de financiamiento universitaria que establece 54% de recomposición salarial",
+            "fuente": "https://elciudadanoweb.com/paro-nacional-universitario-la-unr-y-la-utn-arrancan-este-lunes-con-una-medida-de-fuerza-que-se-extendera-toda-la-semana/, https://elciudadanoweb.com/el-paro-docente-en-la-unr-y-utn-se-extendera-del-16-al-22-de-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "00:00",
             "lugar": "Todas las universidades de Argentina",
             "quien": "FEDUN, FATUN y otros gremios universitarios",
             "tipo_medida": "Paro",
@@ -7700,16 +7710,6 @@
             "tipo_medida": "Corte",
             "motivo": "Apoyo a la lucha docente y no docente universitaria por salarios y Ley de Emergencia Presupuestaria",
             "fuente": "https://www.laizquierdadiario.com/La-asamblea-del-CEFyL-resolvio-movilizar-el-24M-de-forma-independiente-y-acompanar-la-lucha-de-los"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-16",
-            "horario": "08:00",
-            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN Rosario)",
-            "quien": "Coad (UNR) y Fagdut (UTN Rosario)",
-            "tipo_medida": "Paro",
-            "motivo": "Conflicto salarial y presupuestario por incumplimiento de la ley de financiamiento universitaria que promete 54% de recomposición salarial, frente a la propuesta oficial del 12%",
-            "fuente": "https://elciudadanoweb.com/el-paro-docente-en-la-unr-y-utn-se-extendera-del-16-al-22-de-marzo/"
         },
         {
             "es_evento_relevante": true,
