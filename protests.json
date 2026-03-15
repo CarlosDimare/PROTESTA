@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-14T22:58:41.985255-03:00",
+    "last_updated": "2026-03-15T01:35:12.196105-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7780,6 +7780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de aumentos salariales acordados pero no pagados por parte de la ANAC",
             "fuente": "https://estadodealerta.com.ar/por-reclamo-salarial-trabajadores-de-anac-anuncian-paro-que-afectara-vuelos-en-todo-el-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "08:00",
+            "lugar": "Universidades Públicas Nacionales (60 casas de altos estudios)",
+            "quien": "Frente Sindical de Universidades Nacionales (FSUN) - FEDUN y CONADU Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de Ley de Financiamiento Universitario, emergencia salarial y convocatoria urgente a paritarias",
+            "fuente": "https://www.datagremial.com/escenario/docentes-y-nodocentes-universitarios-inician-semana-de-protestas-contra-la-mayor-perdida-salarial-de-la-historia--20263151000"
         },
         {
             "es_evento_relevante": true,
