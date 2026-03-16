@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T16:56:43.682564-03:00",
+    "last_updated": "2026-03-16T17:39:11.018121-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7900,6 +7900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por aumento salarial y aplicación de Ley de Financiamiento Universitario",
             "fuente": "https://estadodealerta.com.ar/docentes-universitarios-iniciaron-un-paro-nacional-por-salarios-en-la-uba-es-por-tiempo-indeterminado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
+            "horario": "No especificado",
+            "lugar": "Lugar federal",
+            "quien": "Frente Sindical de las Universidades Nacionales, estudiantes y trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar mejoras salariales, exigir cumplimiento de la Ley de Financiamiento Universitario y protestar contra el ajuste presupuestario",
+            "fuente": "https://www.infobae.com/politica/2026/03/16/que-dias-no-habra-clases-en-las-universidades-publicas-por-el-paro-docente/"
         },
         {
             "es_evento_relevante": true,
