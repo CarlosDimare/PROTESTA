@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T13:16:16.945821-03:00",
+    "last_updated": "2026-03-16T14:14:35.934056-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7770,6 +7770,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "00:00",
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto presupuestario y salarial, reclamo de paritarias y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/se-siente-fuerte-el-paro-en-las-60-universidades-nacionales-la-fedun-informo-un-acatamiento-cercano-al-100--202631613210"
         },
         {
             "es_evento_relevante": true,
