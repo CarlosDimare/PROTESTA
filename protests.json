@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T14:14:35.934056-03:00",
+    "last_updated": "2026-03-16T16:05:36.360608-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7705,6 +7705,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "08:00",
+            "lugar": "Universidades públicas del país",
+            "quien": "Frente Sindical de las Universidades Nacionales (integrado por FEDUN, FATUN, CONADU, CONADU Histórica, AGD-UBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitaria, recomposición salarial, becas, fondos para ciencia y convocatoria a paritarias",
+            "fuente": "https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-16",
+            "horario": "08:00",
             "lugar": "Cruce de Av. Puán y Av. Rivadavia",
             "quien": "Estudiantes de Filosofía y Letras (UBA) - En Clave Roja",
             "tipo_medida": "Corte",
@@ -7880,6 +7890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por actualización salarial frente a inflación acumulada del 33% en Neuquén y críticas a la conducción sindical por no haber parado contra la reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/petroleros-entre-despidos-y-un-ano-de-paritaria-a-la-baja"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-01",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Docentes universitarios organizados por Conadu Histórica y Conadu",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por aumento salarial y aplicación de Ley de Financiamiento Universitario",
+            "fuente": "https://estadodealerta.com.ar/docentes-universitarios-iniciaron-un-paro-nacional-por-salarios-en-la-uba-es-por-tiempo-indeterminado/"
         },
         {
             "es_evento_relevante": true,
