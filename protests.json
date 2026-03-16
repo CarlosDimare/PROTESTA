@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T08:50:34.684572-03:00",
+    "last_updated": "2026-03-16T10:06:41.907185-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7665,21 +7665,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
-            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN Rosario)",
-            "quien": "Coad (UNR) y Federación Gremial de Docentes de la UTN (Fagdut)",
+            "lugar": "Universidades públicas de Argentina",
+            "quien": "FEDUN y FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Conflicto salarial y presupuestario, incumplimiento de la ley de financiamiento universitaria que establece 54% de recomposición salarial",
-            "fuente": "https://elciudadanoweb.com/paro-nacional-universitario-la-unr-y-la-utn-arrancan-este-lunes-con-una-medida-de-fuerza-que-se-extendera-toda-la-semana/, https://elciudadanoweb.com/el-paro-docente-en-la-unr-y-utn-se-extendera-del-16-al-22-de-marzo/"
+            "motivo": "Reclamo de paritarias con aumento salarial del 55,4% para recomponer salarios tras 16 meses de caída",
+            "fuente": "https://www.inforegion.com.ar/2026/03/16/paro-en-las-universidades-advierten-que-el-aumento-deberia-ser-superior-al-50/, https://www.datagremial.com/informacion-general/fedun-anuncia-un-paro-y-alerta-sobre-el-inicio-de-clases-no-estan-dadas-las-condiciones--2026399270, https://www.inforegion.com.ar/2026/03/07/la-fedun-tambien-para-en-reclamo-de-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-16",
             "horario": "00:00",
-            "lugar": "Todas las universidades de Argentina",
-            "quien": "FEDUN, FATUN y otros gremios universitarios",
+            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN Rosario)",
+            "quien": "Coad (UNR) y Federación Gremial de Docentes de la UTN (Fagdut)",
             "tipo_medida": "Paro",
-            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y aumento salarial del 51,4%",
-            "fuente": "https://www.datagremial.com/informacion-general/fedun-anuncia-un-paro-y-alerta-sobre-el-inicio-de-clases-no-estan-dadas-las-condiciones--2026399270, https://www.inforegion.com.ar/2026/03/07/la-fedun-tambien-para-en-reclamo-de-la-ley-de-financiamiento-universitario/"
+            "motivo": "Conflicto salarial y presupuestario, incumplimiento de la ley de financiamiento universitaria que establece 54% de recomposición salarial",
+            "fuente": "https://elciudadanoweb.com/paro-nacional-universitario-la-unr-y-la-utn-arrancan-este-lunes-con-una-medida-de-fuerza-que-se-extendera-toda-la-semana/, https://elciudadanoweb.com/el-paro-docente-en-la-unr-y-utn-se-extendera-del-16-al-22-de-marzo/"
         },
         {
             "es_evento_relevante": true,
