@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T18:41:07.902878-03:00",
+    "last_updated": "2026-03-16T19:31:41.799984-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7880,6 +7880,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Marcha de apertura de la conferencia para visibilizar la convocatoria internacional y expresar resistencia contra el avance de la extrema derecha",
             "fuente": "https://www.anred.org/con-marchas-paneles-y-debates-internacionales-porto-alegre-sera-epicentro-de-la-lucha-antifascista-en-marzo/, https://otrasvoceseneducacion.org/archivos/424921"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "00:00",
+            "lugar": "Todas las universidades nacionales",
+            "quien": "Docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, presupuestarios y contra la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/03/16/comenzo-la-primera-semana-de-paro-universitario-y-asoma-una-nueva-marcha-federal/"
         },
         {
             "es_evento_relevante": true,
