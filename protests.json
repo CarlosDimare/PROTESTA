@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T05:09:43.039252-03:00",
+    "last_updated": "2026-03-16T07:14:33.900521-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7726,10 +7726,10 @@
             "fecha": "2026-03-16",
             "horario": "10:00",
             "lugar": "No especificado",
-            "quien": "Trabajadores de Lácteos Verónica",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir respuestas patronales, cobro de salarios atrasados, aguinaldos y evitar despidos",
-            "fuente": "https://elciudadanoweb.com/crisis-en-lacteos-veronica-convocan-a-una-manifestacion-en-apoyo-a-trabajadoras-y-trabajadores/, https://www.infobae.com/politica/2026/03/10/el-gobierno-preve-semanas-tensas-por-el-financiamiento-universitario-y-podria-acelerar-con-su-proyecto-ante-las-amenazas-de-paro/"
+            "quien": "Frente Sindical",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, aplicación de Ley de Financiamiento Universitario y convocatoria a paritarias",
+            "fuente": "https://www.infobae.com/politica/2026/03/16/las-universidades-publicas-comienzan-una-semana-de-protestas-que-complica-el-inicio-de-clases-por-la-cuestion-salarial/, https://elciudadanoweb.com/crisis-en-lacteos-veronica-convocan-a-una-manifestacion-en-apoyo-a-trabajadoras-y-trabajadores/, https://www.infobae.com/politica/2026/03/10/el-gobierno-preve-semanas-tensas-por-el-financiamiento-universitario-y-podria-acelerar-con-su-proyecto-ante-las-amenazas-de-paro/"
         },
         {
             "es_evento_relevante": true,
