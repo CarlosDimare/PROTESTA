@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T17:39:11.018121-03:00",
+    "last_updated": "2026-03-16T18:41:07.902878-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7900,6 +7900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por aumento salarial y aplicación de Ley de Financiamiento Universitario",
             "fuente": "https://estadodealerta.com.ar/docentes-universitarios-iniciaron-un-paro-nacional-por-salarios-en-la-uba-es-por-tiempo-indeterminado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-06",
+            "horario": "La hora de inicio del evento de protesta es: **10:00**.",
+            "lugar": "Provincia (varias provincias argentinas)",
+            "quien": "Federación Judicial Argentina (FJA) y gremios judiciales adherentes",
+            "tipo_medida": "Paro provincial",
+            "motivo": "Reclamo por recomposición salarial, defensa del 82% móvil y oposición a recortes en jubilaciones y derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/marzo-caliente-los-conflictos-de-los-judiciales-en-varias-provincias-suben-de-temperatura-con-paros-asambleas-y-movilizaciones-202631615280, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
         },
         {
             "es_evento_relevante": true,
