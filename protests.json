@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T05:56:53.950233-03:00",
+    "last_updated": "2026-03-17T07:03:14.686067-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7780,6 +7780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-17",
+            "horario": "06:00",
+            "lugar": "Fábrica Fate",
+            "quien": "Sindicato de Trabajadores de la Industria del Neumático (Sutna)",
+            "tipo_medida": "Ocupación",
+            "motivo": "Evitar el cierre de la planta y garantizar la continuidad productiva de cubiertas para transporte",
+            "fuente": "https://prensaobrera.com/politicas/fuerte-audiencia-publica-en-diputados-en-apoyo-a-fate, https://accion.coop/2026/03/04/las-ultimas/moviliza-sindicato-del-neumatico/"
         },
         {
             "es_evento_relevante": true,
