@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T18:38:47.840911-03:00",
+    "last_updated": "2026-03-17T19:35:44.268696-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7780,6 +7780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-17",
+            "horario": "03:00",
+            "lugar": "Hospital Nacional Prof. A. Posadas",
+            "quien": "Residentes Hospital Posadas",
+            "tipo_medida": "Movilización",
+            "motivo": "Incumplimiento de la ley de emergencia pediátrica y derogación del sistema de becas",
+            "fuente": "https://www.laizquierdadiario.com/Residentes-del-Hospital-Posadas-paro-y-accion-en-Acceso-Oeste, https://www.lavozdemisiones.com/posadas/protesta-policial-en-posadas-el-juez-dijo-que-va-a-tratar-de-interceder/"
         },
         {
             "es_evento_relevante": true,
