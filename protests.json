@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-16T20:32:49.756285-03:00",
+    "last_updated": "2026-03-16T22:45:23.845889-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7780,6 +7780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la reforma laboral y ajuste salarial del gobierno, repudio a la represión y persecución judicial",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-universidad-nacional-de-rosario-ya-comienzan-a-planificar-los-paros-que-se-vendran-desde-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-17",
+            "horario": "09:00",
+            "lugar": "Fiscalía de San Justo",
+            "quien": "Familia de Cristian Pereyra y Suteba La Matanza",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la muerte del docente Cristian Pereyra y exigencia de justicia",
+            "fuente": "https://www.laizquierdadiario.com/Paro-distrital-por-el-docente-asesinado-por-un-policia-de-civil"
         },
         {
             "es_evento_relevante": true,
