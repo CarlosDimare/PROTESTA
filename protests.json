@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T04:16:25.873368-03:00",
+    "last_updated": "2026-03-17T05:11:07.980825-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7840,6 +7840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamos por mejoras en ingresos y condiciones de vida",
             "fuente": "https://www.laizquierdadiario.com/Serrat-cuestiono-la-reforma-laboral-y-defendio-a-los-jubilados-que-protestan"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "La hora de inicio del evento de protesta específicamente mencionada en el texto es:  \n**17:00**  \n\n*(Correspondiente a la \"mateada virtual\" organizada por CONADU Histórica el miércoles 18 de marzo, según el último párrafo del texto).*",
+            "lugar": "No especificado",
+            "quien": "Conadu Histórica y más de 15 asociaciones universitarias",
+            "tipo_medida": "Marcha Nacional",
+            "motivo": "Reclamo por aumento salarial y mayor financiamiento universitario ante salarios que se encuentran por debajo de la línea de pobreza",
+            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-Con-17-anos-de-antiguedad-gano-235-973-pesos, https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
         },
         {
             "es_evento_relevante": true,
