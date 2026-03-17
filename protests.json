@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T16:00:53.930057-03:00",
+    "last_updated": "2026-03-17T17:00:41.999763-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7900,6 +7900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración del 50° aniversario del golpe de Estado y memoria de las víctimas de La Calamita",
             "fuente": "https://elciudadanoweb.com/habra-una-marcha-hacia-la-calamita-el-centro-clandestino-de-detencion-de-granadero-baigorria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-22",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Conadu y Conadu Histórica",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario, rechazo a la propuesta de ajuste salarial del 12,3% y denuncia de vaciamiento del sistema educativo",
+            "fuente": "https://prensaobrera.com/universidad/retomamos-el-paro-en-las-universidades-nacionales"
         },
         {
             "es_evento_relevante": true,
