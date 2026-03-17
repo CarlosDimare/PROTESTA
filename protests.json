@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T11:27:35.731243-03:00",
+    "last_updated": "2026-03-17T13:13:50.314109-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7880,6 +7880,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
             "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-21",
+            "horario": "18:00",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "Estudiantes y docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por implementación inmediata de la ley de financiamiento universitario",
+            "fuente": "https://elciudadanoweb.com/reclamo-estudiantil-en-rosario-por-la-ley-de-financiamiento-universitario/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
