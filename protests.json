@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T07:03:14.686067-03:00",
+    "last_updated": "2026-03-17T07:57:57.543083-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7790,6 +7790,16 @@
             "tipo_medida": "Ocupación",
             "motivo": "Evitar el cierre de la planta y garantizar la continuidad productiva de cubiertas para transporte",
             "fuente": "https://prensaobrera.com/politicas/fuerte-audiencia-publica-en-diputados-en-apoyo-a-fate, https://accion.coop/2026/03/04/las-ultimas/moviliza-sindicato-del-neumatico/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-17",
+            "horario": "08:00",
+            "lugar": "Facultad de Filosofía y Letras UBA",
+            "quien": "CEFyL, docentes y no docentes de la UBA",
+            "tipo_medida": "Vigilia",
+            "motivo": "Recomposición salarial y aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Estudiantes-de-Filosofia-y-Letras-de-la-UBA-realizaron-un-corte-en-apoyo-a-los-docentes-y-no, https://www.laizquierdadiario.com/Estudiantes-de-Filosofia-y-Letras-de-la-UBA-realizaron-un-corte-en-apoyo-a-los-docentes-y-no"
         },
         {
             "es_evento_relevante": true,
