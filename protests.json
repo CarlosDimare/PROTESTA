@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T20:34:03.779742-03:00",
+    "last_updated": "2026-03-17T22:57:54.435075-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7890,6 +7890,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
             "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-20",
+            "horario": "No especificado",
+            "lugar": "Cataluña",
+            "quien": "Sindicatos USTEC, CGT Enseñanza, ASPEPC y estudiantes de Contracorriente",
+            "tipo_medida": "Manifestación",
+            "motivo": "Mejora de condiciones laborales educativas, rechazo a acuerdo CCOO-UGT, contra sobrecarga laboral y altas ratios",
+            "fuente": "https://www.laizquierdadiario.com/Mas-de-70-de-acatamiento-en-el-segundo-dia-de-huelga-educativa-en-Cataluna"
         },
         {
             "es_evento_relevante": true,
