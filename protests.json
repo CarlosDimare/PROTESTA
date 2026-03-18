@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-17T22:57:54.435075-03:00",
+    "last_updated": "2026-03-18T01:31:36.393534-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7860,6 +7860,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial por aumentos incumplidos para trabajadores de ANAC",
             "fuente": "https://www.infobae.com/politica/2026/03/13/ate-se-resiste-a-la-reforma-laboral-hara-paro-en-los-aeropuertos-y-podria-desatar-una-guerra-con-el-gobierno/, https://www.datagremial.com/informacion-general/ate-anac-profundiza-su-plan-de-lucha-con-medidas-de-accion-gremial-que-provocaran-cancelaciones-y-demoras-en-los-vuelos-del-proximo-fin-de-semana-largo-202631119140"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-18",
+            "horario": "15:00",
+            "lugar": "Facultad de Medicina de la UBA",
+            "quien": "Docentes y estudiantes",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por financiamiento universitario, cumplimiento de la Ley de Financiamiento Universitario y contra la precarización laboral",
+            "fuente": "https://www.laizquierdadiario.com/Continua-el-paro-universitario-con-movilizaciones-de-docentes-y-estudiantes-en-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
