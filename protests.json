@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T07:55:12.208405-03:00",
+    "last_updated": "2026-03-18T08:54:04.265381-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7866,10 +7866,10 @@
             "fecha": "2026-03-18",
             "horario": "15:00",
             "lugar": "Facultad de Medicina de la UBA",
-            "quien": "Docentes y estudiantes",
+            "quien": "Docentes, nodocentes y estudiantes",
             "tipo_medida": "Movilización",
-            "motivo": "Reclamo por financiamiento universitario, cumplimiento de la Ley de Financiamiento Universitario y contra la precarización laboral",
-            "fuente": "https://www.laizquierdadiario.com/Continua-el-paro-universitario-con-movilizaciones-de-docentes-y-estudiantes-en-todo-el-pais"
+            "motivo": "Reclamo por cumplimiento de la Ley de Financiamiento Universitario y contra la privatización",
+            "fuente": "https://www.laizquierdadiario.com/Continua-el-paro-universitario-con-movilizaciones-de-docentes-nodocentes-y-estudiantes-en-todo-el, https://www.laizquierdadiario.com/Continua-el-paro-universitario-con-movilizaciones-de-docentes-y-estudiantes-en-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
