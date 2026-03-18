@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T15:05:51.353196-03:00",
+    "last_updated": "2026-03-18T16:04:05.813792-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7956,10 +7956,10 @@
             "fecha": "2026-03-22",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Conadu y Conadu Histórica",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario, rechazo a la propuesta de ajuste salarial del 12,3% y denuncia de vaciamiento del sistema educativo",
-            "fuente": "https://prensaobrera.com/universidad/retomamos-el-paro-en-las-universidades-nacionales"
+            "quien": "Organizaciones socioambientales chilenas",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del agua y los territorios en respuesta a políticas extractivistas y desmantelamiento ambiental del gobierno de Kast",
+            "fuente": "https://www.laizquierdadiario.com/Kast-profundiza-la-ofensiva-extractivista-en-Chile-y-organizaciones-llaman-a-primera-marcha, https://prensaobrera.com/universidad/retomamos-el-paro-en-las-universidades-nacionales"
         },
         {
             "es_evento_relevante": true,
@@ -8000,6 +8000,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales, presupuestarios y contra la Ley de Financiamiento Universitario",
             "fuente": "https://www.inforegion.com.ar/2026/03/16/comenzo-la-primera-semana-de-paro-universitario-y-asoma-una-nueva-marcha-federal/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-31",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al ajuste y reclamo de fondos para universidades públicas",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
         },
         {
             "es_evento_relevante": true,
