@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T08:54:04.265381-03:00",
+    "last_updated": "2026-03-18T10:07:21.276667-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7886,10 +7886,10 @@
             "fecha": "2026-03-18",
             "horario": "La hora de inicio del evento de protesta específicamente mencionada en el texto es:  \n**17:00**  \n\n*(Correspondiente a la \"mateada virtual\" organizada por CONADU Histórica el miércoles 18 de marzo, según el último párrafo del texto).*",
             "lugar": "No especificado",
-            "quien": "Conadu Histórica y más de 15 asociaciones universitarias",
-            "tipo_medida": "Marcha Nacional",
-            "motivo": "Reclamo por aumento salarial y mayor financiamiento universitario ante salarios que se encuentran por debajo de la línea de pobreza",
-            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-Con-17-anos-de-antiguedad-gano-235-973-pesos, https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
+            "quien": "Docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://prensaobrera.com/sindicales/pauta-salarial-del-2-para-seguir-ajustando-los-trabajadores, https://www.laizquierdadiario.com/Paro-universitario-Con-17-anos-de-antiguedad-gano-235-973-pesos, https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
         },
         {
             "es_evento_relevante": true,
