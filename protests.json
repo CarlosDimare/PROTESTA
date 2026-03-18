@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T16:04:05.813792-03:00",
+    "last_updated": "2026-03-18T16:56:08.046010-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7866,10 +7866,10 @@
             "fecha": "2026-03-18",
             "horario": "12:05",
             "lugar": "Córdoba capital",
-            "quien": "Docentes de Córdoba (La Celeste)",
+            "quien": "UEPC (Unión de Educadores de la Provincia de Córdoba) - La Celeste",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a oferta salarial y condiciones laborales del gobierno provincial",
-            "fuente": "https://www.laizquierdadiario.com/Cordoba-enorme-movilizacion-docente-contra-la-oferta-miserable-de-Llaryora"
+            "motivo": "Rechazo a oferta salarial del gobierno provincial y exigencia de mejoras laborales",
+            "fuente": "https://www.laizquierdadiario.com/Cordoba-tras-una-masiva-movilizacion-las-y-los-docentes-hacen-retroceder-a-la-Policia, https://estadodealerta.com.ar/el-conflicto-docente-se-extiende-por-las-provincias-aliadas-a-milei-con-paros-y-planes-de-lucha/, https://www.laizquierdadiario.com/Cordoba-enorme-movilizacion-docente-contra-la-oferta-miserable-de-Llaryora"
         },
         {
             "es_evento_relevante": true,
