@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T10:07:21.276667-03:00",
+    "last_updated": "2026-03-18T11:41:07.073933-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7900,6 +7900,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
             "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
+            "horario": "No especificado",
+            "lugar": "Legislatura de la Provincia de Buenos Aires",
+            "quien": "Sutna",
+            "tipo_medida": "Movilización",
+            "motivo": "Defender la fábrica Fate y los puestos de trabajo mediante un proyecto de ley de ocupación temporaria",
+            "fuente": "https://prensaobrera.com/sindicales/los-obreros-de-fate-marchan-a-la-legislatura-bonaerense-por-una-ley-que-asegure-la-continuidad-productiva"
         },
         {
             "es_evento_relevante": true,
