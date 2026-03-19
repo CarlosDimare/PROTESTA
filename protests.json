@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19T01:34:37.223850-03:00",
+    "last_updated": "2026-03-19T03:05:45.333735-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7910,6 +7910,16 @@
             "tipo_medida": "Paro",
             "motivo": "Cumplimiento de Ley de Financiamiento Universitario",
             "fuente": "https://prensaobrera.com/sindicales/pauta-salarial-del-2-para-seguir-ajustando-los-trabajadores, https://www.laizquierdadiario.com/Paro-universitario-Con-17-anos-de-antiguedad-gano-235-973-pesos, https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
+            "horario": "00:00",
+            "lugar": "Gobernación de Córdoba",
+            "quien": "Docentes cordobeses (Ademys y base)",
+            "tipo_medida": "Paro de 48 horas",
+            "motivo": "Rechazo a salarios de miseria y condiciones laborales, tras el asesinato de Cristian Pereyra",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-docente-en-Catamarca-crimen-en-La-Matanza-y-Cordoba-gana-las-calles-superando-las-vallas"
         },
         {
             "es_evento_relevante": true,
