@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19T15:55:46.201858-03:00",
+    "last_updated": "2026-03-19T16:51:29.619092-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8030,6 +8030,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Marcha unitaria por el 50° aniversario del golpe militar, con debate interno sobre críticas al kirchnerismo y organismos estatales",
             "fuente": "https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "No especificado",
+            "lugar": "En todo el país",
+            "quien": "FATUN junto a CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Aniversario del golpe de Estado, con enfoque en derechos humanos",
+            "fuente": "https://www.datagremial.com/informacion-general/sin-respuestas-a-los-reclamos-fatun-ratifico-su-plan-de-lucha-que-incluye-otros-cuatro-paros-202631916170"
         },
         {
             "es_evento_relevante": true,
