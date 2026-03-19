@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-18T22:53:12.671940-03:00",
+    "last_updated": "2026-03-19T01:34:37.223850-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7910,6 +7910,16 @@
             "tipo_medida": "Paro",
             "motivo": "Cumplimiento de Ley de Financiamiento Universitario",
             "fuente": "https://prensaobrera.com/sindicales/pauta-salarial-del-2-para-seguir-ajustando-los-trabajadores, https://www.laizquierdadiario.com/Paro-universitario-Con-17-anos-de-antiguedad-gano-235-973-pesos, https://www.anred.org/comenzo-la-semana-de-protesta-y-paro-nacional-universitario-la-situacion-no-da-para-mas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
+            "horario": "10:00",
+            "lugar": "Córdoba capital",
+            "quien": "UEPC La Celeste",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a oferta salarial del gobierno provincial",
+            "fuente": "https://www.laizquierdadiario.com/Cordoba-tras-una-masiva-movilizacion-docentes-hacen-retroceder-a-la-Policia"
         },
         {
             "es_evento_relevante": true,
