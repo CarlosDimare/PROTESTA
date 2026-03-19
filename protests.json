@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19T07:42:29.569191-03:00",
+    "last_updated": "2026-03-19T08:42:19.760887-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7940,6 +7940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la oferta salarial del gobierno y reclamo de aumento acorde a la canasta familiar",
             "fuente": "https://www.infobae.com/politica/2026/03/12/los-sindicatos-docentes-rechazaron-una-oferta-salarial-del-gobierno-y-amenazan-con-nuevas-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Jubilados y jubiladas",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de aumento de los ingresos en los haberes previsionales",
+            "fuente": "https://elciudadanoweb.com/otro-miercoles-de-violencia-policial-jubilados-fueron-golpeados-y-detenidos-en-la-marcha-frente-al-congreso/"
         },
         {
             "es_evento_relevante": true,
