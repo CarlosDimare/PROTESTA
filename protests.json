@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19T18:37:22.936876-03:00",
+    "last_updated": "2026-03-19T19:29:38.658892-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7960,6 +7960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defender la fábrica Fate y los puestos de trabajo mediante un proyecto de ley de ocupación temporaria",
             "fuente": "https://prensaobrera.com/sindicales/los-obreros-de-fate-marchan-a-la-legislatura-bonaerense-por-una-ley-que-asegure-la-continuidad-productiva"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-20",
+            "horario": "09:00",
+            "lugar": "Sede central de la Superintendencia de Servicios de Salud de la Nación",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a despidos y recortes en Superintendencia de Salud, denuncia de vaciamiento institucional y afectación al derecho a la salud",
+            "fuente": "https://www.infobae.com/politica/2026/03/19/ate-realizara-una-particular-medida-de-fuerza-por-posibles-despidos-en-la-superintendencia-de-salud/"
         },
         {
             "es_evento_relevante": true,
