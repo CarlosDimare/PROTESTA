@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-20T09:53:46.086672-03:00",
+    "last_updated": "2026-03-20T11:08:34.092021-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8126,10 +8126,10 @@
             "fecha": "2026-03-31",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "FEDUN y FATUN",
+            "quien": "FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Pérdida salarial y presupuestaria en universidades públicas",
-            "fuente": "https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+            "motivo": "Reclamo por paritarias y aumentos salariales acorde a la realidad económica, en defensa de la universidad pública y la Ley 27.795 de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
         },
         {
             "es_evento_relevante": true,
