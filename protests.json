@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-19T20:29:31.529789-03:00",
+    "last_updated": "2026-03-19T22:39:43.389697-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -7914,6 +7914,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-19",
+            "horario": "**09:00**",
+            "lugar": "No especificado",
+            "quien": "Polo Obrero / Movimiento piquetero",
+            "tipo_medida": "Movilización",
+            "motivo": "Defender la AUH, programas sociales y contra el ajuste del gobierno",
+            "fuente": "https://prensaobrera.com/politicas/la-auh-y-el-proximo-ataque-de-milei-contra-las-familias-trabajadoras, https://www.elnueve.com/mendoza/marcha-del-polo-obrero-por-el-centro-en-cuales-calles-marcharan-y-a-que-hora_20240318/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-19",
             "horario": "00:00",
             "lugar": "Gobernación de Córdoba",
             "quien": "Docentes cordobeses (Ademys y base)",
@@ -8044,6 +8054,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
+            "horario": "14:00",
+            "lugar": "9 de Julio e Yrigoyen hasta Plaza de Mayo",
+            "quien": "PTS-Frente de Izquierda Unidad",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe genocida y rechazo al negacionismo y políticas de ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Video-A-50-anos-del-golpe-genocida-Myriam-Bregman-invita-a-marchar-el-24-de-marzo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
             "horario": "No especificado",
             "lugar": "En todo el país",
             "quien": "FATUN junto a CGT",
@@ -8096,10 +8116,10 @@
             "fecha": "2026-03-31",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "quien": "FEDUN y FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al ajuste y reclamo de fondos para universidades públicas",
-            "fuente": "https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+            "motivo": "Pérdida salarial y presupuestaria en universidades públicas",
+            "fuente": "https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
         },
         {
             "es_evento_relevante": true,
