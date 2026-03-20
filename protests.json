@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-20T13:41:53.072208-03:00",
+    "last_updated": "2026-03-20T14:38:44.498007-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8060,6 +8060,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Marcha unitaria por el 50° aniversario del golpe militar, con debate interno sobre críticas al kirchnerismo y organismos estatales",
             "fuente": "https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "14:00",
+            "lugar": "Plaza de Mayo, Buenos Aires (con puntos de encuentro en H. Yrigoyen y 9 de)",
+            "quien": "PTS y organizaciones del Frente de Izquierda (Encuentro Memoria, Verdad y Justicia)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe cívico-militar, contra el negacionismo, el plan de ajuste de Milei, la impunidad y apoyo a luchas sindicales y políticas",
+            "fuente": "https://www.laizquierdadiario.com/24-de-Marzo-convocatorias-en-todo-el-pais-para-marchar-con-el-PTS-en-el-Dia-de-la-Memoria-por-la"
         },
         {
             "es_evento_relevante": true,
