@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21T18:23:22.771988-03:00",
+    "last_updated": "2026-03-21T19:21:54.329080-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8010,6 +8010,16 @@
             "tipo_medida": "Reunión de diálogo",
             "motivo": "Revertir la crisis deportiva y administrativa del club, tras protestas de hinchas que exigieron la renuncia del presidente Ignacio Boero",
             "fuente": "https://elciudadanoweb.com/la-movilizacion-sirvio-boero-llama-al-arco-opositor-de-newells-para-construir-una-mesa-de-dialogo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-21",
+            "horario": "18:00",
+            "lugar": "Atocha hasta Puerta del Sol, Madrid",
+            "quien": "Asamblea Internacionalista de Madrid",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la guerra y el imperialismo, con lemas 'No a la guerra' y 'Abajo Trump y el sionismo'",
+            "fuente": "https://www.laizquierdadiario.com/Contra-la-guerra-y-el-imperialismo-Manifiesto-de-la-Asamblea-Internacionalista-de-Madrid-para-la-277876"
         },
         {
             "es_evento_relevante": true,
