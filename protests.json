@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21T20:24:43.856036-03:00",
+    "last_updated": "2026-03-21T22:49:48.200562-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8060,6 +8060,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del agua y los territorios en respuesta a políticas extractivistas y desmantelamiento ambiental del gobierno de Kast",
             "fuente": "https://www.laizquierdadiario.com/Kast-profundiza-la-ofensiva-extractivista-en-Chile-y-organizaciones-llaman-a-primera-marcha, https://prensaobrera.com/universidad/retomamos-el-paro-en-las-universidades-nacionales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-23",
+            "horario": "16:00",
+            "lugar": "No especificado",
+            "quien": "Trabajadores, jubilados y sectores populares",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de aumento salarial, defensa de prestaciones sociales y rechazo a reformas laborales regresivas",
+            "fuente": "https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-un-descontento-nacional-que-exige-organizacion-desde-abajo-277873, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
         },
         {
             "es_evento_relevante": true,
