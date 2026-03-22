@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-21T22:49:48.200562-03:00",
+    "last_updated": "2026-03-22T01:18:43.147143-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8060,6 +8060,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del agua y los territorios en respuesta a políticas extractivistas y desmantelamiento ambiental del gobierno de Kast",
             "fuente": "https://www.laizquierdadiario.com/Kast-profundiza-la-ofensiva-extractivista-en-Chile-y-organizaciones-llaman-a-primera-marcha, https://prensaobrera.com/universidad/retomamos-el-paro-en-las-universidades-nacionales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-23",
+            "horario": "15:00",
+            "lugar": "Plaza San Martín, La Plata",
+            "quien": "Multisectorial La Plata, Berisso y Ensenada",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe genocida y protesta contra políticas de ajuste, represión y hambre del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/La-Multisectorial-de-La-Plata-convoca-a-marchar-a-50-anos-del-golpe-genocida"
         },
         {
             "es_evento_relevante": true,
