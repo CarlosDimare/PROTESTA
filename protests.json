@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-22T11:26:47.336873-03:00",
+    "last_updated": "2026-03-22T12:26:07.613844-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8076,10 +8076,10 @@
             "fecha": "2026-03-23",
             "horario": "16:00",
             "lugar": "No especificado",
-            "quien": "Trabajadores, jubilados y sectores populares",
+            "quien": "Trabajadores, jubilados y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Exigencia de aumento salarial, defensa de prestaciones sociales y rechazo a reformas laborales regresivas",
-            "fuente": "https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-un-descontento-nacional-que-exige-organizacion-desde-abajo-277873, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
+            "motivo": "Lucha por salario digno, defensa de prestaciones sociales y rechazo a reformas laborales",
+            "fuente": "https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-en-Venezuela-organizar-el-descontento-desde-abajo, https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-un-descontento-nacional-que-exige-organizacion-desde-abajo-277873, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
         },
         {
             "es_evento_relevante": true,
