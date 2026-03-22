@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-22T12:26:07.613844-03:00",
+    "last_updated": "2026-03-22T13:27:08.452491-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8110,6 +8110,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración de los 50 años del golpe genocida y rechazo al negacionismo y políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Video-A-50-anos-del-golpe-genocida-Myriam-Bregman-invita-a-marchar-el-24-de-marzo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "16:00",
+            "lugar": "Parque de la Memoria, Jujuy",
+            "quien": "Frente de Izquierda y de los Trabajadores Unidad (FIT-U)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe genocida y rechazo al negacionismo del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Motivos-para-una-marcha-unitaria-y-un-documento-independiente"
         },
         {
             "es_evento_relevante": true,
