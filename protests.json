@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23T11:17:58.145349-03:00",
+    "last_updated": "2026-03-23T12:59:13.645170-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8090,6 +8090,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Marcha unitaria por el 50° aniversario del golpe militar, con debate interno sobre críticas al kirchnerismo y organismos estatales",
             "fuente": "https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "12:00",
+            "lugar": "Avenida de Mayo y Bernardo de Irigoyen, Ciudad de Buenos Aires",
+            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma y UOM",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe de Estado de 1976 bajo las consignas de memoria, verdad y justicia, y defensa de la democracia y los derechos humanos",
+            "fuente": "https://www.datagremial.com/informacion-general/a-50-anos-del-golpe-la-cgt-llama-a-marchar-por-memoria-verdad-y-justicia-y-confluira-con-las-dos-cta-en-plaza-de-mayo-202632312270"
         },
         {
             "es_evento_relevante": true,
