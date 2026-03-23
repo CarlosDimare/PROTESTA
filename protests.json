@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23T16:52:35.776908-03:00",
+    "last_updated": "2026-03-23T17:38:05.172702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8080,6 +8080,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Lucha por salario digno, defensa de prestaciones sociales y rechazo a reformas laborales",
             "fuente": "https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-en-Venezuela-organizar-el-descontento-desde-abajo, https://www.laizquierdadiario.com/Protestas-y-marchas-por-el-salario-un-descontento-nacional-que-exige-organizacion-desde-abajo-277873, https://www.eldestapeweb.com/politica/marcha-jubilados/el-gobierno-enfrenta-una-nueva-marcha-de-la-cgt-y-promete-reprimir-20254975325"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "07:30",
+            "lugar": "Municipalidad de Villa Gesell, avenida 3 entre paseo 108 y 109",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización con corte de tránsito y acampe",
+            "motivo": "Reclamo por la reincorporación de 40 trabajadores despedidos de la empresa Santa Elena, tras la no renovación del contrato de barrido manual por parte del municipio",
+            "fuente": "https://www.datagremial.com/informacion-general/con-pablo-moyano-al-frente-fuerte-protesta-de-camioneros-en-gesell-por-40-despidos-tras-la-baja-del-servicio-de-barrido-no-nos-movemos-hasta-que-sean-reincorporados--202632313400"
         },
         {
             "es_evento_relevante": true,
