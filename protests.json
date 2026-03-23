@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23T15:47:54.267266-03:00",
+    "last_updated": "2026-03-23T16:52:35.776908-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8180,6 +8180,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Marcha de apertura de la conferencia para visibilizar la convocatoria internacional y expresar resistencia contra el avance de la extrema derecha",
             "fuente": "https://www.anred.org/con-marchas-paneles-y-debates-internacionales-porto-alegre-sera-epicentro-de-la-lucha-antifascista-en-marzo/, https://otrasvoceseneducacion.org/archivos/424921"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-27",
+            "horario": "00:00",
+            "lugar": "Corrientes",
+            "quien": "SUTECO, AMET y ACDP",
+            "tipo_medida": "Paro",
+            "motivo": "Proteger salarios y evitar despidos bajo la Ley de Modernización Laboral (Ley Nº 27.802)",
+            "fuente": "https://www.datagremial.com/informacion-general/en-corrientes-tambien-se-aplico-la-reforma-laboral-para-levantar-un-paro-docente-202632315590"
         },
         {
             "es_evento_relevante": true,
