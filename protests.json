@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24T17:43:09.308389-03:00",
+    "last_updated": "2026-03-24T18:38:08.302215-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8115,6 +8115,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
             "horario": "12:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Abuelas de Plaza de Mayo y organismos de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del Día de la Memoria, Verdad y Justicia; crítica al gobierno de Milei y defensa contra el negacionismo",
+            "fuente": "https://www.inforegion.com.ar/2026/03/24/estela-de-carlotto-pidio-no-aflojar-a-los-discursos-negacionistas-y-apunto-contra-el-gobierno-en-la-marcha-del-24-de-marzo/, https://www.infobae.com/politica/2026/03/24/el-mapa-de-la-marcha-por-el-24-de-marzo-donde-y-a-que-hora-sera-el-acto-central/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "12:00",
             "lugar": "Avenida de Mayo y Bernardo de Irigoyen, Ciudad de Buenos Aires",
             "quien": "CGT, CTA de los Trabajadores, CTA Autónoma y UOM",
             "tipo_medida": "Marcha",
@@ -8200,16 +8210,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración de 50 años del golpe de 1976, reclamo de Memoria, Verdad y Justicia por desaparecidos, rechazo a políticas económicas y sociales del gobierno de Milei",
             "fuente": "https://www.inforegion.com.ar/2026/03/24/24-de-marzo-masiva-marcha-a-plaza-de-mayo-por-memoria-verdad-y-justicia-a-50-anos-del-golpe/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-24",
-            "horario": "16:30",
-            "lugar": "Plaza de Mayo",
-            "quien": "Agrupaciones políticas, sindicales y sociales (La Cámpora, CTA Autónoma, CTA de los Trabajadores, Frente Renovador, UCR, Madres de Plaza de Mayo, Nuevo MAS, PTS, PO, MST, Política Obrera, CGT)",
-            "tipo_medida": "Marcha",
-            "motivo": "Conmemoración del 50° aniversario del golpe de Estado de 1976 y reclamo por Memoria, Verdad y Justicia",
-            "fuente": "https://www.infobae.com/politica/2026/03/24/el-mapa-de-la-marcha-por-el-24-de-marzo-donde-y-a-que-hora-sera-el-acto-central/"
         },
         {
             "es_evento_relevante": true,
