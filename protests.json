@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24T18:38:08.302215-03:00",
+    "last_updated": "2026-03-24T19:34:20.138993-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8084,12 +8084,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
-            "horario": "07:30",
-            "lugar": "Municipalidad de Villa Gesell, avenida 3 entre paseo 108 y 109",
+            "horario": "08:00",
+            "lugar": "Zonas de recolección y barrido urbano de Villa Gesell",
             "quien": "Sindicato de Camioneros",
-            "tipo_medida": "Movilización con corte de tránsito y acampe",
-            "motivo": "Reclamo por la reincorporación de 40 trabajadores despedidos de la empresa Santa Elena, tras la no renovación del contrato de barrido manual por parte del municipio",
-            "fuente": "https://www.datagremial.com/informacion-general/con-pablo-moyano-al-frente-fuerte-protesta-de-camioneros-en-gesell-por-40-despidos-tras-la-baja-del-servicio-de-barrido-no-nos-movemos-hasta-que-sean-reincorporados--202632313400"
+            "tipo_medida": "Reanudación laboral",
+            "motivo": "Suspensión de medidas de fuerza tras conciliación obligatoria provincial para restaurar servicios y negociar recorte de puestos",
+            "fuente": "https://www.datagremial.com/informacion-general/conciliacion-obligatoria-en-gesell-tras-la-protesta-de-camioneros-con-pablo-moyano-suspenden-despidos-y-reactivan-el-servicio-de-barrido-urbano-202632418220, https://www.datagremial.com/informacion-general/con-pablo-moyano-al-frente-fuerte-protesta-de-camioneros-en-gesell-por-40-despidos-tras-la-baja-del-servicio-de-barrido-no-nos-movemos-hasta-que-sean-reincorporados--202632313400"
         },
         {
             "es_evento_relevante": true,
@@ -8240,6 +8240,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Aniversario del golpe de Estado, con enfoque en derechos humanos",
             "fuente": "https://www.datagremial.com/informacion-general/sin-respuestas-a-los-reclamos-fatun-ratifico-su-plan-de-lucha-que-incluye-otros-cuatro-paros-202631916170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-25",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones ambientalistas y bloques de la oposición",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la posibilidad de exponer en la audiencia pública por la modificación de la Ley de Glaciares",
+            "fuente": "https://www.infobae.com/politica/2026/03/24/ley-de-glaciares-ambientalistas-y-bloques-opositores-convocaron-a-una-marcha-contra-los-limites-de-participacion-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
