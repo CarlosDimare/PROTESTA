@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23T22:31:52.565700-03:00",
+    "last_updated": "2026-03-24T01:16:30.206866-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8104,6 +8104,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
+            "horario": "09:00",
+            "lugar": "Intersección de Manzanares y Avenida del Libertador, Ciudad de Buenos Aires",
+            "quien": "La Cámpora",
+            "tipo_medida": "Marcha",
+            "motivo": "Pedir libertad para Cristina Kirchner, repudiar el modelo económico de Milei y conmemorar los 50 años del golpe de Estado",
+            "fuente": "https://www.infobae.com/politica/2026/03/24/la-campora-pasara-por-san-jose-1111-y-le-dara-centralidad-a-cristina-kirchner-en-la-marcha-por-el-24-de-marzo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
             "horario": "10:00",
             "lugar": "Casa Argentina, Cité Universitaire de París",
             "quien": "Comunidad argentina en Francia y autoridades universitarias galas",
@@ -8120,6 +8130,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración de los 50 años del golpe de Estado de 1976 bajo las consignas de memoria, verdad y justicia, y defensa de la democracia y los derechos humanos",
             "fuente": "https://www.datagremial.com/informacion-general/a-50-anos-del-golpe-la-cgt-llama-a-marchar-por-memoria-verdad-y-justicia-y-confluira-con-las-dos-cta-en-plaza-de-mayo-202632312270"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "14:00",
+            "lugar": "Tacuarí y Avenida de Mayo, Buenos Aires",
+            "quien": "Organismos de derechos humanos (Madres y Abuelas de Plaza de Mayo, HIJOS, APDH, CELS, entre otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del golpe genocida de 1976 y rechazo a las políticas del gobierno de Javier Milei",
+            "fuente": "https://motoreconomico.com.ar/a-50-anos-del-golpe-una-masiva-marcha-llegara-a-plaza-de-mayo-para-que-digan-donde-estan/"
         },
         {
             "es_evento_relevante": true,
