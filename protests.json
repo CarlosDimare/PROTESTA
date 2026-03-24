@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24T16:00:36.203324-03:00",
+    "last_updated": "2026-03-24T16:55:23.304852-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8200,6 +8200,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración de los 50 años del golpe genocida y rechazo al negacionismo del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Motivos-para-una-marcha-unitaria-y-un-documento-independiente"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "16:30",
+            "lugar": "Plaza de Mayo, frente a la Casa Rosada",
+            "quien": "Madres y Abuelas de Plaza de Mayo, HIJOS, APDH y CELS",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de 50 años del golpe de 1976, reclamo de Memoria, Verdad y Justicia por desaparecidos, rechazo a políticas económicas y sociales del gobierno de Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/03/24/24-de-marzo-masiva-marcha-a-plaza-de-mayo-por-memoria-verdad-y-justicia-a-50-anos-del-golpe/"
         },
         {
             "es_evento_relevante": true,
