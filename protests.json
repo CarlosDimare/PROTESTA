@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24T16:55:23.304852-03:00",
+    "last_updated": "2026-03-24T17:43:09.308389-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8094,16 +8094,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-24",
-            "horario": "08:00",
-            "lugar": "Plaza de Mayo, Ciudad Autónoma de Buenos Aires",
-            "quien": "Organizaciones integrantes del EMVyJ (MST, Izquierda Socialista, entre otros)",
-            "tipo_medida": "Marcha",
-            "motivo": "Marcha unitaria por el 50° aniversario del golpe militar, con debate interno sobre críticas al kirchnerismo y organismos estatales",
-            "fuente": "https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-24",
             "horario": "09:00",
             "lugar": "Intersección de Manzanares y Avenida del Libertador, Ciudad de Buenos Aires",
             "quien": "La Cámpora",
@@ -8220,6 +8210,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración del 50° aniversario del golpe de Estado de 1976 y reclamo por Memoria, Verdad y Justicia",
             "fuente": "https://www.infobae.com/politica/2026/03/24/el-mapa-de-la-marcha-por-el-24-de-marzo-donde-y-a-que-hora-sera-el-acto-central/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "17:30",
+            "lugar": "Plaza de Mayo, Ciudad Autónoma de Buenos Aires",
+            "quien": "PTS-FITU, Centro de Profesionales por los Derechos Humanos, Madres de Plaza de Mayo y agrupaciones obreras y estudiantiles",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del Golpe genocida de 1976, repudio al negacionismo y al ajuste económico del gobierno, y reivindicación de una sociedad sin explotación ni opresión",
+            "fuente": "https://www.laizquierdadiario.com/Comenzo-la-concentracion-por-el-24-de-Marzo-se-espera-una-multitud-en-Plaza-de-Mayo, https://prensaobrera.com/libertades-democraticas/por-un-24-de-marzo-independiente-de-los-gobiernos-el-estado-y-de-la-burocracia-sindical, https://www.clarin.com/politica/dia-memoria-iran-marchas-hora-actos-plaza-mayo-24-marzo_0_RtgHWEaQ0l.html"
         },
         {
             "es_evento_relevante": true,
