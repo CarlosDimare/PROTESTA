@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-23T20:30:11.740822-03:00",
+    "last_updated": "2026-03-23T22:31:52.565700-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8270,6 +8270,16 @@
             "tipo_medida": "Paro provincial",
             "motivo": "Reclamo por recomposición salarial, defensa del 82% móvil y oposición a recortes en jubilaciones y derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/marzo-caliente-los-conflictos-de-los-judiciales-en-varias-provincias-suben-de-temperatura-con-paros-asambleas-y-movilizaciones-202631615280, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
+            "horario": "No especificado",
+            "lugar": "No especificado (federal)",
+            "quien": "Federación Nacional de Docentes Universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Visibilizar reclamo por presupuesto y salarios en unidad con sectores universitarios",
+            "fuente": "https://www.inforegion.com.ar/2026/03/23/se-intensifica-el-conflicto-en-las-universidades-docentes-ya-confirman-dos-semanas-de-paro/"
         },
         {
             "es_evento_relevante": true,
