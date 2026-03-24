@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-24T06:54:14.936849-03:00",
+    "last_updated": "2026-03-24T07:47:43.819657-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8190,6 +8190,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Conmemoración de los 50 años del golpe genocida y rechazo al negacionismo del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Motivos-para-una-marcha-unitaria-y-un-documento-independiente"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-24",
+            "horario": "16:30",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Agrupaciones políticas y sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del Día Nacional de la Memoria por la Verdad y la Justicia",
+            "fuente": "https://www.infobae.com/politica/2026/03/24/marcha-por-el-dia-de-la-memoria-en-vivo-organizaciones-politicas-y-sociales-se-movilizan-a-50-anos-del-golpe-de-estado/"
         },
         {
             "es_evento_relevante": true,
