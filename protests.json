@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25T10:02:36.552233-03:00",
+    "last_updated": "2026-03-25T11:23:21.649685-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8260,6 +8260,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir la participación oral masiva en las audiencias públicas sobre la reforma de la Ley de Glaciares",
             "fuente": "https://elciudadanoweb.com/diputados-pone-en-marcha-este-miercoles-las-audiencias-por-la-ley-de-glaciares-solo-100-expositores-presenciales-y-el-resto-por-zoom/, https://www.infobae.com/politica/2026/03/24/ley-de-glaciares-ambientalistas-y-bloques-opositores-convocaron-a-una-marcha-contra-los-limites-de-participacion-en-el-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-25",
+            "horario": "17:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Campaña La Ley de Glaciares No Se Toca",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar la exclusión del 99,5% de inscriptos en la audiencia pública sobre Ley de Glaciares",
+            "fuente": "https://www.laizquierdadiario.com/Seguila-en-vivo-Audiencia-por-la-Ley-de-Glaciares-el-oficialismo-limito-la-presencia-del-99-de-los"
         },
         {
             "es_evento_relevante": true,
