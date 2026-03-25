@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25T08:44:28.592281-03:00",
+    "last_updated": "2026-03-25T10:02:36.552233-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8290,6 +8290,16 @@
             "tipo_medida": "Paro",
             "motivo": "Proteger salarios y evitar despidos bajo la Ley de Modernización Laboral (Ley Nº 27.802)",
             "fuente": "https://www.datagremial.com/informacion-general/en-corrientes-tambien-se-aplico-la-reforma-laboral-para-levantar-un-paro-docente-202632315590"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "No especificado",
+            "lugar": "Municipio de Villa Gesell",
+            "quien": "Gremio de Camioneros",
+            "tipo_medida": "Conciliación obligatoria",
+            "motivo": "Resolución de conflicto por despidos en servicio de barrido",
+            "fuente": "https://www.infobae.com/politica/2026/03/25/pablo-moyano-se-enfrento-con-un-intendente-de-kicillof-que-tuvo-que-mediar-para-que-el-conflicto-no-escale/"
         },
         {
             "es_evento_relevante": true,
