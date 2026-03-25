@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25T11:23:21.649685-03:00",
+    "last_updated": "2026-03-25T13:19:11.077951-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8254,22 +8254,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-25",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Organizaciones ambientalistas (FARN, Greenpeace, Red Universitaria por la Crisis Climáticas, Asociación Argentina de Abogados Ambientalistas)",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir la participación oral masiva en las audiencias públicas sobre la reforma de la Ley de Glaciares",
-            "fuente": "https://elciudadanoweb.com/diputados-pone-en-marcha-este-miercoles-las-audiencias-por-la-ley-de-glaciares-solo-100-expositores-presenciales-y-el-resto-por-zoom/, https://www.infobae.com/politica/2026/03/24/ley-de-glaciares-ambientalistas-y-bloques-opositores-convocaron-a-una-marcha-contra-los-limites-de-participacion-en-el-congreso/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-25",
             "horario": "17:00",
-            "lugar": "Frente al Congreso Nacional",
+            "lugar": "Congreso Nacional",
             "quien": "Campaña La Ley de Glaciares No Se Toca",
             "tipo_medida": "Movilización",
-            "motivo": "Denunciar la exclusión del 99,5% de inscriptos en la audiencia pública sobre Ley de Glaciares",
-            "fuente": "https://www.laizquierdadiario.com/Seguila-en-vivo-Audiencia-por-la-Ley-de-Glaciares-el-oficialismo-limito-la-presencia-del-99-de-los"
+            "motivo": "Denunciar la restricción en la audiencia pública y defender la Ley de Glaciares existente",
+            "fuente": "https://www.laizquierdadiario.com/Seguila-en-vivo-Audiencia-por-la-Ley-de-Glaciares-el-oficialismo-limito-la-presencia-del-99-de-los-anotados, https://elciudadanoweb.com/diputados-pone-en-marcha-este-miercoles-las-audiencias-por-la-ley-de-glaciares-solo-100-expositores-presenciales-y-el-resto-por-zoom/, https://www.infobae.com/politica/2026/03/24/ley-de-glaciares-ambientalistas-y-bloques-opositores-convocaron-a-una-marcha-contra-los-limites-de-participacion-en-el-congreso/, https://www.laizquierdadiario.com/Seguila-en-vivo-Audiencia-por-la-Ley-de-Glaciares-el-oficialismo-limito-la-presencia-del-99-de-los"
         },
         {
             "es_evento_relevante": true,
@@ -8506,10 +8496,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "CATT (Confederación Argentina de Trabajadores del Transporte) y CGT (Confederación General del Trabajo)",
-            "tipo_medida": "Paro",
-            "motivo": "Repudio a sumarios del gobierno contra sindicatos y defensa del derecho a huelga",
-            "fuente": "https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
+            "quien": "El Ciudadano",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra megaminería y Ley de Glaciares, defensa de bienes comunes y glaciares, oposición al saqueo extractivo",
+            "fuente": "https://elciudadanoweb.com/del-pla-y-pitrola-sobre-la-ley-de-glaciares-tenemos-que-impulsar-la-movilizacion-popular/, https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
         },
         {
             "es_evento_relevante": true,
