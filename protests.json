@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-25T01:21:18.476369-03:00",
+    "last_updated": "2026-03-25T03:04:36.050504-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8240,6 +8240,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Aniversario del golpe de Estado, con enfoque en derechos humanos",
             "fuente": "https://www.datagremial.com/informacion-general/sin-respuestas-a-los-reclamos-fatun-ratifico-su-plan-de-lucha-que-incluye-otros-cuatro-paros-202631916170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-25",
+            "horario": "09:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Organismos de derechos humanos",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años del Golpe de Estado de 1976",
+            "fuente": "https://elciudadanoweb.com/memoria-verdad-justicia-pablo-grillo-se-sumo-a-la-marcha-en-plaza-de-mayo-por-los-50-anos-del-golpe-de-estado/, https://www.infobae.com/politica/2026/03/24/el-mapa-de-la-marcha-por-el-24-de-marzo-donde-y-a-que-hora-sera-el-acto-central/"
         },
         {
             "es_evento_relevante": true,
