@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T19:26:27.783336-03:00",
+    "last_updated": "2026-03-26T20:35:25.442264-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8330,6 +8330,16 @@
             "tipo_medida": "Paro",
             "motivo": "Proteger salarios y evitar despidos bajo la Ley de Modernización Laboral (Ley Nº 27.802)",
             "fuente": "https://www.datagremial.com/informacion-general/en-corrientes-tambien-se-aplico-la-reforma-laboral-para-levantar-un-paro-docente-202632315590"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-27",
+            "horario": "04:00",
+            "lugar": "Todo el país",
+            "quien": "Gremios de transportistas",
+            "tipo_medida": "Cortes de tránsito y movilizaciones",
+            "motivo": "Alerta por encarecimiento de precios tras medidas del gobierno",
+            "fuente": "https://elciudadanoweb.com/marcha-estudiantil-en-santiago-contra-el-ajuste-educativo-kast-enfrenta-sus-primeras-protestas-en-chile-con-gases-y-camiones-hidrantes/, https://larepublica.pe/sociedad/2026/03/26/transportistas-acatan-paro-de-48-horas-en-iquitos-por-alza-de-precio-de-combustibles-bloqueos-enfrentamientos-y-mercados-desabastecidos-1322750"
         },
         {
             "es_evento_relevante": true,
