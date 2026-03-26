@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T17:02:23.969541-03:00",
+    "last_updated": "2026-03-26T17:36:26.455065-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8380,6 +8380,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de las universidades públicas frente al vaciamiento estatal y políticas de ajuste",
             "fuente": "https://estadodealerta.com.ar/para-el-gobierno-el-paro-universitario-facilita-el-vaciamiento-de-la-educacion-publica-y-el-exodo-de-docentes-con-parte-del-alumnado-a-la-deriva/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "No especificado",
+            "lugar": "Universidad Tecnológica Nacional (UTN), Rosario",
+            "quien": "FAGDUT Rosario (Federación Argentina de Graduados Universitarios de Trabajadores de la Enseñanza)",
+            "tipo_medida": "Paro total",
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, crisis presupuestaria, falta de paritarias, deterioro salarial (pérdida de poder adquisitivo >50%) y rechazo a la reforma laboral",
+            "fuente": "https://elciudadanoweb.com/la-utn-ira-a-un-paro-total-de-72-horas-y-no-habra-clases-desde-el-lunes-30/"
         },
         {
             "es_evento_relevante": true,
