@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T10:04:51.874755-03:00",
+    "last_updated": "2026-03-26T11:37:40.877224-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8294,6 +8294,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-26",
+            "horario": "12:00",
+            "lugar": "Ex Congreso Nacional, Santiago, Chile",
+            "quien": "Asamblea Coordinadora de Estudiantes Secundarios (ACES)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a recortes en educación y austeridad del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Cacerolazos-y-marcha-estudiantil-en-Chile-contra-el-aumento-de-los-combustibles-anunciado-por-Kast"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-26",
             "horario": "18:00",
             "lugar": "Porto Alegre, Brasil",
             "quien": "Comité organizador de la Primera Conferencia Internacional Antifascista",
@@ -8370,6 +8380,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por aumento salarial y aplicación de Ley de Financiamiento Universitario",
             "fuente": "https://estadodealerta.com.ar/docentes-universitarios-iniciaron-un-paro-nacional-por-salarios-en-la-uba-es-por-tiempo-indeterminado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-04",
+            "horario": "18:00",
+            "lugar": "Neuquén (centro nacional)",
+            "quien": "Corriente 9 de Abril y Coordinación Nacional Docente",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al ajuste de Milei, mejora salarial y condiciones laborales docentes, coordinación de luchas provinciales",
+            "fuente": "https://www.laizquierdadiario.com/Sindicatos-seccionales-y-agrupaciones-nacionales-exigen-paro-y-plan-de-lucha-nacional, https://www.rionegro.com.ar/gremios/protesta-en-pleno-aniversario-de-neuquen-a-que-hora-empieza-el-reclamo-de-aten-capital-vialidad-inta-y-piap-4296136/"
         },
         {
             "es_evento_relevante": true,
