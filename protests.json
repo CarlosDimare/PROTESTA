@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T13:18:36.106207-03:00",
+    "last_updated": "2026-03-26T15:01:30.940707-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8350,6 +8350,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales, presupuestarios y contra la Ley de Financiamiento Universitario",
             "fuente": "https://www.inforegion.com.ar/2026/03/16/comenzo-la-primera-semana-de-paro-universitario-y-asoma-una-nueva-marcha-federal/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "14:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos docentes universitarios y gremios no docentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de las universidades públicas frente al vaciamiento estatal y políticas de ajuste",
+            "fuente": "https://estadodealerta.com.ar/para-el-gobierno-el-paro-universitario-facilita-el-vaciamiento-de-la-educacion-publica-y-el-exodo-de-docentes-con-parte-del-alumnado-a-la-deriva/"
         },
         {
             "es_evento_relevante": true,
