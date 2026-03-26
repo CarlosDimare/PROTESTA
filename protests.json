@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T16:09:14.653864-03:00",
+    "last_updated": "2026-03-26T17:02:23.969541-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8333,6 +8333,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-27",
+            "horario": "12:00",
+            "lugar": "Sede de la Superintendencia de Servicios de Salud, Bartolomé Mitre 434, Ciudad Autónoma de Buenos Aires",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Denuncia de corrupción y vaciamiento del organismo en contra del gerente Mario Gutiérrez y autoridades de la Superintendencia de Servicios de Salud",
+            "fuente": "https://www.datagremial.com/informacion-general/tras-el-escandalo-de-adorni-denuncian-que-un-gerente-de-la-superintendencia-de-salud-multiplico-por-30-su-patrimonio-ate-protesta-manana-202632614220"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-28",
             "horario": "No especificado",
             "lugar": "Estados Unidos",
@@ -8380,6 +8390,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por paritarias y aumentos salariales acorde a la realidad económica, en defensa de la universidad pública y la Ley 27.795 de Financiamiento Universitario",
             "fuente": "https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-31",
+            "horario": "10:00",
+            "lugar": "Estaciones de Once, Constitución y Retiro",
+            "quien": "Organizaciones piqueteras y sociales (Polo Obrero, ATE Trabajo)",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra despidos en programas sociales y ajuste del gobierno",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/ollas-populares-asambleas-y-piquetazo-nacional-contra-el-millon-de-despidos-en-volver-al-trabajo"
         },
         {
             "es_evento_relevante": true,
