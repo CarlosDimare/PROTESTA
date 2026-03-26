@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T05:09:13.223092-03:00",
+    "last_updated": "2026-03-26T06:12:33.475165-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8310,6 +8310,16 @@
             "tipo_medida": "Paro",
             "motivo": "Proteger salarios y evitar despidos bajo la Ley de Modernización Laboral (Ley Nº 27.802)",
             "fuente": "https://www.datagremial.com/informacion-general/en-corrientes-tambien-se-aplico-la-reforma-laboral-para-levantar-un-paro-docente-202632315590"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "No especificado",
+            "lugar": "Estados Unidos",
+            "quien": "No Kings y coalición de sindicatos y organizaciones de izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Abolición del ICE, defensa de derechos de inmigrantes, oposición a la guerra en Irán y resistencia contra Donald Trump",
+            "fuente": "https://www.laizquierdadiario.com/En-la-marcha-de-No-Kings-Inundemos-las-calles-para-exigir-la-abolicion-de-ICE-plenos-derechos-para"
         },
         {
             "es_evento_relevante": true,
