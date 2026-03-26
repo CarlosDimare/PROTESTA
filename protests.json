@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-26T15:01:30.940707-03:00",
+    "last_updated": "2026-03-26T16:09:14.653864-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8313,6 +8313,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-03-26",
+            "horario": "No especificado",
+            "lugar": "Hospital Posadas",
+            "quien": "Residentes del Hospital Posadas (Agrupación Marrón Clasista PTS + independientes)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aumento salarial, derechos laborales, fin del sistema de becas, y denuncia de incumplimiento de la ley de emergencia pediátrica",
+            "fuente": "https://www.laizquierdadiario.com/Hospital-Posadas-nuevo-paro-y-corte-de-residentes"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-03-27",
             "horario": "00:00",
             "lugar": "Corrientes",
@@ -8410,6 +8420,16 @@
             "tipo_medida": "Paro provincial",
             "motivo": "Reclamo por recomposición salarial, defensa del 82% móvil y oposición a recortes en jubilaciones y derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/marzo-caliente-los-conflictos-de-los-judiciales-en-varias-provincias-suben-de-temperatura-con-paros-asambleas-y-movilizaciones-202631615280, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Conjunto de organizaciones sociales y piqueteras (Territorios en Lucha, UTEP, Polo Obrero, MTR, CTA-T, entre otras)",
+            "tipo_medida": "Piquetazo",
+            "motivo": "Contra el recorte de 937.132 programas Volver al Trabajo del gobierno de Milei que afecta a trabajadores de la economía popular",
+            "fuente": "https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
         },
         {
             "es_evento_relevante": true,
