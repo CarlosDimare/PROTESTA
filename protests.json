@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27T18:35:24.093577-03:00",
+    "last_updated": "2026-03-27T19:32:03.807049-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8350,6 +8350,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Denuncia de corrupción y vaciamiento del organismo en contra del gerente Mario Gutiérrez y autoridades de la Superintendencia de Servicios de Salud",
             "fuente": "https://www.datagremial.com/informacion-general/tras-el-escandalo-de-adorni-denuncian-que-un-gerente-de-la-superintendencia-de-salud-multiplico-por-30-su-patrimonio-ate-protesta-manana-202632614220"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-27",
+            "horario": "No especificado",
+            "lugar": "Cámara de Diputados de Río Gallegos",
+            "quien": "Adosac y frente sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir paritarias, cláusula gatillo y recomposición salarial; oponerse al cierre de cursos, a la ley de emergencia económica y a la defensa de fuentes laborales y régimen jubilatorio",
+            "fuente": "https://prensaobrera.com/sindicales/pueblada-en-rio-gallegos-triunfo-del-frente-sindical"
         },
         {
             "es_evento_relevante": true,
