@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27T14:50:44.022115-03:00",
+    "last_updated": "2026-03-27T15:55:23.613248-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8350,6 +8350,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Denuncia de corrupción y vaciamiento del organismo en contra del gerente Mario Gutiérrez y autoridades de la Superintendencia de Servicios de Salud",
             "fuente": "https://www.datagremial.com/informacion-general/tras-el-escandalo-de-adorni-denuncian-que-un-gerente-de-la-superintendencia-de-salud-multiplico-por-30-su-patrimonio-ate-protesta-manana-202632614220"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "11:00",
+            "lugar": "Planta de Fate en San Fernando",
+            "quien": "Trabajadores de Fate y sus familias",
+            "tipo_medida": "Reunión de solidaridad",
+            "motivo": "Continuar la lucha contra el lockout patronal, debatir nuevas acciones y sostener el fondo de solidaridad",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Fate-en-lucha-marcharon-el-24-de-marzo-a-50-anos-del-golpe-genocida, https://www.infobae.com/sociedad/2026/03/10/la-justicia-revoco-el-desalojo-en-fate-y-legitimo-la-protesta-del-sindicato-por-el-cierre-de-la-fabrica/"
         },
         {
             "es_evento_relevante": true,
