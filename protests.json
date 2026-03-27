@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27T12:53:55.637894-03:00",
+    "last_updated": "2026-03-27T13:53:41.871719-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8385,21 +8385,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-30",
             "horario": "08:00",
+            "lugar": "Universidad Tecnológica Nacional (UTN) - Rosario",
+            "quien": "FAGDUT y gremios de UTN",
+            "tipo_medida": "Paro total",
+            "motivo": "Incumplimiento de ley de financiamiento universitario, reclamo de aumento salarial del 55% y defensa de educación pública",
+            "fuente": "https://elciudadanoweb.com/hay-clases-la-semana-que-viene-el-cronograma-de-paros-en-la-unr-y-la-utn-rosario/, https://elciudadanoweb.com/la-utn-ira-a-un-paro-total-de-72-horas-y-no-habra-clases-desde-el-lunes-30/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "08:00",
             "lugar": "No especificado",
             "quien": "Coad (gremio docente de UNR)",
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento del gobierno nacional con la ley de financiamiento universitario y reclamo de aumento salarial del 55%",
             "fuente": "https://elciudadanoweb.com/docentes-y-no-docentes-de-la-unr-realizaran-un-paro-durante-la-semana-del-30-de-marzo-al-4-de-abril/, https://estadodealerta.com.ar/para-el-gobierno-el-paro-universitario-facilita-el-vaciamiento-de-la-educacion-publica-y-el-exodo-de-docentes-con-parte-del-alumnado-a-la-deriva/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-03-30",
-            "horario": "No especificado",
-            "lugar": "Universidad Tecnológica Nacional (UTN), Rosario",
-            "quien": "FAGDUT Rosario (Federación Argentina de Graduados Universitarios de Trabajadores de la Enseñanza)",
-            "tipo_medida": "Paro total",
-            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, crisis presupuestaria, falta de paritarias, deterioro salarial (pérdida de poder adquisitivo >50%) y rechazo a la reforma laboral",
-            "fuente": "https://elciudadanoweb.com/la-utn-ira-a-un-paro-total-de-72-horas-y-no-habra-clases-desde-el-lunes-30/"
         },
         {
             "es_evento_relevante": true,
