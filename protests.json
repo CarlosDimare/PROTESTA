@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-27T19:32:03.807049-03:00",
+    "last_updated": "2026-03-27T20:31:05.488067-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8490,6 +8490,16 @@
             "tipo_medida": "Piquetazo",
             "motivo": "Contra el recorte de 937.132 programas Volver al Trabajo del gobierno de Milei que afecta a trabajadores de la economía popular",
             "fuente": "https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-11",
+            "horario": "15:00",
+            "lugar": "Callao y Corrientes (punto de inicio) hasta Plaza de Mayo (destino)",
+            "quien": "Comité Argentino de Solidaridad con Palestina",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el genocidio del pueblo palestino, repudio a la guerra contra Irán y Líbano, rechazo al alineamiento del gobierno con EE.UU. e Israel, y apoyo a la Flotilla Global Sumud",
+            "fuente": "https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
         },
         {
             "es_evento_relevante": true,
