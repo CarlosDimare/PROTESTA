@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-28T12:35:45.672761-03:00",
+    "last_updated": "2026-03-28T13:36:20.847652-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8370,6 +8370,16 @@
             "tipo_medida": "Reunión de solidaridad",
             "motivo": "Continuar la lucha contra el lockout patronal, debatir nuevas acciones y sostener el fondo de solidaridad",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Fate-en-lucha-marcharon-el-24-de-marzo-a-50-anos-del-golpe-genocida, https://www.infobae.com/sociedad/2026/03/10/la-justicia-revoco-el-desalojo-en-fate-y-legitimo-la-protesta-del-sindicato-por-el-cierre-de-la-fabrica/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "14:00",
+            "lugar": "Plaza Italia",
+            "quien": "Colectivo provida (Red Nacional de Acompañamiento, ACIERA, La Merced Vida, +Vida, entre otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la vida desde la concepción y oposición a la legalización del aborto, en conmemoración del Día del Niño por Nacer",
+            "fuente": "https://www.infobae.com/politica/2026/03/28/dia-del-nino-por-nacer-diputados-nacionales-y-asociaciones-firmaron-un-compromiso-para-derogar-el-aborto/"
         },
         {
             "es_evento_relevante": true,
