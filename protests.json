@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-28T06:43:40.967201-03:00",
+    "last_updated": "2026-03-28T07:33:23.261046-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8370,6 +8370,26 @@
             "tipo_medida": "Reunión de solidaridad",
             "motivo": "Continuar la lucha contra el lockout patronal, debatir nuevas acciones y sostener el fondo de solidaridad",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Fate-en-lucha-marcharon-el-24-de-marzo-a-50-anos-del-golpe-genocida, https://www.infobae.com/sociedad/2026/03/10/la-justicia-revoco-el-desalojo-en-fate-y-legitimo-la-protesta-del-sindicato-por-el-cierre-de-la-fabrica/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores de organismos estatales y CNEA",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir aumento salarial, pase a planta permanente, detener despidos y evitar el desguace de organismos de ciencia y tecnología",
+            "fuente": "https://www.laizquierdadiario.com/CNEA-Tras-asambleas-y-movilizaciones-masivas-renuevan-todos-los-contratos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-28",
+            "horario": "15:00",
+            "lugar": "Centro de Santiago",
+            "quien": "Movimiento estudiantil y trabajador",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Derrotar el bencinazo, recortes en educación y ataques del gobierno de José Antonio Kast",
+            "fuente": "https://www.laizquierdadiario.com/Masiva-marcha-estudiantil-en-Chile-organicemos-un-Frente-por-el-Paro-Nacional"
         },
         {
             "es_evento_relevante": true,
