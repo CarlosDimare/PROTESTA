@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-29T15:41:54.182601-03:00",
+    "last_updated": "2026-03-29T16:43:44.314759-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8450,6 +8450,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento del gobierno nacional con la ley de financiamiento universitario y reclamo de aumento salarial del 55%",
             "fuente": "https://elciudadanoweb.com/docentes-y-no-docentes-de-la-unr-realizaran-un-paro-durante-la-semana-del-30-de-marzo-al-4-de-abril/, https://estadodealerta.com.ar/para-el-gobierno-el-paro-universitario-facilita-el-vaciamiento-de-la-educacion-publica-y-el-exodo-de-docentes-con-parte-del-alumnado-a-la-deriva/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "No especificado",
+            "lugar": "Intersección de calles Rioja y Entre Ríos, microcentro de Rosario",
+            "quien": "Vecinos y comerciantes autoconvocados del microcentro de Rosario",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo por reiterados cortes de luz y falta de soluciones por parte de la Empresa Provincial de la Energía (EPE)",
+            "fuente": "https://elciudadanoweb.com/vecinos-y-comerciantes-furiosos-con-la-epe-en-rioja-y-entre-rios-tres-cortes-de-luz-al-hilo/"
         },
         {
             "es_evento_relevante": true,
