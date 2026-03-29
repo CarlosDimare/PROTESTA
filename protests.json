@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-29T17:30:41.908540-03:00",
+    "last_updated": "2026-03-29T18:33:04.786438-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8595,6 +8595,16 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos del sector automotriz",
+            "tipo_medida": "No especificado",
+            "motivo": "Defensa de puestos de trabajo frente a recortes y ajustes en plantas automotrices",
+            "fuente": "https://motoreconomico.com.ar/crisis-automotriz-recortes-en-peugeot-y-toyota-encienden-alarma-por-despidos-masivos/, https://elciudadanoweb.com/del-pla-y-pitrola-sobre-la-ley-de-glaciares-tenemos-que-impulsar-la-movilizacion-popular/, https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/, https://www.infobae.com/politica/2024/04/30/dia-del-trabajador-donde-es-a-que-hora-sera-y-quienes-convocan-a-la-movilizacion-del-1-de-mayo/?outputType=amp-type"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "10:00",
             "lugar": "Plaza del Congreso, Buenos Aires",
             "quien": "CGT",
             "tipo_medida": "Paro",
@@ -8680,16 +8690,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al pago de salarios en dos partes y al fraccionamiento del aguinaldo",
             "fuente": "https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "El Ciudadano",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra megaminería y Ley de Glaciares, defensa de bienes comunes y glaciares, oposición al saqueo extractivo",
-            "fuente": "https://elciudadanoweb.com/del-pla-y-pitrola-sobre-la-ley-de-glaciares-tenemos-que-impulsar-la-movilizacion-popular/, https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/"
         },
         {
             "es_evento_relevante": true,
