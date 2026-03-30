@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T14:57:19.652504-03:00",
+    "last_updated": "2026-03-30T16:01:38.695963-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8500,6 +8500,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta contra despidos en programas sociales y ajuste del gobierno",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/ollas-populares-asambleas-y-piquetazo-nacional-contra-el-millon-de-despidos-en-volver-al-trabajo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-31",
+            "horario": "No especificado",
+            "lugar": "Distintas sedes universitarias (no especificado)",
+            "quien": "Conadu Histórica y Conadu",
+            "tipo_medida": "Paro nacional universitario",
+            "motivo": "Reclamo por aplicación inmediata de la Ley de Financiamiento para universidades y recomposición salarial",
+            "fuente": "https://www.inforegion.com.ar/2026/03/30/comienza-la-tercera-semana-de-paro-universitario-por-recomposicion-salarial/"
         },
         {
             "es_evento_relevante": true,
