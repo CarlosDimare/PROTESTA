@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T19:34:56.745140-03:00",
+    "last_updated": "2026-03-30T20:35:58.956688-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8485,11 +8485,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-31",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "FATUN y FEDUN",
+            "lugar": "Todas las universidades públicas del país",
+            "quien": "FEDUN y FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por presupuesto y paritarias, cumplimiento de Ley de Financiamiento Universitario y aumento salarial",
-            "fuente": "https://www.inforegion.com.ar/2026/03/28/marzo-cierra-con-un-nuevo-paro-en-las-universidades-publicas/, https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+            "motivo": "Rechazo al ajuste y reclamo de paritarias por caída salarial del 48,7% desde la asunción de Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/daniel-ricci-anticipo-un-paro-contundente-y-total-en-las-universidades-publicas--202633019120, https://www.inforegion.com.ar/2026/03/28/marzo-cierra-con-un-nuevo-paro-en-las-universidades-publicas/, https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
         },
         {
             "es_evento_relevante": true,
