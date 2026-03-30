@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T17:45:26.877271-03:00",
+    "last_updated": "2026-03-30T18:41:12.046054-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8490,6 +8490,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por presupuesto y paritarias, cumplimiento de Ley de Financiamiento Universitario y aumento salarial",
             "fuente": "https://www.inforegion.com.ar/2026/03/28/marzo-cierra-con-un-nuevo-paro-en-las-universidades-publicas/, https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-31",
+            "horario": "09:00",
+            "lugar": "Frente al departamento de Manuel Adorni en Caballito",
+            "quien": "AGD-UBA y Cefyl",
+            "tipo_medida": "Paro",
+            "motivo": "Lucha por aplicación de la Ley de Financiamiento Universitario, recomposición salarial y aumento del presupuesto universitario contra el ajuste de Milei",
+            "fuente": "https://prensaobrera.com/sindicales/en-el-marco-del-paro-docente-universitario-clases-publicas-frente-al-departamento-no-declarado-de-adorni"
         },
         {
             "es_evento_relevante": true,
