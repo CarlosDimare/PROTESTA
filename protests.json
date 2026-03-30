@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T07:18:44.406936-03:00",
+    "last_updated": "2026-03-30T09:03:06.834544-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8450,6 +8450,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento del gobierno nacional con la ley de financiamiento universitario y reclamo de aumento salarial del 55%",
             "fuente": "https://elciudadanoweb.com/docentes-y-no-docentes-de-la-unr-realizaran-un-paro-durante-la-semana-del-30-de-marzo-al-4-de-abril/, https://estadodealerta.com.ar/para-el-gobierno-el-paro-universitario-facilita-el-vaciamiento-de-la-educacion-publica-y-el-exodo-de-docentes-con-parte-del-alumnado-a-la-deriva/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas de Argentina (ej: UNLu, UNLP, UBA)",
+            "quien": "Federaciones Conadu Histórica y Conadu, con adhesión de gremios docentes (ej: ADULP)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir aplicación inmediata de la Ley de Financiamiento para universidades y recomposición salarial frente a la inflación",
+            "fuente": "https://elciudadanoweb.com/tercera-semana-de-paro-universitario-por-recomposicion-salarial/"
         },
         {
             "es_evento_relevante": true,
