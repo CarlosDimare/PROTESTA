@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T09:03:06.834544-03:00",
+    "last_updated": "2026-03-30T10:15:45.016253-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8430,6 +8430,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales, presupuestarios y contra la Ley de Financiamiento Universitario",
             "fuente": "https://www.inforegion.com.ar/2026/03/16/comenzo-la-primera-semana-de-paro-universitario-y-asoma-una-nueva-marcha-federal/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-03-30",
+            "horario": "08:00",
+            "lugar": "Universidades públicas nacionales y UTN",
+            "quien": "FAGDUT (Federación Argentina de Gremios Docentes Universitarios de la UTN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios dignos y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/docentes-y-nodocentes-universitarios-inician-una-nueva-semana-de-protestas-contra-el-ajuste-libertario-20263309300"
         },
         {
             "es_evento_relevante": true,
