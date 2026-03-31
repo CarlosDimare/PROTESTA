@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31T17:44:07.009913-03:00",
+    "last_updated": "2026-03-31T18:42:12.339784-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8580,6 +8580,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Enfrentar despidos en el programa Volver al Trabajo y defender programas sociales",
             "fuente": "https://prensaobrera.com/movimiento-piquetero/el-7-vamos-con-todo-a-las-calles-organizaciones-sociales-convocan-piquetazo-nacional, https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "durante el día",
+            "lugar": "Todo el país",
+            "quien": "Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP), Frente de Lucha Piquetero y Territorios en Lucha (60+ organizaciones sociales)",
+            "tipo_medida": "Cortes y Ollas Populares",
+            "motivo": "Contra el cierre del programa Volver al Trabajo y en defensa de planes sociales y trabajo genuino",
+            "fuente": "https://www.anred.org/organizaciones-sociales-realizaron-ollas-populares-y-asambleas-en-todo-el-pais-contra-el-cierre-de-volver-al-trabajo/"
         },
         {
             "es_evento_relevante": true,
