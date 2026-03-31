@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31T14:58:36.527774-03:00",
+    "last_updated": "2026-03-31T16:00:26.003268-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8576,10 +8576,10 @@
             "fecha": "2026-04-07",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Conjunto de organizaciones sociales y piqueteras (Territorios en Lucha, UTEP, Polo Obrero, MTR, CTA-T, entre otras)",
-            "tipo_medida": "Piquetazo",
-            "motivo": "Contra el recorte de 937.132 programas Volver al Trabajo del gobierno de Milei que afecta a trabajadores de la economía popular",
-            "fuente": "https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
+            "quien": "Organizaciones sociales y piqueteras (Polo Obrero entre otros)",
+            "tipo_medida": "Piquete",
+            "motivo": "Enfrentar despidos en el programa Volver al Trabajo y defender programas sociales",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/el-7-vamos-con-todo-a-las-calles-organizaciones-sociales-convocan-piquetazo-nacional, https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
         },
         {
             "es_evento_relevante": true,
