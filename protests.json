@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31T10:21:44.944722-03:00",
+    "last_updated": "2026-03-31T12:15:10.676258-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8485,21 +8485,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-03-31",
             "horario": "00:00",
-            "lugar": "Todas las universidades públicas del país",
-            "quien": "FEDUN y FATUN",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al ajuste y reclamo de paritarias por caída salarial del 48,7% desde la asunción de Milei",
-            "fuente": "https://www.datagremial.com/informacion-general/daniel-ricci-anticipo-un-paro-contundente-y-total-en-las-universidades-publicas--202633019120, https://www.inforegion.com.ar/2026/03/28/marzo-cierra-con-un-nuevo-paro-en-las-universidades-publicas/, https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "Docentes y estudiantes universitarios (CIN y universidades adherentes)",
+            "tipo_medida": "Paro de 72 horas con movilizaciones",
+            "motivo": "Crisis presupuestaria y salarial en universidades públicas, reclamo por aplicación de la ley de financiamiento universitario",
+            "fuente": "https://www.laizquierdadiario.com/Reves-judicial-para-Milei-ratifican-que-debe-aplicarse-la-ley-de-financiamiento-universitario, https://www.datagremial.com/informacion-general/daniel-ricci-anticipo-un-paro-contundente-y-total-en-las-universidades-publicas--202633019120, https://www.inforegion.com.ar/2026/03/28/marzo-cierra-con-un-nuevo-paro-en-las-universidades-publicas/, https://www.inforegion.com.ar/2026/03/20/fatun-ratifico-el-plan-de-lucha-habra-un-paro-el-31-de-marzo-y-otros-tres-en-abril/, https://www.datagremial.com/informacion-general/tras-ratificar-el-paro-del-31-de-marzo-fedun-alerta-que-peligran-las-clases-en-todas-las-universidades-nacionales-por-la-perdida-salarial-y-presupuestaria--20263191910, https://www.datagremial.com/informacion-general/fatun-resalto-el-contundente-paro-de-los-nodocentes-en-todas-las-universidades-nacionales-y-cruzo-al-gobierno-por-inhumano-autoritario-y-obsesionado-con-el-ajuste--20263189310"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-03-31",
-            "horario": "09:00",
-            "lugar": "Frente al departamento de Manuel Adorni en Caballito",
-            "quien": "AGD-UBA y Cefyl",
-            "tipo_medida": "Paro",
-            "motivo": "Lucha por aplicación de la Ley de Financiamiento Universitario, recomposición salarial y aumento del presupuesto universitario contra el ajuste de Milei",
-            "fuente": "https://prensaobrera.com/sindicales/en-el-marco-del-paro-docente-universitario-clases-publicas-frente-al-departamento-no-declarado-de-adorni"
+            "horario": "10:00",
+            "lugar": "Miró 500, Caballito (frente al departamento de Manuel Adorni)",
+            "quien": "CEFyL y AGD-UBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Crisis presupuestaria y salaria en educación pública, exigencia de aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Ahora-Clase-publica-y-protesta-en-la-casa-que-Adorni-tiene-en-Caballito, https://prensaobrera.com/sindicales/en-el-marco-del-paro-docente-universitario-clases-publicas-frente-al-departamento-no-declarado-de-adorni"
         },
         {
             "es_evento_relevante": true,
@@ -8560,6 +8560,16 @@
             "tipo_medida": "Paro provincial",
             "motivo": "Reclamo por recomposición salarial, defensa del 82% móvil y oposición a recortes en jubilaciones y derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/marzo-caliente-los-conflictos-de-los-judiciales-en-varias-provincias-suben-de-temperatura-con-paros-asambleas-y-movilizaciones-202631615280, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "10:00",
+            "lugar": "Diversos puntos del AMBA y otras ciudades del país",
+            "quien": "Territorios en Lucha, UTEP, Federación Nacional Campesina, Frente Barrial de la CTA-T, Frente de Lucha Piquetero y más de 50 organizaciones sociales",
+            "tipo_medida": "Piquete",
+            "motivo": "Rechazo a la eliminación del programa Volver al Trabajo y políticas de ajuste social del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Ollas-populares-y-asambleas-contra-el-cierre-del-programa-Volver-al-Trabajo, https://www.infobae.com/politica/2025/05/09/los-movimientos-sociales-marcharan-a-la-secretaria-de-trabajo-en-reclamo-por-aumento-en-el-salario-social-complementario/"
         },
         {
             "es_evento_relevante": true,
