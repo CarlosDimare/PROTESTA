@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-30T20:35:58.956688-03:00",
+    "last_updated": "2026-03-30T22:59:57.949996-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8570,6 +8570,16 @@
             "tipo_medida": "Piquetazo",
             "motivo": "Contra el recorte de 937.132 programas Volver al Trabajo del gobierno de Milei que afecta a trabajadores de la economía popular",
             "fuente": "https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "00:00",
+            "lugar": "Provincia de Santa Fe",
+            "quien": "Festram",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a descuentos de días y defensa del derecho de huelga contra los Intendentes",
+            "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-no-hubo-acuerdo-y-festram-lanzo-un-paro-de-72-horas/"
         },
         {
             "es_evento_relevante": true,
