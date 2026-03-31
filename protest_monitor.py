@@ -31,7 +31,8 @@ SITIOS_A_MONITOREAR = {
     "ATE" : "https://ate.org.ar/",
     "Data Gremial": "https://www.datagremial.com/",
     "Estado de Alerta": "https://estadodealerta.com.ar/",
-    "Motor económico": "https://motoreconomico.com.ar/"
+    "Motor económico": "https://motoreconomico.com.ar/",
+    "Protesta": "https://news.google.com/rss/search?q=(gremio+OR+sindicato+OR+CGT+OR+CTA)+(reclama+OR+denuncia+OR+moviliza)+Argentina+when:3d&hl=es-419&gl=AR&ceid=AR:es-419"
 }
 
 # Palabras clave para identificar noticias relevantes en los titulares
