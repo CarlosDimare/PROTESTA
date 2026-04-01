@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01T17:45:05.226726-03:00",
+    "last_updated": "2026-04-01T18:43:53.303953-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8610,6 +8610,16 @@
             "tipo_medida": "Paro provincial",
             "motivo": "Reclamo por recomposición salarial, defensa del 82% móvil y oposición a recortes en jubilaciones y derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/marzo-caliente-los-conflictos-de-los-judiciales-en-varias-provincias-suben-de-temperatura-con-paros-asambleas-y-movilizaciones-202631615280, https://www.eldestapeweb.com/politica/el-destape-cordoba/paro-y-marcha-de-judiciales-a-los-tribunales-por-aumento-salarial-2025516132837"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-06",
+            "horario": "No especificado",
+            "lugar": "Córdoba (provincia)",
+            "quien": "Agrupación Docentes D-Base / UEPC Capital",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo masivo a la oferta salarial del gobierno provincial; reclamo de aumento del 40%, devolución de descuentos por paros y renuncia del secretario general Cristalli",
+            "fuente": "https://www.laizquierdadiario.com/Masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora-Vamos-a-un-nuevo-paro-de-72-horas"
         },
         {
             "es_evento_relevante": true,
