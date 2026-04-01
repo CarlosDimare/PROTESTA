@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-31T20:33:58.681623-03:00",
+    "last_updated": "2026-03-31T23:08:59.522368-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8540,6 +8540,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por actualización salarial frente a inflación acumulada del 33% en Neuquén y críticas a la conducción sindical por no haber parado contra la reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/petroleros-entre-despidos-y-un-ano-de-paritaria-a-la-baja"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-01",
+            "horario": "00:00",
+            "lugar": "Centro de Córdoba",
+            "quien": "UEPC Capital",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a paritaria salarial, reclamo de 40% de aumento y combate contra descuentos",
+            "fuente": "https://prensaobrera.com/sindicales/toda-la-docencia-de-cordoba-rechazo-la-tercera-propuesta-paritaria-de-llaryora-y-cristalli"
         },
         {
             "es_evento_relevante": true,
