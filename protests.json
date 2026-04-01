@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01T10:12:12.067578-03:00",
+    "last_updated": "2026-04-01T12:11:53.538443-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8550,6 +8550,26 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a paritaria salarial, reclamo de 40% de aumento y combate contra descuentos",
             "fuente": "https://prensaobrera.com/sindicales/toda-la-docencia-de-cordoba-rechazo-la-tercera-propuesta-paritaria-de-llaryora-y-cristalli"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-01",
+            "horario": "11:00",
+            "lugar": "Edificio Centinela, sede central de Gendarmería",
+            "quien": "Personal de fuerzas de seguridad (efectivos, familiares y retirados)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Reclamo por salario digno y situación de la obra social",
+            "fuente": "https://www.infobae.com/politica/2026/04/01/el-gobierno-les-otorgo-a-las-fuerzas-federales-un-bono-de-40000-y-sumas-extras-de-hasta-300000/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-01",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
+            "quien": "Familiares, prestadores, retirados y afiliados de la Policía Federal Argentina",
+            "tipo_medida": "Movilización",
+            "motivo": "Deterioro de la obra social Supbienestar y recomposición salarial para el personal en actividad",
+            "fuente": "https://estadodealerta.com.ar/policia-federal-confluye-con-la-protesta-de-jubilados-obra-social-en-crisis-y-salarios-por-el-piso/"
         },
         {
             "es_evento_relevante": true,
