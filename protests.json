@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01T13:20:19.145378-03:00",
+    "last_updated": "2026-04-01T14:55:19.107047-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8635,11 +8635,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
             "horario": "00:00",
+            "lugar": "Provincia de Tierra del Fuego (Ushuaia, Río Grande y Tolhuin)",
+            "quien": "SUTEF (Sindicato Unico de Trabajadores de la Educación Fueguina)",
+            "tipo_medida": "Paro provincial",
+            "motivo": "Rechazo a aumento del 1% y reclamos salariales/educativos (Ley de Financiamiento Educativo, paritarias, presupuesto)",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-docentes-votaron-paro-de-48-horas-y-otras-medidas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "00:00",
             "lugar": "Provincia de Santa Fe",
             "quien": "Festram",
             "tipo_medida": "Paro",
             "motivo": "Rechazo a descuentos de días y defensa del derecho de huelga contra los Intendentes",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-no-hubo-acuerdo-y-festram-lanzo-un-paro-de-72-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación Judicial de Entre Ríos (AJER)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial y defensa del 82% móvil frente a proyecto de reforma jubilatoria provincial",
+            "fuente": "https://www.datagremial.com/informacion-general/con-un-90-de-acatamiento-judiciales-de-entre-rios-protagonizaron-un-nuevo-paro-por-reclamo-salarial-y-en-defensa-del-82-movil--202641160"
         },
         {
             "es_evento_relevante": true,
