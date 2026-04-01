@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01T15:59:41.367740-03:00",
+    "last_updated": "2026-04-01T17:01:49.390972-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8550,6 +8550,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a paritaria salarial, reclamo de 40% de aumento y combate contra descuentos",
             "fuente": "https://prensaobrera.com/sindicales/toda-la-docencia-de-cordoba-rechazo-la-tercera-propuesta-paritaria-de-llaryora-y-cristalli"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-01",
+            "horario": "10:00",
+            "lugar": "Distritos de la provincia de Buenos Aires",
+            "quien": "SUTEBA en el marco del Frente de Unidad Docente Bonaerense (FUDB)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por salud laboral (reposo médico y rechazo a 'Tiempos Mínimos de Recuperación'), carga de licencias (Art. 117 y 119) y garantía salarial (liquidación adicional para cobro en mayo)",
+            "fuente": "https://www.inforegion.com.ar/2026/04/01/nuestra-salud-es-un-derecho-el-reclamo-de-suteba/"
         },
         {
             "es_evento_relevante": true,
