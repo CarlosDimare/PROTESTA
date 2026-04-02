@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-02T10:05:49.015772-03:00",
+    "last_updated": "2026-04-02T11:30:18.221261-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8590,6 +8590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por aumento salarial y aplicación de Ley de Financiamiento Universitario",
             "fuente": "https://estadodealerta.com.ar/docentes-universitarios-iniciaron-un-paro-nacional-por-salarios-en-la-uba-es-por-tiempo-indeterminado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-02",
+            "horario": "No especificado",
+            "lugar": "Córdoba (provincial)",
+            "quien": "UEPC (Unión de Educadores de la Provincia de Córdoba)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del gobierno de Llaryora y la conducción de Cristalli por no superar la línea de pobreza, y oposición al techo salarial impuesto por el gobierno nacional",
+            "fuente": "https://prensaobrera.com/sindicales/una-rebelion-de-las-escuelas-de-cordoba-impuso-paro-de-72-horas-y-plan-de-lucha"
         },
         {
             "es_evento_relevante": true,
