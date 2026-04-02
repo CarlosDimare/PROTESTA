@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01T20:38:01.740489-03:00",
+    "last_updated": "2026-04-01T22:58:33.101588-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8670,6 +8670,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a descuentos de días y defensa del derecho de huelga contra los Intendentes",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-no-hubo-acuerdo-y-festram-lanzo-un-paro-de-72-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "No especificado",
+            "lugar": "Provincia de Córdoba",
+            "quien": "Agrupación Docentes D-Base / Docencia cordobesa",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a oferta salarial provincial, aumento del 40%, devolución de descuentos por paros, y oposición a la conducción de Cristalli",
+            "fuente": "https://www.laizquierdadiario.com/Vamos-a-un-nuevo-paro-de-72-horas-masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora"
         },
         {
             "es_evento_relevante": true,
