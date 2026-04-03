@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03T16:41:46.873630-03:00",
+    "last_updated": "2026-04-03T17:35:43.553300-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8720,6 +8720,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio del pueblo palestino, repudio a la guerra contra Irán y Líbano, rechazo al alineamiento del gobierno con EE.UU. e Israel, y apoyo a la Flotilla Global Sumud",
             "fuente": "https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "No especificado",
+            "lugar": "Corte Suprema de Justicia de la Nación",
+            "quien": "Intendentes peronistas",
+            "tipo_medida": "Movilización",
+            "motivo": "Respaldar a Axel Kicillof en la audiencia judicial por reclamos de fondos de ANSES",
+            "fuente": "https://www.infobae.com/politica/2026/04/03/relegado-del-desembolso-de-milei-a-12-provincias-kicillof-se-aferra-a-un-fallo-de-la-corte-en-busca-de-fondos-para-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
