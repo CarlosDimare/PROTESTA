@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-03T14:38:48.468319-03:00",
+    "last_updated": "2026-04-03T15:50:20.898839-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8610,6 +8610,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al ajuste de Milei, mejora salarial y condiciones laborales docentes, coordinación de luchas provinciales",
             "fuente": "https://www.laizquierdadiario.com/Sindicatos-seccionales-y-agrupaciones-nacionales-exigen-paro-y-plan-de-lucha-nacional, https://www.rionegro.com.ar/gremios/protesta-en-pleno-aniversario-de-neuquen-a-que-hora-empieza-el-reclamo-de-aten-capital-vialidad-inta-y-piap-4296136/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-06",
+            "horario": "00:00",
+            "lugar": "Córdoba",
+            "quien": "docencia de Córdoba",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo masivo a la tercera oferta salarial de Llaryora y lucha contra la reforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Un-nuevo-fallo-judicial-frena-en-todo-el-pais-el-articulo-de-la-reforma-laboral-que-limitaba-el"
         },
         {
             "es_evento_relevante": true,
