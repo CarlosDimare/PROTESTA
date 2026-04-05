@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-05T19:31:21.355012-03:00",
+    "last_updated": "2026-04-05T20:35:27.084363-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8810,6 +8810,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "09:00",
+            "lugar": "Aeropuertos y operaciones aéreas comerciales de Argentina",
+            "quien": "Gremios del sector aerocomercial",
+            "tipo_medida": "Huelga",
+            "motivo": "Contra las restricciones a la huelga impuestas por ANAC en la resolución 173/2026",
+            "fuente": "https://www.datagremial.com/escenario/gremios-rechazan-la-esencialidad-del-sector-aerocomercial-es-una-eliminacion-del-derecho-a-huelga-de-facto--20263271000, https://www.infobae.com/economia/2026/03/17/paro-aereo-de-ate-anac-que-vuelos-se-veran-afectados-y-donde-habra-demoras-y-cancelaciones/"
         },
         {
             "es_evento_relevante": true,
