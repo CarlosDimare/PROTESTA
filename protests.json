@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-05T05:46:35.551678-03:00",
+    "last_updated": "2026-04-05T06:45:16.919227-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8610,6 +8610,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al ajuste de Milei, mejora salarial y condiciones laborales docentes, coordinación de luchas provinciales",
             "fuente": "https://www.laizquierdadiario.com/Sindicatos-seccionales-y-agrupaciones-nacionales-exigen-paro-y-plan-de-lucha-nacional, https://www.rionegro.com.ar/gremios/protesta-en-pleno-aniversario-de-neuquen-a-que-hora-empieza-el-reclamo-de-aten-capital-vialidad-inta-y-piap-4296136/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-05",
+            "horario": "08:00",
+            "lugar": "Acceso Tigre",
+            "quien": "Trabajadores de Fate en Lucha y SUTNA",
+            "tipo_medida": "Corte",
+            "motivo": "Exigir el cumplimiento del fallo judicial para el pago de salarios adeudados y defensa de puestos de trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Crece-el-reclamo-para-que-Madanes-Quintanilla-cumpla-el-fallo-a-favor-de-los-trabajadores-de-Fate"
         },
         {
             "es_evento_relevante": true,
