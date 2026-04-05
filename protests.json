@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-05T18:30:27.451184-03:00",
+    "last_updated": "2026-04-05T19:31:21.355012-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8700,6 +8700,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a descuentos de días y defensa del derecho de huelga contra los Intendentes",
             "fuente": "https://elciudadanoweb.com/pelea-de-bolsillo-no-hubo-acuerdo-y-festram-lanzo-un-paro-de-72-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional, Av. de Mayo y 9 de Julio",
+            "quien": "Colectivos socioambientales y Alerta Roja",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la Ley de Glaciares contra la reforma de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-por-Glaciares-masiva-movilizacion-y-convocatoria-al-Congreso-el-miercoles-8"
         },
         {
             "es_evento_relevante": true,
