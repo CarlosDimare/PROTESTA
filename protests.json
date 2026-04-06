@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06T13:45:27.281656-03:00",
+    "last_updated": "2026-04-06T14:47:51.297390-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8650,6 +8650,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo masivo a la oferta salarial del gobierno provincial; reclamo de aumento del 40%, devolución de descuentos por paros y renuncia del secretario general Cristalli",
             "fuente": "https://www.laizquierdadiario.com/Masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora-Vamos-a-un-nuevo-paro-de-72-horas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "08:00",
+            "lugar": "Puente Pueyrredón (epicentro) y accesos del AMBA, Córdoba, Rosario, Jujuy, Tucumán, Neuquén y otras grandes ciudades",
+            "quien": "Organizaciones sociales y piqueteras",
+            "tipo_medida": "Movilización con cortes",
+            "motivo": "Contra el ajuste del gobierno que da de baja 950 mil planes sociales, defendiendo el trabajo y la comida",
+            "fuente": "https://www.laizquierdadiario.com/Las-organizaciones-sociales-realizaran-100-cortes-y-protesta-contra-el-cierre-de-Volver-al-Trabajo"
         },
         {
             "es_evento_relevante": true,
