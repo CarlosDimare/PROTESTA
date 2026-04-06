@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06T19:34:23.756158-03:00",
+    "last_updated": "2026-04-06T20:33:51.441829-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8660,6 +8660,16 @@
             "tipo_medida": "Movilización con cortes",
             "motivo": "Contra el ajuste del gobierno que da de baja 950 mil planes sociales, defendiendo el trabajo y la comida",
             "fuente": "https://www.laizquierdadiario.com/Las-organizaciones-sociales-realizaran-100-cortes-y-protesta-contra-el-cierre-de-Volver-al-Trabajo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "10:00",
+            "lugar": "Accesos a la Ciudad de Buenos Aires y capitales provinciales",
+            "quien": "Unión de Trabajadores de la Economía Popular (UTEP) y MST Teresa Vive",
+            "tipo_medida": "Corte y movilización",
+            "motivo": "Contra la eliminación del programa Volver al Trabajo que dejó de otorgar ingresos de $78.000 a trabajadores de la economía popular",
+            "fuente": "https://www.inforegion.com.ar/2026/04/06/trabajo-sin-salario-es-esclavitud-cortaran-puentes-y-calles-contra-el-recorte-de-planes-sociales/"
         },
         {
             "es_evento_relevante": true,
