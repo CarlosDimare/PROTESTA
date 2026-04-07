@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T15:06:26.075289-03:00",
+    "last_updated": "2026-04-07T16:05:03.851566-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8675,6 +8675,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-07",
             "horario": "10:00",
+            "lugar": "Autopista Rosario Buenos Aires, punto de partida: rotonda de Oroño y Batlle y Ordóñez (frente al casino City Center)",
+            "quien": "Corriente Clasista y Combativa (CCC)",
+            "tipo_medida": "Movilización y corte",
+            "motivo": "Rechazo a la eliminación del programa Volver al Trabajo y reclamos por continuidad o reemplazo con ingresos equivalentes al 50% del salario mínimo, reapertura de inscripciones para desempleados",
+            "fuente": "https://elciudadanoweb.com/masiva-protesta-y-corte-de-la-auropista-a-buenos-aires-por-la-eliminacion-del-programa-volver-al-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "10:00",
             "lugar": "Todo el país (cortes y movilizaciones en múltiples provincias)",
             "quien": "70 organizaciones sociales, piqueteras y de la economía popular",
             "tipo_medida": "Corte y movilización",
@@ -8770,6 +8780,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la Ley de Glaciares contra la reforma de Milei",
             "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-por-Glaciares-masiva-movilizacion-y-convocatoria-al-Congreso-el-miercoles-8"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Asociación de Abogados Ambientalistas",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma de la Ley de Glaciares y defensa del agua potable",
+            "fuente": "https://elciudadanoweb.com/contundente-y-comprometida-erica-rivas-convoca-a-una-marcha-masiva-en-rechazo-a-la-reforma-de-la-ley-de-glaciares/"
         },
         {
             "es_evento_relevante": true,
