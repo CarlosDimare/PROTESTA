@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T12:15:49.998202-03:00",
+    "last_updated": "2026-04-07T13:58:12.362948-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8655,6 +8655,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-07",
             "horario": "08:00",
+            "lugar": "Puente Pueyrredón (Avellaneda-CABA) y puntos neurálgicos nacionales",
+            "quien": "Unión de Trabajadores de la Economía Popular (UTEP), MST Teresa Vive y Polo Obrero",
+            "tipo_medida": "Corte de rutas y movilizaciones",
+            "motivo": "Defensa del Salario Social Complementario frente a su eliminación programada para el 9 de abril",
+            "fuente": "https://www.inforegion.com.ar/2026/04/07/tension-en-avellaneda-por-una-jornada-de-protesta-y-cortes/, https://www.inforegion.com.ar/2026/04/06/trabajo-sin-salario-es-esclavitud-cortaran-puentes-y-calles-contra-el-recorte-de-planes-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "08:00",
             "lugar": "Puente Pueyrredón (epicentro) y accesos del AMBA, Córdoba, Rosario, Jujuy, Tucumán, Neuquén y otras grandes ciudades",
             "quien": "Organizaciones sociales y piqueteras",
             "tipo_medida": "Movilización con cortes",
@@ -8670,16 +8680,6 @@
             "tipo_medida": "Corte y movilización",
             "motivo": "Contra el cierre del programa 'Volver al Trabajo' y despidos masivos",
             "fuente": "https://www.anred.org/1-millon-de-despidos-cortes-en-todo-el-pais-contra-el-cierre-de-volver-al-trabajo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-07",
-            "horario": "10:00",
-            "lugar": "Accesos a la Ciudad de Buenos Aires y capitales provinciales",
-            "quien": "Unión de Trabajadores de la Economía Popular (UTEP) y MST Teresa Vive",
-            "tipo_medida": "Corte y movilización",
-            "motivo": "Contra la eliminación del programa Volver al Trabajo que dejó de otorgar ingresos de $78.000 a trabajadores de la economía popular",
-            "fuente": "https://www.inforegion.com.ar/2026/04/06/trabajo-sin-salario-es-esclavitud-cortaran-puentes-y-calles-contra-el-recorte-de-planes-sociales/"
         },
         {
             "es_evento_relevante": true,
@@ -8800,6 +8800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio del pueblo palestino, repudio a la guerra contra Irán y Líbano, rechazo al alineamiento del gobierno con EE.UU. e Israel, y apoyo a la Flotilla Global Sumud",
             "fuente": "https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "No especificado",
+            "lugar": "Brasilia",
+            "quien": "Centrales sindicales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por más derechos sindicales, mejores condiciones de vida y reglamentación de la negociación colectiva",
+            "fuente": "https://www.datagremial.com/informacion-general/nuevo-episodio-de-clatevision-lanzamiento-de-un-ciclo-de-formacion-internacional-el-24-de-marzo-y-la-gran-marcha-de-la-clase-trabajadora-en-brasil-20264710500"
         },
         {
             "es_evento_relevante": true,
