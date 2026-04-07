@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06T20:33:51.441829-03:00",
+    "last_updated": "2026-04-06T22:59:01.096166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8660,6 +8660,16 @@
             "tipo_medida": "Movilización con cortes",
             "motivo": "Contra el ajuste del gobierno que da de baja 950 mil planes sociales, defendiendo el trabajo y la comida",
             "fuente": "https://www.laizquierdadiario.com/Las-organizaciones-sociales-realizaran-100-cortes-y-protesta-contra-el-cierre-de-Volver-al-Trabajo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "10:00",
+            "lugar": "Todo el país (cortes y movilizaciones en múltiples provincias)",
+            "quien": "70 organizaciones sociales, piqueteras y de la economía popular",
+            "tipo_medida": "Corte y movilización",
+            "motivo": "Contra el cierre del programa 'Volver al Trabajo' y despidos masivos",
+            "fuente": "https://www.anred.org/1-millon-de-despidos-cortes-en-todo-el-pais-contra-el-cierre-de-volver-al-trabajo/"
         },
         {
             "es_evento_relevante": true,
