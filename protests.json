@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T10:15:23.326476-03:00",
+    "last_updated": "2026-04-07T12:15:49.998202-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8690,6 +8690,16 @@
             "tipo_medida": "Piquete",
             "motivo": "Rechazo a la eliminación del programa Volver al Trabajo y políticas de ajuste social del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Ollas-populares-y-asambleas-contra-el-cierre-del-programa-Volver-al-Trabajo, https://www.infobae.com/politica/2025/05/09/los-movimientos-sociales-marcharan-a-la-secretaria-de-trabajo-en-reclamo-por-aumento-en-el-salario-social-complementario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-07",
+            "horario": "16:00",
+            "lugar": "Desde la estación de tren hasta la rotonda de la autopista, La Plata",
+            "quien": "Organizaciones sociales (Polo Obrero, MTR, MST, Libres del Sur, OCR, UTEP, Movimiento Evita)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la baja del plan Volver al Trabajo y exigencia de políticas contra el hambre",
+            "fuente": "https://www.infobae.com/sociedad/2026/04/07/tension-cerca-del-puente-pueyrredon-una-protesta-por-planes-sociales-termino-en-disturbios-con-la-policia/"
         },
         {
             "es_evento_relevante": true,
