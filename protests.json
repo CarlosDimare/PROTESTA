@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06T22:59:01.096166-03:00",
+    "last_updated": "2026-04-07T01:35:42.495050-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8800,6 +8800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar mejoras salariales, exigir cumplimiento de la Ley de Financiamiento Universitario y protestar contra el ajuste presupuestario",
             "fuente": "https://www.infobae.com/politica/2026/03/16/que-dias-no-habra-clases-en-las-universidades-publicas-por-el-paro-docente/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del Día del Trabajador y oposición a la reforma laboral",
+            "fuente": "https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
