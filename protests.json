@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T13:58:12.362948-03:00",
+    "last_updated": "2026-04-07T15:06:26.075289-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8725,6 +8725,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
             "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Cámara de Empresas de Transporte Urbano de Buenos Aires (Cetuba)",
+            "tipo_medida": "Lockout patronal",
+            "motivo": "Reclamo por falta de pago de subsidios y actualización del valor del gasoil reconocido en los costos operativos",
+            "fuente": "https://estadodealerta.com.ar/el-aumento-del-gasoil-agrava-la-crisis-del-transporte-en-el-amba-reduccion-de-frecuencias-y-amenaza-de-paro/, https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "00:00",
             "lugar": "Campus universitarios de todo el país",
             "quien": "FEDUN",
             "tipo_medida": "Paro con movilizaciones",
@@ -8765,16 +8775,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
             "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Federación de Docentes de Universidades (FEDUN)",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, aumento salarial superior al 50%, convocatoria a paritarias libres y oposición a la pérdida del poder adquisitivo bajo el gobierno de Milei",
-            "fuente": "https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-08",
-            "horario": "No especificado",
             "lugar": "Provincia de Córdoba",
             "quien": "Agrupación Docentes D-Base / Docencia cordobesa",
             "tipo_medida": "Paro con movilización",
@@ -8795,11 +8795,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-11",
             "horario": "15:00",
-            "lugar": "Callao y Corrientes (punto de inicio) hasta Plaza de Mayo (destino)",
-            "quien": "Comité Argentino de Solidaridad con Palestina",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el genocidio del pueblo palestino, repudio a la guerra contra Irán y Líbano, rechazo al alineamiento del gobierno con EE.UU. e Israel, y apoyo a la Flotilla Global Sumud",
-            "fuente": "https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
+            "lugar": "Plaza de Mayo",
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el genocidio en Gaza, la guerra imperialista en Irán y Líbano, y la política exterior de Milei",
+            "fuente": "https://prensaobrera.com/internacionales/el-11-marchamos-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-sionista-contra-iran, https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
         },
         {
             "es_evento_relevante": true,
