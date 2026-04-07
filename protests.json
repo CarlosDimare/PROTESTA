@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T18:44:50.020937-03:00",
+    "last_updated": "2026-04-07T19:38:45.945977-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8780,6 +8780,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la Ley de Glaciares contra la reforma de Milei",
             "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-por-Glaciares-masiva-movilizacion-y-convocatoria-al-Congreso-el-miercoles-8"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "21:00",
+            "lugar": "Red de transporte público de pasajeros",
+            "quien": "Cámara del Transporte de la Provincia de Buenos Aires (CTPBA), Camara Empresarios Unidos del Transporte Urbano de la Provincia de Buenos Aires (CEUTUPBA), Cámara Empresaria de Autotransporte de Pasajeros (CEAP) y Cámara Empresaria del Transporte Urbano de Buenos Aires (CETUBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Actualización de subsidios ante aumento del combustible y falta de acuerdo con el gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/04/07/el-gobierno-recibira-el-jueves-a-las-empresas-de-colectivo-para-evitar-un-paro-el-conflicto-de-fondo/, https://www.infobae.com/politica/2023/04/17/nuevo-paro-de-colectivos-en-el-amba-suspenderan-el-servicio-nocturno-y-durante-dos-horas-el-miercoles/"
         },
         {
             "es_evento_relevante": true,
