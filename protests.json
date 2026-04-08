@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T15:12:44.618790-03:00",
+    "last_updated": "2026-04-08T17:03:56.389645-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8774,12 +8774,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
-            "horario": "17:00",
+            "horario": "13:00",
+            "lugar": "Congreso de la Nación (frente al edificio) y Av. 9 de Julio",
+            "quien": "Colectivos ambientalistas y de izquierda",
+            "tipo_medida": "Marcha y concentración",
+            "motivo": "Rechazo a la reforma de la Ley de Glaciares por considerarla depredadora y afectar recursos hídricos",
+            "fuente": "https://prensaobrera.com/politicas/nueva-jornada-de-movilizacion-frente-al-congreso-ante-la-sesion-para-modificar-la-ley-de-glaciares"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "15:00",
             "lugar": "Congreso Nacional",
-            "quien": "Colectivos ambientales, sindicales y sociales (UTT, jubilados, asambleas)",
+            "quien": "La Izquierda Diario",
             "tipo_medida": "Movilización",
-            "motivo": "En contra de la modificación de la Ley de Glaciares que busca facilitar el extractivismo",
-            "fuente": "https://www.laizquierdadiario.com/No-a-la-reforma-de-la-Ley-de-Glaciares-sumate-a-la-protestas-en-todo-el-pais, https://elciudadanoweb.com/contundente-y-comprometida-erica-rivas-convoca-a-una-marcha-masiva-en-rechazo-a-la-reforma-de-la-ley-de-glaciares/"
+            "motivo": "Protesta contra la reforma de la Ley de Glaciares",
+            "fuente": "https://www.laizquierdadiario.com/La-Ley-de-Glaciares-no-se-toca-movil-desde-la-concentracion-en-Congreso, https://www.laizquierdadiario.com/No-a-la-reforma-de-la-Ley-de-Glaciares-sumate-a-la-protestas-en-todo-el-pais, https://elciudadanoweb.com/contundente-y-comprometida-erica-rivas-convoca-a-una-marcha-masiva-en-rechazo-a-la-reforma-de-la-ley-de-glaciares/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "17:00",
+            "lugar": "Plazoleta del Quijote (Av. de Mayo y 9 de Julio)",
+            "quien": "Organizaciones ambientales, activistas y ciudadanos",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma de la Ley de Glaciares y defensa del acceso al agua dulce",
+            "fuente": "https://www.infobae.com/politica/2026/04/08/habra-una-marcha-afuera-del-congreso-mientras-los-diputados-debaten-la-modificacion-de-la-ley-de-glaciares/"
         },
         {
             "es_evento_relevante": true,
@@ -8843,6 +8863,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-04-10",
+            "horario": "09:00",
+            "lugar": "Sede central del Servicio Meteorológico Nacional (SMN), Ciudad de Buenos Aires (CABA)",
+            "quien": "Asociación de Trabajadores del Estado (ATE) y trabajadores del SMN",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a presunto plan de despidos masivos que afectaría al 30% del personal, comprometiendo servicios meteorológicos y alertas tempranas",
+            "fuente": "https://www.infobae.com/politica/2026/04/08/paro-en-el-servicio-meteorologico-nacional-trabajadores-alertan-por-despidos-del-30-del-personal/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-10",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores del SMN y sectores afectados por el cientificidio",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra los 240 despidos en el SMN y el desguace del organismo",
+            "fuente": "https://elciudadanoweb.com/paro-en-el-servicio-meteorologico-denuncian-240-despidos-que-llevan-al-colapso-del-organismo/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-04-11",
             "horario": "15:00",
             "lugar": "Av. Corrientes y Av. Callao",
@@ -8895,11 +8935,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
+            "lugar": "Plaza de Mayo",
             "quien": "CGT",
             "tipo_medida": "Marcha",
-            "motivo": "Conmemoración del Día del Trabajador y oposición a la reforma laboral",
-            "fuente": "https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+            "motivo": "Conmemoración del Día del Trabajador y rechazo a la reforma laboral",
+            "fuente": "https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
