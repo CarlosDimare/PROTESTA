@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T14:05:31.663356-03:00",
+    "last_updated": "2026-04-08T15:12:44.618790-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8805,6 +8805,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
             "horario": "No especificado",
+            "lugar": "Múltiples puntos del país",
+            "quien": "Trabajadores afectados por la eliminación del programa Volver al Trabajo",
+            "tipo_medida": "Piquetes y cortes",
+            "motivo": "Rechazo a la eliminación del programa Volver al Trabajo y la política antiobrera del gobierno",
+            "fuente": "https://prensaobrera.com/politicas/los-datos-del-indec-avalan-los-reclamos-piqueteros"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "No especificado",
             "lugar": "Provincia de Córdoba",
             "quien": "Agrupación Docentes D-Base / Docencia cordobesa",
             "tipo_medida": "Paro con movilización",
@@ -8835,11 +8845,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-11",
             "horario": "15:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra el genocidio en Gaza, la guerra imperialista en Irán y Líbano, y la política exterior de Milei",
-            "fuente": "https://prensaobrera.com/internacionales/el-11-marchamos-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-sionista-contra-iran, https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
+            "lugar": "Av. Corrientes y Av. Callao",
+            "quien": "Comité en Solidaridad con el Pueblo Palestino",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con Palestina, oposición al genocidio israelí, repudio a la alineación de Milei con EE.UU. e Israel, y denuncia de la guerra imperialista",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-por-Palestina-este-sabado, https://prensaobrera.com/internacionales/el-11-marchamos-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-sionista-contra-iran, https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
         },
         {
             "es_evento_relevante": true,
