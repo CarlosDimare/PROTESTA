@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T17:42:55.656647-03:00",
+    "last_updated": "2026-04-08T18:40:59.824671-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8810,6 +8810,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la Ley de Glaciares contra la reforma de Milei",
             "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-por-Glaciares-masiva-movilizacion-y-convocatoria-al-Congreso-el-miercoles-8"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "18:30",
+            "lugar": "Maipú 30, Córdoba Capital",
+            "quien": "UEPC Capital y estatales/judiciales/municipales/personal de salud",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a conciliación fraudulenta y políticas de ajuste salarial",
+            "fuente": "https://prensaobrera.com/sindicales/cristalli-acata-conciliacion-trucha-uepc-capital-la-rechaza-y-llama-a-marchar"
         },
         {
             "es_evento_relevante": true,
