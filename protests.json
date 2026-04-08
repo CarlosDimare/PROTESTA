@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T07:15:09.795686-03:00",
+    "last_updated": "2026-04-08T09:07:07.592113-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8736,10 +8736,10 @@
             "fecha": "2026-04-08",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "SOCAYA (Sindicato Obrero del Caucho, Anexos y Afines)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por falta de acuerdo paritario y recomposición salarial acorde a la inflación contra la Federación Argentina de la Industria del Caucho (FAIC)",
-            "fuente": "https://www.datagremial.com/informacion-general/se-acabo-la-paciencia-socaya-se-declaro-en-estado-de-alerta-y-movilizacion-ante-el-incumplimiento-de-reabrir-paritarias-por-parte-de-la-patronal-del-caucho-20264715110, https://estadodealerta.com.ar/el-aumento-del-gasoil-agrava-la-crisis-del-transporte-en-el-amba-reduccion-de-frecuencias-y-amenaza-de-paro/, https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Aplicación de la Ley de Financiamiento Universitario, aumento salarial del 50% y paritarias libres",
+            "fuente": "https://www.inforegion.com.ar/2026/04/08/universidad-publica-en-lucha-este-miercoles-hay-paro/, https://www.datagremial.com/informacion-general/se-acabo-la-paciencia-socaya-se-declaro-en-estado-de-alerta-y-movilizacion-ante-el-incumplimiento-de-reabrir-paritarias-por-parte-de-la-patronal-del-caucho-20264715110, https://estadodealerta.com.ar/el-aumento-del-gasoil-agrava-la-crisis-del-transporte-en-el-amba-reduccion-de-frecuencias-y-amenaza-de-paro/, https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
         },
         {
             "es_evento_relevante": true,
@@ -8775,6 +8775,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-08",
             "horario": "17:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Colectivos ambientales, sindicales y sociales (UTT, jubilados, asambleas)",
+            "tipo_medida": "Movilización",
+            "motivo": "En contra de la modificación de la Ley de Glaciares que busca facilitar el extractivismo",
+            "fuente": "https://www.laizquierdadiario.com/No-a-la-reforma-de-la-Ley-de-Glaciares-sumate-a-la-protestas-en-todo-el-pais, https://elciudadanoweb.com/contundente-y-comprometida-erica-rivas-convoca-a-una-marcha-masiva-en-rechazo-a-la-reforma-de-la-ley-de-glaciares/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "17:00",
             "lugar": "Congreso Nacional, Av. de Mayo y 9 de Julio",
             "quien": "Colectivos socioambientales y Alerta Roja",
             "tipo_medida": "Marcha",
@@ -8790,16 +8800,6 @@
             "tipo_medida": "Paro",
             "motivo": "Actualización de subsidios ante aumento del combustible y falta de acuerdo con el gobierno",
             "fuente": "https://www.infobae.com/politica/2026/04/07/el-gobierno-recibira-el-jueves-a-las-empresas-de-colectivo-para-evitar-un-paro-el-conflicto-de-fondo/, https://www.infobae.com/politica/2023/04/17/nuevo-paro-de-colectivos-en-el-amba-suspenderan-el-servicio-nocturno-y-durante-dos-horas-el-miercoles/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-08",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Asociación de Abogados Ambientalistas",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la reforma de la Ley de Glaciares y defensa del agua potable",
-            "fuente": "https://elciudadanoweb.com/contundente-y-comprometida-erica-rivas-convoca-a-una-marcha-masiva-en-rechazo-a-la-reforma-de-la-ley-de-glaciares/"
         },
         {
             "es_evento_relevante": true,
@@ -8946,10 +8946,10 @@
             "fecha": "No especificado",
             "horario": "10:00",
             "lugar": "No especificado",
-            "quien": "Sindicatos del sector automotriz",
-            "tipo_medida": "No especificado",
-            "motivo": "Defensa de puestos de trabajo frente a recortes y ajustes en plantas automotrices",
-            "fuente": "https://motoreconomico.com.ar/crisis-automotriz-recortes-en-peugeot-y-toyota-encienden-alarma-por-despidos-masivos/, https://elciudadanoweb.com/del-pla-y-pitrola-sobre-la-ley-de-glaciares-tenemos-que-impulsar-la-movilizacion-popular/, https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/, https://www.infobae.com/politica/2024/04/30/dia-del-trabajador-donde-es-a-que-hora-sera-y-quienes-convocan-a-la-movilizacion-del-1-de-mayo/?outputType=amp-type"
+            "quien": "Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP), Movimiento Evita, Corriente Clasista y Combativa, Movimiento de los Trabajadores Excluidos, Polo Obrero, Territorios en Lucha, Frente Popular Darío Santillán",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la eliminación del programa Volver al Trabajo y su reemplazo por vouchers de trabajo, que afecta a 950.000 familias y genera impacto en economías barriales",
+            "fuente": "https://www.infobae.com/politica/2026/04/08/piquetes-en-todo-el-pais-las-organizaciones-anticipan-nuevas-acciones-para-las-proximas-semanas/, https://motoreconomico.com.ar/crisis-automotriz-recortes-en-peugeot-y-toyota-encienden-alarma-por-despidos-masivos/, https://elciudadanoweb.com/del-pla-y-pitrola-sobre-la-ley-de-glaciares-tenemos-que-impulsar-la-movilizacion-popular/, https://estadodealerta.com.ar/la-catt-repudio-el-accionar-del-gobierno-contra-organizaciones-sindicales-del-transporte/, https://www.inforegion.com.ar/2026/03/03/paro-en-el-futbol-reunion-clave/, https://elciudadanoweb.com/docentes-universitarios-realizaron-un-ruidazo-en-el-microcentro-y-amenazan-con-un-paro-por-tiempo-indeterminado/, https://estadodealerta.com.ar/especialistas-anticipan-que-la-modernizacion-laboral-del-gobierno-generara-una-oleada-de-reclamos-judiciales/, https://www.infobae.com/politica/2024/04/30/dia-del-trabajador-donde-es-a-que-hora-sera-y-quienes-convocan-a-la-movilizacion-del-1-de-mayo/?outputType=amp-type"
         },
         {
             "es_evento_relevante": true,
