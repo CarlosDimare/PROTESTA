@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T20:39:15.149901-03:00",
+    "last_updated": "2026-04-07T23:02:21.536007-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8716,10 +8716,10 @@
             "fecha": "2026-04-07",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Centro de Patrones y Oficiales Fluviales, de Pesca y de Cabotaje Marítimo",
-            "tipo_medida": "Plan de lucha (sin especificar tipo)",
-            "motivo": "Defender la inclusión en la Ley de Contrato de Trabajo (LCT) y evitar ser calificados como 'servicio esencial', que limitaría capacidad de protesta",
-            "fuente": "https://www.datagremial.com/informacion-general/el-centro-de-patrones-presento-un-recurso-de-amparo-ante-la-justicia-contra-la-reforma-laboral-porque-debilita-el-principio-protectorio-del-personal-embarcado-2026461860, https://prensaobrera.com/movimiento-piquetero/el-7-vamos-con-todo-a-las-calles-organizaciones-sociales-convocan-piquetazo-nacional, https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
+            "quien": "Sindicato Obrero del Caucho (SOCAYA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por recomposición salarial acorde a inflación tras falta de acuerdo en paritarias con la Federación Argentina de la Industria del Caucho (FAIC)",
+            "fuente": "https://estadodealerta.com.ar/se-acabo-la-paciencia-el-caucho-en-alerta-y-movilizacion-ante-negativa-empresarial-para-recomponer-salarios/, https://www.datagremial.com/informacion-general/el-centro-de-patrones-presento-un-recurso-de-amparo-ante-la-justicia-contra-la-reforma-laboral-porque-debilita-el-principio-protectorio-del-personal-embarcado-2026461860, https://prensaobrera.com/movimiento-piquetero/el-7-vamos-con-todo-a-las-calles-organizaciones-sociales-convocan-piquetazo-nacional, https://www.laizquierdadiario.com/Mas-de-50-organizaciones-sociales-anunciaron-un-plan-de-lucha-tras-el-recorte-del-programa-Volver, https://www.infobae.com/politica/2025/03/17/piqueteros-movimientos-sociales-y-sindicatos-iran-a-la-marcha-por-los-jubilados-y-crece-la-tension/"
         },
         {
             "es_evento_relevante": true,
