@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T19:41:13.917010-03:00",
+    "last_updated": "2026-04-08T20:43:16.040355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8830,6 +8830,16 @@
             "tipo_medida": "Paro",
             "motivo": "Actualización de subsidios ante aumento del combustible y falta de acuerdo con el gobierno",
             "fuente": "https://www.infobae.com/politica/2026/04/07/el-gobierno-recibira-el-jueves-a-las-empresas-de-colectivo-para-evitar-un-paro-el-conflicto-de-fondo/, https://www.infobae.com/politica/2023/04/17/nuevo-paro-de-colectivos-en-el-amba-suspenderan-el-servicio-nocturno-y-durante-dos-horas-el-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-08",
+            "horario": "No especificado",
+            "lugar": "Bolsa de Comercio",
+            "quien": "Organizaciones ambientales",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la nueva Ley de Glaciares por presiones del sector minero y riesgos para las reservas de agua",
+            "fuente": "https://elciudadanoweb.com/ambientalistas-se-congregaron-frente-a-la-bolsa-de-comercio-para-protestar-contra-la-nueva-ley-de-glaciares-que-impulsa-el-gobierno-de-milei/"
         },
         {
             "es_evento_relevante": true,
