@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T17:03:56.389645-03:00",
+    "last_updated": "2026-04-08T17:42:55.656647-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8840,6 +8840,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a oferta salarial provincial, aumento del 40%, devolución de descuentos por paros, y oposición a la conducción de Cristalli",
             "fuente": "https://www.laizquierdadiario.com/Vamos-a-un-nuevo-paro-de-72-horas-masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "10:00",
+            "lugar": "Dorrego 4019, Palermo, Buenos Aires",
+            "quien": "Trabajadores del Servicio Meteorológico Nacional (SMN)",
+            "tipo_medida": "Paro nacional con movilización simbólica",
+            "motivo": "Rechazo a 240 despidos y reclamo de reincorporaciones, en contra del plan de ajuste del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-contra-el-desguace-del-smn-los-datos-que-no-se-procesan-hoy-son-desastres-que-no-se-preven-manana--20264817260"
         },
         {
             "es_evento_relevante": true,
