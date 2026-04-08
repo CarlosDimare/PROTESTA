@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T01:43:22.374945-03:00",
+    "last_updated": "2026-04-08T03:30:31.637653-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8810,6 +8810,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a oferta salarial provincial, aumento del 40%, devolución de descuentos por paros, y oposición a la conducción de Cristalli",
             "fuente": "https://www.laizquierdadiario.com/Vamos-a-un-nuevo-paro-de-72-horas-masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Jubilados, UTT y organizaciones ambientalistas",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra la reforma de la Ley de Glaciares y proyectos mineros",
+            "fuente": "https://www.infobae.com/politica/2026/04/08/la-libertad-avanza-buscara-darle-hoy-sancion-definitiva-a-la-modificacion-de-la-ley-de-glaciares/"
         },
         {
             "es_evento_relevante": true,
