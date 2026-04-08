@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-07T23:02:21.536007-03:00",
+    "last_updated": "2026-04-08T01:43:22.374945-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8736,10 +8736,10 @@
             "fecha": "2026-04-08",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Cámara de Empresas de Transporte Urbano de Buenos Aires (Cetuba)",
-            "tipo_medida": "Lockout patronal",
-            "motivo": "Reclamo por falta de pago de subsidios y actualización del valor del gasoil reconocido en los costos operativos",
-            "fuente": "https://estadodealerta.com.ar/el-aumento-del-gasoil-agrava-la-crisis-del-transporte-en-el-amba-reduccion-de-frecuencias-y-amenaza-de-paro/, https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
+            "quien": "SOCAYA (Sindicato Obrero del Caucho, Anexos y Afines)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por falta de acuerdo paritario y recomposición salarial acorde a la inflación contra la Federación Argentina de la Industria del Caucho (FAIC)",
+            "fuente": "https://www.datagremial.com/informacion-general/se-acabo-la-paciencia-socaya-se-declaro-en-estado-de-alerta-y-movilizacion-ante-el-incumplimiento-de-reabrir-paritarias-por-parte-de-la-patronal-del-caucho-20264715110, https://estadodealerta.com.ar/el-aumento-del-gasoil-agrava-la-crisis-del-transporte-en-el-amba-reduccion-de-frecuencias-y-amenaza-de-paro/, https://www.inforegion.com.ar/2026/04/07/jornada-nacional-de-protesta-en-las-universidades-publicas/"
         },
         {
             "es_evento_relevante": true,
