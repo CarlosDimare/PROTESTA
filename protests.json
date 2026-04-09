@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09T15:08:36.966933-03:00",
+    "last_updated": "2026-04-09T17:06:46.534255-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8868,8 +8868,8 @@
             "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
             "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Retención de tareas por falta de pago de salarios de marzo en empresas de transporte, debido a insuficiencia de subsidios gubernamentales",
-            "fuente": "https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-amba-reducen-frecuencias-y-crece-el-conflicto-por-salarios-impagos/, https://www.datagremial.com/informacion-general/la-uta-protesta-en-las-lineas-de-colectivos-que-no-pagan-salarios-se-registran-demoras-en-el-amba-2026499170"
+            "motivo": "No pago de salarios correspondientes a marzo y demora en subsidios nacionales/provinciales para cubrir costos operativos",
+            "fuente": "https://estadodealerta.com.ar/es-desigual-la-adhesion-al-paro-de-colectivos-por-retrasos-en-el-pago-de-salarios-mientras-el-gobierno-busca-un-acuerdo/, https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-amba-reducen-frecuencias-y-crece-el-conflicto-por-salarios-impagos/, https://www.datagremial.com/informacion-general/la-uta-protesta-en-las-lineas-de-colectivos-que-no-pagan-salarios-se-registran-demoras-en-el-amba-2026499170"
         },
         {
             "es_evento_relevante": true,
