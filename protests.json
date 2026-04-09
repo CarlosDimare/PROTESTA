@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-08T20:43:16.040355-03:00",
+    "last_updated": "2026-04-08T22:52:56.921660-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8860,6 +8860,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Rechazo a oferta salarial provincial, aumento del 40%, devolución de descuentos por paros, y oposición a la conducción de Cristalli",
             "fuente": "https://www.laizquierdadiario.com/Vamos-a-un-nuevo-paro-de-72-horas-masivo-rechazo-de-la-docencia-de-Cordoba-a-la-oferta-de-Llaryora"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "10:00",
+            "lugar": "Predio de la ex ESMA",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Resistencia obrera y memoria histórica",
+            "fuente": "https://estadodealerta.com.ar/la-catt-repudio-el-ataque-a-las-instituciones-sindicales-y-advirtio-sobre-el-avance-sobre-derechos-laborales/"
         },
         {
             "es_evento_relevante": true,
