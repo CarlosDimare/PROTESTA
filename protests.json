@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09T19:40:26.275528-03:00",
+    "last_updated": "2026-04-09T20:38:14.118903-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8953,6 +8953,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-04-14",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Estado Nacional y cámaras empresarias (AAETA, CEUTUPBA, CTPBA, CETUBA, CEAP)",
+            "tipo_medida": "Reunión de diálogo",
+            "motivo": "Reorganización del sistema de transporte y regularización de deudas pendientes",
+            "fuente": "https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-las-empresas-levantaran-la-medida-de-fuerza-de-manera-gradual/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-04-15",
             "horario": "No especificado",
             "lugar": "Brasilia",
@@ -9000,6 +9010,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar mejoras salariales, exigir cumplimiento de la Ley de Financiamiento Universitario y protestar contra el ajuste presupuestario",
             "fuente": "https://www.infobae.com/politica/2026/03/16/que-dias-no-habra-clases-en-las-universidades-publicas-por-el-paro-docente/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la caída del poder adquisitivo, pérdida salarial, endeudamiento familiar, desempleo y críticas a la política salarial y reforma laboral del Gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
         },
         {
             "es_evento_relevante": true,
