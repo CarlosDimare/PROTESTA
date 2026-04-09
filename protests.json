@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09T12:22:40.502907-03:00",
+    "last_updated": "2026-04-09T14:07:54.489455-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8864,6 +8864,36 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-09",
+            "horario": "00:00",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Retención de tareas por falta de pago de salarios de marzo en empresas de transporte, debido a insuficiencia de subsidios gubernamentales",
+            "fuente": "https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-amba-reducen-frecuencias-y-crece-el-conflicto-por-salarios-impagos/, https://www.datagremial.com/informacion-general/la-uta-protesta-en-las-lineas-de-colectivos-que-no-pagan-salarios-se-registran-demoras-en-el-amba-2026499170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movilización en defensa del agua y bienes comunes",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma de Ley de Glaciares y defensa de recursos naturales",
+            "fuente": "https://prensaobrera.com/ambiente/glaciares-el-congreso-como-escribania-de-las-mineras-la-lucha-popular-como-respuesta, https://www.infobae.com/politica/2026/04/08/la-libertad-avanza-buscara-darle-hoy-sancion-definitiva-a-la-modificacion-de-la-ley-de-glaciares/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
+            "horario": "10:00",
+            "lugar": "Palacio Legislativo (Congreso Nacional)",
+            "quien": "Greenpeace y manifestantes",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la Ley de Glaciares durante la sesión legislativa",
+            "fuente": "https://elciudadanoweb.com/tension-en-el-congreso-la-policia-reprimio-a-manifestantes-que-protestaban-contra-la-nueva-ley-de-glaciares-que-impulsa-el-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-09",
             "horario": "10:00",
             "lugar": "Predio de la ex ESMA",
             "quien": "CGT",
@@ -8880,16 +8910,6 @@
             "tipo_medida": "Paro nacional con movilización simbólica",
             "motivo": "Rechazo a 240 despidos y reclamo de reincorporaciones, en contra del plan de ajuste del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/paro-contra-el-desguace-del-smn-los-datos-que-no-se-procesan-hoy-son-desastres-que-no-se-preven-manana--20264817260"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-09",
-            "horario": "12:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Jubilados, UTT y organizaciones ambientalistas",
-            "tipo_medida": "Movilización",
-            "motivo": "Protesta contra la reforma de la Ley de Glaciares y proyectos mineros",
-            "fuente": "https://www.infobae.com/politica/2026/04/08/la-libertad-avanza-buscara-darle-hoy-sancion-definitiva-a-la-modificacion-de-la-ley-de-glaciares/"
         },
         {
             "es_evento_relevante": true,
