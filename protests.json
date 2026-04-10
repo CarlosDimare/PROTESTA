@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-09T20:38:14.118903-03:00",
+    "last_updated": "2026-04-09T23:04:37.723048-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9015,21 +9015,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "15:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por la caída del poder adquisitivo, pérdida salarial, endeudamiento familiar, desempleo y críticas a la política salarial y reforma laboral del Gobierno",
-            "fuente": "https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del Día del Trabajador y reclamos por situación económica de los trabajadores (endeudamiento familiar, desempleo) y paritarias",
+            "fuente": "https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "15:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Conmemoración del Día del Trabajador, reclamo por situación económica de los trabajadores (endeudamiento familiar, desempleo), exigencia de paritarias libres sin techo estatal y crítica a políticas del gobierno",
-            "fuente": "https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la caída del poder adquisitivo, pérdida salarial, endeudamiento familiar, desempleo y críticas a la política salarial y reforma laboral del Gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
         },
         {
             "es_evento_relevante": true,
