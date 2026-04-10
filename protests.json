@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10T07:08:24.851451-03:00",
+    "last_updated": "2026-04-10T08:50:37.839392-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8976,10 +8976,10 @@
             "fecha": "2026-04-21",
             "horario": "11:00",
             "lugar": "No especificado (convocatoria nacional)",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Reapertura de paritarias en la Administración Pública y rechazo a recortes/desmantelamiento estatal",
-            "fuente": "https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Reapertura de paritarias y reclamo por salario",
+            "fuente": "https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
