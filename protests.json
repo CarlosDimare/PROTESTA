@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-10T15:47:35.753368-03:00",
+    "last_updated": "2026-04-10T16:44:15.147881-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8924,6 +8924,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-10",
+            "horario": "05:30",
+            "lugar": "No especificado",
+            "quien": "AGTSyP (Metrodelegados) con apoyo de CATT",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de derechos laborales y contra la criminalización de la protesta social, en solidaridad con trabajadores del subte",
+            "fuente": "https://estadodealerta.com.ar/la-catt-expreso-su-solidaridad-con-los-trabajadores-del-subte-ante-la-criminalizacion-de-la-protesta-social-y-el-ataque-sistematico-contra-los-trabajadores-organizados/, https://telenueve.elnueve.com.ar/amanecer/24177-paro-escalonado-de-subte-cuando-y-que-hora-le-afecta-cada-linea"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-10",
             "horario": "09:00",
             "lugar": "Sede central del Servicio Meteorológico Nacional (SMN), Ciudad de Buenos Aires (CABA)",
             "quien": "Asociación de Trabajadores del Estado (ATE) y trabajadores del SMN",
@@ -9046,10 +9056,10 @@
             "fecha": "2026-05-01",
             "horario": "La hora de inicio del evento de protesta es **12:00**.",
             "lugar": "No especificado",
-            "quien": "Frente de Sindicatos Unidos (FreSU)",
-            "tipo_medida": "Plenario",
-            "motivo": "Elaboración del programa del movimiento obrero y definición de reclamos frente al gobierno",
-            "fuente": "https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Crisis en obras sociales sindicales y reclamos laborales (paritarias libres, salud, desempleo, poder adquisitivo, jubilados y flexibilización laboral)",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
         },
         {
             "es_evento_relevante": true,
