@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-11T19:27:00.864906-03:00",
+    "last_updated": "2026-04-11T20:30:16.563618-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8960,6 +8960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio palestino, la política de alineación de Milei con EE.UU. e Israel, y la guerra sionista/imperialista en Medio Oriente",
             "fuente": "https://www.laizquierdadiario.com/El-genocidio-continua-este-sabado-se-realizara-una-movilizacion-por-Palestina, https://www.laizquierdadiario.com/Marcha-por-Palestina-este-sabado, https://prensaobrera.com/internacionales/el-11-marchamos-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-sionista-contra-iran, https://www.anred.org/la-proxima-movilizacion-en-apoyo-al-pueblo-palestino-tiene-fecha-11-de-abril/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-11",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Estudiantes, docentes y nodocentes universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra recortes, privatización y el incumplimiento de la Ley de Financiamiento Universitario por parte del gobierno de Milei",
+            "fuente": "https://prensaobrera.com/universidad/organicemos-ya-la-4ta-marcha-universitaria-federal, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
