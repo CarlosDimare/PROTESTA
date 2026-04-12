@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12T05:04:39.900193-03:00",
+    "last_updated": "2026-04-12T06:02:54.798904-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8970,6 +8970,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra recortes, privatización y el incumplimiento de la Ley de Financiamiento Universitario por parte del gobierno de Milei",
             "fuente": "https://prensaobrera.com/universidad/organicemos-ya-la-4ta-marcha-universitaria-federal, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-12",
+            "horario": "18:00",
+            "lugar": "Córdoba Capital",
+            "quien": "Sindicatos docentes multicolores (UEPC Capital Multicolor)",
+            "tipo_medida": "Paro y manifestaciones",
+            "motivo": "Derrotar la reforma laboral y defender el derecho de huelga docente",
+            "fuente": "https://prensaobrera.com/sindicales/esencialidad-en-educacion-ctera-debe-convocar-a-plan-de-lucha-en-defensa-del-derecho-de-huelga-de-la-docencia, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
         },
         {
             "es_evento_relevante": true,
