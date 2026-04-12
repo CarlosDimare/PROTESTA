@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12T11:40:33.856320-03:00",
+    "last_updated": "2026-04-12T12:37:35.942189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8980,6 +8980,16 @@
             "tipo_medida": "Paro y manifestaciones",
             "motivo": "Derrotar la reforma laboral y defender el derecho de huelga docente",
             "fuente": "https://prensaobrera.com/sindicales/esencialidad-en-educacion-ctera-debe-convocar-a-plan-de-lucha-en-defensa-del-derecho-de-huelga-de-la-docencia, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-12",
+            "horario": "No especificado",
+            "lugar": "Principales rutas y accesos a nodos portuarios del país",
+            "quien": "Transportistas de carga de granos",
+            "tipo_medida": "Piquete",
+            "motivo": "Reclamo de recomposición tarifaria por aumento de costos operativos (combustible)",
+            "fuente": "https://elciudadanoweb.com/paro-de-transportistas-de-granos-camaras-del-sector-portuario-y-aceitero-advierten-por-impacto-en-plena-cosecha/"
         },
         {
             "es_evento_relevante": true,
