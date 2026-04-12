@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-12T06:02:54.798904-03:00",
+    "last_updated": "2026-04-12T06:49:53.526328-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8980,6 +8980,16 @@
             "tipo_medida": "Paro y manifestaciones",
             "motivo": "Derrotar la reforma laboral y defender el derecho de huelga docente",
             "fuente": "https://prensaobrera.com/sindicales/esencialidad-en-educacion-ctera-debe-convocar-a-plan-de-lucha-en-defensa-del-derecho-de-huelga-de-la-docencia, https://www.cadena3.com/noticia/radioinforme-3/la-uepc-capital-marchara-este-martes-por-la-reapertura-de-paritarias_445905"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-13",
+            "horario": "08:00",
+            "lugar": "Accesos a la Ciudad Autónoma de Buenos Aires",
+            "quien": "Frente de movimientos sociales",
+            "tipo_medida": "Corte",
+            "motivo": "Reducción del programa 'Volver al Trabajo'",
+            "fuente": "https://www.infobae.com/politica/2026/04/12/circulo-rojo-las-dos-velocidades-de-la-economia-de-milei-numeros-en-rojo-y-disputas-en-la-ciudad-y-la-justicia/"
         },
         {
             "es_evento_relevante": true,
