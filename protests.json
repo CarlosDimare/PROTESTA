@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T19:43:11.152355-03:00",
+    "last_updated": "2026-04-13T20:43:14.286964-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9010,6 +9010,16 @@
             "tipo_medida": "Corte",
             "motivo": "Reducción del programa 'Volver al Trabajo'",
             "fuente": "https://www.infobae.com/politica/2026/04/12/circulo-rojo-las-dos-velocidades-de-la-economia-de-milei-numeros-en-rojo-y-disputas-en-la-ciudad-y-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-13",
+            "horario": "10:30",
+            "lugar": "Palacio de Hacienda",
+            "quien": "Foro Permanente para la Promoción y la Defensa de los Derechos de las Personas con Discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Solicitar aplicación presupuestaria para Incluir Salud, PNC y PAMI; garantizar fondos para Ley 27.793 de Emergencia en Discapacidad",
+            "fuente": "https://www.inforegion.com.ar/2026/04/13/discapacidad-en-crisis-reclamo-al-ministerio-de-economia-por-falta-de-pagos-y-recortes/"
         },
         {
             "es_evento_relevante": true,
