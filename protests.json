@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T04:58:41.580975-03:00",
+    "last_updated": "2026-04-13T06:55:50.930495-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9000,6 +9000,16 @@
             "tipo_medida": "Corte",
             "motivo": "Reducción del programa 'Volver al Trabajo'",
             "fuente": "https://www.infobae.com/politica/2026/04/12/circulo-rojo-las-dos-velocidades-de-la-economia-de-milei-numeros-en-rojo-y-disputas-en-la-ciudad-y-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-13",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra criminalización judicial y defensa de derechos sindicales",
+            "fuente": "https://www.datagremial.com/escenario/crece-la-criminalizacion-de-la-protesta-la-justicia-acusa-a-trabajadores-del-subte-de-asociacion-ilicita--20264121100"
         },
         {
             "es_evento_relevante": true,
