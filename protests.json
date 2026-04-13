@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T12:18:01.746483-03:00",
+    "last_updated": "2026-04-13T14:02:58.451258-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9024,6 +9024,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-15",
+            "horario": "11:00",
+            "lugar": "Sede de PAMI",
+            "quien": "APPAMIA (Asociación de Profesionales del Programa de Atención Médica Integral y Afines)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a recortes salariales y condiciones laborales inviables tras la resolución RESOL-2026-1107-INSSJP-DE#INSSJP",
+            "fuente": "https://elciudadanoweb.com/medicos-de-pami-rosario-en-huelga-por-72-horas-nacion-les-quiere-pagar-2100-por-capita-de-afiliado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
             "horario": "12:00",
             "lugar": "Departamentos judiciales de Buenos Aires",
             "quien": "Asociación Judicial Bonaerense (AJB)",
@@ -9050,6 +9060,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo histórico de derechos y rechazo a la reforma de la Ley de Glaciares",
             "fuente": "https://www.anred.org/con-protestas-ruidazos-y-represion-en-las-calles-diputados-aprobo-la-modificacion-de-la-ley-de-glaciares/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "APUR (Asociación del Personal de la Universidad Nacional de Rosario)",
+            "tipo_medida": "Paro",
+            "motivo": "Mejoras salariales, convocatoria a paritarias y recuperación del poder adquisitivo",
+            "fuente": "https://elciudadanoweb.com/otra-semana-de-paro-universitario-no-docentes-reclaman-mejoras-salariales/"
         },
         {
             "es_evento_relevante": true,
