@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T14:02:58.451258-03:00",
+    "last_updated": "2026-04-13T15:04:13.959860-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9020,6 +9020,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir reapertura inmediata de FATE y pago de salarios",
             "fuente": "https://www.laizquierdadiario.com/Sigue-la-lucha-de-Fate-marchan-a-Plaza-de-Mayo-contra-el-cierre-y-apoyados-por-decenas-de, https://www.laizquierdadiario.com/Fate-contra-el-cierre-movilizan-a-Plaza-de-Mayo-acompanados-por-decenas-de-organizaciones, https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-las-empresas-levantaran-la-medida-de-fuerza-de-manera-gradual/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-14",
+            "horario": "20:00",
+            "lugar": "Casa de Gobierno en Río Gallegos",
+            "quien": "ADOSAC, ATE, Judiciales",
+            "tipo_medida": "Marcha y Acampe",
+            "motivo": "Contra el ajuste provincial, la Ley de Emergencia Económica y recortes salariales/despidos",
+            "fuente": "https://www.laizquierdadiario.com/Paros-marchas-y-acampe-semana-de-protestas-en-Santa-Cruz"
         },
         {
             "es_evento_relevante": true,
