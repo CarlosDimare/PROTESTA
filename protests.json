@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T16:20:03.957273-03:00",
+    "last_updated": "2026-04-13T17:49:59.416551-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -8994,22 +8994,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-13",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "APPAMIA (Asociación de Profesionales del Programa de Atención Médica Integral y Afines)",
+            "tipo_medida": "Paro",
+            "motivo": "Oposición al recorte salarial del 52.5% y la resolución 1107/2026 que elimina ingresos por consultas e incentivos",
+            "fuente": "https://www.laizquierdadiario.com/Crisis-en-el-PAMI-mas-ajuste-del-presupuesto-y-medicos-de-cabecera-van-al-paro, https://www.datagremial.com/escenario/crece-la-criminalizacion-de-la-protesta-la-justicia-acusa-a-trabajadores-del-subte-de-asociacion-ilicita--20264121100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-13",
             "horario": "08:00",
             "lugar": "Accesos a la Ciudad Autónoma de Buenos Aires",
             "quien": "Frente de movimientos sociales",
             "tipo_medida": "Corte",
             "motivo": "Reducción del programa 'Volver al Trabajo'",
             "fuente": "https://www.infobae.com/politica/2026/04/12/circulo-rojo-las-dos-velocidades-de-la-economia-de-milei-numeros-en-rojo-y-disputas-en-la-ciudad-y-la-justicia/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-13",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra criminalización judicial y defensa de derechos sindicales",
-            "fuente": "https://www.datagremial.com/escenario/crece-la-criminalizacion-de-la-protesta-la-justicia-acusa-a-trabajadores-del-subte-de-asociacion-ilicita--20264121100"
         },
         {
             "es_evento_relevante": true,
