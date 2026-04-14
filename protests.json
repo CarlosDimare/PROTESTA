@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T23:07:31.731896-03:00",
+    "last_updated": "2026-04-14T01:54:35.938523-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9026,10 +9026,10 @@
             "fecha": "2026-04-14",
             "horario": "16:00",
             "lugar": "No especificado",
-            "quien": "SUTNA y sindicatos adherentes",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir reapertura inmediata de FATE y pago de salarios",
-            "fuente": "https://www.laizquierdadiario.com/Sigue-la-lucha-de-Fate-marchan-a-Plaza-de-Mayo-contra-el-cierre-y-apoyados-por-decenas-de, https://www.laizquierdadiario.com/Fate-contra-el-cierre-movilizan-a-Plaza-de-Mayo-acompanados-por-decenas-de-organizaciones, https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-las-empresas-levantaran-la-medida-de-fuerza-de-manera-gradual/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "quien": "Movimiento ambiental y social",
+            "tipo_medida": "Movilización",
+            "motivo": "Continuidad de la protesta contra la reforma a la ley de glaciares y áreas periglaciares",
+            "fuente": "https://prensaobrera.com/ambiente/ni-glaciares-ni-renta-minera-todo-para-los-monopolios, https://www.laizquierdadiario.com/Sigue-la-lucha-de-Fate-marchan-a-Plaza-de-Mayo-contra-el-cierre-y-apoyados-por-decenas-de, https://www.laizquierdadiario.com/Fate-contra-el-cierre-movilizan-a-Plaza-de-Mayo-acompanados-por-decenas-de-organizaciones, https://www.inforegion.com.ar/2026/04/09/paro-de-colectivos-las-empresas-levantaran-la-medida-de-fuerza-de-manera-gradual/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -9155,21 +9155,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "15:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por paritarias libres, aumento del poder adquisitivo y oposición a la reforma laboral",
-            "fuente": "https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta y conmemoración por el Día del Trabajador, en rechazo a la pérdida de poder adquisitivo, cierre de empresas, cepo salarial y el modelo económico del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/no-descartamos-nada-cristian-jeronimo-dejo-la-puerta-abierta-a-un-nuevo-paro-general-y-denuncio-una-perdida-del-poder-adquisitivo-del-casi-30--20264131890, https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "15:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por paritarias libres y oposición a políticas económicas del gobierno, con festejo por avances en justicia laboral",
-            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por paritarias libres, aumento del poder adquisitivo y oposición a la reforma laboral",
+            "fuente": "https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
