@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14T01:54:35.938523-03:00",
+    "last_updated": "2026-04-14T03:35:54.015386-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9024,6 +9024,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-14",
+            "horario": "**16:00**",
+            "lugar": "Buenos Aires",
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino y Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio al viaje de Milei a Israel y su alineamiento con Estados Unidos e Israel",
+            "fuente": "https://prensaobrera.com/internacionales/movilizacion-a-plaza-de-mayo-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-contra-iran-y-libano, https://www.dw.com/es/miles-marchan-en-argentina-en-solidaridad-con-palestinos/a-73823041"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-14",
             "horario": "16:00",
             "lugar": "No especificado",
             "quien": "Movimiento ambiental y social",
@@ -9080,6 +9090,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por más derechos sindicales, mejores condiciones de vida y reglamentación de la negociación colectiva",
             "fuente": "https://www.datagremial.com/informacion-general/nuevo-episodio-de-clatevision-lanzamiento-de-un-ciclo-de-formacion-internacional-el-24-de-marzo-y-la-gran-marcha-de-la-clase-trabajadora-en-brasil-20264710500"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-16",
+            "horario": "10:00",
+            "lugar": "Policlínico Pami de Rosario",
+            "quien": "Plenario de Trabajadores Jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos previsionales: aumento del 100% de la jubilación mínima, defensa del 82% móvil, restitución del 100% de medicamentos y prestaciones, y oposición al vaciamiento del Pami hacia el sector privado",
+            "fuente": "https://prensaobrera.com/sindicales/rosario-por-la-reincorporacion-inmediata-de-melina-gutierrez"
         },
         {
             "es_evento_relevante": true,
