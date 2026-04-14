@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-13T20:43:14.286964-03:00",
+    "last_updated": "2026-04-13T23:07:31.731896-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9040,6 +9040,16 @@
             "tipo_medida": "Marcha y Acampe",
             "motivo": "Contra el ajuste provincial, la Ley de Emergencia Económica y recortes salariales/despidos",
             "fuente": "https://www.laizquierdadiario.com/Paros-marchas-y-acampe-semana-de-protestas-en-Santa-Cruz"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "10:00",
+            "lugar": "San Justo, desde la intersección de Almafuerte e Yrigoyen hacia la fiscalía",
+            "quien": "Familiares de Cristian Pereyra y colectivos sociales (Suteba, organismos de DDHH, partidos de izquierda)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigen justicia por el asesinato de Cristian Pereyra a manos de un policía bonaerense, reclaman verdad y justicia, y denuncian impunidad y precarización",
+            "fuente": "https://www.laizquierdadiario.com/A-un-mes-del-asesinato-del-docente-Cristian-Pereyra-la-familia-convoca-a-una-movilizacion"
         },
         {
             "es_evento_relevante": true,
