@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14T18:47:47.012667-03:00",
+    "last_updated": "2026-04-14T19:46:38.869204-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9030,6 +9030,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio al viaje de Milei a Israel y su alineamiento con Estados Unidos e Israel",
             "fuente": "https://prensaobrera.com/internacionales/movilizacion-a-plaza-de-mayo-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-contra-iran-y-libano, https://www.dw.com/es/miles-marchan-en-argentina-en-solidaridad-con-palestinos/a-73823041"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-14",
+            "horario": "15:30",
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores de FATE y SUTNA",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el cierre de la fábrica y por el pago de salarios",
+            "fuente": "https://www.laizquierdadiario.com/FATE-marcha-a-plaza-de-Mayo-contra-el-cierre-y-por-el-pago-de-salarios, https://www.inforegion.com.ar/2026/04/14/trabajadores-de-fate-movilizan-junto-a-la-cta-bonaerense/"
         },
         {
             "es_evento_relevante": true,
