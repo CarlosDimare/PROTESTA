@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-14T19:46:38.869204-03:00",
+    "last_updated": "2026-04-14T20:41:52.976401-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9030,6 +9030,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio al viaje de Milei a Israel y su alineamiento con Estados Unidos e Israel",
             "fuente": "https://prensaobrera.com/internacionales/movilizacion-a-plaza-de-mayo-contra-el-genocidio-en-gaza-y-la-guerra-imperialista-contra-iran-y-libano, https://www.dw.com/es/miles-marchan-en-argentina-en-solidaridad-con-palestinos/a-73823041"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-14",
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía de la Nación y Casa Rosada (Casa de Gobierno)",
+            "quien": "Federación Argentina de Municipios (FAM) y intendentes de todo el país",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por fondos municipales, obras públicas, recomposición de coparticipación, baja de precios de nafta/gasoil, destino de impuestos a combustibles para obras viales, y soluciones para emergencia alimentaria, destrucción de PyMEs y pérdida de empleos",
+            "fuente": "https://motoreconomico.com.ar/intendentes-de-todo-el-pais-marcharon-al-ministerio-de-economia-y-casa-rosada-para-exigir-fondos-y-obras/"
         },
         {
             "es_evento_relevante": true,
