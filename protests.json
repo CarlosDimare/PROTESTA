@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T14:06:12.163622-03:00",
+    "last_updated": "2026-04-15T15:10:21.418005-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9075,6 +9075,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-15",
             "horario": "10:00",
+            "lugar": "Neuquén",
+            "quien": "ATEN (Asociación de Trabajadores de la Educación de Neuquén)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigen reapertura salarial, oposición a reformas laborales/educativas de Milei y Figueroa, unidad sindical y condiciones laborales dignas",
+            "fuente": "https://www.laizquierdadiario.com/Las-asambleas-deciden-en-ATEN"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "10:00",
             "lugar": "Instituto Nacional de Tecnología Industrial (INTI), sede General San Martín",
             "quien": "Trabajadores del INTI y ATE",
             "tipo_medida": "Movilización",
@@ -9146,10 +9156,10 @@
             "fecha": "2026-04-15",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "ATE Córdoba",
-            "tipo_medida": "Manifestación",
-            "motivo": "Apoyo a trabajadores de Coca-Cola procesados y rechazo a la judicialización de protestas",
-            "fuente": "https://www.datagremial.com/informacion-general/ate-cordoba-repudio-el-juicio-a-tres-trabajadores-de-coca-cola-tras-una-protesta-contra-despidos-202641417470"
+            "quien": "Estudiantes de la USP",
+            "tipo_medida": "Movilización",
+            "motivo": "Asamblea para discutir nuevas medidas en el marco de la huelga por igualdad de derechos y contra la privatización de la universidad",
+            "fuente": "https://www.laizquierdadiario.com/Brasil-huelga-y-movilizacion-reune-a-miles-estudiantes-y-trabajadores-en-la-Universidad-de-San, https://www.datagremial.com/informacion-general/ate-cordoba-repudio-el-juicio-a-tres-trabajadores-de-coca-cola-tras-una-protesta-contra-despidos-202641417470"
         },
         {
             "es_evento_relevante": true,
