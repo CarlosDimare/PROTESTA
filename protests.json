@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T19:44:11.810979-03:00",
+    "last_updated": "2026-04-15T20:47:19.535766-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9306,10 +9306,10 @@
             "fecha": "2026-05-01",
             "horario": "La hora de inicio del evento de protesta es **12:00**.",
             "lugar": "No especificado",
-            "quien": "CONADU Histórica y AGD-UBA",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por aplicación de la Ley de Financiamiento Universitario y aumento salarial",
-            "fuente": "https://estadodealerta.com.ar/docentes-y-no-docentes-con-otra-semana-de-paro-mientras-el-gobierno-ve-como-se-cumple-su-objetivo-de-una-universidad-cerrada/, https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
+            "quien": "Frente de Unidad de Sindicatos Unidos",
+            "tipo_medida": "Reunión de delegados",
+            "motivo": "Discusión de programa de acción ante la crisis económica y pérdida de empleos",
+            "fuente": "https://www.datagremial.com/informacion-general/alerta-en-la-uom-furlan-denuncio-la-perdida-de-28-mil-empleos-metalurgicos-y-anticipo-un-plan-de-lucha-con-paros-202641519350, https://estadodealerta.com.ar/docentes-y-no-docentes-con-otra-semana-de-paro-mientras-el-gobierno-ve-como-se-cumple-su-objetivo-de-una-universidad-cerrada/, https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
         },
         {
             "es_evento_relevante": true,
