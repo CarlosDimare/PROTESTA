@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T10:24:03.261705-03:00",
+    "last_updated": "2026-04-15T12:10:37.421962-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9190,6 +9190,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de actualización salarial ante desplome histórico del poder adquisitivo y retención estatal en provincias",
             "fuente": "https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "09:00",
+            "lugar": "Casa de Gobierno",
+            "quien": "Aten Capital / CTA-A",
+            "tipo_medida": "Marcha",
+            "motivo": "Reapertura de mesa salarial, contra ajuste y reforma laboral",
+            "fuente": "https://prensaobrera.com/sindicales/neuquen-masivas-asambleas-de-seccionales-opositoras-van-por-la-reapertura-de-la-mesa-salarial"
         },
         {
             "es_evento_relevante": true,
