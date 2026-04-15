@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T12:10:37.421962-03:00",
+    "last_updated": "2026-04-15T14:06:12.163622-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9090,6 +9090,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigen justicia por el asesinato de Cristian Pereyra a manos de un policía bonaerense, reclaman verdad y justicia, y denuncian impunidad y precarización",
             "fuente": "https://www.laizquierdadiario.com/A-un-mes-del-asesinato-del-docente-Cristian-Pereyra-la-familia-convoca-a-una-movilizacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "11:00",
+            "lugar": "Sede central del PAMI, Av. Corrientes 655, Ciudad Autónoma de Buenos Aires",
+            "quien": "Jubilados y agrupaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra recortes en prestaciones, falta de medicamentos gratuitos, intervención del gobierno de Milei en PAMI y crisis por falta de pago",
+            "fuente": "https://www.laizquierdadiario.com/Importante-reclamo-de-medicos-jubiladas-y-jubilados-en-la-sede-central-del-PAMI"
         },
         {
             "es_evento_relevante": true,
