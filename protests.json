@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T08:58:54.592124-03:00",
+    "last_updated": "2026-04-15T10:24:03.261705-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9075,11 +9075,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-15",
             "horario": "10:00",
+            "lugar": "Instituto Nacional de Tecnología Industrial (INTI), sede General San Martín",
+            "quien": "Trabajadores del INTI y ATE",
+            "tipo_medida": "Movilización",
+            "motivo": "En defensa de 700 puestos de trabajo amenazados por el plan de desguace del gobierno",
+            "fuente": "https://prensaobrera.com/sindicales/masiva-asamblea-en-el-inti-para-enfrentar-la-baja-de-mas-de-mil-servicios-industriales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "10:00",
             "lugar": "San Justo, desde la intersección de Almafuerte e Yrigoyen hacia la fiscalía",
             "quien": "Familiares de Cristian Pereyra y colectivos sociales (Suteba, organismos de DDHH, partidos de izquierda)",
             "tipo_medida": "Movilización",
             "motivo": "Exigen justicia por el asesinato de Cristian Pereyra a manos de un policía bonaerense, reclaman verdad y justicia, y denuncian impunidad y precarización",
             "fuente": "https://www.laizquierdadiario.com/A-un-mes-del-asesinato-del-docente-Cristian-Pereyra-la-familia-convoca-a-una-movilizacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "11:00",
+            "lugar": "Av. Corrientes 655, sede central del PAMI",
+            "quien": "Agrupaciones de jubilados y jubiladas (referenciado como @todxssomosjubiladxs)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra recortes en prestaciones y medicación, intervención del gobierno en PAMI, falta de pago de prestaciones y exigencia de auditoría inmediata",
+            "fuente": "https://www.laizquierdadiario.com/Jubiladas-y-jubilados-realizaran-una-protesta-en-la-sede-central-del-PAMI"
         },
         {
             "es_evento_relevante": true,
@@ -9100,6 +9120,26 @@
             "tipo_medida": "Paro y retiro",
             "motivo": "Reclamo por mejor salarial y condiciones laborales, implementación de subcategorias escalafón y solución a temas de carrera judicial",
             "fuente": "https://www.inforegion.com.ar/2026/04/13/paro-y-retiro-en-los-departamentos-judiciales-de-la-provincia-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "20:00",
+            "lugar": "Casa de Gobierno",
+            "quien": "Frente Sindical (ATE, Adosac, Judiciales, Soem, Viales, Atsa, Aprosa, Apoc, Apel, La Bancaria, Adiunpa)",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamación de paritarias 2026 para trabajadores de Santa Cruz, frente a la crisis económica, desempleo y congelamiento salarial",
+            "fuente": "https://prensaobrera.com/sindicales/santa-cruz-acampe-gremial-en-una-provincia-al-borde-de-un-estallido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ATE Córdoba",
+            "tipo_medida": "Manifestación",
+            "motivo": "Apoyo a trabajadores de Coca-Cola procesados y rechazo a la judicialización de protestas",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-cordoba-repudio-el-juicio-a-tres-trabajadores-de-coca-cola-tras-una-protesta-contra-despidos-202641417470"
         },
         {
             "es_evento_relevante": true,
@@ -9194,22 +9234,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
-            "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Conmemoración del Día del Trabajador y protesta por caída del poder adquisitivo, pérdida salarial y endeudamiento familiar",
-            "fuente": "https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-30",
             "horario": "15:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Movilización",
             "motivo": "Protesta y conmemoración por el Día del Trabajador, en rechazo a la pérdida de poder adquisitivo, cierre de empresas, cepo salarial y el modelo económico del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/no-descartamos-nada-cristian-jeronimo-dejo-la-puerta-abierta-a-un-nuevo-paro-general-y-denuncio-una-perdida-del-poder-adquisitivo-del-casi-30--20264131890, https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "16:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT con participación de UTEP",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la caída del poder adquisitivo, pérdida del salario y endeudamiento familiar",
+            "fuente": "https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
