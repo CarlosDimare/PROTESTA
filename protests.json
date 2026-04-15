@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-15T15:10:21.418005-03:00",
+    "last_updated": "2026-04-15T17:07:10.524224-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9190,6 +9190,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo histórico de derechos y rechazo a la reforma de la Ley de Glaciares",
             "fuente": "https://www.anred.org/con-protestas-ruidazos-y-represion-en-las-calles-diputados-aprobo-la-modificacion-de-la-ley-de-glaciares/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
+            "horario": "18:00",
+            "lugar": "Desde Callao y Corrientes hasta el Obelisco",
+            "quien": "Ademys (Secretaría de Acción Social)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra el ajuste educativo del gobierno de Macri/Milei, despidos, recortes en programas educativos (Orquestas para la Equidad, CAI, Maestro+Maestro) y condiciones laborales docentes",
+            "fuente": "https://prensaobrera.com/sindicales/docentes-caba-unificar-al-gremio-contra-la-motosierra-de-macri-y-milei"
         },
         {
             "es_evento_relevante": true,
