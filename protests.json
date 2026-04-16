@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T12:38:38.615028-03:00",
+    "last_updated": "2026-04-16T14:28:02.175456-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9274,6 +9274,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-23",
+            "horario": "**No especificado**",
+            "lugar": "No especificado",
+            "quien": "FUR - COAD - Agrupaciones estudiantiles",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-la-fur-reclama-fondos-para-la-educacion/, https://www.redboing.com/paro-en-la-unr-coad-y-apur-profundizan-las-medidas-por-el-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
             "horario": "No especificado",
             "lugar": "No especificado (federal)",
             "quien": "Federación Nacional de Docentes Universitarios",
@@ -9320,6 +9330,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por la caída del poder adquisitivo, pérdida del salario y endeudamiento familiar",
             "fuente": "https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
+            "horario": "00:00",
+            "lugar": "Universidad de California (UC), todo el estado (desde Los Ángeles hasta San Francisco)",
+            "quien": "Sindicato AFSCME 3299",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de ayuda para vivienda debido a alquileres inasumibles en ciudades gentrificadas, mientras la universidad otorga préstamos preferenciales a directivos",
+            "fuente": "https://www.laizquierdadiario.com/Rebelion-en-la-Universidad-de-California-40-000-trabajadores-anuncian-huelga-por-tiempo"
         },
         {
             "es_evento_relevante": true,
@@ -9480,6 +9500,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al pago de salarios en dos partes y al fraccionamiento del aguinaldo",
             "fuente": "https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
+            "lugar": "SoFi Stadium en Inglewood, Los Ángeles",
+            "quien": "Sindicato UNITE HERE Local 11",
+            "tipo_medida": "Huelga",
+            "motivo": "Denuncias de salarios de miseria, acoso de ICE, expulsión por gentrificación, y amenaza de automatización",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-del-estadio-de-Los-Angeles-amenazan-con-huelga-en-medio-del-Mundial-de-Futbol"
         },
         {
             "es_evento_relevante": true,
