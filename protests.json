@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T18:45:04.012565-03:00",
+    "last_updated": "2026-04-16T19:41:29.377694-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9260,6 +9260,16 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, convocatoria a paritarias y recuperación del poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/otra-semana-de-paro-universitario-no-docentes-reclaman-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-20",
+            "horario": "No especificado",
+            "lugar": "Consejo Provincial de Educación en Río Gallegos",
+            "quien": "ATE (Asociación de Trabajadores del Estado) y gremios estatales solidarios (Judiciales, Viales, ADOSAC)",
+            "tipo_medida": "Paro de 72 horas y Acampe",
+            "motivo": "Reclamo por recomposición salarial de emergencia para trabajadores estatales y repudio a la represión y persecución sindical",
+            "fuente": "https://www.laizquierdadiario.com/Santa-Cruz-gracias-a-la-lucha-liberaron-a-los-dirigentes-de-ATE-detenidos-en-Las-Heras"
         },
         {
             "es_evento_relevante": true,
