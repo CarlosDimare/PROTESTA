@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T16:10:55.110269-03:00",
+    "last_updated": "2026-04-16T17:48:54.526844-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9230,6 +9230,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra el ajuste educativo del gobierno de Macri/Milei, despidos, recortes en programas educativos (Orquestas para la Equidad, CAI, Maestro+Maestro) y condiciones laborales docentes",
             "fuente": "https://prensaobrera.com/sindicales/docentes-caba-unificar-al-gremio-contra-la-motosierra-de-macri-y-milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
+            "horario": "No especificado",
+            "lugar": "Universidades nacionales en todo el país",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro y movilizaciones",
+            "motivo": "Salarios caídos (33.7% de pérdida desde 2023), incumplimiento de Ley de Financiamiento Universitario, falta de paritarias y desfinanciamiento del sistema",
+            "fuente": "https://www.datagremial.com/informacion-general/en-la-previa-de-un-nuevo-paro-fedun-denuncio-que-los-docentes-universitarios-acumulan-17-meses-de-caida-salarial-y-necesitan-un-50-de-aumento-para-recuperarse-20264161660"
         },
         {
             "es_evento_relevante": true,
