@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T10:33:12.141413-03:00",
+    "last_updated": "2026-04-16T12:38:38.615028-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9193,6 +9193,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-04-16",
+            "horario": "13:00",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU Histórica y docentes universitarios",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo salarial y exigencia de cumplimiento de la Ley de Financiamiento Universitario tras fallo judicial",
+            "fuente": "https://www.anred.org/paro-universitario-el-fallo-esta-falta-que-lo-cumplan/, https://radio.unr.edu.ar/2026/04/16/abrazo-solidario-y-ruidazo-docentes-profundizan-las-acciones-en-defensa-del-sistema-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-04-17",
             "horario": "15:00",
             "lugar": "Congreso Nacional",
@@ -9220,6 +9230,16 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, convocatoria a paritarias y recuperación del poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/otra-semana-de-paro-universitario-no-docentes-reclaman-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "**09:00**",
+            "lugar": "ANAC y dependencias estatales en todo el país",
+            "quien": "ATE-ANAC y Consejo Directivo Nacional de ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial en ANAC por incumplimiento de acuerdos y protesta nacional contra recortes estatales y políticas de Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/se-vencio-la-conciliacion-obligatoria-en-el-conflicto-con-la-anac-ate-anuncia-un-paro-para-la-semana-que-viene-20264169280, https://elintransigente.com/2026/03/ate-anac-confirmo-el-paro-a-partir-del-miercoles-y-advierte-por-cancelaciones-y-demoras-de-vuelos-durante-el-feriado/"
         },
         {
             "es_evento_relevante": true,
