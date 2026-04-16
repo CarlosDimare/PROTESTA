@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T14:28:02.175456-03:00",
+    "last_updated": "2026-04-16T16:10:55.110269-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9200,6 +9200,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo salarial y exigencia de cumplimiento de la Ley de Financiamiento Universitario tras fallo judicial",
             "fuente": "https://www.anred.org/paro-universitario-el-fallo-esta-falta-que-lo-cumplan/, https://radio.unr.edu.ar/2026/04/16/abrazo-solidario-y-ruidazo-docentes-profundizan-las-acciones-en-defensa-del-sistema-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-16",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "SICONARA (Sindicato de Conductores Navales de la República Argentina)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la precarización laboral y convenios individuales, en respuesta a la estrategia de Conarpesa de formar mano de obra no sindicalizada",
+            "fuente": "https://www.datagremial.com/escenario/repudio-sindical-al-intento-de-imponer-acuerdos-individuales-de-una-empresa-pesquera-aprovechamiento-nefasto--20264161000"
         },
         {
             "es_evento_relevante": true,
