@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T10:15:39.351982-03:00",
+    "last_updated": "2026-04-17T12:00:27.512598-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9356,10 +9356,10 @@
             "fecha": "2026-04-24",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Trabajadores del Servicio Meteorológico Nacional",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
             "tipo_medida": "Paro",
-            "motivo": "Oposición a despidos y defensa del organismo ante el plan de ajuste del gobierno",
-            "fuente": "https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas"
+            "motivo": "Contra los recortes de personal y recursos, y en oposición a los despidos en el Servicio Meteorológico Nacional",
+            "fuente": "https://www.infobae.com/politica/2026/04/17/sin-datos-oficiales-los-vuelos-no-pueden-operar-la-advertencia-del-servicio-meteorologico-nacional-tras-el-anuncio-de-despidos/, https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas"
         },
         {
             "es_evento_relevante": true,
