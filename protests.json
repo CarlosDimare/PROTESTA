@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T19:37:46.552462-03:00",
+    "last_updated": "2026-04-17T20:42:55.315525-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9255,6 +9255,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-17",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Partido Obrero/Frente de Izquierda de Trabajadores-Unidad (FIT-U)",
+            "tipo_medida": "Movilización",
+            "motivo": "Solidaridad con el pueblo palestino y repudio a la persecución judicial contra Vanina Biasi",
+            "fuente": "https://prensaobrera.com/libertades-democraticas/corte-suprema-iremos-a-juicio-a-sepultar-la-infamia-de-igualar-antisionismo-con-antisemitismo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
+            "horario": "No especificado",
             "lugar": "Tribunales de Justicia",
             "quien": "CGT",
             "tipo_medida": "Paro general",
@@ -9340,6 +9350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por atraso en aranceles, demoras en pagos y acumulación de deudas que ponen en riesgo la continuidad de prestaciones para personas con discapacidad",
             "fuente": "https://www.inforegion.com.ar/2026/04/16/convocan-a-un-cese-de-actividades-y-movilizacion-frente-al-ministerio-de-salud-por-la-crisis-en-discapacidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-22",
+            "horario": "No especificado",
+            "lugar": "Planta Mondelez",
+            "quien": "Mesa de Coordinación de Zona Norte y Sindicato de Trabajadores de Industrias de Alimentación (STIA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar persecuciones antisindicales y apoyar a trabajadores suspendidos por expresarse",
+            "fuente": "https://www.laizquierdadiario.com/Diputados-nacionales-de-distintos-bloques-rechazan-persecuciones-en-la-alimenticia-Mondelez"
         },
         {
             "es_evento_relevante": true,
