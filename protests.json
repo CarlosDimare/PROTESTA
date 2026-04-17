@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-16T20:42:12.977900-03:00",
+    "last_updated": "2026-04-16T23:11:03.044572-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9310,6 +9310,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Respaldar a Axel Kicillof en la audiencia judicial por reclamos de fondos de ANSES",
             "fuente": "https://www.infobae.com/politica/2026/04/03/relegado-del-desembolso-de-milei-a-12-provincias-kicillof-se-aferra-a-un-fallo-de-la-corte-en-busca-de-fondos-para-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-22",
+            "horario": "11:00",
+            "lugar": "Ministerio de Salud de la Nación",
+            "quien": "Foro Permanente para la Promoción y la Defensa de los Derechos de las Personas con Discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por atraso en aranceles, demoras en pagos y acumulación de deudas que ponen en riesgo la continuidad de prestaciones para personas con discapacidad",
+            "fuente": "https://www.inforegion.com.ar/2026/04/16/convocan-a-un-cese-de-actividades-y-movilizacion-frente-al-ministerio-de-salud-por-la-crisis-en-discapacidad/"
         },
         {
             "es_evento_relevante": true,
