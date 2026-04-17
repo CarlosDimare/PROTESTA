@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T02:03:03.801535-03:00",
+    "last_updated": "2026-04-17T04:05:29.637781-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9414,22 +9414,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-01",
+            "horario": "09:00",
+            "lugar": "Camping recreativo de la Unión Obrera Metalúrgica (UOM), partido de Pilar, Buenos Aires",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Plenario nacional",
+            "motivo": "Construcción de un programa propio del movimiento obrero, definición de una agenda común y lucha contra la reforma laboral",
+            "fuente": "https://motoreconomico.com.ar/uom-ate-aceiteros-y-140-organizaciones-sindicales-mas-trabajan-un-programa-del-movimiento-obrero-para-disputar-el-rumbo-economico/, https://www.infobae.com/politica/2026/04/14/el-ala-dura-sindical-gana-poder-de-fuego-en-su-pelea-con-la-cgt-sumo-a-dirigentes-de-dos-gremios-clave/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
             "horario": "La hora de inicio del evento de protesta es **12:00**.",
             "lugar": "No especificado",
             "quien": "Frente de Unidad de Sindicatos Unidos",
             "tipo_medida": "Reunión de delegados",
             "motivo": "Discusión de programa de acción ante la crisis económica y pérdida de empleos",
             "fuente": "https://www.datagremial.com/informacion-general/alerta-en-la-uom-furlan-denuncio-la-perdida-de-28-mil-empleos-metalurgicos-y-anticipo-un-plan-de-lucha-con-paros-202641519350, https://estadodealerta.com.ar/docentes-y-no-docentes-con-otra-semana-de-paro-mientras-el-gobierno-ve-como-se-cumple-su-objetivo-de-una-universidad-cerrada/, https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-01",
-            "horario": "No especificado",
-            "lugar": "Predio de la UOM en Pilar",
-            "quien": "Frente de Sindicatos Unidos (FRESU)",
-            "tipo_medida": "Movilización",
-            "motivo": "Debate de un programa del movimiento obrero para el país y protesta contra las políticas del gobierno de Javier Milei",
-            "fuente": "https://www.infobae.com/politica/2026/04/14/el-ala-dura-sindical-gana-poder-de-fuego-en-su-pelea-con-la-cgt-sumo-a-dirigentes-de-dos-gremios-clave/"
         },
         {
             "es_evento_relevante": true,
