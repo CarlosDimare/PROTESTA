@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T13:06:02.470157-03:00",
+    "last_updated": "2026-04-17T14:01:55.756880-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9350,6 +9350,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-la-fur-reclama-fondos-para-la-educacion/, https://www.redboing.com/paro-en-la-unr-coad-y-apur-profundizan-las-medidas-por-el-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas del país",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación de la Ley de Financiamiento Universitario, aumento salarial superior al 50% y paritarias libres",
+            "fuente": "https://www.inforegion.com.ar/2026/04/17/paro-en-las-universidades-vence-el-plazo-para-aplicar-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
