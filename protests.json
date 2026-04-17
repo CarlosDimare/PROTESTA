@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T14:01:55.756880-03:00",
+    "last_updated": "2026-04-17T14:51:03.669578-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9224,6 +9224,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-17",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales de todo el país",
+            "quien": "CONADU y FEDUN (gremios docentes universitarios)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario, apertura de paritarias libres y aumento salarial",
+            "fuente": "https://estadodealerta.com.ar/paro-docente-universitario-clases-publicas-huelgas-por-tiempo-indeterminado-y-marcha-federal-en-el-horizonte/, https://www.datagremial.com/informacion-general/en-la-previa-de-un-nuevo-paro-fedun-denuncio-que-los-docentes-universitarios-acumulan-17-meses-de-caida-salarial-y-necesitan-un-50-de-aumento-para-recuperarse-20264161660"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
             "horario": "15:00",
             "lugar": "Congreso Nacional",
             "quien": "Jubilados",
@@ -9250,16 +9260,6 @@
             "tipo_medida": "Paro general",
             "motivo": "Oposición a la ley de modernización laboral y exigencia de anulación de la contrareforma laboral",
             "fuente": "https://www.laizquierdadiario.com/Quieren-que-la-casta-judicial-decida-nuestros-derechos-anulemos-la-reforma-esclavista-con-un-plan"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-17",
-            "horario": "No especificado",
-            "lugar": "Universidades nacionales en todo el país",
-            "quien": "FEDUN y FATUN",
-            "tipo_medida": "Paro y movilizaciones",
-            "motivo": "Salarios caídos (33.7% de pérdida desde 2023), incumplimiento de Ley de Financiamiento Universitario, falta de paritarias y desfinanciamiento del sistema",
-            "fuente": "https://www.datagremial.com/informacion-general/en-la-previa-de-un-nuevo-paro-fedun-denuncio-que-los-docentes-universitarios-acumulan-17-meses-de-caida-salarial-y-necesitan-un-50-de-aumento-para-recuperarse-20264161660"
         },
         {
             "es_evento_relevante": true,
@@ -9384,12 +9384,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-24",
-            "horario": "No especificado",
+            "horario": "10:00",
             "lugar": "No especificado",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "quien": "Trabajadores del SMN",
             "tipo_medida": "Paro",
-            "motivo": "Contra los recortes de personal y recursos, y en oposición a los despidos en el Servicio Meteorológico Nacional",
-            "fuente": "https://www.infobae.com/politica/2026/04/17/sin-datos-oficiales-los-vuelos-no-pueden-operar-la-advertencia-del-servicio-meteorologico-nacional-tras-el-anuncio-de-despidos/, https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas"
+            "motivo": "Reincorporación de 140 trabajadores despedidos y oposición al vaciamiento del SMN",
+            "fuente": "https://prensaobrera.com/sindicales/trabajadores-del-servicio-meteorologico-nacional-llaman-al-paro-tras-el-anuncio-de-140-despidos, https://www.infobae.com/politica/2026/04/17/sin-datos-oficiales-los-vuelos-no-pueden-operar-la-advertencia-del-servicio-meteorologico-nacional-tras-el-anuncio-de-despidos/, https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas, https://www.radiofueguina.com/2026/04/paro-total-en-el-smn-ante-el-anuncio-de-240-despidos/"
         },
         {
             "es_evento_relevante": true,
