@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-17T12:00:27.512598-03:00",
+    "last_updated": "2026-04-17T13:06:02.470157-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9245,6 +9245,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-17",
             "horario": "No especificado",
+            "lugar": "Tribunales de Justicia",
+            "quien": "CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Oposición a la ley de modernización laboral y exigencia de anulación de la contrareforma laboral",
+            "fuente": "https://www.laizquierdadiario.com/Quieren-que-la-casta-judicial-decida-nuestros-derechos-anulemos-la-reforma-esclavista-con-un-plan"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-17",
+            "horario": "No especificado",
             "lugar": "Universidades nacionales en todo el país",
             "quien": "FEDUN y FATUN",
             "tipo_medida": "Paro y movilizaciones",
@@ -9260,6 +9270,16 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, convocatoria a paritarias y recuperación del poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/otra-semana-de-paro-universitario-no-docentes-reclaman-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-18",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Frente Sindical de Universidades Nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de Ley de Financiamiento Universitario y aumento salarial",
+            "fuente": "https://www.datagremial.com/escenario/cierra-una-nueva-semana-de-protestas-universitarias-crece-el-malestar-y-el-mayo-habria-nueva-marcha-federal-20264171000, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
