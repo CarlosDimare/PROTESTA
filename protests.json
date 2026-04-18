@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-18T10:04:45.125299-03:00",
+    "last_updated": "2026-04-18T11:11:39.037477-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9280,6 +9280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, convocatoria a paritarias y recuperación del poder adquisitivo",
             "fuente": "https://elciudadanoweb.com/otra-semana-de-paro-universitario-no-docentes-reclaman-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-18",
+            "horario": "18:00",
+            "lugar": "Plaza España, Córdoba",
+            "quien": "UEPC (Unión de Educadores de la Provincia de Córdoba) con apoyo de SUTNA y comunidad educativa",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a propuesta salarial del gobierno provincial, defensa del salario frente al ajuste y la inflación, y profundización del plan de lucha",
+            "fuente": "https://prensaobrera.com/sindicales/cordoba-la-docencia-rechaza-la-cuarta-oferta-antisalarial-de-llaryora-y-se-moviliza"
         },
         {
             "es_evento_relevante": true,
