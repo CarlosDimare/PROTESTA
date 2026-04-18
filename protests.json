@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-18T18:38:38.011789-03:00",
+    "last_updated": "2026-04-18T19:33:22.000581-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9340,6 +9340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reapertura de mesa salarial, contra ajuste y reforma laboral",
             "fuente": "https://prensaobrera.com/sindicales/neuquen-masivas-asambleas-de-seccionales-opositoras-van-por-la-reapertura-de-la-mesa-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "Federación Argentina de Municipios (FAM)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por coparticipación federal, recursos para municipios, subsidios, medicamentos y políticas sociales contra recortes nacionales",
+            "fuente": "https://estadodealerta.com.ar/mas-de-cien-intendentes-marcharon-al-ministerio-de-economia-y-reclamaron-contra-el-desfinanciamiento-nacional/"
         },
         {
             "es_evento_relevante": true,
