@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-19T15:45:49.277259-03:00",
+    "last_updated": "2026-04-19T16:44:20.013857-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9510,6 +9510,16 @@
             "tipo_medida": "Paro",
             "motivo": "Suspensión del Torneo Apertura por causa judicial contra autoridades de la AFA y disputa por irregularidades fiscales",
             "fuente": "https://elciudadanoweb.com/la-afa-ratifico-el-paro-de-este-fin-de-semana-la-fecha-9-del-torneo-apertura-se-disputara-el-3-de-mayo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-15",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Comunidad universitaria (UBA)",
+            "tipo_medida": "Marcha federal",
+            "motivo": "Exigencia de cumplimiento de la Ley de financiamiento universitario ante la inacción del gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/04/19/emiliano-yacobitti-advirtio-que-podrian-volver-a-marchar-si-el-gobierno-no-cumple-con-el-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
