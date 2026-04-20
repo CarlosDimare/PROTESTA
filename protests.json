@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-20T14:07:51.326748-03:00",
+    "last_updated": "2026-04-20T15:09:51.101666-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9334,16 +9334,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-21",
-            "horario": "08:00",
-            "lugar": "Sede central de ATE y dependencias de administración nacional",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo de actualización salarial ante desplome histórico del poder adquisitivo y retención estatal en provincias",
-            "fuente": "https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-21",
             "horario": "09:00",
             "lugar": "Casa de Gobierno",
             "quien": "Aten Capital / CTA-A",
@@ -9355,11 +9345,41 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-21",
             "horario": "10:00",
+            "lugar": "Varios puntos del país",
+            "quien": "Unidad Piquetera, UTEP, Territorios en Lucha, Frente de Lucha Piquetero, CTA Autónoma, Polo Obrero, movimientos sociales y sindicatos",
+            "tipo_medida": "Movilizaciones y piquetes",
+            "motivo": "Rechazo a la eliminación del programa Volver al Trabajo y defensa de derechos de trabajadores precarizados",
+            "fuente": "https://prensaobrera.com/movimiento-piquetero/enorme-audiencia-en-diputados-contra-el-mayor-despido-de-la-era-milei-los-956-000-de-volver-al-trabajo, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "10:00",
+            "lugar": "Tribunales Federales de Córdoba, avenida Concepción Arenal",
+            "quien": "Organizaciones gremiales, sociales y políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de libertad sindical y contra la criminalización de la protesta",
+            "fuente": "https://www.datagremial.com/informacion-general/federico-giuliani-declara-en-tribunales-federales-en-una-causa-por-protestas-contra-la-visita-de-milei-a-cordoba-en-2024--202642014140"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "10:00",
             "lugar": "Ministerio de Economía de la Nación",
             "quien": "Federación Argentina de Municipios (FAM)",
             "tipo_medida": "Movilización",
             "motivo": "Reclamos por coparticipación federal, recursos para municipios, subsidios, medicamentos y políticas sociales contra recortes nacionales",
             "fuente": "https://estadodealerta.com.ar/mas-de-cien-intendentes-marcharon-al-ministerio-de-economia-y-reclamaron-contra-el-desfinanciamiento-nacional/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "11:00",
+            "lugar": "Costa Salguero, intersección de Avenida Costanera y Jerónimo Salguero, próximo al Aeroparque Jorge Newbery",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por reapertura de paritarias, recomposición salarial y rechazo a políticas de ajuste en sector público",
+            "fuente": "https://www.infobae.com/economia/2026/04/20/paro-nacional-de-ate-el-sindicato-amenazo-con-bloquear-el-acceso-a-los-aeropuertos/, https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
