@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-20T17:44:40.432239-03:00",
+    "last_updated": "2026-04-20T18:45:13.114009-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9390,6 +9390,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Respaldar a Axel Kicillof en la audiencia judicial por reclamos de fondos de ANSES",
             "fuente": "https://www.infobae.com/politica/2026/04/03/relegado-del-desembolso-de-milei-a-12-provincias-kicillof-se-aferra-a-un-fallo-de-la-corte-en-busca-de-fondos-para-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-22",
+            "horario": "08:00",
+            "lugar": "Distritos de La Plata, Berisso, Ensenada, La Matanza, Tigre, Moreno y Bahía Blanca (Suteba); Aeroparque Jorge Newbery (ATE)",
+            "quien": "Suteba (lista Multicolor) y Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro (Suteba y ATE) y Movilización (ATE)",
+            "motivo": "Reclamos salariales ($1.500.000 inicial), equiparación de módulos, creación de cargos faltantes, ampliación del SAE, inversión en infraestructura educativa (Suteba); reclamos estatales (ATE)",
+            "fuente": "https://www.inforegion.com.ar/2026/04/20/dos-gremios-van-al-paro-y-complican-las-clases-en-escuelas-bonaerenses/"
         },
         {
             "es_evento_relevante": true,
