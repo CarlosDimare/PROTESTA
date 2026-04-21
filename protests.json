@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T16:10:51.410253-03:00",
+    "last_updated": "2026-04-21T17:48:20.083991-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9440,6 +9440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por atraso en aranceles, demoras en pagos y acumulación de deudas que ponen en riesgo la continuidad de prestaciones para personas con discapacidad",
             "fuente": "https://www.inforegion.com.ar/2026/04/16/convocan-a-un-cese-de-actividades-y-movilizacion-frente-al-ministerio-de-salud-por-la-crisis-en-discapacidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-22",
+            "horario": "12:00",
+            "lugar": "Senado de la Nación",
+            "quien": "Colectivo de la discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Presión por rechazo al proyecto de modificación de Ley de Discapacidad",
+            "fuente": "https://www.infobae.com/politica/2026/04/21/el-proyecto-del-ejecutivo-para-modificar-la-ley-de-discapacidad-encuentra-resistencia-en-el-senado/, https://www.eldestapeweb.com/sociedad/camara-del-senado/ni-victimas-pasivas-ni-objetos-de-caridad-las-personas-con-discapacidad-marchan-por-una-ley-de-emergencia-que-garantice-derechos-2025710105829"
         },
         {
             "es_evento_relevante": true,
