@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T10:34:42.326542-03:00",
+    "last_updated": "2026-04-21T12:15:23.611782-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9500,6 +9500,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reincorporación de 140 trabajadores despedidos y oposición al vaciamiento del SMN",
             "fuente": "https://prensaobrera.com/sindicales/trabajadores-del-servicio-meteorologico-nacional-llaman-al-paro-tras-el-anuncio-de-140-despidos, https://www.infobae.com/politica/2026/04/17/sin-datos-oficiales-los-vuelos-no-pueden-operar-la-advertencia-del-servicio-meteorologico-nacional-tras-el-anuncio-de-despidos/, https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas, https://www.radiofueguina.com/2026/04/paro-total-en-el-smn-ante-el-anuncio-de-240-despidos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-25",
+            "horario": "10:00",
+            "lugar": "Plaza del Pueblo, Roma",
+            "quien": "Movimiento Blocchiamo Tutto y Asociación Nacional de Partisanos de Italia (ANPI)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contrarrestar al gobierno de Meloni, defender valores antifascistas y promover la memoria de la resistencia obrera",
+            "fuente": "https://www.laizquierdadiario.com/Protestas-del-25-de-abril-en-Italia-una-fecha-de-alto-riesgo-para-una-Meloni-debilitada"
         },
         {
             "es_evento_relevante": true,
