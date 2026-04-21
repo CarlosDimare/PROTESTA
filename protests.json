@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T14:05:43.162778-03:00",
+    "last_updated": "2026-04-21T15:04:22.410820-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9390,6 +9390,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reapertura de paritarias y recomposición salarial de emergencia para estatales, frente a pérdida de poder adquisitivo y despidos en la administración pública",
             "fuente": "https://estadodealerta.com.ar/paro-nacional-de-ate-por-paritarias-con-protestas-en-aeropuertos-asambleas-y-posibles-demoras-de-vuelos/, https://www.infobae.com/economia/2026/04/21/paro-nacional-de-ate-habra-una-movilizacion-en-aeroparque-y-podria-haber-demoras-en-los-vuelos/, https://www.infobae.com/economia/2026/04/20/paro-nacional-de-ate-el-sindicato-amenazo-con-bloquear-el-acceso-a-los-aeropuertos/, https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "14:00",
+            "lugar": "Zona Norte del conurbano bonaerense (ruta entre Fate y Mondelez)",
+            "quien": "Trabajadores de Fate, Mondelez, Georgalos, Lustramax y Frigorífico Rioplatense",
+            "tipo_medida": "Movilización (caravana)",
+            "motivo": "Rechazo a políticas de ajuste nacional y provincial, defensa de fuentes de trabajo y reclamo por reapertura de paritarias",
+            "fuente": "https://www.laizquierdadiario.com/Jornada-de-lucha-paro-docente-en-PBA-paro-de-ATE-reclamo-en-el-Inti-y-caravana-obrera-de-Fate-a"
         },
         {
             "es_evento_relevante": true,
