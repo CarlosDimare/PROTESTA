@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T09:06:51.673362-03:00",
+    "last_updated": "2026-04-21T10:34:42.326542-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9385,11 +9385,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-21",
             "horario": "11:00",
-            "lugar": "Costa Salguero, intersección de Avenida Costanera y Jerónimo Salguero, próximo al Aeroparque Jorge Newbery",
+            "lugar": "Costa Salguero, intersección de Av. Costanera Rafael Obligado y Jerónimo Salguero, frente al Aeroparque Jorge Newbery (Ciudad de Buenos Aires)",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
-            "tipo_medida": "Movilización y Paro Nacional",
-            "motivo": "Reclamo de mejoras salariales, reapertura de paritarias, recomposición salarial de emergencia y rechazo al ajuste fiscal en el sector público",
-            "fuente": "https://www.infobae.com/economia/2026/04/21/paro-nacional-de-ate-habra-una-movilizacion-en-aeroparque-y-podria-haber-demoras-en-los-vuelos/, https://www.infobae.com/economia/2026/04/20/paro-nacional-de-ate-el-sindicato-amenazo-con-bloquear-el-acceso-a-los-aeropuertos/, https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
+            "tipo_medida": "Paro",
+            "motivo": "Reapertura de paritarias y recomposición salarial de emergencia para estatales, frente a pérdida de poder adquisitivo y despidos en la administración pública",
+            "fuente": "https://estadodealerta.com.ar/paro-nacional-de-ate-por-paritarias-con-protestas-en-aeropuertos-asambleas-y-posibles-demoras-de-vuelos/, https://www.infobae.com/economia/2026/04/21/paro-nacional-de-ate-habra-una-movilizacion-en-aeroparque-y-podria-haber-demoras-en-los-vuelos/, https://www.infobae.com/economia/2026/04/20/paro-nacional-de-ate-el-sindicato-amenazo-con-bloquear-el-acceso-a-los-aeropuertos/, https://estadodealerta.com.ar/ate-lanza-un-paro-nacional-para-el-21-de-abril-por-salarios-y-podria-avanzar-con-mas-medidas/, https://www.infobae.com/politica/2026/04/10/rodolfo-aguiar-secretario-general-de-ate-el-2026-va-a-ser-el-ano-de-mayor-conflictividad-de-la-era-milei/, https://www.inforegion.com.ar/2026/04/10/ate-anuncio-un-nuevo-paro-por-paritarias-libres/, https://motoreconomico.com.ar/ate-exige-reabrir-paritarias-y-lanza-un-paro-nacional-para-el-21-de-abril-si-no-hay-plata-no-habra-paz-social/, https://d24ar.com/asociacion-trabajadores-del-estado-intensifica-medidas-de-fuerza-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-21",
+            "horario": "18:00",
+            "lugar": "Desde FATE (San Fernando) hasta Mondelez (Villa Ballester), Conurbano Bonaerense",
+            "quien": "Mesa de Coordinación Obrera de Zona Norte",
+            "tipo_medida": "Marcha",
+            "motivo": "Unificar luchas contra despidos, suspensiones y persecuciones, fortalecer la organización obrera",
+            "fuente": "https://www.laizquierdadiario.com/Masivo-paro-docente-contra-el-ajuste-de-Kicillof"
         },
         {
             "es_evento_relevante": true,
