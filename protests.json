@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T17:48:20.083991-03:00",
+    "last_updated": "2026-04-21T18:43:53.043313-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9650,6 +9650,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "La hora de inicio del evento de protesta es:  \n**18:00**",
+            "lugar": "Plaza de Mayo y distintos puntos del país",
+            "quien": "Gremios docentes, nodocentes, federaciones estudiantiles y autoridades universitarias",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por recomposición salarial, convocatoria a paritarias y cumplimiento de la Ley de Financiamiento Universitario ante deterioro presupuestario y pérdida de poder adquisitivo",
+            "fuente": "https://www.datagremial.com/informacion-general/nueva-marcha-federal-universitaria-convocan-a-movilizar-el-12-de-mayo-en-todo-el-pais-202642116300, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
