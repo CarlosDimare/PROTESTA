@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T15:04:22.410820-03:00",
+    "last_updated": "2026-04-21T16:10:51.410253-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9500,6 +9500,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar mejoras salariales, exigir cumplimiento de la Ley de Financiamiento Universitario y protestar contra el ajuste presupuestario",
             "fuente": "https://www.infobae.com/politica/2026/03/16/que-dias-no-habra-clases-en-las-universidades-publicas-por-el-paro-docente/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "05:00 a 12:00",
+            "lugar": "Instalaciones del Servicio Meteorológico Nacional (SMN)",
+            "quien": "ATE-SMN (Asociación Trabajadores del Estado - Sección SMN)",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio a despidos masivos (140 telegramas + 150 de 2024) y vaciamiento del organismo",
+            "fuente": "https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "10:00",
+            "lugar": "Club Talleres de Mar del Plata",
+            "quien": "SICONARA (Sindicato Conductores Navales de la República Argentina)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Reclamos salariales, transparencia operativa y seguridad laboral del sector de buques fresqueros",
+            "fuente": "https://www.datagremial.com/paritarias/siconara-activa-asambleas-en-mar-del-plata-ante-la-falta-de-avances-de-la-paritaria-sectorial--202642113560"
         },
         {
             "es_evento_relevante": true,
