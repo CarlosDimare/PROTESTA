@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-21T12:15:23.611782-03:00",
+    "last_updated": "2026-04-21T14:05:43.162778-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9503,6 +9503,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "17:00",
+            "lugar": "Plaza 25 de Mayo",
+            "quien": "Familiares y allegados de Sophia Civarelli",
+            "tipo_medida": "Manifestación",
+            "motivo": "Exigir verdad, responsabilidad y justicia por el femicidio de Sophia Civarelli",
+            "fuente": "https://elciudadanoweb.com/la-asesinaron-y-quisieron-hacer-pasar-su-muerte-por-un-suicidio-convocan-a-marchar-por-sophia-civarelli/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-04-25",
             "horario": "10:00",
             "lugar": "Plaza del Pueblo, Roma",
@@ -9590,6 +9600,16 @@
             "tipo_medida": "Paro",
             "motivo": "Suspensión del Torneo Apertura por causa judicial contra autoridades de la AFA y disputa por irregularidades fiscales",
             "fuente": "https://elciudadanoweb.com/la-afa-ratifico-el-paro-de-este-fin-de-semana-la-fecha-9-del-torneo-apertura-se-disputara-el-3-de-mayo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "18:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "tipo_medida": "Marcha",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
