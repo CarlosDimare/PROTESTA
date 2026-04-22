@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T12:16:57.471614-03:00",
+    "last_updated": "2026-04-22T14:01:43.560772-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9465,11 +9465,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-23",
             "horario": "**No especificado**",
-            "lugar": "No especificado",
-            "quien": "FUR - COAD - Agrupaciones estudiantiles",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario",
-            "fuente": "https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-la-fur-reclama-fondos-para-la-educacion/, https://www.redboing.com/paro-en-la-unr-coad-y-apur-profundizan-las-medidas-por-el-financiamiento-universitario/"
+            "lugar": "Universidades públicas del país",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la falta de implementación de la Ley de Financiamiento Universitario, pérdida de poder adquisitivo y desfinanciamamiento de las universidades públicas",
+            "fuente": "https://www.inforegion.com.ar/2026/04/22/crece-el-malestar-en-las-universidades-publicas-manana-se-realiza-un-nuevo-paro/, https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-la-fur-reclama-fondos-para-la-educacion/, https://www.redboing.com/paro-en-la-unr-coad-y-apur-profundizan-las-medidas-por-el-financiamiento-universitario/, https://www.inforegion.com.ar/2026/04/17/paro-en-las-universidades-vence-el-plazo-para-aplicar-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
@@ -9480,16 +9480,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la educación pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-docentes-y-estudiantes-universitarios-salen-a-la-calle-a-reclaman-fondos-para-la-educacion/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-23",
-            "horario": "No especificado",
-            "lugar": "Universidades públicas del país",
-            "quien": "FEDUN y FATUN",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por aplicación de la Ley de Financiamiento Universitario, aumento salarial superior al 50% y paritarias libres",
-            "fuente": "https://www.inforegion.com.ar/2026/04/17/paro-en-las-universidades-vence-el-plazo-para-aplicar-la-ley-de-financiamiento-universitario/"
         },
         {
             "es_evento_relevante": true,
