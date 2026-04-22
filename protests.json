@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T17:52:46.272348-03:00",
+    "last_updated": "2026-04-22T18:51:12.871214-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9470,6 +9470,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la falta de implementación de la Ley de Financiamiento Universitario, pérdida de poder adquisitivo y desfinanciamamiento de las universidades públicas",
             "fuente": "https://www.inforegion.com.ar/2026/04/22/crece-el-malestar-en-las-universidades-publicas-manana-se-realiza-un-nuevo-paro/, https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-la-fur-reclama-fondos-para-la-educacion/, https://www.redboing.com/paro-en-la-unr-coad-y-apur-profundizan-las-medidas-por-el-financiamiento-universitario/, https://www.inforegion.com.ar/2026/04/17/paro-en-las-universidades-vence-el-plazo-para-aplicar-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
+            "horario": "10:00",
+            "lugar": "Escalinatas de los tribunales provinciales (Balcarce y Pellegrini), Rosario",
+            "quien": "Asamblea Lesbotransfeminista de Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra proyecto de ley que endurece penas por falsas denuncias de violencia de género y abuso sexual, y por exigir justicia a la víctimas de abusos",
+            "fuente": "https://elciudadanoweb.com/protesta-en-tribunales-de-rosario-contra-el-proyecto-que-endurece-penas-por-falsas-denuncias/"
         },
         {
             "es_evento_relevante": true,
