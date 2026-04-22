@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T19:46:14.958877-03:00",
+    "last_updated": "2026-04-22T20:48:24.777729-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9434,6 +9434,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-22",
+            "horario": "10:00",
+            "lugar": "Organismos públicos de todo el país",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir reapertura de paritarias para recomponer poder adquisitivo y oponerse a recortes en funciones estatales",
+            "fuente": "https://www.datagremial.com/informacion-general/con-contundentes-protestas-en-aeroparque-y-en-el-interior-ate-protagonizo-un-paro-nacional-con-alto-acatamiento-para-exigir-la-reapertura-de-paritarias-202642121170"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-22",
             "horario": "11:00",
             "lugar": "Ministerio de Salud de la Nación",
             "quien": "Colectivo de la Discapacidad",
@@ -9670,6 +9680,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por recomposición salarial, convocatoria a paritarias y cumplimiento de la Ley de Financiamiento Universitario ante deterioro presupuestario y pérdida de poder adquisitivo",
             "fuente": "https://www.datagremial.com/informacion-general/nueva-marcha-federal-universitaria-convocan-a-movilizar-el-12-de-mayo-en-todo-el-pais-202642116300, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "No especificado",
+            "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Frente Sindical de Universidades Nacionales y Federación Universitaria Argentina (FUA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Financiamiento universitario, recomposición salarial de docentes/no docentes y becas estudiantiles",
+            "fuente": "https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/"
         },
         {
             "es_evento_relevante": true,
