@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T09:08:32.530763-03:00",
+    "last_updated": "2026-04-22T10:27:24.951880-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9484,6 +9484,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-23",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín hasta Plaza 25 de Mayo",
+            "quien": "Federación Universitaria Rosaria (FUR) y Coad",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la educación pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/marcha-de-antorchas-en-la-unr-docentes-y-estudiantes-universitarios-salen-a-la-calle-a-reclaman-fondos-para-la-educacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
             "horario": "No especificado",
             "lugar": "Universidades públicas del país",
             "quien": "FEDUN y FATUN",
@@ -9654,12 +9664,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
-            "horario": "18:00",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo",
-            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "quien": "Consejo Interuniversitario Nacional (CIN) con gremios docentes y organizaciones estudiantiles",
             "tipo_medida": "Marcha",
-            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Defensa de la educación superior, reclamo por incumplimiento de la Ley de Financiamiento Universitario y contra los ajustes presupuestarios y salariales",
+            "fuente": "https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
