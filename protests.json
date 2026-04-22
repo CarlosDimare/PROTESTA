@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T07:26:53.487405-03:00",
+    "last_updated": "2026-04-22T09:08:32.530763-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9560,6 +9560,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contrarrestar al gobierno de Meloni, defender valores antifascistas y promover la memoria de la resistencia obrera",
             "fuente": "https://www.laizquierdadiario.com/Protestas-del-25-de-abril-en-Italia-una-fecha-de-alto-riesgo-para-una-Meloni-debilitada"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
+            "horario": "08:00",
+            "lugar": "Universidades Nacionales de Argentina",
+            "quien": "Gremios universitarios (CONADU y CONADU Histórica)",
+            "tipo_medida": "Paro",
+            "motivo": "Plan de lucha por reclamos laborales y educativos",
+            "fuente": "https://infonoroeste.com.ar/nota/53596/universidades-la-marcha-federal-sera-el-12-de-mayo-y-se-intensifican-los-paros-y-el-plan-de-lucha/"
         },
         {
             "es_evento_relevante": true,
