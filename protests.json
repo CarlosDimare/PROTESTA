@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-23T18:43:52.683920-03:00",
+    "last_updated": "2026-04-23T19:42:47.362915-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9580,6 +9580,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Exigir verdad, responsabilidad y justicia por el femicidio de Sophia Civarelli",
             "fuente": "https://elciudadanoweb.com/la-asesinaron-y-quisieron-hacer-pasar-su-muerte-por-un-suicidio-convocan-a-marchar-por-sophia-civarelli/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "No especificado",
+            "lugar": "Universidades nacionales",
+            "quien": "FEDUN/FATUN",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de paritarias, recomposición salarial y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/se-sintio-muy-fuerte-el-paro-en-las-60-universidades-nacionales-alto-acatamiento-y-la-fedun-advierte-que-crece-el-conflicto-rumbo-a-la-marcha-federal--202642318430"
         },
         {
             "es_evento_relevante": true,
