@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-23T16:06:17.472946-03:00",
+    "last_updated": "2026-04-23T17:14:11.764393-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9590,6 +9590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contrarrestar al gobierno de Meloni, defender valores antifascistas y promover la memoria de la resistencia obrera",
             "fuente": "https://www.laizquierdadiario.com/Protestas-del-25-de-abril-en-Italia-una-fecha-de-alto-riesgo-para-una-Meloni-debilitada"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-25",
+            "horario": "Todo el día",
+            "lugar": "Servicio Meteorológico Nacional",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a 240 despidos y defensa del servicio contra vaciamiento",
+            "fuente": "https://motoreconomico.com.ar/paro-en-el-servicio-meteorologico-nacional-manana-habra-un-apagon-informatico-y-los-aviones-no-podran-volar/"
         },
         {
             "es_evento_relevante": true,
