@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T23:16:08.174282-03:00",
+    "last_updated": "2026-04-23T02:33:04.830001-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9490,6 +9490,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra proyecto de ley que endurece penas por falsas denuncias de violencia de género y abuso sexual, y por exigir justicia a la víctimas de abusos",
             "fuente": "https://elciudadanoweb.com/protesta-en-tribunales-de-rosario-contra-el-proyecto-que-endurece-penas-por-falsas-denuncias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
+            "horario": "11:00",
+            "lugar": "Ministerio de Salud",
+            "quien": "Foro Permanente Discapacidad (nucleando a organizaciones del sector)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al proyecto de ley oficialista que modifica la Ley de Emergencia en Discapacidad, acusado de estigmatizar, desregular el Nomenclador nacional y reducir prestaciones",
+            "fuente": "https://elciudadanoweb.com/discapacidad-masiva-marcha-en-contra-de-la-nueva-ley-impulsada-por-el-gobierno-de-milei/"
         },
         {
             "es_evento_relevante": true,
