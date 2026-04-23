@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-22T20:48:24.777729-03:00",
+    "last_updated": "2026-04-22T23:16:08.174282-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9494,6 +9494,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-23",
+            "horario": "11:00",
+            "lugar": "Salón Puerto Argentino del Concejo Municipal, Rosario",
+            "quien": "Colectivo de instituciones de discapacidad de Santa Fe (incluyendo Apridis y otros sectores)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la nueva ley de pensiones y defensa del sistema actual de discapacidad",
+            "fuente": "https://elciudadanoweb.com/discapacidad-distintos-sectores-rechazan-en-rosario-el-nuevo-proyecto-del-gobierno-de-milei-y-habra-protesta-en-el-concejo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-23",
             "horario": "17:00",
             "lugar": "Plaza San Martín hasta Plaza 25 de Mayo",
             "quien": "Federación Universitaria Rosaria (FUR) y Coad",
@@ -9580,6 +9590,16 @@
             "tipo_medida": "Paro",
             "motivo": "Plan de lucha por reclamos laborales y educativos",
             "fuente": "https://infonoroeste.com.ar/nota/53596/universidades-la-marcha-federal-sera-el-12-de-mayo-y-se-intensifican-los-paros-y-el-plan-de-lucha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
+            "horario": "No especificado",
+            "lugar": "Tesoros regionales del Banco Central en todo el país",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al cierre de 12 tesoros regionales y falta de diálogo con el BCRA",
+            "fuente": "https://www.laizquierdadiario.com/El-proximo-lunes-habra-paro-en-21-dependencias-del-Banco-Central"
         },
         {
             "es_evento_relevante": true,
