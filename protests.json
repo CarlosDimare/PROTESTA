@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-23T10:20:50.051797-03:00",
+    "last_updated": "2026-04-23T12:54:30.063661-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9544,12 +9544,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-24",
-            "horario": "05:00 a 12:00",
-            "lugar": "Instalaciones del Servicio Meteorológico Nacional (SMN)",
-            "quien": "ATE-SMN (Asociación Trabajadores del Estado - Sección SMN)",
+            "horario": "08:00",
+            "lugar": "Servicio Meteorológico Nacional (con impacto en aeropuertos)",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
             "tipo_medida": "Paro",
-            "motivo": "Repudio a despidos masivos (140 telegramas + 150 de 2024) y vaciamiento del organismo",
-            "fuente": "https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
+            "motivo": "Rechazo a 240 despidos y recortes en el Servicio Meteorológico Nacional, que afectarían la seguridad aérea, navegación marítima, agropecuaria y alertas tempranas",
+            "fuente": "https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
         },
         {
             "es_evento_relevante": true,
@@ -9594,22 +9594,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-27",
+            "horario": "00:00",
+            "lugar": "Delegaciones del Banco Central de la República Argentina (BCRA) en todo el país",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto por reestructuración de agencias regionales, amenaza de cierre de 12 tesoros regionales y pérdida de 32 puestos de trabajo, sumado a falta de diálogo con las autoridades del BCRA",
+            "fuente": "https://elciudadanoweb.com/paro-en-el-banco-central-que-se-sabe-sobre-la-medida-de-fuerza/, https://www.laizquierdadiario.com/El-proximo-lunes-habra-paro-en-21-dependencias-del-Banco-Central"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
             "horario": "08:00",
             "lugar": "Universidades Nacionales de Argentina",
             "quien": "Gremios universitarios (CONADU y CONADU Histórica)",
             "tipo_medida": "Paro",
             "motivo": "Plan de lucha por reclamos laborales y educativos",
             "fuente": "https://infonoroeste.com.ar/nota/53596/universidades-la-marcha-federal-sera-el-12-de-mayo-y-se-intensifican-los-paros-y-el-plan-de-lucha/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-27",
-            "horario": "No especificado",
-            "lugar": "Tesoros regionales del Banco Central en todo el país",
-            "quien": "Asociación Bancaria",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al cierre de 12 tesoros regionales y falta de diálogo con el BCRA",
-            "fuente": "https://www.laizquierdadiario.com/El-proximo-lunes-habra-paro-en-21-dependencias-del-Banco-Central"
         },
         {
             "es_evento_relevante": true,
