@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-24T08:07:56.972418-03:00",
+    "last_updated": "2026-04-24T10:23:04.299733-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9565,11 +9565,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-24",
             "horario": "10:30",
-            "lugar": "Sede central del Servicio Meteorológico Nacional, Avenida Dorrego al 4019, entre Figueroa Alcorta y Lugones",
-            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "lugar": "Sede central del SMN, avenida Dorrego 4019, Buenos Aires",
+            "quien": "ATE (Asociación de Trabajadores del Estado)",
             "tipo_medida": "Asamblea",
-            "motivo": "Denuncia contra la declaración de ilegalidad del paro y defensa del derecho a huelga, frente a políticas del gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/04/24/el-gobierno-modifico-el-esquema-del-servicio-meteorologico-para-vuelos-luego-de-que-el-smn-levantara-el-paro/, https://www.infobae.com/politica/2026/04/24/levantaron-el-paro-del-servicio-meteorologico-nacional-luego-de-que-el-gobierno-lo-declarara-ilegal/, https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
+            "motivo": "Definir próximos pasos del plan de lucha tras la suspensión del paro por despidos y conflicto con el gobierno sobre servicios esenciales",
+            "fuente": "https://elciudadanoweb.com/levantaron-el-paro-en-el-servicio-meteorologico-nacional-tras-ser-declarado-ilegal-por-el-gobierno/, https://www.infobae.com/politica/2026/04/24/el-gobierno-modifico-el-esquema-del-servicio-meteorologico-para-vuelos-luego-de-que-el-smn-levantara-el-paro/, https://www.infobae.com/politica/2026/04/24/levantaron-el-paro-del-servicio-meteorologico-nacional-luego-de-que-el-gobierno-lo-declarara-ilegal/, https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
         },
         {
             "es_evento_relevante": true,
@@ -9730,6 +9730,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la educación superior, reclamo por incumplimiento de la Ley de Financiamiento Universitario y contra los ajustes presupuestarios y salariales",
             "fuente": "https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "18:00",
+            "lugar": "Universidad Nacional de La Plata (UNLP), Rectorado",
+            "quien": "Movimiento universitario federal (estudiantes, docentes, nodocentes, graduados)",
+            "tipo_medida": "Marcha federal",
+            "motivo": "Exigir cumplimiento de la Ley de Emergencia Universitaria y evitar acuerdos a la baja entre autoridades universitarias y el gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-en-La-Plata-Milei-cumpli-la-ley, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
