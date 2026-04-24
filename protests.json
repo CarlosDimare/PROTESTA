@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-24T16:54:05.518183-03:00",
+    "last_updated": "2026-04-24T17:45:09.601242-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9565,11 +9565,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-24",
             "horario": "10:30",
-            "lugar": "Sede central del SMN, avenida Dorrego 4019, Buenos Aires",
+            "lugar": "Avenida Dorrego 4019, Ciudad de Buenos Aires (Sede Central del SMN)",
             "quien": "ATE (Asociación de Trabajadores del Estado)",
-            "tipo_medida": "Asamblea",
-            "motivo": "Definir próximos pasos del plan de lucha tras la suspensión del paro por despidos y conflicto con el gobierno sobre servicios esenciales",
-            "fuente": "https://elciudadanoweb.com/levantaron-el-paro-en-el-servicio-meteorologico-nacional-tras-ser-declarado-ilegal-por-el-gobierno/, https://www.infobae.com/politica/2026/04/24/el-gobierno-modifico-el-esquema-del-servicio-meteorologico-para-vuelos-luego-de-que-el-smn-levantara-el-paro/, https://www.infobae.com/politica/2026/04/24/levantaron-el-paro-del-servicio-meteorologico-nacional-luego-de-que-el-gobierno-lo-declarara-ilegal/, https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
+            "tipo_medida": "Asamblea general resolutiva",
+            "motivo": "Definir próximos pasos del plan de lucha tras la ilegalización del paro y los despidos en el Servicio Meteorológico Nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/se-levanto-el-paro-en-el-servicio-meteorologico-ate-asegura-que-el-gobierno-actuo-fuera-de-la-ley--202642416270, https://elciudadanoweb.com/levantaron-el-paro-en-el-servicio-meteorologico-nacional-tras-ser-declarado-ilegal-por-el-gobierno/, https://www.infobae.com/politica/2026/04/24/el-gobierno-modifico-el-esquema-del-servicio-meteorologico-para-vuelos-luego-de-que-el-smn-levantara-el-paro/, https://www.infobae.com/politica/2026/04/24/levantaron-el-paro-del-servicio-meteorologico-nacional-luego-de-que-el-gobierno-lo-declarara-ilegal/, https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
         },
         {
             "es_evento_relevante": true,
@@ -9610,6 +9610,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contrarrestar al gobierno de Meloni, defender valores antifascistas y promover la memoria de la resistencia obrera",
             "fuente": "https://www.laizquierdadiario.com/Protestas-del-25-de-abril-en-Italia-una-fecha-de-alto-riesgo-para-una-Meloni-debilitada"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-25",
+            "horario": "19:00",
+            "lugar": "México 1223 bis, esquina con Juan B. Justo, frente a su barbería",
+            "quien": "Familiares de Alejo Riveros",
+            "tipo_medida": "Movilización",
+            "motivo": "Recordar a Alejo Riveros y sostener el pedido de justicia en el primer aniversario de su asesinato",
+            "fuente": "https://elciudadanoweb.com/convocan-a-una-marcha-a-un-ano-del-asesinato-de-alejo-riveros-en-barrio-larrea/"
         },
         {
             "es_evento_relevante": true,
