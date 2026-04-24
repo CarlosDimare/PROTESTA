@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-24T10:23:04.299733-03:00",
+    "last_updated": "2026-04-24T12:13:53.160320-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9580,6 +9580,16 @@
             "tipo_medida": "Manifestación",
             "motivo": "Exigir verdad, responsabilidad y justicia por el femicidio de Sophia Civarelli",
             "fuente": "https://elciudadanoweb.com/la-asesinaron-y-quisieron-hacer-pasar-su-muerte-por-un-suicidio-convocan-a-marchar-por-sophia-civarelli/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "La hora de inicio del evento de protesta es **00:00**.",
+            "lugar": "Ministerio de Infraestructura y Obras Públicas",
+            "quien": "ATE y AEMOPBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Pago de bonos recortados y recomposición salarial urgente",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-paros-y-nuevas-acciones-de-estatales-muestran-un-malestar-que-no-para-de-crecer, https://la100.cienradios.com/politica/ate-confirmo-un-paro-nacional-en-los-aeropuertos-cuando-es-y-a-que-hora-empieza-la-medida-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
