@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-23T23:18:28.274712-03:00",
+    "last_updated": "2026-04-24T02:38:40.147726-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9544,16 +9544,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-24",
-            "horario": "08:00",
-            "lugar": "Servicio Meteorológico Nacional (con impacto en aeropuertos)",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a 240 despidos y recortes en el Servicio Meteorológico Nacional, que afectarían la seguridad aérea, navegación marítima, agropecuaria y alertas tempranas",
-            "fuente": "https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-24",
             "horario": "10:00",
             "lugar": "Club Talleres de Mar del Plata",
             "quien": "SICONARA (Sindicato Conductores Navales de la República Argentina)",
@@ -9570,6 +9560,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reincorporación de 140 trabajadores despedidos y oposición al vaciamiento del SMN",
             "fuente": "https://prensaobrera.com/sindicales/trabajadores-del-servicio-meteorologico-nacional-llaman-al-paro-tras-el-anuncio-de-140-despidos, https://www.infobae.com/politica/2026/04/17/sin-datos-oficiales-los-vuelos-no-pueden-operar-la-advertencia-del-servicio-meteorologico-nacional-tras-el-anuncio-de-despidos/, https://www.laizquierdadiario.com/Dias-de-furia-contra-la-ciencia-despidos-recortes-y-amenazas, https://www.radiofueguina.com/2026/04/paro-total-en-el-smn-ante-el-anuncio-de-240-despidos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-24",
+            "horario": "10:30",
+            "lugar": "Avenida Dorrego 4019, entre Figueroa Alcorta y Lugones (Sede central del SMN)",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Asamblea Sindical",
+            "motivo": "Definir acciones frente a los despidos y la falta de recursos en el Servicio Meteorológico Nacional (SMN), denunciando la ilegalización de su derecho a huelga y exigiendo presupuesto, equipamiento y cese de despidos.",
+            "fuente": "https://www.infobae.com/politica/2026/04/24/levantaron-el-paro-del-servicio-meteorologico-nacional-luego-de-que-el-gobierno-lo-declarara-ilegal/, https://estadodealerta.com.ar/paro-informatico-de-ate-en-el-servicio-meteorologico-nacional-los-aviones-no-podran-volar/, https://elciudadanoweb.com/paro-y-apagon-informativo-el-viernes-en-el-servicio-meteorologico-por-despidos/"
         },
         {
             "es_evento_relevante": true,
