@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-25T14:42:51.824253-03:00",
+    "last_updated": "2026-04-25T15:47:54.832744-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9800,6 +9800,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
+            "horario": "No especificado",
+            "lugar": "Tribunales Federales de CABA",
+            "quien": "Movimientos sociales (Daniel Menéndez)",
+            "tipo_medida": "Amparo judicial",
+            "motivo": "Reclamo por recortes de fondos a obras públicas y régimen de coparticipación",
+            "fuente": "https://motoreconomico.com.ar/punto-para-kicillof-la-corte-puso-fecha-limite-a-la-anses-para-saldar-la-deuda-con-la-provincia/"
         },
         {
             "es_evento_relevante": true,
