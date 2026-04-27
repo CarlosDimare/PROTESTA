@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T09:29:02.620439-03:00",
+    "last_updated": "2026-04-27T12:15:41.125798-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9664,12 +9664,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-27",
+            "horario": "19:00",
+            "lugar": "Comodoro Rivadavia",
+            "quien": "Autoconvocados",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, infraestructura escolar y regularización de cargos",
+            "fuente": "https://www.laizquierdadiario.com/La-semana-arranca-con-paros-docentes-en-escuelas-y-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
             "horario": "No especificado",
             "lugar": "Todos los tesoros regionales del interior del País del BCRA",
             "quien": "Asociación Bancaria (Sergio Omar Palazzo)",
             "tipo_medida": "Paro",
             "motivo": "Defensa de 32 puestos de trabajo en tesoros regionales del BCRA y rechazo al cierre de dependencias ante falta de diálogo con autoridades nacionales",
             "fuente": "https://www.inforegion.com.ar/2026/04/27/funcionan-los-bancos-este-lunes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-28",
+            "horario": "08:00",
+            "lugar": "Banco Central de la República Argentina (BCRA)",
+            "quien": "La Bancaria",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y condiciones laborales",
+            "fuente": "https://elciudadanoweb.com/a-tener-en-cuenta-este-lunes-rige-un-paro-general-del-banco-nacion-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
@@ -9680,6 +9700,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Campaña de vacunación antigripal gratuita para afiliados",
             "fuente": "https://www.datagremial.com/informacion-general/aeda-suma-una-nueva-jornada-de-vacunacion-antigripal-gratuita-para-afiliados-sera-el-29-de-abril-en-la-sede-sindical-202641015310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-29",
+            "horario": "15:30",
+            "lugar": "Perú 160, Ciudad Autónoma de Buenos Aires",
+            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs y organizaciones sociales, sindicales y de derechos humanos",
+            "tipo_medida": "Audiencia Pública",
+            "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, detenidos tras manifestarse contra la reforma laboral, y denunciar la criminalización de la protesta",
+            "fuente": "https://www.anred.org/audiencia-publica-en-la-legislatura-portena-por-la-libertad-de-los-dos-presos-por-protestar-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
