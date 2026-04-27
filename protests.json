@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T16:15:09.159874-03:00",
+    "last_updated": "2026-04-27T18:01:31.829715-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9700,6 +9700,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Contra salarios de hambre y miseria del gobernador Torres, por paritarias libres",
             "fuente": "https://www.laizquierdadiario.com/28A-Paro-provincial-de-docentes-y-estatales-contra-el-ajuste-de-Torres-y-Milei, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-29",
+            "horario": "11:00",
+            "lugar": "Ministerio de Capital Humano, Avenida 9 de Julio",
+            "quien": "Intendentes de la provincia de Buenos Aires",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de fondos para políticas alimentarias por recorte nacional del programa MESA y déficit en el Servicio Alimentario Escolar",
+            "fuente": "https://www.infobae.com/politica/2026/04/27/en-medio-de-la-disputa-por-la-asistencia-alimentaria-intendentes-marcharan-al-ministerio-de-capital-humano-en-reclamo-de-fondos/"
         },
         {
             "es_evento_relevante": true,
