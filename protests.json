@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T08:07:29.925527-03:00",
+    "last_updated": "2026-04-27T09:29:02.620439-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9650,6 +9650,26 @@
             "tipo_medida": "Paro",
             "motivo": "Plan de lucha por reclamos laborales y educativos",
             "fuente": "https://infonoroeste.com.ar/nota/53596/universidades-la-marcha-federal-sera-el-12-de-mayo-y-se-intensifican-los-paros-y-el-plan-de-lucha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
+            "horario": "18:00",
+            "lugar": "Universidades nacionales",
+            "quien": "Comunidad universitaria",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.anred.org/nueva-semana-de-paro-docente-en-universidades-nacionales/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
+            "horario": "No especificado",
+            "lugar": "Todos los tesoros regionales del interior del País del BCRA",
+            "quien": "Asociación Bancaria (Sergio Omar Palazzo)",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa de 32 puestos de trabajo en tesoros regionales del BCRA y rechazo al cierre de dependencias ante falta de diálogo con autoridades nacionales",
+            "fuente": "https://www.inforegion.com.ar/2026/04/27/funcionan-los-bancos-este-lunes/"
         },
         {
             "es_evento_relevante": true,
