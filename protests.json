@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T14:23:31.807134-03:00",
+    "last_updated": "2026-04-27T16:15:09.159874-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9635,11 +9635,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-27",
             "horario": "00:00",
-            "lugar": "Delegaciones del Banco Central de la República Argentina (BCRA) en todo el país",
+            "lugar": "Tesorerías regionales del Banco Central de la República Argentina (BCRA) en todo el territorio nacional",
             "quien": "Asociación Bancaria",
             "tipo_medida": "Paro",
-            "motivo": "Conflicto por reestructuración de agencias regionales, amenaza de cierre de 12 tesoros regionales y pérdida de 32 puestos de trabajo, sumado a falta de diálogo con las autoridades del BCRA",
-            "fuente": "https://elciudadanoweb.com/paro-en-el-banco-central-que-se-sabe-sobre-la-medida-de-fuerza/, https://www.laizquierdadiario.com/El-proximo-lunes-habra-paro-en-21-dependencias-del-Banco-Central"
+            "motivo": "Protesta contra el cierre de 12 tesorerías regionales que amenaza 32 puestos de trabajo, exigiendo estabilidad laboral y diálogo con las autoridades del BCRA",
+            "fuente": "https://www.laizquierdadiario.com/Rige-el-paro-nacional-en-el-BCRA-ante-la-amenaza-de-despidos-de-trabajadores-bancarios, https://elciudadanoweb.com/paro-en-el-banco-central-que-se-sabe-sobre-la-medida-de-fuerza/, https://www.laizquierdadiario.com/El-proximo-lunes-habra-paro-en-21-dependencias-del-Banco-Central"
         },
         {
             "es_evento_relevante": true,
@@ -9693,6 +9693,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-04-28",
+            "horario": "18:00",
+            "lugar": "Rawson, Chubut (con movilizaciones en otras localidades)",
+            "quien": "Docentes autoconvocados con adhesión de estatales y trabajadores de la salud",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra salarios de hambre y miseria del gobernador Torres, por paritarias libres",
+            "fuente": "https://www.laizquierdadiario.com/28A-Paro-provincial-de-docentes-y-estatales-contra-el-ajuste-de-Torres-y-Milei, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-04-29",
             "horario": "13:00-17:00",
             "lugar": "Av. de Mayo 676, piso 8, Ciudad de Buenos Aires",
@@ -9710,6 +9720,16 @@
             "tipo_medida": "Audiencia Pública",
             "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, detenidos tras manifestarse contra la reforma laboral, y denunciar la criminalización de la protesta",
             "fuente": "https://www.anred.org/audiencia-publica-en-la-legislatura-portena-por-la-libertad-de-los-dos-presos-por-protestar-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-29",
+            "horario": "16:00",
+            "lugar": "Perú 160 (Legislatura de la Ciudad de Buenos Aires)",
+            "quien": "Frente de Izquierda Unidad - Legisladora Vanina Biasi, con Madres de Plaza de Mayo-Línea Fundadora y organismos de derechos humanos",
+            "tipo_medida": "Audiencia Pública",
+            "motivo": "Exigir la libertad inmediata y el desprocesamiento de Milton Tolomeo y Eneas Gallo, presos políticos por manifestarse contra la Reforma Laboral",
+            "fuente": "https://www.laizquierdadiario.com/Presos-politicos-audiencia-publica-en-la-Legislatura-portena-por-la-libertad-de-Gallo-y-Tolomeo"
         },
         {
             "es_evento_relevante": true,
