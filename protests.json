@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T12:15:41.125798-03:00",
+    "last_updated": "2026-04-27T14:23:31.807134-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9714,12 +9714,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
-            "horario": "15:00",
+            "horario": "12:00",
             "lugar": "Plaza de Mayo",
-            "quien": "CGT",
+            "quien": "FOECYT",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a políticas económicas del gobierno de Milei, defensa del sistema aduanero actual y homenaje a Papa Francisco",
-            "fuente": "https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+            "motivo": "Reclamo por reapertura de paritarias y mejoras salariales",
+            "fuente": "https://www.laizquierdadiario.com/Conflicto-en-el-Correo-Argentino-anunciaron-un-paro-de-48-horas-por-la-reapertura-de-paritarias, https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
@@ -9730,6 +9730,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protesta y conmemoración por el Día del Trabajador, en rechazo a la pérdida de poder adquisitivo, cierre de empresas, cepo salarial y el modelo económico del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/no-descartamos-nada-cristian-jeronimo-dejo-la-puerta-abierta-a-un-nuevo-paro-general-y-denuncio-una-perdida-del-poder-adquisitivo-del-casi-30--20264131890, https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra despidos y vaciamiento del SMN, y la puesta en riesgo de servicios vitales como alertas tempranas, vuelos, navegación y producción agropecuaria",
+            "fuente": "https://www.laizquierdadiario.com/Servicio-Meteorologico-las-burradas-de-Sturzenegger-vs-el-reclamo-de-las-y-los-trabajadores"
         },
         {
             "es_evento_relevante": true,
