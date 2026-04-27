@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T18:01:31.829715-03:00",
+    "last_updated": "2026-04-27T18:57:43.508387-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9890,6 +9890,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "No especificado",
+            "lugar": "Pyeongtaek, Corea del Sur",
+            "quien": "Sindicatos de Samsung Electronics",
+            "tipo_medida": "Huelga",
+            "motivo": "Exigen aumento del 7% en salarios, eliminación del límite a primas por productividad y distribución del 15% de beneficios operativos como bonificaciones",
+            "fuente": "https://www.laizquierdadiario.com/Corea-del-Sur-40-000-trabajadores-de-Samsung-amenazan-con-huelga-indefinida-para-exigir-mejores"
         },
         {
             "es_evento_relevante": true,
