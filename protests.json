@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-28T16:30:47.549615-03:00",
+    "last_updated": "2026-04-28T18:07:11.387577-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9670,6 +9670,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos salariales, infraestructura escolar y regularización de cargos",
             "fuente": "https://www.laizquierdadiario.com/La-semana-arranca-con-paros-docentes-en-escuelas-y-universidades"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-27",
+            "horario": "20:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires (CABA)",
+            "quien": "Colectivos ambientalistas y sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de los glaciares y rechazo a la reforma minera contaminante",
+            "fuente": "https://www.anred.org/segunda-marcha-de-antorchas-en-caba-en-defensa-de-los-glaciares/"
         },
         {
             "es_evento_relevante": true,
