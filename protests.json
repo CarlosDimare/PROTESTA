@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-27T20:51:46.900544-03:00",
+    "last_updated": "2026-04-27T23:25:54.047532-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9684,6 +9684,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-28",
+            "horario": "00:00",
+            "lugar": "Clínicas y sanatorios de Neuquén, Río Negro, La Pampa y Chubut",
+            "quien": "Entidades de prestadores de salud de las provincias patagónicas",
+            "tipo_medida": "Paro",
+            "motivo": "Suspensión de servicios no urgentes por retraso del 70% en aranceles de Pami desde diciembre",
+            "fuente": "https://elciudadanoweb.com/clinicas-de-cuatro-provincias-suspenden-servicios-al-pami-en-reclamo-de-suba-de-aranceles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-28",
             "horario": "08:00",
             "lugar": "Banco Central de la República Argentina (BCRA)",
             "quien": "La Bancaria",
@@ -9830,6 +9840,16 @@
             "tipo_medida": "Paro",
             "motivo": "Suspensión del Torneo Apertura por causa judicial contra autoridades de la AFA y disputa por irregularidades fiscales",
             "fuente": "https://elciudadanoweb.com/la-afa-ratifico-el-paro-de-este-fin-de-semana-la-fecha-9-del-torneo-apertura-se-disputara-el-3-de-mayo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-02",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Frente Sindical de Universidades Nacionales y Federación Universitaria Argentina (FUA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario, en particular la recomposición salarial y becas estudiantiles",
+            "fuente": "https://www.infobae.com/politica/2026/04/28/el-gobierno-intimo-a-los-rectores-a-que-garanticen-las-clases-tras-el-paro-docente-universitario-la-respuesta-de-la-uba/"
         },
         {
             "es_evento_relevante": true,
