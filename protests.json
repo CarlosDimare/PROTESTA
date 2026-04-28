@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-28T12:32:40.089497-03:00",
+    "last_updated": "2026-04-28T14:49:48.431756-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9860,6 +9860,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la educación superior, reclamo por incumplimiento de la Ley de Financiamiento Universitario y contra los ajustes presupuestarios y salariales",
             "fuente": "https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "15:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires (lugar exacto no especificado)",
+            "quien": "Sindicatos docentes universitarios (CONADU, CONADU Histórica, ADIUC, AGD-UBA, ADIUNT) y referentes de la Unión Cívica Radical",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la educación pública, reclamo por cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial",
+            "fuente": "https://www.infobae.com/politica/2026/04/28/yacobitti-cuestiono-la-intimacion-del-gobierno-al-paro-docente-desfinancian-y-desarticulan-el-sistema/"
         },
         {
             "es_evento_relevante": true,
