@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T05:14:21.907086-03:00",
+    "last_updated": "2026-04-29T07:56:23.807559-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9765,11 +9765,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "13:30",
-            "lugar": "Calle Córdoba y Moreno, Rosario",
+            "lugar": "Intersección de Córdoba y Moreno, Rosario",
             "quien": "CGT Rosario",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de derechos laborales y oposición a la reforma laboral, en vísperas del Día de los Trabajadores",
-            "fuente": "https://elciudadanoweb.com/la-cgt-rosario-marchara-este-jueves-en-la-ciudad-en-la-previa-del-dia-del-trabajador/"
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del empleo y derechos laborales, contra la precarización y el ajuste",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-rosario-convoca-a-marchar-el-30-de-abril-en-defensa-del-trabajo-y-para-proteger-el-futuro-del-pueblo-argentino/04/2026/, https://elciudadanoweb.com/la-cgt-rosario-marchara-este-jueves-en-la-ciudad-en-la-previa-del-dia-del-trabajador/"
         },
         {
             "es_evento_relevante": true,
