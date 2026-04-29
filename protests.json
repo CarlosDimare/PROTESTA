@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T12:16:55.736430-03:00",
+    "last_updated": "2026-04-29T14:27:40.206166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9870,6 +9870,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario, en particular la recomposición salarial y becas estudiantiles",
             "fuente": "https://www.infobae.com/politica/2026/04/28/el-gobierno-intimo-a-los-rectores-a-que-garanticen-las-clases-tras-el-paro-docente-universitario-la-respuesta-de-la-uba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-02",
+            "horario": "14:00",
+            "lugar": "Plaza San Martín (Rosario), con destino al Parque Nacional a la Bandera",
+            "quien": "Asamblea Cannábica Rosarina",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamación por una nueva ley de drogas, derogación de la ley 23737, regulación del cannabis y fin de la criminalización de usuarios y cultivadores",
+            "fuente": "https://elciudadanoweb.com/marcha-mundial-por-la-marihuana-en-rosario-por-una-nueva-ley-de-drogas/"
         },
         {
             "es_evento_relevante": true,
