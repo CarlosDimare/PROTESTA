@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T09:23:01.559017-03:00",
+    "last_updated": "2026-04-29T12:16:55.736430-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9825,11 +9825,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-01",
             "horario": "10:00",
-            "lugar": "Predio de la Unión Obrera Metalúrgica (UOM), partido de Pilar, Provincia de Buenos Aires",
-            "quien": "Frente de Sindicatos Unidos (FreSu)",
+            "lugar": "Pilar, Buenos Aires",
+            "quien": "Frente de Sindicatos Unidos (Fresu)",
             "tipo_medida": "Movilización",
-            "motivo": "Reclamos laborales y políticos contra políticas de Milei, incluyendo ajuste salarial, inflación y deuda familiar",
-            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-suma-musculo-politico-sindical-victor-santa-maria-se-incorpora-y-participara-del-plenario-del-1-de-mayo-202642215320, https://motoreconomico.com.ar/uom-ate-aceiteros-y-140-organizaciones-sindicales-mas-trabajan-un-programa-del-movimiento-obrero-para-disputar-el-rumbo-economico/, https://www.infobae.com/politica/2026/04/14/el-ala-dura-sindical-gana-poder-de-fuego-en-su-pelea-con-la-cgt-sumo-a-dirigentes-de-dos-gremios-clave/"
+            "motivo": "Reclamos por salario, condiciones laborales, jubilaciones dignas y contra ajuste",
+            "fuente": "https://www.conclusion.com.ar/gremiales/sindicatos-de-rosario-y-la-region-debaten-en-un-plenario-rumbo-a-la-conformacion-de-un-nuevo-frente-gremial/04/2026/, https://www.datagremial.com/informacion-general/el-fresu-suma-musculo-politico-sindical-victor-santa-maria-se-incorpora-y-participara-del-plenario-del-1-de-mayo-202642215320, https://motoreconomico.com.ar/uom-ate-aceiteros-y-140-organizaciones-sindicales-mas-trabajan-un-programa-del-movimiento-obrero-para-disputar-el-rumbo-economico/, https://www.infobae.com/politica/2026/04/14/el-ala-dura-sindical-gana-poder-de-fuego-en-su-pelea-con-la-cgt-sumo-a-dirigentes-de-dos-gremios-clave/"
         },
         {
             "es_evento_relevante": true,
