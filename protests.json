@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-28T20:52:05.201133-03:00",
+    "last_updated": "2026-04-28T23:35:37.599708-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9766,10 +9766,10 @@
             "fecha": "2026-04-30",
             "horario": "10:00",
             "lugar": "Plaza de Mayo",
-            "quien": "CGT con gremios afiliados (UPCN, UOCRA, Sanidad, Camioneros, Judiciales) y movimientos sociales de UTEP",
-            "tipo_medida": "Marcha",
-            "motivo": "Defender el empleo de calidad y rechazo a la reforma laboral vigente",
-            "fuente": "https://www.datagremial.com/escenario/semana-de-protestas-y-reclamos-calientan-los-motores-para-llegar-al-dia-del-trabajador-movilizados-20264281000, https://www.laizquierdadiario.com/Conflicto-en-el-Correo-Argentino-anunciaron-un-paro-de-48-horas-por-la-reapertura-de-paritarias, https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+            "quien": "CGT Azul y Blanca (liderada por Luis Barrionuevo) con sindicatos adherentes (UTA, La Fraternidad, Gastronómico, SOM, Carga y Descarga, Guardavidas, Viajantes, Tabaco, Perfumistas)",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del Día del Trabajador con consignas por paritarias libres, defensa de jubilados, protección del sistema de salud Obras Sociales, denuncia de fraudes en atención a discapacitados y trabajadores, y unidad sindical",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-barrionuevista-y-gremios-del-transporte-apoyaran-movilizacion-del-dia-del-trabajador-con-el-objetivo-de-profundizar-un-plan-de-lucha/, https://www.datagremial.com/escenario/semana-de-protestas-y-reclamos-calientan-los-motores-para-llegar-al-dia-del-trabajador-movilizados-20264281000, https://www.laizquierdadiario.com/Conflicto-en-el-Correo-Argentino-anunciaron-un-paro-de-48-horas-por-la-reapertura-de-paritarias, https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
@@ -9885,6 +9885,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "CIN, FUA y frentes gremiales",
+            "tipo_medida": "Marcha",
+            "motivo": "Presionar por la aplicación efectiva de la Ley de Financiamiento Universitario y la recuperación del salario docente",
+            "fuente": "https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "18:00",
             "lugar": "Universidad Nacional de La Plata (UNLP), Rectorado",
             "quien": "Movimiento universitario federal (estudiantes, docentes, nodocentes, graduados)",
             "tipo_medida": "Marcha federal",
@@ -9900,16 +9910,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitaria",
             "fuente": "https://www.infobae.com/educacion/2026/04/28/paro-universitario-nacional-no-habra-clases-esta-semana-y-crece-el-conflicto-ante-la-marcha-del-12-de-mayo/, https://www.datagremial.com/informacion-general/nueva-marcha-federal-universitaria-convocan-a-movilizar-el-12-de-mayo-en-todo-el-pais-202642116300, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-12",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Consejo Interuniversitario Nacional (CIN)",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/"
         },
         {
             "es_evento_relevante": true,
