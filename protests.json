@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T19:06:08.147372-03:00",
+    "last_updated": "2026-04-29T20:05:38.000337-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9760,6 +9760,16 @@
             "tipo_medida": "Audiencia Pública",
             "motivo": "Exigir la libertad inmediata y el desprocesamiento de Milton Tolomeo y Eneas Gallo, presos políticos por manifestarse contra la Reforma Laboral",
             "fuente": "https://www.laizquierdadiario.com/Presos-politicos-audiencia-publica-en-la-Legislatura-portena-por-la-libertad-de-Gallo-y-Tolomeo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-29",
+            "horario": "No especificado",
+            "lugar": "Sede del Ministerio de Capital Humano",
+            "quien": "Sindicato La Fraternidad",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Represalia por multas gubernamentales y defensa de derechos sindicales ante la imposición de conciliación obligatoria",
+            "fuente": "https://www.infobae.com/politica/2026/04/29/la-multimillonaria-multa-que-le-aplico-el-gobierno-a-la-fraternidad-por-haber-adherido-al-ultimo-paro-general-de-la-cgt/"
         },
         {
             "es_evento_relevante": true,
