@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T07:56:23.807559-03:00",
+    "last_updated": "2026-04-29T09:23:01.559017-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9875,6 +9875,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Gremios universitarios nucleados en el CIN",
+            "tipo_medida": "Marcha",
+            "motivo": "Actualización salarial y fondos para funcionamiento universitario",
+            "fuente": "https://www.infobae.com/politica/2026/04/29/marcha-universitaria-el-12-de-mayo-reclaman-actualizacion-salarial-y-mas-presupuesto/, https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo",
             "quien": "Consejo Interuniversitario Nacional (CIN) con gremios docentes y organizaciones estudiantiles",
             "tipo_medida": "Marcha",
@@ -9920,16 +9930,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitaria",
             "fuente": "https://www.infobae.com/educacion/2026/04/28/paro-universitario-nacional-no-habra-clases-esta-semana-y-crece-el-conflicto-ante-la-marcha-del-12-de-mayo/, https://www.datagremial.com/informacion-general/nueva-marcha-federal-universitaria-convocan-a-movilizar-el-12-de-mayo-en-todo-el-pais-202642116300, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-12",
-            "horario": "No especificado",
-            "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
-            "quien": "Consejo Interuniversitario Nacional (CIN), Frente Sindical de Universidades Nacionales y Federación Universitaria Argentina (FUA)",
-            "tipo_medida": "Marcha",
-            "motivo": "Financiamiento universitario, recomposición salarial de docentes/no docentes y becas estudiantiles",
-            "fuente": "https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/"
         },
         {
             "es_evento_relevante": true,
