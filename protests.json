@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-29T20:05:38.000337-03:00",
+    "last_updated": "2026-04-29T20:56:35.899125-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9890,6 +9890,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamos por políticas de drogas justas, despenalización y regulación del cannabis",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/la-asamblea-cannabica-de-rosario-convoco-a-una-nueva-movilizacion-en-el-marco-de-la-marcha-mundial-de-la-marihuana/04/2026/, https://elciudadanoweb.com/marcha-mundial-por-la-marihuana-en-rosario-por-una-nueva-ley-de-drogas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-03",
+            "horario": "15:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Asamblea Cannábica local de Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Derogación de la ley 23.737, despenalización y regulación del cannabis, fin de la criminalización de usuarios y cultivadores, defensa de derechos vinculados al consumo y uso terapéutico",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/marcha-de-la-marihuana-en-rosario-estamos-hartos-de-que-nos-maltraten-nos-ninguneen-y-no-se-respete-el-trabajo-que-hacemos/04/2026/"
         },
         {
             "es_evento_relevante": true,
