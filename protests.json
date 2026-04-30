@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T16:22:46.202945-03:00",
+    "last_updated": "2026-04-30T17:58:55.523946-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9940,6 +9940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derogación de la ley 23.737, despenalización y regulación del cannabis, fin de la criminalización de usuarios y cultivadores, defensa de derechos vinculados al consumo y uso terapéutico",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/marcha-de-la-marihuana-en-rosario-estamos-hartos-de-que-nos-maltraten-nos-ninguneen-y-no-se-respete-el-trabajo-que-hacemos/04/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-04",
+            "horario": "00:00",
+            "lugar": "Sede central de Correo Argentino (Buenos Aires) y sucursales en todo el país",
+            "quien": "Federación de Obreros y Empleados de Correos y Telecomunicaciones (FOECyT)",
+            "tipo_medida": "Paro",
+            "motivo": "Despidos masivos (400 telegramas enviados y 900 cesantías anunciadas) y reclamo de reapertura de paritarias salariales",
+            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-de-correo-argentino-permanecen-en-estado-de-alerta-y-asamblea-por-400-despidos-y-podrian-llegar-a-ser-900-20264301460"
         },
         {
             "es_evento_relevante": true,
