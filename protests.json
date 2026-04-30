@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T14:26:35.126363-03:00",
+    "last_updated": "2026-04-30T16:22:46.202945-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9804,22 +9804,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
-            "horario": "15:00",
+            "horario": "16:00",
             "lugar": "Plaza de Mayo",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la reforma laboral y políticas económicas del gobierno de Javier Milei",
-            "fuente": "https://www.infobae.com/politica/2026/04/30/marcha-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-la-movilizacion-por-el-dia-del-trabajador/, https://www.laizquierdadiario.com/La-CGT-marcha-a-Plaza-de-Mayo-haciendo-como-que-lucha-contra-la-reforma-laboral, https://www.inforegion.com.ar/2026/04/30/cgt-marcha-por-el-dia-del-trabajador-contra-milei-y-la-reforma-laboral/, https://www.infobae.com/politica/2026/04/30/la-cgt-marchara-hoy-a-la-plaza-de-mayo-por-el-dia-del-trabajador-entre-presiones-internas-y-la-amenaza-de-otro-paro-general/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/, https://www.datagremial.com/informacion-general/crosta-llamo-a-marchar-el-30-de-abril-sin-derechos-laborales-no-hay-libertad--20264291420, https://estadodealerta.com.ar/la-cgt-barrionuevista-y-gremios-del-transporte-apoyaran-movilizacion-del-dia-del-trabajador-con-el-objetivo-de-profundizar-un-plan-de-lucha/, https://www.datagremial.com/escenario/semana-de-protestas-y-reclamos-calientan-los-motores-para-llegar-al-dia-del-trabajador-movilizados-20264281000, https://www.laizquierdadiario.com/Conflicto-en-el-Correo-Argentino-anunciaron-un-paro-de-48-horas-por-la-reapertura-de-paritarias, https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-04-30",
-            "horario": "15:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Movilización",
-            "motivo": "Protesta y conmemoración por el Día del Trabajador, en rechazo a la pérdida de poder adquisitivo, cierre de empresas, cepo salarial y el modelo económico del gobierno",
-            "fuente": "https://www.datagremial.com/informacion-general/no-descartamos-nada-cristian-jeronimo-dejo-la-puerta-abierta-a-un-nuevo-paro-general-y-denuncio-una-perdida-del-poder-adquisitivo-del-casi-30--20264131890, https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
+            "motivo": "Críticas a la reforma laboral y al modelo económico del gobierno de Javier Milei, advirtiendo sobre retroceso social y deterioro de condiciones laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/en-vivo-en-la-previa-del-dia-del-trabajador-la-confederacion-general-del-trabajo-marcha-contra-la-reforma-laboral-y-madura-un-nuevo-paro-202643015200, https://estadodealerta.com.ar/en-medio-de-la-pulseada-judicial-y-las-protestas-sindicales-el-gobierno-multa-a-la-fraternidad-para-limitar-el-derecho-a-huelga/, https://www.infobae.com/politica/2026/04/30/marcha-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-la-movilizacion-por-el-dia-del-trabajador/, https://www.laizquierdadiario.com/La-CGT-marcha-a-Plaza-de-Mayo-haciendo-como-que-lucha-contra-la-reforma-laboral, https://www.inforegion.com.ar/2026/04/30/cgt-marcha-por-el-dia-del-trabajador-contra-milei-y-la-reforma-laboral/, https://www.infobae.com/politica/2026/04/30/la-cgt-marchara-hoy-a-la-plaza-de-mayo-por-el-dia-del-trabajador-entre-presiones-internas-y-la-amenaza-de-otro-paro-general/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/, https://www.datagremial.com/informacion-general/crosta-llamo-a-marchar-el-30-de-abril-sin-derechos-laborales-no-hay-libertad--20264291420, https://estadodealerta.com.ar/la-cgt-barrionuevista-y-gremios-del-transporte-apoyaran-movilizacion-del-dia-del-trabajador-con-el-objetivo-de-profundizar-un-plan-de-lucha/, https://www.datagremial.com/escenario/semana-de-protestas-y-reclamos-calientan-los-motores-para-llegar-al-dia-del-trabajador-movilizados-20264281000, https://www.laizquierdadiario.com/Conflicto-en-el-Correo-Argentino-anunciaron-un-paro-de-48-horas-por-la-reapertura-de-paritarias, https://elciudadanoweb.com/contra-la-reforma-laboral-la-cgt-ratifico-la-marcha-del-30-de-abril-con-fuertes-criticas-al-gobierno-de-milei/, https://www.infobae.com/politica/2026/04/26/desde-la-cgt-criticaron-el-fallo-a-favor-de-la-reforma-laboral-y-no-descartan-llevar-el-caso-hasta-la-corte/, https://estadodealerta.com.ar/los-lamentos-de-milei-en-israel-y-la-crisis-social-en-argentina-cristian-jeronimo-redobla-la-apuesta-para-la-movilizacion-del-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/15/las-organizaciones-sociales-anunciaron-un-plan-de-lucha-contra-el-gobierno-que-incluye-piquetes-y-protestas/, https://www.infobae.com/politica/2026/04/14/la-inesperada-complicacion-que-encontro-la-cgt-para-avanzar-con-la-marcha-por-el-dia-del-trabajador/, https://estadodealerta.com.ar/cgt-paritarias-libres-salud-desempleo-poder-adquisitivo-jubilados-y-flexibilizacion-laboral-impulsan-movilizacion-del-dia-del-trabajador-con-bendicion-del-papa-francisco/, https://elciudadanoweb.com/dia-del-trabajador-la-cgt-convoca-a-marchar-a-plaza-de-mayo/, https://elciudadanoweb.com/la-cgt-confirmo-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/09/la-cgt-anuncio-una-movilizacion-a-plaza-de-mayo-para-el-30-de-abril/, https://elciudadanoweb.com/la-cgt-reune-a-su-consejo-directivo-y-planea-una-marcha-para-el-dia-del-trabajador/, https://www.infobae.com/politica/2026/04/07/la-cgt-busca-el-apoyo-de-la-iglesia-para-una-movilizacion-a-plaza-de-mayo-por-el-dia-del-trabajador/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html, https://www.datagremial.com/informacion-general/no-descartamos-nada-cristian-jeronimo-dejo-la-puerta-abierta-a-un-nuevo-paro-general-y-denuncio-una-perdida-del-poder-adquisitivo-del-casi-30--20264131890, https://www.datagremial.com/informacion-general/la-cgt-pone-el-techo-a-las-paritarias-en-el-centro-de-su-reclamo-para-el-dia-del-trabajador--20264109140, https://www.inforegion.com.ar/2026/04/09/la-cgt-anuncio-una-marcha-en-contra-del-gobierno-a-plaza-de-mayo-el-30-de-abril/"
         },
         {
             "es_evento_relevante": true,
@@ -9850,6 +9840,16 @@
             "tipo_medida": "Movilización con paro y boicot",
             "motivo": "Protesta contra ICE y sus consecuencias en comunidades migrantes, con demandas de expulsión total de agentes y atención a afectados",
             "fuente": "https://www.laizquierdadiario.com/La-Asamblea-de-Trabajadores-de-Minneapolis-es-un-ejemplo-para-organizar-la-lucha-contra-ICE"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento obrero y sindicatos combativos",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra persecución antisindical, multas a La Fraternidad y defensa de derechos laborales",
+            "fuente": "https://www.laizquierdadiario.com/Multa-record-a-La-Fraternidad-el-Gobierno-busca-disciplinar-al-sindicalismo-con-sanciones"
         },
         {
             "es_evento_relevante": true,
@@ -9886,10 +9886,10 @@
             "fecha": "2026-05-01",
             "horario": "La hora de inicio del evento de protesta es **12:00**.",
             "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Acto",
-            "motivo": "Defensa de derechos laborales contra la reforma laboral y la política de paritarias del gobierno",
-            "fuente": "https://estadodealerta.com.ar/flexibilizacion-laboral-empresarios-y-libertarios-recargados-ante-la-ofensiva-sindical-con-los-jueces-jugando-su-partido/, https://www.datagremial.com/informacion-general/alerta-en-la-uom-furlan-denuncio-la-perdida-de-28-mil-empleos-metalurgicos-y-anticipo-un-plan-de-lucha-con-paros-202641519350, https://estadodealerta.com.ar/docentes-y-no-docentes-con-otra-semana-de-paro-mientras-el-gobierno-ve-como-se-cumple-su-objetivo-de-una-universidad-cerrada/, https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
+            "quien": "Atilra (Asociación de Trabajadores de la Industria Lechera)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la asamblea de SanCor y definición de acciones frente a la quiebra para resguardar puestos de trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-lecheros-deslegitiman-la-asamblea-de-sancor-y-definen-medidas-ante-la-quiebra/04/2026/, https://estadodealerta.com.ar/flexibilizacion-laboral-empresarios-y-libertarios-recargados-ante-la-ofensiva-sindical-con-los-jueces-jugando-su-partido/, https://www.datagremial.com/informacion-general/alerta-en-la-uom-furlan-denuncio-la-perdida-de-28-mil-empleos-metalurgicos-y-anticipo-un-plan-de-lucha-con-paros-202641519350, https://estadodealerta.com.ar/docentes-y-no-docentes-con-otra-semana-de-paro-mientras-el-gobierno-ve-como-se-cumple-su-objetivo-de-una-universidad-cerrada/, https://estadodealerta.com.ar/la-cgt-advierte-que-las-obras-sociales-sindicales-atraviesan-una-crisis-casi-terminal/, https://www.datagremial.com/informacion-general/tras-el-fallo-que-freno-la-reforma-laboral-la-cgt-prepara-una-cumbre-clave-para-ordenar-su-estrategia-y-evaluar-una-movilizacion-por-el-1-de-mayo-20264616290, https://www.infobae.com/politica/2026/04/03/el-sindicalismo-se-reacomoda-tras-el-freno-de-la-justicia-a-la-reforma-laboral-cual-es-la-nueva-estrategia-de-la-cgt/, https://cronicasindical.com.ar/2026/02/17/fresu-frente-sindicatos-unidos-de-cgtra-y-las-cta-al-paro-nacional-con-movilizacion-al-congreso-el-19-2/"
         },
         {
             "es_evento_relevante": true,
