@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T05:18:46.495770-03:00",
+    "last_updated": "2026-04-30T07:58:05.667009-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9806,10 +9806,10 @@
             "fecha": "2026-04-30",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
-            "tipo_medida": "Paro",
-            "motivo": "Protesta contra despidos y vaciamiento del SMN, y la puesta en riesgo de servicios vitales como alertas tempranas, vuelos, navegación y producción agropecuaria",
-            "fuente": "https://www.laizquierdadiario.com/Servicio-Meteorologico-las-burradas-de-Sturzenegger-vs-el-reclamo-de-las-y-los-trabajadores"
+            "quien": "CGT Rosario (a través de Alberto Fantini y sector cárnico)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma laboral 27.802 y defensa de derechos laborales, convocando a recuperar la calle y la acción territorial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/historico-gremialista-rosarino-advierte-por-la-perdida-de-derechos-y-reclama-mas-movilizacion/04/2026/, https://www.laizquierdadiario.com/Servicio-Meteorologico-las-burradas-de-Sturzenegger-vs-el-reclamo-de-las-y-los-trabajadores"
         },
         {
             "es_evento_relevante": true,
