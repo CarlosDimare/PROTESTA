@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T19:52:40.547047-03:00",
+    "last_updated": "2026-04-30T20:53:55.248102-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9815,6 +9815,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
             "horario": "No especificado",
+            "lugar": "Esquina de Corrientes y Córdoba, Rosario",
+            "quien": "Federación Regional de Asociaciones de Personas Adultas Mayores (Frapam), Foro de la Tercera Edad y Defensoría del Adulto Mayor de Rosario (Depem)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por derechos de adultos mayores y participación activa en la redacción de la nueva carta orgánica de Rosario",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/adultos-mayores-siguen-visibilizando-sus-reclamos-en-cordoba-y-corrientes/04/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "CGT Rosario (a través de Alberto Fantini y sector cárnico)",
             "tipo_medida": "Movilización",
@@ -10057,9 +10067,9 @@
             "horario": "No especificado",
             "lugar": "Principales ciudades del país",
             "quien": "CTA Autónoma y CTA de los Trabajadores",
-            "tipo_medida": "Paro con movilizaciones",
-            "motivo": "Contra las políticas del gobierno de Javier Milei, la precarización laboral, reforma laboral y pérdida de soberanía nacional",
-            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo a políticas de precarización laboral, reforma laboral, quita de soberanía y medidas del gobierno de Milei",
+            "fuente": "https://motoreconomico.com.ar/las-cta-presionan-para-escalar-las-protestas-y-convocan-a-una-jornada-nacional-de-lucha-para-el-22-de-mayo/, https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
         },
         {
             "es_evento_relevante": true,
