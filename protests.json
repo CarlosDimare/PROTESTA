@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-30T07:58:05.667009-03:00",
+    "last_updated": "2026-04-30T09:19:44.821197-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9774,6 +9774,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-04-30",
+            "horario": "05:00-12:00",
+            "lugar": "Servicio Meteorológico Nacional (SMN)",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Protesta por recortes de personal en el organismo",
+            "fuente": "https://www.infobae.com/economia/2026/04/30/el-servicio-meteorologico-cambio-el-paro-por-una-jornada-de-protesta-y-los-vuelos-funcionaran-con-normalidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "13:00",
+            "lugar": "plaza San Martín frente a la sede de Gobernación, Rosario",
+            "quien": "CGT local",
+            "tipo_medida": "Movilización",
+            "motivo": "Preparación y conmemoración del Día del Trabajador",
+            "fuente": "https://elciudadanoweb.com/gremios-de-rosario-marchan-este-30-de-abril-en-reclamo-de-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
             "horario": "13:30",
             "lugar": "Intersección de Córdoba y Moreno, Rosario",
             "quien": "CGT Rosario",
@@ -9840,6 +9860,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos por salario, condiciones laborales, jubilaciones dignas y contra ajuste",
             "fuente": "https://www.conclusion.com.ar/gremiales/sindicatos-de-rosario-y-la-region-debaten-en-un-plenario-rumbo-a-la-conformacion-de-un-nuevo-frente-gremial/04/2026/, https://www.datagremial.com/informacion-general/el-fresu-suma-musculo-politico-sindical-victor-santa-maria-se-incorpora-y-participara-del-plenario-del-1-de-mayo-202642215320, https://motoreconomico.com.ar/uom-ate-aceiteros-y-140-organizaciones-sindicales-mas-trabajan-un-programa-del-movimiento-obrero-para-disputar-el-rumbo-economico/, https://www.infobae.com/politica/2026/04/14/el-ala-dura-sindical-gana-poder-de-fuego-en-su-pelea-con-la-cgt-sumo-a-dirigentes-de-dos-gremios-clave/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-01",
+            "horario": "13:30",
+            "lugar": "Córdoba y Moreno, Rosario",
+            "quien": "CGT seccional Rosario e Intersindical de Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del empleo, salarios dignos y contra la Reforma Laboral",
+            "fuente": "https://www.conclusion.com.ar/gremiales/en-visperas-del-dia-del-trabajador-gremios-rosarinos-concentraran-en-la-plaza-san-martin/04/2026/"
         },
         {
             "es_evento_relevante": true,
