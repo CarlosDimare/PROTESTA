@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-01T18:52:31.634239-03:00",
+    "last_updated": "2026-05-01T19:48:44.943394-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9790,6 +9790,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Preparación y conmemoración del Día del Trabajador",
             "fuente": "https://elciudadanoweb.com/gremios-de-rosario-marchan-este-30-de-abril-en-reclamo-de-mejoras-salariales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-04-30",
+            "horario": "13:30",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "CGT local, Intersindical de Rosario, CTA de los Trabajadores y COAD (UNR)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a políticas económicas y sociales del Gobierno de Javier Milei, incluyendo reforma laboral, desempleo y caída del poder adquisitivo",
+            "fuente": "https://elciudadanoweb.com/con-la-cgt-local-y-la-intersindical-rosario-tambien-mostro-su-rechazo-a-las-politicas-del-gobierno-nacional/"
         },
         {
             "es_evento_relevante": true,
