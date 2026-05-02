@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-02T10:01:46.382638-03:00",
+    "last_updated": "2026-05-02T11:16:43.593481-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9990,6 +9990,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por actualización salarial y convenio colectivo en el sector siderúrgico. Exigen recomposición salarial ante el desfasaje con la inflación y la falta de acuerdo paritario por 22 meses.",
             "fuente": "https://www.conclusion.com.ar/gremiales/metalurgicos-anuncian-un-paro-por-tiempo-indeterminado-en-acindar-si-no-tienen-respuestas-antes-del-lunes/04/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-07",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Capital Humano",
+            "quien": "Intendentes bonaerenses, vicegobernadora Verónica Magario y ministro Andrés Larroque",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por fondos adeudados del gobierno nacional para el servicio alimentario",
+            "fuente": "https://infonoroeste.com.ar/nota/53687/con-presencia-de-la-cuarta-intendentes-llevaron-a-nacion-su-reclamo-por-fondos-para-alimentos/"
         },
         {
             "es_evento_relevante": true,
