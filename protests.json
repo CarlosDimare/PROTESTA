@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-02T12:49:29.204985-03:00",
+    "last_updated": "2026-05-02T13:52:04.459928-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -9960,6 +9960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de derechos vinculados al cannabis: derogación de la ley 23.737, despenalización, regulación del Reprocann y fin de la criminalización de usuarios y cultivadores",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/marcha-de-la-marihuana-en-rosario-estamos-hartos-de-que-nos-maltraten-nos-ninguneen-y-no-se-respete-el-trabajo-que-hacemos/05/2026/, https://elciudadanoweb.com/por-una-nueva-ley-de-drogas-rosario-tendra-este-sabado-otra-edicion-de-la-marcha-mundial-de-la-marihuana/, https://www.conclusion.com.ar/la-ciudad/la-asamblea-cannabica-de-rosario-convoco-a-una-nueva-movilizacion-en-el-marco-de-la-marcha-mundial-de-la-marihuana/04/2026/, https://elciudadanoweb.com/marcha-mundial-por-la-marihuana-en-rosario-por-una-nueva-ley-de-drogas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-03",
+            "horario": "14:00",
+            "lugar": "Plaza San Martín",
+            "quien": "Asamblea Cannábica Rosarina",
+            "tipo_medida": "Marcha",
+            "motivo": "Nueva Ley de Drogas, derogación de Ley 23.737, despenalización y regulación del cannabis",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/con-movilizacion-y-festival-rosario-se-suma-a-la-marcha-mundial-de-la-marihuana-horario-recorrido-y-grilla-del-evento/05/2026/"
         },
         {
             "es_evento_relevante": true,
