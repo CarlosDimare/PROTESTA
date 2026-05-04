@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-04T12:17:23.256743-03:00",
+    "last_updated": "2026-05-04T14:36:00.867545-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10035,21 +10035,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Gremios universitarios nucleados en el CIN",
+            "lugar": "Marcha federal (todo el país)",
+            "quien": "CIN (Consejo Interuniversitario Nacional) con gremios docentes y nodocentes",
             "tipo_medida": "Marcha",
-            "motivo": "Actualización salarial y fondos para funcionamiento universitario",
-            "fuente": "https://www.infobae.com/politica/2026/04/29/marcha-universitaria-el-12-de-mayo-reclaman-actualizacion-salarial-y-mas-presupuesto/, https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/"
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y recomposición salarial",
+            "fuente": "https://www.datagremial.com/informacion-general/con-la-nueva-marcha-en-el-horizonte-lanzan-campana-virtual-por-la-ley-de-financiamiento-docente-2026549140, https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "Consejo Interuniversitario Nacional (CIN) con gremios docentes y organizaciones estudiantiles",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Gremios universitarios nucleados en el CIN",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la educación superior, reclamo por incumplimiento de la Ley de Financiamiento Universitario y contra los ajustes presupuestarios y salariales",
-            "fuente": "https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Actualización salarial y fondos para funcionamiento universitario",
+            "fuente": "https://www.infobae.com/politica/2026/04/29/marcha-universitaria-el-12-de-mayo-reclaman-actualizacion-salarial-y-mas-presupuesto/, https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/"
         },
         {
             "es_evento_relevante": true,
