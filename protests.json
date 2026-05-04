@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-04T14:36:00.867545-03:00",
+    "last_updated": "2026-05-04T16:32:22.275443-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10060,6 +10060,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la educación pública, reclamo por cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial",
             "fuente": "https://www.infobae.com/politica/2026/04/28/yacobitti-cuestiono-la-intimacion-del-gobierno-al-paro-docente-desfinancian-y-desarticulan-el-sistema/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Comunidad universitaria (estudiantes, docentes, nodocentes)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de educación pública y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/rosario-se-suma-a-la-marcha-federal-universitaria-en-defensa-de-la-educacion-publica/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "18:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Consejo Interuniversitario Nacional (CIN) con participación de rectores, docentes, nodocentes y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario: recomposición salarial del 50% y transferencia inmediata de fondos para becas y funcionamiento",
+            "fuente": "https://estadodealerta.com.ar/universidades-en-pie-de-lucha-contra-milei-paro-marcha-federal-y-batalla-judicial-por-el-financiamiento/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
