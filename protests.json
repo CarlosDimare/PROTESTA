@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-04T18:09:34.649650-03:00",
+    "last_updated": "2026-05-04T20:00:08.780970-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10030,6 +10030,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por fondos adeudados del gobierno nacional para el servicio alimentario",
             "fuente": "https://infonoroeste.com.ar/nota/53687/con-presencia-de-la-cuarta-intendentes-llevaron-a-nacion-su-reclamo-por-fondos-para-alimentos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
+            "horario": "09:00",
+            "lugar": "Fábrica ceramista",
+            "quien": "Sindicato ceramista",
+            "tipo_medida": "Elección sindical",
+            "motivo": "Reclamo por reinstalación de trabajadores despedidos y denuncia de persecución sindical para impedir la organización gremial",
+            "fuente": "https://www.laizquierdadiario.com/Fanelli-Trabajadores-despedidos-inician-una-medida-de-amparo-sindical-para-conseguir-su-reinstalacion"
         },
         {
             "es_evento_relevante": true,
