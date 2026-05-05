@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05T19:57:20.490119-03:00",
+    "last_updated": "2026-05-05T20:47:41.249109-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10034,6 +10034,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-06",
+            "horario": "08:30",
+            "lugar": "Hospital de Clínicas 'José de San Martín' y sedencias de la UBA",
+            "quien": "Directores médicos de la red de hospitales universitarios de la UBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el financiamiento adeudado por parte del Gobierno nacional para evitar el colapso operativo de los hospitales universitarios",
+            "fuente": "https://www.infobae.com/politica/2026/05/05/el-gobierno-aseguro-que-la-uba-pide-una-exigencia-extraordinaria-tras-el-reclamo-de-los-hospitales-universitarios/, https://www.infobae.com/politica/2026/05/04/la-uba-alerto-que-los-hospitales-universitarios-podrian-dejar-de-funcionar-por-falta-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
             "horario": "10:00",
             "lugar": "Puente Rosario Victoria - Extremo en Entre Ríos",
             "quien": "El Ciudadano",
@@ -10050,6 +10060,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Denunciar criminalización de protesta sindical y defender derechos laborales frente a causa judicial por acciones gremiales",
             "fuente": "https://www.anred.org/el-sindicato-del-subte-denuncia-el-intento-de-sbase-de-criminalizar-la-protesta-sindical/, https://estadodealerta.com.ar/criminalizacion-de-la-protesta-gremial-denuncian-a-170-trabajadores-del-subte-por-asociacion-ilicita/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "20:00",
+            "lugar": "Ruta 151 - Río Negro",
+            "quien": "UnTER y docentes de Río Negro",
+            "tipo_medida": "Marcha de antorchas",
+            "motivo": "Repudiar la represión y exigir salarios dignas y condiciones laborales",
+            "fuente": "https://www.laizquierdadiario.com/Gran-jornada-de-lucha-y-movilizacion-de-UnTER-en-Rio-Negro"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "No especificado",
+            "lugar": "Fiske Menuco",
+            "quien": "UnTER",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por salarios por debajo de la línea de pobreza, falta de convocatoria a paritarias, deterioro de condiciones edilicias y recortes de cargos, exigiendo aumento salarial significativo y rechazo a políticas de ajuste del gobierno provincial",
+            "fuente": "https://www.anred.org/rio-negro-paro-docente-de-48hs-inicio-las-protestass-con-represion/"
         },
         {
             "es_evento_relevante": true,
