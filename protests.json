@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05T09:03:00.185314-03:00",
+    "last_updated": "2026-05-05T12:56:17.612915-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10023,6 +10023,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "10:00",
+            "lugar": "Carlos Calvo 2365, San Cristóbal, Buenos Aires",
+            "quien": "AGTSyP / Metrodelegados",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciar criminalización de protesta sindical y defender derechos laborales frente a causa judicial por acciones gremiales",
+            "fuente": "https://www.anred.org/el-sindicato-del-subte-denuncia-el-intento-de-sbase-de-criminalizar-la-protesta-sindical/, https://estadodealerta.com.ar/criminalizacion-de-la-protesta-gremial-denuncian-a-170-trabajadores-del-subte-por-asociacion-ilicita/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-05-07",
             "horario": "No especificado",
             "lugar": "Ministerio de Capital Humano",
@@ -10140,6 +10150,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación, 9 de Julio 1925, Ciudad Autónoma de Buenos Aires",
+            "quien": "Foro por el Derecho a la Salud, Federación Sindical Nacional de Trabajadores de la Salud (FESINTRAS), CICOP",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del sistema público de salud y acceso universal ante recortes y deterioro bajo la gestión de Javier Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/05/05/convocan-a-una-marcha-federal-de-la-salud/"
         },
         {
             "es_evento_relevante": true,
