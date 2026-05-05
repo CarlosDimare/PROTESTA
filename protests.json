@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05T16:17:17.451890-03:00",
+    "last_updated": "2026-05-05T18:03:09.175996-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10020,6 +10020,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Recomposición salarial y oposición al ajuste educativo de Ignacio Torres",
             "fuente": "https://www.laizquierdadiario.com/Docentes-autoconvocados-marcharon-en-Trelew-y-Puerto-Madryn, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-05",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "FOECyT (Federación de Obreros y Empleados de Correos y Telecomunicaciones)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo por despidos masivos y defensa de puestos de trabajo, con conflicto salarial pendiente",
+            "fuente": "https://www.datagremial.com/informacion-general/principio-de-acuerdo-en-correo-argentino-reincorporan-a-unos-350-despedidos-y-se-levanta-el-paro-nacional-20265414510"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "10:00",
+            "lugar": "Puente Rosario Victoria - Extremo en Entre Ríos",
+            "quien": "El Ciudadano",
+            "tipo_medida": "Corte",
+            "motivo": "Obras de instalación de pórticos metálicos, balanzas dinámicas y control de altura en ruta nacional N° 174",
+            "fuente": "https://elciudadanoweb.com/habra-dos-cortes-de-transito-en-el-puente-rosario-victoria-por-obras-este-martes-cuando-son/"
         },
         {
             "es_evento_relevante": true,
