@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06T16:31:48.677227-03:00",
+    "last_updated": "2026-05-06T18:10:58.524507-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10084,6 +10084,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-06",
+            "horario": "12:00",
+            "lugar": "No especificado (lugar simbólico relacionado con el conflicto)",
+            "quien": "Universidad de Buenos Aires (UBA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la transferencia de fondos destinados a hospitales universitarios, tras el incumplimiento del Poder Ejecutivo",
+            "fuente": "https://www.infobae.com/politica/2026/05/06/la-uba-insistio-con-su-reclamo-por-la-falta-de-fondos-para-los-hospitales-universitarios-y-apunto-contra-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
             "horario": "20:00",
             "lugar": "Ruta 151 - Río Negro",
             "quien": "UnTER y docentes de Río Negro",
@@ -10120,6 +10130,16 @@
             "tipo_medida": "Elección sindical",
             "motivo": "Reclamo por reinstalación de trabajadores despedidos y denuncia de persecución sindical para impedir la organización gremial",
             "fuente": "https://www.laizquierdadiario.com/Fanelli-Trabajadores-despedidos-inician-una-medida-de-amparo-sindical-para-conseguir-su-reinstalacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
+            "horario": "No especificado",
+            "lugar": "Bienal de Venecia, pabellón de Israel",
+            "quien": "Art Not Genocide Alliance (ANGA) y sindicatos italianos",
+            "tipo_medida": "Huelga",
+            "motivo": "Denunciar el 'artwashing' de Israel y exigir su exclusión de la Bienal de Venecia por la masacre en Gaza",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-la-cultura-llaman-a-huelga-en-la-Bienal-de-Venecia-contra-el-Pabellon-del-Genocidio"
         },
         {
             "es_evento_relevante": true,
@@ -10175,21 +10195,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Consejo Interuniversitario Nacional (CIN) con participación de rectores, docentes, nodocentes y organizaciones sociales",
+            "lugar": "No especificado",
+            "quien": "Federación Universitaria Argentina (FUA) y federaciones/centros de estudiantes",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario: recomposición salarial del 50% y transferencia inmediata de fondos para becas y funcionamiento",
-            "fuente": "https://estadodealerta.com.ar/universidades-en-pie-de-lucha-contra-milei-paro-marcha-federal-y-batalla-judicial-por-el-financiamiento/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Exigir cumplimiento de la ley de financiamiento universitaria, contra la precarización laboral y la afectación de derechos estudiantiles",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
-            "lugar": "No especificado",
-            "quien": "Docentes y no docentes de la UBA (CONADU Histórica, CONADU, AGD UBA)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por la aplicación de la Ley de Financiamiento Universitario y frente a la situación salarial y presupuestaria asfixiante, incluyendo pérdida de poder adquisitivo y ataques del gobierno al derecho de huelga",
-            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "lugar": "Congreso Nacional",
+            "quien": "Consejo Interuniversitario Nacional (CIN) con participación de rectores, docentes, nodocentes y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario: recomposición salarial del 50% y transferencia inmediata de fondos para becas y funcionamiento",
+            "fuente": "https://estadodealerta.com.ar/universidades-en-pie-de-lucha-contra-milei-paro-marcha-federal-y-batalla-judicial-por-el-financiamiento/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
