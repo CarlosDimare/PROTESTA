@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06T18:10:58.524507-03:00",
+    "last_updated": "2026-05-06T19:50:23.789287-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10194,6 +10194,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
+            "horario": "17:00",
+            "lugar": "Plaza de Mayo, Capital Federal",
+            "quien": "Consejo Interuniversitario Nacional (CIN), rectores, Federación Universitaria Argentina (FUA) y Frente Sindical de las Universidades Nacionales",
+            "tipo_medida": "Marcha Federal",
+            "motivo": "Defensa del sistema universitario público argentino, la ciencia y la democracia ante recortes presupuestarios (45.6% de caída en transferencias), desfinanciamiento, retrasos salariales y problemas de actualización de programas de asistencia estudiantil",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-consejo-interuniversitario-nacional-convoco-a-la-marcha-federal-universitaria-del-12-de-mayo-hay-que-defender-esto-que-nos-hace-distintos/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
             "horario": "18:00",
             "lugar": "No especificado",
             "quien": "Federación Universitaria Argentina (FUA) y federaciones/centros de estudiantes",
@@ -10230,6 +10240,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitaria",
             "fuente": "https://www.infobae.com/educacion/2026/04/28/paro-universitario-nacional-no-habra-clases-esta-semana-y-crece-el-conflicto-ante-la-marcha-del-12-de-mayo/, https://www.datagremial.com/informacion-general/nueva-marcha-federal-universitaria-convocan-a-movilizar-el-12-de-mayo-en-todo-el-pais-202642116300, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "No especificado",
+            "lugar": "No especificado (convocada a nivel nacional)",
+            "quien": "FEDUN (Federación de Docentes de las Universidades) y FATUN",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por salarios dignos y cumplimiento de Ley de Financiamiento Universitario, en contraposición a privilegios del poder ejecutivo",
+            "fuente": "https://www.datagremial.com/informacion-general/en-pleno-escandalo-de-adorni-la-fedun-convoca-a-la-marcha-universitaria-bajo-la-consigna-mas-salarios-menos-cascadas--20265616520"
         },
         {
             "es_evento_relevante": true,
