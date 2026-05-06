@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06T08:09:51.233669-03:00",
+    "last_updated": "2026-05-06T10:05:27.099742-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10030,6 +10030,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo por despidos masivos y defensa de puestos de trabajo, con conflicto salarial pendiente",
             "fuente": "https://www.datagremial.com/informacion-general/principio-de-acuerdo-en-correo-argentino-reincorporan-a-unos-350-despedidos-y-se-levanta-el-paro-nacional-20265414510"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "00:00",
+            "lugar": "Santa Cruz",
+            "quien": "ADOSAC",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de paritarias, aumento salarial y fin de descuentos",
+            "fuente": "https://www.laizquierdadiario.com/ADOSAC-y-ATE-paralizan-la-provincia-en-reclamo-de-paritarias-y-aumentos-salariales-en-Santa-Cruz"
         },
         {
             "es_evento_relevante": true,
