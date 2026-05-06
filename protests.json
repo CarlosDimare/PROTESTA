@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06T19:50:23.789287-03:00",
+    "last_updated": "2026-05-06T20:50:44.436828-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10300,6 +10300,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Rechazo a políticas de precarización laboral, reforma laboral, quita de soberanía y medidas del gobierno de Milei",
             "fuente": "https://motoreconomico.com.ar/las-cta-presionan-para-escalar-las-protestas-y-convocan-a-una-jornada-nacional-de-lucha-para-el-22-de-mayo/, https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-31",
+            "horario": "No especificado",
+            "lugar": "SoFi Stadium, Los Ángeles, California",
+            "quien": "Unite Here Local 11 y más de 100 organizaciones de derechos humanos",
+            "tipo_medida": "Huelga",
+            "motivo": "Exigir la limitación de la presencia de agentes federales de inmigración (ICE) en las sedes de la Copa Mundial 2026",
+            "fuente": "https://www.conclusion.com.ar/internacionales/mundial-2026-en-alerta-amenaza-de-huelga-en-uno-de-los-estadios-por-presencia-de-control-de-inmigracion/05/2026/"
         },
         {
             "es_evento_relevante": true,
