@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-05T20:47:41.249109-03:00",
+    "last_updated": "2026-05-05T23:17:56.443387-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10060,6 +10060,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denunciar criminalización de protesta sindical y defender derechos laborales frente a causa judicial por acciones gremiales",
             "fuente": "https://www.anred.org/el-sindicato-del-subte-denuncia-el-intento-de-sbase-de-criminalizar-la-protesta-sindical/, https://estadodealerta.com.ar/criminalizacion-de-la-protesta-gremial-denuncian-a-170-trabajadores-del-subte-por-asociacion-ilicita/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-06",
+            "horario": "11:00",
+            "lugar": "PAMI Policlínico II Rosario, barrio norte",
+            "quien": "Asociación de Trabajadores del Estado (ATE) Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Crisis en PAMI, vaciamiento institucional, reclamo salarial, pase a planta permanente, situación de jubilados y reincorporación de trabajadora despedida",
+            "fuente": "https://www.conclusion.com.ar/gremiales/ate-rosario-se-moviliza-al-pami-ii-por-reclamo-salarial-despidos-y-atencion-a-jubilados/05/2026/"
         },
         {
             "es_evento_relevante": true,
