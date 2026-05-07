@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T18:58:36.803141-03:00",
+    "last_updated": "2026-05-07T20:02:23.293383-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10185,6 +10185,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Docentes, estudiantes, no docentes y sectores sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la Universidad pública y gratuita, reclamo por aplicación de la Ley de Financiamiento Universitario y pago de salarios atrasados",
+            "fuente": "https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Consejo Interuniversitario Nacional (CIN) y Federación Universitaria Argentina (FUA)",
             "tipo_medida": "Marcha",
@@ -10300,6 +10310,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al cierre de tesorerías regionales del BCRA, cierres de sucursales y despidos en el Banco Hipotecario, calificados como políticas arbitrarias y de ajuste",
             "fuente": "https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "15:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Jubilados y CORREPI",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la represión policial y por justicia en casos de abusos a manifestantes",
+            "fuente": "https://www.anred.org/un-freno-al-protocolo-antiprotesta-de-bullrich-reprimir-y-fracturar-jubilados-es-un-delito/"
         },
         {
             "es_evento_relevante": true,
