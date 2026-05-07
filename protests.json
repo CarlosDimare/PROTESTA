@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T10:58:09.430215-03:00",
+    "last_updated": "2026-05-07T13:20:44.518445-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10195,6 +10195,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "15:30",
+            "lugar": "Plaza San Martín y Monumento Nacional a la Bandera (Rosario)",
+            "quien": "Comunidad universitaria federal",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al ajuste en el sector universitario y exigencia de aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/politica/realizan-clases-publicas-en-la-antesala-de-una-nueva-marcha-federal-universitaria-es-mentira-que-no-hay-plata/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario",
             "quien": "Universidad Nacional de Rosario (UNR)",
             "tipo_medida": "Marcha",
@@ -10263,6 +10273,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "No especificado",
+            "lugar": "Banco Central de la República Argentina y Banco Hipotecario",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al cierre de tesorerías regionales y despidos en el Banco Central y Banco Hipotecario",
+            "fuente": "https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-05-15",
             "horario": "15:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
@@ -10320,6 +10340,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Exigir la limitación de la presencia de agentes federales de inmigración (ICE) en las sedes de la Copa Mundial 2026",
             "fuente": "https://www.conclusion.com.ar/internacionales/mundial-2026-en-alerta-amenaza-de-huelga-en-uno-de-los-estadios-por-presencia-de-control-de-inmigracion/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-01",
+            "horario": "00:00",
+            "lugar": "Puente Pueyrredón (Avellaneda)",
+            "quien": "Polo Obrero y UTEP",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a recortes en programas sociales y solidaridad con crisis económica y laboral",
+            "fuente": "https://www.inforegion.com.ar/2026/05/07/protesta-en-puente-pueyrredon-organizaciones-sociales-marcharon-contra-el-ajuste-de-milei/, https://www.infobae.com/politica/2024/05/07/transporte-bancos-y-servicios-todas-las-actividades-que-estaran-paralizadas-el-jueves-por-la-protesta-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
