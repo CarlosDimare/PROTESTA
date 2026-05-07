@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T20:02:23.293383-03:00",
+    "last_updated": "2026-05-07T20:55:22.329195-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10120,6 +10120,16 @@
             "tipo_medida": "Corte",
             "motivo": "Reclamar continuidad del programa Volver al Trabajo y actualización del salario social complementario (congelado en 78 mil pesos desde 2024)",
             "fuente": "https://estadodealerta.com.ar/jornada-nacional-de-protesta-organizaciones-sociales-cortan-rutas-y-accesos-en-reclamo-por-el-salario-social-complementario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-07",
+            "horario": "10:00",
+            "lugar": "Avellaneda - Puente Pueyrredón (Avenida Mitre)",
+            "quien": "Barrios de Pie, Polo Obrero, Movimiento Evita, UTEP, Frente de Lucha Piquetero",
+            "tipo_medida": "Piquete",
+            "motivo": "Exigencia de continuidad y aumento del programa Volver al Trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Organizaciones-sociales-cortan-Avenida-Mitre-y-protestan-en-el-Puente-Pueyrredon-por-el-programa, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
         },
         {
             "es_evento_relevante": true,
