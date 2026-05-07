@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T13:20:44.518445-03:00",
+    "last_updated": "2026-05-07T15:25:59.303491-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10114,6 +10114,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-07",
+            "horario": "00:00",
+            "lugar": "Diversos puntos del país, con foco en Puente Pueyrredón (Avellaneda) y bajada de autopista Buenos Aires-La Plata",
+            "quien": "Más de 85 agrupaciones sociales, incluyendo UTEP, Frente de Lucha Piquetero, Territorios en Lucha y CTA Autónoma",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamar continuidad del programa Volver al Trabajo y actualización del salario social complementario (congelado en 78 mil pesos desde 2024)",
+            "fuente": "https://estadodealerta.com.ar/jornada-nacional-de-protesta-organizaciones-sociales-cortan-rutas-y-accesos-en-reclamo-por-el-salario-social-complementario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-07",
             "horario": "No especificado",
             "lugar": "Ministerio de Capital Humano",
             "quien": "Intendentes bonaerenses, vicegobernadora Verónica Magario y ministro Andrés Larroque",
@@ -10124,22 +10134,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-08",
+            "horario": "00:00",
+            "lugar": "Tribunales Federales de Rosario (Oroño al 900 y Entre Ríos al 400) y otras dependencias judiciales",
+            "quien": "Unión de Empleados de Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial, rechazo a políticas de austeridad y mejoras en salud",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-vuelven-al-paro-por-una-fuerte-perdida-en-los-salarios-y-tendra-un-alto-impacto-en-rosario/05/2026/, https://www.conclusion.com.ar/gremiales/paro-de-judiciales-nacionales-de-este-viernes-tendra-un-fuerte-impacto-en-rosario/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
             "horario": "09:00",
             "lugar": "Fábrica ceramista",
             "quien": "Sindicato ceramista",
             "tipo_medida": "Elección sindical",
             "motivo": "Reclamo por reinstalación de trabajadores despedidos y denuncia de persecución sindical para impedir la organización gremial",
             "fuente": "https://www.laizquierdadiario.com/Fanelli-Trabajadores-despedidos-inician-una-medida-de-amparo-sindical-para-conseguir-su-reinstalacion"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-08",
-            "horario": "No especificado",
-            "lugar": "Tribunales Federales de calle Oroño al 900 (Rosario), Cámara Federal de Entre Ríos al 400, Juzgados Federales Nº 1 y 2 de Entre Ríos al 700",
-            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por recomposición salarial real, respuestas del Superior Tribunal de Justicia, transparencia en ahorros generados durante la acordada de austeridad y acceso a cobertura de salud digna",
-            "fuente": "https://www.conclusion.com.ar/gremiales/paro-de-judiciales-nacionales-de-este-viernes-tendra-un-fuerte-impacto-en-rosario/05/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -10226,10 +10236,10 @@
             "fecha": "2026-05-12",
             "horario": "18:00",
             "lugar": "No especificado",
-            "quien": "Federación Universitaria Argentina (FUA) y federaciones/centros de estudiantes",
+            "quien": "Frente Sindical de Universidades Nacionales (FEDUN, CONADU, CONADU Histórica, FATUN, FAGDUT, CTERA, UDA) y Federación Universitaria Argentina",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la ley de financiamiento universitaria, contra la precarización laboral y la afectación de derechos estudiantiles",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Defensa de la Ley de Financiamiento Universitario y reclamo por aumento salarial y becas ante los vetos y judicialización del gobierno",
+            "fuente": "https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -10274,12 +10284,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
-            "horario": "No especificado",
+            "horario": "12:00",
             "lugar": "Banco Central de la República Argentina y Banco Hipotecario",
             "quien": "Asociación Bancaria",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al cierre de tesorerías regionales y despidos en el Banco Central y Banco Hipotecario",
-            "fuente": "https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
+            "motivo": "Rechazo al cierre de tesorerías regionales del BCRA, cierres de sucursales y despidos en el Banco Hipotecario, calificados como políticas arbitrarias y de ajuste",
+            "fuente": "https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
         },
         {
             "es_evento_relevante": true,
