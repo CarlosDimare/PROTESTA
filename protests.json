@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T17:17:27.274057-03:00",
+    "last_updated": "2026-05-07T18:58:36.803141-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10124,6 +10124,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-07",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Frente de Sindicatos Unidos (Fresu)",
+            "tipo_medida": "Medidas de fuerza",
+            "motivo": "Anulación de reforma laboral, salario, jubilaciones y fin de despidos",
+            "fuente": "https://www.laizquierdadiario.com/La-Corte-rechazo-el-pedido-de-per-saltum-de-Milei-pero-la-reforma-esclavista-sigue-vigente, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-07",
             "horario": "No especificado",
             "lugar": "Ministerio de Capital Humano",
             "quien": "Intendentes bonaerenses, vicegobernadora Verónica Magario y ministro Andrés Larroque",
@@ -10320,6 +10330,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "12:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires (epicentro nacional)",
+            "quien": "Amplio conjunto de gremios y trabajadores de la salud (organizado por Siprus en Rosario)",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar ajuste, vaciamiento del Pami y defender salud pública de calidad",
+            "fuente": "https://elciudadanoweb.com/movilizacion-de-profesionales-y-trabajadores-de-salud-frente-al-cemar-y-el-anuncio-de-una-marcha-federal-de-la-salud/"
         },
         {
             "es_evento_relevante": true,
