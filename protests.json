@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06T20:50:44.436828-03:00",
+    "last_updated": "2026-05-06T23:22:41.702138-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10130,6 +10130,16 @@
             "tipo_medida": "Elección sindical",
             "motivo": "Reclamo por reinstalación de trabajadores despedidos y denuncia de persecución sindical para impedir la organización gremial",
             "fuente": "https://www.laizquierdadiario.com/Fanelli-Trabajadores-despedidos-inician-una-medida-de-amparo-sindical-para-conseguir-su-reinstalacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
+            "horario": "No especificado",
+            "lugar": "Tribunales Federales de calle Oroño al 900 (Rosario), Cámara Federal de Entre Ríos al 400, Juzgados Federales Nº 1 y 2 de Entre Ríos al 700",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial real, respuestas del Superior Tribunal de Justicia, transparencia en ahorros generados durante la acordada de austeridad y acceso a cobertura de salud digna",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-de-judiciales-nacionales-de-este-viernes-tendra-un-fuerte-impacto-en-rosario/05/2026/"
         },
         {
             "es_evento_relevante": true,
