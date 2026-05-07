@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T15:25:59.303491-03:00",
+    "last_updated": "2026-05-07T17:17:27.274057-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10290,6 +10290,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al cierre de tesorerías regionales del BCRA, cierres de sucursales y despidos en el Banco Hipotecario, calificados como políticas arbitrarias y de ajuste",
             "fuente": "https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "18:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar por cuarta vez la asignación de recursos para el funcionamiento de universidades nacionales",
+            "fuente": "https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
