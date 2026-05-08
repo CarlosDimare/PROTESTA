@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-08T12:27:02.542189-03:00",
+    "last_updated": "2026-05-08T14:18:01.889312-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10174,6 +10174,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-08",
+            "horario": "18:00",
+            "lugar": "Trelew",
+            "quien": "Docentes y trabajadores de salud",
+            "tipo_medida": "Movilización (Bocinazo)",
+            "motivo": "Reclamar salario básico de $1.500.000 y contra el ajuste del gobernador Torres",
+            "fuente": "https://www.laizquierdadiario.com/Masivo-rechazo-a-la-propuesta-salarial-del-gobierno-y-de-las-direcciones-sindicales-docentes"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
+            "horario": "18:00",
+            "lugar": "Dependencias federales de todo el país, con impacto en ciudades como Rosario y Santa Fe",
+            "quien": "Sindicato de Trabajadores de la Justicia Federal",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por mejoras salariales, condiciones laborales, rechazo al traspaso de la justicia laboral nacional a Buenos Aires, y nombramiento de representante gremial en la obra social judicial",
+            "fuente": "https://elciudadanoweb.com/paro-en-la-justicia-federal-fuerte-reclamo-por-salarios-y-condiciones-laborales/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Comunidad cannábica organizada (Jardín del Unicornio, Tricomas del Sur, Cultivando Derechos, Quilmes Cultiva Conciencia)",
@@ -10190,6 +10210,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Denunciar el 'artwashing' de Israel y exigir su exclusión de la Bienal de Venecia por la masacre en Gaza",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-la-cultura-llaman-a-huelga-en-la-Bienal-de-Venecia-contra-el-Pabellon-del-Genocidio"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-09",
+            "horario": "00:00",
+            "lugar": "Tribunales Federales de Rosario",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales (28-30% de pérdida de ingresos), oposición al traspaso de Justicia laboral a Buenos Aires, denuncias por falta de designación en obra social judicial y deterioro edilicio en dependencias judiciales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-federales-realizan-un-paro-de-24-horas-este-viernes-y-denuncian-una-perdida-salarial-de-hasta-el-30/05/2026/"
         },
         {
             "es_evento_relevante": true,
