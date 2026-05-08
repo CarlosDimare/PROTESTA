@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-08T19:00:24.127695-03:00",
+    "last_updated": "2026-05-08T19:59:58.328659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10280,6 +10280,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por cumplimiento de ley de financiamiento universitario y recomposición salarial",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-impulsan-paros-extensivos-y-se-preparan-para-la-marcha-federal-del-martes-12/05/2026/, https://www.datagremial.com/informacion-general/con-la-nueva-marcha-en-el-horizonte-lanzan-campana-virtual-por-la-ley-de-financiamiento-docente-2026549140, https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "14:30",
+            "lugar": "Zeballos 1341, Rosario (UTN)",
+            "quien": "FAGDUT, APUTN y agrupaciones estudiantiles",
+            "tipo_medida": "Marcha",
+            "motivo": "Financiamiento universitario, recomposición salarial y defensa de la educación pública",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-utn-rosario-se-movilizara-en-la-cuarta-marcha-federal-universitaria/05/2026/"
         },
         {
             "es_evento_relevante": true,
