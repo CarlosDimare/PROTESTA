@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-08T10:26:04.594476-03:00",
+    "last_updated": "2026-05-08T12:27:02.542189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10175,6 +10175,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-08",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Comunidad cannábica organizada (Jardín del Unicornio, Tricomas del Sur, Cultivando Derechos, Quilmes Cultiva Conciencia)",
+            "tipo_medida": "Marcha",
+            "motivo": "Democratizar el acceso al cannabis, apoyar a personas detenidas por Ley 23.737 y protestar contra la criminalización de usuarios y cultivadores",
+            "fuente": "https://www.laizquierdadiario.com/Cultivar-para-resistir-la-comunidad-cannabica-enfrenta-la-criminalizacion-con-solidaridad-y"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-08",
+            "horario": "No especificado",
             "lugar": "Bienal de Venecia, pabellón de Israel",
             "quien": "Art Not Genocide Alliance (ANGA) y sindicatos italianos",
             "tipo_medida": "Huelga",
@@ -10195,21 +10205,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Sede del INTI",
-            "quien": "ATE",
-            "tipo_medida": "Asamblea",
-            "motivo": "Definir próximos pasos en el plan de acción contra despidos y recortes en el INTI",
-            "fuente": "https://elciudadanoweb.com/paro-total-en-el-inti-por-despidos-y-recorte-de-tareas-que-desata-tension-con-el-gobierno/"
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Conadu (Federación de Docentes Universitarios) y colectivos de trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la ley de financiamiento universitario, mejora salarial, sostenimiento de obra social y frenar la fuga de docentes",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-coad-define-nuevos-paros-y-el-proximo-martes-convoca-a-la-marcha-federal/, https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Ciudad Autónoma de Buenos Aires",
-            "quien": "Docentes, estudiantes, no docentes y sectores sociales",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de la Universidad pública y gratuita, reclamo por aplicación de la Ley de Financiamiento Universitario y pago de salarios atrasados",
-            "fuente": "https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir"
+            "lugar": "Sede del INTI",
+            "quien": "ATE",
+            "tipo_medida": "Asamblea",
+            "motivo": "Definir próximos pasos en el plan de acción contra despidos y recortes en el INTI",
+            "fuente": "https://elciudadanoweb.com/paro-total-en-el-inti-por-despidos-y-recorte-de-tareas-que-desata-tension-con-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -10230,6 +10240,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por cumplimiento de ley de financiamiento universitario y recomposición salarial",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-impulsan-paros-extensivos-y-se-preparan-para-la-marcha-federal-del-martes-12/05/2026/, https://www.datagremial.com/informacion-general/con-la-nueva-marcha-en-el-horizonte-lanzan-campana-virtual-por-la-ley-de-financiamiento-docente-2026549140, https://estadodealerta.com.ar/12-de-mayo-marcha-federal-universitaria-por-incumplir-la-ley-de-financiamiento-y-posibles-embargos-a-funcionarios/, https://www.inforegion.com.ar/2026/04/21/convocan-a-una-nueva-marcha-federal-universitaria/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Comunidad universitaria (liderada por UBA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario N° 27.795 y la transferencia de fondos asignados a hospitales universitarios",
+            "fuente": "https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
         },
         {
             "es_evento_relevante": true,
