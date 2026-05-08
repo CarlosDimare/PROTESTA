@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-07T20:55:22.329195-03:00",
+    "last_updated": "2026-05-07T23:42:11.106709-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10195,6 +10195,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
+            "lugar": "Sede del INTI",
+            "quien": "ATE",
+            "tipo_medida": "Asamblea",
+            "motivo": "Definir próximos pasos en el plan de acción contra despidos y recortes en el INTI",
+            "fuente": "https://elciudadanoweb.com/paro-total-en-el-inti-por-despidos-y-recorte-de-tareas-que-desata-tension-con-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "10:00",
             "lugar": "Ciudad Autónoma de Buenos Aires",
             "quien": "Docentes, estudiantes, no docentes y sectores sociales",
             "tipo_medida": "Movilización",
@@ -10266,10 +10276,10 @@
             "fecha": "2026-05-12",
             "horario": "18:00",
             "lugar": "No especificado",
-            "quien": "Frente Sindical de Universidades Nacionales (FEDUN, CONADU, CONADU Histórica, FATUN, FAGDUT, CTERA, UDA) y Federación Universitaria Argentina",
+            "quien": "Consejo Interuniversitario Nacional (CIN) y sindicatos universitarios (FEDUN, FATUN)",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la Ley de Financiamiento Universitario y reclamo por aumento salarial y becas ante los vetos y judicialización del gobierno",
-            "fuente": "https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Repudio al ajuste en universidades públicas y defensa del financiamiento universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
