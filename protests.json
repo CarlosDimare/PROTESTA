@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-09T14:52:48.266575-03:00",
+    "last_updated": "2026-05-09T15:58:50.149487-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10243,6 +10243,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-05-09",
+            "horario": "No especificado",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Periodistas vetados de Casa Rosada",
+            "tipo_medida": "Movilización",
+            "motivo": "Enfrentar censura gubernamental y reclamar acceso a Casa Rosada",
+            "fuente": "https://estadodealerta.com.ar/concentracion-extrema-de-la-riqueza-ante-el-avance-de-la-ia-multimillonarios-impulsan-renta-basica-universal-como-plan-b/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-05-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
@@ -10450,6 +10460,16 @@
             "tipo_medida": "Marcha federal",
             "motivo": "Exigencia de cumplimiento de la Ley de financiamiento universitario ante la inacción del gobierno",
             "fuente": "https://www.infobae.com/politica/2026/04/19/emiliano-yacobitti-advirtio-que-podrian-volver-a-marchar-si-el-gobierno-no-cumple-con-el-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Unione Sindicale di Base (USB)",
+            "tipo_medida": "Paro",
+            "motivo": "Repudio al genocidio en Gaza, agresión imperialista en Medio Oriente, política de rearme europeo y exigencia de romper relaciones con Israel",
+            "fuente": "https://www.laizquierdadiario.com/Italia-La-Union-Sindical-de-Base-llama-a-un-paro-contra-el-genocidio-y-la-guerra, https://www.bbc.com/mundo/articles/c5yklej7nnno"
         },
         {
             "es_evento_relevante": true,
