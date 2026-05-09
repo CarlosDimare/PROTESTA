@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-09T13:54:33.784350-03:00",
+    "last_updated": "2026-05-09T14:52:48.266575-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10233,6 +10233,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-05-09",
+            "horario": "10:00",
+            "lugar": "Sede de Fesimubo o municipios bonaerenses",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Oponerse a municipalización de servicios de residuos por reducción salarial del 50%",
+            "fuente": "https://www.infobae.com/politica/2026/05/09/pablo-moyano-apunto-contra-otro-sindicalista-y-los-intendentes-bonaerenses-por-el-control-de-la-recoleccion-de-residuos/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-05-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
@@ -10390,6 +10400,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por salarios dignos y cumplimiento de Ley de Financiamiento Universitario, en contraposición a privilegios del poder ejecutivo",
             "fuente": "https://www.datagremial.com/informacion-general/en-pleno-escandalo-de-adorni-la-fedun-convoca-a-la-marcha-universitaria-bajo-la-consigna-mas-salarios-menos-cascadas--20265616520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "Asociación Bancaria (seccional Rosario)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA y Banco Hipotecario, defensa del empleo y banca pública",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
         },
         {
             "es_evento_relevante": true,
