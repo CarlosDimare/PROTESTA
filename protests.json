@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-10T10:11:12.846862-03:00",
+    "last_updated": "2026-05-10T11:57:49.460263-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10415,21 +10415,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
-            "lugar": "No especificado",
-            "quien": "Asociación Bancaria (seccional Rosario)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA y Banco Hipotecario, defensa del empleo y banca pública",
-            "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-13",
-            "horario": "12:00",
             "lugar": "Banco Central de la República Argentina y Banco Hipotecario",
             "quien": "Asociación Bancaria",
             "tipo_medida": "Paro",
             "motivo": "Rechazo al cierre de tesorerías regionales del BCRA, cierres de sucursales y despidos en el Banco Hipotecario, calificados como políticas arbitrarias y de ajuste",
             "fuente": "https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "15:00",
+            "lugar": "Sucursales del BCRA y Banco Hipotecario en Rosario",
+            "quien": "Asociación Bancaria Seccional Rosario",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a cierres de sucursales, despidos y políticas de ajuste laboral en el BCRA y Banco Hipotecario",
+            "fuente": "https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
         },
         {
             "es_evento_relevante": true,
