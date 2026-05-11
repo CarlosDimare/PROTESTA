@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T19:07:05.628125-03:00",
+    "last_updated": "2026-05-11T20:08:46.593214-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10454,12 +10454,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
-            "horario": "18:00",
+            "horario": "16:00",
             "lugar": "Plaza de Mayo",
-            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "quien": "Consejo Interuniversitario Nacional (CIN) y FUBA",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar por cuarta vez la asignación de recursos para el funcionamiento de universidades nacionales",
-            "fuente": "https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Rechazo al ajuste presupuestario del Gobierno de Javier Milei y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/politica/2026/05/11/kicillof-mueve-al-pj-bonaerense-convoco-a-la-marcha-universitaria-y-lanzara-cursos-de-capacitacion/, https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Trabajo, Buenos Aires",
+            "quien": "Sindicato Único de Trabajadores del Negro de Humo (SUTNH) y trabajadores de Cabot",
+            "tipo_medida": "Vigilia y audiencia",
+            "motivo": "Reclamar por continuidad laboral, garantías de indemnizaciones y evitar procedimiento preventivo de crisis",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-de-cabot-marcharon-en-campana-tras-el-cierre-de-la-historica-planta/05/2026/"
         },
         {
             "es_evento_relevante": true,
