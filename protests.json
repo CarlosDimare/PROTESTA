@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T17:33:58.471351-03:00",
+    "last_updated": "2026-05-11T19:07:05.628125-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10315,6 +10315,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "15:00",
+            "lugar": "Diagonal Sur y Bolívar, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la educación pública, la universidad y la ciencia nacional",
+            "fuente": "https://elciudadanoweb.com/en-defensa-de-la-educacion-publica-la-cgt-se-suma-a-la-marcha-federal-universitaria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "15:00",
             "lugar": "Ciudad Autónoma de Buenos Aires (lugar exacto no especificado)",
             "quien": "Sindicatos docentes universitarios (CONADU, CONADU Histórica, ADIUC, AGD-UBA, ADIUNT) y referentes de la Unión Cívica Radical",
             "tipo_medida": "Movilización",
@@ -10326,10 +10336,10 @@
             "fecha": "2026-05-12",
             "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario",
-            "quien": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Colectivos de adultos mayores (Frapam, Foro de la Tercera Edad, Depem), comunidad educativa y organizaciones sociales/gremiales",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la educación pública, la universidad y la ciencia argentina; reclamo urgente de aplicación de la Ley de Financiamiento",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-se-adhiere-a-la-marcha-federal-universitaria-del-12-de-mayo-en-defensa-de-la-educacion-la-universidad-y-la-ciencia/05/2026/, https://elciudadanoweb.com/rosario-se-suma-a-la-marcha-federal-universitaria-en-defensa-de-la-educacion-publica/"
+            "motivo": "Exigir al Gobierno nacional la implementación del presupuesto para educación pública, gratuita y de calidad, en defensa de derechos de adultos mayores y desarrollo integral",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/adultos-mayores-organizados-se-suman-a-la-marcha-federal-por-la-educacion-publica/05/2026/, https://www.conclusion.com.ar/la-ciudad/rosario-se-adhiere-a-la-marcha-federal-universitaria-del-12-de-mayo-en-defensa-de-la-educacion-la-universidad-y-la-ciencia/05/2026/, https://elciudadanoweb.com/rosario-se-suma-a-la-marcha-federal-universitaria-en-defensa-de-la-educacion-publica/"
         },
         {
             "es_evento_relevante": true,
@@ -10345,21 +10355,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
-            "lugar": "Marcha nacional universitaria (lugar no especificado)",
-            "quien": "Estudiantes universitarios",
+            "lugar": "No especificado",
+            "quien": "Comunidad universitaria y partidos políticos opositores",
             "tipo_medida": "Marcha",
-            "motivo": "Protesta contra recortes presupuestarios en educación universitaria, eliminación del fondo de compensación salarial docente y ajustes en programas sociales",
-            "fuente": "https://www.conclusion.com.ar/politica/economia/el-gobierno-dispuso-otra-modificacion-en-el-presupuesto-2026-salud-educacion-y-obras-publicas-los-recortes-principales/05/2026/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Reclamo por financiamiento universitario y oposición a las medidas de transparencia y eficiencia implementadas por el Gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/05/11/el-gobierno-aseguro-que-se-reunira-con-las-universidades-luego-de-la-marcha-para-conversar-sobre-los-fondos/, https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
-            "lugar": "No especificado",
-            "quien": "Comunidad universitaria (docentes, no docentes y estudiantes)",
+            "lugar": "Marcha nacional universitaria (lugar no especificado)",
+            "quien": "Estudiantes universitarios",
             "tipo_medida": "Marcha",
-            "motivo": "Cumplimiento de la Ley de Financiamiento Universitaria y reclamos salariales y laborales",
-            "fuente": "https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Protesta contra recortes presupuestarios en educación universitaria, eliminación del fondo de compensación salarial docente y ajustes en programas sociales",
+            "fuente": "https://www.conclusion.com.ar/politica/economia/el-gobierno-dispuso-otra-modificacion-en-el-presupuesto-2026-salud-educacion-y-obras-publicas-los-recortes-principales/05/2026/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
