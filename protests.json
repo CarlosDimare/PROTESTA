@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T03:41:35.361842-03:00",
+    "last_updated": "2026-05-11T07:42:05.442955-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10450,6 +10450,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar por cuarta vez la asignación de recursos para el funcionamiento de universidades nacionales",
             "fuente": "https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Comunidad universitaria (UBA y otras universidades)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y aumento de fondos para educación pública",
+            "fuente": "https://www.infobae.com/politica/2026/05/11/emiliano-yacobitti-hablo-sobre-la-marcha-universitaria-del-martes-va-a-haber-muchos-que-votaron-a-milei/"
         },
         {
             "es_evento_relevante": true,
