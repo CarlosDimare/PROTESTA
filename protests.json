@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T13:35:57.928399-03:00",
+    "last_updated": "2026-05-11T16:01:42.620401-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10265,21 +10265,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Rosario (y otras ciudades del país)",
-            "quien": "COAD y organizaciones estudiantiles/sociales",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Comunidad universitaria federal",
             "tipo_medida": "Marcha",
-            "motivo": "Financiamiento de universidades públicas y pérdida salarial del sector",
-            "fuente": "https://www.conclusion.com.ar/gremiales/convocan-a-una-nueva-marcha-federal-universitaria-no-estamos-dispuestos-a-entregar-la-universidad/05/2026/"
+            "motivo": "Contra recortes presupuestarios en universidades nacionales y organismos de ciencia y tecnología",
+            "fuente": "https://www.laizquierdadiario.com/Un-dia-antes-de-la-Marcha-Federal-el-Gobierno-de-Milei-auncia-recorte-millonario-en-universidades, https://elciudadanoweb.com/docentes-de-la-unr-coad-define-nuevos-paros-y-el-proximo-martes-convoca-a-la-marcha-federal/, https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir, https://www.conclusion.com.ar/politica/realizan-clases-publicas-en-la-antesala-de-una-nueva-marcha-federal-universitaria-es-mentira-que-no-hay-plata/05/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Ciudad de Buenos Aires",
-            "quien": "Conadu (Federación de Docentes Universitarios) y colectivos de trabajadores",
+            "lugar": "Rosario (uno de los puntos de concentración a nivel nacional)",
+            "quien": "Docentes, estudiantes y organizaciones sociales (COAD)",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la ley de financiamiento universitario, mejora salarial, sostenimiento de obra social y frenar la fuga de docentes",
-            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-coad-define-nuevos-paros-y-el-proximo-martes-convoca-a-la-marcha-federal/, https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir"
+            "motivo": "Conflicto por financiamiento de universidades públicas y reclamo por pérdida salarial, incluyendo cumplimiento de Ley de Financiamiento Universitario y recuperación del poder adquisitivo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/nueva-marcha-federal-universitaria-no-estamos-dispuestos-a-entregar-la-universidad/05/2026/, https://www.conclusion.com.ar/gremiales/convocan-a-una-nueva-marcha-federal-universitaria-no-estamos-dispuestos-a-entregar-la-universidad/05/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -10325,16 +10325,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "15:30",
-            "lugar": "Plaza San Martín y Monumento Nacional a la Bandera (Rosario)",
-            "quien": "Comunidad universitaria federal",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al ajuste en el sector universitario y exigencia de aplicación de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.conclusion.com.ar/politica/realizan-clases-publicas-en-la-antesala-de-una-nueva-marcha-federal-universitaria-es-mentira-que-no-hay-plata/05/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-12",
-            "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario",
             "quien": "Universidad Nacional de Rosario (UNR)",
             "tipo_medida": "Marcha",
@@ -10360,6 +10350,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por financiamiento de hospitales universitarios y presión contra la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/05/09/crisis-universitaria-yacobitti-acuso-a-adorni-de-pretender-confundir-a-la-gente-para-deslegitimar-un-reclamo/, https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "18:00",
+            "lugar": "Marcha nacional universitaria (lugar no especificado)",
+            "quien": "Estudiantes universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra recortes presupuestarios en educación universitaria, eliminación del fondo de compensación salarial docente y ajustes en programas sociales",
+            "fuente": "https://www.conclusion.com.ar/politica/economia/el-gobierno-dispuso-otra-modificacion-en-el-presupuesto-2026-salud-educacion-y-obras-publicas-los-recortes-principales/05/2026/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
