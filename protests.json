@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T10:50:07.996907-03:00",
+    "last_updated": "2026-05-11T13:35:57.928399-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10265,6 +10265,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
+            "lugar": "Rosario (y otras ciudades del país)",
+            "quien": "COAD y organizaciones estudiantiles/sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Financiamiento de universidades públicas y pérdida salarial del sector",
+            "fuente": "https://www.conclusion.com.ar/gremiales/convocan-a-una-nueva-marcha-federal-universitaria-no-estamos-dispuestos-a-entregar-la-universidad/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "10:00",
             "lugar": "Ciudad de Buenos Aires",
             "quien": "Conadu (Federación de Docentes Universitarios) y colectivos de trabajadores",
             "tipo_medida": "Marcha",
@@ -10395,6 +10405,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "No especificado",
+            "lugar": "Cárcel de Rawson",
+            "quien": "Isabel Huala y colectivo mapuche",
+            "tipo_medida": "Huelga de hambre",
+            "motivo": "Exigir traslado de Facundo Jones Huala a la unidad penitenciaria de Esquel, denunciar condiciones penosas de detención y solicitar reclusión domiciliaria en Bariloche",
+            "fuente": "https://www.infobae.com/politica/2026/05/11/el-mapuche-jones-huala-lleva-dos-semanas-de-huelga-de-hambre-y-su-mama-se-acoplara-a-la-medida-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "No especificado",
             "lugar": "No especificado (convocada a nivel nacional)",
             "quien": "FEDUN (Federación de Docentes de las Universidades) y FATUN",
             "tipo_medida": "Marcha",
@@ -10440,6 +10460,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar por cuarta vez la asignación de recursos para el funcionamiento de universidades nacionales",
             "fuente": "https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "10:00",
+            "lugar": "Planta de Granja Tres Arroyos en Concepción del Uruguay",
+            "quien": "Sindicato de la Carnea",
+            "tipo_medida": "Paro",
+            "motivo": "Pago adeudado de salarios correspondiente a la segunda quincena de abril",
+            "fuente": "https://www.datagremial.com/informacion-general/crisis-sin-fin-granja-tres-arroyos-no-pago-los-salarios-de-abril-y-los-trabajadores-volvieron-al-paro-202651110450"
         },
         {
             "es_evento_relevante": true,
