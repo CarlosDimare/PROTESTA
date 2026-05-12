@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T01:49:14.357689-03:00",
+    "last_updated": "2026-05-12T04:49:19.544302-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10265,16 +10265,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "Consejo Interuniversitario Nacional (CIN) y universidades nacionales",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el ajuste presupuestario, reclamo por aplicación de ley de financiamiento universitario y recomposición salarial",
-            "fuente": "https://www.inforegion.com.ar/2026/05/11/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste/, https://www.infobae.com/politica/2026/05/09/crisis-universitaria-yacobitti-acuso-a-adorni-de-pretender-confundir-a-la-gente-para-deslegitimar-un-reclamo/, https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-12",
-            "horario": "10:00",
             "lugar": "Rosario (uno de los puntos de concentración a nivel nacional)",
             "quien": "Docentes, estudiantes y organizaciones sociales (COAD)",
             "tipo_medida": "Marcha",
@@ -10340,6 +10330,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir al Gobierno nacional la implementación del presupuesto para educación pública, gratuita y de calidad, en defensa de derechos de adultos mayores y desarrollo integral",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/adultos-mayores-organizados-se-suman-a-la-marcha-federal-por-la-educacion-publica/05/2026/, https://www.conclusion.com.ar/la-ciudad/rosario-se-adhiere-a-la-marcha-federal-universitaria-del-12-de-mayo-en-defensa-de-la-educacion-la-universidad-y-la-ciencia/05/2026/, https://elciudadanoweb.com/rosario-se-suma-a-la-marcha-federal-universitaria-en-defensa-de-la-educacion-publica/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "17:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Federación Universitaria Argentina (FUA) y Frente Sindical de las Universidades Nacionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Desfinanciamiento universitario, incumplimiento de Ley de Financiamiento Universitario, caída de salarios y becas congeladas",
+            "fuente": "https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/, https://www.inforegion.com.ar/2026/05/11/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste/, https://www.infobae.com/politica/2026/05/09/crisis-universitaria-yacobitti-acuso-a-adorni-de-pretender-confundir-a-la-gente-para-deslegitimar-un-reclamo/, https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
         },
         {
             "es_evento_relevante": true,
