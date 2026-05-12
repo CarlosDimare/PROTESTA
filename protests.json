@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T17:36:10.715106-03:00",
+    "last_updated": "2026-05-12T19:11:39.319093-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10345,21 +10345,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "17:00",
-            "lugar": "No especificado",
-            "quien": "Comunidad universitaria y sindicatos docentes",
+            "lugar": "Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Sindicatos y colectivos universitarios (docentes, no docentes, estudiantes, gremios universitarios y sectores científicos)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a recortes presupuestarios y defensa de la educación pública",
-            "fuente": "https://www.laizquierdadiario.com/Siete-datos-que-destrozan-el-discurso-del-Gobierno-sobre-las-universidades, https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/"
+            "motivo": "Reclamo por aplicación efectiva de la Ley de Financiamiento Universitario, actualización de fondos, recomposición salarial y presupuesto para hospitales universitarios",
+            "fuente": "https://www.inforegion.com.ar/2026/05/12/cuarta-marcha-federal-universitaria-masivo-reclamo-en-plaza-de-mayo-por-la-ley-de-financiamiento/, https://www.conclusion.com.ar/politica/marcha-federal-universitaria-masiva-movilizacion-en-buenos-aires-para-defender-la-educacion/05/2026/, https://www.infobae.com/politica/2026/05/12/no-es-un-reclamo-politico-estamos-en-una-situacion-dramatica-de-las-universidades-advirtio-el-rector-de-la-uba/, https://www.conclusion.com.ar/gremiales/la-cgt-anuncio-su-adhesion-a-la-marcha-federal-universitaria-por-la-educacion-la-universidad-publica-y-la-ciencia/05/2026/, https://www.laizquierdadiario.com/Un-dia-antes-de-la-Marcha-Federal-el-Gobierno-de-Milei-auncia-recorte-millonario-en-universidades, https://elciudadanoweb.com/docentes-de-la-unr-coad-define-nuevos-paros-y-el-proximo-martes-convoca-a-la-marcha-federal/, https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir, https://www.conclusion.com.ar/politica/realizan-clases-publicas-en-la-antesala-de-una-nueva-marcha-federal-universitaria-es-mentira-que-no-hay-plata/05/2026/, https://www.infobae.com/politica/2026/05/11/desde-la-uba-adelantaron-que-manana-esperan-una-marcha-federal-universitaria-pacifica-y-multitudinaria/, https://www.laizquierdadiario.com/Marcha-universitaria-Siempre-con-los-docentes-nunca-con-los-rectores, https://www.datagremial.com/escenario/en-el-pj-nacional-dirigentes-sindicales-pidieron-unidad-para-terminar-con-la-dispersion-de-las-luchas--2026571000, https://www.infobae.com/politica/2026/04/29/marcha-universitaria-el-12-de-mayo-reclaman-actualizacion-salarial-y-mas-presupuesto/, https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/el-consejo-interuniversitario-nacional-convoco-a-la-marcha-federal-universitaria-del-12-de-mayo-hay-que-defender-esto-que-nos-hace-distintos/05/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "17:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Consejo Interuniversitario Nacional (CIN), Federación Universitaria Argentina (FUA) y organizaciones sociales, políticas, estudiantiles y docentes",
+            "lugar": "No especificado",
+            "quien": "Comunidad universitaria y sindicatos docentes",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial docente y no docente ante el desfinanciamiento y caída presupuestaria del 45,6%",
-            "fuente": "https://www.conclusion.com.ar/politica/marcha-federal-universitaria-masiva-movilizacion-en-buenos-aires-para-defender-la-educacion/05/2026/, https://www.infobae.com/politica/2026/05/12/no-es-un-reclamo-politico-estamos-en-una-situacion-dramatica-de-las-universidades-advirtio-el-rector-de-la-uba/, https://www.conclusion.com.ar/gremiales/la-cgt-anuncio-su-adhesion-a-la-marcha-federal-universitaria-por-la-educacion-la-universidad-publica-y-la-ciencia/05/2026/, https://www.laizquierdadiario.com/Un-dia-antes-de-la-Marcha-Federal-el-Gobierno-de-Milei-auncia-recorte-millonario-en-universidades, https://elciudadanoweb.com/docentes-de-la-unr-coad-define-nuevos-paros-y-el-proximo-martes-convoca-a-la-marcha-federal/, https://www.laizquierdadiario.com/A-200-dias-sin-cumplir-la-Ley-de-Financiamiento-Universitario-un-fallo-habilita-al-Gobierno-acudir, https://www.conclusion.com.ar/politica/realizan-clases-publicas-en-la-antesala-de-una-nueva-marcha-federal-universitaria-es-mentira-que-no-hay-plata/05/2026/, https://www.infobae.com/politica/2026/05/11/desde-la-uba-adelantaron-que-manana-esperan-una-marcha-federal-universitaria-pacifica-y-multitudinaria/, https://www.laizquierdadiario.com/Marcha-universitaria-Siempre-con-los-docentes-nunca-con-los-rectores, https://www.datagremial.com/escenario/en-el-pj-nacional-dirigentes-sindicales-pidieron-unidad-para-terminar-con-la-dispersion-de-las-luchas--2026571000, https://www.infobae.com/politica/2026/04/29/marcha-universitaria-el-12-de-mayo-reclaman-actualizacion-salarial-y-mas-presupuesto/, https://www.infobae.com/educacion/2026/04/22/las-universidades-publicas-preparan-una-cuarta-marcha-federal-el-12-de-mayo-en-reclamo-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/el-consejo-interuniversitario-nacional-convoco-a-la-marcha-federal-universitaria-del-12-de-mayo-hay-que-defender-esto-que-nos-hace-distintos/05/2026/"
+            "motivo": "Rechazo a recortes presupuestarios y defensa de la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Siete-datos-que-destrozan-el-discurso-del-Gobierno-sobre-las-universidades, https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/"
         },
         {
             "es_evento_relevante": true,
