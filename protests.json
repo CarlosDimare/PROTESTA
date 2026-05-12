@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11T21:15:42.608223-03:00",
+    "last_updated": "2026-05-12T01:49:14.357689-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10345,6 +10345,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "17:00",
+            "lugar": "Plaza de Mayo, frente a la Casa Rosada",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Frente Sindical de Universidades Nacionales y movimiento estudiantil",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la aplicación efectiva de la Ley de Financiamiento Universitario, recomposición salarial y actualización presupuestaria",
+            "fuente": "https://motoreconomico.com.ar/marcha-federal-universitaria-argentina-vuelve-a-marchar-en-contra-del-ajuste/, https://elfederalista.com/2026/05/11/marcha-universitaria-en-tucuman-donde-a-que-hora-y-cuales-seran-los-principales-reclamos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-12",
+            "horario": "17:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Comunidad universitaria",
             "tipo_medida": "Marcha",
@@ -10356,10 +10366,10 @@
             "fecha": "2026-05-12",
             "horario": "18:00",
             "lugar": "No especificado",
-            "quien": "Comunidad universitaria y partidos políticos opositores",
+            "quien": "Comunidad universitaria (sindicatos docentes/no docentes, centros de estudiantes)",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por financiamiento universitario y oposición a las medidas de transparencia y eficiencia implementadas por el Gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/05/11/el-gobierno-aseguro-que-se-reunira-con-las-universidades-luego-de-la-marcha-para-conversar-sobre-los-fondos/, https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario contra el recorte presupuestario del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Escandaloso-recorte-de-Milei-al-presupuesto-universitario-ya-es-el-mas-bajo-en-20-anos, https://www.infobae.com/politica/2026/05/11/el-gobierno-aseguro-que-se-reunira-con-las-universidades-luego-de-la-marcha-para-conversar-sobre-los-fondos/, https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -10460,6 +10470,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste presupuestario del Gobierno de Javier Milei y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/05/11/kicillof-mueve-al-pj-bonaerense-convoco-a-la-marcha-universitaria-y-lanzara-cursos-de-capacitacion/, https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "17:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Marcha Federal Universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por falta de financiamiento universitario, contra la Ley de Financiamiento Universitaria y por distribución equitativa de recursos para hospitales educativos",
+            "fuente": "https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-federal-el-gobierno-anuncio-una-comision-para-definir-partidas-a-hospitales-universitarios/05/2026/, https://argentina.indymedia.org/2026/05/10/el-proximo-martes-nueva-marcha-federal-universitaria/"
         },
         {
             "es_evento_relevante": true,
