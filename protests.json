@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T13:26:11.371424-03:00",
+    "last_updated": "2026-05-12T15:58:41.937095-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10346,10 +10346,10 @@
             "fecha": "2026-05-12",
             "horario": "17:00",
             "lugar": "Plaza de Mayo",
-            "quien": "Movimiento estudiantil y docente universitario",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Federación Universitaria Argentina (FUA) y Frente Sindical de las Universidades Nacionales",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y defensa de educación pública",
-            "fuente": "https://www.infobae.com/teleshow/2026/05/12/para-defender-la-educacion-quienes-son-los-famosos-que-convocan-a-la-marcha-federal-universitaria/, https://www.laizquierdadiario.com/Masiva-movilizacion-en-defensa-de-la-universidad-publica, https://www.infobae.com/politica/2026/05/12/marcha-federal-universitaria-en-vivo-hora-quienes-convocan-y-las-ultimas-noticias-hoy-12-de-mayo/, https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/, https://www.inforegion.com.ar/2026/05/11/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste/, https://www.infobae.com/politica/2026/05/09/crisis-universitaria-yacobitti-acuso-a-adorni-de-pretender-confundir-a-la-gente-para-deslegitimar-un-reclamo/, https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, desobediencia de fallos judiciales, caída del financiamiento y salarios en caída libre",
+            "fuente": "https://www.infobae.com/politica/2026/05/12/una-marcha-politica-opositora-la-libertad-avanza-cuestiono-la-movilizacion-federal-de-las-universidades/, https://infonoroeste.com.ar/nota/53816/nueva-protesta-universitaria-se-hizo-sentir-tambien-junin/, https://www.infobae.com/teleshow/2026/05/12/para-defender-la-educacion-quienes-son-los-famosos-que-convocan-a-la-marcha-federal-universitaria/, https://www.laizquierdadiario.com/Masiva-movilizacion-en-defensa-de-la-universidad-publica, https://www.infobae.com/politica/2026/05/12/marcha-federal-universitaria-en-vivo-hora-quienes-convocan-y-las-ultimas-noticias-hoy-12-de-mayo/, https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/, https://www.inforegion.com.ar/2026/05/11/las-universidades-publicas-vuelven-a-marchar-contra-el-ajuste/, https://www.infobae.com/politica/2026/05/09/crisis-universitaria-yacobitti-acuso-a-adorni-de-pretender-confundir-a-la-gente-para-deslegitimar-un-reclamo/, https://www.infobae.com/politica/2026/05/08/yacobitti-afirmo-que-el-gobierno-no-giro-el-presupuesto-para-los-hospitales-universitarios-y-dijo-que-hay-operaciones-en-riesgo/"
         },
         {
             "es_evento_relevante": true,
@@ -10385,21 +10385,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-12",
             "horario": "18:00",
-            "lugar": "No especificado",
-            "quien": "Comunidad universitaria (sindicatos docentes/no docentes, centros de estudiantes)",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario contra el recorte presupuestario del gobierno",
-            "fuente": "https://www.laizquierdadiario.com/Escandaloso-recorte-de-Milei-al-presupuesto-universitario-ya-es-el-mas-bajo-en-20-anos, https://www.infobae.com/politica/2026/05/11/el-gobierno-aseguro-que-se-reunira-con-las-universidades-luego-de-la-marcha-para-conversar-sobre-los-fondos/, https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-12",
-            "horario": "18:00",
             "lugar": "Marcha nacional universitaria (lugar no especificado)",
-            "quien": "Estudiantes universitarios",
+            "quien": "Docentes universitarios",
             "tipo_medida": "Marcha",
-            "motivo": "Protesta contra recortes presupuestarios en educación universitaria, eliminación del fondo de compensación salarial docente y ajustes en programas sociales",
-            "fuente": "https://www.conclusion.com.ar/politica/economia/el-gobierno-dispuso-otra-modificacion-en-el-presupuesto-2026-salud-educacion-y-obras-publicas-los-recortes-principales/05/2026/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Contra el ajuste en universidad pública y exigencia de aplicación de ley de financiamiento educativo",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-Universitaria-Necesitamos-un-plan-de-lucha-unificado-el-Gobierno-solo-entiende-el-idioma-de, https://www.laizquierdadiario.com/Escandaloso-recorte-de-Milei-al-presupuesto-universitario-ya-es-el-mas-bajo-en-20-anos, https://www.infobae.com/politica/2026/05/11/el-gobierno-aseguro-que-se-reunira-con-las-universidades-luego-de-la-marcha-para-conversar-sobre-los-fondos/, https://www.laizquierdadiario.com/Este-martes-4ta-Marcha-Universitaria-seamos-miles-en-las-calles-y-organicemos-un-plan-de-lucha, https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-este-martes-dia-de-la-marcha-federal-universitaria/, https://www.datagremial.com/informacion-general/la-corte-definira-la-aplicacion-de-la-ley-de-financiamiento-universitario-gremios-no-lo-ven-como-un-retroceso-2026581480, https://www.datagremial.com/informacion-general/la-cgt-oficializo-su-adhesion-la-marcha-federal-universitaria-y-endurece-el-rechazo-al-ajuste-de-milei-sobre-las-universidades-2026572360, https://estadodealerta.com.ar/ley-de-financiamiento-universitario-la-camara-habilito-a-la-corte-suprema-a-intervenir-en-el-conflicto/, https://www.laizquierdadiario.com/Marcha-nacional-universitaria-Lo-conquistado-no-se-negocia, https://www.laizquierdadiario.com/Paro-universitario-el-Gobierno-ataca-y-se-endurece-la-lucha-hacia-la-movilizacion-del-12-de-mayo, https://elciudadanoweb.com/presion-y-advertencias-el-gobierno-intima-a-rectores-a-garantizar-clases-ante-la-nueva-marcha-federal/, https://www.inforegion.com.ar/2026/04/28/paro-en-las-universidades-el-gobierno-intima-a-los-rectores/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html, https://www.conclusion.com.ar/politica/economia/el-gobierno-dispuso-otra-modificacion-en-el-presupuesto-2026-salud-educacion-y-obras-publicas-los-recortes-principales/05/2026/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
@@ -10505,6 +10495,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "15:30",
+            "lugar": "Rosario, concentración en plaza San Martín y acto de cierre en Monumento a la Bandera",
+            "quien": "Marcha Federal Universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la universidad pública",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/desviaran-los-colectivos-en-el-centro-rosarino-por-la-marcha-federal-universitaria-que-calles-estaran-afectadas/05/2026/, https://www.inforegion.com.ar/2026/05/12/el-gobierno-reune-a-su-mesa-politica-en-medio-de-tensiones-internas-y-la-marcha-universitaria/, https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-federal-el-gobierno-anuncio-una-comision-para-definir-partidas-a-hospitales-universitarios/05/2026/, https://argentina.indymedia.org/2026/05/10/el-proximo-martes-nueva-marcha-federal-universitaria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario, hasta Monumento Nacional a la Bandera",
             "quien": "Coad (gremio de docentes e investigadores de UNR) con apoyo de CIN y FUA",
             "tipo_medida": "Marcha",
@@ -10530,16 +10530,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, recomposición salarial docente/no docente y visibilizar crisis presupuestaria en universidades públicas",
             "fuente": "https://www.inforegion.com.ar/2026/05/12/marcha-federal-universitaria-comienzan-a-movilizar-las-columnas/, https://estadodealerta.com.ar/brutal-recorte-de-partidas-del-presupuesto-2026-sobre-todo-en-salud-educacion-y-obras-publicas/, https://www.anred.org/con-la-universidad-publica-ante-el-abismo-se-haran-marchas-y-actos-en-todo-el-pais-este-martes-12-de-mayo/, https://www.infobae.com/politica/2026/05/11/kicillof-mueve-al-pj-bonaerense-convoco-a-la-marcha-universitaria-y-lanzara-cursos-de-capacitacion/, https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-13",
-            "horario": "17:00",
-            "lugar": "Frente al Congreso Nacional",
-            "quien": "Marcha Federal Universitaria",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por falta de financiamiento universitario, contra la Ley de Financiamiento Universitaria y por distribución equitativa de recursos para hospitales educativos",
-            "fuente": "https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-federal-el-gobierno-anuncio-una-comision-para-definir-partidas-a-hospitales-universitarios/05/2026/, https://argentina.indymedia.org/2026/05/10/el-proximo-martes-nueva-marcha-federal-universitaria/"
         },
         {
             "es_evento_relevante": true,
@@ -10570,6 +10560,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y aumento de fondos para educación pública",
             "fuente": "https://www.infobae.com/politica/2026/05/11/emiliano-yacobitti-hablo-sobre-la-marcha-universitaria-del-martes-va-a-haber-muchos-que-votaron-a-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín (Córdoba y Santa Fe) hacia Monumento a la Bandera en Rosario, con réplicas en Córdoba, Salta, Santa Fe, La Pampa y Buenos Aires",
+            "quien": "Federación Universitaria Argentina (FUA), Consejo Interuniversitario Nacional (CIN) y otros colectivos sociales, políticos, estudiantiles y docentes",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, recomposición salarial docente/no docente y denuncia de desfinanciamiento y caída presupuestaria",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-marcha-en-apoyo-a-la-universidad-publica-y-para-exigir-que-se-cumpla-con-la-ley-de-financiamiento/05/2026/"
         },
         {
             "es_evento_relevante": true,
