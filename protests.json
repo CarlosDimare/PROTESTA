@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-13T06:52:01.195683-03:00",
+    "last_updated": "2026-05-13T09:06:38.930059-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10560,6 +10560,16 @@
             "tipo_medida": "Vigilia y audiencia",
             "motivo": "Reclamar por continuidad laboral, garantías de indemnizaciones y evitar procedimiento preventivo de crisis",
             "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-de-cabot-marcharon-en-campana-tras-el-cierre-de-la-historica-planta/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "08:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "Coad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, becas y financiación universitaria",
+            "fuente": "https://elciudadanoweb.com/postales-mensajes-y-color-de-una-historica-jornada-en-rosario-mas-de-100-mil-personas-marcharon-en-defensa-de-la-universidad-publica/"
         },
         {
             "es_evento_relevante": true,
