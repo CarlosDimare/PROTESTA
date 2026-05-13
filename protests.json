@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-13T11:46:35.956498-03:00",
+    "last_updated": "2026-05-13T14:21:56.485531-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10465,21 +10465,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
-            "lugar": "Banco Central de la República Argentina (BCRA) y Banco Hipotecario (sucursales en Buenos Aires)",
-            "quien": "Asociación Bancaria",
-            "tipo_medida": "Paro parcial",
-            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA y Banco Hipotecario",
-            "fuente": "https://elciudadanoweb.com/paro-bancario-nacional-este-miercoles-a-que-hora-comienza-la-medida-y-que-bancos-estaran-afectados/, https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/, https://elciudadanoweb.com/este-miercoles-bancarios-hacen-paro-nacional-en-que-entidades-de-rosario-no-hay-atencion/, https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
+            "lugar": "Tribunales Federales (Rosario)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Banderazo con cese de actividades",
+            "motivo": "Reclamos salariales, situación de la obra social y rechazo al traslado de la Justicia Nacional del Trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaron-un-banderazo-en-rosario-y-anuncian-un-paro-de-24-horas-para-el-viernes/05/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-un-banderazo-este-miercoles-y-paro-de-24-horas-el-viernes/05/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
-            "lugar": "Tribunales Federales de bulevar Oroño al 900, Rosario",
-            "quien": "Unión de Empleados Judiciales de la Nación (UEJN)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamos salariales, laborales y de salud; exigencia de recomposición salarial, transparencia en fondos y cobertura sanitaria digna",
-            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-un-banderazo-este-miercoles-y-paro-de-24-horas-el-viernes/05/2026/"
+            "lugar": "Banco Central de la República Argentina (BCRA) y Banco Hipotecario (sucursales en Buenos Aires)",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA y Banco Hipotecario",
+            "fuente": "https://elciudadanoweb.com/paro-bancario-nacional-este-miercoles-a-que-hora-comienza-la-medida-y-que-bancos-estaran-afectados/, https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/, https://elciudadanoweb.com/este-miercoles-bancarios-hacen-paro-nacional-en-que-entidades-de-rosario-no-hay-atencion/, https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -10540,6 +10540,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, recomposición salarial docente/no docente y visibilizar crisis presupuestaria en universidades públicas",
             "fuente": "https://www.inforegion.com.ar/2026/05/12/marcha-federal-universitaria-comienzan-a-movilizar-las-columnas/, https://estadodealerta.com.ar/brutal-recorte-de-partidas-del-presupuesto-2026-sobre-todo-en-salud-educacion-y-obras-publicas/, https://www.anred.org/con-la-universidad-publica-ante-el-abismo-se-haran-marchas-y-actos-en-todo-el-pais-este-martes-12-de-mayo/, https://www.infobae.com/politica/2026/05/11/kicillof-mueve-al-pj-bonaerense-convoco-a-la-marcha-universitaria-y-lanzara-cursos-de-capacitacion/, https://www.inforegion.com.ar/2026/05/07/financiamiento-universitario-la-justicia-suspendio-la-aplicacion-de-la-ley-hasta-que-hable-la-corte-suprema/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "La hora de inicio del evento de protesta es **13:00**.",
+            "lugar": "Parque Tecnológico Miguelete, San Martín",
+            "quien": "Empresarios y pymes (APYME, ENAC, IPA, Movimiento Productivo 25 de Mayo)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa del INTI ante recortes y apoyo a su rol estratégico para la industria argentina",
+            "fuente": "https://www.datagremial.com/informacion-general/desguace-del-inti-hasta-los-empresarios-rechazan-el-ajuste-libertario-y-marchan-en-su-contra-202651310490, https://www.eldestapeweb.com/economia/los-industriales-van-a-pedir-por-el-inti-y-el-ajuste-de-milei-genera-vez-mas-bronca-202651219112"
         },
         {
             "es_evento_relevante": true,
