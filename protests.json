@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-13T09:06:38.930059-03:00",
+    "last_updated": "2026-05-13T11:46:35.956498-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10465,31 +10465,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
-            "lugar": "Tribunales Federales de bulevar Oroño al 900, Rosario",
-            "quien": "Unión de Empleados Judiciales de la Nación (UEJN)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamos salariales, laborales y de salud; exigencia de recomposición salarial, transparencia en fondos y cobertura sanitaria digna",
-            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-un-banderazo-este-miercoles-y-paro-de-24-horas-el-viernes/05/2026/"
+            "lugar": "Banco Central de la República Argentina (BCRA) y Banco Hipotecario (sucursales en Buenos Aires)",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA y Banco Hipotecario",
+            "fuente": "https://elciudadanoweb.com/paro-bancario-nacional-este-miercoles-a-que-hora-comienza-la-medida-y-que-bancos-estaran-afectados/, https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/, https://elciudadanoweb.com/este-miercoles-bancarios-hacen-paro-nacional-en-que-entidades-de-rosario-no-hay-atencion/, https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
-            "lugar": "Banco Central de la República Argentina y Banco Hipotecario",
-            "quien": "Asociación Bancaria",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al cierre de tesorerías regionales del BCRA, cierres de sucursales y despidos en el Banco Hipotecario, calificados como políticas arbitrarias y de ajuste",
-            "fuente": "https://estadodealerta.com.ar/paro-bancario-el-miercoles-13-en-bcra-y-banco-hipotecario-contra-decisiones-intolerables-de-sus-autoridades/, https://www.inforegion.com.ar/2026/05/07/paro-bancario-la-bancaria-convoco-a-medidas-de-fuerza-en-el-banco-central-y-el-hipotecario/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-05-13",
-            "horario": "15:00",
-            "lugar": "BCRA y Banco Hipotecario (sucursales en Rosario)",
-            "quien": "Asociación Bancaria (Seccional Rosario)",
-            "tipo_medida": "Paro parcial",
-            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA/Banco Hipotecario",
-            "fuente": "https://elciudadanoweb.com/este-miercoles-bancarios-hacen-paro-nacional-en-que-entidades-de-rosario-no-hay-atencion/, https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
+            "lugar": "Tribunales Federales de bulevar Oroño al 900, Rosario",
+            "quien": "Unión de Empleados Judiciales de la Nación (UEJN)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, laborales y de salud; exigencia de recomposición salarial, transparencia en fondos y cobertura sanitaria digna",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-un-banderazo-este-miercoles-y-paro-de-24-horas-el-viernes/05/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -10640,6 +10630,16 @@
             "tipo_medida": "Asamblea abierta",
             "motivo": "Debate sobre organización y lucha contra políticas de ajuste",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-del-PTS-FITU"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "No especificado",
+            "lugar": "Italia",
+            "quien": "Colectivo Autónomo de Trabajadores Portuarios (CALP) y Unión Sindical de Base (USB)",
+            "tipo_medida": "Huelga general",
+            "motivo": "Solidaridad internacional con Palestina y bloqueo de armamentos hacia Gaza",
+            "fuente": "https://www.anred.org/blocchiammo-tutto-se-viene-otra-huelga-general-en-italia-contra-el-genocidio-en-gaza/"
         },
         {
             "es_evento_relevante": true,
