@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-13T14:21:56.485531-03:00",
+    "last_updated": "2026-05-13T16:54:34.124621-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10575,6 +10575,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-14",
             "horario": "10:00",
+            "lugar": "Esquina de 6 y 51, La Plata",
+            "quien": "ATE (Asociación Trabajadores del Estado) - Ministerio de Mujeres y Diversidad de Buenos Aires",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos por recomposición salarial, reconocimiento de tareas y mejoras en condiciones laborales",
+            "fuente": "https://www.anred.org/trabajadorxs-del-ministerio-de-mujeres-y-diversidad-bonaerense-realizaran-una-olla-popular-en-reclamo-de-recomposicion-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "10:00",
             "lugar": "Planta de Granja Tres Arroyos en Concepción del Uruguay",
             "quien": "Sindicato de la Carnea",
             "tipo_medida": "Paro",
@@ -10620,6 +10630,16 @@
             "tipo_medida": "Marcha federal",
             "motivo": "Exigencia de cumplimiento de la Ley de financiamiento universitario ante la inacción del gobierno",
             "fuente": "https://www.infobae.com/politica/2026/04/19/emiliano-yacobitti-advirtio-que-podrian-volver-a-marchar-si-el-gobierno-no-cumple-con-el-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-17",
+            "horario": "10:30",
+            "lugar": "Aeropuertos de todo el país",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Despidos de 140 trabajadores del Servicio Meteorológico Nacional (SMN) y reclamo por derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/ate-realizara-protestas-en-todos-los-aeropuertos-del-pais-este-viernes-despidos-en-el-smn-el-eje-de-conflicto/05/2026/, https://www.lamontana.com.ar/noticias/2026/05/13/15393-ate-anuncio-protestas-en-aeropuertos-y-amenaza-con-un-paro-nacional-por-despidos-en-el-smn"
         },
         {
             "es_evento_relevante": true,
