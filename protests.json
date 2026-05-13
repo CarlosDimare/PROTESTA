@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T21:00:10.404512-03:00",
+    "last_updated": "2026-05-12T23:44:31.999745-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10455,11 +10455,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "10:00",
-            "lugar": "Ciudad de Buenos Aires",
-            "quien": "Rectores, docentes, estudiantes y sindicatos universitarios",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Comunidad universitaria (rectores, sindicatos, estudiantes)",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar mayores fondos para universidades públicas, actualización salarial para docentes y no docentes, y garantías para el funcionamiento del sistema educativo superior",
-            "fuente": "https://www.conclusion.com.ar/politica/desde-la-casa-rosada-descalifican-la-marcha-federal-universitaria-claramente-es-politica/05/2026/"
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y protestar por los recortes en educación",
+            "fuente": "https://www.infobae.com/politica/2026/05/12/gobernadores-legisladores-intendentes-y-referentes-opositores-participaron-de-la-marcha-universitaria/, https://www.conclusion.com.ar/politica/desde-la-casa-rosada-descalifican-la-marcha-federal-universitaria-claramente-es-politica/05/2026/"
         },
         {
             "es_evento_relevante": true,
