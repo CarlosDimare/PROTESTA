@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-12T23:44:31.999745-03:00",
+    "last_updated": "2026-05-13T03:34:43.474520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10465,6 +10465,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "12:00",
+            "lugar": "Tribunales Federales de bulevar Oroño al 900, Rosario",
+            "quien": "Unión de Empleados Judiciales de la Nación (UEJN)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, laborales y de salud; exigencia de recomposición salarial, transparencia en fondos y cobertura sanitaria digna",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-un-banderazo-este-miercoles-y-paro-de-24-horas-el-viernes/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "12:00",
             "lugar": "Banco Central de la República Argentina y Banco Hipotecario",
             "quien": "Asociación Bancaria",
             "tipo_medida": "Paro",
@@ -10475,11 +10485,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-13",
             "horario": "15:00",
-            "lugar": "Sucursales del BCRA y Banco Hipotecario en Rosario",
-            "quien": "Asociación Bancaria Seccional Rosario",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a cierres de sucursales, despidos y políticas de ajuste laboral en el BCRA y Banco Hipotecario",
-            "fuente": "https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
+            "lugar": "BCRA y Banco Hipotecario (sucursales en Rosario)",
+            "quien": "Asociación Bancaria (Seccional Rosario)",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Rechazo a cierres de sucursales y despidos en BCRA/Banco Hipotecario",
+            "fuente": "https://elciudadanoweb.com/este-miercoles-bancarios-hacen-paro-nacional-en-que-entidades-de-rosario-no-hay-atencion/, https://elciudadanoweb.com/paro-bancario-en-rosario-el-bcra-y-el-hipotecario-cierran-sus-puertas-por-tres-horas/, https://www.conclusion.com.ar/gremiales/el-miercoles-habra-paro-de-bancarios-en-rosario-adhieren-los-trabajadores-del-banco-central-e-hipotecario/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-13",
+            "horario": "15:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Colectivo universitario por la educación pública",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la universidad pública contra recortes y críticas del gobierno",
+            "fuente": "https://elciudadanoweb.com/una-ganga-el-gobierno-difundio-el-costo-por-graduado-y-sumo-otro-argumento-para-marchar/"
         },
         {
             "es_evento_relevante": true,
