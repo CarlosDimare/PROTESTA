@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-14T18:10:15.169965-03:00",
+    "last_updated": "2026-05-14T19:57:31.030297-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10610,6 +10610,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, recomposición salarial docente/no docente y denuncia de desfinanciamiento y caída presupuestaria",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-marcha-en-apoyo-a-la-universidad-publica-y-para-exigir-que-se-cumpla-con-la-ley-de-financiamiento/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-14",
+            "horario": "17:00",
+            "lugar": "Frente al Congreso Nacional, Buenos Aires",
+            "quien": "Federaciones Estudiantiles y Sindicatos Docentes Universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a recortes presupuestarios y desfinanciamiento de las universidades nacionales",
+            "fuente": "https://www.inforegion.com.ar/2026/05/13/el-gobierno-redoblo-la-apuesta-en-medio-de-la-marcha-federal-universitaria/, https://www.ambito.com/informacion-general/marcha-federal-universitaria-2025-horarios-cortes-y-puntos-concentracion-n6191351"
         },
         {
             "es_evento_relevante": true,
