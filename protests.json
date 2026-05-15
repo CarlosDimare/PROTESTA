@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15T16:27:04.137326-03:00",
+    "last_updated": "2026-05-15T18:01:19.432182-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10655,6 +10655,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-15",
             "horario": "No especificado",
+            "lugar": "Oficinas de gobierno en Ushuaia y Río Grande",
+            "quien": "Vecinos afectados por recorte de subsidios",
+            "tipo_medida": "Ocupación y posible movilización",
+            "motivo": "Rechazo al recorte de subsidios al gas y exigencia de soluciones inmediatas",
+            "fuente": "https://www.laizquierdadiario.com/Video-en-Tierra-del-Fuego-crecen-las-protestas-contra-el-tarifazo-del-gas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-15",
+            "horario": "No especificado",
             "lugar": "Estadio Marcelo Biela (Newell's Old Boys)",
             "quien": "Movimiento Rojinegro Querido",
             "tipo_medida": "Asamblea",
@@ -10680,6 +10690,16 @@
             "tipo_medida": "Paro",
             "motivo": "Repudio al genocidio en Gaza, agresión imperialista en Medio Oriente, política de rearme europeo y exigencia de romper relaciones con Israel",
             "fuente": "https://www.laizquierdadiario.com/Italia-La-Union-Sindical-de-Base-llama-a-un-paro-contra-el-genocidio-y-la-guerra, https://www.bbc.com/mundo/articles/c5yklej7nnno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "10:30",
+            "lugar": "Aeroparque Jorge Newbery",
+            "quien": "ATE y sindicatos aeronáuticos (APLA, APTA, CATT, Intercargo)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, reincorporación de 140 despedidos del SMN, cese del vaciamiento del organismo y paritarias para ANAC/EANA",
+            "fuente": "https://www.inforegion.com.ar/2026/05/15/protesta-en-aeroparque-trabajadores-del-smn-denuncian-despidos-y-advierten-por-el-impacto-en-vuelos/, https://realidadsm.com/2026/05/13/protesta-en-aeropuertos-advierten-que-podria-haber-paro-nacional/"
         },
         {
             "es_evento_relevante": true,
@@ -10730,6 +10750,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperación de puntos salariales perdidos y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/05/13/tras-la-masiva-marcha-en-reclamo-de-fondos-el-gobierno-prepara-una-convocatoria-para-las-universidades/, https://chequeado.com/el-explicador/marcha-federal-universitaria-del-12-de-mayo-de-2026-5-datos-clave-sobre-el-financiamiento-y-los-salarios-docentes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "12:30",
+            "lugar": "Esquina de Buenos Aires y Santa Fe, Rosario",
+            "quien": "ATE Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos incumplidos por parte del municipio: cumplimiento de acuerdos de enero (recategorizaciones, traslados, regularización de personal), concursos públicos transparentes, pase a planta permanente de precarizados y recomposición salarial ante el aumento del costo de vida",
+            "fuente": "https://www.conclusion.com.ar/gremiales/municipales-nucleados-en-ate-anuncian-una-protesta-frente-al-palacio-de-los-leones-critican-nombramientos-expres/05/2026/"
         },
         {
             "es_evento_relevante": true,
