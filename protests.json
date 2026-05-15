@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15T10:57:57.044598-03:00",
+    "last_updated": "2026-05-15T13:07:26.492848-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10650,6 +10650,16 @@
             "tipo_medida": "Marcha federal",
             "motivo": "Exigencia de cumplimiento de la Ley de financiamiento universitario ante la inacción del gobierno",
             "fuente": "https://www.infobae.com/politica/2026/04/19/emiliano-yacobitti-advirtio-que-podrian-volver-a-marchar-si-el-gobierno-no-cumple-con-el-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-15",
+            "horario": "No especificado",
+            "lugar": "Estadio Marcelo Biela (Newell's Old Boys)",
+            "quien": "Movimiento Rojinegro Querido",
+            "tipo_medida": "Asamblea",
+            "motivo": "Exigir transparencia en la gestión y soluciones a la deuda del club",
+            "fuente": "https://www.conclusion.com.ar/deportes/cristian-damico-analiza-el-presente-de-newells-en-la-previa-de-la-asamblea/05/2026/"
         },
         {
             "es_evento_relevante": true,
