@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-15T18:01:19.432182-03:00",
+    "last_updated": "2026-05-15T18:58:39.484348-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10780,6 +10780,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Rechazo a políticas de precarización laboral, reforma laboral, quita de soberanía y medidas del gobierno de Milei",
             "fuente": "https://motoreconomico.com.ar/las-cta-presionan-para-escalar-las-protestas-y-convocan-a-una-jornada-nacional-de-lucha-para-el-22-de-mayo/, https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
+            "tipo_medida": "Paro",
+            "motivo": "Plan de lucha nacional por reclamos salariales y laborales, profundización de medidas de fuerza y visibilización de demandas",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anunciaron-un-paro-de-semana-completa-del-26-al-30-de-mayo/05/2026/"
         },
         {
             "es_evento_relevante": true,
