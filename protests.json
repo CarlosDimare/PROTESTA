@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-16T05:01:57.722713-03:00",
+    "last_updated": "2026-05-16T06:32:46.220444-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10670,6 +10670,16 @@
             "tipo_medida": "Asamblea",
             "motivo": "Exigir transparencia en la gestión y soluciones a la deuda del club",
             "fuente": "https://www.conclusion.com.ar/deportes/cristian-damico-analiza-el-presente-de-newells-en-la-previa-de-la-asamblea/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-16",
+            "horario": "18:00",
+            "lugar": "Universidad de San Pablo",
+            "quien": "Estudiantes y trabajadores de la Universidad de San Pablo, UNESP y Unicamp",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la precarización de las condiciones de estudio y trabajo, y contra los intentos de privatización",
+            "fuente": "https://www.laizquierdadiario.com/De-Alemania-a-Chile-el-movimiento-estudiantil-protagoniza-protestas-en-el-mundo, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
