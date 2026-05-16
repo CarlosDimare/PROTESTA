@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-16T02:54:02.568086-03:00",
+    "last_updated": "2026-05-16T05:01:57.722713-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10780,6 +10780,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Rechazo a políticas de precarización laboral, reforma laboral, quita de soberanía y medidas del gobierno de Milei",
             "fuente": "https://motoreconomico.com.ar/las-cta-presionan-para-escalar-las-protestas-y-convocan-a-una-jornada-nacional-de-lucha-para-el-22-de-mayo/, https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-25",
+            "horario": "La hora de inicio del evento de protesta es **12:00**.\n\n**Explicación:**  \nEl texto especifica claramente que el jueves 22, a partir del mediodía, se realizará una actividad con cese de actividades y facilidades académicas. Se indica:  \n*\"A partir del mediodía habrá cese de actividades... Esta actividad se realizará desde las 12hs\"*.  \n\"Mediodía\" equivale a 12:00, y se confirma con la mención explícita \"12hs\".  \n\nEl paro del viernes 23 es de 24 horas pero **no se indica una hora de inicio específica**. Por lo tanto, la única hora mencionada es la del evento del jueves.",
+            "lugar": "No especificado",
+            "quien": "ADULP, ATULP y FULP",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario, aumento de presupuesto, mejoras salariales y actualización de becas",
+            "fuente": "https://www.infobae.com/politica/2026/05/16/tras-la-marcha-en-reclamo-por-los-fondos-la-universidad-nacional-de-la-plata-anuncio-otra-semana-de-paro/, https://infoprovincia.com.ar/adulp-prepara-el-terreno-para-la-marcha-federal-paro-y-protestas-en-la-unlp/"
         },
         {
             "es_evento_relevante": true,
