@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-17T13:59:16.948757-03:00",
+    "last_updated": "2026-05-17T15:00:34.761312-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10740,6 +10740,26 @@
             "tipo_medida": "Huelga general",
             "motivo": "Solidaridad internacional con Palestina y bloqueo de armamentos hacia Gaza",
             "fuente": "https://www.anred.org/blocchiammo-tutto-se-viene-otra-huelga-general-en-italia-contra-el-genocidio-en-gaza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-19",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Consejo Interuniversitario Nacional (CIN), Frente Gremial Docente y No Docente, Federación Universitaria Argentina (FUA), Confederación General del Trabajo (CGT), CTA de los Trabajadores, CTA Autónoma",
+            "tipo_medida": "Marcha Federal Universitaria",
+            "motivo": "Defensa de la Ley de Financiamiento Universitario, rechazo al ajuste del Gobierno de Milei, reclamo por salarios y presupuesto para educación pública",
+            "fuente": "https://estadodealerta.com.ar/una-cuarta-marcha-federal-universitaria-masiva-reclamo-por-la-ley-de-financiamiento-y-cuestiono-los-nuevos-ajustes-a-la-educacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-19",
+            "horario": "18:00",
+            "lugar": "Av. Rosales 954, Remedios de Escalada",
+            "quien": "Taller de cerámica \"La Sucursal de la Luna\"",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo por la continuidad del espacio cultural y denuncia del vaciamiento del predio tras el corte de suministro eléctrico e intimación de desalojo",
+            "fuente": "https://www.anred.org/remedios-de-escalada-taller-cultural-denuncia-intento-de-desalojo-y-convoca-a-un-corte-de-calle/"
         },
         {
             "es_evento_relevante": true,
