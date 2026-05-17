@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-17T11:59:23.406987-03:00",
+    "last_updated": "2026-05-17T13:02:03.695413-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10690,6 +10690,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Despidos de 140 trabajadores del Servicio Meteorológico Nacional (SMN) y reclamo por derechos laborales",
             "fuente": "https://www.conclusion.com.ar/gremiales/ate-realizara-protestas-en-todos-los-aeropuertos-del-pais-este-viernes-despidos-en-el-smn-el-eje-de-conflicto/05/2026/, https://www.lamontana.com.ar/noticias/2026/05/13/15393-ate-anuncio-protestas-en-aeropuertos-y-amenaza-con-un-paro-nacional-por-despidos-en-el-smn"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-17",
+            "horario": "No especificado",
+            "lugar": "Centro Administrativo Ministerial (CAM) de Neuquén",
+            "quien": "Colectivo de enfermería de Neuquén (con apoyo de UPCN y AUEN)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el ítem de Dedicación Exclusiva y denunciar discriminación y precarización en el sistema de salud público",
+            "fuente": "https://www.laizquierdadiario.com/Somos-profesionales-de-la-salud-el-reclamo-de-enfermeria-por-la-dedicacion-exclusiva"
         },
         {
             "es_evento_relevante": true,
