@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-17T18:52:14.852331-03:00",
+    "last_updated": "2026-05-17T19:50:21.996541-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10830,6 +10830,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario, aumento de presupuesto, mejoras salariales y actualización de becas",
             "fuente": "https://www.infobae.com/politica/2026/05/16/tras-la-marcha-en-reclamo-por-los-fondos-la-universidad-nacional-de-la-plata-anuncio-otra-semana-de-paro/, https://infoprovincia.com.ar/adulp-prepara-el-terreno-para-la-marcha-federal-paro-y-protestas-en-la-unlp/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales de Argentina",
+            "quien": "CONADU (Consejo Nacional de Delegaciones Académicas)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, falta de paritarias desde octubre de 2024, deterioro del sistema educativo y falta de respuestas oficiales",
+            "fuente": "https://elciudadanoweb.com/universitarios-lanzaron-un-nuevo-paro-y-profundizan-su-lucha-contra-el-ajuste-del-gobierno-de-milei/"
         },
         {
             "es_evento_relevante": true,
