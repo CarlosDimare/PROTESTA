@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-18T14:33:52.913306-03:00",
+    "last_updated": "2026-05-18T16:35:05.311864-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10730,6 +10730,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos salariales, reincorporación de 140 despedidos del SMN, cese del vaciamiento del organismo y paritarias para ANAC/EANA",
             "fuente": "https://www.inforegion.com.ar/2026/05/15/protesta-en-aeroparque-trabajadores-del-smn-denuncian-despidos-y-advierten-por-el-impacto-en-vuelos/, https://realidadsm.com/2026/05/13/protesta-en-aeropuertos-advierten-que-podria-haber-paro-nacional/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "16:00",
+            "lugar": "Misiones 81 hasta las puertas de la comisaría",
+            "quien": "Familiares y allegados de Kevin",
+            "tipo_medida": "Marcha",
+            "motivo": "Pedido de justicia por Kevin",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/05/18/nadie-hizo-nada-para-evitar-que-le-peguen-el-reclamo-de-la-abuela-del-joven-que-murio-tras-un-choque-y-una-golpiza-en-chascomus/"
         },
         {
             "es_evento_relevante": true,
