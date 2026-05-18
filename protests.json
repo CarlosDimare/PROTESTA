@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-18T12:12:58.567743-03:00",
+    "last_updated": "2026-05-18T14:33:52.913306-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10710,6 +10710,16 @@
             "tipo_medida": "Paro",
             "motivo": "Repudio al genocidio en Gaza, agresión imperialista en Medio Oriente, política de rearme europeo y exigencia de romper relaciones con Israel",
             "fuente": "https://www.laizquierdadiario.com/Italia-La-Union-Sindical-de-Base-llama-a-un-paro-contra-el-genocidio-y-la-guerra, https://www.bbc.com/mundo/articles/c5yklej7nnno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-18",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Liga Obrera Revolucionaria por la Cuarta Internacional (LOR-CI)",
+            "tipo_medida": "Movilización y Paro General",
+            "motivo": "Contra políticas neoliberales y ajuste del gobierno de Paz: recortes en salud/educación, despojo de tierras, privatizaciones, impuestos a ricos y represión",
+            "fuente": "https://www.laizquierdadiario.com/Fuera-Paz-Huelga-general-indefinida-y-bloqueo-de-caminos-hasta-que-caiga-el-gobierno-de-los"
         },
         {
             "es_evento_relevante": true,
