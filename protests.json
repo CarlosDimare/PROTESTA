@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-18T08:04:48.477423-03:00",
+    "last_updated": "2026-05-18T12:12:58.567743-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10763,6 +10763,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-05-19",
+            "horario": "No especificado",
+            "lugar": "Sede de gobierno (plaza Murillo)",
+            "quien": "Sindicatos y organizaciones sociales (Federación de Campesinos Túpac Katari, Central Obrera Boliviana, sectores obreros, indígenas y campesinos)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la dimisión del presidente Rodrigo Paz y oponerse a las medidas económicas implementadas",
+            "fuente": "https://www.conclusion.com.ar/internacionales/huelga-general-marchas-y-bloqueos-en-bolivia-escala-el-conflicto-contra-el-gobierno-de-rodrigo-paz-y-aumenta-la-represion/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-05-20",
             "horario": "12:00",
             "lugar": "Ciudad Autónoma de Buenos Aires (epicentro nacional)",
@@ -10780,6 +10790,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del sistema público de salud y acceso universal ante recortes y deterioro bajo la gestión de Javier Milei",
             "fuente": "https://www.inforegion.com.ar/2026/05/05/convocan-a-una-marcha-federal-de-la-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "17:00",
+            "lugar": "Plaza de Mayo, frente a la Casa Rosada",
+            "quien": "Consejo Interuniversitario Nacional, Federación Universitaria Argentina y Frente Sindical de las Universidades Nacionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir a la Corte Suprema de Justicia de la Nación que garantice el cumplimiento de la Ley de Financiamiento Universitaria, incumplida por el gobierno nacional.",
+            "fuente": "https://www.inforegion.com.ar/2026/05/12/universidades-reclamaron-a-la-corte-suprema-que-garantice-la-ley-de-financiamiento-que-lleva-203-dias-sin-aplicar-la-ley/, https://www.infobae.com/politica/2026/05/12/cuarta-marcha-federal-universitaria-contra-el-gobierno-todos-los-reclamos-y-el-mapa-de-la-movilizacion/"
         },
         {
             "es_evento_relevante": true,
