@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-18T16:35:05.311864-03:00",
+    "last_updated": "2026-05-18T18:08:40.728319-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10880,6 +10880,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales, falta de paritarias desde octubre de 2024, deterioro del sistema educativo y falta de respuestas oficiales",
             "fuente": "https://elciudadanoweb.com/universitarios-lanzaron-un-nuevo-paro-y-profundizan-su-lucha-contra-el-ajuste-del-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
+            "horario": "10:00",
+            "lugar": "Todas las universidades públicas nacionales",
+            "quien": "Conadu (Confederación de Trabajadores de la Educación de la Argentina)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario y caída salarial del 34% desde 2024",
+            "fuente": "https://www.inforegion.com.ar/2026/05/18/llega-un-nuevo-paro-universitario-y-durara-una-semana/, https://jotai.ar/859/"
         },
         {
             "es_evento_relevante": true,
