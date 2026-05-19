@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19T17:31:50.756858-03:00",
+    "last_updated": "2026-05-19T19:14:51.828838-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10774,6 +10774,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-19",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "CATT y sindicatos del transporte",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a medidas de ajuste, aumento tarifario, desinversión en infraestructura y pérdida de derechos laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/la-catt-declara-el-alerta-y-movilizacion-por-la-situacion-del-transporte-crisis-profunda--202651917130, https://www.tiempoar.com.ar/ta_article/mas-de150-sindicatos-y-organizaciones-sociales-se-unieron-para-convocar-una-medida-de-lucha-para-el-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-19",
             "horario": "17:00",
             "lugar": "Esmeralda 1212, Ciudad de Buenos Aires (sede del Ministerio de Relaciones Exteriores)",
             "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino y otras organizaciones sociales y políticas",
@@ -10804,12 +10814,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-20",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores y directivos del sistema de salud bonaerense",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a recortes en salud, falta de insumos, vaciamiento de PAMI, reclamo por salarios y políticas de salud mental",
+            "fuente": "https://www.infobae.com/politica/2026/05/19/kicillof-respaldo-la-marcha-federal-de-salud-y-critico-las-politicas-de-milei-es-una-situacion-catastrofica/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
             "horario": "11:30",
             "lugar": "Plaza 25 de Mayo, Rosario",
             "quien": "CTAA Rosario y CGT Rosario",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a los recortes en el sistema público de salud y defensa de la salud pública",
-            "fuente": "https://www.conclusion.com.ar/gremiales/gremios-rosarinos-convocan-este-miercoles-a-la-marcha-nacional-por-la-salud/05/2026/"
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al recorte de 63 mil millones de pesos en salud pública y defensa de derechos laborales",
+            "fuente": "https://elciudadanoweb.com/marcha-nacional-por-la-salud-tambien-hay-movilizacion-en-rosario/, https://www.conclusion.com.ar/gremiales/gremios-rosarinos-convocan-este-miercoles-a-la-marcha-nacional-por-la-salud/05/2026/"
         },
         {
             "es_evento_relevante": true,
