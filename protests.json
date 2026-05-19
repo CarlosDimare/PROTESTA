@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19T10:59:29.668544-03:00",
+    "last_updated": "2026-05-19T13:51:59.809305-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10825,11 +10825,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-20",
             "horario": "13:00",
-            "lugar": "Ministerio de Salud de la Nación, 9 de Julio 1925, Ciudad Autónoma de Buenos Aires",
-            "quien": "Foro por el Derecho a la Salud, Federación Sindical Nacional de Trabajadores de la Salud (FESINTRAS), CICOP",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa del sistema público de salud y acceso universal ante recortes y deterioro bajo la gestión de Javier Milei",
-            "fuente": "https://www.inforegion.com.ar/2026/05/05/convocan-a-una-marcha-federal-de-la-salud/"
+            "lugar": "Ministerio de Salud de la Nación (avenida 9 de Julio y Belgrano) con destino a Plaza de Mayo",
+            "quien": "Federación Sindical Nacional de Trabajadores y Trabajadoras de la Salud (FESINTRAS) y Foro por el Derecho a la Salud",
+            "tipo_medida": "Paro Nacional con Marcha Federal",
+            "motivo": "Rechazo a recortes presupuestarios en salud (63 mil millones de pesos), defensa del sistema público y denuncia de desfinanciamiento de programas esenciales como PAMI, vacunación y acceso a medicamentos",
+            "fuente": "https://www.datagremial.com/informacion-general/ante-la-situacion-insostenible-de-la-salud-gremios-llaman-a-marchar-en-defensa-del-sistema-publico-20265199440, https://www.inforegion.com.ar/2026/05/05/convocan-a-una-marcha-federal-de-la-salud/"
         },
         {
             "es_evento_relevante": true,
@@ -10870,6 +10870,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Exigen aumento del 7% en salarios, eliminación del límite a primas por productividad y distribución del 15% de beneficios operativos como bonificaciones",
             "fuente": "https://www.laizquierdadiario.com/Corea-del-Sur-40-000-trabajadores-de-Samsung-amenazan-con-huelga-indefinida-para-exigir-mejores"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-22",
+            "horario": "11:30",
+            "lugar": "Plaza 25 de Mayo, Rosario",
+            "quien": "Sindicato de Profesionales de la Salud de la República Argentina (Siprus) y trabajadores de la salud",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra recortes en salud y por condiciones dignas de trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/marcha-nacional-de-salud-trabajadores-rosarinos-movilizaran-al-pami-i/05/2026/"
         },
         {
             "es_evento_relevante": true,
