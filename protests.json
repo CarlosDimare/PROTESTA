@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-18T21:02:42.968212-03:00",
+    "last_updated": "2026-05-19T01:05:20.333073-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10774,6 +10774,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-19",
+            "horario": "17:00",
+            "lugar": "Esmeralda 1212, Ciudad de Buenos Aires (sede del Ministerio de Relaciones Exteriores)",
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino y otras organizaciones sociales y políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la liberación inmediata de los secuestrados por Israel en la Flotilla Global Sumud y repudiar el accionar del Estado de Israel",
+            "fuente": "https://www.laizquierdadiario.com/Concentracion-en-Cancilleria-argentina-contra-el-nuevo-secuestro-de-la-Flotilla-Global-Sumud-por"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-19",
             "horario": "18:00",
             "lugar": "Av. Rosales 954, Remedios de Escalada",
             "quien": "Taller de cerámica \"La Sucursal de la Luna\"",
@@ -10790,6 +10800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir la dimisión del presidente Rodrigo Paz y oponerse a las medidas económicas implementadas",
             "fuente": "https://www.conclusion.com.ar/internacionales/huelga-general-marchas-y-bloqueos-en-bolivia-escala-el-conflicto-contra-el-gobierno-de-rodrigo-paz-y-aumenta-la-represion/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "11:30",
+            "lugar": "Plaza 25 de Mayo, Rosario",
+            "quien": "CTAA Rosario y CGT Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a los recortes en el sistema público de salud y defensa de la salud pública",
+            "fuente": "https://www.conclusion.com.ar/gremiales/gremios-rosarinos-convocan-este-miercoles-a-la-marcha-nacional-por-la-salud/05/2026/"
         },
         {
             "es_evento_relevante": true,
