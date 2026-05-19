@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19T13:51:59.809305-03:00",
+    "last_updated": "2026-05-19T16:04:08.524737-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10890,6 +10890,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Rechazo a políticas de precarización laboral, reforma laboral, quita de soberanía y medidas del gobierno de Milei",
             "fuente": "https://motoreconomico.com.ar/las-cta-presionan-para-escalar-las-protestas-y-convocan-a-una-jornada-nacional-de-lucha-para-el-22-de-mayo/, https://www.datagremial.com/informacion-general/las-dos-cta-convocaron-para-un-gran-paro-nacional-con-movilizaciones-para-la-segunda-quincena-de-mayo-20264309310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-23",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "Unión Sindical de Base (USB)",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con Palestina y contra el militarismo y las guerras",
+            "fuente": "https://www.laizquierdadiario.com/Marchas-y-paralizaciones-en-Italia-por-la-Flotilla-y-contra-el-guerrerismo-de-Meloni, https://www.lasexta.com/noticias/sociedad/huelga-15-octubre-palestina-manifestaciones-informacion_2025101468ee60e69c028a4cad3a059f.html"
         },
         {
             "es_evento_relevante": true,
