@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T10:40:56.356277-03:00",
+    "last_updated": "2026-05-20T13:58:54.294007-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10835,11 +10835,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-20",
             "horario": "11:30",
-            "lugar": "Plaza 25 de Mayo, Rosario",
-            "quien": "CTAA Rosario y CGT Rosario",
+            "lugar": "Plaza 25 de Mayo (Rosario)",
+            "quien": "Trabajadores de la salud / Siprus Rosario",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo al recorte de 63 mil millones de pesos en salud pública y defensa de derechos laborales",
-            "fuente": "https://elciudadanoweb.com/marcha-nacional-por-la-salud-tambien-hay-movilizacion-en-rosario/, https://www.conclusion.com.ar/gremiales/gremios-rosarinos-convocan-este-miercoles-a-la-marcha-nacional-por-la-salud/05/2026/"
+            "motivo": "Defensa del derecho a la salud, condiciones laborales dignas y oposición a recortes presupuestarios en el sistema público",
+            "fuente": "https://www.conclusion.com.ar/gremiales/marcha-nacional-de-salud-con-apoyo-de-la-cgt-rosario-trabajadores-rosarinos-movilizan-al-pami-i/05/2026/, https://elciudadanoweb.com/marcha-nacional-por-la-salud-tambien-hay-movilizacion-en-rosario/, https://www.conclusion.com.ar/gremiales/gremios-rosarinos-convocan-este-miercoles-a-la-marcha-nacional-por-la-salud/05/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -10850,6 +10850,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Denunciar ajuste, vaciamiento del Pami y defender salud pública de calidad",
             "fuente": "https://elciudadanoweb.com/movilizacion-de-profesionales-y-trabajadores-de-salud-frente-al-cemar-y-el-anuncio-de-una-marcha-federal-de-la-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación",
+            "quien": "Foro por el Derecho a la Salud y CTA Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "Denunciarán el desfinanciamiento del sistema de salud y sus consecuencias en el acceso a medicamentos y tratamientos",
+            "fuente": "https://www.anred.org/marcha-federal-en-defensa-de-la-salud-publica/"
         },
         {
             "es_evento_relevante": true,
