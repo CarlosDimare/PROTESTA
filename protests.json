@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T00:34:23.602257-03:00",
+    "last_updated": "2026-05-20T04:41:28.998219-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10824,6 +10824,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-20",
+            "horario": "11:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires y plazas de principales ciudades del país",
+            "quien": "Frente Sindical Universitario (FEDUN, FATUN) con apoyo de CGT, CTA, bloques opositores, movimientos sociales y Axel Kicillof",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y frenar recortes presupuestarios en educación",
+            "fuente": "https://www.datagremial.com/escenario/otra-multitudinaria-marcha-para-ratificar-el-reclamo-universitario-milei-cumpli-la-ley--2026513900"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
             "horario": "11:30",
             "lugar": "Plaza 25 de Mayo, Rosario",
             "quien": "CTAA Rosario y CGT Rosario",
@@ -10840,6 +10850,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Denunciar ajuste, vaciamiento del Pami y defender salud pública de calidad",
             "fuente": "https://elciudadanoweb.com/movilizacion-de-profesionales-y-trabajadores-de-salud-frente-al-cemar-y-el-anuncio-de-una-marcha-federal-de-la-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación (Av. 9 de Julio y Moreno) hacia Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Foro por el Derecho a la Salud, con participación de sindicatos (ATE), organizaciones sociales, estudiantiles y trabajadores del sector salud",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a recortes de 63.000 millones de pesos en salud, defensa del financiamiento del sistema público y oposición a políticas regresivas como el desfinanciamiento de programas sanitarios",
+            "fuente": "https://www.infobae.com/politica/2026/05/20/gremios-dirigentes-y-opositores-marcharan-por-la-salud-publica-y-el-gobierno-rechaza-las-denuncias-de-recortes/"
         },
         {
             "es_evento_relevante": true,
