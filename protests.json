@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T07:47:32.603584-03:00",
+    "last_updated": "2026-05-20T10:40:56.356277-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10900,6 +10900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperación de puntos salariales perdidos y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/05/13/tras-la-masiva-marcha-en-reclamo-de-fondos-el-gobierno-prepara-una-convocatoria-para-las-universidades/, https://chequeado.com/el-explicador/marcha-federal-universitaria-del-12-de-mayo-de-2026-5-datos-clave-sobre-el-financiamiento-y-los-salarios-docentes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "11:30",
+            "lugar": "Pami I (Sarmiento al 400), Rosario",
+            "quien": "Trabajadores de la salud de Siprus Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra recortes en salud, por condiciones dignas de trabajo y acceso universal a la atención",
+            "fuente": "https://www.conclusion.com.ar/gremiales/marcha-nacional-de-salud-con-al-apoyo-de-la-cgt-rosario-trabajadores-rosarinos-movilizan-al-pami-i/05/2026/"
         },
         {
             "es_evento_relevante": true,
