@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-19T19:14:51.828838-03:00",
+    "last_updated": "2026-05-19T21:02:42.879434-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10840,6 +10840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Denunciar ajuste, vaciamiento del Pami y defender salud pública de calidad",
             "fuente": "https://elciudadanoweb.com/movilizacion-de-profesionales-y-trabajadores-de-salud-frente-al-cemar-y-el-anuncio-de-una-marcha-federal-de-la-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación, avenida 9 de Julio y Moreno, Buenos Aires",
+            "quien": "Foro por el Derecho a la Salud (organizaciones sociales, sindicatos y trabajadores de la salud)",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar desfinanciamiento del sistema sanitario, reducción presupuestaria y afectación al acceso a medicamentos, vacunas y tratamientos",
+            "fuente": "https://motoreconomico.com.ar/marcha-federal-en-defensa-de-la-salud-publica-asi-sera-la-movilizacion-en-buenos-aires/"
         },
         {
             "es_evento_relevante": true,
