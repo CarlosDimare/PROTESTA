@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T16:26:49.240887-03:00",
+    "last_updated": "2026-05-20T18:53:30.643554-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10950,6 +10950,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos incumplidos por parte del municipio: cumplimiento de acuerdos de enero (recategorizaciones, traslados, regularización de personal), concursos públicos transparentes, pase a planta permanente de precarizados y recomposición salarial ante el aumento del costo de vida",
             "fuente": "https://www.conclusion.com.ar/gremiales/municipales-nucleados-en-ate-anuncian-una-protesta-frente-al-palacio-de-los-leones-critican-nombramientos-expres/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación",
+            "quien": "Organizaciones sociales y sindicatos",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar ajuste del Gobierno nacional en salud pública, recortes a hospitales y programas sanitarios",
+            "fuente": "https://estadodealerta.com.ar/una-masiva-marcha-federal-en-defensa-de-la-salud-publica-visibilizo-la-grave-crisis-del-sistema-sanitario/"
         },
         {
             "es_evento_relevante": true,
