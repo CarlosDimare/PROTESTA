@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T18:53:30.643554-03:00",
+    "last_updated": "2026-05-20T20:13:21.486518-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10970,6 +10970,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Exigen aumento del 7% en salarios, eliminación del límite a primas por productividad y distribución del 15% de beneficios operativos como bonificaciones",
             "fuente": "https://www.laizquierdadiario.com/Corea-del-Sur-40-000-trabajadores-de-Samsung-amenazan-con-huelga-indefinida-para-exigir-mejores"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-22",
+            "horario": "10:00",
+            "lugar": "Avenida General Paz, a la altura de San Martín",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al cierre de PyMEs y pérdida de empleo durante la gestión de Javier Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/05/20/protesta-de-sindicatos-en-general-paz-por-el-cierre-de-pymes-denuncian-la-perdida-de-300-mil-empleos/, https://gestionsindical.com/gremios-pymes-unidos-cortan-avenida-general-paz/"
         },
         {
             "es_evento_relevante": true,
