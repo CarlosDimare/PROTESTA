@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T13:58:54.294007-03:00",
+    "last_updated": "2026-05-20T16:26:49.240887-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10894,6 +10894,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-20",
+            "horario": "16:00",
+            "lugar": "Ministerio de Salud (Avenida 9 de Julio) hacia Plaza de Mayo",
+            "quien": "Agrupación Marrón, Posta de Salud y Cuidado, PLURICOLOR de CICOP",
+            "tipo_medida": "Marcha Federal",
+            "motivo": "Contra los recortes del Gobierno nacional en salud pública, medicamentos y programas como REMEDIAR, y la preacarización laboral",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-federal-de-la-salud-reclamaran-en-Plaza-de-Mayo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-20",
             "horario": "17:00",
             "lugar": "Plaza de Mayo, frente a la Casa Rosada",
             "quien": "Consejo Interuniversitario Nacional, Federación Universitaria Argentina y Frente Sindical de las Universidades Nacionales",
@@ -10910,6 +10920,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Recuperación de puntos salariales perdidos y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.infobae.com/politica/2026/05/13/tras-la-masiva-marcha-en-reclamo-de-fondos-el-gobierno-prepara-una-convocatoria-para-las-universidades/, https://chequeado.com/el-explicador/marcha-federal-universitaria-del-12-de-mayo-de-2026-5-datos-clave-sobre-el-financiamiento-y-los-salarios-docentes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Unión Obrera Metalúrgica (UOM)",
+            "tipo_medida": "Paro General",
+            "motivo": "Contra políticas económicas del gobierno, pérdida de empleo, salarios y paritarias",
+            "fuente": "https://www.datagremial.com/informacion-general/furlan-apura-a-la-cgt-que-mas-tiene-que-pasar-para-convocar-a-un-paro-general--20265208260"
         },
         {
             "es_evento_relevante": true,
@@ -10970,6 +10990,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Solidaridad con Palestina y contra el militarismo y las guerras",
             "fuente": "https://www.laizquierdadiario.com/Marchas-y-paralizaciones-en-Italia-por-la-Flotilla-y-contra-el-guerrerismo-de-Meloni, https://www.lasexta.com/noticias/sociedad/huelga-15-octubre-palestina-manifestaciones-informacion_2025101468ee60e69c028a4cad3a059f.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-23",
+            "horario": "16:30",
+            "lugar": "Club Independencia de Las Heras, Arroyo 223",
+            "quien": "Partido de los Trabajadores Socialistas (PTS) - Comunidad de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Organización comités políticos de la clase trabajadora",
+            "fuente": "https://www.laizquierdadiario.com/Sumate-a-los-comites-estas-son-las-asambleas-encuentros-y-reuniones-que-se-vienen"
         },
         {
             "es_evento_relevante": true,
