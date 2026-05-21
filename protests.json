@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-21T07:43:38.047744-03:00",
+    "last_updated": "2026-05-21T11:06:45.801024-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10960,6 +10960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos incumplidos por parte del municipio: cumplimiento de acuerdos de enero (recategorizaciones, traslados, regularización de personal), concursos públicos transparentes, pase a planta permanente de precarizados y recomposición salarial ante el aumento del costo de vida",
             "fuente": "https://www.conclusion.com.ar/gremiales/municipales-nucleados-en-ate-anuncian-una-protesta-frente-al-palacio-de-los-leones-critican-nombramientos-expres/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "13:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadores de salud y pacientes",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste en salud y reclamo por sistema público",
+            "fuente": "https://motoreconomico.com.ar/un-mensaje-a-milei-y-lugones-crisis-sanitaria-diez-puntos-que-explican-la-marcha-en-defensa-de-la-salud-publica/, https://gestionsindical.com/marcha-plaza-mayo-recorte-63-000-millones-salud-cobertura-medicamentos/"
         },
         {
             "es_evento_relevante": true,
