@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-21T03:54:41.090610-03:00",
+    "last_updated": "2026-05-21T07:43:38.047744-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11000,6 +11000,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra recortes en salud y por condiciones dignas de trabajo",
             "fuente": "https://www.conclusion.com.ar/gremiales/marcha-nacional-de-salud-trabajadores-rosarinos-movilizaran-al-pami-i/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-22",
+            "horario": "13:00",
+            "lugar": "Ministerio de Salud de la Nación, Ciudad de Buenos Aires",
+            "quien": "Trabajadores de la salud, agrupaciones de pacientes, gremios y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de la salud pública, cuestionando políticas de ajuste del Gobierno nacional y advertir sobre el impacto en el sistema sanitario público",
+            "fuente": "https://www.inforegion.com.ar/2026/05/20/marcha-federal-por-la-salud-publica-reclamos-contra-el-ajuste-y-el-desfinanciamiento-sanitario/, https://www.clarin.com/informacion-general/hora-comienza-marcha-federal-salud-hoy-principales-reclamos-gremios-adhieren_0_pypKaTUX1a.html"
         },
         {
             "es_evento_relevante": true,
