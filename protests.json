@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-20T23:50:27.357222-03:00",
+    "last_updated": "2026-05-21T03:54:41.090610-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10940,6 +10940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra recortes en salud, por condiciones dignas de trabajo y acceso universal a la atención",
             "fuente": "https://www.conclusion.com.ar/gremiales/marcha-nacional-de-salud-con-al-apoyo-de-la-cgt-rosario-trabajadores-rosarinos-movilizan-al-pami-i/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-21",
+            "horario": "12:00",
+            "lugar": "Rosario - Recorrido: Plaza 25 de Mayo (Buenos Aires y Santa Fe) → Nodo Salud (Laprida y Rioja) → Anexo Pami I (Sarmiento 455)",
+            "quien": "Gremios, colegios de profesionales y asociaciones sanitarias (incluyendo Siprus)",
+            "tipo_medida": "Marcha federal",
+            "motivo": "Denuncia del quiebre del sistema sanitario y obras sociales por ajustes del Gobierno nacional",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-marcha-federal-de-la-salud-tambien-se-sintio-en-rosario-el-sistema-esta-roto/05/2026/"
         },
         {
             "es_evento_relevante": true,
