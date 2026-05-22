@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-22T13:23:14.065704-03:00",
+    "last_updated": "2026-05-22T15:54:15.132577-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11030,6 +11030,16 @@
             "tipo_medida": "Marcha",
             "motivo": "En defensa de la salud pública, cuestionando políticas de ajuste del Gobierno nacional y advertir sobre el impacto en el sistema sanitario público",
             "fuente": "https://www.inforegion.com.ar/2026/05/20/marcha-federal-por-la-salud-publica-reclamos-contra-el-ajuste-y-el-desfinanciamiento-sanitario/, https://www.clarin.com/informacion-general/hora-comienza-marcha-federal-salud-hoy-principales-reclamos-gremios-adhieren_0_pypKaTUX1a.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-22",
+            "horario": "No especificado",
+            "lugar": "TV Pública",
+            "quien": "SATSAID, SiPreBA, SALCo y APJ",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al congelamiento salarial y precarización laboral, en defensa de los medios públicos",
+            "fuente": "https://www.laizquierdadiario.com/Comenzo-un-nuevo-plan-de-medidas-de-protesta-en-la-Tv-Publica"
         },
         {
             "es_evento_relevante": true,
