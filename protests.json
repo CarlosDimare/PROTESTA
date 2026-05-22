@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-22T15:54:15.132577-03:00",
+    "last_updated": "2026-05-22T17:33:58.855575-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11120,6 +11120,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de derechos laborales y fortalecimiento de la organización sindical",
             "fuente": "https://estadodealerta.com.ar/reforma-laboral-supara-reunio-a-jovenes-aduaneros-de-todo-el-pais-en-jornada-de-capacitacion-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "00:00",
+            "lugar": "Todas las universidades públicas del país",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales) con NODOCENTE",
+            "tipo_medida": "Paro nacional sin concurrencia",
+            "motivo": "Reclamo por presupuesto universitario, incumplimiento de la Ley 27.795 de Financiamiento Universitario y condiciones laborales deterioradas",
+            "fuente": "https://www.datagremial.com/informacion-general/la-fatun-profundiza-su-plan-de-lucha-en-todas-las-universidades-nacionales-anuncio-cuatro-semanas-de-protesta-y-tres-paros-nacionales-nodocentes-20265221520"
         },
         {
             "es_evento_relevante": true,
