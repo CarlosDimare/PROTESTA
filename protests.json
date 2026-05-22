@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-21T21:00:43.248601-03:00",
+    "last_updated": "2026-05-21T23:53:15.342865-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -10990,6 +10990,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Exigen aumento del 7% en salarios, eliminación del límite a primas por productividad y distribución del 15% de beneficios operativos como bonificaciones",
             "fuente": "https://www.laizquierdadiario.com/Corea-del-Sur-40-000-trabajadores-de-Samsung-amenazan-con-huelga-indefinida-para-exigir-mejores"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-22",
+            "horario": "00:00",
+            "lugar": "Diversas localidades del país",
+            "quien": "Sectores sociales de base y comités de bloqueo autoorganizados",
+            "tipo_medida": "Piquete",
+            "motivo": "Continuidad de las medidas de presión contra el gobierno por represión y posible traición de la COB",
+            "fuente": "https://www.laizquierdadiario.com/Las-bases-continuan-en-las-calles-mientras-la-COB-y-otras-dirigencias-se-ausentan-ninguna-traicion"
         },
         {
             "es_evento_relevante": true,
