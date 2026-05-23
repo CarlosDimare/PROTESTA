@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T13:04:28.564509-03:00",
+    "last_updated": "2026-05-23T14:06:36.797780-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11110,6 +11110,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario y caída salarial del 34% desde 2024",
             "fuente": "https://www.inforegion.com.ar/2026/05/18/llega-un-nuevo-paro-universitario-y-durara-una-semana/, https://jotai.ar/859/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Federaciones docentes (Conadu y Conadu Histórica) y gremios no docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de aplicación de la Ley de Financiamiento Universitario, convocatoria a paritarias y rechazo a recortes presupuestarios",
+            "fuente": "https://www.laizquierdadiario.com/Universitarios-redoblan-la-apuesta-tras-la-masiva-movilizacion-y-llaman-a-paro-del-26-al-30-de-mayo"
         },
         {
             "es_evento_relevante": true,
