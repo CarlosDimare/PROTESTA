@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T00:48:23.688755-03:00",
+    "last_updated": "2026-05-23T03:36:52.973839-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11064,6 +11064,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-23",
+            "horario": "16:00",
+            "lugar": "Obelisco, Ciudad de Buenos Aires",
+            "quien": "Organizaciones bolivianas en Argentina, colectivos populares, indígenas, campesinos, sindicales y de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "En defensa del pueblo boliviano, el Estado Plurinacional y la Marcha por la Vida, contra las políticas neoliberales del gobierno de Rodrigo Paz",
+            "fuente": "https://www.anred.org/organizaciones-bolivianas-y-populares-en-argentina-se-convocaron-en-apoyo-a-las-protestas-contra-el-gobierno-de-rodrigo-paz/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-23",
             "horario": "16:30",
             "lugar": "Club Independencia de Las Heras, Arroyo 223",
             "quien": "Partido de los Trabajadores Socialistas (PTS) - Comunidad de Izquierda",
@@ -11150,6 +11160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a recortes en programas sociales y solidaridad con crisis económica y laboral",
             "fuente": "https://www.inforegion.com.ar/2026/05/07/protesta-en-puente-pueyrredon-organizaciones-sociales-marcharon-contra-el-ajuste-de-milei/, https://www.infobae.com/politica/2024/05/07/transporte-bancos-y-servicios-todas-las-actividades-que-estaran-paralizadas-el-jueves-por-la-protesta-contra-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-01",
+            "horario": "No especificado",
+            "lugar": "Ginebra, Suiza - Sede de la OIT",
+            "quien": "CGT y CTA",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia contra la reforma laboral argentina y medidas del gobierno que restringen derechos sindicales",
+            "fuente": "https://www.infobae.com/politica/2026/05/23/la-cgt-se-aleja-del-paro-general-y-se-acerca-a-europa-desembarco-masivo-de-dirigentes-en-la-conferencia-de-la-oit/"
         },
         {
             "es_evento_relevante": true,
