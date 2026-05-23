@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T18:52:49.789642-03:00",
+    "last_updated": "2026-05-23T19:50:14.400597-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11080,6 +11080,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Organización comités políticos de la clase trabajadora",
             "fuente": "https://www.laizquierdadiario.com/Sumate-a-los-comites-estas-son-las-asambleas-encuentros-y-reuniones-que-se-vienen"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-24",
+            "horario": "No especificado",
+            "lugar": "La Paz",
+            "quien": "Federación Sindical Única de Trabajadores Campesinos Túpac Katari",
+            "tipo_medida": "Marcha",
+            "motivo": "Continuar protestas contra el gobierno por crisis económica y social, y exigir soluciones a las restricciones en rutas",
+            "fuente": "https://www.conclusion.com.ar/internacionales/crisis-en-bolivia-la-policia-despejo-rutas-y-aumento-la-tension-por-las-protestas-contra-rodrigo-paz/05/2026/"
         },
         {
             "es_evento_relevante": true,
