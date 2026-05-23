@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T12:00:24.582410-03:00",
+    "last_updated": "2026-05-23T13:04:28.564509-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11140,6 +11140,16 @@
             "tipo_medida": "Paro nacional sin concurrencia",
             "motivo": "Reclamo por presupuesto universitario, incumplimiento de la Ley 27.795 de Financiamiento Universitario y condiciones laborales deterioradas",
             "fuente": "https://www.datagremial.com/informacion-general/la-fatun-profundiza-su-plan-de-lucha-en-todas-las-universidades-nacionales-anuncio-cuatro-semanas-de-protesta-y-tres-paros-nacionales-nodocentes-20265221520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "No especificado",
+            "lugar": "Tribunales",
+            "quien": "La Fraternidad",
+            "tipo_medida": "Impugnación judicial",
+            "motivo": "Resistencia contra multas y defensa del derecho a huelga",
+            "fuente": "https://estadodealerta.com.ar/escala-la-ofensiva-antisindical-del-gobierno-con-multas-millonarias-a-los-gremios-del-transporte/"
         },
         {
             "es_evento_relevante": true,
