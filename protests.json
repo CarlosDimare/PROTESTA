@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-23T21:02:35.568039-03:00",
+    "last_updated": "2026-05-23T23:44:51.937009-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11090,6 +11090,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Continuar protestas contra el gobierno por crisis económica y social, y exigir soluciones a las restricciones en rutas",
             "fuente": "https://www.conclusion.com.ar/internacionales/crisis-en-bolivia-la-policia-despejo-rutas-y-aumento-la-tension-por-las-protestas-contra-rodrigo-paz/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-25",
+            "horario": "**16:00**",
+            "lugar": "Flores, Ciudad Autónoma de Buenos Aires",
+            "quien": "Trabajadores de la salud, docentes, jubilados y vecinos organizados por la izquierda (PTS/Myriam Bregman)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Construir comités políticos de la clase trabajadora para enfrentar el plan de ajuste de Milei y fortalecer luchas sindicales y sociales",
+            "fuente": "https://www.laizquierdadiario.com/Cientos-de-companeras-y-companeros-en-las-Asambleas-del-PTS-llaman-a-organizar-Comites, https://www.laizquierdadiario.com/Argentina-1o-de-Mayo-Ante-miles-de-personas-Myriam-Bregman-llamo-a-organizarse-para-la-resistencia"
         },
         {
             "es_evento_relevante": true,
