@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-25T11:49:11.366964-03:00",
+    "last_updated": "2026-05-25T14:10:44.570871-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11134,12 +11134,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-26",
-            "horario": "No especificado",
+            "horario": "17:00",
             "lugar": "Todo el país",
-            "quien": "Federaciones docentes (Conadu y Conadu Histórica) y gremios no docentes",
+            "quien": "CONADUH y CONADU",
             "tipo_medida": "Paro",
-            "motivo": "Exigencia de aplicación de la Ley de Financiamiento Universitario, convocatoria a paritarias y rechazo a recortes presupuestarios",
-            "fuente": "https://www.laizquierdadiario.com/Universitarios-redoblan-la-apuesta-tras-la-masiva-movilizacion-y-llaman-a-paro-del-26-al-30-de-mayo"
+            "motivo": "Desfinanciamiento universitario y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.anred.org/asamblea-docente-resuelve-el-cierre-de-cuatrimestre-en-carreras-estrategicas-ciencia-de-datos-y-computacion-de-la-uba/, https://www.laizquierdadiario.com/Universitarios-redoblan-la-apuesta-tras-la-masiva-movilizacion-y-llaman-a-paro-del-26-al-30-de-mayo, https://www.clarin.com/informacion-general/marcha-universitaria-hora-cortes-puntos-concentracion-martes-12-mayo_0_bo2Gzv3JmC.html"
         },
         {
             "es_evento_relevante": true,
