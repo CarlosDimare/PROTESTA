@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-25T16:25:22.614272-03:00",
+    "last_updated": "2026-05-25T18:05:40.149637-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11150,6 +11150,16 @@
             "tipo_medida": "Paro",
             "motivo": "Plan de lucha nacional por reclamos salariales y laborales, profundización de medidas de fuerza y visibilización de demandas",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anunciaron-un-paro-de-semana-completa-del-26-al-30-de-mayo/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "12:00",
+            "lugar": "Alsina 400, Monserrat, Buenos Aires",
+            "quien": "Frente de Sindicatos Unidos (FRESU)",
+            "tipo_medida": "Movilización",
+            "motivo": "En defensa de Abel Furlán y otros dirigentes de la UOM contra la intervención judicial del sindicato",
+            "fuente": "https://www.infobae.com/politica/2026/05/25/sindicatos-organizan-un-abrazo-a-la-sede-de-la-uom-y-evaluaran-medidas-de-fuerza-en-contra-del-desplazamiento-de-furlan/"
         },
         {
             "es_evento_relevante": true,
