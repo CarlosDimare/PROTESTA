@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-26T15:01:50.511253-03:00",
+    "last_updated": "2026-05-26T17:10:09.389234-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11115,6 +11115,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-26",
             "horario": "00:00",
+            "lugar": "Provincia de Melgar, Puno (sectores de Cahuasiri, Ccaccachupa, Vilapata, Colquepata y salida hacia Orurillo)",
+            "quien": "Organizaciones de la cuenca Llallimayo y pobladores de Ayaviri, Umachiri, Llalli y Cupi",
+            "tipo_medida": "Paro y bloqueos",
+            "motivo": "Contaminación ambiental en la cuenca Llallimayo, demanda de remediación integral y responsabilización de la Empresa Minera Aruntani",
+            "fuente": "https://www.laizquierdadiario.com/Peru-paros-y-bloqueos-en-la-region-de-Puno-contra-la-contaminacion-ambiental-por-responsabilidad"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
+            "horario": "00:00",
             "lugar": "Universidades nacionales de Argentina",
             "quien": "CONADU (Consejo Nacional de Delegaciones Académicas)",
             "tipo_medida": "Paro",
@@ -11170,6 +11180,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En defensa de Abel Furlán y otros dirigentes de la UOM contra la intervención judicial del sindicato",
             "fuente": "https://www.infobae.com/politica/2026/05/25/sindicatos-organizan-un-abrazo-a-la-sede-de-la-uom-y-evaluaran-medidas-de-fuerza-en-contra-del-desplazamiento-de-furlan/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "18:00",
+            "lugar": "Tribunales (Ciudad Autónoma de Buenos Aires)",
+            "quien": "Docentes, estudiantes y autoridades universitarias",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamación por cumplimiento de Ley de Financiamiento Universitario y contra el ajuste presupuestario",
+            "fuente": "https://www.laizquierdadiario.com/Con-clases-publica-y-protestas-arranco-el-paro-universitario-por-la-Ley-de-Financiamiento, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
