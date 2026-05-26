@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-25T21:07:52.417394-03:00",
+    "last_updated": "2026-05-26T01:10:54.212743-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11170,6 +11170,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de derechos laborales y fortalecimiento de la organización sindical",
             "fuente": "https://estadodealerta.com.ar/reforma-laboral-supara-reunio-a-jovenes-aduaneros-de-todo-el-pais-en-jornada-de-capacitacion-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "No especificado",
+            "lugar": "Bolivia",
+            "quien": "Central Obrera Boliviana (COB), sindicatos mineros, movimiento indígena, campesinos y otros sectores populares",
+            "tipo_medida": "Bloqueo de rutas",
+            "motivo": "Exigencia de renuncia del presidente Rodrigo Paz y rechazo a la Ley 1720 sobre venta de tierras campesinas",
+            "fuente": "https://www.anred.org/bolivia-veinte-dias-de-protestas-y-continuan-los-bloques-apoyo-de-ee-uu-al-gobierno-y-pedidos-de-tregua/"
         },
         {
             "es_evento_relevante": true,
