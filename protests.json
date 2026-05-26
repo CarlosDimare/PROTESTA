@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-26T17:10:09.389234-03:00",
+    "last_updated": "2026-05-26T19:22:04.988354-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11185,11 +11185,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-27",
             "horario": "18:00",
-            "lugar": "Tribunales (Ciudad Autónoma de Buenos Aires)",
+            "lugar": "Tribunales",
             "quien": "Docentes, estudiantes y autoridades universitarias",
             "tipo_medida": "Movilización",
-            "motivo": "Reclamación por cumplimiento de Ley de Financiamiento Universitario y contra el ajuste presupuestario",
-            "fuente": "https://www.laizquierdadiario.com/Con-clases-publica-y-protestas-arranco-el-paro-universitario-por-la-Ley-de-Financiamiento, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+            "motivo": "Reclamar cumplimiento de Ley de Financiamiento Universitario y defender educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Con-clases-publicas-y-protestas-arranco-el-paro-universitario-por-la-Ley-de-Financiamiento, https://www.laizquierdadiario.com/Con-clases-publica-y-protestas-arranco-el-paro-universitario-por-la-Ley-de-Financiamiento, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
