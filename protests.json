@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-26T05:02:22.165425-03:00",
+    "last_updated": "2026-05-26T12:04:41.517082-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11180,6 +11180,16 @@
             "tipo_medida": "Bloqueo de rutas",
             "motivo": "Exigencia de renuncia del presidente Rodrigo Paz y rechazo a la Ley 1720 sobre venta de tierras campesinas",
             "fuente": "https://www.anred.org/bolivia-veinte-dias-de-protestas-y-continuan-los-bloques-apoyo-de-ee-uu-al-gobierno-y-pedidos-de-tregua/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-28",
+            "horario": "La hora de inicio del evento de protesta es:  \n**10:00**",
+            "lugar": "Congreso Nacional de ATE",
+            "quien": "ATE (Asociación Trabajadores del Estado) con Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Huelga General",
+            "motivo": "Contra intervención judicial en UOM y en defensa de derechos sindicales y democracia",
+            "fuente": "https://www.datagremial.com/informacion-general/intervencion-de-la-uom-aguiar-alerto-que-si-no-vamos-a-una-huelga-general-se-quedan-con-los-sindicatos--202652610580, https://www.infobae.com/politica/2026/02/26/que-sindicatos-y-gremios-van-a-hacer-paro-este-viernes-27-contra-la-reforma-laboral-y-cuales-movilizaran-a-congreso/"
         },
         {
             "es_evento_relevante": true,
