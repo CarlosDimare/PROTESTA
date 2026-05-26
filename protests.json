@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-26T12:04:41.517082-03:00",
+    "last_updated": "2026-05-26T15:01:50.511253-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11134,6 +11134,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-26",
+            "horario": "13:00",
+            "lugar": "Alsina 485 (sede nacional de la UOM)",
+            "quien": "Frente de Sindicatos Unidos (FreSu)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la intervención judicial en la UOM y anulación de elecciones sindicales",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-a-la-UOM-contra-el-fallo-que-impuso-la-intervencion, https://elargentinodiario.com.ar/politica/10/02/2025/protesta-en-panamericana-trabajadores-de-linde-praxair-rechazan-despidos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-26",
             "horario": "17:00",
             "lugar": "Todo el país",
             "quien": "CONADUH y CONADU",
@@ -11165,6 +11175,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-27",
             "horario": "18:00",
+            "lugar": "Campus universitarios de Rosario (UNR y UTN)",
+            "quien": "Gremios docentes universitarios (UNR y UTN)",
+            "tipo_medida": "Paro",
+            "motivo": "Crisis presupuestaria, pérdida salarial y falta de implementación de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/la-crisis-entra-al-aula-una-semana-de-paro-en-la-unr-y-la-utn/, https://www.ellitoral.com/educacion/docentes-universitarios-rosario-iniciaron-paro-reclamos-salariales_0_t0jePbujqN.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "18:00",
             "lugar": "FOETRA, Hipólito Yrigoyen 3171, CABA",
             "quien": "Juventud Sindical Peronista",
             "tipo_medida": "Movilización",
@@ -11180,6 +11200,16 @@
             "tipo_medida": "Bloqueo de rutas",
             "motivo": "Exigencia de renuncia del presidente Rodrigo Paz y rechazo a la Ley 1720 sobre venta de tierras campesinas",
             "fuente": "https://www.anred.org/bolivia-veinte-dias-de-protestas-y-continuan-los-bloques-apoyo-de-ee-uu-al-gobierno-y-pedidos-de-tregua/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "todo el día",
+            "lugar": "Facultades de la Universidad Tecnológica Nacional (UTN)",
+            "quien": "Fagdut (gremio de docentes de UTN)",
+            "tipo_medida": "Jornada de visibilización",
+            "motivo": "Reclamo por aplicación de Ley de Financiamiento Universitario y aumento salarial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-paran-del-26-al-30-de-mayo-continua-el-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/05/2026/"
         },
         {
             "es_evento_relevante": true,
