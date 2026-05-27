@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27T01:12:03.927108-03:00",
+    "last_updated": "2026-05-27T05:40:44.071956-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11260,6 +11260,16 @@
             "tipo_medida": "Huelga General",
             "motivo": "Contra intervención judicial en UOM y en defensa de derechos sindicales y democracia",
             "fuente": "https://www.datagremial.com/informacion-general/intervencion-de-la-uom-aguiar-alerto-que-si-no-vamos-a-una-huelga-general-se-quedan-con-los-sindicatos--202652610580, https://www.infobae.com/politica/2026/02/26/que-sindicatos-y-gremios-van-a-hacer-paro-este-viernes-27-contra-la-reforma-laboral-y-cuales-movilizaran-a-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-28",
+            "horario": "No especificado",
+            "lugar": "La Paz",
+            "quien": "Sectores del transporte",
+            "tipo_medida": "Paro",
+            "motivo": "No especificado",
+            "fuente": "https://www.anred.org/bolivia-a-26-dias-del-conflicto-persisten-los-bloqueos-y-el-gobierno-se-prepara-para-el-estado-de-excepcion/"
         },
         {
             "es_evento_relevante": true,
