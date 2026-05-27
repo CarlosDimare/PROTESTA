@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27T18:52:31.541200-03:00",
+    "last_updated": "2026-05-27T20:19:28.818659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11174,6 +11174,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-27",
+            "horario": "00:00",
+            "lugar": "Centro de La Paz",
+            "quien": "Federación Departamental de Choferes de La Paz",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por falta de combustible, resarcimiento por daños de gasolina desestabilizada y aumento de precios de la canasta familiar",
+            "fuente": "https://www.conclusion.com.ar/internacionales/bolivia-choferes-lanzaron-un-paro-por-tiempo-indeterminado-y-la-paz-quedo-sin-transporte-publico/05/2026/, https://www.erbol.com.bo/nacional/choferes-declaran-paro-indefinido-en-el-departamento-de-la-paz"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "SOEA (Sindicato de Obreros y Empleados Aceiteros) y Federación del Complejo Industrial Oleaginoso",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a 0% de aumento salarial para mayo y exigencia de actualización por inflación a partir de junio",
+            "fuente": "https://www.datagremial.com/paritarias/aceiteros-san-lorenzo-activo-un-paro-tras-un-vergonzoso-ofrecimiento-salarial-0--202652714410"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
             "horario": "12:00",
             "lugar": "Fábricas y talleres metalúrgicos",
             "quien": "Unión Obrera Metalúrgica (UOM)",
@@ -11324,12 +11344,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-29",
-            "horario": "No especificado",
+            "horario": "12:00",
             "lugar": "No especificado",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Medida de fuerza",
-            "motivo": "En contra de la intervención judicial a sindicatos y por la autonomía sindical frente a injerencias del poder judicial y empresarial",
-            "fuente": "https://www.datagremial.com/informacion-general/la-uom-se-declara-en-estado-de-alerta-movilizacion-y-sesion-permanente-mientras-nombra-a-nuevos-administradores-y-paritarios--202652621180"
+            "quien": "FEDUN",
+            "tipo_medida": "Paro",
+            "motivo": "Urgente recomposición salarial, la convocatoria a paritarias y el cumplimiento efectivo de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-confirmo-un-nuevo-paro-para-esta-semana-continuaremos-defendiendo-las-banderas-de-la-universidad--202652710510, https://www.datagremial.com/informacion-general/la-uom-se-declara-en-estado-de-alerta-movilizacion-y-sesion-permanente-mientras-nombra-a-nuevos-administradores-y-paritarios--202652621180"
         },
         {
             "es_evento_relevante": true,
