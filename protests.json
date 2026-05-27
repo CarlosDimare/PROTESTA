@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-26T19:22:04.988354-03:00",
+    "last_updated": "2026-05-26T21:04:01.608032-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11234,6 +11234,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-28",
+            "horario": "11:00",
+            "lugar": "Santa Fe 1345, Rosario",
+            "quien": "Asociación Bancaria Seccional Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al despido 'sin causa' de un trabajador y defensa de su fuente laboral",
+            "fuente": "https://www.conclusion.com.ar/gremiales/movilizacion-de-bancarios-por-el-despido-sin-causa-de-un-trabajador-del-nacion-servicios/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-28",
             "horario": "La hora de inicio del evento de protesta es:  \n**10:00**",
             "lugar": "Congreso Nacional de ATE",
             "quien": "ATE (Asociación Trabajadores del Estado) con Frente de Sindicatos Unidos (FreSU)",
@@ -11250,6 +11260,16 @@
             "tipo_medida": "Paro nacional sin concurrencia",
             "motivo": "Reclamo por presupuesto universitario, incumplimiento de la Ley 27.795 de Financiamiento Universitario y condiciones laborales deterioradas",
             "fuente": "https://www.datagremial.com/informacion-general/la-fatun-profundiza-su-plan-de-lucha-en-todas-las-universidades-nacionales-anuncio-cuatro-semanas-de-protesta-y-tres-paros-nacionales-nodocentes-20265221520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "10:00",
+            "lugar": "Sede de la CGT, Azopardo 802",
+            "quien": "UOM con apoyo de la CGT y FRESU",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la autonomía sindical contra la intervención judicial y apoyo a Abel Furlán",
+            "fuente": "https://www.infobae.com/politica/2026/05/26/fuerte-movilizacion-sindical-en-apoyo-al-desplazado-lider-de-la-uom-que-resiste-la-intervencion-judicial-y-sera-recibido-por-la-cgt/"
         },
         {
             "es_evento_relevante": true,
