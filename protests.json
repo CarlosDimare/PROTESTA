@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27T09:19:52.332746-03:00",
+    "last_updated": "2026-05-27T13:38:27.561157-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11175,6 +11175,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-27",
             "horario": "12:00",
+            "lugar": "Fábricas y talleres metalúrgicos",
+            "quien": "Unión Obrera Metalúrgica (UOM)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la autonomía sindical, continuididad institucional y paritarias frente a intervención judicial",
+            "fuente": "https://www.conclusion.com.ar/internacionales/la-uom-se-declara-en-estado-de-alerta-y-movilizacion-y-blinda-las-paritarias-tras-la-intervencion-judicial/05/2026/, https://www.infobae.com/politica/2026/05/25/sindicatos-organizan-un-abrazo-a-la-sede-de-la-uom-y-evaluaran-medidas-de-fuerza-en-contra-del-desplazamiento-de-furlan/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-27",
+            "horario": "12:00",
             "lugar": "Alsina 400, Monserrat, Buenos Aires",
             "quien": "Frente de Sindicatos Unidos (FRESU)",
             "tipo_medida": "Movilización",
@@ -11290,6 +11300,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la autonomía sindical contra la intervención judicial y apoyo a Abel Furlán",
             "fuente": "https://www.infobae.com/politica/2026/05/26/fuerte-movilizacion-sindical-en-apoyo-al-desplazado-lider-de-la-uom-que-resiste-la-intervencion-judicial-y-sera-recibido-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Medida de fuerza",
+            "motivo": "En contra de la intervención judicial a sindicatos y por la autonomía sindical frente a injerencias del poder judicial y empresarial",
+            "fuente": "https://www.datagremial.com/informacion-general/la-uom-se-declara-en-estado-de-alerta-movilizacion-y-sesion-permanente-mientras-nombra-a-nuevos-administradores-y-paritarios--202652621180"
         },
         {
             "es_evento_relevante": true,
