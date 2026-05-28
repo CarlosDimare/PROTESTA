@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27T20:19:28.818659-03:00",
+    "last_updated": "2026-05-27T23:41:12.148406-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11320,6 +11320,16 @@
             "tipo_medida": "Paro",
             "motivo": "No especificado",
             "fuente": "https://www.anred.org/bolivia-a-26-dias-del-conflicto-persisten-los-bloqueos-y-el-gobierno-se-prepara-para-el-estado-de-excepcion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "Federación de Trabajadores del Complejo Industrial Oleaginoso (FTCIODyARA) y Sindicato de Obreros y Empleados Aceiteros (SOEA) de San Lorenzo",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial de las patronales del sector aceitero",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-aceiteros-iniciaron-una-huelga-nacional-en-rechazo-a-la-irrisoria-propuesta-salarial-vergonzosa-y-provocadora/05/2026/"
         },
         {
             "es_evento_relevante": true,
