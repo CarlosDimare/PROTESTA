@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-27T23:41:12.148406-03:00",
+    "last_updated": "2026-05-28T03:55:01.329698-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11340,6 +11340,16 @@
             "tipo_medida": "Paro nacional sin concurrencia",
             "motivo": "Reclamo por presupuesto universitario, incumplimiento de la Ley 27.795 de Financiamiento Universitario y condiciones laborales deterioradas",
             "fuente": "https://www.datagremial.com/informacion-general/la-fatun-profundiza-su-plan-de-lucha-en-todas-las-universidades-nacionales-anuncio-cuatro-semanas-de-protesta-y-tres-paros-nacionales-nodocentes-20265221520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "10:00",
+            "lugar": "Lugar de negociaciones paritarias",
+            "quien": "SOEA (Sindicato de Obreros y Empleos Aceiteros)",
+            "tipo_medida": "Audiencia paritaria",
+            "motivo": "Reclamo de recomposición salarial frente a oferta del 0% y ganancias del sector aceitero",
+            "fuente": "https://www.laizquierdadiario.com/Paro-indeterminado-aceitero"
         },
         {
             "es_evento_relevante": true,
