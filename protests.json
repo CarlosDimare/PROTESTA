@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-28T17:35:31.335270-03:00",
+    "last_updated": "2026-05-28T19:36:08.406536-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11304,6 +11304,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-28",
+            "horario": "18:00",
+            "lugar": "No especificado",
+            "quien": "Frente Nacional Democrático por la Educación Pública (FreNDEP)",
+            "tipo_medida": "Paro nacional docente con movilizaciones",
+            "motivo": "Recomposición urgente de ingresos docentes y mejoras en condiciones laborales ante deterioro salarial, pluriempleo y endeudamiento del sector educativo",
+            "fuente": "https://www.inforegion.com.ar/2026/05/28/gremios-disidentes-lanzaron-un-paro-docente-nacional-con-fuertes-criticas-a-ctera/, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-28",
             "horario": "La hora de inicio del evento de protesta es:  \n**10:00**",
             "lugar": "Congreso Nacional de ATE",
             "quien": "ATE (Asociación Trabajadores del Estado) con Frente de Sindicatos Unidos (FreSU)",
@@ -11320,6 +11330,16 @@
             "tipo_medida": "Paro",
             "motivo": "No especificado",
             "fuente": "https://www.anred.org/bolivia-a-26-dias-del-conflicto-persisten-los-bloqueos-y-el-gobierno-se-prepara-para-el-estado-de-excepcion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "00:00",
+            "lugar": "Tribunales Federales (ej: Bulevar Oroño 940 - Rosario, Cámara Federal de Entre Ríos 435, Juzgados 1 y 2 de Entre Ríos 730)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial y laboral: recomposición salarial frente a la inflación, defensa de la obra social, rechazo a modificaciones en la Justicia Nacional del Trabajo, y solidaridad con seccionales en conflicto",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-judicial-en-rosario-este-viernes-no-habra-actividad-en-los-tribunales-federales/05/2026/"
         },
         {
             "es_evento_relevante": true,
