@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-28T11:41:12.337762-03:00",
+    "last_updated": "2026-05-28T15:06:50.568647-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11325,6 +11325,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-05-29",
             "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Federación Argentina de Trabajadores de Universidades Nacionales (Fatun) / Asociación del Personal de la Universidad de Rosario (APUR)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial y presupuestario, falta de convocatoria a negociación colectiva y retraso salarial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/los-no-docentes-de-la-unr-realizaran-un-paro-este-viernes-y-anuncian-otra-medida-de-fuerza-por-48-horas/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "00:00",
             "lugar": "Todo el país",
             "quien": "Federación de Trabajadores del Complejo Industrial Oleaginoso (FTCIODyARA) y Sindicato de Obreros y Empleados Aceiteros (SOEA) de San Lorenzo",
             "tipo_medida": "Paro",
@@ -11340,6 +11350,16 @@
             "tipo_medida": "Paro nacional sin concurrencia",
             "motivo": "Reclamo por presupuesto universitario, incumplimiento de la Ley 27.795 de Financiamiento Universitario y condiciones laborales deterioradas",
             "fuente": "https://www.datagremial.com/informacion-general/la-fatun-profundiza-su-plan-de-lucha-en-todas-las-universidades-nacionales-anuncio-cuatro-semanas-de-protesta-y-tres-paros-nacionales-nodocentes-20265221520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-29",
+            "horario": "09:00",
+            "lugar": "Sucursal Chacarita, avenida Corrientes 6847, CABA",
+            "quien": "Trabajadores de Farmacias Dr. Ahorro",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la quiebra, reclamo de salarios adeudados, indemnizaciones, devolución de pertenencias y deudas previsionales",
+            "fuente": "https://www.datagremial.com/informacion-general/quiebra-de-dr-ahorro-sus-trabajadores-marchan-para-reclamar-el-pago-de-sueldos-e-indemnizaciones--20265289550"
         },
         {
             "es_evento_relevante": true,
