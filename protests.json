@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-29T16:37:49.682211-03:00",
+    "last_updated": "2026-05-29T18:55:13.425160-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11430,6 +11430,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales y condiciones laborales",
             "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-este-viernes-el-paro-de-24-horas-de-los-judiciales-nacionales-en-todo-el-pais/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-30",
+            "horario": "16:00",
+            "lugar": "Plaza San Martín (Córdoba y Moreno), Rosario",
+            "quien": "Municipalidad de Rosario (Secretaría de Igualdad, Género y Derechos Humanos) y Museo de la Memoria",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del 50° aniversario del último golpe de Estado y reivindicación del espacio público como territorio de memoria activa",
+            "fuente": "https://elciudadanoweb.com/memoria-en-marcha-rosario-conmemora-los-50-anos-del-golpe-con-un-recorrido-guiado-por-sitios-emblematicos/"
         },
         {
             "es_evento_relevante": true,
