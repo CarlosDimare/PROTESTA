@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-29T09:50:53.184994-03:00",
+    "last_updated": "2026-05-29T13:47:19.785234-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11424,12 +11424,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-30",
+            "horario": "00:00",
+            "lugar": "Todas las dependencias federaales del país, especialmente Tribunales Federales (Rosario: Oroño 900 y Entre Ríos 400)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y condiciones laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-este-viernes-el-paro-de-24-horas-de-los-judiciales-nacionales-en-todo-el-pais/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-30",
             "horario": "No especificado",
             "lugar": "Colegio Nacional de Buenos Aires (CNBA) y Escuela Superior de Comercio Carlos Pellegrini (ESCCP)",
             "quien": "Estudiantes de ambos colegios",
             "tipo_medida": "Toma",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y la recomposición salarial de los trabajadores",
             "fuente": "https://www.infobae.com/politica/2026/05/29/el-colegio-nacional-buenos-aires-retomo-la-toma-luego-de-que-la-uba-dictara-normas-para-garantizar-la-seguridad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-31",
+            "horario": "10:00",
+            "lugar": "Centros Atómicos de la CNEA",
+            "quien": "Trabajadores del sector nuclear / Agrupación Marrón Atómica",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra vaciamiento institucional, pérdida salarial del 40% y privatizaciones en la CNEA",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-la-cnea-realizan-un-contra-acto-en-protesta-por-el-vaciamiento-y-la-entrega, https://dsalicante.com/noticias/protestas-sector-limpieza-defender-derechos-laborales/"
         },
         {
             "es_evento_relevante": true,
