@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-29T02:13:38.103611-03:00",
+    "last_updated": "2026-05-29T06:47:56.739840-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11420,6 +11420,16 @@
             "tipo_medida": "Impugnación judicial",
             "motivo": "Resistencia contra multas y defensa del derecho a huelga",
             "fuente": "https://estadodealerta.com.ar/escala-la-ofensiva-antisindical-del-gobierno-con-multas-millonarias-a-los-gremios-del-transporte/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-30",
+            "horario": "No especificado",
+            "lugar": "Colegio Nacional de Buenos Aires (CNBA) y Escuela Superior de Comercio Carlos Pellegrini (ESCCP)",
+            "quien": "Estudiantes de ambos colegios",
+            "tipo_medida": "Toma",
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y la recomposición salarial de los trabajadores",
+            "fuente": "https://www.infobae.com/politica/2026/05/29/el-colegio-nacional-buenos-aires-retomo-la-toma-luego-de-que-la-uba-dictara-normas-para-garantizar-la-seguridad/"
         },
         {
             "es_evento_relevante": true,
