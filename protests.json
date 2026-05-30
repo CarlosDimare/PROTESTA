@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30T14:00:00.851813-03:00",
+    "last_updated": "2026-05-30T15:05:21.913628-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11550,6 +11550,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra despidos inminentes, vaciamiento institucional y ajuste fiscal en la CNEA",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-y-jefes-lanzan-un-fuerte-reclamo-contra-el-vaciamiento-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "06:00",
+            "lugar": "Complejo Industrial Oleaginoso de San Lorenzo y Rosario",
+            "quien": "Federación de Trabajadores del Complejo Industrial Oleaginoso y sindicatos adhirientes",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta de aumento cero y reclamo de revisión salarial acorde a inflación y SMVM",
+            "fuente": "https://www.datagremial.com/paritarias/dictan-la-conciliacion-obligatoria-en-la-huelga-aceitera-pedimos-un-salario-conforme-a-las-necesidades--20265281400, https://pregon.me/aceiteros-iran-a-un-paro-nacional-tras-rechazar-la-oferta-salarial-de-la-patronal/"
         },
         {
             "es_evento_relevante": true,
