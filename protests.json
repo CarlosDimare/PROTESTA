@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30T03:24:55.046154-03:00",
+    "last_updated": "2026-05-30T06:17:58.648690-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11420,6 +11420,16 @@
             "tipo_medida": "Impugnación judicial",
             "motivo": "Resistencia contra multas y defensa del derecho a huelga",
             "fuente": "https://estadodealerta.com.ar/escala-la-ofensiva-antisindical-del-gobierno-con-multas-millonarias-a-los-gremios-del-transporte/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-30",
+            "horario": "**17:00**",
+            "lugar": "No especificado",
+            "quien": "Familiares, amigos y vecinos de Agostina Vega",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la aparición con vida de Agostina Vega",
+            "fuente": "https://www.conclusion.com.ar/policiales/marcha-por-la-desaparicion-de-agostina-vega-su-madre-se-descompenso-y-fue-trasladada-en-ambulancia/05/2026/, https://www.infobae.com/sociedad/policiales/2026/05/30/me-tengo-que-escapar-el-audio-que-agostina-vega-envio-a-un-grupo-de-amigas-horas-antes-de-desaparecer/"
         },
         {
             "es_evento_relevante": true,
