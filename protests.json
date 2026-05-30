@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30T12:09:30.221350-03:00",
+    "last_updated": "2026-05-30T14:00:00.851813-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11444,6 +11444,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-05-30",
+            "horario": "15:00",
+            "lugar": "El Alto",
+            "quien": "COB (Central Obrera Boliviana)",
+            "tipo_medida": "Movilización",
+            "motivo": "Definir acciones tras anulación de órdenes de aprehensión y posición frente a mesas de diálogo, en el marco de la lucha por la renuncia de Paz y la efectivización de la huelga general indefinida",
+            "fuente": "https://www.laizquierdadiario.com/Hacia-el-ampliado-de-la-COB-Ningun-dialogo-huelga-general-efectiva-Viva-la-unidad-obrero-campesina"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-05-30",
             "horario": "16:00",
             "lugar": "Plaza San Martín (Córdoba y Moreno), Rosario",
             "quien": "Municipalidad de Rosario (Secretaría de Igualdad, Género y Derechos Humanos) y Museo de la Memoria",
@@ -11510,6 +11520,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra la reforma laboral argentina y medidas del gobierno que restringen derechos sindicales",
             "fuente": "https://www.infobae.com/politica/2026/05/23/la-cgt-se-aleja-del-paro-general-y-se-acerca-a-europa-desembarco-masivo-de-dirigentes-en-la-conferencia-de-la-oit/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-02",
+            "horario": "12:00",
+            "lugar": "Plazas centrales de ciudades del interior argentino",
+            "quien": "Sindicatos, Mesa Ecuménica y CTA",
+            "tipo_medida": "Movilización comunitaria de ayuno",
+            "motivo": "Denunciar el hambre, la exclusión y el deterioro social; promover paz con justicia social y ambiental",
+            "fuente": "https://www.conclusion.com.ar/gremiales/protesta-contra-milei-convocan-a-un-ayuno-para-despertar-las-conciencias/05/2026/"
         },
         {
             "es_evento_relevante": true,
