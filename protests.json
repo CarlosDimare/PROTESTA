@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-30T21:02:21.912818-03:00",
+    "last_updated": "2026-05-31T00:07:53.946534-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11530,6 +11530,26 @@
             "tipo_medida": "Movilización comunitaria de ayuno",
             "motivo": "Denunciar el hambre, la exclusión y el deterioro social; promover paz con justicia social y ambiental",
             "fuente": "https://www.conclusion.com.ar/gremiales/protesta-contra-milei-convocan-a-un-ayuno-para-despertar-las-conciencias/05/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-02",
+            "horario": "17:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Mesa Ecuménica por la democracia, la vida y el bien común, Adolfo Pérez Esquivel, CTA de los Trabajadores, CTA Autónoma y movimiento sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra políticas de Javier Milei, denunciando hambre, exclusión, violencia y deterioro social, bajo lema 'Jornada de ayuno y oración para despertar las conciencias'",
+            "fuente": "https://www.infobae.com/politica/2026/05/31/perez-esquivel-y-las-cta-convocaron-a-un-ayuno-nacional-de-ocho-dias-en-plaza-de-mayo-contra-el-gobierno/, https://www.clarin.com/politica/rebelarse-adolfo-perez-esquivel-cta-peteco-carabajal-lanzan-ayuno-dias-milei-plaza-mayo_0_USEPoYdX3I.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-02",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Frente Sindical de Universidades Nacionales (FEDUN, FATUN, CONADU, CONADU Histórica)",
+            "tipo_medida": "Plenario de planificación de acciones",
+            "motivo": "Definir el plan de lucha y acciones futuras por el cumplimiento de la ley de financiamiento universitario frente al ajuste presupuestario",
+            "fuente": "https://www.datagremial.com/escenario/luego-de-una-semana-de-paros-crece-el-malestar-universitario-y-no-descartan-efecto-domino-en-toda-la-educacion-2026531000"
         },
         {
             "es_evento_relevante": true,
