@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-31T04:02:16.513028-03:00",
+    "last_updated": "2026-05-31T06:57:59.052727-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11560,6 +11560,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra el gobierno de Javier Milei por el crecimiento del hambre, la exclusión, la violencia y el deterioro social, bajo la consigna de construir paz con justicia social y ambiental",
             "fuente": "https://elciudadanoweb.com/perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-05",
+            "horario": "No especificado",
+            "lugar": "Ginebra, Suiza",
+            "quien": "CGT y sindicistas internacionales",
+            "tipo_medida": "Movilización",
+            "motivo": "Dar marco internacional a cuestionamientos contra políticas de Milei y presentar denuncias ante la OIT",
+            "fuente": "https://www.infobae.com/politica/2026/05/31/gerardo-martinez-el-gobierno-va-estar-en-el-banquillo-de-los-acusados-en-la-oit-por-la-violacion-de-los-derechos-laborales/"
         },
         {
             "es_evento_relevante": true,
