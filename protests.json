@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-31T06:57:59.052727-03:00",
+    "last_updated": "2026-05-31T08:45:05.084740-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11560,6 +11560,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra el gobierno de Javier Milei por el crecimiento del hambre, la exclusión, la violencia y el deterioro social, bajo la consigna de construir paz con justicia social y ambiental",
             "fuente": "https://elciudadanoweb.com/perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía de Santa Cruz",
+            "quien": "ADOSAC y AMET",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el recorte de licencias gremiales y por apertura de paritarias",
+            "fuente": "https://www.laizquierdadiario.com/Ataque-antisindical-en-Santa-Cruz-el-gobierno-de-Vidal-recorta-licencias-gremiales-en-plena, https://www.eldiarionuevodia.com.ar/locales/nueva-marcha-del-frente-sindical-de-santa-cruz-cuando-sera-y-la-relacion-con-los-dichos-del-ministro-de-economia/"
         },
         {
             "es_evento_relevante": true,
