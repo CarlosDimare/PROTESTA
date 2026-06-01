@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-01T08:21:51.992093-03:00",
+    "last_updated": "2026-06-01T14:30:31.171339-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11564,12 +11564,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
+            "horario": "00:00",
+            "lugar": "A nivel nacional",
+            "quien": "Federación de Trabajadores del Complejo Industrial Oleaginoso (FTCIODyARA) y Sindicato de Obreros y Empleados Aceiteros (SOEA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del 0% y reclamo de un aumento acorde al Salario Mínimo Vital y Móvil (SMVM)",
+            "fuente": "https://motoreconomico.com.ar/aceiteros-inician-una-huelga-nacional-tras-el-vergonzoso-ofrecimiento-de-0-de-aumento-por-parte-de-las-patronales-luego-de-que-recibieran-ganancias-extraordinarias-por-la-baja-de-retencio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
             "horario": "10:00",
             "lugar": "Ministerio de Economía de Santa Cruz",
             "quien": "ADOSAC y AMET",
             "tipo_medida": "Movilización",
             "motivo": "Contra el recorte de licencias gremiales y por apertura de paritarias",
             "fuente": "https://www.laizquierdadiario.com/Ataque-antisindical-en-Santa-Cruz-el-gobierno-de-Vidal-recorta-licencias-gremiales-en-plena, https://www.eldiarionuevodia.com.ar/locales/nueva-marcha-del-frente-sindical-de-santa-cruz-cuando-sera-y-la-relacion-con-los-dichos-del-ministro-de-economia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "16:00",
+            "lugar": "Parte desde plaza 25 de Mayo y concluye en plaza San Martín",
+            "quien": "Asamblea Lesbotransfeminista Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo contra femicidios, desapariciones de mujeres y adolescentes, y retroceso de políticas públicas de género",
+            "fuente": "https://elciudadanoweb.com/ni-una-menos-rosario-se-suma-a-la-marcha-del-3j/"
         },
         {
             "es_evento_relevante": true,
