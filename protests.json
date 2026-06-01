@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-01T14:30:31.171339-03:00",
+    "last_updated": "2026-06-01T18:30:06.873866-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11510,6 +11510,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a recortes en programas sociales y solidaridad con crisis económica y laboral",
             "fuente": "https://www.inforegion.com.ar/2026/05/07/protesta-en-puente-pueyrredon-organizaciones-sociales-marcharon-contra-el-ajuste-de-milei/, https://www.infobae.com/politica/2024/05/07/transporte-bancos-y-servicios-todas-las-actividades-que-estaran-paralizadas-el-jueves-por-la-protesta-contra-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-01",
+            "horario": "No especificado",
+            "lugar": "Línea C de Subte (Constitución-Retiro)",
+            "quien": "Asociación de Gremiales de Trabajadores de Subte y Premetro (AGTSyP)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de la empresa en la eliminación de asbesto en formaciones Nagoya 5000, afectando la salud de los trabajadores",
+            "fuente": "https://www.inforegion.com.ar/2026/06/01/continua-el-paro-sorpresivo-en-la-linea-c-del-subte/"
         },
         {
             "es_evento_relevante": true,
