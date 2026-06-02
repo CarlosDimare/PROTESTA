@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02T13:46:01.147697-03:00",
+    "last_updated": "2026-06-02T17:09:31.773699-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11555,6 +11555,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-02",
             "horario": "17:00",
+            "lugar": "Plaza del Congreso",
+            "quien": "Colectivo Ni Una Menos",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar por la violencia de género contra mujeres y personas trans, en respuesta al femicidio de Agostina Vega",
+            "fuente": "https://www.infobae.com/politica/2026/06/02/ni-una-menos-el-gobierno-cuestiona-la-politizacion-de-la-marcha-y-le-baja-el-precio-a-la-convocatoria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-02",
+            "horario": "17:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Mesa Ecuménica por la democracia, la vida y el bien común, Adolfo Pérez Esquivel, CTA de los Trabajadores, CTA Autónoma y movimiento sindical",
             "tipo_medida": "Movilización",
@@ -11670,6 +11680,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir justicia por femicidios, denunciar políticas antifeministas y ajuste económico, y reclamar políticas de prevención como ESI y abordamiento de violencias",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/ni-una-menos-en-rosario-convocan-a-marchar-en-medio-de-la-bronca-y-el-dolor-por-los-femicidios-en-el-pais/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "No especificado",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Docentes, no docentes y estudiantes de universidades públicas",
+            "tipo_medida": "Marcha federal",
+            "motivo": "Defensa del financiamiento universitario, cumplimiento de la Ley de Financiamiento Universitario y rechazo al ajuste presupuestario",
+            "fuente": "https://estadodealerta.com.ar/el-gobierno-intento-levantar-el-conflicto-universitario-pero-para-el-cin-fue-inaceptable-el-pedido-de-suspender-su-reclamo-judicial/"
         },
         {
             "es_evento_relevante": true,
