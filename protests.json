@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-01T20:27:42.243796-03:00",
+    "last_updated": "2026-06-02T00:00:42.062655-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11620,6 +11620,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo contra femicidios, desapariciones de mujeres y adolescentes, y retroceso de políticas públicas de género",
             "fuente": "https://elciudadanoweb.com/ni-una-menos-rosario-se-suma-a-la-marcha-del-3j/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Movimiento de mujeres",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la violencia machista y los femicidios, por Ni Una Menos",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Noelia-a-5-dias-de-la-marcha-por-Ni-Una-Menos-fue-victima-de-femicidio-en-Temperley, https://www.baenegocios.com/sociedad/marcha-de-ni-una-menos-cuando-es-a-que-hora-y-que-calles-van-a-estar-afectadas/"
         },
         {
             "es_evento_relevante": true,
