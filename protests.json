@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02T00:00:42.062655-03:00",
+    "last_updated": "2026-06-02T04:27:59.974208-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11610,6 +11610,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra violencia de género, femicidios, desfinanciamiento de políticas de cuidado, ataques a la ESI, precarización laboral y ajuste económico",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-se-suman-a-la-marcha-de-ni-una-menos-este-3-de-junio/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "16:00",
+            "lugar": "Plaza San Martín, Córdoba",
+            "quien": "Ni Una Menos Córdoba y Pan y Rosas",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por el femicidio de Agostina Vega, repudio a actuaciones del fiscal Raúl Garzón y exigencia de protocolos de género",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Agostina-tras-el-masivo-repudio-al-fiscal-Claudio-Barrelier-fue-imputado-por-femicidio"
         },
         {
             "es_evento_relevante": true,
