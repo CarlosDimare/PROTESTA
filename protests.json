@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02T17:09:31.773699-03:00",
+    "last_updated": "2026-06-02T19:28:54.998941-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11590,6 +11590,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra el gobierno de Javier Milei por el crecimiento del hambre, la exclusión, la violencia y el deterioro social, bajo la consigna de construir paz con justicia social y ambiental",
             "fuente": "https://elciudadanoweb.com/perez-esquivel-impulsa-una-semana-de-ayuno-como-protesta-contra-el-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "**17:00**",
+            "lugar": "Rosario, Santa Fe",
+            "quien": "Movimiento feminista (liderado por Concejala Majo Poncino)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia por femicidios, denunciar impunidad sistémica y reclamar políticas públicas contra la violencia machista, vinculando la situación con ajustes y desigualdades sociales",
+            "fuente": "https://elciudadanoweb.com/majo-poncino-convoco-a-marchar-este-miercoles-nos-siguen-matando-y-la-justicia-lo-permite/, https://anoticiados.com/marcha-por-el-8m-en-rosario-recorrido-horario-y-transporte-gratuito/"
         },
         {
             "es_evento_relevante": true,
