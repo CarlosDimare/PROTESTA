@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02T21:29:23.208183-03:00",
+    "last_updated": "2026-06-03T03:05:03.066068-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11640,6 +11640,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra violencia de género, femicidios, desfinanciamiento de políticas de cuidado, ataques a la ESI, precarización laboral y ajuste económico",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-se-suman-a-la-marcha-de-ni-una-menos-este-3-de-junio/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "16:00",
+            "lugar": "Plaza 25 de Mayo a Plaza San Martín, Rosario",
+            "quien": "Asamblea Lesbotransfeminista Rosario y Campaña Nacional por el Derecho al Aborto Legal, Seguro y Gratuito",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la violencia machista, recortes en políticas de género y desprotección estatal bajo el gobierno de Milei",
+            "fuente": "https://elciudadanoweb.com/a-11-anos-del-primer-grito-colectivo-rosario-marcha-con-milei-no-hay-ni-una-menos/"
         },
         {
             "es_evento_relevante": true,
