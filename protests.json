@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-03T13:29:32.628069-03:00",
+    "last_updated": "2026-06-03T17:19:47.846318-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11685,6 +11685,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
             "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Mujeres y diversidades de la Universidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir justicia por femicidios de Sophia y Agostina, campaña Ni Una Menos",
+            "fuente": "https://elciudadanoweb.com/ni-una-menos-11-anos-de-lucha-y-un-reclamo-que-sigue-vigente/, https://www.laizquierdadiario.com/Justicia-por-Noelia-a-5-dias-de-la-marcha-por-Ni-Una-Menos-fue-victima-de-femicidio-en-Temperley, https://www.baenegocios.com/sociedad/marcha-de-ni-una-menos-cuando-es-a-que-hora-y-que-calles-van-a-estar-afectadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "17:00",
             "lugar": "Plazas de las provincias argentinas",
             "quien": "Federación Judicial Argentina (FJA)",
             "tipo_medida": "Marcha",
@@ -11700,16 +11710,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar contra la violencia de género y femicidios, con el lema 'Vivas, libres y desendeudadas nos queremos'",
             "fuente": "https://www.inforegion.com.ar/2026/06/02/niunamenos-a-11-anos-de-la-primera-marcha-el-mismo-reclamo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-06-03",
-            "horario": "17:00",
-            "lugar": "No especificado",
-            "quien": "Movimiento de mujeres",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la violencia machista y los femicidios, por Ni Una Menos",
-            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Noelia-a-5-dias-de-la-marcha-por-Ni-Una-Menos-fue-victima-de-femicidio-en-Temperley, https://www.baenegocios.com/sociedad/marcha-de-ni-una-menos-cuando-es-a-que-hora-y-que-calles-van-a-estar-afectadas/"
         },
         {
             "es_evento_relevante": true,
@@ -11770,6 +11770,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Dar marco internacional a cuestionamientos contra políticas de Milei y presentar denuncias ante la OIT",
             "fuente": "https://www.infobae.com/politica/2026/05/31/gerardo-martinez-el-gobierno-va-estar-en-el-banquillo-de-los-acusados-en-la-oit-por-la-violacion-de-los-derechos-laborales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-06",
+            "horario": "10:00",
+            "lugar": "Delegación de la Secretaría de Trabajo provincial en Rafaela, Santa Fe",
+            "quien": "Trabajadores de Lácteos Verónica (con familias, vecinos y comerciantes)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar por seis meses de salarios impagos, la inactividad de las plantas y exigir una definición sobre el futuro de la empresa por parte de los propietarios",
+            "fuente": "https://www.datagremial.com/informacion-general/necesitamos-que-alguien-nos-escuche-trabajadores-de-lacteos-veronica-retoman-las-protestas-al-alcanzar-los-seis-meses-sin-cobrar-20266313310"
         },
         {
             "es_evento_relevante": true,
