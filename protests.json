@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-03T17:19:47.846318-03:00",
+    "last_updated": "2026-06-03T20:08:47.670677-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11634,6 +11634,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
+            "horario": "10:30",
+            "lugar": "Chile (principalmente Santiago)",
+            "quien": "Confech (Confederación de Estudiantes de Chile)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Repudio a ajustes en educación pública, ciencia y cultura; aumento de precios de combustibles; políticas represivas del gobierno de José Antonio Kast",
+            "fuente": "https://www.laizquierdadiario.com/Masivas-movilizaciones-estudiantiles-en-Chile-contra-los-ajustes-a-la-educacion-publica, https://www.centralnoticia.cl/nacional/2026/06/02/paro-nacional-confech-colegio-profesores/411516/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
             "horario": "15:30",
             "lugar": "Plaza 25 de Mayo (Córdoba y Laprida), Rosario",
             "quien": "Colectivos feministas y organizaciones sociales",
@@ -11745,6 +11755,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
             "horario": "No especificado",
+            "lugar": "Zona centro y arterias principales de Rosario",
+            "quien": "Municipalidad de Rosario",
+            "tipo_medida": "Corte de calzada",
+            "motivo": "Mejoramiento de calles",
+            "fuente": "https://elciudadanoweb.com/la-municipalidad-anuncia-los-cortes-de-calle-por-obras-para-este-miercoles-3-de-junio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "No especificado",
             "lugar": "Frente al Congreso Nacional",
             "quien": "Docentes, no docentes y estudiantes de universidades públicas",
             "tipo_medida": "Marcha federal",
@@ -11760,6 +11780,16 @@
             "tipo_medida": "Conferencia de prensa",
             "motivo": "Denunciar persecución laboral, precarización y estigmatización contra trabajadores que participaron en reclamos salariales",
             "fuente": "https://www.datagremial.com/escenario/vuelve-a-la-tension-al-garrahan-denuncian-que-sigue-la-persecucion-gremial-y-el-ajuste-202662900"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-05",
+            "horario": "00:00",
+            "lugar": "Tribunales Federales de Argentina (específicamente en Rosario: Oroño al 900 y Entre Ríos al 400)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, condiciones laborales, participación en el Directorio de la Obra Social y defensa del fuero nacional del trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
         },
         {
             "es_evento_relevante": true,
