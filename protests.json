@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-03T03:05:03.066068-03:00",
+    "last_updated": "2026-06-03T08:06:43.842248-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11630,6 +11630,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el recorte de licencias gremiales y por apertura de paritarias",
             "fuente": "https://www.laizquierdadiario.com/Ataque-antisindical-en-Santa-Cruz-el-gobierno-de-Vidal-recorta-licencias-gremiales-en-plena, https://www.eldiarionuevodia.com.ar/locales/nueva-marcha-del-frente-sindical-de-santa-cruz-cuando-sera-y-la-relacion-con-los-dichos-del-ministro-de-economia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
+            "horario": "15:30",
+            "lugar": "Plaza 25 de Mayo (Córdoba y Laprida), Rosario",
+            "quien": "Colectivos feministas y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir políticas contra la violencia de género, mejor acceso a denuncias y justicia tras femicidios",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-vuelve-a-movilizar-contra-la-violencia-de-genero-recorrido-y-horario-de-la-marcha-ni-una-menos/06/2026/"
         },
         {
             "es_evento_relevante": true,
