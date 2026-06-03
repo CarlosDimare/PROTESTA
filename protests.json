@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-02T19:28:54.998941-03:00",
+    "last_updated": "2026-06-02T21:29:23.208183-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11694,12 +11694,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
+            "horario": "18:00",
+            "lugar": "Córdoba y todo el país",
+            "quien": "Colectivo de periodistas, docentes, feministas y referentes culturales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a declaraciones del fiscal Garzón y ministro Quinteros sobre femicidio de Agostina; exigencia de justicia, Ni Una Menos y fin de violencia patriarcal",
+            "fuente": "https://www.laizquierdadiario.com/Periodistas-referentes-de-la-cultura-docentes-y-feministas-convocan-a-marchar-por-Ni-Una-Menos, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
             "horario": "No especificado",
             "lugar": "Frente al Congreso Nacional",
             "quien": "Docentes, no docentes y estudiantes de universidades públicas",
             "tipo_medida": "Marcha federal",
             "motivo": "Defensa del financiamiento universitario, cumplimiento de la Ley de Financiamiento Universitario y rechazo al ajuste presupuestario",
             "fuente": "https://estadodealerta.com.ar/el-gobierno-intento-levantar-el-conflicto-universitario-pero-para-el-cin-fue-inaceptable-el-pedido-de-suspender-su-reclamo-judicial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-04",
+            "horario": "13:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "APyT y ATE Garrahan",
+            "tipo_medida": "Conferencia de prensa",
+            "motivo": "Denunciar persecución laboral, precarización y estigmatización contra trabajadores que participaron en reclamos salariales",
+            "fuente": "https://www.datagremial.com/escenario/vuelve-a-la-tension-al-garrahan-denuncian-que-sigue-la-persecucion-gremial-y-el-ajuste-202662900"
         },
         {
             "es_evento_relevante": true,
