@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-03T20:08:47.670677-03:00",
+    "last_updated": "2026-06-03T22:52:30.558679-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11644,6 +11644,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-03",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Colectivo Ni Una Menos",
+            "tipo_medida": "Marcha",
+            "motivo": "Denuncia feminicidios y reclama políticas de género efectivas",
+            "fuente": "https://elciudadanoweb.com/ni-una-menos-el-gobierno-de-milei-intento-bajarle-el-precio-a-la-marcha-y-defendio-por-redes-sociales-la-baja-de-femicidios/, https://www.conclusion.com.ar/la-ciudad/ni-una-menos-en-rosario-convocan-a-marchar-en-medio-de-la-bronca-y-el-dolor-por-los-femicidios-en-el-pais/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-03",
             "horario": "15:30",
             "lugar": "Plaza 25 de Mayo (Córdoba y Laprida), Rosario",
             "quien": "Colectivos feministas y organizaciones sociales",
@@ -11720,16 +11730,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar contra la violencia de género y femicidios, con el lema 'Vivas, libres y desendeudadas nos queremos'",
             "fuente": "https://www.inforegion.com.ar/2026/06/02/niunamenos-a-11-anos-de-la-primera-marcha-el-mismo-reclamo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-06-03",
-            "horario": "17:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Colectivo Ni Una Menos",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir justicia por femicidios, denunciar políticas antifeministas y ajuste económico, y reclamar políticas de prevención como ESI y abordamiento de violencias",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/ni-una-menos-en-rosario-convocan-a-marchar-en-medio-de-la-bronca-y-el-dolor-por-los-femicidios-en-el-pais/06/2026/"
         },
         {
             "es_evento_relevante": true,
