@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04T16:27:12.318622-03:00",
+    "last_updated": "2026-06-04T18:33:17.535909-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11850,6 +11850,16 @@
             "tipo_medida": "Paro Nacional Docente",
             "motivo": "Reclamo de aumento salarial para docentes (salario mínimo de $500k por debajo de la línea de pobreza) y rechazo a la política salarial del Gobierno",
             "fuente": "https://www.infobae.com/politica/2026/06/04/los-sindicatos-educativos-de-la-cgt-planifican-un-paro-docente-en-todo-el-pais-para-despues-del-mundial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "08:00",
+            "lugar": "Centros educativos de todo el país",
+            "quien": "CGT y sindicatos docentes (UDA, CEA, SADOP) con CTERA y gremios universitarios",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo por salarios por debajo de la línea de pobreza, congelamiento del haber mínimo en 500 mil pesos durante un año, falta de acuerdos en paritarias y recorte presupuestario en educación",
+            "fuente": "https://www.datagremial.com/paritarias/cansados-del-silencio-del-gobierno-gremios-docentes-de-la-cgt-anuncian-paro-para-el-segundo-semestre-del-ano-20266416540"
         },
         {
             "es_evento_relevante": true,
