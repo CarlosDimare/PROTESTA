@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04T03:44:42.326046-03:00",
+    "last_updated": "2026-06-04T07:43:41.080360-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11830,6 +11830,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra despidos inminentes, vaciamiento institucional y ajuste fiscal en la CNEA",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-y-jefes-lanzan-un-fuerte-reclamo-contra-el-vaciamiento-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-20",
+            "horario": "09:00",
+            "lugar": "Secretaría de Políticas Educativas de la CGT (Buenos Aires) y sedes sindicales a nivel nacional",
+            "quien": "CGT - Secretaría de Políticas Educativas (UDA), CTERA y gremios universitarios",
+            "tipo_medida": "Paro Nacional Docente",
+            "motivo": "Reclamo de aumento salarial para docentes (salario mínimo de $500k por debajo de la línea de pobreza) y rechazo a la política salarial del Gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/06/04/los-sindicatos-educativos-de-la-cgt-planifican-un-paro-docente-en-todo-el-pais-para-despues-del-mundial/"
         },
         {
             "es_evento_relevante": true,
