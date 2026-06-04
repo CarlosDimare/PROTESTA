@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04T07:43:41.080360-03:00",
+    "last_updated": "2026-06-04T11:05:42.686144-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11785,11 +11785,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-05",
             "horario": "00:00",
-            "lugar": "Tribunales Federales de Argentina (específicamente en Rosario: Oroño al 900 y Entre Ríos al 400)",
+            "lugar": "Dependencias judiciales federales de todo el país",
             "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales, condiciones laborales, participación en el Directorio de la Obra Social y defensa del fuero nacional del trabajo",
-            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
+            "motivo": "Mejoras salariales, condiciones laborales y defensa del fuero laboral",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaran-un-nuevo-paro-de-24-horas-este-viernes/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
         },
         {
             "es_evento_relevante": true,
