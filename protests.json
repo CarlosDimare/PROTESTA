@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-04T20:11:10.095295-03:00",
+    "last_updated": "2026-06-04T23:55:28.615003-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11795,6 +11795,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-04",
             "horario": "13:00",
+            "lugar": "No especificado",
+            "quien": "Central Obrera (CGT)",
+            "tipo_medida": "Paro general",
+            "motivo": "Defensa de derechos laborales y oposición a la reforma laboral del gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/06/04/la-cgt-advirtio-no-descartamos-otro-paro-general/, https://www.a24.com/politica/marcha-la-cgt-y-paro-nacional-ate-horarios-el-mapa-los-cortes-y-recorrido-la-protesta-n1509048"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-04",
+            "horario": "13:00",
             "lugar": "Hospital Garrahan",
             "quien": "APyT y ATE Garrahan",
             "tipo_medida": "Conferencia de prensa",
@@ -11810,6 +11820,16 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, condiciones laborales y defensa del fuero laboral",
             "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaran-un-nuevo-paro-de-24-horas-este-viernes/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-05",
+            "horario": "18:00",
+            "lugar": "Congreso Nacional (Buenos Aires) y plazas de todo el país",
+            "quien": "Colectivo Actrices Argentinas y movimientos feministas",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra femicidios y violencia de género, bajo el lema NiUnaMenos",
+            "fuente": "https://elciudadanoweb.com/la-patria-de-la-cultura-el-espectaculo-y-la-comunicacion-dijo-presente-en-la-movilizacion-del-niunamenos/"
         },
         {
             "es_evento_relevante": true,
@@ -11830,6 +11850,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar por seis meses de salarios impagos, la inactividad de las plantas y exigir una definición sobre el futuro de la empresa por parte de los propietarios",
             "fuente": "https://www.datagremial.com/informacion-general/necesitamos-que-alguien-nos-escuche-trabajadores-de-lacteos-veronica-retoman-las-protestas-al-alcanzar-los-seis-meses-sin-cobrar-20266313310"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-08",
+            "horario": "15:00",
+            "lugar": "Ginebra, Suiza",
+            "quien": "Movimiento obrero y sindicatos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos contra la reforma laboral argentina y defensa del derecho de huelga",
+            "fuente": "https://www.datagremial.com/escenario/gremios-argentinos-consideran-clave-el-fallo-a-favor-del-derecho-a-huelga-para-frenar-la-nefasta-reforma-laboral--20265293580, https://murktv.com.ar/aumenta-dia-a-dia-la-convocatoria-a-la-marcha-contra-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
