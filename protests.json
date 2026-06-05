@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-05T08:26:41.184072-03:00",
+    "last_updated": "2026-06-05T11:43:31.577371-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11815,11 +11815,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-05",
             "horario": "00:00",
-            "lugar": "Dependencias judiciales federales de todo el país",
+            "lugar": "Todas las dependencias del fuero federal del país, incluyendo Tribunales Federales en Rosario (Boulevard Oroño al 900, Entre Ríos al 400) y otras sedes judiciales de la región",
             "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
             "tipo_medida": "Paro",
-            "motivo": "Mejoras salariales, condiciones laborales y defensa del fuero laboral",
-            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaran-un-nuevo-paro-de-24-horas-este-viernes/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
+            "motivo": "Mejoras salariales, representación en la obra social judicial y defensa del fuero nacional del trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-el-paro-nacional-de-los-judiciales-federales-en-reclamo-de-salarios-y-condiciones-laborales/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaran-un-nuevo-paro-de-24-horas-este-viernes/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
         },
         {
             "es_evento_relevante": true,
