@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-05T11:43:31.577371-03:00",
+    "last_updated": "2026-06-05T14:16:25.196357-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11820,6 +11820,26 @@
             "tipo_medida": "Paro",
             "motivo": "Mejoras salariales, representación en la obra social judicial y defensa del fuero nacional del trabajo",
             "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-el-paro-nacional-de-los-judiciales-federales-en-reclamo-de-salarios-y-condiciones-laborales/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizaran-un-nuevo-paro-de-24-horas-este-viernes/06/2026/, https://www.conclusion.com.ar/gremiales/judiciales-nacionales-realizan-este-viernes-un-paro-de-24-horas-por-reclamo-salarial/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-05",
+            "horario": "06:00",
+            "lugar": "Planta de Metalnor SRL en Palpalá, Jujuy",
+            "quien": "Trabajadores de Metalnor SRL con representantes del gremio",
+            "tipo_medida": "Movilización y paro en la puerta de la fábrica",
+            "motivo": "Rechazo al pago de salarios en cuotas (70/30%) y exigencia de reunión inmediata con la empresa",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-ex-Aceros-Zapla-de-paro-por-retraso-en-el-pago-de-sueldos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-05",
+            "horario": "12:15-13:15",
+            "lugar": "Sucursal Banco Supervielle, peatonal Córdoba al 1400, Rosario",
+            "quien": "La Asociación Bancaria (seccional Rosario)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Rechazo a despidos arbitrarios en Banco Supervielle y reclamo de reincorporación de trabajadores afectados, incluyendo aquellos con licencias por salud",
+            "fuente": "https://elciudadanoweb.com/la-bancaria-protesta-en-rosario-contra-los-despidos-en-banco-supervielle/"
         },
         {
             "es_evento_relevante": true,
