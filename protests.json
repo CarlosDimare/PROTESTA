@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-06T12:12:30.393313-03:00",
+    "last_updated": "2026-06-06T14:10:58.535375-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11880,6 +11880,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos contra la reforma laboral argentina y defensa del derecho de huelga",
             "fuente": "https://www.datagremial.com/escenario/gremios-argentinos-consideran-clave-el-fallo-a-favor-del-derecho-a-huelga-para-frenar-la-nefasta-reforma-laboral--20265293580, https://murktv.com.ar/aumenta-dia-a-dia-la-convocatoria-a-la-marcha-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
+            "horario": "17:00",
+            "lugar": "Casa de Gobierno de Río Gallegos",
+            "quien": "Policías autoconvocados de Santa Cruz",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial y exigencia de representación directa en el Consejo del Salario",
+            "fuente": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/, https://www.indivisiblesantacruzcounty.com/take-action"
         },
         {
             "es_evento_relevante": true,
