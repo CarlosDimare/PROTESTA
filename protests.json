@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-06T19:06:08.880803-03:00",
+    "last_updated": "2026-06-06T21:04:41.301769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11893,6 +11893,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-06-09",
+            "horario": "No especificado",
+            "lugar": "Secretaría de Trabajo de Rafaela, Santa Fe",
+            "quien": "Trabajadores de la empresa lechera Verónica",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por salarios adeudados y exigencia de intervención judicial urgente",
+            "fuente": "https://www.laizquierdadiario.com/Veronica-ante-el-cierre-de-la-fabrica-los-trabajadores-realizan-una-importante-concentracion"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-06-10",
             "horario": "17:00",
             "lugar": "Casa de Gobierno de Río Gallegos",
@@ -11910,6 +11920,16 @@
             "tipo_medida": "Amparo judicial",
             "motivo": "Reclamo por recortes de fondos a obras públicas y régimen de coparticipación",
             "fuente": "https://motoreconomico.com.ar/punto-para-kicillof-la-corte-puso-fecha-limite-a-la-anses-para-saldar-la-deuda-con-la-provincia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-16",
+            "horario": "10:00",
+            "lugar": "Tribunales Federales de Buenos Aires",
+            "quien": "Docentes e Investigadores de la Universidad Nacional de Rosario (Coad)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial, presupuesto suficiente para actividades académicas y becas estudiantiles",
+            "fuente": "https://elciudadanoweb.com/coad-docentes-de-la-unr-anunciaron-un-paro-de-una-semana-para-mediados-de-junio/"
         },
         {
             "es_evento_relevante": true,
