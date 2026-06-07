@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-07T12:25:15.323296-03:00",
+    "last_updated": "2026-06-07T14:16:22.624570-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11884,6 +11884,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-08",
+            "horario": "**No especificado**",
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "FEDUN (Federación de Docentes de las Universidades)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de convocatoria inmediata a paritarias, cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial del 52,1%",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-informo-un-altisimo-acatamiento-en-la-segunda-jornada-de-paro-en-todas-las-universidades-nacionales-20266416180, https://www.lavozdemisiones.com/politica/protesta-policial-cuarto-intermedio-por-sueldos-y-advertencia-a-otras-fuerzas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-08",
             "horario": "15:00",
             "lugar": "Ginebra, Suiza",
             "quien": "Movimiento obrero y sindicatos",
@@ -11930,6 +11940,16 @@
             "tipo_medida": "Audiencia",
             "motivo": "Incumplimiento en pagos salarios de supermercados Toledo y exigencia de regularización inmediata",
             "fuente": "https://www.datagremial.com/informacion-general/denuncian-incumplimientos-salariales-en-la-cadena-de-supermercados-toledo-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20266620180"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-15",
+            "horario": "No especificado",
+            "lugar": "Planta Pirelli en Merlo",
+            "quien": "Sindicato de Trabajadores de Pirelli",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la reducción salarial del 27% y cambios en el sistema de trabajo (5×2)",
+            "fuente": "https://motoreconomico.com.ar/por-la-caida-de-las-ventas-pirelli-paraliza-por-completo-la-produccion-en-su-planta-de-merlo-y-lanza-un-recorte-total-de-las-horas-extra/"
         },
         {
             "es_evento_relevante": true,
