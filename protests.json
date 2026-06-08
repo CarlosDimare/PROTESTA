@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-07T21:13:11.653704-03:00",
+    "last_updated": "2026-06-08T02:29:58.633815-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11910,6 +11910,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por salarios adeudados y exigencia de intervención judicial urgente",
             "fuente": "https://www.laizquierdadiario.com/Veronica-ante-el-cierre-de-la-fabrica-los-trabajadores-realizan-una-importante-concentracion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Colectivo Ni Una Menos",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por femicidios y violencia de género, destacando el caso de Agostina Vega y otros 104 crímenes en 2026",
+            "fuente": "https://motoreconomico.com.ar/impactante-marcha-de-ni-una-menos-en-todo-el-pais-tras-el-femicidio-de-agostina/"
         },
         {
             "es_evento_relevante": true,
