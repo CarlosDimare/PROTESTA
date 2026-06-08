@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-08T07:29:59.656849-03:00",
+    "last_updated": "2026-06-08T11:52:49.508755-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11903,6 +11903,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-06-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Médicos de cabecera y odontólogos de PAMI",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por actualización urgente de honorarios profesionales para garantizar la continuidad y calidad de la atención a afiliados de PAMI",
+            "fuente": "https://elciudadanoweb.com/pami-medicos-de-cabecera-y-odontologos-inician-un-paro-de-72-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-09",
+            "horario": "09:00",
+            "lugar": "Plaza de Tribunales, frente a la Corte Suprema",
+            "quien": "Federación de Docentes de las Universidades (FEDUN) con FreSU",
+            "tipo_medida": "Marcha/Movilización",
+            "motivo": "Protesta con clases públicas a favor de la normativa 27.795 y reclamo por paritarias",
+            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-suma-a-barrios-de-pie-a-su-armado-y-amplia-su-representacion-pensando-en-nuevas-protestas-20266810590"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-06-09",
             "horario": "No especificado",
             "lugar": "Secretaría de Trabajo de Rafaela, Santa Fe",
@@ -11950,6 +11970,16 @@
             "tipo_medida": "Audiencia",
             "motivo": "Incumplimiento en pagos salarios de supermercados Toledo y exigencia de regularización inmediata",
             "fuente": "https://www.datagremial.com/informacion-general/denuncian-incumplimientos-salariales-en-la-cadena-de-supermercados-toledo-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20266620180"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-13",
+            "horario": "No especificado",
+            "lugar": "Bancos Supervielle de todo el país (ejemplo: sede de Rosario en Santa Fe al 1400)",
+            "quien": "Sindicato La Bancaria",
+            "tipo_medida": "Movilización/Asamblea",
+            "motivo": "Protesta contra despidos y ajuste del banco Supervielle, defensa de puestos de trabajo y respuesta a cierres de sucursales inminentes",
+            "fuente": "https://www.conclusion.com.ar/gremiales/protesta-de-la-bancaria-el-banco-supervielle-se-comporta-de-una-manera-muy-brutal/06/2026/"
         },
         {
             "es_evento_relevante": true,
