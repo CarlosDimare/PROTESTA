@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-09T16:15:53.961785-03:00",
+    "last_updated": "2026-06-09T18:53:31.123105-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11920,6 +11920,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial y exigencia de intervención urgente en negociaciones paritarias ante desfasaje entre costos operativos e ingresos del sector",
             "fuente": "https://www.inforegion.com.ar/2026/06/09/paro-de-colectivos-la-uta-amenaza-con-una-nueva-medida-de-fuerza-y-crece-la-incertidumbre-entre-los-usuarios/, https://radiomitre.cienradios.com/sociedad/paro-de-colectivos-este-martes-13-de-junio-que-lineas-estaran-afectadas-y-desde-que-hora/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-09",
+            "horario": "07:00",
+            "lugar": "Estación Federico Lacroze de la Línea B",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de descuentos salariales injustificados y persecución antisindical por parte de Emova, violando derechos laborales y el derecho de huelga",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-del-subte-liberaran-molinetes-contra-descuentos-salariales-persecutorios"
         },
         {
             "es_evento_relevante": true,
