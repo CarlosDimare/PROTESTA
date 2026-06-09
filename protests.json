@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-08T19:24:16.372995-03:00",
+    "last_updated": "2026-06-08T21:04:12.187981-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11920,6 +11920,16 @@
             "tipo_medida": "Marcha/Movilización",
             "motivo": "Protesta con clases públicas a favor de la normativa 27.795 y reclamo por paritarias",
             "fuente": "https://www.datagremial.com/informacion-general/el-fresu-suma-a-barrios-de-pie-a-su-armado-y-amplia-su-representacion-pensando-en-nuevas-protestas-20266810590"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-09",
+            "horario": "13:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CTA de los Trabajadores y CTA Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "contra 'el ajuste de Milei'",
+            "fuente": "https://www.infobae.com/politica/2026/06/08/ofensiva-sindical-la-cgt-hizo-fuertes-denuncias-contra-el-gobierno-en-la-oit-y-las-cta-se-movilizan-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
