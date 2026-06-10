@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-09T23:51:22.506895-03:00",
+    "last_updated": "2026-06-10T04:07:35.651710-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12020,6 +12020,16 @@
             "tipo_medida": "Amparo judicial",
             "motivo": "Reclamo por recortes de fondos a obras públicas y régimen de coparticipación",
             "fuente": "https://motoreconomico.com.ar/punto-para-kicillof-la-corte-puso-fecha-limite-a-la-anses-para-saldar-la-deuda-con-la-provincia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
+            "horario": "10:00",
+            "lugar": "Sede de Azopardo 802",
+            "quien": "CGT con Confederaciones Industriales (CSIRA), Transporte (CATT) y Energía (CATHEDA)",
+            "tipo_medida": "Reunión estratégica",
+            "motivo": "Debate de próximos pasos para plan de lucha contra el Gobierno y definición de medidas de fuerza",
+            "fuente": "https://www.infobae.com/politica/2026/06/10/la-cgt-convoco-a-sindicatos-de-la-industria-el-transporte-y-la-energia-para-debatir-un-nuevo-plan-de-lucha/"
         },
         {
             "es_evento_relevante": true,
