@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T08:37:32.331527-03:00",
+    "last_updated": "2026-06-10T12:26:08.681999-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -11994,6 +11994,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-10",
+            "horario": "08:00",
+            "lugar": "Multifuncional CEJA de El Alto, Bolivia",
+            "quien": "Federación Campesina 'Tupac Katari' y Central Obrera Boliviana (COB)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra el gobierno de Rodrigo Paz, exigiendo su renuncia, el fin de la represión y en contra de las amenazas de estado de excepción",
+            "fuente": "https://www.laizquierdadiario.com/Fuerte-concentracion-en-El-Alto-se-prepara-para-marchar-hacia-La-Paz-para-gran-acto"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
             "horario": "10:00",
             "lugar": "Congreso de la Nación",
             "quien": "Colectivo Ni Una Menos",
@@ -12010,6 +12020,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo salarial y exigencia de representación directa en el Consejo del Salario",
             "fuente": "https://www.infobae.com/politica/2026/06/06/conflicto-salarial-con-la-policia-en-santa-cruz-protestas-acampe-y-refuerzo-de-fuerzas-federales-de-nacion/, https://www.indivisiblesantacruzcounty.com/take-action"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
+            "horario": "La hora de inicio del evento de protesta es **10:00**.  \n\n**Explicación:**  \nEl texto indica claramente:  \n> *\"Las movilizaciones comenzaron a las 10, cuando los primeros grupos comenzaron a llegar a Avenida de Mayo y 9 de Julio.\"*  \n\nEsta es la hora en que se inició la movilización hacia Plaza de Mayo, coincidiendo con la reunión de los primeros manifestantes.",
+            "lugar": "Ministerio de Economía",
+            "quien": "CTA de Trabajadores y Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "rechazar las políticas de ajuste y entrega del Gobierno Nacional",
+            "fuente": "https://www.conclusion.com.ar/gremiales/las-dos-cta-marcharon-este-martes-hacia-plaza-de-mayo-contra-el-ajuste-del-gobierno/06/2026/, https://www.clarin.com/politica/marcha-piquetera-cortes-hora-protesta-caba-cortes_0_DrgaGp5k3M.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-10",
+            "horario": "No especificado",
+            "lugar": "Instalaciones de SAPEM SA en Casilda, Santa Fe",
+            "quien": "Asociación Personal Jerárquico del Gas (APJ Gas)",
+            "tipo_medida": "Retención de tareas",
+            "motivo": "Reclamo por medidas de seguridad e higiene y mejora salarial",
+            "fuente": "https://estadodealerta.com.ar/casilda-santa-fe-se-abrieron-nuevas-negociaciones-en-el-conflicto-entre-apj-gas-y-la-empresa-sapem-que-se-comprometio-a-atender-el-reclamo-formulado-por-los-trabajadores/"
         },
         {
             "es_evento_relevante": true,
@@ -12050,6 +12080,16 @@
             "tipo_medida": "Audiencia",
             "motivo": "Incumplimiento en pagos salarios de supermercados Toledo y exigencia de regularización inmediata",
             "fuente": "https://www.datagremial.com/informacion-general/denuncian-incumplimientos-salariales-en-la-cadena-de-supermercados-toledo-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20266620180"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ASIJEMIN (Asociación Sindical del Personal Jerárquico, Profesional y Técnico de la Actividad Minera Argentina)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el pago del bono anual adeudado, reincorporación del trabajador despedido, cese de persecución sindical y respeto del convenio colectivo",
+            "fuente": "https://www.datagremial.com/informacion-general/asijemin-denuncio-a-perforaciones-santacrucenas-por-persecucion-sindical-despidos-y-el-incumplimiento-del-pago-de-un-bono-anual-20266917310"
         },
         {
             "es_evento_relevante": true,
