@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-09T20:17:34.922499-03:00",
+    "last_updated": "2026-06-09T23:51:22.506895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12080,6 +12080,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por aumento salarial y financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/rectores-universitarios-y-gobierno-buscan-acuerdo-parcial-con-resistencia-sindical-y-continuidad-de-la-judicializacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-19",
+            "horario": "17:00",
+            "lugar": "Callao y Corrientes (punto de partida), pasando por Obelisco, hasta Edificio Del Plata",
+            "quien": "Coordinadora contra los Desalojos y por la Vivienda",
+            "tipo_medida": "Movilización",
+            "motivo": "Lucha por vivienda y hábitat, denuncia de desalojos truchos, precios exorbitantes de alquileres y operativos represivos",
+            "fuente": "https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
         },
         {
             "es_evento_relevante": true,
