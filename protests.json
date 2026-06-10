@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T18:26:42.963490-03:00",
+    "last_updated": "2026-06-10T20:24:43.169727-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12120,6 +12120,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial, presupuesto suficiente para actividades académicas y becas estudiantiles",
             "fuente": "https://elciudadanoweb.com/coad-docentes-de-la-unr-anunciaron-un-paro-de-una-semana-para-mediados-de-junio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-16",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del gobierno (24,33% vs cumplimiento de Ley de Financiamiento Universitario) y coordinación con sindicatos de base",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-votaran-si-mantienen-el-paro-pese-al-acuerdo-salarial-firmado-por-conadu/06/2026/"
         },
         {
             "es_evento_relevante": true,
