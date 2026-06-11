@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11T16:33:21.460306-03:00",
+    "last_updated": "2026-06-11T18:59:09.199893-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12054,6 +12054,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-11",
+            "horario": "08:00",
+            "lugar": "Estadio Azteca",
+            "quien": "CNTE (Coordinadora Nacional de Trabajadores de la Educación)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del derecho a un sistema de pensiones público y recuperación del derecho de los trabajadores del Estado a una vejez digna",
+            "fuente": "https://www.laizquierdadiario.com/Mexico-inaugura-el-Mundial-de-Futbol-entre-protestas-de-docentes-y-familiares-de-desaparecidos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
             "horario": "10:00",
             "lugar": "Universidad de Buenos Aires (AGD), Universidad Nacional de Tucumán, Universidad Nacional del Sur (Bahía Blanca)",
             "quien": "Docentes universitarios (sindicatos base: CONADU, FeDUBA, ADIUC, Sindicato de Rosario, Sindicato de Quilmes)",
@@ -12100,6 +12110,16 @@
             "tipo_medida": "Audiencia",
             "motivo": "Incumplimiento en pagos salarios de supermercados Toledo y exigencia de regularización inmediata",
             "fuente": "https://www.datagremial.com/informacion-general/denuncian-incumplimientos-salariales-en-la-cadena-de-supermercados-toledo-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20266620180"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
+            "horario": "19:00",
+            "lugar": "Callao y Corrientes, CABA",
+            "quien": "Docentes, no docentes y estudiantes",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el acuerdo con el gobierno y por el cumplimiento de la Ley Universitaria",
+            "fuente": "https://www.laizquierdadiario.com/Universidad-Conadu-Historica-rechazo-el-acuerdo-con-el-Gobierno-y-ratifica-paro-la-semana-del-16"
         },
         {
             "es_evento_relevante": true,
