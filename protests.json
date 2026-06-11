@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11T09:08:53.168638-03:00",
+    "last_updated": "2026-06-11T13:49:55.793318-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12055,6 +12055,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-11",
             "horario": "10:00",
+            "lugar": "Universidad de Buenos Aires (AGD), Universidad Nacional de Tucumán, Universidad Nacional del Sur (Bahía Blanca)",
+            "quien": "Docentes universitarios (sindicatos base: CONADU, FeDUBA, ADIUC, Sindicato de Rosario, Sindicato de Quilmes)",
+            "tipo_medida": "Asambleas de base y autoconvocatorias",
+            "motivo": "Rechazo al pacto ilegal entre gobierno, rectores y burocracias sindicales que ignora la Ley de Financiamiento y exige salario completo",
+            "fuente": "https://www.anred.org/crece-la-rebelion-docente-contra-el-pacto-del-gobierno-los-rectores-y-la-corte-suprema/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
+            "horario": "10:00",
             "lugar": "Sede sindical de ATE Pami Rosario",
             "quien": "ATE Pami Rosario",
             "tipo_medida": "Movilización (Asamblea General)",
@@ -12150,6 +12160,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por aumento salarial y financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/rectores-universitarios-y-gobierno-buscan-acuerdo-parcial-con-resistencia-sindical-y-continuidad-de-la-judicializacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "10:00",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU Histórica y COAD de Rosario",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al acuerdo salarial y reclamo por financiamiento universitario",
+            "fuente": "https://estadodealerta.com.ar/un-acuerdo-parcial-desbloquea-el-conflicto-universitario-pero-el-reclamo-por-la-ley-continua-en-la-justicia/"
         },
         {
             "es_evento_relevante": true,
