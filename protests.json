@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11T00:00:23.295459-03:00",
+    "last_updated": "2026-06-11T04:29:47.945747-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12096,10 +12096,10 @@
             "fecha": "2026-06-11",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "ASIJEMIN (Asociación Sindical del Personal Jerárquico, Profesional y Técnico de la Actividad Minera Argentina)",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir el pago del bono anual adeudado, reincorporación del trabajador despedido, cese de persecución sindical y respeto del convenio colectivo",
-            "fuente": "https://www.datagremial.com/informacion-general/asijemin-denuncio-a-perforaciones-santacrucenas-por-persecucion-sindical-despidos-y-el-incumplimiento-del-pago-de-un-bono-anual-20266917310"
+            "quien": "Médicos de cabecera y odontólogos afiliados a PAMI (representados por entidades como APAMIA)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo de recomposición urgente de honorarios por atraso acumulado del 102%, contra el cambio en modalidad de pago del PAMI y la insuficiencia de ajustes previstos",
+            "fuente": "https://estadodealerta.com.ar/tercer-dia-del-paro-de-medicos-y-odontologos-del-pami-por-honorarios-que-acumulan-un-atraso-de-mas-del-100/, https://www.datagremial.com/informacion-general/asijemin-denuncio-a-perforaciones-santacrucenas-por-persecucion-sindical-despidos-y-el-incumplimiento-del-pago-de-un-bono-anual-20266917310"
         },
         {
             "es_evento_relevante": true,
