@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-10T20:24:43.169727-03:00",
+    "last_updated": "2026-06-11T00:00:23.295459-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12055,6 +12055,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-11",
             "horario": "10:00",
+            "lugar": "Sede sindical de ATE Pami Rosario",
+            "quien": "ATE Pami Rosario",
+            "tipo_medida": "Movilización (Asamblea General)",
+            "motivo": "Denuncia de crisis institucional, despidos encubiertos y nombramientos políticos en Pami",
+            "fuente": "https://elciudadanoweb.com/en-medio-de-los-recortes-denuncian-nombramientos-de-militantes-libertarios-sin-experiencia-en-el-pami-santa-fe/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
+            "horario": "10:00",
             "lugar": "Sede de Azopardo 802",
             "quien": "CGT con Confederaciones Industriales (CSIRA), Transporte (CATT) y Energía (CATHEDA)",
             "tipo_medida": "Reunión estratégica",
@@ -12200,6 +12210,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Contra las restricciones a la huelga impuestas por ANAC en la resolución 173/2026",
             "fuente": "https://www.datagremial.com/escenario/gremios-rechazan-la-esencialidad-del-sector-aerocomercial-es-una-eliminacion-del-derecho-a-huelga-de-facto--20263271000, https://www.infobae.com/economia/2026/03/17/paro-aereo-de-ate-anac-que-vuelos-se-veran-afectados-y-donde-habra-demoras-y-cancelaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "10:00",
+            "lugar": "La Plata",
+            "quien": "SUTNA",
+            "tipo_medida": "Movilización",
+            "motivo": "Visibilizar el reclamo de los trabajadores de Fate y exigir una reunión con el gobernador bonaerense, Axel Kicillof",
+            "fuente": "https://www.laizquierdadiario.com/Movilizacion-a-Plaza-de-Mayo-reclamo-contra-los-despidos-y-el-ajuste, https://www.clarin.com/economia/sutna-vuelve-parar-21-paraliza-fabricas-neumaticos_0_fDo2DwVT5t.html"
         },
         {
             "es_evento_relevante": true,
