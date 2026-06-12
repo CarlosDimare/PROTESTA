@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-11T20:20:19.697183-03:00",
+    "last_updated": "2026-06-11T23:56:15.274978-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12114,22 +12114,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-11",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Bases sindicales docentes y no docentes universitarias",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al acuerdo firmado y exigencia de cumplimiento integral de la ley universitaria",
+            "fuente": "https://www.laizquierdadiario.com/Por-que-los-rectores-firmaron-en-contra-de-la-lucha-por-la-Ley-Universitaria, https://estadodealerta.com.ar/tercer-dia-del-paro-de-medicos-y-odontologos-del-pami-por-honorarios-que-acumulan-un-atraso-de-mas-del-100/, https://www.datagremial.com/informacion-general/asijemin-denuncio-a-perforaciones-santacrucenas-por-persecucion-sindical-despidos-y-el-incumplimiento-del-pago-de-un-bono-anual-20266917310, https://www.eldestapeweb.com/sociedad/marcha-universitaria/marcha-universitaria-de-antorchas-se-movilizaran-gremios-docentes-no-docentes-y-estudiantes-2025626121120"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-11",
             "horario": "19:00",
             "lugar": "Callao y Corrientes, CABA",
             "quien": "Docentes, no docentes y estudiantes",
             "tipo_medida": "Movilización",
             "motivo": "Contra el acuerdo con el gobierno y por el cumplimiento de la Ley Universitaria",
             "fuente": "https://www.laizquierdadiario.com/Universidad-Conadu-Historica-rechazo-el-acuerdo-con-el-Gobierno-y-ratifica-paro-la-semana-del-16"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-06-11",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Médicos de cabecera y odontólogos afiliados a PAMI (representados por entidades como APAMIA)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Reclamo de recomposición urgente de honorarios por atraso acumulado del 102%, contra el cambio en modalidad de pago del PAMI y la insuficiencia de ajustes previstos",
-            "fuente": "https://estadodealerta.com.ar/tercer-dia-del-paro-de-medicos-y-odontologos-del-pami-por-honorarios-que-acumulan-un-atraso-de-mas-del-100/, https://www.datagremial.com/informacion-general/asijemin-denuncio-a-perforaciones-santacrucenas-por-persecucion-sindical-despidos-y-el-incumplimiento-del-pago-de-un-bono-anual-20266917310"
         },
         {
             "es_evento_relevante": true,
