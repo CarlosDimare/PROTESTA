@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12T14:37:39.808849-03:00",
+    "last_updated": "2026-06-12T17:04:55.014675-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12154,6 +12154,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-15",
+            "horario": "08:00",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Coad y Federación Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de Ley de Financiamiento Universitario y reclamo de aumento salarial del 53,8% (vs 21,3% ofrecido)",
+            "fuente": "https://www.conclusion.com.ar/gremiales/coad-ratifico-el-paro-universitario-para-la-semana-que-viene-y-no-docentes-consideran-un-avance-el-aumento/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-15",
             "horario": "No especificado",
             "lugar": "Planta Pirelli en Merlo",
             "quien": "Sindicato de Trabajadores de Pirelli",
@@ -12164,22 +12174,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-16",
+            "horario": "00:00-24:00",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Asociación Gremial de Docentes e Investigadores de la UNR (Coad)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de mejoras salariales y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/sin-acuerdo-en-la-unr-los-docentes-sostienen-el-paro-y-cuestionan-la-oferta-salarial/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-votaran-si-mantienen-el-paro-pese-al-acuerdo-salarial-firmado-por-conadu/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-16",
             "horario": "10:00",
             "lugar": "Tribunales Federales de Buenos Aires",
             "quien": "Docentes e Investigadores de la Universidad Nacional de Rosario (Coad)",
             "tipo_medida": "Paro con movilización",
             "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial, presupuesto suficiente para actividades académicas y becas estudiantiles",
             "fuente": "https://elciudadanoweb.com/coad-docentes-de-la-unr-anunciaron-un-paro-de-una-semana-para-mediados-de-junio/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-06-16",
-            "horario": "No especificado",
-            "lugar": "Universidad Nacional de Rosario (UNR)",
-            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la propuesta salarial del gobierno (24,33% vs cumplimiento de Ley de Financiamiento Universitario) y coordinación con sindicatos de base",
-            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-votaran-si-mantienen-el-paro-pese-al-acuerdo-salarial-firmado-por-conadu/06/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -12200,6 +12210,26 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al acuerdo salarial y reclamo por financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/un-acuerdo-parcial-desbloquea-el-conflicto-universitario-pero-el-reclamo-por-la-ley-continua-en-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "17:00",
+            "lugar": "Frente a la sede del Grupo Crónica",
+            "quien": "SIPREBA (Sindicato de Prensa de Buenos Aires)",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir recomposición salarial frente a la pérdida del poder adquisitivo y alta pobreza en el sector",
+            "fuente": "https://www.laizquierdadiario.com/Paritarias-de-prensa-escrita-los-grandes-medios-ofrecen-migajas-y-habra-protestas-en-las"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-18",
+            "horario": "06:00",
+            "lugar": "Complejo agroexportador del Gran Rosario",
+            "quien": "SOEA (Sindicato de Obreros y Empleados Aceiteros) y FTCIODyARA (Federación de Trabajadores del Complejo Industrial Oleaginoso)",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Reclamo de recomposición salarial del 20% frente a propuesta empresarial del 0%, en rechazo a la pauta inflacionaria y ante beneficios millonarios de las empresas",
+            "fuente": "https://estadodealerta.com.ar/el-conflicto-aceitero-al-borde-de-la-escalada-en-plena-cosecha-gruesa-la-conciliacion-vence-el-miercoles-y-no-hay-acuerdo-a-la-vista/, https://www.conclusion.com.ar/gremiales/desde-las-6-de-este-miercoles-aceiteros-comienzan-una-huelga-nacional-por-reclamo-salarial/10/2025/"
         },
         {
             "es_evento_relevante": true,
