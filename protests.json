@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12T11:47:12.197266-03:00",
+    "last_updated": "2026-06-12T14:37:39.808849-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12130,6 +12130,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el acuerdo con el gobierno y por el cumplimiento de la Ley Universitaria",
             "fuente": "https://www.laizquierdadiario.com/Universidad-Conadu-Historica-rechazo-el-acuerdo-con-el-Gobierno-y-ratifica-paro-la-semana-del-16"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-12",
+            "horario": "17:00",
+            "lugar": "Sede de la Asamblea Permanente por los Derechos Humanos (APDH), Ciudad de Buenos Aires",
+            "quien": "Comunidades educativas preuniversitarias (familias autoconvocadas, centros de estudiantes, docentes y no docentes de universidades nacionales)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir a la Corte Suprema el cumplimiento inmediato de la Ley de Financiamiento Universitario y rechazar el recurso del Poder Ejecutivo",
+            "fuente": "https://www.laizquierdadiario.com/Lanzan-un-petitorio-a-la-Corte-Suprema-para-exigir-la-aplicacion-de-la-Ley-de-Financiamiento"
         },
         {
             "es_evento_relevante": true,
