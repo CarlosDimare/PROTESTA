@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-13T08:53:32.629981-03:00",
+    "last_updated": "2026-06-13T10:49:14.297384-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12250,6 +12250,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Lucha por vivienda y hábitat, denuncia de desalojos truchos, precios exorbitantes de alquileres y operativos represivos",
             "fuente": "https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "No especificado",
+            "lugar": "Monumento a la Bandera, Rosario",
+            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a medidas económicas del gobierno nacional que afectan a trabajadores del transporte y declaración de Javier Milei como persona no grata",
+            "fuente": "https://elciudadanoweb.com/milei-confirmo-que-estara-en-rosario-para-el-dia-de-la-bandera-y-ya-preparan-manifestaciones-de-repudio/"
         },
         {
             "es_evento_relevante": true,
