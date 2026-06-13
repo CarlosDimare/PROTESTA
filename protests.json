@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-12T20:14:29.871695-03:00",
+    "last_updated": "2026-06-12T23:49:31.303836-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12210,6 +12210,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al acuerdo salarial y reclamo por financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/un-acuerdo-parcial-desbloquea-el-conflicto-universitario-pero-el-reclamo-por-la-ley-continua-en-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "17:00",
+            "lugar": "Obelisco hasta la Embajada de Bolivia (Buenos Aires)",
+            "quien": "Comunidad boliviana en Argentina y organizaciones solidarias",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con la rebelión popular en Bolivia contra el ajuste del FMI y la represión del presidente Paz",
+            "fuente": "https://www.laizquierdadiario.com/La-comunidad-boliviana-en-Buenos-Aires-convoca-a-una-movilizacion-en-el-Obelisco"
         },
         {
             "es_evento_relevante": true,
