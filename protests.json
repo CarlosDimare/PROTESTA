@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-14T18:06:06.913364-03:00",
+    "last_updated": "2026-06-14T20:05:34.929902-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12160,6 +12160,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de Ley de Financiamiento Universitario y reclamo de aumento salarial del 53,8% (vs 21,3% ofrecido)",
             "fuente": "https://www.conclusion.com.ar/gremiales/coad-ratifico-el-paro-universitario-para-la-semana-que-viene-y-no-docentes-consideran-un-avance-el-aumento/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-15",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "FATUN",
+            "tipo_medida": "Acuerdo",
+            "motivo": "Firma de acta general de compromiso para resolver conflicto universitario, incluyendo recomposición salarial y actualización presupuestaria",
+            "fuente": "https://www.datagremial.com/paritarias/salarios-universitarios-merkis-confirmo-una-oferta-del-gobierno-aunque-pidio-cautela-y-senalo-que-la-fatun-mantendra-el-reclamo-en-la-corte-suprema-20266920420"
         },
         {
             "es_evento_relevante": true,
