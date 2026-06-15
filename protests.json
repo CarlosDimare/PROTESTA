@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-15T00:33:57.426615-03:00",
+    "last_updated": "2026-06-15T06:57:52.221589-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12270,6 +12270,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Lucha por vivienda y hábitat, denuncia de desalojos truchos, precios exorbitantes de alquileres y operativos represivos",
             "fuente": "https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "No especificado",
+            "lugar": "Parque Lezama",
+            "quien": "Kirchnerismo",
+            "tipo_medida": "Acto",
+            "motivo": "Conmemoración del Día de la Bandera y apoyo a Cristina Kirchner",
+            "fuente": "https://www.infobae.com/politica/2026/06/15/un-ano-de-cristina-kirchner-en-prision-los-viajes-de-maximo-la-nueva-consigna-y-otro-banderazo-en-parque-lezama/"
         },
         {
             "es_evento_relevante": true,
