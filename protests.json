@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-15T12:46:16.828180-03:00",
+    "last_updated": "2026-06-15T16:42:07.259872-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12190,6 +12190,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de mejoras salariales y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/sin-acuerdo-en-la-unr-los-docentes-sostienen-el-paro-y-cuestionan-la-oferta-salarial/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-votaran-si-mantienen-el-paro-pese-al-acuerdo-salarial-firmado-por-conadu/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-16",
+            "horario": "09:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "CONADU, CONADU Histórica, ADUBA y asociaciones de base docentes",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo por recomposición salarial, aumento de presupuesto para universidades y aplicación de la Ley de Financiamiento Universitario, contra políticas de ajuste del gobierno",
+            "fuente": "https://www.anred.org/nuevo-paro-universitario-desde-el-16-de-junio-docentes-denuncian-perdida-salarial-y-profundizacion-del-ajuste/"
         },
         {
             "es_evento_relevante": true,
