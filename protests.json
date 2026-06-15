@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-15T06:57:52.221589-03:00",
+    "last_updated": "2026-06-15T12:46:16.828180-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12220,6 +12220,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al acuerdo salarial y reclamo por financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/un-acuerdo-parcial-desbloquea-el-conflicto-universitario-pero-el-reclamo-por-la-ley-continua-en-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "17:00",
+            "lugar": "Obelisco",
+            "quien": "Comunidad boliviana en Argentina",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar al gobierno boliviano represor y ajustador, y apoyar el proceso de lucha interna de más de 45 días",
+            "fuente": "https://www.laizquierdadiario.com/Todas-y-todos-a-la-movilizacion-en-apoyo-a-la-rebelion-del-pueblo-de-Bolivia-concentracion-en-el"
         },
         {
             "es_evento_relevante": true,
