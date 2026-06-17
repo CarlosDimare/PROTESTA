@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17T12:00:41.141463-03:00",
+    "last_updated": "2026-06-17T14:51:59.545807-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12390,6 +12390,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra despidos inminentes, vaciamiento institucional y ajuste fiscal en la CNEA",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-y-jefes-lanzan-un-fuerte-reclamo-contra-el-vaciamiento-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-13",
+            "horario": "No especificado",
+            "lugar": "BCRA y Banco Hipotecario (sucursales y dependencias)",
+            "quien": "La Bancaria (Asociación Bancaria)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra decisiones «intolerables» de autoridades, incluyendo cierres de sucursales y ajustes en el Banco Hipotecario",
+            "fuente": "https://estadodealerta.com.ar/la-bancaria-sostiene-el-reclamo-judicial-por-el-oro-del-bcra-y-denuncia-el-ajuste-en-el-hipotecario/"
         },
         {
             "es_evento_relevante": true,
