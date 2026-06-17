@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17T14:51:59.545807-03:00",
+    "last_updated": "2026-06-17T17:07:38.903548-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12380,6 +12380,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a medidas económicas del gobierno nacional que afectan a trabajadores del transporte y declaración de Javier Milei como persona no grata",
             "fuente": "https://elciudadanoweb.com/milei-confirmo-que-estara-en-rosario-para-el-dia-de-la-bandera-y-ya-preparan-manifestaciones-de-repudio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "No especificado",
+            "lugar": "Sede de la CGT, Azopardo 802",
+            "quien": "Consejo Directivo de la CGT",
+            "tipo_medida": "Reunión sindical",
+            "motivo": "Análisis y definición del plan de lucha contra el gobierno, incluyendo paros sectoriales, movilizaciones y asambleas",
+            "fuente": "https://www.infobae.com/politica/2026/06/17/fuerte-debate-en-la-cgt-hay-consenso-para-iniciar-medidas-de-fuerza-sectoriales-pero-no-un-paro-general-en-forma-inminente/"
         },
         {
             "es_evento_relevante": true,
