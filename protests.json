@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17T08:44:34.859812-03:00",
+    "last_updated": "2026-06-17T12:00:41.141463-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12230,6 +12230,26 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al acuerdo salarial y reclamo por financiamiento universitario",
             "fuente": "https://estadodealerta.com.ar/un-acuerdo-parcial-desbloquea-el-conflicto-universitario-pero-el-reclamo-por-la-ley-continua-en-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "11:30",
+            "lugar": "SERPAJ (Piedras 730, Ciudad de Buenos Aires)",
+            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la libertad de Milton Tolomeo y Eneas Gallo, denunciar la criminalización de la protesta social y represión estatal",
+            "fuente": "https://www.anred.org/nueva-conferencia-de-prensa-para-exigir-la-libertad-de-milton-tolomeo-y-eneas-gallo-presos-por-protestar-contra-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-17",
+            "horario": "16:00",
+            "lugar": "Maipú 1065, Rosario",
+            "quien": "COAD",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de implementación de Ley de Financiamiento Universitario, salarios dignos y presupuesto universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/los-docentes-universitarios-inician-protestas-desde-este-miercoles-por-salarios-y-por-la-ley-de-financiamiento/06/2026/"
         },
         {
             "es_evento_relevante": true,
