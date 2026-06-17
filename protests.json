@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-16T21:14:51.211055-03:00",
+    "last_updated": "2026-06-17T03:08:25.817782-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12320,6 +12320,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Denuncia de aumento de desalojos, criminalización de personas en situación de calle, especulación inmobiliaria y políticas habitacionales de los gobiernos de Jorge Macri y Javier Milei",
             "fuente": "https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "Conadu Histórica",
+            "tipo_medida": "Paro docente",
+            "motivo": "Exigencia de aplicación efectiva de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-una-semana-contra-la-entrega-de-la-Ley-de-Financiamiento"
         },
         {
             "es_evento_relevante": true,
