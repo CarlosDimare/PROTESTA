@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-18T16:30:54.473180-03:00",
+    "last_updated": "2026-06-18T19:03:10.281284-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12350,6 +12350,26 @@
             "tipo_medida": "Reunión de planificación",
             "motivo": "Planificar medidas de fuerza contra políticas laborales del gobierno libertario",
             "fuente": "https://www.infobae.com/politica/2026/06/13/como-es-el-audaz-esquema-de-paros-a-la-francesa-que-analizara-la-cgt-para-profundizar-su-ofensiva-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-18",
+            "horario": "14:00",
+            "lugar": "Palacio Pizzurno (Secretaría de Educación de la Nación)",
+            "quien": "Lista Multicolor, seccionales combativas de Suteba y Ademys",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo contra salarios de pobreza, condiciones laborales deterioradas, ataques de Milei/Kicillof y falta de oferta salarial del gobierno provincial",
+            "fuente": "https://www.laizquierdadiario.com/Provincia-de-Buenos-Aires-masivo-paro-docente-contra-el-ajuste-y-la-miseria-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-19",
+            "horario": "09:00",
+            "lugar": "Fábricas aceiteras del Departamento San Lorenzo, Rosario",
+            "quien": "FTCIODyARA y SOEA San Lorenzo",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial de 15.000 pesos y defensa del Salario Mínimo Vital y Móvil",
+            "fuente": "https://www.datagremial.com/paritarias/una-nueva-provocacion-empresaria-a-los-trabajadores-aceiteros-ofrecieron-un-aumento-de-apenas-15-000-y-amenaza-con-volver-el-paro-202661815580"
         },
         {
             "es_evento_relevante": true,
