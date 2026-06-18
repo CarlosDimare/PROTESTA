@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-18T11:02:21.456099-03:00",
+    "last_updated": "2026-06-18T14:03:44.773345-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12365,6 +12365,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-20",
             "horario": "No especificado",
+            "lugar": "Acto del Día de la Bandera, Rosario",
+            "quien": "CGT Rosario y Sadop",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a políticas económicas del gobierno y ajuste salarial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/vaticinan-un-fuerte-repudio-al-arribo-de-javier-milei-a-rosario-por-el-dia-de-la-bandera/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Multisectorial (Catt, CCC, pymes, jubilados)",
             "tipo_medida": "Concentración",
@@ -12390,6 +12400,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Repudio a medidas económicas del gobierno nacional que afectan a trabajadores del transporte y declaración de Javier Milei como persona no grata",
             "fuente": "https://elciudadanoweb.com/milei-confirmo-que-estara-en-rosario-para-el-dia-de-la-bandera-y-ya-preparan-manifestaciones-de-repudio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paros sectoriales escalonados",
+            "motivo": "Oposición a la reforma laboral y deterioro del poder adquisitivo",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-evalua-paros-escalonados-a-la-francesa-y-convoca-al-consejo-directivo-para-definir-el-plan-de-lucha/, https://www.clarin.com/ciudades/marcha-cgt-reforma-laboral-hora-movilizacion-cortes-calles-pasa-transporte_0_0F6Gvm7tzb.html"
         },
         {
             "es_evento_relevante": true,
@@ -12420,6 +12440,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra decisiones «intolerables» de autoridades, incluyendo cierres de sucursales y ajustes en el Banco Hipotecario",
             "fuente": "https://estadodealerta.com.ar/la-bancaria-sostiene-el-reclamo-judicial-por-el-oro-del-bcra-y-denuncia-el-ajuste-en-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-20",
+            "horario": "09:00",
+            "lugar": "No especificado",
+            "quien": "CTERA y sindicatos docentes de la CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y laborales: aumento salarial urgente, restitución del FONID, convocatoria a Paritaria Nacional Docente, defensa de jubilaciones y rechazo al ajuste educativo",
+            "fuente": "https://www.datagremial.com/informacion-general/ctera-se-movilizo-y-anuncio-un-paro-nacional-no-vamos-a-resignar-ninguno-de-los-derechos-conquistados--202661812170"
         },
         {
             "es_evento_relevante": true,
