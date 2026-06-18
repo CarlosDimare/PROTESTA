@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-18T19:03:10.281284-03:00",
+    "last_updated": "2026-06-18T20:53:27.048678-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12375,11 +12375,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-19",
             "horario": "17:00",
-            "lugar": "Intersección de Callao y Corrientes hacia el Edificio del Plata, Ciudad de Buenos Aires",
+            "lugar": "Callao y Corrientes hacia Edificio del Plata",
             "quien": "Coordinadora contra los desalojos y por la vivienda",
             "tipo_medida": "Marcha",
-            "motivo": "Denuncia de aumento de desalojos, criminalización de personas en situación de calle, especulación inmobiliaria y políticas habitacionales de los gobiernos de Jorge Macri y Javier Milei",
-            "fuente": "https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+            "motivo": "Repudiar la emergencia habitacional, desalojos y especulación inmobiliaria en la Ciudad de Buenos Aires bajo las gestiones de Macri y Milei",
+            "fuente": "https://www.laizquierdadiario.com/Vuelve-la-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en, https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
         },
         {
             "es_evento_relevante": true,
@@ -12500,6 +12500,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo por salarios por debajo de la línea de pobreza, congelamiento del haber mínimo en 500 mil pesos durante un año, falta de acuerdos en paritarias y recorte presupuestario en educación",
             "fuente": "https://www.datagremial.com/paritarias/cansados-del-silencio-del-gobierno-gremios-docentes-de-la-cgt-anuncian-paro-para-el-segundo-semestre-del-ano-20266416540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona dos fechas de protestas (30 de abril y 1° de Mayo), pero **no incluye la hora de inicio** en ningún momento. Solo se refiere a que las medidas de fuerza ocurrirán \"durante\" esas jornadas. Por lo tanto, no es posible determinar una hora específica.",
+            "lugar": "No especificado",
+            "quien": "Trabajadores del Transporte (ITF)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a reformas laborales y deterioro del transporte",
+            "fuente": "https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/"
         },
         {
             "es_evento_relevante": true,
@@ -12630,16 +12640,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por convocatoria a paritaria nacional docente, aumento salarial, financiamiento educativo, infraestructura escolar segura, condiciones laborales dignas y fortalecimiento de la formación docente continua.",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-union-de-docentes-argentinos-se-declara-en-estado-de-alerta-y-movilizacion-y-exige-la-convocatoria-urgente-a-la-paritaria-nacional/06/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Médicos y odontólogos de PAMI",
-            "tipo_medida": "Paro",
-            "motivo": "Reclaman actualización urgente de honorarios para garantizar continuidad y calidad de atención a afiliados adultos mayores",
-            "fuente": "https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/"
         },
         {
             "es_evento_relevante": true,
