@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-17T21:13:54.451620-03:00",
+    "last_updated": "2026-06-18T02:55:04.180069-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12320,6 +12320,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra la miseria salarial, el ajuste económico y la crítica situación económica de los docentes",
             "fuente": "https://www.laizquierdadiario.com/El-18-de-junio-habra-paro-docente-contra-los-salarios-de-pobreza-y-el-ajuste-en-la-educacion"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-18",
+            "horario": "10:00",
+            "lugar": "Fiscalía",
+            "quien": "Familia, compañeros y organismos de DD. HH. de Cristian Pereyra",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigencia de justicia por el asesinato de Cristian Pereyra, denuncia de precarización laboral y responsabilidad estatal",
+            "fuente": "https://www.laizquierdadiario.com/A-tres-meses-del-asesinato-del-docente-Cristian-Pereyra-la-causa-se-eleva-a-juicio-y-el-18-se"
         },
         {
             "es_evento_relevante": true,
