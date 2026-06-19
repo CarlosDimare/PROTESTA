@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19T17:27:42.288643-03:00",
+    "last_updated": "2026-06-19T19:03:22.173950-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12374,12 +12374,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-19",
-            "horario": "17:00",
-            "lugar": "Callao y Corrientes hacia Edificio del Plata",
-            "quien": "Coordinadora contra los desalojos y por la vivienda",
+            "horario": "18:12",
+            "lugar": "Desde Callao y Corrientes hacia el Edificio del Plata",
+            "quien": "La Coordinadora contra los desalojos y por la vivienda",
             "tipo_medida": "Marcha",
-            "motivo": "Repudiar la emergencia habitacional, desalojos y especulación inmobiliaria en la Ciudad de Buenos Aires bajo las gestiones de Macri y Milei",
-            "fuente": "https://www.laizquierdadiario.com/Vuelve-la-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en, https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+            "motivo": "Repudio a la emergencia habitacional porteña, aumento de desalojos y costos de alquiler",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en, https://www.laizquierdadiario.com/Vuelve-la-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en, https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
         },
         {
             "es_evento_relevante": true,
@@ -12400,6 +12400,16 @@
             "tipo_medida": "Paro docente",
             "motivo": "Exigencia de aplicación efectiva de la Ley de Financiamiento Universitario",
             "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-una-semana-contra-la-entrega-de-la-Ley-de-Financiamiento"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "No especificado",
+            "lugar": "Monumento Nacional a la Bandera, Rosario",
+            "quien": "ATE Nacional, CGT Rosarina y Multisectorial Sindical Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a políticas de ajuste, corrupción, reforma laboral y declaración de Milei como persona no grata",
+            "fuente": "https://www.datagremial.com/informacion-general/diversos-gremios-preparan-un-repudio-masivo-a-la-visita-a-rosario-del-presidente-milei--20266191870, https://elciudadanoweb.com/milei-confirmo-que-estara-en-rosario-para-el-dia-de-la-bandera-y-ya-preparan-manifestaciones-de-repudio/"
         },
         {
             "es_evento_relevante": true,
@@ -12433,13 +12443,13 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-06-20",
+            "fecha": "2026-06-22",
             "horario": "No especificado",
-            "lugar": "Monumento a la Bandera, Rosario",
-            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
+            "lugar": "Parque Tecnológico Miguelete, Buenos Aires",
+            "quien": "Multisectorial del INTI",
             "tipo_medida": "Movilización",
-            "motivo": "Repudio a medidas económicas del gobierno nacional que afectan a trabajadores del transporte y declaración de Javier Milei como persona no grata",
-            "fuente": "https://elciudadanoweb.com/milei-confirmo-que-estara-en-rosario-para-el-dia-de-la-bandera-y-ya-preparan-manifestaciones-de-repudio/"
+            "motivo": "Contra el plan de ajuste, despidos y corrupción del gobierno bajo la consigna 'Para que gane Argentina hay que sacar a Adorni'",
+            "fuente": "https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni"
         },
         {
             "es_evento_relevante": true,
