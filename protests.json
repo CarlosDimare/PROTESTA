@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19T13:32:39.417417-03:00",
+    "last_updated": "2026-06-19T15:33:14.324732-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12380,6 +12380,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudiar la emergencia habitacional, desalojos y especulación inmobiliaria en la Ciudad de Buenos Aires bajo las gestiones de Macri y Milei",
             "fuente": "https://www.laizquierdadiario.com/Vuelve-la-Marcha-de-las-Escobas-movilizacion-contra-los-desalojos-y-la-especulacion-inmobiliaria-en, https://www.anred.org/marcha-de-las-escobas-convocan-a-movilizacion-contra-los-desalojos-y-la-crisis-habitacional-en-caba/, https://www.laizquierdadiario.com/Viernes-19J-movilizacion-contra-los-desalojos-y-por-el-derecho-a-la-vivienda"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-19",
+            "horario": "No especificado",
+            "lugar": "Establecimientos de salud afiliados a PAMI en todo el país",
+            "quien": "Cámara Argentina de la Seguridad Social (CAPRESS) y clínicas/sanatorios",
+            "tipo_medida": "Movilización",
+            "motivo": "Profundización de medidas de presión por reclamo de recomposición de valores y cancelación de pagos pendientes con PAMI",
+            "fuente": "https://www.infobae.com/politica/2026/06/19/prestadores-del-pami-suspendieron-nuevos-turnos-y-advirtieron-que-podrian-profundizar-las-medidas-por-el-atraso-en-los-pagos/"
         },
         {
             "es_evento_relevante": true,
