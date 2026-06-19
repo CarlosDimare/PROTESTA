@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19T19:03:22.173950-03:00",
+    "last_updated": "2026-06-19T20:06:02.427566-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12400,6 +12400,16 @@
             "tipo_medida": "Paro docente",
             "motivo": "Exigencia de aplicación efectiva de la Ley de Financiamiento Universitario",
             "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-una-semana-contra-la-entrega-de-la-Ley-de-Financiamiento"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "No especificado",
+            "lugar": "Patio Olmos, Córdoba",
+            "quien": "Familiares de Agostina Vega, vecinos y organizaciones sociales/políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Justicia por Agostina Vega y casos de violencia de género con impunidad política",
+            "fuente": "https://www.laizquierdadiario.com/Ni-una-menos-movilizacion-en-Cordoba-exigio-justicia-por-Agostina"
         },
         {
             "es_evento_relevante": true,
