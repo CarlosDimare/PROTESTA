@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-19T20:06:02.427566-03:00",
+    "last_updated": "2026-06-19T23:48:08.518320-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12454,12 +12454,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-22",
-            "horario": "No especificado",
-            "lugar": "Parque Tecnológico Miguelete, Buenos Aires",
+            "horario": "La hora de inicio del evento de protesta es:  \n**10:00**  \n\n**Explicación breve:**  \nEl texto especifica que los trabajadores realizarán una **\"conferencia de prensa el próximo martes 21 de abril a las 10 de la mañana\"**. Esta es la única hora de evento de protesta mencionada explícitamente. La marcha no tiene horario definido en el texto.",
+            "lugar": "Avenida General Paz 5445",
             "quien": "Multisectorial del INTI",
             "tipo_medida": "Movilización",
-            "motivo": "Contra el plan de ajuste, despidos y corrupción del gobierno bajo la consigna 'Para que gane Argentina hay que sacar a Adorni'",
-            "fuente": "https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni"
+            "motivo": "Oposición a despidos y reestructuración en INTI; exigencia de renuncia de Adorni",
+            "fuente": "https://www.datagremial.com/informacion-general/con-781-despidos-en-la-mira-el-gobierno-baja-las-persianas-del-inti-justo-el-dia-de-una-protesta-contra-adorni-202661917580, https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni, https://www.tiempoar.com.ar/ta_article/vaciamiento-inti-conferencia-marcha/"
         },
         {
             "es_evento_relevante": true,
