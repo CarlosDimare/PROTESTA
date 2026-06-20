@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-20T09:27:36.717208-03:00",
+    "last_updated": "2026-06-20T12:04:20.481799-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12370,6 +12370,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la propuesta salarial de 15.000 pesos y defensa del Salario Mínimo Vital y Móvil",
             "fuente": "https://www.datagremial.com/paritarias/una-nueva-provocacion-empresaria-a-los-trabajadores-aceiteros-ofrecieron-un-aumento-de-apenas-15-000-y-amenaza-con-volver-el-paro-202661815580"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-19",
+            "horario": "17:00",
+            "lugar": "Sede central de la Federación Judicial Argentina (FJA), calle Rincón 74",
+            "quien": "Secretarías de Género y Diversidades de ambas CTA’s",
+            "tipo_medida": "Movilización",
+            "motivo": "Debate sobre cómo desarticular discursos machistas en torno a denuncias de violencia de género",
+            "fuente": "https://www.datagremial.com/informacion-general/la-fja-llevo-su-reclamo-por-la-desigualdad-salarial-a-la-jufejus-y-trazo-nuevas-lineas-de-trabajo-conjuntas-202661821370"
         },
         {
             "es_evento_relevante": true,
