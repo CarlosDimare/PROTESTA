@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-20T16:17:18.501200-03:00",
+    "last_updated": "2026-06-20T18:24:25.206624-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12410,6 +12410,16 @@
             "tipo_medida": "Paro docente",
             "motivo": "Exigencia de aplicación efectiva de la Ley de Financiamiento Universitario",
             "fuente": "https://www.laizquierdadiario.com/Paro-universitario-de-una-semana-contra-la-entrega-de-la-Ley-de-Financiamiento"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-20",
+            "horario": "17:30",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Comunidad boliviana argentina",
+            "tipo_medida": "Marcha",
+            "motivo": "Solidaridad con el pueblo boliviano contra políticas de ajuste y represión, exigiendo derogación del Estado de Excepción y libertad de presos",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-Estado-de-Excepcion-y-la-represion-en-Bolivia-movilizacion-a-las-17-30-en-el-Obelisco"
         },
         {
             "es_evento_relevante": true,
