@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-21T05:25:55.349940-03:00",
+    "last_updated": "2026-06-21T08:44:29.656719-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12480,6 +12480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a despidos y reestructuración en INTI; exigencia de renuncia de Adorni",
             "fuente": "https://www.datagremial.com/informacion-general/con-781-despidos-en-la-mira-el-gobierno-baja-las-persianas-del-inti-justo-el-dia-de-una-protesta-contra-adorni-202661917580, https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni, https://www.tiempoar.com.ar/ta_article/vaciamiento-inti-conferencia-marcha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-22",
+            "horario": "No especificado",
+            "lugar": "Puerto de Reikiavik",
+            "quien": "Hvalavinir (Amigos de las Ballenas)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Reclamar el fin definitivo de la caza comercial de ballenas",
+            "fuente": "https://www.conclusion.com.ar/corazon-animal/islandia-reanudo-la-caza-de-ballenas-y-crecen-las-protestas-ambientalistas/06/2026/"
         },
         {
             "es_evento_relevante": true,
