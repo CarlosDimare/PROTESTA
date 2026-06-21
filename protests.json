@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-20T20:04:09.540068-03:00",
+    "last_updated": "2026-06-21T00:31:57.980769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12480,6 +12480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a despidos y reestructuración en INTI; exigencia de renuncia de Adorni",
             "fuente": "https://www.datagremial.com/informacion-general/con-781-despidos-en-la-mira-el-gobierno-baja-las-persianas-del-inti-justo-el-dia-de-una-protesta-contra-adorni-202661917580, https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni, https://www.tiempoar.com.ar/ta_article/vaciamiento-inti-conferencia-marcha/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-23",
+            "horario": "06:00",
+            "lugar": "Rutas de transporte urbano y suburbano del interior del país",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Crisis financiera por tarifas desactualizadas, aumento de costos operativos, incumplimiento en el pago de subsidios y compensaciones de la tarjeta SUBE, y dificultades para abonar salarios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-transporte-del-interior-en-situacion-limite-este-lunes-podria-haber-recorte-de-servicios-ante-un-sistema-al-borde-del-colapso/06/2026/"
         },
         {
             "es_evento_relevante": true,
