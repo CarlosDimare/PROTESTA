@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-22T19:00:19.672708-03:00",
+    "last_updated": "2026-06-22T20:21:08.959237-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12540,6 +12540,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Rechazo a oferta salarial miserable y defensa de convenios sindicales",
             "fuente": "https://www.laizquierdadiario.com/Gremios-al-borde-del-paro-tras-oferta-miserable-de-las-cerealeras"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-29",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT",
+            "tipo_medida": "Marcha federal",
+            "motivo": "Protesta contra la política laboral del gobierno de Javier Milei, específicamente contra la ley de modernización laboral que debilita derechos sindicales y acelera la revisión de convenios colectivos",
+            "fuente": "https://www.datagremial.com/informacion-general/una-marcha-conjunto-y-un-cuarto-paro-general-las-posibles-medidas-de-fuerza-que-analizara-la-cgt-202662214100"
         },
         {
             "es_evento_relevante": true,
