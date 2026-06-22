@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-22T06:45:18.901799-03:00",
+    "last_updated": "2026-06-22T12:20:25.324122-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12474,12 +12474,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-22",
-            "horario": "La hora de inicio del evento de protesta es:  \n**10:00**  \n\n**Explicación breve:**  \nEl texto especifica que los trabajadores realizarán una **\"conferencia de prensa el próximo martes 21 de abril a las 10 de la mañana\"**. Esta es la única hora de evento de protesta mencionada explícitamente. La marcha no tiene horario definido en el texto.",
-            "lugar": "Avenida General Paz 5445",
-            "quien": "Multisectorial del INTI",
-            "tipo_medida": "Movilización",
-            "motivo": "Oposición a despidos y reestructuración en INTI; exigencia de renuncia de Adorni",
-            "fuente": "https://www.datagremial.com/informacion-general/con-781-despidos-en-la-mira-el-gobierno-baja-las-persianas-del-inti-justo-el-dia-de-una-protesta-contra-adorni-202661917580, https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni, https://www.tiempoar.com.ar/ta_article/vaciamiento-inti-conferencia-marcha/"
+            "horario": "10:00",
+            "lugar": "Sede central del INTI",
+            "quien": "Asamblea Multisectorial del INTI",
+            "tipo_medida": "Piquete",
+            "motivo": "Contra despidos masivos y vaciamiento del INTI, con consigna 'Para que gane Argentina hay que sacar a Adorni'",
+            "fuente": "https://www.anred.org/alerta-en-el-inti-cierran-el-acceso-a-sus-trabajadores-para-evitar-una-protesta-contra-el-vaciamiento/, https://www.datagremial.com/informacion-general/con-781-despidos-en-la-mira-el-gobierno-baja-las-persianas-del-inti-justo-el-dia-de-una-protesta-contra-adorni-202661917580, https://www.laizquierdadiario.com/Cierran-las-puertas-del-INTI-para-evitar-protestas-contra-Adorni, https://www.tiempoar.com.ar/ta_article/vaciamiento-inti-conferencia-marcha/"
         },
         {
             "es_evento_relevante": true,
@@ -12530,6 +12530,16 @@
             "tipo_medida": "Reunión sindical",
             "motivo": "Exigencia de asistencia obligatoria de líderes sindicales para decisiones sobre medidas de fuerza y crítica a la pasividad en la estrategia de lucha",
             "fuente": "https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-27",
+            "horario": "No especificado",
+            "lugar": "Plantas aceiteras del Cordón Industrial San Lorenzo",
+            "quien": "SOEA y Federación Aceitera",
+            "tipo_medida": "Huelga",
+            "motivo": "Rechazo a oferta salarial miserable y defensa de convenios sindicales",
+            "fuente": "https://www.laizquierdadiario.com/Gremios-al-borde-del-paro-tras-oferta-miserable-de-las-cerealeras"
         },
         {
             "es_evento_relevante": true,
