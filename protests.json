@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-23T16:10:07.016775-03:00",
+    "last_updated": "2026-06-23T18:32:20.262476-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12504,6 +12504,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-24",
+            "horario": "10:00",
+            "lugar": "Legislatura de Neuquén",
+            "quien": "Gremios estatales ATE, ATEN, ADUNC, SEJUN y ATEN Capital",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Rechazo al acuerdo GNL por considerarlo entrega de soberanía y saqueo de recursos naturales",
+            "fuente": "https://www.laizquierdadiario.com/Paro-y-movilizacion-en-Neuquen-contra-el-proyecto-de-saqueo-del-GNL"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-24",
             "horario": "No especificado",
             "lugar": "AMBA (Área Metropolitana de Buenos Aires)",
             "quien": "Unión Tranviarios Automotor (UTA)",
@@ -12570,6 +12580,16 @@
             "tipo_medida": "Reunión sindical",
             "motivo": "Exigencia de asistencia obligatoria de líderes sindicales para decisiones sobre medidas de fuerza y crítica a la pasividad en la estrategia de lucha",
             "fuente": "https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-27",
+            "horario": "No especificado",
+            "lugar": "Instalaciones de Club Atlético Banfield",
+            "quien": "Plantel profesional de Banfield (jugadores, cuerpo técnico y empleados)",
+            "tipo_medida": "Movilización",
+            "motivo": "Incumplimiento económico y falta de pago de salarios y obligaciones",
+            "fuente": "https://www.inforegion.com.ar/2026/06/23/crisis-en-banfield-el-plantel-endurece-su-reclamo-por-salarios-impagos-y-amenaza-con-tomar-medidas/"
         },
         {
             "es_evento_relevante": true,
