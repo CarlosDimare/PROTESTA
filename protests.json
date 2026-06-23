@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-23T07:36:34.982519-03:00",
+    "last_updated": "2026-06-23T11:01:12.443702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12503,6 +12503,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-06-24",
+            "horario": "No especificado",
+            "lugar": "AMBA (Área Metropolitana de Buenos Aires)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial por inflación acumulada del segundo trimestre 2026",
+            "fuente": "https://www.datagremial.com/paritarias/la-uta-volvio-a-advertir-por-un-posible-paro-si-no-hay-suba-salarial-los-dias-pasan-y-la-paz-social-peligra--202662217160"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-06-25",
             "horario": "10:00",
             "lugar": "Sede de la CGT",
@@ -12510,6 +12520,16 @@
             "tipo_medida": "Reunión de planificación de protestas",
             "motivo": "Decidir medidas de fuerza contra políticas de Javier Milei (salarios, empleo, obras sociales) con debate entre paro general de 36 horas y protestas escalonadas al estilo francés",
             "fuente": "https://www.infobae.com/politica/2026/06/23/un-grupo-de-sindicatos-rechaza-las-protestas-a-la-francesa-que-analiza-la-cgt-y-presionara-por-un-paro-de-36-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "13:00",
+            "lugar": "Sala III de la Cámara Penal, Contravencional y de Faltas de la Ciudad de Buenos Aires",
+            "quien": "Organizaciones antirrepresivas y de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la criminalización de protestas y apoyo a los manifestantes",
+            "fuente": "https://www.laizquierdadiario.com/Cuatro-condenados-sin-pruebas-la-apelacion-que-pone-en-cuestion-el-protocolo-de-Bullrich"
         },
         {
             "es_evento_relevante": true,
