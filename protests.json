@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-22T23:41:01.124523-03:00",
+    "last_updated": "2026-06-23T03:46:56.136788-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12500,6 +12500,16 @@
             "tipo_medida": "Paro",
             "motivo": "Crisis financiera por tarifas desactualizadas, aumento de costos operativos, incumplimiento en el pago de subsidios y compensaciones de la tarjeta SUBE, y dificultades para abonar salarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/el-transporte-del-interior-en-situacion-limite-este-lunes-podria-haber-recorte-de-servicios-ante-un-sistema-al-borde-del-colapso/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "10:00",
+            "lugar": "Sede de la CGT",
+            "quien": "CGT (Consejo Directivo) con facciones lideradas por Luis Barrionuevo, Omar Maturano y Roberto Fernández",
+            "tipo_medida": "Reunión de planificación de protestas",
+            "motivo": "Decidir medidas de fuerza contra políticas de Javier Milei (salarios, empleo, obras sociales) con debate entre paro general de 36 horas y protestas escalonadas al estilo francés",
+            "fuente": "https://www.infobae.com/politica/2026/06/23/un-grupo-de-sindicatos-rechaza-las-protestas-a-la-francesa-que-analiza-la-cgt-y-presionara-por-un-paro-de-36-horas/"
         },
         {
             "es_evento_relevante": true,
