@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-23T13:27:02.560655-03:00",
+    "last_updated": "2026-06-23T16:10:07.016775-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12526,10 +12526,20 @@
             "fecha": "2026-06-25",
             "horario": "13:00",
             "lugar": "Sala III de la Cámara Penal, Contravencional y de Faltas de la Ciudad de Buenos Aires",
-            "quien": "Organizaciones antirrepresivas y de derechos humanos",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la criminalización de protestas y apoyo a los manifestantes",
-            "fuente": "https://www.laizquierdadiario.com/Cuatro-condenados-sin-pruebas-la-apelacion-que-pone-en-cuestion-el-protocolo-de-Bullrich"
+            "quien": "Coordinadora Antirrepresiva por los Derechos del Pueblo (CADeP)",
+            "tipo_medida": "Acompañamiento",
+            "motivo": "Criminalización de la protesta social y defensa de los derechos de los manifestantes",
+            "fuente": "https://www.anred.org/apelan-la-condena-a-manifestantes-detenidos-durante-las-protestas-contra-la-ley-omnibus/, https://www.laizquierdadiario.com/Cuatro-condenados-sin-pruebas-la-apelacion-que-pone-en-cuestion-el-protocolo-de-Bullrich"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "15:00",
+            "lugar": "Sede de UTHGRA (Azopardo 802)",
+            "quien": "Gremios disidentesUTHGRA, UTA, La Fraternidad",
+            "tipo_medida": "Reunión sindical",
+            "motivo": "Unificar posturas para impulsar un paro general de 36 horas contra el Gobierno de Javier Milei",
+            "fuente": "https://elciudadanoweb.com/un-grupo-de-gremios-de-la-cgt-pedira-un-paro-de-36-horas-a-la-cupula/"
         },
         {
             "es_evento_relevante": true,
