@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-24T03:43:32.577852-03:00",
+    "last_updated": "2026-06-24T07:21:38.516849-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12590,6 +12590,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Protesta contra políticas del gobierno nacional que afectan obras sociales, convenios colectivos y financiamiento sindical, incluyendo la quita del 4.5% al 2% en aportes",
             "fuente": "https://estadodealerta.com.ar/un-barrionuevismo-ampliado-con-gremios-del-transporte-los-servicios-y-la-industria-llevara-a-la-cgt-una-propuesta-de-paro-de-36-horas-con-movilizacion/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Organizaciones sociales (UTEP, Bloque Piquetero, Territorios en Lucha)",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración y protesta contra políticas sociales/económicas del gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/06/24/los-movimientos-sociales-y-piqueteros-amenazan-con-cortes-de-rutas-y-otras-medidas-de-fuerza-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
