@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-24T10:17:57.013183-03:00",
+    "last_updated": "2026-06-24T13:20:58.877835-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12520,6 +12520,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo salarial por inflación acumulada del segundo trimestre 2026",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-volvio-a-advertir-por-un-posible-paro-si-no-hay-suba-salarial-los-dias-pasan-y-la-paz-social-peligra--202662217160"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "06:00",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de actualización salarial frente a la inflación y rechazo a que los trabajadores soporten las consecuencias de conflictos empresariales y gubernamentales.",
+            "fuente": "https://www.conclusion.com.ar/gremiales/crece-un-posible-paro-de-colectivos-en-el-area-metropolitana-de-buenos-aires-tras-otro-fracaso-paritario/06/2026/"
         },
         {
             "es_evento_relevante": true,
