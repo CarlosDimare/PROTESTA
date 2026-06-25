@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T02:04:21.985910-03:00",
+    "last_updated": "2026-06-25T05:27:37.801698-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12584,12 +12584,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-06-26",
-            "horario": "10:00",
-            "lugar": "Azopardo 802, sede de la CGT",
-            "quien": "Consejo Directivo de la CGT",
-            "tipo_medida": "Reunión sindical",
-            "motivo": "Exigencia de asistencia obligatoria de líderes sindicales para decisiones sobre medidas de fuerza y crítica a la pasividad en la estrategia de lucha",
-            "fuente": "https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
+            "horario": "14:00",
+            "lugar": "Azopardo 802 (sede CGT)",
+            "quien": "CGT (Consejo Directivo)",
+            "tipo_medida": "Reunión deliberativa",
+            "motivo": "Debate y definición del plan de lucha contra políticas de Javier Milei, incluyendo protestas 'a la francesa' o paro general de 36 horas",
+            "fuente": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/, https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
         },
         {
             "es_evento_relevante": true,
