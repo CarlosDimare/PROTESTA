@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T16:52:14.516778-03:00",
+    "last_updated": "2026-06-25T18:28:45.733993-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12530,6 +12530,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo de actualización salarial frente a la inflación y rechazo a que los trabajadores soporten las consecuencias de conflictos empresariales y gubernamentales.",
             "fuente": "https://www.conclusion.com.ar/gremiales/crece-un-posible-paro-de-colectivos-en-el-area-metropolitana-de-buenos-aires-tras-otro-fracaso-paritario/06/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "09:00",
+            "lugar": "Barrios La Lagunita, Cañaveral y Sector 6 (zona oeste de la ciudad)",
+            "quien": "Vecinos de barrios afectados",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo por falta de suministro eléctrico desde el 18/06, necesidad de generadores y atención de la EPE",
+            "fuente": "https://elciudadanoweb.com/mas-de-una-semana-sin-luz-en-zona-oeste-de-rosario-reclaman-con-corte-de-calle/"
         },
         {
             "es_evento_relevante": true,
