@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T18:28:45.733993-03:00",
+    "last_updated": "2026-06-25T20:14:54.742947-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12703,6 +12703,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-07-20",
+            "horario": "11:00",
+            "lugar": "Nacional (varias provincias)",
+            "quien": "CGT y centrales de trabajadores",
+            "tipo_medida": "Paros sectoriales y rotativos (protestas a la francesa)",
+            "motivo": "Reclamo contra el gobierno de Javier Milei y la Ley 27.802 de Modernización Laboral, por pérdida de derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/06/25/la-cgt-desestimo-otro-paro-general-y-resolvio-adoptar-el-modelo-frances-de-huelga-en-que-consiste/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-07-22",
             "horario": "08:00",
             "lugar": "Centros educativos de todo el país",
@@ -12716,10 +12726,10 @@
             "fecha": "No especificado",
             "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona dos fechas de protestas (30 de abril y 1° de Mayo), pero **no incluye la hora de inicio** en ningún momento. Solo se refiere a que las medidas de fuerza ocurrirán \"durante\" esas jornadas. Por lo tanto, no es posible determinar una hora específica.",
             "lugar": "No especificado",
-            "quien": "Trabajadores del Transporte (ITF)",
+            "quien": "Docentes, no docentes, estudiantes y comunidad educativa",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a reformas laborales y deterioro del transporte",
-            "fuente": "https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/"
+            "motivo": "Exigir el pleno cumplimiento de la Ley de Financiamiento Universitario y preparar un no inicio del segundo cuatrimestre",
+            "fuente": "https://www.laizquierdadiario.com/Golpe-al-Gobierno-la-Corte-dejo-firme-el-fallo-por-la-Ley-de-Financiamiento-Universitario, https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/"
         },
         {
             "es_evento_relevante": true,
