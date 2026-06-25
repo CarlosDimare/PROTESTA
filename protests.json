@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T05:27:37.801698-03:00",
+    "last_updated": "2026-06-25T08:37:57.731150-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12585,21 +12585,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-26",
             "horario": "14:00",
+            "lugar": "Sede de la CGT, calle Azopardo",
+            "quien": "CGT",
+            "tipo_medida": "Reunión de Consejo Directivo",
+            "motivo": "Evaluación y anuncio de cronograma de protestas escalonadas contra la reforma laboral del Gobierno",
+            "fuente": "https://elciudadanoweb.com/la-cgt-se-reune-y-se-espera-que-anuncie-las-proximas-medidas-pero-aun-sin-un-paro-en-el-horizonte/, https://estadodealerta.com.ar/un-barrionuevismo-ampliado-con-gremios-del-transporte-los-servicios-y-la-industria-llevara-a-la-cgt-una-propuesta-de-paro-de-36-horas-con-movilizacion/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "14:00",
             "lugar": "Azopardo 802 (sede CGT)",
             "quien": "CGT (Consejo Directivo)",
             "tipo_medida": "Reunión deliberativa",
             "motivo": "Debate y definición del plan de lucha contra políticas de Javier Milei, incluyendo protestas 'a la francesa' o paro general de 36 horas",
             "fuente": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/, https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-06-26",
-            "horario": "La hora de inicio del evento de protesta es **11:00**.\n\n**Explicación:**  \nEl texto indica claramente que \"a partir de las 11 de la mañana... se concentrarán para marchar\". Esta es la primera mención explícita del inicio de la movilización, aunque diferentes grupos se sumen en horarios posteriores (12:00, 13:00). El acto central en Plaza de Mayo es a las 15:00, pero la concentración inicial comienza a las 11:00.",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "CGT",
-            "tipo_medida": "Paro general",
-            "motivo": "Protesta contra políticas del gobierno nacional que afectan obras sociales, convenios colectivos y financiamiento sindical, incluyendo la quita del 4.5% al 2% en aportes",
-            "fuente": "https://estadodealerta.com.ar/un-barrionuevismo-ampliado-con-gremios-del-transporte-los-servicios-y-la-industria-llevara-a-la-cgt-una-propuesta-de-paro-de-36-horas-con-movilizacion/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
         },
         {
             "es_evento_relevante": true,
