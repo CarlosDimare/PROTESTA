@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26T13:15:14.518934-03:00",
+    "last_updated": "2026-06-26T15:28:36.539263-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12795,11 +12795,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona dos fechas de protestas (30 de abril y 1° de Mayo), pero **no incluye la hora de inicio** en ningún momento. Solo se refiere a que las medidas de fuerza ocurrirán \"durante\" esas jornadas. Por lo tanto, no es posible determinar una hora específica.",
-            "lugar": "No especificado",
-            "quien": "Docentes, no docentes, estudiantes y comunidad educativa",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir el pleno cumplimiento de la Ley de Financiamiento Universitario y preparar un no inicio del segundo cuatrimestre",
-            "fuente": "https://www.laizquierdadiario.com/Golpe-al-Gobierno-la-Corte-dejo-firme-el-fallo-por-la-Ley-de-Financiamiento-Universitario, https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/"
+            "lugar": "Sede de la CGT (lugar de reunión del Consejo Directivo)",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha federal y paro nacional",
+            "motivo": "Rechazo a la Ley de Modernización Laboral, despidos, crisis de obras sociales y persecución sindical",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-define-plan-de-lucha-convocando-a-regionales-de-todo-el-pais-con-marchas-federales-y-paros-nacionales/, https://www.laizquierdadiario.com/Golpe-al-Gobierno-la-Corte-dejo-firme-el-fallo-por-la-Ley-de-Financiamiento-Universitario, https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/, https://www.datagremial.com/informacion-general/cristian-jeronimo-nunca-se-descarta-un-paro-general-como-medida-concreta-de-respuesta--20266420280"
         },
         {
             "es_evento_relevante": true,
@@ -12930,16 +12930,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por convocatoria a paritaria nacional docente, aumento salarial, financiamiento educativo, infraestructura escolar segura, condiciones laborales dignas y fortalecimiento de la formación docente continua.",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-union-de-docentes-argentinos-se-declara-en-estado-de-alerta-y-movilizacion-y-exige-la-convocatoria-urgente-a-la-paritaria-nacional/06/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "Sede de la CGT (lugar de reunión del Consejo Directivo)",
-            "quien": "CGT - Confederación General del Trabajo",
-            "tipo_medida": "Movilización / Paro general (potencial)",
-            "motivo": "Rechazo a la reglamentación de la reforma laboral por considerarla precarizante, violadora de derechos y generadora de desempleo",
-            "fuente": "https://www.datagremial.com/informacion-general/cristian-jeronimo-nunca-se-descarta-un-paro-general-como-medida-concreta-de-respuesta--20266420280"
         },
         {
             "es_evento_relevante": true,
