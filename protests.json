@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T20:14:54.742947-03:00",
+    "last_updated": "2026-06-25T23:47:30.656548-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12545,6 +12545,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-06-25",
             "horario": "10:00",
+            "lugar": "Municipalidad de La Plata",
+            "quien": "Cooperativistas de la Municipalidad de La Plata",
+            "tipo_medida": "Movilización",
+            "motivo": "Despidos y recortes en cooperativas municipales",
+            "fuente": "https://www.anred.org/la-plata-cooperativistas-denuncian-posible-recorte-laboral-y-exigen-garantias-para-miles-de-familias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-25",
+            "horario": "10:00",
             "lugar": "Sede de la CGT",
             "quien": "CGT (Consejo Directivo) con facciones lideradas por Luis Barrionuevo, Omar Maturano y Roberto Fernández",
             "tipo_medida": "Reunión de planificación de protestas",
@@ -12720,6 +12730,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo por salarios por debajo de la línea de pobreza, congelamiento del haber mínimo en 500 mil pesos durante un año, falta de acuerdos en paritarias y recorte presupuestario en educación",
             "fuente": "https://www.datagremial.com/paritarias/cansados-del-silencio-del-gobierno-gremios-docentes-de-la-cgt-anuncian-paro-para-el-segundo-semestre-del-ano-20266416540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-01",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT y centrales sindicales",
+            "tipo_medida": "Medidas rotativas y sectoriales",
+            "motivo": "Contra políticas del gobierno de Javier Milei, específicamente contra la Ley 27.802 de Modernización Laboral y la pérdida de derechos laborales.",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
         },
         {
             "es_evento_relevante": true,
