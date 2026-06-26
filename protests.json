@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26T03:52:30.110826-03:00",
+    "last_updated": "2026-06-26T07:20:36.526114-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12630,6 +12630,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Justicia por la muerte de Rachel y denuncia de coimas a la Policía de la Ciudad",
             "fuente": "https://elciudadanoweb.com/tras-una-movilizacion-liberaron-a-la-referente-de-ammar-georgina-orellano-habia-sido-detenida-al-protestar-por-la-muerte-de-otra-trabajadora-sexual/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "No especificado",
+            "lugar": "Planta de Lácteos Dorrego (Ruta 47 KM 43,5, Navarro, Buenos Aires)",
+            "quien": "Seccional ATILRA Empalme Lobos",
+            "tipo_medida": "Acampe y Protestas",
+            "motivo": "Contra la precarización y la cooperativa trucha que busca eliminar derechos laborales",
+            "fuente": "https://www.anred.org/que-pasa-en-lacteos-yatasto-mala-leche-empresarial-y-un-fraude-laboral-en-marcha/"
         },
         {
             "es_evento_relevante": true,
