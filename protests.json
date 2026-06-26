@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26T15:28:36.539263-03:00",
+    "last_updated": "2026-06-26T17:33:06.109635-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12660,6 +12660,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Justicia por la muerte de Rachel y denuncia de coimas a la Policía de la Ciudad",
             "fuente": "https://elciudadanoweb.com/tras-una-movilizacion-liberaron-a-la-referente-de-ammar-georgina-orellano-habia-sido-detenida-al-protestar-por-la-muerte-de-otra-trabajadora-sexual/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "No especificado",
+            "lugar": "Comisaría 1° de La Plata",
+            "quien": "Organizaciones de cooperativistas y recicladores, incluyendo el Frente de Organizaciones en Lucha",
+            "tipo_medida": "Manifestación",
+            "motivo": "Exigir la liberación de los detenidos y responsabilizar al intendente Alak por las detenciones arbitrarias",
+            "fuente": "https://www.infobae.com/politica/2026/06/26/cooperativistas-prendieron-fuego-la-entrada-de-la-municipalidad-de-la-plata-y-rompieron-vidrios/"
         },
         {
             "es_evento_relevante": true,
