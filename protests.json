@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26T10:11:44.644785-03:00",
+    "last_updated": "2026-06-26T13:15:14.518934-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12600,6 +12600,26 @@
             "tipo_medida": "Reunión sindical",
             "motivo": "Análisis y definición del plan de lucha contra el gobierno, incluyendo paros sectoriales, movilizaciones y asambleas",
             "fuente": "https://www.infobae.com/politica/2026/06/17/fuerte-debate-en-la-cgt-hay-consenso-para-iniciar-medidas-de-fuerza-sectoriales-pero-no-un-paro-general-en-forma-inminente/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "10:00",
+            "lugar": "Puente Pueyrredón en Avenida Hipólito Irigoyen",
+            "quien": "Familiares de Kosteki y Santillán, organizaciones sociales, artistas, organismos de derechos humanos y referentes políticos",
+            "tipo_medida": "Corte",
+            "motivo": "Exigir justicia y castigo a los responsables políticos de la Masacre de Avellaneda",
+            "fuente": "https://www.laizquierdadiario.com/Un-nuevo-aniversario-de-la-Masacre-de-Avellaneda-con-muchos-responsables-impunes"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "11:00",
+            "lugar": "Tribunales de Bahía Blanca, Colón 46",
+            "quien": "Cannabis y Salud y comparsas de candombe de Bahía",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la libertad inmediata de Mariela Agunin, presa por posesión de cannabis medicinal",
+            "fuente": "https://www.laizquierdadiario.com/Crece-el-reclamo-por-libertad-para-Mariela-Agunin-presa-por-cannabis"
         },
         {
             "es_evento_relevante": true,
