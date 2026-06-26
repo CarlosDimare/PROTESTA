@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-26T07:20:36.526114-03:00",
+    "last_updated": "2026-06-26T10:11:44.644785-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12620,6 +12620,16 @@
             "tipo_medida": "Reunión deliberativa",
             "motivo": "Debate y definición del plan de lucha contra políticas de Javier Milei, incluyendo protestas 'a la francesa' o paro general de 36 horas",
             "fuente": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/, https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "15:00",
+            "lugar": "Lugares de trabajo y espacios públicos (varios puntos)",
+            "quien": "CGT y CTA",
+            "tipo_medida": "Movilizaciones sectoriales",
+            "motivo": "Rechazo a la reforma laboral impulsada por el Gobierno nacional",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-anuncio-un-nuevo-paro-general-e-impulsara-una-movilizacion-contra-la-reforma-laboral/06/2026/, https://www.eldia.com/nota/2025-12-18-2-22-1-con-apoyo-peronista-de-la-izquierda-y-piqueteros-la-cgt-protesta-en-la-calle-politica-y-economia"
         },
         {
             "es_evento_relevante": true,
