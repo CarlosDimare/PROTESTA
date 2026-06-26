@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-25T23:47:30.656548-03:00",
+    "last_updated": "2026-06-26T03:52:30.110826-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12620,6 +12620,16 @@
             "tipo_medida": "Reunión deliberativa",
             "motivo": "Debate y definición del plan de lucha contra políticas de Javier Milei, incluyendo protestas 'a la francesa' o paro general de 36 horas",
             "fuente": "https://www.infobae.com/politica/2026/06/25/protestas-a-la-francesa-o-paro-de-36-horas-la-interna-de-la-cgt-se-agitara-hoy-con-un-debate-clave-sobre-el-nuevo-plan-de-lucha/, https://www.infobae.com/politica/2026/06/20/si-tenemos-que-ir-en-cana-iremos-la-advertencia-de-un-jefe-de-la-cgt-que-preanuncia-la-dura-batalla-que-promueven-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-26",
+            "horario": "20:00",
+            "lugar": "Puerta de hoteles en barrio de Constitución",
+            "quien": "AMMAR (Sindicato de trabajadoras Sexuales)",
+            "tipo_medida": "Movilización",
+            "motivo": "Justicia por la muerte de Rachel y denuncia de coimas a la Policía de la Ciudad",
+            "fuente": "https://elciudadanoweb.com/tras-una-movilizacion-liberaron-a-la-referente-de-ammar-georgina-orellano-habia-sido-detenida-al-protestar-por-la-muerte-de-otra-trabajadora-sexual/"
         },
         {
             "es_evento_relevante": true,
