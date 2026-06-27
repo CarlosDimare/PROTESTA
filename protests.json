@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-27T12:13:51.999213-03:00",
+    "last_updated": "2026-06-27T14:06:01.380997-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12700,6 +12700,16 @@
             "tipo_medida": "Paro de 36 horas con movilización",
             "motivo": "Reclamo por agravamiento de la situación financiera de obras sociales y falta de soluciones del Gobierno, además de intervención del sindicato metalúrgico UOM Capital",
             "fuente": "https://www.infobae.com/politica/2026/06/24/un-sector-de-la-cgt-impulsa-un-paro-de-36-horas-y-propone-que-el-estado-se-haga-cargo-de-las-obras-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-27",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT (especialmente sector de transporte y CATT)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra las políticas socioeconómicas y laborales del gobierno de Milei, incluyendo la reforma laboral (FAL y traspaso de fuero)",
+            "fuente": "https://www.infobae.com/politica/2026/06/27/el-nuevo-plan-de-lucha-de-la-cgt-no-calmo-la-interna-sindical-y-sumo-interrogantes-sobre-la-ofensiva-contra-milei/, https://www.eldestapeweb.com/sociedad/reforma-laboral/marcha-de-la-cgt-que-pasa-con-el-transporte-hay-paro-de-colectivos-subtes-y-trenes-20251218154331"
         },
         {
             "es_evento_relevante": true,
