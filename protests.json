@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-28T19:01:00.535189-03:00",
+    "last_updated": "2026-06-28T20:04:52.475846-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12730,6 +12730,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Rechazo a oferta salarial miserable y defensa de convenios sindicales",
             "fuente": "https://www.laizquierdadiario.com/Gremios-al-borde-del-paro-tras-oferta-miserable-de-las-cerealeras"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-28",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Gremios del sector de educación superior",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario con recomposición salarial del 32,5% y actualización de becas",
+            "fuente": "https://www.datagremial.com/informacion-general/luchar-sirve-la-corte-suprema-dejo-firme-la-medida-cautelar-y-ordeno-al-gobierno-cumplir-con-la-ley-de-financiamiento-universitario--20266262350, https://noticiasargentinas.com/politica/marcha-universitaria--se-movilizaran-gremios-docentes--no-docentes-y-estudiantes-_a685c22cbae648b4fec0b7ea7"
         },
         {
             "es_evento_relevante": true,
