@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-29T09:28:40.846431-03:00",
+    "last_updated": "2026-06-29T13:37:41.576048-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12750,6 +12750,16 @@
             "tipo_medida": "Marcha federal",
             "motivo": "Protesta contra la política laboral del gobierno de Javier Milei, específicamente contra la ley de modernización laboral que debilita derechos sindicales y acelera la revisión de convenios colectivos",
             "fuente": "https://www.datagremial.com/informacion-general/una-marcha-conjunto-y-un-cuarto-paro-general-las-posibles-medidas-de-fuerza-que-analizara-la-cgt-202662214100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-29",
+            "horario": "16:00",
+            "lugar": "Monumento al General Urquiza, Concepción del Uruguay",
+            "quien": "Trabajadores de Granja Tres Arroyos, familias y comunidad",
+            "tipo_medida": "Concentración",
+            "motivo": "Pago de salarios adeudados, regularización de prestaciones sociales y preservación de puestos de trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Granja-Tres-Arroyos-nueva-concentracion-en-defensa-de-los-puestos-de-trabajo"
         },
         {
             "es_evento_relevante": true,
