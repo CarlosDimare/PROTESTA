@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-29T13:37:41.576048-03:00",
+    "last_updated": "2026-06-29T16:03:01.845933-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12760,6 +12760,16 @@
             "tipo_medida": "Concentración",
             "motivo": "Pago de salarios adeudados, regularización de prestaciones sociales y preservación de puestos de trabajo",
             "fuente": "https://www.laizquierdadiario.com/Granja-Tres-Arroyos-nueva-concentracion-en-defensa-de-los-puestos-de-trabajo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-30",
+            "horario": "08:00",
+            "lugar": "Establecimientos educativos de la provincia de Buenos Aires",
+            "quien": "Frente de Unidad Docente Bonaerense (FUDB)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales (recomposición de poder adquisitivo y restitución del FONID) y aumento de seguridad en escuelas (prevención de violencia contra docentes)",
+            "fuente": "https://www.infobae.com/politica/2026/06/29/los-docentes-bonaerenses-anunciaron-un-nuevo-paro-por-mejoras-salariales-y-este-martes-no-habra-clases/"
         },
         {
             "es_evento_relevante": true,
