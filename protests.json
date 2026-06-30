@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-30T13:21:27.105834-03:00",
+    "last_updated": "2026-06-30T15:54:00.044098-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12800,6 +12800,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra despidos inminentes, vaciamiento institucional y ajuste fiscal en la CNEA",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-y-jefes-lanzan-un-fuerte-reclamo-contra-el-vaciamiento-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-01",
+            "horario": "10:30",
+            "lugar": "Salón Auditorio 'Miguel Roldán', sede gremial de Córdoba 2971",
+            "quien": "APUR (Asociación del Personal de la UNR)",
+            "tipo_medida": "Plenario informativo",
+            "motivo": "Analizar el escenario tras el fallo de la Corte Suprema sobre financiamiento universitario y reclamar cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/los-no-docentes-de-la-unr-convocan-a-un-plenario-tras-el-fallo-de-la-corte-sobre-la-ley-de-financiamiento-universitario/06/2026/"
         },
         {
             "es_evento_relevante": true,
