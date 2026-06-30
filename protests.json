@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-30T07:52:38.411452-03:00",
+    "last_updated": "2026-06-30T10:09:02.434502-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12770,6 +12770,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales (recomposición de poder adquisitivo y restitución del FONID) y aumento de seguridad en escuelas (prevención de violencia contra docentes)",
             "fuente": "https://www.infobae.com/politica/2026/06/29/los-docentes-bonaerenses-anunciaron-un-nuevo-paro-por-mejoras-salariales-y-este-martes-no-habra-clases/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-06-30",
+            "horario": "No especificado",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "SUTEBA y FEB",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir fin de la violencia en escuelas y recomposición salarial",
+            "fuente": "https://www.infobae.com/politica/2026/06/30/paro-docente-en-buenos-aires-denuncian-una-creciente-ola-de-violencia-en-las-escuelas-y-reclaman-la-reapertura-de-paritarias/"
         },
         {
             "es_evento_relevante": true,
