@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-01T09:31:46.949495-03:00",
+    "last_updated": "2026-07-01T12:39:19.135264-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12800,6 +12800,26 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra despidos inminentes, vaciamiento institucional y ajuste fiscal en la CNEA",
             "fuente": "https://www.laizquierdadiario.com/Trabajadores-y-jefes-lanzan-un-fuerte-reclamo-contra-el-vaciamiento-del-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-01",
+            "horario": "00:00",
+            "lugar": "Planta Tenaris Siat, Valentín Alsina, Lanús",
+            "quien": "Trabajadores de Tenaris Siat con apoyo de UOM Avellaneda",
+            "tipo_medida": "Paro",
+            "motivo": "Contra despidos de 150 operarios y vencimiento de contratos, por pérdida de licitación de gasoducto",
+            "fuente": "https://www.datagremial.com/escenario/despidos-en-tenaris-siat-sin-una-solucion-los-trabajadores-comienzan-un-paro-por-tiempo-indeterminado-202671800"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-01",
+            "horario": "09:00",
+            "lugar": "Avenida del Libertador al 8200, barrio de Núñez, Buenos Aires",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a desvinculaciones del personal de la CNEA y repudio al operativo de Gendarmería Nacional",
+            "fuente": "https://www.infobae.com/politica/2026/07/01/nueva-concentracion-en-la-cnea-trabajadores-reclamaron-por-las-desvinculaciones-y-el-desalojo/"
         },
         {
             "es_evento_relevante": true,
