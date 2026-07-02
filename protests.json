@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-01T20:09:04.242149-03:00",
+    "last_updated": "2026-07-01T23:43:07.792639-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12850,6 +12850,16 @@
             "tipo_medida": "Plenario",
             "motivo": "Preparación del plan de lucha docente contra salarios de pobreza y ajuste educativo",
             "fuente": "https://www.laizquierdadiario.com/Docentes-bonaerenses-la-bronca-en-las-escuelas-impone-un-paro-total-contra-el-ajuste"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-06",
+            "horario": "11:00",
+            "lugar": "Frente a la Gobernación de la Provincia de Buenos Aires, La Plata",
+            "quien": "Trabajadoras y trabajadores del Astillero Río Santiago, organizaciones de mujeres, feministas, gremiales y estudiantiles",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamo por la reincorporación de dos trabajadoras despedidas por violencia de género y exigencia de intervención del gobernador Axel Kicillof",
+            "fuente": "https://www.laizquierdadiario.com/Reincorporacion-de-las-trabajadoras-al-ARS-asamblea-feminista-define-acampe-en-Gobernacion, http://www.eldia.com/politica-y-economia/trabajadoras-del-astillero-rio-santiago-marchan-para-pedir-una-reunion-con-la-ministra-estela-diaz-politica-y-economia_1782776100"
         },
         {
             "es_evento_relevante": true,
