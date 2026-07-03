@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-03T16:12:06.180815-03:00",
+    "last_updated": "2026-07-03T17:59:59.285712-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12840,6 +12840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Acompañamiento a jubilados y crítica general a políticas económicas y laborales del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/cristian-jeronimo-adelanto-que-la-cgt-comenzara-con-una-intensa-agenda-de-manifestaciones-y-explico-por-que-no-hay-una-nueva-fecha-para-un-proximo-paro-20266270470, https://cgt.es/cgt-protesta-por-la-lentitud-de-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-03",
+            "horario": "No especificado",
+            "lugar": "CASCIA Gases Comprimidos, Pilar",
+            "quien": "Sindicato Químico Pilar",
+            "tipo_medida": "Acampe",
+            "motivo": "Despidos selectivos y prácticas antisindicales",
+            "fuente": "https://www.laizquierdadiario.com/Cascia-la-quimica-de-Pilar-despide-de-manera-antisindical"
         },
         {
             "es_evento_relevante": true,
