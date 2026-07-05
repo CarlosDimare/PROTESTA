@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-04T23:33:44.024633-03:00",
+    "last_updated": "2026-07-05T03:37:11.509099-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12924,12 +12924,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-01",
-            "horario": "15:00",
+            "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "CGT y centrales sindicales",
-            "tipo_medida": "Medidas rotativas y sectoriales",
-            "motivo": "Contra políticas del gobierno de Javier Milei, específicamente contra la Ley 27.802 de Modernización Laboral y la pérdida de derechos laborales.",
-            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+            "quien": "CGT",
+            "tipo_medida": "Paro General",
+            "motivo": "Oposición a la reforma laboral que limita fondos sindicales y prestaciones sociales",
+            "fuente": "https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
         },
         {
             "es_evento_relevante": true,
