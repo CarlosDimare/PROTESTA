@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-06T14:39:40.898838-03:00",
+    "last_updated": "2026-07-06T16:48:23.054803-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12890,6 +12890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por la reincorporación de 220 trabajadores despedidos de Express Beer y el pago de salarios y aguinaldos adeudados",
             "fuente": "https://www.infobae.com/politica/2026/07/06/el-sindicato-de-camioneros-esta-en-pie-de-guerra-por-220-despidos-en-una-empresa-uno-es-el-hijo-menor-de-hugo-moyano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-08",
+            "horario": "La hora de inicio del evento de protesta es **13:00**.",
+            "lugar": "Ruta Nacional 14 y Ruta Provincial 16",
+            "quien": "Trabajadores de Unionbat y Pyam",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por fuentes laborales y soluciones al conflicto de despidos",
+            "fuente": "https://www.laizquierdadiario.com/Entre-Rios-de-Concepcion-a-Gualeguaychu-crecen-los-piquetes-en-defensa-del-trabajo, https://www.eldiaonline.com/tension-en-el-parque-industrial-convocan-a-una-protesta-para-este-lunes-por-el-centenar-de-despidos-en-unionbat"
         },
         {
             "es_evento_relevante": true,
