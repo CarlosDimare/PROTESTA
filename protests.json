@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-06T07:03:59.426958-03:00",
+    "last_updated": "2026-07-06T11:25:11.434110-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12870,6 +12870,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Reclamo por la reincorporación de dos trabajadoras despedidas por violencia de género y exigencia de intervención del gobernador Axel Kicillof",
             "fuente": "https://www.laizquierdadiario.com/Reincorporacion-de-las-trabajadoras-al-ARS-asamblea-feminista-define-acampe-en-Gobernacion, http://www.eldia.com/politica-y-economia/trabajadoras-del-astillero-rio-santiago-marchan-para-pedir-una-reunion-con-la-ministra-estela-diaz-politica-y-economia_1782776100"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-06",
+            "horario": "13:00",
+            "lugar": "Río Grande, establecimientos metalúrgicos",
+            "quien": "Unión Obrera Metalúrgica (UOM) seccional Río Grande",
+            "tipo_medida": "Paro",
+            "motivo": "Atraso salarial, despidos e intento de flexibilización; reclamo de continuidad laboral y aumento de salarios",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-paro-metalurgico-contra-el-ataque-de-Caputo-en-Mirgor, https://www.minutofueguino.com.ar/gremiales/la-uom-ro-grande-convoc-a-paro-y-movilizacin-contra-la-intervencin-nacional.htm"
         },
         {
             "es_evento_relevante": true,
