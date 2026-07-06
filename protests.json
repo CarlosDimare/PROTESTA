@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-06T11:25:11.434110-03:00",
+    "last_updated": "2026-07-06T14:39:40.898838-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12880,6 +12880,16 @@
             "tipo_medida": "Paro",
             "motivo": "Atraso salarial, despidos e intento de flexibilización; reclamo de continuidad laboral y aumento de salarios",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-paro-metalurgico-contra-el-ataque-de-Caputo-en-Mirgor, https://www.minutofueguino.com.ar/gremiales/la-uom-ro-grande-convoc-a-paro-y-movilizacin-contra-la-intervencin-nacional.htm"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-06",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la reincorporación de 220 trabajadores despedidos de Express Beer y el pago de salarios y aguinaldos adeudados",
+            "fuente": "https://www.infobae.com/politica/2026/07/06/el-sindicato-de-camioneros-esta-en-pie-de-guerra-por-220-despidos-en-una-empresa-uno-es-el-hijo-menor-de-hugo-moyano/"
         },
         {
             "es_evento_relevante": true,
