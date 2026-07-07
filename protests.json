@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07T11:15:49.794341-03:00",
+    "last_updated": "2026-07-07T14:10:43.284662-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12970,6 +12970,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Oposición a la reforma laboral que limita fondos sindicales y prestaciones sociales",
             "fuente": "https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "**08:00**",
+            "lugar": "No especificado",
+            "quien": "CTA Autónoma, CTA de los Trabajadores y UTEP con movimientos sociales",
+            "tipo_medida": "Marcha Federal y Paro Nacional",
+            "motivo": "Contra las políticas económicas del gobierno de Javier Milei y sus consecuencias del modelo libertario",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
         },
         {
             "es_evento_relevante": true,
