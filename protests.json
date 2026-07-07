@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07T18:19:33.901364-03:00",
+    "last_updated": "2026-07-07T19:57:22.024518-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12905,11 +12905,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-08",
             "horario": "09:30",
-            "lugar": "Centro Atómico Constituyentes, avenida General Paz 1499, Ciudad de Buenos Aires",
-            "quien": "ATE (Asociación Trabajadores del Estado)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Reincorporación de trabajadores despedidos en CNEA, rechazo a despidos y vaciamiento de la Comisión Nacional de Energía Atómica bajo el gobierno de Milei",
-            "fuente": "https://www.datagremial.com/informacion-general/despidos-en-el-sector-nuclear-ate-anuncia-un-paro-y-una-caravana-para-reclamar-reincorporaciones-20267717310"
+            "lugar": "Centro Atómico Constituyentes",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro con Caravana",
+            "motivo": "Protesta contra despidos y vaciamiento de la CNEA, reclamo de reincorporación de trabajadores y oposición a políticas de privatización energética",
+            "fuente": "https://www.conclusion.com.ar/gremiales/ate-definio-un-paro-con-movilizacion-en-rechazo-a-los-100-despidos-en-la-comision-de-energia-atomica/07/2026/, https://www.datagremial.com/informacion-general/despidos-en-el-sector-nuclear-ate-anuncia-un-paro-y-una-caravana-para-reclamar-reincorporaciones-20267717310"
         },
         {
             "es_evento_relevante": true,
@@ -12980,6 +12980,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo por salarios por debajo de la línea de pobreza, congelamiento del haber mínimo en 500 mil pesos durante un año, falta de acuerdos en paritarias y recorte presupuestario en educación",
             "fuente": "https://www.datagremial.com/paritarias/cansados-del-silencio-del-gobierno-gremios-docentes-de-la-cgt-anuncian-paro-para-el-segundo-semestre-del-ano-20266416540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT, CTA, UTEP y organizaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Protestas contra las políticas del gobierno de Javier Milei",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-y-las-dos-cta-lanzaron-un-plan-de-protestas-a-la-francesa-y-evaluan-convocar-a-un-paro-general/07/2026/, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
         },
         {
             "es_evento_relevante": true,
