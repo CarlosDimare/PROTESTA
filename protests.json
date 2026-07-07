@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07T16:48:31.545468-03:00",
+    "last_updated": "2026-07-07T18:19:33.901364-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12900,6 +12900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Despidos masivos en Express Beer y exigencia de continuidad laboral",
             "fuente": "https://www.datagremial.com/informacion-general/camioneros-se-declara-en-alerta-y-movilizacion-por-el-despidos-de-220-choferes-en-una-tercerizada-de-cerveceria-quilmes-20267618260"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-08",
+            "horario": "09:30",
+            "lugar": "Centro Atómico Constituyentes, avenida General Paz 1499, Ciudad de Buenos Aires",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Reincorporación de trabajadores despedidos en CNEA, rechazo a despidos y vaciamiento de la Comisión Nacional de Energía Atómica bajo el gobierno de Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/despidos-en-el-sector-nuclear-ate-anuncia-un-paro-y-una-caravana-para-reclamar-reincorporaciones-20267717310"
         },
         {
             "es_evento_relevante": true,
