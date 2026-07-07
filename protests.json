@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-07T05:19:32.731693-03:00",
+    "last_updated": "2026-07-07T08:43:37.109416-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12890,6 +12890,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por la reincorporación de 220 trabajadores despedidos de Express Beer y el pago de salarios y aguinaldos adeudados",
             "fuente": "https://www.infobae.com/politica/2026/07/06/el-sindicato-de-camioneros-esta-en-pie-de-guerra-por-220-despidos-en-una-empresa-uno-es-el-hijo-menor-de-hugo-moyano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-07",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Despidos masivos en Express Beer y exigencia de continuidad laboral",
+            "fuente": "https://www.datagremial.com/informacion-general/camioneros-se-declara-en-alerta-y-movilizacion-por-el-despidos-de-220-choferes-en-una-tercerizada-de-cerveceria-quilmes-20267618260"
         },
         {
             "es_evento_relevante": true,
