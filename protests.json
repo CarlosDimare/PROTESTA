@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-08T07:59:35.094107-03:00",
+    "last_updated": "2026-07-08T09:23:17.038764-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12905,11 +12905,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-08",
             "horario": "09:30",
-            "lugar": "Centro Atómico Constituyentes",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro con Caravana",
-            "motivo": "Protesta contra despidos y vaciamiento de la CNEA, reclamo de reincorporación de trabajadores y oposición a políticas de privatización energética",
-            "fuente": "https://www.conclusion.com.ar/gremiales/ate-definio-un-paro-con-movilizacion-en-rechazo-a-los-100-despidos-en-la-comision-de-energia-atomica/07/2026/, https://www.datagremial.com/informacion-general/despidos-en-el-sector-nuclear-ate-anuncia-un-paro-y-una-caravana-para-reclamar-reincorporaciones-20267717310"
+            "lugar": "Córdoba (sectores de Ciencia y Técnica con asiento en la provincia)",
+            "quien": "Asociación Trabajadores del Estado (ATE) Córdoba",
+            "tipo_medida": "Manifestación",
+            "motivo": "Rechazo a los recortes presupuestarios en Ciencia y Técnica, defensa del sistema CyT y denuncia de despidos masivos",
+            "fuente": "https://www.datagremial.com/informacion-general/federico-giuliani-la-ciencia-se-encuentra-en-una-crisis-profunda-a-partir-del-recorte-que-impone-el-gobierno-de-milei-20267720370, https://www.conclusion.com.ar/gremiales/ate-definio-un-paro-con-movilizacion-en-rechazo-a-los-100-despidos-en-la-comision-de-energia-atomica/07/2026/, https://www.datagremial.com/informacion-general/despidos-en-el-sector-nuclear-ate-anuncia-un-paro-y-una-caravana-para-reclamar-reincorporaciones-20267717310"
         },
         {
             "es_evento_relevante": true,
