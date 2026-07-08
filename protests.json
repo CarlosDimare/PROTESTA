@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-08T14:24:31.516954-03:00",
+    "last_updated": "2026-07-08T16:15:57.199653-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12940,6 +12940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra decisiones «intolerables» de autoridades, incluyendo cierres de sucursales y ajustes en el Banco Hipotecario",
             "fuente": "https://estadodealerta.com.ar/la-bancaria-sostiene-el-reclamo-judicial-por-el-oro-del-bcra-y-denuncia-el-ajuste-en-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-15",
+            "horario": "11:00",
+            "lugar": "No especificado",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a despidos en la CNEA y plan de vaciamiento del sistema científico nacional",
+            "fuente": "https://estadodealerta.com.ar/protesta-en-todas-las-sedes-de-la-cnea-contra-los-despidos-y-paro-de-ate-contra-el-vaciamiento/, https://www.a24.com/politica/ate-confirmo-el-paro-este-martes-contra-la-reforma-laboral-y-marchara-al-congreso-n1505722"
         },
         {
             "es_evento_relevante": true,
