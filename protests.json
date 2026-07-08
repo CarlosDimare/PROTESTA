@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-08T09:23:17.038764-03:00",
+    "last_updated": "2026-07-08T12:16:38.321261-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12994,12 +12994,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
-            "horario": "15:00",
+            "horario": "por la mañana",
             "lugar": "Congreso Nacional",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por jubilados y contra el plan económico de Milei",
-            "fuente": "https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
+            "quien": "CGT, CTA, UTEP y confederaciones sindicales",
+            "tipo_medida": "Movilización",
+            "motivo": "Potenciar el reclamo semanal de los jubilados",
+            "fuente": "https://estadodealerta.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
@@ -13010,6 +13010,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Oposición a la reforma laboral que limita fondos sindicales y prestaciones sociales",
             "fuente": "https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "**12:00**",
+            "lugar": "Plaza de Mayo, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT y CTA",
+            "tipo_medida": "Paro",
+            "motivo": "Despidos, ajustes salariales y cierres de empresas",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
         },
         {
             "es_evento_relevante": true,
