@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-09T18:19:41.515929-03:00",
+    "last_updated": "2026-07-09T20:08:13.477937-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12940,6 +12940,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la impunidad y machismo en la justicia por la absolución de empresarios citrícolos acusados de abuso sexual",
             "fuente": "https://www.laizquierdadiario.com/Justicia-patriarcal-y-clasista-la-Corte-anulo-la-condena-a-Trapani-y-Rodriguez-por-abuso-sexual, https://www.lagaceta.com.ar/nota/1127393/lg-play/8m-tucuman-movimiento-mujeres-sale-esta-tarde-calles.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-09",
+            "horario": "No especificado",
+            "lugar": "Rosario",
+            "quien": "Municipalidad de Rosario",
+            "tipo_medida": "Corte",
+            "motivo": "Mejoramiento de calles en zona centro y arterias principales",
+            "fuente": "https://elciudadanoweb.com/a-tener-en-cuenta-cortes-de-calle-por-obras-para-este-jueves-9-de-julio/"
         },
         {
             "es_evento_relevante": true,
