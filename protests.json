@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-08T21:05:54.213805-03:00",
+    "last_updated": "2026-07-09T01:47:29.289089-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12940,6 +12940,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra decisiones «intolerables» de autoridades, incluyendo cierres de sucursales y ajustes en el Banco Hipotecario",
             "fuente": "https://estadodealerta.com.ar/la-bancaria-sostiene-el-reclamo-judicial-por-el-oro-del-bcra-y-denuncia-el-ajuste-en-el-hipotecario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-14",
+            "horario": "08:00",
+            "lugar": "Sede de Suteba Provincia y escuelas de la Provincia de Buenos Aires",
+            "quien": "Suteba Provincia y seccionales Multicolor",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial de Kicillof por considerar salarios de pobreza y sobrecarga laboral",
+            "fuente": "https://www.laizquierdadiario.com/En-las-escuelas-y-asamblea-de-Suteba-La-Matanza-se-rechazo-las-migajas-de-Kicillof"
         },
         {
             "es_evento_relevante": true,
