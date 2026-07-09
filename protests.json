@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-09T01:47:29.289089-03:00",
+    "last_updated": "2026-07-09T05:23:29.009959-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13016,10 +13016,10 @@
             "fecha": "2026-07-22",
             "horario": "por la mañana",
             "lugar": "Congreso Nacional",
-            "quien": "CGT, CTA, UTEP y confederaciones sindicales",
-            "tipo_medida": "Movilización",
-            "motivo": "Potenciar el reclamo semanal de los jubilados",
-            "fuente": "https://estadodealerta.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
+            "quien": "CGT y dos CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "En apoyo a los jubilados",
+            "fuente": "https://www.infobae.com/politica/2026/07/09/por-que-la-cgt-finalmente-hara-una-version-light-sin-paros-sectoriales-de-las-protestas-a-la-francesa/, https://estadodealerta.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
         },
         {
             "es_evento_relevante": true,
