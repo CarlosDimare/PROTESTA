@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-10T19:56:39.579159-03:00",
+    "last_updated": "2026-07-10T20:55:03.959577-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12986,10 +12986,10 @@
             "fecha": "2026-07-15",
             "horario": "11:00",
             "lugar": "No especificado",
-            "quien": "Asociación de Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a despidos en la CNEA y plan de vaciamiento del sistema científico nacional",
-            "fuente": "https://estadodealerta.com.ar/protesta-en-todas-las-sedes-de-la-cnea-contra-los-despidos-y-paro-de-ate-contra-el-vaciamiento/, https://www.a24.com/politica/ate-confirmo-el-paro-este-martes-contra-la-reforma-laboral-y-marchara-al-congreso-n1505722"
+            "quien": "Jubilados, con apoyo de CGT, CTA Autónoma, CTA de los Trabajadores y CATT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas económicas del gobierno de Javier Milei y defensa de derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-rosario-impulsa-una-protesta-unificada-con-gremios-de-la-cta-transportistas-y-organizaciones-sociales/07/2026/, https://estadodealerta.com.ar/protesta-en-todas-las-sedes-de-la-cnea-contra-los-despidos-y-paro-de-ate-contra-el-vaciamiento/, https://www.a24.com/politica/ate-confirmo-el-paro-este-martes-contra-la-reforma-laboral-y-marchara-al-congreso-n1505722"
         },
         {
             "es_evento_relevante": true,
