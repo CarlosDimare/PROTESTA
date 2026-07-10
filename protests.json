@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-10T10:09:01.925880-03:00",
+    "last_updated": "2026-07-10T13:21:33.721231-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12950,6 +12950,16 @@
             "tipo_medida": "Corte",
             "motivo": "Mejoramiento de calles en zona centro y arterias principales",
             "fuente": "https://elciudadanoweb.com/a-tener-en-cuenta-cortes-de-calle-por-obras-para-este-jueves-9-de-julio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-10",
+            "horario": "18:00",
+            "lugar": "Frente a la planta 'La China' de Granja Tres Arroyos en Concepción del Uruguay",
+            "quien": "Trabajadores autoconvocados de Granja Tres Arroyos (La China)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el cierre de la planta, despidos y falta de pago salarial",
+            "fuente": "https://www.laizquierdadiario.com/Entre-Rios-cortes-en-la-Ruta-14-contra-los-despidos-y-el-vaciamiento-patronal"
         },
         {
             "es_evento_relevante": true,
