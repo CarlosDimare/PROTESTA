@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-11T13:49:37.547698-03:00",
+    "last_updated": "2026-07-11T14:51:16.088649-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12960,6 +12960,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el cierre de la planta, despidos y falta de pago salarial",
             "fuente": "https://www.laizquierdadiario.com/Entre-Rios-cortes-en-la-Ruta-14-contra-los-despidos-y-el-vaciamiento-patronal"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-11",
+            "horario": "No especificado",
+            "lugar": "Casa de Gobierno de Santa Cruz, Jefatura de Policía, residencia oficial del gobernador y Río Gallegos",
+            "quien": "Personal policial provincial de Santa Cruz",
+            "tipo_medida": "Acampe, corte de calle y ocupación de espacios públicos",
+            "motivo": "Reclamo de mejoras salariales con exigencia de salario inicial de $2.200.000 y valor punto de $4.000",
+            "fuente": "https://www.infobae.com/politica/2026/07/11/fracaso-la-negociacion-salarial-con-la-policia-de-santa-cruz-y-el-gobierno-denuncio-hechos-de-violencia/"
         },
         {
             "es_evento_relevante": true,
