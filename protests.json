@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13T13:27:52.811587-03:00",
+    "last_updated": "2026-07-13T15:31:21.906012-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13020,6 +13020,16 @@
             "tipo_medida": "Paro de 48 horas y movilización",
             "motivo": "Reclamo por salario mínimo de 2.800.000 pesos, aplicación del acuerdo paritario sobre violencia laboral, plan de emergencia edilicia, mejoras en IOMA, rechazo a 'Mis Licencias', desconexión digital, defensa del IPS, reapertura de paritaria y actualización mensual por inflación",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-buenos-aires-sectores-disidentes-rechazan-el-7-de-aumento-y-ya-anuncian-nuevos-paros-para-julio-y-agosto/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-15",
+            "horario": "10:00",
+            "lugar": "Plaza del Centro Cívico",
+            "quien": "Empleados de Granja Tres Arroyos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por salarios adeudados (abril, mayo y aguinaldo) y exigencia de activación del fondo de huelga",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-de-granja-tres-arroyos-activan-el-fondo-de-huelga-y-endurecen-las-protestas-por-salarios-impagos/07/2026/"
         },
         {
             "es_evento_relevante": true,
