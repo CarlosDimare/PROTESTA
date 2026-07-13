@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13T07:20:47.400375-03:00",
+    "last_updated": "2026-07-13T10:18:19.221826-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -12970,6 +12970,16 @@
             "tipo_medida": "Acampe, corte de calle y ocupación de espacios públicos",
             "motivo": "Reclamo de mejoras salariales con exigencia de salario inicial de $2.200.000 y valor punto de $4.000",
             "fuente": "https://www.infobae.com/politica/2026/07/11/fracaso-la-negociacion-salarial-con-la-policia-de-santa-cruz-y-el-gobierno-denuncio-hechos-de-violencia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-13",
+            "horario": "13:00",
+            "lugar": "Mástil de San Isidro (9 de Julio al 300)",
+            "quien": "Coordinadora de Estudiantes Secundarios Combativos (CESC)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir calefacción en escuelas y condiciones dignas para estudiar, contra el ajuste educativo y políticas que afectan a la clase trabajadora",
+            "fuente": "https://www.laizquierdadiario.com/San-Isidro-este-lunes-a-las-13hs-movilizacion-al-Municipio-Con-frio-no-se-puede-estudiar"
         },
         {
             "es_evento_relevante": true,
