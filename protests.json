@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13T10:18:19.221826-03:00",
+    "last_updated": "2026-07-13T13:27:52.811587-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13010,6 +13010,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial de Kicillof por considerar salarios de pobreza y sobrecarga laboral",
             "fuente": "https://www.laizquierdadiario.com/En-las-escuelas-y-asamblea-de-Suteba-La-Matanza-se-rechazo-las-migajas-de-Kicillof"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-14",
+            "horario": "11:00",
+            "lugar": "Gobernación bonaerense",
+            "quien": "Asociación de Maestrxs de la Provincia de Buenos Aires y Suteba Multicolor",
+            "tipo_medida": "Paro de 48 horas y movilización",
+            "motivo": "Reclamo por salario mínimo de 2.800.000 pesos, aplicación del acuerdo paritario sobre violencia laboral, plan de emergencia edilicia, mejoras en IOMA, rechazo a 'Mis Licencias', desconexión digital, defensa del IPS, reapertura de paritaria y actualización mensual por inflación",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-buenos-aires-sectores-disidentes-rechazan-el-7-de-aumento-y-ya-anuncian-nuevos-paros-para-julio-y-agosto/07/2026/"
         },
         {
             "es_evento_relevante": true,
