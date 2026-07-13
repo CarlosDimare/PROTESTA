@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13T15:31:21.906012-03:00",
+    "last_updated": "2026-07-13T17:11:03.685983-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13010,6 +13010,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial de Kicillof por considerar salarios de pobreza y sobrecarga laboral",
             "fuente": "https://www.laizquierdadiario.com/En-las-escuelas-y-asamblea-de-Suteba-La-Matanza-se-rechazo-las-migajas-de-Kicillof"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-14",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Asociación de Maestros de la Provincia de Buenos Aires (AMPBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Conflicto salarial y condiciones laborales, con reclamos específicos como salario mínimo de $2.8M, devolución de descuentos por paros, infraestructura escolar, cobertura de IOMA y cese del vaciamiento del IPS",
+            "fuente": "https://www.datagremial.com/informacion-general/la-asociacion-de-maestros-ratifico-el-paro-de-48-horas-y-acuso-al-gobierno-de-kicillof-de-llevar-adelante-una-campana-de-desinformacion-202671316250, https://www.cadenanueve.com/2026/05/11/nuevo-gremio-docente-bonaerense-convoca-a-paro-provincial-para-este-martes-y-marcha-por-reclamos-salariales-educativos-y-de-salud/"
         },
         {
             "es_evento_relevante": true,
