@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T18:56:09.458812-03:00",
+    "last_updated": "2026-07-14T19:56:13.550040-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13110,6 +13110,16 @@
             "tipo_medida": "Paro Nacional Docente",
             "motivo": "Reclamo de aumento salarial para docentes (salario mínimo de $500k por debajo de la línea de pobreza) y rechazo a la política salarial del Gobierno",
             "fuente": "https://www.infobae.com/politica/2026/06/04/los-sindicatos-educativos-de-la-cgt-planifican-un-paro-docente-en-todo-el-pais-para-despues-del-mundial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-20",
+            "horario": "10:00",
+            "lugar": "Municipio de Guernica",
+            "quien": "Frente de Recuperación de Tierras",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la entrega inmediata de viviendas y exigencia al cumplimiento de compromisos",
+            "fuente": "https://www.laizquierdadiario.com/Las-familias-de-Guernica-vuelven-a-reclamar-por-la-entrega-de-sus-viviendas-y-preparan-una"
         },
         {
             "es_evento_relevante": true,
