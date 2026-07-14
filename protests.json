@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T19:56:13.550040-03:00",
+    "last_updated": "2026-07-14T20:49:49.937694-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13170,6 +13170,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Oposición a la reforma laboral que limita fondos sindicales y prestaciones sociales",
             "fuente": "https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "UTEP",
+            "tipo_medida": "Movilización",
+            "motivo": "Paz, Pan, Tierra, Techo y Trabajo",
+            "fuente": "https://elciudadanoweb.com/la-justicia-autoriza-el-cierre-del-programa-volver-al-trabajo-y-la-utep-anuncia-protestas/, https://www.cadena3.com/noticia/sociedad/representantes-de-ate-y-la-utep-ultimaron-detalles-de-la-movilizacion-de-san-cayetano_451038"
         },
         {
             "es_evento_relevante": true,
