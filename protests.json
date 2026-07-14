@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T12:22:26.870214-03:00",
+    "last_updated": "2026-07-14T14:11:03.955241-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13014,22 +13014,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-14",
-            "horario": "10:00",
-            "lugar": "Plaza del Centro Cívico de Concepción del Uruguay",
-            "quien": "Trabajadores de la planta La China (Sindicato de la Carne)",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por adeudos salariales (abril, mayo y aguinaldo), falta de respuestas de la empresa y autoridades, y exigencia de reapertura de la planta y continuidad laboral",
-            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-de-granja-tres-arroyos-anuncia-un-fondo-de-huelga-para-garantizar-el-pago-de-salarios-202671410220"
+            "horario": "09:00",
+            "lugar": "Rosario, Santa Fe",
+            "quien": "CGT Rosario y sindicatos adheridos (Luz y Fuerza, Bancaria, SUTERYH, CATT)",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a políticas económicas del gobierno de Javier Milei, pérdida de poder adquisitivo, cierre de empresas y deterioro de derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-de-rosario-se-suma-al-plan-de-lucha-de-la-central-obrera-a-nivel-nacional-y-apoya-un-paro-contra-las-politicas-de-milei/07/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-14",
             "horario": "10:00",
             "lugar": "No especificado",
-            "quien": "Asociación de Maestros de la Provincia de Buenos Aires (AMPBA)",
-            "tipo_medida": "Paro",
-            "motivo": "Conflicto salarial y condiciones laborales, con reclamos específicos como salario mínimo de $2.8M, devolución de descuentos por paros, infraestructura escolar, cobertura de IOMA y cese del vaciamiento del IPS",
-            "fuente": "https://www.datagremial.com/informacion-general/la-asociacion-de-maestros-ratifico-el-paro-de-48-horas-y-acuso-al-gobierno-de-kicillof-de-llevar-adelante-una-campana-de-desinformacion-202671316250, https://www.cadenanueve.com/2026/05/11/nuevo-gremio-docente-bonaerense-convoca-a-paro-provincial-para-este-martes-y-marcha-por-reclamos-salariales-educativos-y-de-salud/"
+            "quien": "Estudiantes secundarios de Zona Norte (coordinados por CESC) con apoyo de docentes y obreros",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir estufas en las aulas y denunciar desidia educativa, en unidad con trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/Los-secundarios-marchamos-contra-el-frio-en-las-aulas-junto-a-los-trabajadores-de-Fate, https://www.datagremial.com/informacion-general/la-asociacion-de-maestros-ratifico-el-paro-de-48-horas-y-acuso-al-gobierno-de-kicillof-de-llevar-adelante-una-campana-de-desinformacion-202671316250, https://www.cadenanueve.com/2026/05/11/nuevo-gremio-docente-bonaerense-convoca-a-paro-provincial-para-este-martes-y-marcha-por-reclamos-salariales-educativos-y-de-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-14",
+            "horario": "10:00",
+            "lugar": "Plaza del Centro Cívico de Concepción del Uruguay",
+            "quien": "Trabajadores de la planta La China (Sindicato de la Carne)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por adeudos salariales (abril, mayo y aguinaldo), falta de respuestas de la empresa y autoridades, y exigencia de reapertura de la planta y continuidad laboral",
+            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-de-granja-tres-arroyos-anuncia-un-fondo-de-huelga-para-garantizar-el-pago-de-salarios-202671410220"
         },
         {
             "es_evento_relevante": true,
