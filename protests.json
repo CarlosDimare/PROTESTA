@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T08:23:21.210863-03:00",
+    "last_updated": "2026-07-14T10:20:01.196720-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13060,6 +13060,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas del gobierno de Javier Milei y defensa de derechos laborales",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-rosario-impulsa-una-protesta-unificada-con-gremios-de-la-cta-transportistas-y-organizaciones-sociales/07/2026/, https://estadodealerta.com.ar/protesta-en-todas-las-sedes-de-la-cnea-contra-los-despidos-y-paro-de-ate-contra-el-vaciamiento/, https://www.a24.com/politica/ate-confirmo-el-paro-este-martes-contra-la-reforma-laboral-y-marchara-al-congreso-n1505722"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-18",
+            "horario": "11:00",
+            "lugar": "Ex centro clandestino de detención El Infierno (12 de Octubre 234, Avellaneda)",
+            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir liberación de presos políticos y denunciar criminalización de protestas",
+            "fuente": "https://www.anred.org/impulsan-encuentro-para-profundizar-la-campana-por-la-libertad-de-milton-tolomeo-y-eneas-gallo-presos-por-protestar/"
         },
         {
             "es_evento_relevante": true,
