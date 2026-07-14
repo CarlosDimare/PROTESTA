@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-13T22:54:20.918695-03:00",
+    "last_updated": "2026-07-14T01:48:10.624165-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13030,6 +13030,16 @@
             "tipo_medida": "Paro de 48 horas y movilización",
             "motivo": "Reclamo por salario mínimo de 2.800.000 pesos, aplicación del acuerdo paritario sobre violencia laboral, plan de emergencia edilicia, mejoras en IOMA, rechazo a 'Mis Licencias', desconexión digital, defensa del IPS, reapertura de paritaria y actualización mensual por inflación",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-buenos-aires-sectores-disidentes-rechazan-el-7-de-aumento-y-ya-anuncian-nuevos-paros-para-julio-y-agosto/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-15",
+            "horario": "10:00",
+            "lugar": "Tribunales de Paraná",
+            "quien": "Multisectorial en Defensa de la Caja de Jubilaciones (AJER y gremios judiciales)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la Reforma Previsional que busca eliminar el 82% móvil",
+            "fuente": "https://www.datagremial.com/informacion-general/gremios-adheridos-a-la-fja-comienzan-la-feria-judicial-con-paros-y-movilizaciones-202671320340"
         },
         {
             "es_evento_relevante": true,
