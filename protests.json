@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T10:20:01.196720-03:00",
+    "last_updated": "2026-07-14T12:22:26.870214-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13010,6 +13010,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial de Kicillof por considerar salarios de pobreza y sobrecarga laboral",
             "fuente": "https://www.laizquierdadiario.com/En-las-escuelas-y-asamblea-de-Suteba-La-Matanza-se-rechazo-las-migajas-de-Kicillof"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-14",
+            "horario": "10:00",
+            "lugar": "Plaza del Centro Cívico de Concepción del Uruguay",
+            "quien": "Trabajadores de la planta La China (Sindicato de la Carne)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por adeudos salariales (abril, mayo y aguinaldo), falta de respuestas de la empresa y autoridades, y exigencia de reapertura de la planta y continuidad laboral",
+            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-de-granja-tres-arroyos-anuncia-un-fondo-de-huelga-para-garantizar-el-pago-de-salarios-202671410220"
         },
         {
             "es_evento_relevante": true,
