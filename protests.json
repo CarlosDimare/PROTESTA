@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15T01:50:11.917210-03:00",
+    "last_updated": "2026-07-15T04:12:27.234746-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13186,10 +13186,10 @@
             "fecha": "2026-08-07",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "UTEP",
-            "tipo_medida": "Movilización",
-            "motivo": "Paz, Pan, Tierra, Techo y Trabajo",
-            "fuente": "https://elciudadanoweb.com/la-justicia-autoriza-el-cierre-del-programa-volver-al-trabajo-y-la-utep-anuncia-protestas/, https://www.cadena3.com/noticia/sociedad/representantes-de-ate-y-la-utep-ultimaron-detalles-de-la-movilizacion-de-san-cayetano_451038"
+            "quien": "UTEP, CGT, CTA y sectores afectados",
+            "tipo_medida": "Jornada de lucha con movilizaciones y piquetes",
+            "motivo": "Reclamo por Paz, Pan, Tierra, Techo y Trabajo contra políticas de ajuste del gobierno de Milei",
+            "fuente": "https://www.infobae.com/politica/2026/07/15/movilizaciones-marcha-federal-y-piquetes-el-plan-de-lucha-de-los-movimientos-sociales-contra-el-gobierno/, https://elciudadanoweb.com/la-justicia-autoriza-el-cierre-del-programa-volver-al-trabajo-y-la-utep-anuncia-protestas/, https://www.cadena3.com/noticia/sociedad/representantes-de-ate-y-la-utep-ultimaron-detalles-de-la-movilizacion-de-san-cayetano_451038"
         },
         {
             "es_evento_relevante": true,
