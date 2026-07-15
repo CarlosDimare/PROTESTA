@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-14T22:52:54.200327-03:00",
+    "last_updated": "2026-07-15T01:50:11.917210-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13080,6 +13080,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas del gobierno de Javier Milei y defensa de derechos laborales",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-rosario-impulsa-una-protesta-unificada-con-gremios-de-la-cta-transportistas-y-organizaciones-sociales/07/2026/, https://estadodealerta.com.ar/protesta-en-todas-las-sedes-de-la-cnea-contra-los-despidos-y-paro-de-ate-contra-el-vaciamiento/, https://www.a24.com/politica/ate-confirmo-el-paro-este-martes-contra-la-reforma-laboral-y-marchara-al-congreso-n1505722"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-15",
+            "horario": "No especificado",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Suteba y docentes/auxiliares bonaerenses",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra la miseria salarial, recortes presupuestarios y precarización en la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Paro-masivo-docentes-reclaman-a-Kicillof-salarios-y-mas-presupuesto-educativo"
         },
         {
             "es_evento_relevante": true,
