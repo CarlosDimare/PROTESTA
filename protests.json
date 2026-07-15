@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-15T06:57:43.170164-03:00",
+    "last_updated": "2026-07-15T08:28:13.005772-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13090,6 +13090,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Contra la miseria salarial, recortes presupuestarios y precarización en la educación pública",
             "fuente": "https://www.laizquierdadiario.com/Paro-masivo-docentes-reclaman-a-Kicillof-salarios-y-mas-presupuesto-educativo"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-16",
+            "horario": "No especificado",
+            "lugar": "Sedes de cámaras empresariales",
+            "quien": "Sindicato de Comercio de Capital",
+            "tipo_medida": "Negociación salarial",
+            "motivo": "Aumento salarial para compensar inflación y crisis del sector mercantil",
+            "fuente": "https://www.infobae.com/politica/2026/07/15/cavalieri-ira-por-otra-reeleccion-en-comercio-mientras-negocia-un-aumento-y-logro-frenar-la-reforma-laboral/"
         },
         {
             "es_evento_relevante": true,
