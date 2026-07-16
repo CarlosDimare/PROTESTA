@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-16T19:02:26.116219-03:00",
+    "last_updated": "2026-07-16T20:01:44.425480-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13190,6 +13190,16 @@
             "tipo_medida": "Paro General",
             "motivo": "Oposición a la reforma laboral que limita fondos sindicales y prestaciones sociales",
             "fuente": "https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Izquierda/Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la ley de 'inviolabilidad de la propiedad privada' y la extranjerización de tierras",
+            "fuente": "https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
         },
         {
             "es_evento_relevante": true,
