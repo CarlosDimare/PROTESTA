@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-17T19:45:45.880704-03:00",
+    "last_updated": "2026-07-17T20:49:47.195115-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13200,6 +13200,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Protestas contra las políticas del gobierno de Javier Milei",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-y-las-dos-cta-lanzaron-un-plan-de-protestas-a-la-francesa-y-evaluan-convocar-a-un-paro-general/07/2026/, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "No especificado",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Jubilados con apoyo de CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Acompañar reclamos de jubilados y como parte del plan de lucha contra políticas del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-y-las-dos-cta-ponen-primera-a-una-serie-de-manifestaciones-en-la-calle-comenzaran-con-el-acompanamiento-a-la-marcha-de-los-jubilados-202671718200"
         },
         {
             "es_evento_relevante": true,
