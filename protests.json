@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-17T05:03:48.344425-03:00",
+    "last_updated": "2026-07-17T07:00:48.187531-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13100,6 +13100,16 @@
             "tipo_medida": "Negociación salarial",
             "motivo": "Aumento salarial para compensar inflación y crisis del sector mercantil",
             "fuente": "https://www.infobae.com/politica/2026/07/15/cavalieri-ira-por-otra-reeleccion-en-comercio-mientras-negocia-un-aumento-y-logro-frenar-la-reforma-laboral/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-17",
+            "horario": "10:00",
+            "lugar": "Tartagal, Salta (Ruta Nacional 34 y Casa de Gobierno de Salta)",
+            "quien": "Cooperativistas piqueteros",
+            "tipo_medida": "Cortes de ruta, Toma de edificios y Manifestaciones",
+            "motivo": "Reclamo por el pago de obras públicas no certificadas",
+            "fuente": "https://www.infobae.com/politica/2026/07/16/a-mi-no-me-vengas-a-amenazar-un-intendente-grabo-los-pedidos-extorsivos-de-un-grupo-de-piqueteros/, https://fmalba.com.ar/corte-en-ruta-34-cooperativistas-se-reuniran-con-funcionarios-municipales/"
         },
         {
             "es_evento_relevante": true,
