@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-17T14:08:32.741520-03:00",
+    "last_updated": "2026-07-17T16:02:30.675677-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13190,6 +13190,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Potenciar el reclamo semanal de los jubilados",
             "fuente": "https://motoreconomico.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/09/por-que-la-cgt-finalmente-hara-una-version-light-sin-paros-sectoriales-de-las-protestas-a-la-francesa/, https://estadodealerta.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-24",
+            "horario": "11:00",
+            "lugar": "Cruce de Corrientes y Córdoba, Rosario",
+            "quien": "Federación Regional de Asociaciones de Personas Adultas Mayores (Frapam), Foro de la Tercera Edad y Defensoría del Adulto Mayor de Rosario (Depem)",
+            "tipo_medida": "Movilización",
+            "motivo": "Recolección de firmas para exigir participación activa en la redacción de la nueva carta orgánica de Rosario",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/nueva-concentracion-de-adultos-mayores-en-corrientes-y-cordoba-recibieron-una-copia-de-la-bandera-que-los-jugadores-mostraron-en-el-mundial/07/2026/, https://www.conclusion.com.ar/la-ciudad/firmes-y-abrigados-adultos-mayores-volvieron-a-juntar-firmas-en-el-centro-rosarino/07/2026/"
         },
         {
             "es_evento_relevante": true,
