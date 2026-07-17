@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-17T16:02:30.675677-03:00",
+    "last_updated": "2026-07-17T17:09:24.521057-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13104,6 +13104,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-17",
+            "horario": "09:17",
+            "lugar": "Parque Industrial Pesquero de Puerto Madryn, Chubut",
+            "quien": "Trabajadores del STIA (Alimentación)",
+            "tipo_medida": "Piquete",
+            "motivo": "Incumplimiento de Conarpesa con el reingreso laboral de 85 trabajadores estacionales",
+            "fuente": "https://www.laizquierdadiario.com/Puerto-Madryn-protestas-en-el-Parque-Pesquero"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-17",
             "horario": "10:00",
             "lugar": "Tartagal, Salta (Ruta Nacional 34 y Casa de Gobierno de Salta)",
             "quien": "Cooperativistas piqueteros",
@@ -13114,12 +13124,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-18",
-            "horario": "11:00",
-            "lugar": "Ex centro clandestino de detención El Infierno (12 de Octubre 234, Avellaneda)",
-            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs",
+            "horario": "09:53",
+            "lugar": "Calle Pasteur 633, sede de la AMIA, Buenos Aires",
+            "quien": "Comunidad judía representada por la AMIA",
             "tipo_medida": "Movilización",
-            "motivo": "Exigir liberación de presos políticos y denunciar criminalización de protestas",
-            "fuente": "https://www.anred.org/impulsan-encuentro-para-profundizar-la-campana-por-la-libertad-de-milton-tolomeo-y-eneas-gallo-presos-por-protestar/"
+            "motivo": "Exigir justicia por el atentado terrorista de 1994, cuestionar la investigación judicial y pedir fortalecimiento de controles fronterizos",
+            "fuente": "https://www.inforegion.com.ar/2026/07/17/a-32-anos-del-atentado-a-la-amia-renovaron-el-reclamo-por-justicia-y-denunciaron-que-la-causa-esta-cajoneada/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-18",
+            "horario": "11:00",
+            "lugar": "Ex Centro Clandestino de Detención y Exterminio El Infierno, 12 de Octubre 234, Avellaneda",
+            "quien": "Familiares de presos políticos y Coordinadora por la Libertad de lxs Presxs Políticxs",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la libertad inmediata de Milton Tolomeo y Eneas Gallo, presos políticos, y repudiar la reforma laboral y la represión del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Presos-politicos-de-la-reforma-laboral-sigue-la-campana-hasta-lograr-la-libertad-de-Milton-y-Eneas, https://www.anred.org/impulsan-encuentro-para-profundizar-la-campana-por-la-libertad-de-milton-tolomeo-y-eneas-gallo-presos-por-protestar/"
         },
         {
             "es_evento_relevante": true,
