@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-16T23:35:34.560858-03:00",
+    "last_updated": "2026-07-17T02:39:03.131947-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13230,6 +13230,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos, ajustes salariales y cierres de empresas",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2027-03-01",
+            "horario": "08:00",
+            "lugar": "Distritos de San Vicente, Esteban Echeverría y Ezeiza",
+            "quien": "Asociación Trabajadores del Estado (ATE) seccional Ezeiza, Esteban Echeverría y San Vicente",
+            "tipo_medida": "Paro activo",
+            "motivo": "Cese de cobros indebidos en IOMA, reclamo de recomposición salarial y fortalecimiento de la cobertura médica para empleados públicos",
+            "fuente": "https://www.datagremial.com/informacion-general/seccional-bonaerense-de-ate-resolvio-un-paro-regional-para-el-reinicio-de-clases-y-redoblo-el-reclamo-contra-los-cobros-indebidos-de-ioma-202671622450"
         },
         {
             "es_evento_relevante": true,
