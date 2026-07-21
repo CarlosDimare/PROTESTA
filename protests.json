@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T02:46:13.123180-03:00",
+    "last_updated": "2026-07-21T05:21:11.501772-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13225,6 +13225,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
             "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "Unión Trabajadores de la Economía Popular (UTEP)",
+            "tipo_medida": "Piquete",
+            "motivo": "Rechazo a la eliminación del salario del Programa Volver al Trabajo y protesta contra la política económica del gobierno nacional",
+            "fuente": "https://www.infobae.com/politica/2026/07/21/marchas-y-piquetes-los-movimientos-sociales-cortaran-accesos-en-rechazo-a-la-baja-del-programa-volver-al-trabajo/, https://www.conclusion.com.ar/gremiales/la-cgt-y-las-dos-cta-lanzaron-un-plan-de-protestas-a-la-francesa-y-evaluan-convocar-a-un-paro-general/07/2026/, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "15:00",
             "lugar": "Av. Rivadavia y Rodríguez Peña",
             "quien": "CGT, CTA y UTEP junto a jubilados",
             "tipo_medida": "Marcha",
@@ -13234,12 +13244,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
-            "horario": "15:00",
-            "lugar": "No especificado",
-            "quien": "CGT, CTA, UTEP y organizaciones de jubilados",
+            "horario": "No especificado",
+            "lugar": "Sucursal de Jumbo, shopping Unicenter, Martínez",
+            "quien": "Asociación del Personal Profesional y Jerárquico de Comercio (APPyJC)",
             "tipo_medida": "Movilización",
-            "motivo": "Protestas contra las políticas del gobierno de Javier Milei",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-y-las-dos-cta-lanzaron-un-plan-de-protestas-a-la-francesa-y-evaluan-convocar-a-un-paro-general/07/2026/, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+            "motivo": "Falta de recomposición salarial en Cencosud y reclamo por reapertura de negociaciones paritarias",
+            "fuente": "https://www.datagremial.com/paritarias/jerarquicos-de-comercio-protestaron-en-un-jumbo-de-unicenter-y-denunciaron-que-cencosud-lleva-seis-meses-sin-otorgar-aumentos-salariales-20267160410"
         },
         {
             "es_evento_relevante": true,
