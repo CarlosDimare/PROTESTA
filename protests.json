@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T17:20:13.185732-03:00",
+    "last_updated": "2026-07-21T19:04:17.486831-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13200,6 +13200,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a modificaciones unilaterales del Estatuto Docente de la Ciudad de Buenos Aires",
             "fuente": "https://motoreconomico.com.ar/crece-el-rechazo-gremial-a-jorge-macri-por-el-avance-sobre-el-estatuto-docente-porteno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-21",
+            "horario": "09:00",
+            "lugar": "Estaciones de peajes del Tramo III (Chaco, Corrientes y Misiones)",
+            "quien": "SUTPA (Sindicato Único de Trabajadores de los Peajes y Afines)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defender los puestos de trabajo frente a la privatización de Corredores Viales S.A.",
+            "fuente": "https://www.datagremial.com/informacion-general/privatizacion-de-corredores-viales-el-sutpa-intensifica-las-asambleas-para-defender-los-puestos-de-trabajo-202672015290"
         },
         {
             "es_evento_relevante": true,
