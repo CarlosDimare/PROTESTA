@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T05:21:11.501772-03:00",
+    "last_updated": "2026-07-21T08:05:12.868432-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13210,6 +13210,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Continuar exigiendo el cumplimiento integral de la Ley de Financiamiento Universitario y la reconstrucción del sistema universitario deteriorado",
             "fuente": "https://www.inforegion.com.ar/2026/06/27/se-hizo-justicia-el-mensaje-del-cin-tras-la-decision-de-la-corte/, https://conaduhistorica.org.ar/prensa/comunicado-del-frente-sindical-universitario-cin-y-fua/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-21",
+            "horario": "No especificado",
+            "lugar": "Entre Ríos (sede de la FJA)",
+            "quien": "Federación Judicial Argentina (FJA) y Asociación Judicial de Entre Ríos (AJER)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la reforma previsional provincial y defensa de la Caja de Jubilaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/la-fja-manifesto-su-mas-energico-repudio-a-la-media-sancion-de-la-reforma-previsional-que-arrasa-con-el-82-movil-en-entre-rios-202672017130"
         },
         {
             "es_evento_relevante": true,
