@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T15:17:33.669280-03:00",
+    "last_updated": "2026-07-21T17:20:13.185732-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13255,11 +13255,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
             "horario": "15:00",
-            "lugar": "Intersección de Av. Rivadavia y Av. Rodríguez Peña, Buenos Aires",
+            "lugar": "Intersección de Av. Rivadavia y Av. Rodríguez Peña, Ciudad de Buenos Aires",
             "quien": "CGT, CTA, UTEP, organizaciones de jubilados y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del gobierno de Milei",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-la-cta-y-movimientos-sociales-marchan-junto-a-los-jubilados-este-miercoles-al-congreso/07/2026/"
+            "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del Gobierno de Javier Milei",
+            "fuente": "https://elciudadanoweb.com/cgt-cta-y-movimientos-sociales-marchan-al-congreso-junto-a-los-jubilados/, https://www.conclusion.com.ar/gremiales/la-cgt-la-cta-y-movimientos-sociales-marchan-junto-a-los-jubilados-este-miercoles-al-congreso/07/2026/"
         },
         {
             "es_evento_relevante": true,
