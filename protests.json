@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T12:10:29.805018-03:00",
+    "last_updated": "2026-07-21T13:29:46.157146-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13234,6 +13234,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
+            "horario": "10:00",
+            "lugar": "Bajada de la autopista Bs. As. La Plata y Casa de Gobierno",
+            "quien": "Organizaciones sociales, gremiales, políticas, estudiantiles y feministas junto a trabajadores del Astillero",
+            "tipo_medida": "Corte y caravana",
+            "motivo": "Exigir reincorporación de Verónica y Victoria, despedidas por violencia de género",
+            "fuente": "https://www.laizquierdadiario.com/Corte-y-caravana-en-La-Plata-por-la-reincorporacion-de-trabajadoras-del-Astillero"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
             "horario": "15:00",
             "lugar": "Intersección de Av. Rivadavia y Av. Rodríguez Peña, Buenos Aires",
             "quien": "CGT, CTA, UTEP, organizaciones de jubilados y movimientos sociales",
@@ -13293,6 +13303,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-07-26",
+            "horario": "15:00",
+            "lugar": "Avenida Rivadavia y Rodríguez Peña, Buenos Aires",
+            "quien": "CGT, CTA Autónoma, CTA de los Trabajadores, UTEP y organizaciones de jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del gobierno",
+            "fuente": "https://www.inforegion.com.ar/2026/07/21/la-cgt-las-dos-cta-y-la-utep-se-suman-al-reclamo-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-01",
             "horario": "08:00",
             "lugar": "No especificado",
@@ -13300,6 +13320,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de vaciamiento estatal, despidos y políticas de ajuste del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/frente-de-gremios-estatales-plantea-una-agenda-federal-de-reclamos-vamos-a-ir-a-las-provincias-20267179400, https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Sectores en lucha organizados",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la Ley de Inviolabilidad de la Propiedad Privada y defensa de bienes comunes, soberanía y contra el saqueo",
+            "fuente": "https://www.laizquierdadiario.com/Extranjerizacion-de-la-tierra-incendios-desalojos-expres-convocan-a-coordinar-el-25J-para-rodear-el, https://www.clarin.com/politica/cgt-vuelve-desafiar-gobierno-marcha-congreso-reforma-laboral_0_BfQ7k6BApv.html"
         },
         {
             "es_evento_relevante": true,
