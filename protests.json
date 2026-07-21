@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-20T20:57:59.037584-03:00",
+    "last_updated": "2026-07-20T23:10:38.560793-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13190,6 +13190,16 @@
             "tipo_medida": "Paros sectoriales y rotativos (protestas a la francesa)",
             "motivo": "Reclamo contra el gobierno de Javier Milei y la Ley 27.802 de Modernización Laboral, por pérdida de derechos laborales",
             "fuente": "https://www.infobae.com/politica/2026/06/25/la-cgt-desestimo-otro-paro-general-y-resolvio-adoptar-el-modelo-frances-de-huelga-en-que-consiste/, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-20",
+            "horario": "No especificado",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "CTERA y UTE Ctera",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a modificaciones unilaterales del Estatuto Docente de la Ciudad de Buenos Aires",
+            "fuente": "https://motoreconomico.com.ar/crece-el-rechazo-gremial-a-jorge-macri-por-el-avance-sobre-el-estatuto-docente-porteno/"
         },
         {
             "es_evento_relevante": true,
