@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T09:31:39.992091-03:00",
+    "last_updated": "2026-07-21T12:10:29.805018-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13230,6 +13230,16 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Reclamo por salarios por debajo de la línea de pobreza, congelamiento del haber mínimo en 500 mil pesos durante un año, falta de acuerdos en paritarias y recorte presupuestario en educación",
             "fuente": "https://www.datagremial.com/paritarias/cansados-del-silencio-del-gobierno-gremios-docentes-de-la-cgt-anuncian-paro-para-el-segundo-semestre-del-ano-20266416540"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "15:00",
+            "lugar": "Intersección de Av. Rivadavia y Av. Rodríguez Peña, Buenos Aires",
+            "quien": "CGT, CTA, UTEP, organizaciones de jubilados y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del gobierno de Milei",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-la-cta-y-movimientos-sociales-marchan-junto-a-los-jubilados-este-miercoles-al-congreso/07/2026/"
         },
         {
             "es_evento_relevante": true,
