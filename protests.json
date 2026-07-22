@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T08:04:11.451944-03:00",
+    "last_updated": "2026-07-22T10:30:25.223333-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13250,6 +13250,26 @@
             "tipo_medida": "Corte de ruta y movilización",
             "motivo": "Rechazo a la baja de beneficiarios del programa Volver al Trabajo, defensa de comedores comunitarios, reclamo por ingresos para desocupados y convocatoria a paro nacional",
             "fuente": "https://elciudadanoweb.com/organizaciones-sociales-convocan-a-una-jornada-nacional-de-protesta-con-cortes-y-movilizacion-en-rosario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "10:00",
+            "lugar": "Puente Pueyrredón, Avellaneda",
+            "quien": "UTEP, Frente de Lucha Piquetero, Territorios en Lucha, Encuentro Socialista Antiimperialista y organizaciones sociales",
+            "tipo_medida": "Movilización y cortes de rutas",
+            "motivo": "Exigencia de continuidad del programa Volver al Trabajo y rechazo a su desmantelamiento",
+            "fuente": "https://www.anred.org/jornada-nacional-de-lucha-con-cortes-asambleas-y-movilizaciones-en-todo-el-pais-contra-la-baja-del-volver-al-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "10:00",
+            "lugar": "Pami (San Lorenzo al 926), Rosario",
+            "quien": "CGT Rosario, Catt, CTA Autónoma, Intersindical, CCC, Utep y otros gremios locales",
+            "tipo_medida": "Movilización con cortes de tránsito",
+            "motivo": "Rechazo a políticas de ajuste del gobierno de Milei; defensa de jubilados, salarios, programas sociales y derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/miercoles-de-protesta-en-rosario-y-el-pais-habra-movilizaciones-en-defensa-de-jubilados-y-del-programa-volver-al-trabajo/07/2026/"
         },
         {
             "es_evento_relevante": true,
