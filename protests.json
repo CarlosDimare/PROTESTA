@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T18:01:19.358888-03:00",
+    "last_updated": "2026-07-22T19:05:55.963870-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13360,6 +13360,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Acompañar reclamos de jubilados y como parte del plan de lucha contra políticas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/la-cgt-y-las-dos-cta-ponen-primera-a-una-serie-de-manifestaciones-en-la-calle-comenzaran-con-el-acompanamiento-a-la-marcha-de-los-jubilados-202671718200"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-23",
+            "horario": "15:00",
+            "lugar": "Avenida Rivadavia y Avenida Rodríguez Peña",
+            "quien": "CGT, CTA, UTEP, organizaciones de jubilados y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a las políticas económicas de Javier Milei, defensa del sistema previsional y reclamo por recomposición de jubilaciones",
+            "fuente": "https://www.inforegion.com.ar/2026/07/22/jubilados-y-pensionados-junto-a-gremios-y-agrupaciones-sociales-marchan-en-el-congreso/"
         },
         {
             "es_evento_relevante": true,
