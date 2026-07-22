@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T02:44:24.525072-03:00",
+    "last_updated": "2026-07-22T05:17:00.360753-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13260,6 +13260,16 @@
             "tipo_medida": "Corte y caravana",
             "motivo": "Exigir reincorporación de Verónica y Victoria, despedidas por violencia de género",
             "fuente": "https://www.laizquierdadiario.com/Corte-y-caravana-en-La-Plata-por-la-reincorporacion-de-trabajadoras-del-Astillero"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional (Buenos Aires)",
+            "quien": "CGT, CTA, UTEP y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por jubilados y contra políticas de Milei",
+            "fuente": "https://www.infobae.com/politica/2026/07/22/pese-al-alivio-logrado-para-la-caja-sindical-la-cgt-comienza-un-plan-de-lucha-con-movilizaciones-y-un-paro-general-aun-sin-fecha/"
         },
         {
             "es_evento_relevante": true,
