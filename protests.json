@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T10:30:25.223333-03:00",
+    "last_updated": "2026-07-22T12:30:31.860637-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13256,10 +13256,10 @@
             "fecha": "2026-07-22",
             "horario": "10:00",
             "lugar": "Puente Pueyrredón, Avellaneda",
-            "quien": "UTEP, Frente de Lucha Piquetero, Territorios en Lucha, Encuentro Socialista Antiimperialista y organizaciones sociales",
-            "tipo_medida": "Movilización y cortes de rutas",
-            "motivo": "Exigencia de continuidad del programa Volver al Trabajo y rechazo a su desmantelamiento",
-            "fuente": "https://www.anred.org/jornada-nacional-de-lucha-con-cortes-asambleas-y-movilizaciones-en-todo-el-pais-contra-la-baja-del-volver-al-trabajo/"
+            "quien": "UTEP, MTE, CTA, Movimiento Teresa Rodríguez, Polo Obrero y jubilados de CTA y CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a eliminación de programa social, defensa del sistema previsional, aumento de jubilaciones y políticas económicas de Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/07/22/tension-en-avellaneda-por-la-concentracion-de-organizaciones-sociales/, https://www.anred.org/jornada-nacional-de-lucha-con-cortes-asambleas-y-movilizaciones-en-todo-el-pais-contra-la-baja-del-volver-al-trabajo/"
         },
         {
             "es_evento_relevante": true,
@@ -13320,6 +13320,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Manifestación contra el gobierno de Javier Milei en defensa de derechos jubilatorios, ingresos dignos y salario mínimo",
             "fuente": "https://elciudadanoweb.com/la-cgt-definio-una-nueva-movilizacion-luego-del-mundial-junto-a-las-dos-cta-y-la-utep/, https://www.conclusion.com.ar/gremiales/plan-de-lucha-ante-el-saqueo-la-cgt-definio-una-nueva-movilizacion-contra-el-gobierno-de-milei/07/2026/, https://motoreconomico.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/09/por-que-la-cgt-finalmente-hara-una-version-light-sin-paros-sectoriales-de-las-protestas-a-la-francesa/, https://estadodealerta.com.ar/cgt-ctas-y-utep-lanzan-plan-de-lucha-escalonado-contra-el-modelo-de-milei-preparando-el-paro-general/, https://www.infobae.com/politica/2026/07/07/la-cgt-comenzara-su-plan-de-lucha-el-22-de-este-mes-cual-sera-la-primera-medida-y-que-incluye-la-agenda-de-las-protestas/, https://baraderohoy.com.ar/la-cgt-inicia-un-paro-general-de-36-horas-protesta-por-los-jubilados-y-contra-las-politicas-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "No especificado",
+            "lugar": "Rosario, Avenida Circunvalación y Perón",
+            "quien": "CGT, CTA, UTEP, Frente Piquetero, Polo Obrero, Corriente Clasista y Combativa (CCC)",
+            "tipo_medida": "Corte",
+            "motivo": "Defensa del programa Volver al Trabajo, aumento del salario mínimo vital y móvil, protesta contra cierres fabriles (Petroquímica San Lorenzo) y políticas de ajuste del gobierno de Milei",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/con-cortes-en-distintos-puntos-rosario-se-plego-a-la-jornada-nacional-de-protesta-en-defensa-de-los-jubilados-y-el-programa-volver-al-trabajo/07/2026/"
         },
         {
             "es_evento_relevante": true,
