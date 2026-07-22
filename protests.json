@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-21T23:33:02.374815-03:00",
+    "last_updated": "2026-07-22T02:44:24.525072-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13310,6 +13310,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Acompañar reclamos de jubilados y como parte del plan de lucha contra políticas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/la-cgt-y-las-dos-cta-ponen-primera-a-una-serie-de-manifestaciones-en-la-calle-comenzaran-con-el-acompanamiento-a-la-marcha-de-los-jubilados-202671718200"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-23",
+            "horario": "15:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "CGT, CTA Autónoma, CTA de los Trabajadores, Frente de Gremios Estatales Nacionales, movimientos sociales y otros colectivos",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la seguridad social como derecho inalienable, reclamo por mejora de haberes jubilatorios, oposición al plan económico y ajuste del gobierno de Milei, y defensa del rol social del Estado",
+            "fuente": "https://www.datagremial.com/escenario/el-frente-de-gremios-estatales-marcha-con-las-centrales-obreras-el-gobierno-desguaza-el-rol-social-del-estado-20267221000"
         },
         {
             "es_evento_relevante": true,
