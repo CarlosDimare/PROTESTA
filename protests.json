@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T05:17:00.360753-03:00",
+    "last_updated": "2026-07-22T08:04:11.451944-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13330,6 +13330,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la seguridad social como derecho inalienable, reclamo por mejora de haberes jubilatorios, oposición al plan económico y ajuste del gobierno de Milei, y defensa del rol social del Estado",
             "fuente": "https://www.datagremial.com/escenario/el-frente-de-gremios-estatales-marcha-con-las-centrales-obreras-el-gobierno-desguaza-el-rol-social-del-estado-20267221000"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-24",
+            "horario": "10:00",
+            "lugar": "Puente Pueyrredón",
+            "quien": "Asamblea Permanente de Guernica",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de entrega de viviendas prometidas tras acuerdo con el gobierno provincial y municipal",
+            "fuente": "https://www.inforegion.com.ar/2026/07/22/familias-que-participaron-de-la-toma-en-guernica-se-movilizan/"
         },
         {
             "es_evento_relevante": true,
