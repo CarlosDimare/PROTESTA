@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T12:30:31.860637-03:00",
+    "last_updated": "2026-07-22T14:12:27.948141-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13285,6 +13285,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-22",
             "horario": "15:00",
+            "lugar": "Plaza Congreso",
+            "quien": "CGT, CTA Autónoma, CTA De los Trabajadores y organizaciones sociales (incluyendo UTEP)",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta nacional contra el ajuste del Gobierno de Javier Milei, en respaldo a jubilados y reclamo de recomposición de haberes previsionales",
+            "fuente": "https://estadodealerta.com.ar/con-la-protesta-de-este-miercoles-se-pone-en-marcha-el-plan-de-lucha-contra-el-gobierno-consensuado-por-cgt-cta-y-utep/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-22",
+            "horario": "15:00",
             "lugar": "Congreso Nacional (Buenos Aires)",
             "quien": "CGT, CTA, UTEP y organizaciones sociales",
             "tipo_medida": "Movilización",
@@ -13416,10 +13426,10 @@
             "fecha": "2026-08-06",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Izquierda/Frente de Izquierda",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra la ley de 'inviolabilidad de la propiedad privada' y la extranjerización de tierras",
-            "fuente": "https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
+            "quien": "Frente de Jubilados en Lucha (Fejel), Confederación General del Trabajo (CGT) Rosario, Confederación Argentina de Trabajadores del Transporte (Catt), CTA Autónoma, Intersindical, Corrientes Clasista y Combativa (CCC), Unión de Trabajadores de la Economía Popular (Utep)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a las políticas económicas del gobierno, defensa de derechos jubilatorios, ampliación de cobertura de medicamentos, y oposición a la Ley de Tierras",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/los-jubilados-no-pueden-comprar-remedios-ni-alimentos-rosarinos-marcharon-en-defensa-de-los-adultos-mayores/07/2026/, https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
         },
         {
             "es_evento_relevante": true,
@@ -13440,6 +13450,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas de ajuste, reforma laboral y defensa de salarios",
             "fuente": "https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT, CTA y confederaciones sindicales",
+            "tipo_medida": "Movilización",
+            "motivo": "Conmemoración del Día de San Cayetano y rechazo a políticas del Gobierno nacional",
+            "fuente": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
         },
         {
             "es_evento_relevante": true,
