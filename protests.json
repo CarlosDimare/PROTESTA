@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-22T20:59:06.120280-03:00",
+    "last_updated": "2026-07-22T23:26:30.675355-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13360,6 +13360,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Acompañar reclamos de jubilados y como parte del plan de lucha contra políticas del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/la-cgt-y-las-dos-cta-ponen-primera-a-una-serie-de-manifestaciones-en-la-calle-comenzaran-con-el-acompanamiento-a-la-marcha-de-los-jubilados-202671718200"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-23",
+            "horario": "11:30",
+            "lugar": "Ministerio de Trabajo y Seguridad Social de Santa Fe, sede Ovidio Lagos 599, Rosario",
+            "quien": "Sindicato de Obreros y Empleados Petroquímicos Unidos (SOEPU)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el cierre de la planta de Pampa Energía y en defensa de 200 puestos de trabajo",
+            "fuente": "https://elciudadanoweb.com/convocan-a-una-movilizacion-en-rosario-para-exigir-que-pampa-energia-revierta-el-cierre-de-la-planta-de-caucho/"
         },
         {
             "es_evento_relevante": true,
