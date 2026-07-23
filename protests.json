@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23T12:53:37.150586-03:00",
+    "last_updated": "2026-07-23T14:15:57.373793-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13393,6 +13393,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-07-23",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "PTS-Frente de Izquierda",
+            "tipo_medida": "Paro general",
+            "motivo": "Derrotar a Milei y su plan al servicio del imperialismo y el FMI",
+            "fuente": "https://www.laizquierdadiario.com/Myriam-Bregman-Proponemos-organizar-para-septiembre-una-gran-Marcha-de-la-Bronca"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-07-24",
             "horario": "10:00",
             "lugar": "Puente Pueyrredón",
@@ -13430,6 +13440,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del gobierno",
             "fuente": "https://www.inforegion.com.ar/2026/07/21/la-cgt-las-dos-cta-y-la-utep-se-suman-al-reclamo-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-28",
+            "horario": "00:00",
+            "lugar": "Provincia de Río Negro (con posible cortes en rutas nacionales según antecedentes)",
+            "quien": "UNTER (Unión de Trabajadores de la Educación de Río Negro)",
+            "tipo_medida": "Paro de 48 horas",
+            "motivo": "Reclamo por mejoras salariales y condiciones edilicias en escuelas",
+            "fuente": "https://www.infobae.com/politica/2026/07/23/la-dura-advertencia-de-un-gobernador-patagonico-al-sindicato-docente-que-anuncio-medidas-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
