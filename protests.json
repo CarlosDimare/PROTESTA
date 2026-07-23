@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-23T08:07:17.547997-03:00",
+    "last_updated": "2026-07-23T10:42:39.256112-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13420,6 +13420,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa del sistema previsional, reclamo de recomposición de jubilaciones y rechazo a políticas económicas del gobierno",
             "fuente": "https://www.inforegion.com.ar/2026/07/21/la-cgt-las-dos-cta-y-la-utep-se-suman-al-reclamo-de-los-jubilados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-29",
+            "horario": "13:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Unión Trabajadores de la Economía Popular (UTEP) con apoyo de sindicatos, CTA, CGT y agrupaciones sociales",
+            "tipo_medida": "Marcha y cortes de rutas",
+            "motivo": "Defensa del Programa Volver al Trabajo y oposición a su reemplazo por vouchers de capacitación",
+            "fuente": "https://www.infobae.com/politica/2026/07/23/la-protesta-social-volvio-a-las-calles-con-cortes-y-piquetes-como-continuan-los-reclamos-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
