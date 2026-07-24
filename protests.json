@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T09:17:08.586196-03:00",
+    "last_updated": "2026-07-24T11:51:20.833235-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13450,6 +13450,16 @@
             "tipo_medida": "Paro de 48 horas",
             "motivo": "Reclamo por mejoras salariales y condiciones edilicias en escuelas",
             "fuente": "https://www.infobae.com/politica/2026/07/23/la-dura-advertencia-de-un-gobernador-patagonico-al-sindicato-docente-que-anuncio-medidas-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-28",
+            "horario": "No especificado",
+            "lugar": "Distintos puntos del país",
+            "quien": "Coalición Federal en Defensa de la Tierra y Multisectorial por la Tierra y la Vivienda",
+            "tipo_medida": "Movilización",
+            "motivo": "Jornadas federales contra la Ley de Inviolabilidad de la Propiedad Privada bajo el lema \"Argentina no se vende\"",
+            "fuente": "https://estadodealerta.com.ar/movilizacion-nacional-el-6-de-agosto-contra-la-ley-que-habilita-la-extranjerizacion-de-tierras/"
         },
         {
             "es_evento_relevante": true,
