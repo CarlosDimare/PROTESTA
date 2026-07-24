@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T11:51:20.833235-03:00",
+    "last_updated": "2026-07-24T13:38:42.147681-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13480,6 +13480,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de vaciamiento estatal, despidos y políticas de ajuste del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/frente-de-gremios-estatales-plantea-una-agenda-federal-de-reclamos-vamos-a-ir-a-las-provincias-20267179400, https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Amsafé",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial del Gobierno de Santa Fe en paritarias docentes",
+            "fuente": "https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
         },
         {
             "es_evento_relevante": true,
