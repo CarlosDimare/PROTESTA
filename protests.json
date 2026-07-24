@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T19:00:50.604400-03:00",
+    "last_updated": "2026-07-24T20:06:45.295528-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13534,12 +13534,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
-            "horario": "08:00",
-            "lugar": "Basílica de San Cayetano (Buenos Aires)",
-            "quien": "CGT, CTA Autónoma, UTEP y movimientos sociales",
+            "horario": "10:00",
+            "lugar": "Basílica de San Cayetano, Buenos Aires",
+            "quien": "CGT, CTA y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas de ajuste, reforma laboral y defensa de salarios",
-            "fuente": "https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
+            "motivo": "Protesta contra el endeudamiento de familias y trabajadores",
+            "fuente": "https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
         },
         {
             "es_evento_relevante": true,
@@ -13620,6 +13620,16 @@
             "tipo_medida": "Huelga",
             "motivo": "Contra las restricciones a la huelga impuestas por ANAC en la resolución 173/2026",
             "fuente": "https://www.datagremial.com/escenario/gremios-rechazan-la-esencialidad-del-sector-aerocomercial-es-una-eliminacion-del-derecho-a-huelga-de-facto--20263271000, https://www.infobae.com/economia/2026/03/17/paro-aereo-de-ate-anac-que-vuelos-se-veran-afectados-y-donde-habra-demoras-y-cancelaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "10:00",
+            "lugar": "Provincia de Santa Fe",
+            "quien": "Seccional Rosario de ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial considerada \"triple estafa\", reclamo de salarios dignos, mejores condiciones laborales y aumento del poder adquisitivo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/a-pesar-de-la-aceptacion-de-ate-santa-fe-la-seccional-rosario-rechazo-la-oferta-paritaria-e-impulsa-un-paro/07/2026/, https://www.rosarionuestro.com/los-estatales-rechazaron-la-propuesta-de-la-provincia-y-van-al-paro"
         },
         {
             "es_evento_relevante": true,
