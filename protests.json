@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T15:16:12.755050-03:00",
+    "last_updated": "2026-07-24T17:16:29.847634-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13430,6 +13430,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por reincorporación y contra despidos masivos",
             "fuente": "https://www.inforegion.com.ar/2026/07/23/trabajadores-despedidos-de-tenaris-siat-llevaron-su-reclamo-a-la-estacion-de-lanus-y-buscan-sumar-apoyo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-26",
+            "horario": "14:00",
+            "lugar": "Facultad de Humanidades y Artes de la UNR (Entre Ríos 758) hacia Monumento Nacional a la Bandera",
+            "quien": "Asamblea Federal MLBTTNBI+ Afrodescendientes de y en Argentina",
+            "tipo_medida": "Marcha",
+            "motivo": "Visibilizar identidades afrodescendientes y MLBTTNBI+, combatir racismo y violencia machista, reclamar justicia por el caso de Giovani Mvogo",
+            "fuente": "https://elciudadanoweb.com/rosario-recibe-a-la-4a-asamblea-federal-afrodescendiente-de-mujeres-y-disidencias-negar-el-racismo-es-hipocrita/"
         },
         {
             "es_evento_relevante": true,
