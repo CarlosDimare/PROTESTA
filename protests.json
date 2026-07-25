@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-24T20:06:45.295528-03:00",
+    "last_updated": "2026-07-24T23:05:17.990894-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13425,6 +13425,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-07-24",
             "horario": "No especificado",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Ademys, secundarios de Yrurtia/Lola Mora/Nini Marshal, centros de estudiantes terciarios y familias",
+            "tipo_medida": "Paro y Corte",
+            "motivo": "Contra la reforma laboral del estatuto docente y el plan Ba Aprende del gobierno de Jorge Macri",
+            "fuente": "https://www.laizquierdadiario.com/Ante-el-facho-de-Jorge-Macri-unidad-de-docentes-estudiantes-y-familias-paro-de-48hs-y-corte-en-el"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-24",
+            "horario": "No especificado",
             "lugar": "Sede regional del Ministerio de Trabajo de la provincia de Buenos Aires",
             "quien": "Trabajadores despedidos de Tenaris Siat",
             "tipo_medida": "Movilización",
@@ -13480,6 +13490,16 @@
             "tipo_medida": "Marcha y cortes de rutas",
             "motivo": "Defensa del Programa Volver al Trabajo y oposición a su reemplazo por vouchers de capacitación",
             "fuente": "https://www.infobae.com/politica/2026/07/23/la-protesta-social-volvio-a-las-calles-con-cortes-y-piquetes-como-continuan-los-reclamos-contra-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
+            "horario": "15:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Movimiento Independiente de Jubilados y Desocupados (MIJD)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de derechos jubilatorios y oposición al modelo económico del gobierno",
+            "fuente": "https://www.conclusion.com.ar/politica/congreso-castells-celebro-la-protesta-y-la-participacion-de-la-cgt-pero-pidio-mas-firmeza-y-huelga-general/07/2026/"
         },
         {
             "es_evento_relevante": true,
