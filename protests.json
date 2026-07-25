@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-25T15:59:36.890890-03:00",
+    "last_updated": "2026-07-25T17:12:04.129173-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13463,6 +13463,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-07-27",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimientos sociales y sindicatos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la visita del FMI y al pago de la deuda externa",
+            "fuente": "https://www.laizquierdadiario.com/Repudio-a-la-visita-de-Kristalina-Georgieva-al-pais"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-07-28",
             "horario": "00:00",
             "lugar": "Provincia de Río Negro (con posible cortes en rutas nacionales según antecedentes)",
@@ -13526,10 +13536,10 @@
             "fecha": "2026-08-06",
             "horario": "15:00",
             "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Sectores en lucha organizados",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la Ley de Inviolabilidad de la Propiedad Privada y defensa de bienes comunes, soberanía y contra el saqueo",
-            "fuente": "https://www.laizquierdadiario.com/Extranjerizacion-de-la-tierra-incendios-desalojos-expres-convocan-a-coordinar-el-25J-para-rodear-el, https://www.clarin.com/politica/cgt-vuelve-desafiar-gobierno-marcha-congreso-reforma-laboral_0_BfQ7k6BApv.html"
+            "quien": "CTA Autónoma, CTA de los Trabajadores, CGT (pendiente de confirmación), organizaciones sociales, ambientalistas, eclesiásticas y políticas",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al proyecto de modificación del régimen de venta de tierras rurales a extranjeros, bajo la consigna 'Por la tierra y el agua'",
+            "fuente": "https://www.conclusion.com.ar/politica/crece-la-convocatoria-a-la-marcha-al-congreso-contra-la-extranjerizacion-de-las-tierras/07/2026/, https://www.laizquierdadiario.com/Extranjerizacion-de-la-tierra-incendios-desalojos-expres-convocan-a-coordinar-el-25J-para-rodear-el, https://www.clarin.com/politica/cgt-vuelve-desafiar-gobierno-marcha-congreso-reforma-laboral_0_BfQ7k6BApv.html"
         },
         {
             "es_evento_relevante": true,
