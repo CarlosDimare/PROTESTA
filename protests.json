@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-26T18:54:18.590610-03:00",
+    "last_updated": "2026-07-26T19:55:13.588842-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13464,12 +13464,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-27",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Movimientos sociales y sindicatos",
+            "horario": "15:00",
+            "lugar": "Ministerio de Economía, Yrigoyen 250, Ciudad de Buenos Aires",
+            "quien": "Frente de Izquierda Unidad (con apoyo del Partido Obrero)",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a la visita del FMI y al pago de la deuda externa",
-            "fuente": "https://www.laizquierdadiario.com/Repudio-a-la-visita-de-Kristalina-Georgieva-al-pais"
+            "motivo": "Repudio a la visita del FMI y oposición al pago de la deuda externa",
+            "fuente": "https://elciudadanoweb.com/el-frente-de-izquierda-convoca-a-movilizar-en-repudio-a-la-visita-de-georgieva-y-el-fmi/, https://www.laizquierdadiario.com/Repudio-a-la-visita-de-Kristalina-Georgieva-al-pais"
         },
         {
             "es_evento_relevante": true,
