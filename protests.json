@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-25T20:56:06.844287-03:00",
+    "last_updated": "2026-07-25T23:09:00.280456-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13500,6 +13500,16 @@
             "tipo_medida": "Marcha y cortes de rutas",
             "motivo": "Defensa del Programa Volver al Trabajo y oposición a su reemplazo por vouchers de capacitación",
             "fuente": "https://www.infobae.com/politica/2026/07/23/la-protesta-social-volvio-a-las-calles-con-cortes-y-piquetes-como-continuan-los-reclamos-contra-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
+            "horario": "10:00",
+            "lugar": "Santa Fe",
+            "quien": "Siprus",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial y condiciones laborales",
+            "fuente": "https://elciudadanoweb.com/paritarias-de-salud-amra-acepto-la-oferta-y-siprus-dijo-no-por-lo-que-convoco-a-un-paro/"
         },
         {
             "es_evento_relevante": true,
