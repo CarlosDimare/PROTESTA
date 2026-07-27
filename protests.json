@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-27T10:37:04.190187-03:00",
+    "last_updated": "2026-07-27T13:15:02.839971-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13600,6 +13600,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Conmemoración del Día de San Cayetano y rechazo a políticas del Gobierno nacional",
             "fuente": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "11:30",
+            "lugar": "San Cayetano",
+            "quien": "Jubilados con adhesión de la CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de los derechos jubilatorios, recuperación del poder adquisitivo y mejoras en prestaciones de PAMI y planes de Argentina Trabaja",
+            "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-adelanto-que-el-plan-de-lucha-de-las-centrales-obreras-puede-terminar-en-una-gran-marcha-federal-20267279440, https://www.eldiarioar.com/politica/calle-reacciona-veto-milei-jubilados-marchan-congreso-cgt-suma-caminata-liniers-plaza-mayo-san-cayetano_1_12513683.html"
         },
         {
             "es_evento_relevante": true,
