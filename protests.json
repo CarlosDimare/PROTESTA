@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-27T17:18:30.593603-03:00",
+    "last_updated": "2026-07-27T19:06:53.560228-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13550,6 +13550,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a Ley de Inviolabilidad de la Propiedad Privada",
             "fuente": "https://www.anred.org/resoluciones-de-la-asamblea-en-amba-contra-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Aumento salarial de emergencia y rechazo al desmantelamiento de organismos estatales con pérdida de empleos públicos",
+            "fuente": "https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "ATE (Asociación Trabajadores del Estado) con posible adhesión de CTERA",
+            "tipo_medida": "Paro nacional con movilización",
+            "motivo": "Aumento salarial y contra el vaciamiento del Estado",
+            "fuente": "https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
         },
         {
             "es_evento_relevante": true,
