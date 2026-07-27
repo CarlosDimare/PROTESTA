@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-26T20:57:31.978700-03:00",
+    "last_updated": "2026-07-26T23:16:16.024874-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13560,6 +13560,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a las políticas económicas del gobierno, defensa de derechos jubilatorios, ampliación de cobertura de medicamentos, y oposición a la Ley de Tierras",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/los-jubilados-no-pueden-comprar-remedios-ni-alimentos-rosarinos-marcharon-en-defensa-de-los-adultos-mayores/07/2026/, https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Colectivo Defendamos Nuestra Tierra y sectores del AMBA",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la extranjerización de tierras y el paquete de medidas del gobierno nacional",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
         },
         {
             "es_evento_relevante": true,
