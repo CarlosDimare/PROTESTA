@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-27T13:15:02.839971-03:00",
+    "last_updated": "2026-07-27T15:22:44.605111-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13464,6 +13464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-27",
+            "horario": "13:46",
+            "lugar": "Plaza Belgrano, Jujuy",
+            "quien": "Cedems, Adep y Uda (docentes jujeños)",
+            "tipo_medida": "Movilización y permanencia",
+            "motivo": "Rechazo al aumento del 4% del gobernador Sadir, reclamo por salarios y frente al ajuste y tarifazos",
+            "fuente": "https://www.laizquierdadiario.com/Docentes-Neuquen-Rio-Negro-Jujuy-Misiones-y-Formosa-no-iniciaron-clases-y-toma-fuerza-el-paro"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-27",
             "horario": "15:00",
             "lugar": "Ministerio de Economía, Yrigoyen 250, Ciudad de Buenos Aires",
             "quien": "Frente de Izquierda Unidad (con apoyo del Partido Obrero)",
@@ -13530,6 +13540,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de vaciamiento estatal, despidos y políticas de ajuste del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/frente-de-gremios-estatales-plantea-una-agenda-federal-de-reclamos-vamos-a-ir-a-las-provincias-20267179400, https://www.infobae.com/politica/2026/07/05/reforma-laboral-el-gobierno-apelara-los-fallos-en-favor-de-la-caja-sindical-y-la-cgt-apura-la-organizacion-de-los-paros-a-la-francesa/, https://www.datagremial.com/informacion-general/la-cgt-descarta-otro-paro-general-y-avanza-con-un-plan-de-lucha-a-la-francesa-para-despues-del-mundial-de-que-se-trata-202662519310, https://www.ambito.com/informacion-general/marcha-la-cgt-este-es-el-mapa-y-los-horarios-los-cortes-calles-n6225472"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-01",
+            "horario": "16:00",
+            "lugar": "Av. Corrientes y Callao al Obelisco",
+            "quien": "Colectivos sociales y comunidades originarias",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a Ley de Inviolabilidad de la Propiedad Privada",
+            "fuente": "https://www.anred.org/resoluciones-de-la-asamblea-en-amba-contra-la-ley-de-extranjerizacion-de-tierras/"
         },
         {
             "es_evento_relevante": true,
@@ -13646,10 +13666,10 @@
             "fecha": "No especificado",
             "horario": "**08:00**",
             "lugar": "No especificado",
-            "quien": "CGT y centrales sindicales aliadas",
-            "tipo_medida": "Movilización y paros sectoriales",
-            "motivo": "Política económica de Milei, endeudamiento de asalariados y defensa de jubilados",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
+            "quien": "FLOC-AFL-CIO",
+            "tipo_medida": "Movilización",
+            "motivo": "Reforma migratoria y oposición a políticas anti-sindicales",
+            "fuente": "https://motoreconomico.com.ar/entrevista-a-baldemar-velasquez-activista-sindical-estadounidensehay-que-parar-la-caceria-de-seres-humanos/, https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
         },
         {
             "es_evento_relevante": true,
