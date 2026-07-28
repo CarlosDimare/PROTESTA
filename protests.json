@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-28T02:02:02.047105-03:00",
+    "last_updated": "2026-07-28T04:42:06.073574-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13500,6 +13500,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Jornadas federales contra la Ley de Inviolabilidad de la Propiedad Privada bajo el lema \"Argentina no se vende\"",
             "fuente": "https://estadodealerta.com.ar/movilizacion-nacional-el-6-de-agosto-contra-la-ley-que-habilita-la-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-29",
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Aumento salarial de emergencia, vaciamiento de organismos públicos y despidos en el Estado",
+            "fuente": "https://www.infobae.com/politica/2026/07/28/en-agosto-comenzara-la-temporada-alta-de-protestas-sindicales-estatales-docentes-y-marcha-a-san-cayetano-en-la-agenda/"
         },
         {
             "es_evento_relevante": true,
