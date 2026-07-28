@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-28T09:52:49.550789-03:00",
+    "last_updated": "2026-07-28T12:20:18.702886-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13534,6 +13534,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-30",
+            "horario": "13:00",
+            "lugar": "Sucursales del Banco de Córdoba (Bancor) en Córdoba",
+            "quien": "Asociación Bancaria de Córdoba",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el cierre de sucursales, la falta de personal y las malas condiciones laborales en Bancor",
+            "fuente": "https://www.conclusion.com.ar/gremiales/bancarios-cordobeses-profundizan-el-conflicto-en-bancor-y-anuncian-asambleas-en-todas-las-sucursales/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
             "horario": "15:00",
             "lugar": "Frente al Congreso Nacional",
             "quien": "Movimiento Independiente de Jubilados y Desocupados (MIJD)",
@@ -13564,22 +13574,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
-            "horario": "10:00",
-            "lugar": "Ministerio de Economía",
-            "quien": "Asociación de Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Reclamo de aumento salarial y contra el vaciamiento del Estado",
-            "fuente": "https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales y contra el ajuste educativo",
+            "fuente": "https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Amsafé",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a propuesta salarial del Gobierno de Santa Fe en paritarias docentes",
-            "fuente": "https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía (Buenos Aires)",
+            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "tipo_medida": "Paro nacional con movilización",
+            "motivo": "Reclamo por aumento salarial de emergencia, contra el vaciamiento de organismos públicos y despidos en el Estado",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
         },
         {
             "es_evento_relevante": true,
