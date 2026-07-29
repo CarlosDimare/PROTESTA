@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-28T20:56:56.550156-03:00",
+    "last_updated": "2026-07-28T23:01:26.493410-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13500,6 +13500,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Jornadas federales contra la Ley de Inviolabilidad de la Propiedad Privada bajo el lema \"Argentina no se vende\"",
             "fuente": "https://estadodealerta.com.ar/movilizacion-nacional-el-6-de-agosto-contra-la-ley-que-habilita-la-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-29",
+            "horario": "00:00",
+            "lugar": "Provincias de La Rioja y Catamarca (servicios urbanos e interurbanos)",
+            "quien": "Unión Tranviarios Automotor (UTA) - Seccional Regional",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por falta de pago de escalas salariales acordadas desde enero",
+            "fuente": "https://www.conclusion.com.ar/gremiales/un-paro-de-colectivos-de-la-uta-por-reclamos-salariales-afectara-a-dos-provincias/07/2026/"
         },
         {
             "es_evento_relevante": true,
