@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29T16:09:14.205616-03:00",
+    "last_updated": "2026-07-29T17:53:20.054622-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13574,6 +13574,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-01",
+            "horario": "11:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Plenario Federal de Trabajadores de las Fuerzas Armadas",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa del IOSFA/OSFA y restitución de prestaciones médicas interrumpidas",
+            "fuente": "https://elciudadanoweb.com/hubo-un-abrazo-solidario-a-la-sede-de-la-obra-social-de-los-militares-en-rosario-por-corte-de-prestadores-a-los-que-no-les-pagan/, https://www.aterosario.org.ar/ate-rosario-convoca-a-un-abrazo-solidario-en-defensa-de-iosfa-osfa-y-exige-la-restitucion-inmediata-de-las-prestaciones-de-salud.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-01",
             "horario": "16:00",
             "lugar": "Av. Corrientes y Callao al Obelisco",
             "quien": "Colectivos sociales y comunidades originarias",
@@ -13600,6 +13610,16 @@
             "tipo_medida": "Paro nacional con movilización",
             "motivo": "Reclamo por aumento salarial de emergencia, contra el vaciamiento de organismos públicos y despidos en el Estado",
             "fuente": "https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FreSU (adheriendo a paro nacional de estatales y docentes)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al ajuste salarial y vaciamiento del Estado",
+            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
         },
         {
             "es_evento_relevante": true,
