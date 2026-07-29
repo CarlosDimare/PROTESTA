@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29T17:53:20.054622-03:00",
+    "last_updated": "2026-07-29T18:57:32.816588-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13590,6 +13590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a Ley de Inviolabilidad de la Propiedad Privada",
             "fuente": "https://www.anred.org/resoluciones-de-la-asamblea-en-amba-contra-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "00:00",
+            "lugar": "Escuelas de gestión estatal a nivel nacional (especialmente CABA, Provincia de Buenos Aires, Chaco y Santiago del Estero)",
+            "quien": "Confederación de Trabajadores de la Educación de la República Argentina (CTERA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la falta de convocatoria a la Paritaria Nacional Docente y reclamo de urgente recomposición salarial, restitución del FONID, envío de fondos educativos y sanción de Ley de Financiamiento Educativo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/"
         },
         {
             "es_evento_relevante": true,
