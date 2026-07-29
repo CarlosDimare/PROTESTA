@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29T14:12:09.197109-03:00",
+    "last_updated": "2026-07-29T16:09:14.205616-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13584,12 +13584,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
-            "horario": "08:00",
-            "lugar": "No especificado",
+            "horario": "00:00",
+            "lugar": "Todas las escuelas de Argentina",
             "quien": "CTERA",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y contra el ajuste educativo",
-            "fuente": "https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
+            "motivo": "Protesta contra ajuste educativo, falta de paritaria nacional, salario mínimo congelado y desfinanciamiento del sistema",
+            "fuente": "https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
         },
         {
             "es_evento_relevante": true,
