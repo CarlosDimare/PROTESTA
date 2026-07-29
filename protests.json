@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29T18:57:32.816588-03:00",
+    "last_updated": "2026-07-29T19:59:45.054976-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13624,6 +13624,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
+            "horario": "14:00",
+            "lugar": "Azopardo 802, Ciudad de Buenos Aires",
+            "quien": "CGT y sindicatos docentes afiliados",
+            "tipo_medida": "Plan de Lanza",
+            "motivo": "Reclamo de mejoras salariales y mayor financiamiento para la educación pública por crisis salarial y presupuestaria",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-activara-un-plan-de-lucha-nacional-en-el-sector-educativo-tras-el-paro-de-ctera/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "FreSU (adheriendo a paro nacional de estatales y docentes)",
@@ -13656,10 +13666,10 @@
             "fecha": "2026-08-06",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Frente de Jubilados en Lucha (Fejel), Confederación General del Trabajo (CGT) Rosario, Confederación Argentina de Trabajadores del Transporte (Catt), CTA Autónoma, Intersindical, Corrientes Clasista y Combativa (CCC), Unión de Trabajadores de la Economía Popular (Utep)",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a las políticas económicas del gobierno, defensa de derechos jubilatorios, ampliación de cobertura de medicamentos, y oposición a la Ley de Tierras",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/los-jubilados-no-pueden-comprar-remedios-ni-alimentos-rosarinos-marcharon-en-defensa-de-los-adultos-mayores/07/2026/, https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
+            "quien": "Becarios posdoctorales del Conicet",
+            "tipo_medida": "No especificado",
+            "motivo": "Defensa del sistema científico y oposición a despidos y ajuste en el sector",
+            "fuente": "https://www.laizquierdadiario.com/Nueva-protesta-del-Conicet-Hay-plata-para-reprimir-a-los-jubilados-pero-no-para-invertir-en-la-ciencia, https://www.conclusion.com.ar/la-ciudad/los-jubilados-no-pueden-comprar-remedios-ni-alimentos-rosarinos-marcharon-en-defensa-de-los-adultos-mayores/07/2026/, https://www.laizquierdadiario.com/El-gobierno-fracaso-con-la-ley-de-tierras-y-se-patea-para-Agosto-se-colo-el-Mundial-y-el-reclamo-de, https://www.infobae.com/politica/2026/02/04/nuevo-miercoles-de-marcha-frente-al-congreso-hay-enfrentamientos-entre-los-manifestantes-y-la-policia/"
         },
         {
             "es_evento_relevante": true,
