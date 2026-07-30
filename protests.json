@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-29T22:58:39.828715-03:00",
+    "last_updated": "2026-07-30T01:58:39.127942-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13534,12 +13534,42 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-07-30",
+            "horario": "00:00",
+            "lugar": "Distintos puntos de la provincia de Santa Fe",
+            "quien": "Sindicato de Profesionales Universitarios de la Sanidad (Si.Pr.U.S.)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial insuficiente y reclamo por jerarquización salarial y condiciones del sistema sanitario",
+            "fuente": "https://elciudadanoweb.com/medicos-de-siprus-van-al-paro-este-jueves-tras-rechazar-la-oferta-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Conductores Navales de la República Argentina (SICONARA) y gremios de marina mercante",
+            "tipo_medida": "Movilización",
+            "motivo": "Resistencia contra la reforma de la Ley de Cabotaje que permite buques extranjeros y flexibiliza tripulaciones nacionales",
+            "fuente": "https://www.datagremial.com/escenario/rechazo-sindical-a-la-reforma-de-la-ley-de-cabotaje-es-la-eliminacion-la-bandera-argentina-de-nuestros-rios-20267291000, https://www.datagremial.com/informacion-general/el-siconara-junto-a-gremios-maritimos-y-fluviales-encabeza-un-paro-sorpresivo-de-48-horas-en-contra-de-la-reforma-laboral-libertaria--20262188150"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
             "horario": "10:00",
             "lugar": "Santa Fe",
             "quien": "Siprus",
             "tipo_medida": "Paro",
             "motivo": "Rechazo a la propuesta salarial y condiciones laborales",
             "fuente": "https://elciudadanoweb.com/paritarias-de-salud-amra-acepto-la-oferta-y-siprus-dijo-no-por-lo-que-convoco-a-un-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-07-30",
+            "horario": "11:30",
+            "lugar": "Planta de Pampa Energía en Puerto San Martín",
+            "quien": "SOEPU (Sindicato de Obreros y Empleados Petroquímicos Unidos)",
+            "tipo_medida": "Paro",
+            "motivo": "Defender la continuidad de la planta ante el cierre anunciado por la empresa, preservar más de 130 puestos de trabajo y evitar la pérdida de la producción nacional de caucho sintético",
+            "fuente": "https://www.conclusion.com.ar/gremiales/gremio-petroquimico-llevo-el-reclamo-a-la-cgt-y-busca-frenar-los-despidos-de-pampa-energia/07/2026/, https://elciudadanoweb.com/convocan-a-una-movilizacion-en-rosario-para-exigir-que-pampa-energia-revierta-el-cierre-de-la-planta-de-caucho/"
         },
         {
             "es_evento_relevante": true,
