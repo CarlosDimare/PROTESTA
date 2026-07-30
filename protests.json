@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30T14:24:05.284703-03:00",
+    "last_updated": "2026-07-30T16:20:23.320778-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13715,11 +13715,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "FreSU (adheriendo a paro nacional de estatales y docentes)",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la Universidad Nacional de Rosario)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo al ajuste salarial y vaciamiento del Estado",
-            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
+            "motivo": "Rechazo al ajuste presupuestario en educación, reclamo por salarios dignos, convocatoria a paritarias y defensa de la educación pública",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-paran-el-lunes-por-24-horas-en-reclamo-por-mejoras-salarial/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "ATE",
+            "tipo_medida": "Paro",
+            "motivo": "Frenar el loteo y venta de tierras argentinas por parte del gobierno de Milei, en el marco de la disputa con grupos económicos y corporaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-desembarco-en-cordoba-con-un-llamado-a-la-unidad-y-a-construir-una-alternativa-sindical-al-gobierno-de-milei-202673014110, https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
         },
         {
             "es_evento_relevante": true,
@@ -13780,6 +13790,16 @@
             "tipo_medida": "Jornada de lucha con movilizaciones y piquetes",
             "motivo": "Reclamo por Paz, Pan, Tierra, Techo y Trabajo contra políticas de ajuste del gobierno de Milei",
             "fuente": "https://www.infobae.com/politica/2026/07/15/movilizaciones-marcha-federal-y-piquetes-el-plan-de-lucha-de-los-movimientos-sociales-contra-el-gobierno/, https://elciudadanoweb.com/la-justicia-autoriza-el-cierre-del-programa-volver-al-trabajo-y-la-utep-anuncia-protestas/, https://www.cadena3.com/noticia/sociedad/representantes-de-ate-y-la-utep-ultimaron-detalles-de-la-movilizacion-de-san-cayetano_451038"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
+            "lugar": "Santuario de San Cayetano (Cuzco y Rivadavia) hacia Plaza de Mayo",
+            "quien": "CGT, UTEP, CTA Autónoma, CTA de los Trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "A diez años de San Cayetano, reclamar paz, pan, tierra, techo y trabajo",
+            "fuente": "https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
         },
         {
             "es_evento_relevante": true,
