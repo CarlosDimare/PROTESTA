@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30T01:58:39.127942-03:00",
+    "last_updated": "2026-07-30T04:35:38.596243-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13665,11 +13665,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "10:00",
-            "lugar": "Ministerio de Economía (Buenos Aires)",
-            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "lugar": "Ministerio de Economía, Hipólito Yrigoyen 250",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro nacional con movilización",
-            "motivo": "Reclamo por aumento salarial de emergencia, contra el vaciamiento de organismos públicos y despidos en el Estado",
-            "fuente": "https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
+            "motivo": "Reclamo de aumento salarial de emergencia, contra el vaciamiento de organismos públicos y los despidos en el Estado nacional",
+            "fuente": "https://estadodealerta.com.ar/ate-para-el-proximo-lunes-y-marcha-a-economia-por-aumento-de-emergencia-y-contra-los-despidos-en-el-estado/, https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
         },
         {
             "es_evento_relevante": true,
