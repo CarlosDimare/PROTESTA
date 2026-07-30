@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30T09:30:30.592889-03:00",
+    "last_updated": "2026-07-30T12:14:46.398829-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13664,12 +13664,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
+            "horario": "08:00",
+            "lugar": "Escuelas públicas de todo el país",
+            "quien": "Confederación de Trabajadores de la Educación (CTERA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al ajuste educativo, reclamo de reapertura de la Paritaria Nacional Docente, restitución del FONID y fondos educativos, y oposición al proyecto de Ley de Libertad Educativa",
+            "fuente": "https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
             "horario": "10:00",
             "lugar": "Ministerio de Economía, Hipólito Yrigoyen 250",
             "quien": "Asociación Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro nacional con movilización",
             "motivo": "Reclamo de aumento salarial de emergencia, contra el vaciamiento de organismos públicos y los despidos en el Estado nacional",
             "fuente": "https://estadodealerta.com.ar/ate-para-el-proximo-lunes-y-marcha-a-economia-por-aumento-de-emergencia-y-contra-los-despidos-en-el-estado/, https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "14:00",
+            "lugar": "Ministerio de Capital Humano",
+            "quien": "CTERA y sindicatos educativos de la CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra el cierre de la paritaria nacional docente, eliminación del FONID, desfinanciamiento educativo y reclamo de aumento salarial",
+            "fuente": "https://www.datagremial.com/escenario/para-frenar-el-ajuste-libertario-gremios-docentes-reactivan-protestas-y-complican-el-reinicio-del-ciclo-lectivo-20267301000, https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/"
         },
         {
             "es_evento_relevante": true,
