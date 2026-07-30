@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30T12:14:46.398829-03:00",
+    "last_updated": "2026-07-30T14:24:05.284703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13603,6 +13603,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-07-30",
+            "horario": "18:00",
+            "lugar": "Esquina de Uriburu y Grandoli",
+            "quien": "Familiares, amigos y allegados de Micaela Albornoz",
+            "tipo_medida": "Corte de calle",
+            "motivo": "Exigir aparición con vida de Micaela Albornoz y acción policial efectiva en la búsqueda",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/se-realizo-una-nueva-concentracion-pidiendo-por-la-aparicion-de-micaela-albornoz/07/2026/, https://ojodeprensa.com.ar/policiales/donde-esta-micaela-familiares-y-allegados-renovaron-el-reclamo-por-avances-en-la-investigacion/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-07-31",
             "horario": "No especificado",
             "lugar": "Ministerio de Economía",
@@ -13710,6 +13720,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al ajuste salarial y vaciamiento del Estado",
             "fuente": "https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "**13:00**",
+            "lugar": "Senado Nacional",
+            "quien": "Colectivos feministas y de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto de ley que elimina límites a la propiedad extranjera de tierras y desprotege bienes estratégicos, impactando soberanía nacional y derechos de mujeres y comunidades",
+            "fuente": "https://www.laizquierdadiario.com/Por-que-los-feminismos-rechazan-la-ley-de-Inviolabilidad-de-la-Propiedad-Privada, https://www.infobae.com/mexico/2025/09/23/colectivos-feministas-convocan-a-marcha-28s-en-cdmx-para-exigir-despenalizacion-del-aborto-donde-y-a-que-hora-sera/"
         },
         {
             "es_evento_relevante": true,
