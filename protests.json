@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30T23:31:17.902433-03:00",
+    "last_updated": "2026-07-31T03:04:27.990249-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13710,6 +13710,16 @@
             "tipo_medida": "Plan de Lanza",
             "motivo": "Reclamo de mejoras salariales y mayor financiamiento para la educación pública por crisis salarial y presupuestaria",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-activara-un-plan-de-lucha-nacional-en-el-sector-educativo-tras-el-paro-de-ctera/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR) y escuelas públicas adheridas",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR), Ctera y Amsafé",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Exigir aplicación de la Ley de Financiamiento Universitario, rechazo a la 'ley de libertad educativa', aumento de presupuesto y defensa del derecho a la educación",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-el-proximo-lunes-en-consonancia-con-la-huelga-de-ctera/"
         },
         {
             "es_evento_relevante": true,
