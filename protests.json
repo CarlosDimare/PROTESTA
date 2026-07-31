@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-31T14:31:19.360162-03:00",
+    "last_updated": "2026-07-31T16:18:42.040007-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13825,6 +13825,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma, UTEP, Territorios en Lucha (Libres del Sur y otros)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste del gobierno de Javier Milei, consigna 'Tierra, Techo y Trabajo' y defensa de derechos sociales",
+            "fuente": "https://www.infobae.com/politica/2026/07/31/movimientos-sociales-y-sindicales-preparan-la-marcha-mas-grande-de-la-decada-contra-javier-milei/, https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
             "lugar": "Santuario de San Cayetano (Cuzco y Rivadavia) hacia Plaza de Mayo",
             "quien": "CGT, UTEP, CTA Autónoma, CTA de los Trabajadores",
             "tipo_medida": "Marcha",
@@ -13840,16 +13850,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Protesta contra el endeudamiento de familias y trabajadores",
             "fuente": "https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
-            "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT, CTA y confederaciones sindicales",
-            "tipo_medida": "Movilización",
-            "motivo": "Conmemoración del Día de San Cayetano y rechazo a políticas del Gobierno nacional",
-            "fuente": "https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
         },
         {
             "es_evento_relevante": true,
