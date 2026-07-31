@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-31T18:01:36.114116-03:00",
+    "last_updated": "2026-07-31T19:05:41.073423-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13655,11 +13655,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "00:00",
-            "lugar": "Escuelas de gestión estatal a nivel nacional (especialmente CABA, Provincia de Buenos Aires, Chaco y Santiago del Estero)",
+            "lugar": "Escuelas de todo el país",
             "quien": "Confederación de Trabajadores de la Educación de la República Argentina (CTERA)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la falta de convocatoria a la Paritaria Nacional Docente y reclamo de urgente recomposición salarial, restitución del FONID, envío de fondos educativos y sanción de Ley de Financiamiento Educativo",
-            "fuente": "https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/"
+            "motivo": "Reclamos salariales, convocatoria a paritaria nacional, FONID y ley de financiamiento educativo",
+            "fuente": "https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "00:00",
+            "lugar": "Distritos de Sutebas y Ademys (sin especificación física)",
+            "quien": "CTERA, Sutebas combativos, Ademys",
+            "tipo_medida": "Paro nacional con movilizaciones",
+            "motivo": "Rechazo al ajuste educativo, defensa de salarios y sistema público contra políticas de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Lunes-3-de-agosto-paro-nacional-docente-la-fuerza-de-un-millon-de-docentes-en-defensa-de-la-escuela"
         },
         {
             "es_evento_relevante": true,
@@ -13680,16 +13690,6 @@
             "tipo_medida": "Paro y Corte",
             "motivo": "Reforma laboral del estatuto de Jorge Macri y el Ba Aprende",
             "fuente": "https://www.laizquierdadiario.com/Ademys-voto-plan-de-lucha-3-y-4-paro-docente-y-el-6-de-Agosto-paro-y-movilizacion-al-Congreso"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-03",
-            "horario": "08:00",
-            "lugar": "Escuelas públicas de todo el país",
-            "quien": "Confederación de Trabajadores de la Educación (CTERA)",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo al ajuste educativo, reclamo de reapertura de la Paritaria Nacional Docente, restitución del FONID y fondos educativos, y oposición al proyecto de Ley de Libertad Educativa",
-            "fuente": "https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
         },
         {
             "es_evento_relevante": true,
