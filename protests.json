@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-01T18:51:50.629844-03:00",
+    "last_updated": "2026-08-01T19:52:37.993354-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13820,6 +13820,16 @@
             "tipo_medida": "Jornada de lucha con movilizaciones y piquetes",
             "motivo": "Reclamo por Paz, Pan, Tierra, Techo y Trabajo contra políticas de ajuste del gobierno de Milei",
             "fuente": "https://www.infobae.com/politica/2026/07/15/movilizaciones-marcha-federal-y-piquetes-el-plan-de-lucha-de-los-movimientos-sociales-contra-el-gobierno/, https://elciudadanoweb.com/la-justicia-autoriza-el-cierre-del-programa-volver-al-trabajo-y-la-utep-anuncia-protestas/, https://www.cadena3.com/noticia/sociedad/representantes-de-ate-y-la-utep-ultimaron-detalles-de-la-movilizacion-de-san-cayetano_451038"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "09:00",
+            "lugar": "Intersección de Buenos Aires y 27 de Febrero, Rosario",
+            "quien": "CATT Regional Rosario, ATE Rosario, COAD, UOM, Sindicato de Cadetes de Rosario, CCC, UTEP, Movimiento Popular Nuestra Argentina, Sindicato de Dragado y Balizamiento de Rosario, Recolectores, Siconara, SOMU",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por empleo, salarios, defensa de la industria nacional y políticas públicas para enfrentar la crisis económica, bajo el lema \"Paz, Pan y Trabajo\"",
+            "fuente": "https://www.conclusion.com.ar/gremiales/gremios-y-organizaciones-sociales-coordinaron-con-el-arzobispado-la-marcha-de-san-cayetano/08/2026/"
         },
         {
             "es_evento_relevante": true,
