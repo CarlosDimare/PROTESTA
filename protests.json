@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-01T16:08:40.434571-03:00",
+    "last_updated": "2026-08-01T17:21:07.853083-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13655,16 +13655,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "00:00",
-            "lugar": "Escuelas de todo el país",
-            "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales, convocatoria a paritaria nacional, pago del FONID, nueva ley de financiamiento educativo y oposición a reformas jubilatorias",
-            "fuente": "https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-03",
-            "horario": "00:00",
             "lugar": "Distritos de Sutebas y Ademys (sin especificación física)",
             "quien": "CTERA, Sutebas combativos, Ademys",
             "tipo_medida": "Paro nacional con movilizaciones",
@@ -13680,6 +13670,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra ajuste educativo, falta de paritaria nacional, salario mínimo congelado y desfinanciamiento del sistema",
             "fuente": "https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "08:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a políticas del gobierno nacional por deterioro salarial, desfinanciamiento educativo y falta de convocatoria a la Paritaria Nacional Docente",
+            "fuente": "https://www.conclusion.com.ar/politica/el-gobierno-redoblo-la-apuesta-contra-el-paro-docente-del-lunes-y-anuncio-que-supervisara-a-las-escuelas/08/2026/, https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
         },
         {
             "es_evento_relevante": true,
