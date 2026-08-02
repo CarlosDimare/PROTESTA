@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02T10:16:52.048022-03:00",
+    "last_updated": "2026-08-02T12:01:39.848205-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13665,6 +13665,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "Docentes (Suteba, Ademys, Ctera)",
+            "tipo_medida": "Paro",
+            "motivo": "Contra ajuste y por salario digno",
+            "fuente": "https://www.laizquierdadiario.com/Milei-y-Pettovello-atacan-el-derecho-a-huelga-la-docencia-responde-organizando-un-paro-nacional"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "00:00",
             "lugar": "Distritos de Sutebas y Ademys (sin especificación física)",
             "quien": "CTERA, Sutebas combativos, Ademys",
             "tipo_medida": "Paro nacional con movilizaciones",
@@ -13770,6 +13780,16 @@
             "tipo_medida": "Paro",
             "motivo": "Frenar el loteo y venta de tierras argentinas por parte del gobierno de Milei, en el marco de la disputa con grupos económicos y corporaciones",
             "fuente": "https://www.datagremial.com/informacion-general/el-fresu-desembarco-en-cordoba-con-un-llamado-a-la-unidad-y-a-construir-una-alternativa-sindical-al-gobierno-de-milei-202673014110, https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-04",
+            "horario": "18:00",
+            "lugar": "Washington",
+            "quien": "Frente Sindical, CELS, SIPreBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia contra políticas laborales, límites a huelga y episodios de represión",
+            "fuente": "https://11noticias.com/gremial/el-fresu-llevo-al-estado-argentino-ante-la-cidh-y-debera-dar-explicaciones-por-la-reforma-laboral_50989, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
         },
         {
             "es_evento_relevante": true,
