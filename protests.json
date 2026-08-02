@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02T18:51:30.335919-03:00",
+    "last_updated": "2026-08-02T19:54:12.711931-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13745,6 +13745,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CTERA y gremios docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Restitución del Fondo Nacional de Incentivo Docente (FONID), incremento presupuestario para escuelas y programas, y mejoras salariales",
+            "fuente": "https://www.inforegion.com.ar/2026/08/02/paro-docente-el-gobierno-ratifico-que-las-escuelas-deberan-garantizar-el-75-del-servicio-educativo/, https://www.datagremial.com/informacion-general/el-fresu-desembarco-en-cordoba-con-un-llamado-a-la-unidad-y-a-construir-una-alternativa-sindical-al-gobierno-de-milei-202673014110, https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
             "lugar": "UNR y escuelas medias de Rosario",
             "quien": "Conadu",
             "tipo_medida": "Paro",
@@ -13770,16 +13780,6 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al ajuste presupuestario en educación, reclamo por salarios dignos, convocatoria a paritarias y defensa de la educación pública",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-paran-el-lunes-por-24-horas-en-reclamo-por-mejoras-salarial/07/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-03",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "ATE",
-            "tipo_medida": "Paro",
-            "motivo": "Frenar el loteo y venta de tierras argentinas por parte del gobierno de Milei, en el marco de la disputa con grupos económicos y corporaciones",
-            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-desembarco-en-cordoba-con-un-llamado-a-la-unidad-y-a-construir-una-alternativa-sindical-al-gobierno-de-milei-202673014110, https://www.datagremial.com/informacion-general/el-fresu-anuncio-una-movilizacion-en-defensa-de-la-ley-de-tierras-y-prepara-un-agosto-que-lo-tendra-como-protagonista-de-numerosas-actividades-202672917210"
         },
         {
             "es_evento_relevante": true,
