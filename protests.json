@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-01T23:11:22.715401-03:00",
+    "last_updated": "2026-08-02T02:55:22.645628-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13720,6 +13720,16 @@
             "tipo_medida": "Plan de Lanza",
             "motivo": "Reclamo de mejoras salariales y mayor financiamiento para la educación pública por crisis salarial y presupuestaria",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-activara-un-plan-de-lucha-nacional-en-el-sector-educativo-tras-el-paro-de-ctera/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "UNR y escuelas medias de Rosario",
+            "quien": "Conadu",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://11noticias.com/gremial/docentes-de-la-unr-paran-el-lunes-en-reclamo-por-el-financiamiento-universitario_50973"
         },
         {
             "es_evento_relevante": true,
