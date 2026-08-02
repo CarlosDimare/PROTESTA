@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02T07:32:25.894458-03:00",
+    "last_updated": "2026-08-02T09:03:26.077895-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13650,6 +13650,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a Ley de Inviolabilidad de la Propiedad Privada",
             "fuente": "https://www.anred.org/resoluciones-de-la-asamblea-en-amba-contra-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-02",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "SICONARA (Sindicato de Conductores Navales de la República Argentina)",
+            "tipo_medida": "Movilización",
+            "motivo": "Resistencia contra la reforma de la Ley de Cabotaje que permite buques extranjeros en cabotaje y reduce tripulación nacional",
+            "fuente": "https://www.datagremial.com/escenario/rechazo-sindical-a-la-reforma-de-la-ley-de-cabotaje-es-la-eliminacion-de-la-bandera-argentina-de-nuestros-rios-20267291000, https://www.datagremial.com/informacion-general/el-siconara-junto-a-gremios-maritimos-y-fluviales-encabeza-un-paro-sorpresivo-de-48-horas-en-contra-de-la-reforma-laboral-libertaria--20262188150"
         },
         {
             "es_evento_relevante": true,
