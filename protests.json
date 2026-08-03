@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T07:41:17.218111-03:00",
+    "last_updated": "2026-08-03T10:41:14.438977-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13744,6 +13744,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
+            "horario": "18:00",
+            "lugar": "Rosario, desde la intersección de Av. Rioja y Av. Moreno hasta Plaza San Martín",
+            "quien": "Gremios docentes nucleados en Amsafe y Ctera",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta por reclamos salariales docentes y aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/politica/lunes-de-huelga-la-semana-arranca-con-paro-en-las-escuelas-publicas-de-santa-fe-y-en-las-universidades/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "No especificado",
+            "lugar": "Escuelas de la provincia de Santa Fe",
+            "quien": "Sindicatos nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "No especificado",
+            "fuente": "https://elciudadanoweb.com/rige-el-paro-docente-desde-el-gobierno-provincial-senalan-que-los-establecimientos-estaran-abiertos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "CTERA y gremios docentes",
@@ -13784,12 +13804,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-04",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Ademys",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra la Ley de Inviolabilidad de la Propiedad Privada",
+            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-docente-en-que-escuelas-que-reclaman-y-como-continua"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-04",
             "horario": "18:00",
             "lugar": "Washington",
             "quien": "Frente Sindical, CELS, SIPreBA",
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra políticas laborales, límites a huelga y episodios de represión",
             "fuente": "https://11noticias.com/gremial/el-fresu-llevo-al-estado-argentino-ante-la-cidh-y-debera-dar-explicaciones-por-la-reforma-laboral_50989, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
+            "horario": "No especificado",
+            "lugar": "Sistema educativo público y dependencias estatales",
+            "quien": "CTERA y gremios adheridos (SADOP, ATE, SUTEBA, FEB, UDOCBA, AMET, CONADU Histórica)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo por paritarias nacionales, restitución del FONID, aumento de presupuesto educativo, rechazo a políticas educativas del gobierno y reformas jubilatorias",
+            "fuente": "https://www.datagremial.com/informacion-general/en-medio-de-amenazas-de-sanciones-los-gremios-docentes-cumplen-con-un-paro-en-todo-el-pais-2026839180"
         },
         {
             "es_evento_relevante": true,
