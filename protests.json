@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T10:41:14.438977-03:00",
+    "last_updated": "2026-08-03T13:26:47.513724-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13823,6 +13823,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-04",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Seccionales opositoras de sindicatos docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Reapertura de la paritaria nacional docente, reclamos salariales frente a la inflación, restitución del FONID, mayor presupuesto para infraestructura y cargos docente, rechazo a políticas de ajuste",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-movilizacion-docente-en-Congreso"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-05",
             "horario": "No especificado",
             "lugar": "Sistema educativo público y dependencias estatales",
@@ -13894,12 +13904,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
+            "horario": "18:00",
+            "lugar": "Plaza San Martín hacia Monumento Nacional a la Bandera",
+            "quien": "Plurisectorial de Organizaciones Sociales, Sindicales, Científicas, Ambientales y Vecinales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto de ley de venta de tierras extranjeras y defensa de la soberanía territorial",
+            "fuente": "https://elciudadanoweb.com/este-jueves-6-de-agosto-habra-una-marcha-en-rosario-en-rechazo-de-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "No especificado",
+            "lugar": "Santa Fe (provincia)",
+            "quien": "PTS en el Frente de Izquierda y comités por Myriam Bregman",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la ley de extranjerización de tierras",
+            "fuente": "https://www.laizquierdadiario.com/Los-comites-por-Myriam-Bregman-se-preparan-para-una-gran-movilizacion-este-6-de-agosto"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
-            "quien": "Movimiento obrero (CGT, CTA) y movimientos sociales",
+            "quien": "Organizaciones ambientales, sociales, juveniles, sindicales y de izquierda",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la soberanía territorial contra la Ley de Inviolabilidad de la Propiedad Privada",
-            "fuente": "https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
+            "motivo": "Contra la ley de extranjerización de tierras y en defensa de la propiedad popular",
+            "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
         },
         {
             "es_evento_relevante": true,
@@ -13925,6 +13955,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "10:00",
+            "lugar": "Basílica de San Cayetano (Liniers) hacia Plaza de Mayo",
+            "quien": "CGT, CTA, UTEP y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos por tierra, techo y trabajo; rechazo a políticas económicas; defensa de salarios dignos, derechos laborales y soberanía nacional",
+            "fuente": "https://www.inforegion.com.ar/2026/08/03/centrales-obreras-y-organizaciones-sociales-marchan-el-7-de-agosto/, https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo",
             "quien": "CGT, CTA de los Trabajadores, CTA Autónoma, UTEP, Territorios en Lucha (Libres del Sur y otros)",
             "tipo_medida": "Marcha",
@@ -13940,16 +13980,6 @@
             "tipo_medida": "Marcha",
             "motivo": "A diez años de San Cayetano, reclamar paz, pan, tierra, techo y trabajo",
             "fuente": "https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
-            "horario": "10:00",
-            "lugar": "Basílica de San Cayetano, Buenos Aires",
-            "quien": "CGT, CTA y movimientos sociales",
-            "tipo_medida": "Marcha",
-            "motivo": "Protesta contra el endeudamiento de familias y trabajadores",
-            "fuente": "https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
         },
         {
             "es_evento_relevante": true,
