@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T15:50:29.636290-03:00",
+    "last_updated": "2026-08-03T17:26:54.245280-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13665,11 +13665,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "00:00",
-            "lugar": "Escuelas de todo el país",
+            "lugar": "Congreso y Plaza de Mayo",
             "quien": "CTERA",
             "tipo_medida": "Paro",
-            "motivo": "Reapertura de paritaria nacional docente, restitución del FONID, actualización salarial y nueva ley de financiamiento educativo",
-            "fuente": "https://www.laizquierdadiario.com/El-Gobierno-amenaza-el-derecho-de-huelga-y-quiere-fiscalizar-el-paro-docente, https://11noticias.com/gremial/comienza-el-paro-docente-y-convocan-a-una-marcha-en-rosario_51206, https://www.infobae.com/politica/2026/08/02/se-reunio-el-consejo-federal-de-educacion-para-coordinar-controles-y-asegurar-el-75-de-clases-durante-el-paro-docente/, https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/, https://www.infobae.com/politica/2026/08/03/paro-docente-el-gobierno-va-a-controlar-las-escuelas-pero-ya-se-prepara-para-un-conflicto-con-los-sindicatos/, https://www.conclusion.com.ar/politica/el-gobierno-redoblo-la-apuesta-contra-el-paro-docente-del-lunes-y-anuncio-que-supervisara-a-las-escuelas/08/2026/, https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
+            "motivo": "Reapertura de paritaria nacional docente, aumento salarial frente a la inflación, restitución del FONID, mayor presupuesto para infraestructura y cargos docentes, rechazo a políticas de ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Contundente-paro-nacional-docente-y-movilizacion-en-Congreso, https://www.laizquierdadiario.com/El-Gobierno-amenaza-el-derecho-de-huelga-y-quiere-fiscalizar-el-paro-docente, https://11noticias.com/gremial/comienza-el-paro-docente-y-convocan-a-una-marcha-en-rosario_51206, https://www.infobae.com/politica/2026/08/02/se-reunio-el-consejo-federal-de-educacion-para-coordinar-controles-y-asegurar-el-75-de-clases-durante-el-paro-docente/, https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/, https://www.infobae.com/politica/2026/08/03/paro-docente-el-gobierno-va-a-controlar-las-escuelas-pero-ya-se-prepara-para-un-conflicto-con-los-sindicatos/, https://www.conclusion.com.ar/politica/el-gobierno-redoblo-la-apuesta-contra-el-paro-docente-del-lunes-y-anuncio-que-supervisara-a-las-escuelas/08/2026/, https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
         },
         {
             "es_evento_relevante": true,
@@ -13710,6 +13710,16 @@
             "tipo_medida": "Paro nacional con movilización",
             "motivo": "Reclamo de aumento salarial de emergencia, contra el vaciamiento de organismos públicos y los despidos en el Estado nacional",
             "fuente": "https://estadodealerta.com.ar/ate-para-el-proximo-lunes-y-marcha-a-economia-por-aumento-de-emergencia-y-contra-los-despidos-en-el-estado/, https://www.datagremial.com/informacion-general/ate-anuncia-un-paro-nacional-para-recamar-un-aumento-salarial-de-emergencia-nos-han-asaltado-202672810520, https://estadodealerta.com.ar/docentes-portenos-denuncian-estafa-laboral-de-macri-por-recortes-salariales-en-el-programa-vacaciones-en-la-escuela/, https://elciudadanoweb.com/ate-convoco-a-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://elciudadanoweb.com/organizaciones-sindicales-sociales-y-politicas-se-movilizaron-en-rechazo-a-la-visita-de-kristalina-georgieva/, https://www.infobae.com/politica/2026/07/27/ate-anuncio-un-paro-nacional-con-movilizacion-al-ministerio-de-economia-para-el-3-de-agosto/, https://www.conclusion.com.ar/gremiales/ate-confirmo-paro-nacional-para-el-3-de-agosto-por-mejoras-salariales-y-contra-los-despidos/07/2026/, https://www.inforegion.com.ar/2026/07/27/un-doble-paro-pone-en-riesgo-la-vuelta-a-clases-tras-las-vacaciones-de-invierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
+            "horario": "11:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Amsafe (Asociación del Magisterio de Santa Fe) y CTERA",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por restitución del FONID, fondos para infraestructura escolar, fortalecimiento del financiamiento educativo y convocatoria a la Paritaria Nacional Docente",
+            "fuente": "https://elciudadanoweb.com/amsafe-cruzo-a-la-provincia-por-descontar-el-dia-de-paro-disciplinan-a-quienes-defienden-los-fondos-para-santa-fe/, https://www.radioeme.com/2026/07/amsafe-inicia-su-plan-de-lucha-con-una-protesta-frente-al-teatro-municipal-y-reclama-reabrir-la-paritaria-docente/"
         },
         {
             "es_evento_relevante": true,
