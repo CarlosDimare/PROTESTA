@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T03:19:52.658059-03:00",
+    "last_updated": "2026-08-03T07:41:17.218111-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13790,6 +13790,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra políticas laborales, límites a huelga y episodios de represión",
             "fuente": "https://11noticias.com/gremial/el-fresu-llevo-al-estado-argentino-ante-la-cidh-y-debera-dar-explicaciones-por-la-reforma-laboral_50989, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Opositores a la ley de propiedad privada",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición a la ley de propiedad privada y venta de tierras a extranjeros",
+            "fuente": "https://www.infobae.com/politica/2026/08/03/se-reactiva-el-senado-audiencias-por-jueces-inicio-del-super-rigi-y-dia-d-para-una-ley-mileista/"
         },
         {
             "es_evento_relevante": true,
