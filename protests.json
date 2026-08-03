@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02T23:12:23.426554-03:00",
+    "last_updated": "2026-08-03T03:19:52.658059-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13665,11 +13665,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "00:00",
-            "lugar": "Todas las escuelas de Argentina",
+            "lugar": "Rosario",
             "quien": "CTERA",
-            "tipo_medida": "Paro",
-            "motivo": "Reapertura de paritaria nacional, aumentos salariales, restitución del Fondo Nacional de Incentivo Docente (FONID), nueva ley de financiamiento educativo, mayor inversión en infraestructura, comedores, becas, conectividad y programas socioeducativos, rechazo a reforma jubilatoria y proyecto de 'Ley de Libertad Educativa'",
-            "fuente": "https://www.infobae.com/politica/2026/08/02/se-reunio-el-consejo-federal-de-educacion-para-coordinar-controles-y-asegurar-el-75-de-clases-durante-el-paro-docente/, https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
+            "tipo_medida": "Paro con Marcha",
+            "motivo": "Convocatoria a paritaria nacional, recomposición salarial y mayor financiamiento educativo",
+            "fuente": "https://11noticias.com/gremial/comienza-el-paro-docente-y-convocan-a-una-marcha-en-rosario_51206, https://www.infobae.com/politica/2026/08/02/se-reunio-el-consejo-federal-de-educacion-para-coordinar-controles-y-asegurar-el-75-de-clases-durante-el-paro-docente/, https://www.infobae.com/politica/2026/07/29/los-docentes-anunciaron-un-plan-de-lucha-desde-el-lunes-proximo-que-medidas-incluira-ademas-de-un-paro-de-24-horas/, https://www.anred.org/docentes-neuquen-rio-negro-jujuy-misiones-y-formosa-no-iniciaron-clases-y-toma-fuerza-el-paro-nacional-del-3-8/, https://elciudadanoweb.com/los-docentes-de-amsafe-tambien-rechazaron-la-oferta-paritaria-del-gobierno-santafesino-y-anuncio-un-paro/"
         },
         {
             "es_evento_relevante": true,
@@ -13695,11 +13695,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
             "horario": "08:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
+            "lugar": "Escuelas de todo el país",
             "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a políticas del gobierno nacional por deterioro salarial, desfinanciamiento educativo y falta de convocatoria a la Paritaria Nacional Docente",
-            "fuente": "https://www.conclusion.com.ar/politica/el-gobierno-redoblo-la-apuesta-contra-el-paro-docente-del-lunes-y-anuncio-que-supervisara-a-las-escuelas/08/2026/, https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
+            "motivo": "Rechazo a no convocar Paritaria Nacional Docente y reclamo de aumento salarial con reactivación del FONID",
+            "fuente": "https://www.infobae.com/politica/2026/08/03/paro-docente-el-gobierno-va-a-controlar-las-escuelas-pero-ya-se-prepara-para-un-conflicto-con-los-sindicatos/, https://www.conclusion.com.ar/politica/el-gobierno-redoblo-la-apuesta-contra-el-paro-docente-del-lunes-y-anuncio-que-supervisara-a-las-escuelas/08/2026/, https://www.infobae.com/politica/2026/08/01/paro-docente-el-gobierno-realizara-inspecciones-en-escuelas-y-sancionara-a-los-gremios-si-no-garantizan-el-75-de-clases/, https://www.infobae.com/politica/2026/07/31/paro-docente-el-gobierno-dijo-que-los-gremios-deben-garantizar-el-75-de-actividad-por-la-reforma-laboral/, https://www.conclusion.com.ar/gremiales/las-docentes-de-todo-el-pais-lanzaron-un-paro-nacional-para-el-proximo-el-lunes-3-de-agosto/07/2026/, https://www.inforegion.com.ar/2026/07/30/primer-paro-de-agosto-para-javier-milei-ctera-confirmo-una-huelga-docente-nacional-para-el-regreso-a-clases/"
         },
         {
             "es_evento_relevante": true,
