@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T17:26:54.245280-03:00",
+    "last_updated": "2026-08-03T19:07:04.463768-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13814,6 +13814,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-04",
+            "horario": "11:00",
+            "lugar": "Jefatura de Gobierno de la Ciudad de Buenos Aires",
+            "quien": "Ademys y otros gremios docentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la reforma laboral docente (destrucción del Estatuto) y la reforma educativa secundaria (BA Aprende)",
+            "fuente": "https://www.laizquierdadiario.com/A-pesar-de-Milei-y-Macri-el-paro-docente-fue-total-sigue-el-martes-y-se-preparan-a-marchar-por-la"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-04",
             "horario": "18:00",
             "lugar": "Washington",
             "quien": "Frente Sindical, CELS, SIPreBA",
@@ -14000,6 +14010,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de los jubilados",
             "fuente": "https://www.infobae.com/politica/2026/07/23/como-fue-el-destenido-debut-del-plan-de-lucha-de-la-cgt-con-una-presencia-testimonial-en-la-calle-y-muchas-ausencias-de-dirigentes/, https://www.lanueva.com/nota/2026-7-21-10-58-0-cgt-cta-y-movimientos-sociales-marchan-manana-al-congreso-junto-a-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-31",
+            "horario": "10:00",
+            "lugar": "Palacio Pizzurno, Avda. Paseo Colón 1250, Buenos Aires",
+            "quien": "Sindicatos docentes de la CGT (UDA, CEA, FEDUN, SADOP)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales con salario inicial de 500.000 pesos por debajo de la línea de pobreza, crisis educativa y falta de financiación y reconocimiento estatal",
+            "fuente": "https://www.infobae.com/politica/2026/08/03/sindicatos-docentes-de-la-cgt-confirmaron-un-plan-de-lucha-sin-paros-que-protestas-haran-durante-todo-agosto/"
         },
         {
             "es_evento_relevante": true,
