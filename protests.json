@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04T03:35:07.156227-03:00",
+    "last_updated": "2026-08-04T06:42:13.488536-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13814,6 +13814,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-04",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Adep (Asociación de Educadores Provinciales)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al ajuste económico de Milei y Sadir, y por condiciones laborales dignas",
+            "fuente": "https://www.laizquierdadiario.com/Contundente-paro-docente-en-Jujuy-supera-el-80-de-adhesion-y-masiva-movilizacion, https://www.laizquierdadiario.com/En-vivo-movilizacion-docente-en-Congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-04",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
             "quien": "Ademys",
@@ -13840,16 +13850,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra políticas laborales, límites a huelga y episodios de represión",
             "fuente": "https://11noticias.com/gremial/el-fresu-llevo-al-estado-argentino-ante-la-cidh-y-debera-dar-explicaciones-por-la-reforma-laboral_50989, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-04",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Seccionales opositoras de sindicatos docentes",
-            "tipo_medida": "Paro",
-            "motivo": "Reapertura de la paritaria nacional docente, reclamos salariales frente a la inflación, restitución del FONID, mayor presupuesto para infraestructura y cargos docente, rechazo a políticas de ajuste",
-            "fuente": "https://www.laizquierdadiario.com/En-vivo-movilizacion-docente-en-Congreso"
         },
         {
             "es_evento_relevante": true,
