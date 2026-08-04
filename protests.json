@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04T11:22:20.620166-03:00",
+    "last_updated": "2026-08-04T13:54:50.352484-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13905,21 +13905,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
             "horario": "11:00",
-            "lugar": "Plaza San Martín",
-            "quien": "CTA Autónoma",
-            "tipo_medida": "Concentración",
-            "motivo": "Rechazo a las políticas económicas del gobierno de Javier Milei y a la reforma de la Ley de Tierras Rurales",
-            "fuente": "https://www.conclusion.com.ar/gremiales/con-marchas-actos-y-ollas-populares-gremios-y-organizaciones-sociales-protestaran-contra-el-modelo-de-milei/07/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-06",
-            "horario": "11:00",
             "lugar": "Plaza San Martín, Rosario",
-            "quien": "CTA Autónoma y ATE Rosario",
+            "quien": "CTA Autónoma",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo al proyecto de Ley de Tierras del Gobierno de Milei y defensa de la soberanía territorial",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/"
+            "motivo": "Rechazo a reforma de Ley de Tierras rurales y reclamo por salarios, trabajo y situación social",
+            "fuente": "https://www.conclusion.com.ar/gremiales/reclamo-y-fe-sindicatos-y-organizaciones-sociales-se-movilizaran-en-rosario-los-dias-6-y-7-por-salarios-empleo-y-soberania/08/2026/, https://www.conclusion.com.ar/gremiales/con-marchas-actos-y-ollas-populares-gremios-y-organizaciones-sociales-protestaran-contra-el-modelo-de-milei/07/2026/, https://www.conclusion.com.ar/gremiales/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/"
         },
         {
             "es_evento_relevante": true,
