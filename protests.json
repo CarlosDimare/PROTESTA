@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03T19:07:04.463768-03:00",
+    "last_updated": "2026-08-03T21:08:21.990903-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13724,6 +13724,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-03",
+            "horario": "12:00",
+            "lugar": "Mar del Plata",
+            "quien": "Familiares, amigas y organizaciones de mujeres y la diversidad sexual",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia por el femicidio de Mailén Antonich",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Mailen-familiares-y-organizaciones-convocan-a-marchar-este-miercoles, https://www.0223.com.ar/nota/2026-8-3-10-37-0-tras-el-femicidio-de-mailen-antonich-convocan-a-una-marcha-en-mar-del-plata"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-03",
             "horario": "14:00",
             "lugar": "Ministerio de Capital Humano",
             "quien": "CTERA y sindicatos educativos de la CGT",
@@ -13920,6 +13930,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al proyecto de ley de venta de tierras extranjeras y defensa de la soberanía territorial",
             "fuente": "https://elciudadanoweb.com/este-jueves-6-de-agosto-habra-una-marcha-en-rosario-en-rechazo-de-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Agrupación Marrón Docente - Tucumán (Corriente Nacional 9 de Abril)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la Ley de Extranjerización de Tierras y justicia por Carolina Monteros, bajo la consigna 'Nuestros cuerpos y nuestra tierra no son territorio de conquista'",
+            "fuente": "https://www.laizquierdadiario.com/Tucuman-el-paro-nacional-docente-tuvo-acatamiento-total-en-las-escuelas"
         },
         {
             "es_evento_relevante": true,
