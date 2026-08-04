@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04T17:25:53.495452-03:00",
+    "last_updated": "2026-08-04T19:11:43.617611-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13854,6 +13854,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-05",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT y las dos CTA (Autónoma y de los Trabajadores)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la Ley de Inviolabilidad de la Propiedad Privada y reclamo por \"Paz, Pan, Tierra, Techo y Trabajo\"",
+            "fuente": "https://www.conclusion.com.ar/politica/unidad-obrera-contra-la-entrega-del-pais-la-cgt-y-las-cta-marchan-contra-la-ley-de-tierras-y-advierten-sobre-un-paro-nacional/08/2026/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
             "horario": "No especificado",
             "lugar": "Frente a la Gobernación de la Provincia de Buenos Aires, La Plata",
             "quien": "Trabajadoras despedidas del Astillero Río Santiago con apoyo de Juventud del PTS",
@@ -13894,22 +13904,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
-            "horario": "10:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Frente de organizaciones sociales, ambientales, territoriales y sindicales",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la Ley de Inviolabilidad de la Propiedad Privida y oposición a la eliminación de límites a la compra de tierras por parte de extranjeros",
-            "fuente": "https://elciudadanoweb.com/crece-la-convocatoria-contra-la-reforma-de-la-ley-de-tierras-que-impulsa-milei-organizaciones-marcharan-al-congreso/, https://www.anred.org/con-una-agenda-de-acciones-se-prepara-la-movilizacion-del-6-de-agosto-contra-la-extranjerizacion-de-las-tierras/, https://www.conclusion.com.ar/politica/crece-la-convocatoria-a-la-marcha-al-congreso-contra-la-extranjerizacion-de-las-tierras/07/2026/, https://www.laizquierdadiario.com/Extranjerizacion-de-la-tierra-incendios-desalojos-expres-convocan-a-coordinar-el-25J-para-rodear-el, https://www.clarin.com/politica/cgt-vuelve-desafiar-gobierno-marcha-congreso-reforma-laboral_0_BfQ7k6BApv.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-06",
             "horario": "11:00",
             "lugar": "Plaza San Martín, Rosario",
             "quien": "CTA Autónoma",
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a reforma de Ley de Tierras rurales y reclamo por salarios, trabajo y situación social",
             "fuente": "https://www.conclusion.com.ar/gremiales/reclamo-y-fe-sindicatos-y-organizaciones-sociales-se-movilizaran-en-rosario-los-dias-6-y-7-por-salarios-empleo-y-soberania/08/2026/, https://www.conclusion.com.ar/gremiales/con-marchas-actos-y-ollas-populares-gremios-y-organizaciones-sociales-protestaran-contra-el-modelo-de-milei/07/2026/, https://www.conclusion.com.ar/gremiales/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "17:00",
+            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
+            "quien": "Organizaciones sociales, políticas, ambientalistas y colectivos artísticos",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la Ley de Inviolabilidad de la Propiedad Privada (extranjerización de tierras), desalojos y ajuste de Milei",
+            "fuente": "https://www.laizquierdadiario.com/A-las-calles-contra-la-Ley-de-extranjerizacion-de-tierras-mira-los-horarios-y-ciudades-donde-se, https://elciudadanoweb.com/crece-la-convocatoria-contra-la-reforma-de-la-ley-de-tierras-que-impulsa-milei-organizaciones-marcharan-al-congreso/, https://www.anred.org/con-una-agenda-de-acciones-se-prepara-la-movilizacion-del-6-de-agosto-contra-la-extranjerizacion-de-las-tierras/, https://www.conclusion.com.ar/politica/crece-la-convocatoria-a-la-marcha-al-congreso-contra-la-extranjerizacion-de-las-tierras/07/2026/, https://www.laizquierdadiario.com/Extranjerizacion-de-la-tierra-incendios-desalojos-expres-convocan-a-coordinar-el-25J-para-rodear-el, https://www.clarin.com/politica/cgt-vuelve-desafiar-gobierno-marcha-congreso-reforma-laboral_0_BfQ7k6BApv.html"
         },
         {
             "es_evento_relevante": true,
