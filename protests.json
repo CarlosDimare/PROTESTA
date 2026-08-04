@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04T09:11:17.302905-03:00",
+    "last_updated": "2026-08-04T11:22:20.620166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13855,6 +13855,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-05",
             "horario": "No especificado",
+            "lugar": "Frente a la Gobernación de la Provincia de Buenos Aires, La Plata",
+            "quien": "Trabajadoras despedidas del Astillero Río Santiago con apoyo de Juventud del PTS",
+            "tipo_medida": "Acampe",
+            "motivo": "Reincorporación de Verónica Giraldi y Victoria Lago al Astillero Río Santiago y denuncia de despidos discriminatorios por violencia de género",
+            "fuente": "https://www.laizquierdadiario.com/Acampe-en-Gobernacion-por-la-reincorporacion-de-Vero-y-Vicky-al-Astillero-Rio-Santiago"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
+            "horario": "No especificado",
             "lugar": "Sistema educativo público y dependencias estatales",
             "quien": "CTERA y gremios adheridos (SADOP, ATE, SUTEBA, FEB, UDOCBA, AMET, CONADU Histórica)",
             "tipo_medida": "Paro nacional",
@@ -14040,6 +14050,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de los jubilados",
             "fuente": "https://www.infobae.com/politica/2026/07/23/como-fue-el-destenido-debut-del-plan-de-lucha-de-la-cgt-con-una-presencia-testimonial-en-la-calle-y-muchas-ausencias-de-dirigentes/, https://www.lanueva.com/nota/2026-7-21-10-58-0-cgt-cta-y-movimientos-sociales-marchan-manana-al-congreso-junto-a-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-11",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "ATE",
+            "tipo_medida": "Marcha",
+            "motivo": "Aumento de emergencia y contra los despidos en el Estado",
+            "fuente": "https://estadodealerta.com.ar/pese-a-las-amenazas-de-sanciones-el-paro-docente-del-lunes-tuvo-un-alto-acatamiento-mas-en-provincia-que-en-caba/"
         },
         {
             "es_evento_relevante": true,
