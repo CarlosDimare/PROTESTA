@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-04T01:09:00.171682-03:00",
+    "last_updated": "2026-08-04T03:35:07.156227-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13960,6 +13960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la ley de extranjerización de tierras y en defensa de la propiedad popular",
             "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "08:00",
+            "lugar": "Basílica de San Cayetano (avenidas Cuzco y Rivadavia) a Plaza de Mayo",
+            "quien": "UTEP, CGT, CTA de los Trabajadores, CTA Autónoma y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el desmantelamiento de políticas para sectores vulnerables, eliminación del Volver al Trabajo, cortes de comedores y avance contra derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
