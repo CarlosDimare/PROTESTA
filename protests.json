@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T05:32:27.895974-03:00",
+    "last_updated": "2026-08-05T08:22:17.989611-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13850,6 +13850,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia contra políticas laborales, límites a huelga y episodios de represión",
             "fuente": "https://11noticias.com/gremial/el-fresu-llevo-al-estado-argentino-ante-la-cidh-y-debera-dar-explicaciones-por-la-reforma-laboral_50989, https://www.clarin.com/informacion-general/paro-nacional-universitario-17-octubre-hora-protesta-tenes-saber_0_gZoKFjOXw6.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
+            "horario": "00:00",
+            "lugar": "Puertos del país (Hidrovía, ríos, pasos y canales)",
+            "quien": "Practicaje y pilotaje del sector marítimo-fluvial",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Oposición al Decreto 690/2026 que reestructura el sistema de navegación y elimina regulaciones vigentes desde 1991",
+            "fuente": "https://www.conclusion.com.ar/gremiales/prefectura-naval-intimo-a-los-trabajadores-a-levantar-el-paro-que-freno-la-actividad-de-mas-de-100-barcos/08/2026/"
         },
         {
             "es_evento_relevante": true,
