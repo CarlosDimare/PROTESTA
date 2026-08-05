@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T18:06:22.197484-03:00",
+    "last_updated": "2026-08-05T19:20:40.463167-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13860,6 +13860,16 @@
             "tipo_medida": "Paro por tiempo indeterminado",
             "motivo": "Oposición al Decreto 690/2026 que reestructura el sistema de navegación y elimina regulaciones vigentes desde 1991",
             "fuente": "https://www.conclusion.com.ar/gremiales/prefectura-naval-intimo-a-los-trabajadores-a-levantar-el-paro-que-freno-la-actividad-de-mas-de-100-barcos/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-05",
+            "horario": "12:00",
+            "lugar": "Plaza del Congreso, Ciudad de Buenos Aires",
+            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma, UTEP, ATE, FEDUN, FATUN",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el proyecto de ley de venta de tierras a extranjeros, denunciando \"extranjerización\" y \"colonialismo\"",
+            "fuente": "https://www.infobae.com/politica/2026/08/05/a-pesar-de-que-no-se-tratara-la-venta-de-tierras-a-extranjeros-los-gremios-ratificaron-la-marcha-de-este-jueves-al-congreso/"
         },
         {
             "es_evento_relevante": true,
