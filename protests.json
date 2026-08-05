@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T13:04:00.768037-03:00",
+    "last_updated": "2026-08-05T14:33:16.374784-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13985,6 +13985,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
             "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Artistas y colectivos sociales liderados por Lali Espósito",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la modificación de la Ley de Tierras y defensa de la soberanía territorial y recursos naturales",
+            "fuente": "https://www.infobae.com/teleshow/2026/08/05/la-patria-no-se-vende-el-reclamo-del-publico-en-el-show-de-rosalia-y-la-reaccion-de-la-cantante/, https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "No especificado",
             "lugar": "Todo el país",
             "quien": "Agrupación Marrón Docente - Tucumán (Corriente Nacional 9 de Abril)",
             "tipo_medida": "Movilización",
@@ -14000,16 +14010,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra la ley de extranjerización de tierras",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-por-Myriam-Bregman-se-preparan-para-una-gran-movilizacion-este-6-de-agosto"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-06",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Organizaciones ambientales, sociales, juveniles, sindicales y de izquierda",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la ley de extranjerización de tierras y en defensa de la propiedad popular",
-            "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
         },
         {
             "es_evento_relevante": true,
