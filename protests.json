@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T08:22:17.989611-03:00",
+    "last_updated": "2026-08-05T10:57:57.158763-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13920,6 +13920,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a reforma de Ley de Tierras rurales y reclamo por salarios, trabajo y situación social",
             "fuente": "https://www.conclusion.com.ar/gremiales/reclamo-y-fe-sindicatos-y-organizaciones-sociales-se-movilizaran-en-rosario-los-dias-6-y-7-por-salarios-empleo-y-soberania/08/2026/, https://www.conclusion.com.ar/gremiales/con-marchas-actos-y-ollas-populares-gremios-y-organizaciones-sociales-protestaran-contra-el-modelo-de-milei/07/2026/, https://www.conclusion.com.ar/gremiales/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "17:00",
+            "lugar": "Paraguay 1135",
+            "quien": "Luz y Fuerza, Sadop, Bancarios y Correo",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la aprobación del proyecto que facilita la entrega de recursos naturales y profundiza el endeudamiento del país",
+            "fuente": "https://11noticias.com/gremial/la-intersindical-rosario-realizara-un-acto-en-luz-y-fuerza-contra-la-ley-de-extranjerizacion-de-tierras_51295"
         },
         {
             "es_evento_relevante": true,
