@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T10:57:57.158763-03:00",
+    "last_updated": "2026-08-05T13:04:00.768037-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13924,6 +13924,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
+            "horario": "12:00",
+            "lugar": "Frente al Congreso de la Nación (punto de encuentro: Solís e Yrigoyen)",
+            "quien": "Tres centrales obreras, movimientos sociales, FEDUN y FATUN",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la ley de extranjerización de tierras y defensa de soberanía nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-y-fatun-se-suman-a-la-marcha-contra-la-ley-de-tierras-basta-de-entrega-de-nuestra-patria-2026859400"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
             "horario": "17:00",
             "lugar": "Paraguay 1135",
             "quien": "Luz y Fuerza, Sadop, Bancarios y Correo",
@@ -14006,10 +14016,10 @@
             "fecha": "2026-08-07",
             "horario": "08:00",
             "lugar": "Basílica de San Cayetano (avenidas Cuzco y Rivadavia) a Plaza de Mayo",
-            "quien": "UTEP, CGT, CTA de los Trabajadores, CTA Autónoma y organizaciones sociales",
+            "quien": "CGT, CTA Autónoma, CTA de los Trabajadores, UTEP y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el desmantelamiento de políticas para sectores vulnerables, eliminación del Volver al Trabajo, cortes de comedores y avance contra derechos laborales",
-            "fuente": "https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra la motosierra y por tierra, techo y trabajo",
+            "fuente": "https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
