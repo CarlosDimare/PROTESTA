@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06T08:19:53.836003-03:00",
+    "last_updated": "2026-08-06T10:55:18.576335-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13940,6 +13940,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a reforma de Ley de Tierras rurales y reclamo por salarios, trabajo y situación social",
             "fuente": "https://www.conclusion.com.ar/gremiales/reclamo-y-fe-sindicatos-y-organizaciones-sociales-se-movilizaran-en-rosario-los-dias-6-y-7-por-salarios-empleo-y-soberania/08/2026/, https://www.conclusion.com.ar/gremiales/con-marchas-actos-y-ollas-populares-gremios-y-organizaciones-sociales-protestaran-contra-el-modelo-de-milei/07/2026/, https://www.conclusion.com.ar/gremiales/la-cta-autonoma-y-organizaciones-gremiales-y-sociales-convocan-a-una-gran-protesta-en-rosario-contra-la-reforma-de-la-ley-de-tierras/07/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "12:00",
+            "lugar": "Congreso de la Nación (Plaza del Congreso)",
+            "quien": "Coalición de sindicatos, movimientos sociales y partidos de izquierda (UTEP, FIT Unidad - MST, MST, PO, PTS, CGT, peronismo bonaerense, agrupaciones piqueteras)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al proyecto 'Ley de Inviolabilidad de la Propiedad Privada' por considerar que ataca derechos de inquilinos, comunidades originarias y facilita desalojos, pese a la retirada del capítulo de tierras",
+            "fuente": "https://www.infobae.com/sociedad/2026/08/06/marcha-contra-la-ley-de-propiedad-privada-en-congreso-en-vivo-ultimas-noticias-noticias-de-hoy-6-de-agosto/"
         },
         {
             "es_evento_relevante": true,
