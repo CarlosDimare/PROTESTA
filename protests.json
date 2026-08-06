@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T19:20:40.463167-03:00",
+    "last_updated": "2026-08-05T21:04:01.472622-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14120,6 +14120,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Aumento de emergencia y contra los despidos en el Estado",
             "fuente": "https://estadodealerta.com.ar/pese-a-las-amenazas-de-sanciones-el-paro-docente-del-lunes-tuvo-un-alto-acatamiento-mas-en-provincia-que-en-caba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "17:00",
+            "lugar": "No especificado",
+            "quien": "Gremios y federaciones del sistema universitario argentino",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimientos del Gobierno Nacional: Ley de Financiamiento Universitario, salarios/becas y fondos para hospitales universitarios",
+            "fuente": "https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
         },
         {
             "es_evento_relevante": true,
