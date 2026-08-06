@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06T02:17:21.427483-03:00",
+    "last_updated": "2026-08-06T05:30:07.135669-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13945,6 +13945,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
             "horario": "12:00",
+            "lugar": "Plaza Congreso, Ciudad Autónoma de Buenos Aires",
+            "quien": "UTEP, agrupaciones piqueteras, peronismo bonaerense, fuerzas de izquierda, dos CTA y CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a modificaciones de la Ley de Tierras y proyecto de inviolabilidad de propiedad privada impulsado por el Gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/08/06/el-mapa-de-cortes-por-la-movilizacion-al-congreso-contra-la-modificacion-a-la-ley-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "12:00",
             "lugar": "Congreso de la Nación (concentración previa en Sáenz Peña y Avenida de Mayo)",
             "quien": "CGT, Frente de Sindicatos Unidos (FreSU), AGTSyP, ATE",
             "tipo_medida": "Marcha",
@@ -14085,11 +14095,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "10:00",
-            "lugar": "Basílica de San Cayetano (Liniers) hacia Plaza de Mayo",
-            "quien": "CGT, CTA, UTEP y movimientos sociales",
+            "lugar": "Iglesia de San Cayetano (barrio de Liniers) hasta Plaza de Mayo",
+            "quien": "CGT, CTA y UTEP",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamos por tierra, techo y trabajo; rechazo a políticas económicas; defensa de salarios dignos, derechos laborales y soberanía nacional",
-            "fuente": "https://www.inforegion.com.ar/2026/08/03/centrales-obreras-y-organizaciones-sociales-marchan-el-7-de-agosto/, https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
+            "motivo": "Día del patrono del pan y del trabajo, en defensa de la soberanía nacional",
+            "fuente": "https://www.infobae.com/politica/2026/08/06/la-cgt-reduce-su-presencia-en-la-marcha-contra-la-ley-de-tierras-y-priorizara-una-fuerte-movilizacion-por-san-cayetano/, https://www.inforegion.com.ar/2026/08/03/centrales-obreras-y-organizaciones-sociales-marchan-el-7-de-agosto/, https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
         },
         {
             "es_evento_relevante": true,
