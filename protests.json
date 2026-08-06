@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-05T21:04:01.472622-03:00",
+    "last_updated": "2026-08-05T23:02:52.469666-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13920,6 +13920,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al proyecto de ley que elimina límites a la propiedad extranjera de tierras y desprotege bienes estratégicos, impactando soberanía nacional y derechos de mujeres y comunidades",
             "fuente": "https://www.laizquierdadiario.com/Por-que-los-feminismos-rechazan-la-ley-de-Inviolabilidad-de-la-Propiedad-Privada, https://www.infobae.com/mexico/2025/09/23/colectivos-feministas-convocan-a-marcha-28s-en-cdmx-para-exigir-despenalizacion-del-aborto-donde-y-a-que-hora-sera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "11:00",
+            "lugar": "frente a la Gobernación (La Plata)",
+            "quien": "Trabajadoras despedidas y organizaciones solidarias del Astillero Río Santiago",
+            "tipo_medida": "Conferencia de prensa",
+            "motivo": "Denunciar represión policial y exigir reincorporación de trabajadoras despedidas",
+            "fuente": "https://www.laizquierdadiario.com/La-Plata-el-gobierno-de-Kicillof-envio-la-Infanteria-contra-el-acampe-de-las-trabajadoras-del-ARS"
         },
         {
             "es_evento_relevante": true,
