@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06T10:55:18.576335-03:00",
+    "last_updated": "2026-08-06T21:45:48.184647-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14095,11 +14095,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "09:00",
+            "lugar": "Plaza Libertad, Rosario",
+            "quien": "Gremios de la Confederación Argentina de Trabajadores del Transporte (CATT) y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Visibilizar la situación de trabajadores y desocupados, bajo consignas de paz, pan, tierra, techo y trabajo",
+            "fuente": "https://elciudadanoweb.com/san-cayetano-en-rosario-cronograma-de-misas-procesion-y-marcha-por-pan-y-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "09:00",
             "lugar": "Intersección de Buenos Aires y 27 de Febrero, Rosario",
             "quien": "CATT Regional Rosario, ATE Rosario, COAD, UOM, Sindicato de Cadetes de Rosario, CCC, UTEP, Movimiento Popular Nuestra Argentina, Sindicato de Dragado y Balizamiento de Rosario, Recolectores, Siconara, SOMU",
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por empleo, salarios, defensa de la industria nacional y políticas públicas para enfrentar la crisis económica, bajo el lema \"Paz, Pan y Trabajo\"",
             "fuente": "https://www.conclusion.com.ar/gremiales/gremios-y-organizaciones-sociales-coordinaron-con-el-arzobispado-la-marcha-de-san-cayetano/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
+            "lugar": "Santuario de San Cayetano (Liniers), recorriendo Av. Rivadavia hasta Plaza de Mayo",
+            "quien": "CGT, CTA y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por Tierra, Techo y Trabajo",
+            "fuente": "https://www.inforegion.com.ar/2026/08/06/san-cayetano-miles-de-fieles-celebraran-al-patrono-del-pan-y-el-trabajo-con-misas-y-una-marcha-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
@@ -14166,10 +14186,20 @@
             "fecha": "2026-08-12",
             "horario": "17:00",
             "lugar": "No especificado",
-            "quien": "Gremios y federaciones del sistema universitario argentino",
+            "quien": "Gremios y federaciones del sistema universitario",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimientos del Gobierno Nacional: Ley de Financiamiento Universitario, salarios/becas y fondos para hospitales universitarios",
-            "fuente": "https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
+            "motivo": "Rechazo a incumplimientos paritarios y crisis del sistema universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Frente Sindical de Universidades Nacionales (integrado por FEDUN, FATUN y otros gremios universitarios)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y el acta del 10 de junio, ante el incumplimiento judicial y gubernamental",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
         },
         {
             "es_evento_relevante": true,
