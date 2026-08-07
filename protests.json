@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T15:52:40.499486-03:00",
+    "last_updated": "2026-08-07T16:52:53.638004-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14040,6 +14040,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al proyecto de ley de venta de tierras extranjeras y defensa de la soberanía territorial",
             "fuente": "https://elciudadanoweb.com/este-jueves-6-de-agosto-habra-una-marcha-en-rosario-en-rechazo-de-la-ley-de-extranjerizacion-de-tierras/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "No especificado",
+            "lugar": "San Miguel de Tucumán",
+            "quien": "Comités en apoyo a Myriam Bregman (Tafí Viejo y San Miguel de Tucumán)",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia para Carolina Monteros, contra la Ley de Inviolabilidad/Extranjerización de la Tierra y reclamo contra impunidad de poderosos",
+            "fuente": "https://www.laizquierdadiario.com/El-reclamo-de-justicia-por-Carolina-Monteros-se-hace-sentir-distintos-puntos-de-Tucuman"
         },
         {
             "es_evento_relevante": true,
