@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-06T21:45:48.184647-03:00",
+    "last_updated": "2026-08-07T00:53:32.741402-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14170,6 +14170,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de los jubilados",
             "fuente": "https://www.infobae.com/politica/2026/07/23/como-fue-el-destenido-debut-del-plan-de-lucha-de-la-cgt-con-una-presencia-testimonial-en-la-calle-y-muchas-ausencias-de-dirigentes/, https://www.lanueva.com/nota/2026-7-21-10-58-0-cgt-cta-y-movimientos-sociales-marchan-manana-al-congreso-junto-a-los-jubilados"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "18:00",
+            "lugar": "Plaza San Martín (concentración) y Monumento a la Bandera (destino de la marcha), Rosario",
+            "quien": "Colectivos opositores al proyecto de ley",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la reforma de expropiaciones y desalojos acelerados",
+            "fuente": "https://elciudadanoweb.com/se-marcha-igual-el-proyecto-oficial-ya-no-incluye-extranjerizacion-pero-si-desalojos-expres-y-permiso-para-incendiar-campos/"
         },
         {
             "es_evento_relevante": true,
