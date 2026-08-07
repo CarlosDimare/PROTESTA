@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T19:33:20.170915-03:00",
+    "last_updated": "2026-08-07T20:32:45.164632-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14100,6 +14100,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Visibilizar malestar laboral y desempleo, reclamar trabajo digno bajo las banderas de paz, pan, tierra, techo y trabajo",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-conmemora-a-san-cayetano-habra-misas-marchas-ollas-populares-y-cortes-de-transito/08/2026/, https://www.conclusion.com.ar/la-ciudad/rosario-celebra-a-san-cayetano-habra-misas-marchas-ollas-populares-y-cortes-de-transito/08/2026/, https://elciudadanoweb.com/san-cayetano-en-rosario-cronograma-de-misas-procesion-y-marcha-por-pan-y-trabajo/, https://www.conclusion.com.ar/gremiales/gremios-y-organizaciones-sociales-coordinaron-con-el-arzobispado-la-marcha-de-san-cayetano/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
+            "lugar": "Municipalidad de La Plata",
+            "quien": "Trabajadoras de la Secretaría de Mujeres y Diversidad de la Municipalidad de La Plata",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia por falta de pago de concepto 'riesgo de calle', salarios de pobreza, precarización laboral y exigencia de pase a planta permanente y recategorización",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadoras-de-la-Secretaria-de-Mujeres-y-Diversidad-denuncian-recortes-salariales-y-ajuste, https://www.laizquierdadiario.com/La-Plata-Berisso-y-Ensenada"
         },
         {
             "es_evento_relevante": true,
