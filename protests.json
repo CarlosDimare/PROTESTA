@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T11:20:01.805833-03:00",
+    "last_updated": "2026-08-07T12:56:19.517746-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14130,6 +14130,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de los derechos jubilatorios, recuperación del poder adquisitivo y mejoras en prestaciones de PAMI y planes de Argentina Trabaja",
             "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-adelanto-que-el-plan-de-lucha-de-las-centrales-obreras-puede-terminar-en-una-gran-marcha-federal-20267279440, https://www.eldiarioar.com/politica/calle-reacciona-veto-milei-jubilados-marchan-congreso-cgt-suma-caminata-liniers-plaza-mayo-san-cayetano_1_12513683.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "12:00",
+            "lugar": "Monumento Nacional a la Bandera",
+            "quien": "Gremios, movimientos populares y agrupaciones políticas",
+            "tipo_medida": "Marcha",
+            "motivo": "Continuidad de programas de empleo, incremento urgente del salario mínimo y restitución de ayuda alimentaria para comedores y ollas populares",
+            "fuente": "https://elciudadanoweb.com/san-cayetano-organizaciones-sociales-y-gremiales-piden-en-rosario-por-paz-pan-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
