@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T00:53:32.741402-03:00",
+    "last_updated": "2026-08-07T02:36:21.788708-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14075,11 +14075,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "08:00",
-            "lugar": "Basílica de San Cayetano (avenidas Cuzco y Rivadavia) a Plaza de Mayo",
-            "quien": "CGT, CTA Autónoma, CTA de los Trabajadores, UTEP y movimientos sociales",
+            "lugar": "Basílica de San Cayetano (avenidas Cuzco y Rivadavia, Liniers)",
+            "quien": "UTEP, CGT, CTA de los Trabajadores y CTA Autónoma",
             "tipo_medida": "Marcha",
-            "motivo": "Contra la motosierra y por tierra, techo y trabajo",
-            "fuente": "https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra la eliminación del Salario Social Complementario y el cierre del programa Volver al Trabajo, reclamo por trabajo digno y derechos sagrados (Tierra, Techo y Trabajo)",
+            "fuente": "https://www.infobae.com/politica/2026/08/07/el-mapa-de-cortes-por-la-marcha-de-san-cayetano-hacia-plaza-de-mayo-encabezada-por-movimientos-sociales-y-sindicatos/, https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
         },
         {
             "es_evento_relevante": true,
@@ -14144,16 +14144,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
-            "horario": "10:00",
-            "lugar": "Santuario de San Cayetano (Cuzco y Rivadavia) hacia Plaza de Mayo",
-            "quien": "CGT, UTEP, CTA Autónoma, CTA de los Trabajadores",
-            "tipo_medida": "Marcha",
-            "motivo": "A diez años de San Cayetano, reclamar paz, pan, tierra, techo y trabajo",
-            "fuente": "https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
             "horario": "11:30",
             "lugar": "San Cayetano",
             "quien": "Jubilados con adhesión de la CGT",
@@ -14183,6 +14173,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "19:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "PTS y aliados de la izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Oponerse a la media sanción de la ley de Milei y exigir paro nacional",
+            "fuente": "https://www.laizquierdadiario.com/Del-Cano-Tenemos-que-preparar-una-movilizacion-mas-grande-para-organizar-la-bronca-de-millones, https://www.clarin.com/politica/protesta-piquetera-marcha-apoyo-javier-milei-escenario-plaza-congreso-hora-discurso-presidencial_0_5RRWYXxfmN.html"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-11",
             "horario": "No especificado",
             "lugar": "Ministerio de Economía de la Nación",
@@ -14194,12 +14194,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
-            "horario": "17:00",
+            "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Gremios y federaciones del sistema universitario",
+            "quien": "FEDUN, FATUN y Frente Sindical de Universidades Nacionales",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a incumplimientos paritarios y crisis del sistema universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y acta del 10/06, contra el ajuste",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-y-otros-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380, https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
         },
         {
             "es_evento_relevante": true,
