@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T04:11:15.530879-03:00",
+    "last_updated": "2026-08-07T05:56:37.589187-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14246,10 +14246,10 @@
             "fecha": "No especificado",
             "horario": "**08:00**",
             "lugar": "No especificado",
-            "quien": "PTS-Frente de Izquierda",
-            "tipo_medida": "Huelga general",
-            "motivo": "Rechazo al gobierno de Milei, defensa de las Islas Malvinas, oposición a la ley de extranjerización de la tierra y desalojos",
-            "fuente": "https://www.laizquierdadiario.com/Bregman-Milei-y-su-banda-no-pueden-seguir-entregando-todo-huelga-general-hasta-derrotarlo, https://motoreconomico.com.ar/entrevista-a-baldemar-velasquez-activista-sindical-estadounidensehay-que-parar-la-caceria-de-seres-humanos/, https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
+            "quien": "Sindicato de Empleados de Comercio de Mar del Plata y Zona Atlántica (SECZA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el pago inmediato del 60% restante de salarios adeudados por la cadena de supermercados Toledo",
+            "fuente": "https://www.datagremial.com/informacion-general/vuelve-el-incumplimiento-en-toledo-la-cadena-pago-solo-el-40-de-los-salarios-y-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20268620430, https://www.laizquierdadiario.com/Bregman-Milei-y-su-banda-no-pueden-seguir-entregando-todo-huelga-general-hasta-derrotarlo, https://motoreconomico.com.ar/entrevista-a-baldemar-velasquez-activista-sindical-estadounidensehay-que-parar-la-caceria-de-seres-humanos/, https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
         },
         {
             "es_evento_relevante": true,
