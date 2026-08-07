@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T14:47:24.795340-03:00",
+    "last_updated": "2026-08-07T15:52:40.499486-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14105,16 +14105,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "10:00",
-            "lugar": "Iglesia de San Cayetano (barrio de Liniers) hasta Plaza de Mayo",
-            "quien": "CGT, CTA y UTEP",
-            "tipo_medida": "Marcha",
-            "motivo": "Día del patrono del pan y del trabajo, en defensa de la soberanía nacional",
-            "fuente": "https://www.infobae.com/politica/2026/08/06/la-cgt-reduce-su-presencia-en-la-marcha-contra-la-ley-de-tierras-y-priorizara-una-fuerte-movilizacion-por-san-cayetano/, https://www.inforegion.com.ar/2026/08/03/centrales-obreras-y-organizaciones-sociales-marchan-el-7-de-agosto/, https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
-            "horario": "10:00",
             "lugar": "Plaza de Mayo",
             "quien": "CGT, CTA de los Trabajadores, CTA Autónoma, UTEP, Territorios en Lucha (Libres del Sur y otros)",
             "tipo_medida": "Marcha",
@@ -14130,6 +14120,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de los derechos jubilatorios, recuperación del poder adquisitivo y mejoras en prestaciones de PAMI y planes de Argentina Trabaja",
             "fuente": "https://www.datagremial.com/informacion-general/jorge-sola-adelanto-que-el-plan-de-lucha-de-las-centrales-obreras-puede-terminar-en-una-gran-marcha-federal-20267279440, https://www.eldiarioar.com/politica/calle-reacciona-veto-milei-jubilados-marchan-congreso-cgt-suma-caminata-liniers-plaza-mayo-san-cayetano_1_12513683.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "12:00",
+            "lugar": "Templo de San Cayetano, Liniers, Buenos Aires",
+            "quien": "CGT, CTAs y UTEP",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a represión policial y proyecto de Ley de Tierras",
+            "fuente": "https://estadodealerta.com.ar/represion-a-la-marcha-contra-la-extranjerizacion-de-tierras-sigue-internada-la-fotorreportera-agredida/, https://www.infobae.com/politica/2026/08/06/la-cgt-reduce-su-presencia-en-la-marcha-contra-la-ley-de-tierras-y-priorizara-una-fuerte-movilizacion-por-san-cayetano/, https://www.inforegion.com.ar/2026/08/03/centrales-obreras-y-organizaciones-sociales-marchan-el-7-de-agosto/, https://www.conclusion.com.ar/politica/sola-respaldo-la-marcha-de-jubilados-y-pidio-mesas-de-dialogo-por-poder-adquisitivo-empleo-y-seguridad-social/07/2026/, https://www.datagremial.com/informacion-general/hugo-yasky-confirmo-que-las-centrales-obreras-van-a-un-plan-de-lucha-la-idea-es-construir-un-paro-que-sea-comunitario-202671015110, https://www.tiemposur.com.ar/info-general/la-cgt-las-cta-y-los-movimientos-sociales-se-unen-en-una-masiva-marcha"
         },
         {
             "es_evento_relevante": true,
