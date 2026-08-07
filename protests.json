@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T07:52:09.980935-03:00",
+    "last_updated": "2026-08-07T08:48:46.827265-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14075,16 +14075,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "08:00",
-            "lugar": "Basílica de San Cayetano (avenidas Cuzco y Rivadavia, Liniers)",
-            "quien": "UTEP, CGT, CTA de los Trabajadores y CTA Autónoma",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra la eliminación del Salario Social Complementario y el cierre del programa Volver al Trabajo, reclamo por trabajo digno y derechos sagrados (Tierra, Techo y Trabajo)",
-            "fuente": "https://www.infobae.com/politica/2026/08/07/el-mapa-de-cortes-por-la-marcha-de-san-cayetano-hacia-plaza-de-mayo-encabezada-por-movimientos-sociales-y-sindicatos/, https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
-            "horario": "08:00",
             "lugar": "No especificado",
             "quien": "UTEP, CGT, CTA y sectores afectados",
             "tipo_medida": "Jornada de lucha con movilizaciones y piquetes",
@@ -14095,11 +14085,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "09:00",
-            "lugar": "Plaza Libertad, Rosario",
-            "quien": "Gremios de la Confederación Argentina de Trabajadores del Transporte (CATT) y organizaciones sociales",
-            "tipo_medida": "Movilización",
-            "motivo": "Visibilizar la situación de trabajadores y desocupados, bajo consignas de paz, pan, tierra, techo y trabajo",
-            "fuente": "https://elciudadanoweb.com/san-cayetano-en-rosario-cronograma-de-misas-procesion-y-marcha-por-pan-y-trabajo/"
+            "lugar": "Esquina Buenos Aires y 27 de Febrero, Rosario",
+            "quien": "Gremios nucleados en la Confederación Argentina de Trabajadores del Transporte (CATT) y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Visibilizar el malestar de trabajadores y desocupados, reclamar trabajo digno y condiciones laborales",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-celebra-a-san-cayetano-habra-misas-marchas-ollas-populares-y-cortes-de-transito/08/2026/, https://elciudadanoweb.com/san-cayetano-en-rosario-cronograma-de-misas-procesion-y-marcha-por-pan-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
@@ -14180,6 +14170,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oponerse a la media sanción de la ley de Milei y exigir paro nacional",
             "fuente": "https://www.laizquierdadiario.com/Del-Cano-Tenemos-que-preparar-una-movilizacion-mas-grande-para-organizar-la-bronca-de-millones, https://www.clarin.com/politica/protesta-piquetera-marcha-apoyo-javier-milei-escenario-plaza-congreso-hora-discurso-presidencial_0_5RRWYXxfmN.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "Por la tarde",
+            "lugar": "Desde el santuario de San Cayetano (Cuzco 150, Liniers) hasta Plaza de Mayo",
+            "quien": "UTEP, CGT, CTA de los Trabajadores y CTA Autónoma",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por derechos sagrados (Paz, Pan, Tierra, Techo y Trabajo) y respuesta a crisis económica y social",
+            "fuente": "https://www.infobae.com/sociedad/2026/08/07/san-cayetano-en-vivo-las-ultimas-noticias-de-la-marcha-y-peregrinacion-hoy-7-de-agosto/, https://www.infobae.com/politica/2026/08/07/el-mapa-de-cortes-por-la-marcha-de-san-cayetano-hacia-plaza-de-mayo-encabezada-por-movimientos-sociales-y-sindicatos/, https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
         },
         {
             "es_evento_relevante": true,
