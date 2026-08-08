@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-08T19:25:24.177073-03:00",
+    "last_updated": "2026-08-08T20:24:13.201590-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14220,6 +14220,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Aumento de emergencia y contra los despidos en el Estado",
             "fuente": "https://estadodealerta.com.ar/pese-a-las-amenazas-de-sanciones-el-paro-docente-del-lunes-tuvo-un-alto-acatamiento-mas-en-provincia-que-en-caba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "FATUN y APUR",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de sentencias judiciales y Ley de Financiamiento Universitario, afectando recomposiciones salariales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-no-habra-actividad-en-la-unr-por-paro-de-no-docentes/08/2026/"
         },
         {
             "es_evento_relevante": true,
