@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-08T02:41:35.913896-03:00",
+    "last_updated": "2026-08-08T03:44:19.725076-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14275,11 +14275,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "**08:00**",
-            "lugar": "No especificado",
-            "quien": "Organizaciones ambientales, campesinas, indígenas, sindicales, políticas, sociales, culturales y de derechos humanos",
-            "tipo_medida": "Movilización",
-            "motivo": "Impedir la aprobación definitiva de la Ley de Inviolabilidad de la Propiedad Privada en la Cámara de Diputados",
-            "fuente": "https://www.anred.org/el-senado-dio-media-sancion-a-la-ley-de-milei-pero-la-movilizacion-anticipa-una-nueva-batalla-en-diputados/, https://www.datagremial.com/informacion-general/vuelve-el-incumplimiento-en-toledo-la-cadena-pago-solo-el-40-de-los-salarios-y-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20268620430, https://www.laizquierdadiario.com/Bregman-Milei-y-su-banda-no-pueden-seguir-entregando-todo-huelga-general-hasta-derrotarlo, https://motoreconomico.com.ar/entrevista-a-baldemar-velasquez-activista-sindical-estadounidensehay-que-parar-la-caceria-de-seres-humanos/, https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/"
+            "lugar": "Nivel nacional",
+            "quien": "CGT, CTA y movimientos sociales",
+            "tipo_medida": "Marcha nacional",
+            "motivo": "Falta de empleo, pérdida del poder adquisitivo y empeoramiento de la situación familiar",
+            "fuente": "https://www.conclusion.com.ar/politica/jorge-sola-destaco-el-impacto-de-la-protesta-frente-al-congreso-y-repudio-la-represion-en-las-calles/08/2026/, https://www.anred.org/el-senado-dio-media-sancion-a-la-ley-de-milei-pero-la-movilizacion-anticipa-una-nueva-batalla-en-diputados/, https://www.datagremial.com/informacion-general/vuelve-el-incumplimiento-en-toledo-la-cadena-pago-solo-el-40-de-los-salarios-y-el-secza-se-declaro-en-estado-de-alerta-y-movilizacion-20268620430, https://www.laizquierdadiario.com/Bregman-Milei-y-su-banda-no-pueden-seguir-entregando-todo-huelga-general-hasta-derrotarlo, https://motoreconomico.com.ar/entrevista-a-baldemar-velasquez-activista-sindical-estadounidensehay-que-parar-la-caceria-de-seres-humanos/, https://www.conclusion.com.ar/gremiales/la-cgt-coordina-acciones-para-escalar-protestas-contra-la-politica-economica-de-milei-se-evaluan-paros-sectoriales-y-movilizar-al-banco-central/07/2026/, https://www.datagremial.com/informacion-general/las-dos-cta-suman-a-los-movimientos-sociales-a-su-plan-de-lucha-y-su-futura-marcha-federal-20267710380, https://www.infobae.com/politica/2025/07/30/paz-pan-tierra-techo-y-trabajo-el-reclamo-de-los-movimientos-sociales-y-la-cgt-que-realizaran-contra-el-gobierno-el-7-de-agosto/, https://www.datagremial.com/informacion-general/la-calle-vuelve-a-hablar-las-centrales-sindicales-marcharon-por-los-jubilados-y-empujan-un-paro-nacional-202672217130, https://www.datadiario.com/sociedad/para-frenar-el-ajuste-del-gobierno-de-milei-la-cgt-las-cta-y-movimientos-sociales-marchan-este-miercoles-junto-a-los-jubilados-2026722940"
         },
         {
             "es_evento_relevante": true,
@@ -14370,16 +14370,6 @@
             "tipo_medida": "Paro general",
             "motivo": "Rechazo a la Reforma Laboral que afecta derechos laborales",
             "fuente": "https://elciudadanoweb.com/claudio-vidal-de-sindicalista-combativo-a-gobernador-aliad/, https://www.laizquierdadiario.com/Reforma-laboral-y-paro-nacional-con-Chipi-Castillo-y-Pato-del-Corro, https://www.infobae.com/politica/2026/02/17/reforma-laboral-el-gobierno-define-que-cambios-hara-con-las-licencias-medicas-y-el-proyecto-volveria-al-senado/, https://estadodealerta.com.ar/el-frente-sindical-universitario-repudia-la-reforma-laboral-exige-paritarias-urgentes-y-anticipa-conflictos/, https://www.laizquierdadiario.com/Del-Cano-Los-delincuentes-son-los-que-roban-en-Discapacidad-hay-que-convocar-un-gran-paro-nacional, https://elciudadanoweb.com/la-marcha-antifascista-antirracista-y-antiimperialista-interpelo-a-la-cgt-basta-de-paros-domingueros/, https://www.laizquierdadiario.com/Las-CTA-convocaran-a-paro-cuando-se-trate-la-reforma, https://www.laizquierdadiario.com/El-congreso-de-CICOP-voto-Paro-y-Movilizacion-contra-la-reforma-laboral, https://elciudadanoweb.com/el-soepu-participo-de-la-mesa-sindical-contra-la-reforma-laboral-y-respaldo-el-plan-nacional-de-lucha/, https://www.anred.org/represion-a-huelga-de-estibadores-en-concepcion-del-uruguay/, https://www.datagremial.com/informacion-general/para-hugo-yasky-la-reforma-laboral-busca-disciplinar-a-los-trabajadores-y-destruir-el-movimiento-sindical--202612711490, https://www.laizquierdadiario.com/UnTER-rechaza-la-reforma-laboral-y-exige-a-las-centrales-sindicales-un-Paro-Nacional, https://estadodealerta.com.ar/el-barrionuevismo-fijo-agenda-politica-y-sindical-con-representantes-de-kicillof-y-llaryora-en-su-clasico-encuentro-de-mar-del-plata/, https://www.datagremial.com/escenario/lo-peor-todavia-no-paso-2-300-empleos-en-riesgo-al-inicio-de-2026-por-planes-de-recorte-de-varias-empresas-202612015350, https://www.inforegion.com.ar/2026/01/20/ate-y-aceiteros-endurecen-su-postura-contra-la-reforma-laboral-y-anticipan-paro-y-movilizacion/, https://www.laizquierdadiario.com/Aceiteros-adelanta-que-convocara-a-una-huelga-nacional-cuando-se-trate-la-reforma-laboral, https://www.infobae.com/politica/2025/11/13/dos-sindicatos-anunciaron-paros-contra-la-reforma-laboral-pese-a-que-su-contenido-aun-no-se-conoce-en-forma-oficial/, https://www.laizquierdadiario.com/Solidaridad-con-Lustramax-el-apoyo-de-delegaciones-de-La-Bancaria-y-CTA-Autonoma-en-el-acampe-de, https://elmegafono.net/27773/2025/12/11/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "15:00",
-            "lugar": "Nivel nacional",
-            "quien": "CTA, CGT y movimientos sociales",
-            "tipo_medida": "Paro",
-            "motivo": "Defensa de jubilaciones dignas y contra políticas económicas del gobierno de Milei",
-            "fuente": "https://www.datagremial.com/informacion-general/la-calle-vuelve-a-hablar-las-centrales-sindicales-marcharon-por-los-jubilados-y-empujan-un-paro-nacional-202672217130, https://www.datadiario.com/sociedad/para-frenar-el-ajuste-del-gobierno-de-milei-la-cgt-las-cta-y-movimientos-sociales-marchan-este-miercoles-junto-a-los-jubilados-2026722940"
         },
         {
             "es_evento_relevante": true,
