@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-07T20:32:45.164632-03:00",
+    "last_updated": "2026-08-07T22:12:36.286470-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13924,6 +13924,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
+            "horario": "10:00",
+            "lugar": "Plaza Grigera, Lomas de Zamora",
+            "quien": "SUTEBA Multicolor, Agrupación Marrón, docentes independientes y estudiantes",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al ajuste de Milei, política salarial y educativa de Kicillof, defensa de la educación pública y restitución del FONID",
+            "fuente": "https://www.laizquierdadiario.com/Con-acciones-la-Multicolor-profundizo-el-paro-docente-y-prepara-la-continuidad-del-plan-de-lucha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
             "horario": "11:00",
             "lugar": "frente a la Gobernación (La Plata)",
             "quien": "Trabajadoras despedidas y organizaciones solidarias del Astillero Río Santiago",
@@ -14105,6 +14115,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-07",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la tierra y puestos de trabajo",
+            "fuente": "https://www.infobae.com/politica/2026/08/07/pablo-moyano-se-refirio-al-episodio-de-su-hermano-facundo-con-candela-arizaga-hace-rato-que-no-hablo/, https://www.infobae.com/politica/2026/07/31/movimientos-sociales-y-sindicales-preparan-la-marcha-mas-grande-de-la-decada-contra-javier-milei/, https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-07",
+            "horario": "10:00",
             "lugar": "Municipalidad de La Plata",
             "quien": "Trabajadoras de la Secretaría de Mujeres y Diversidad de la Municipalidad de La Plata",
             "tipo_medida": "Movilización",
@@ -14120,16 +14140,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por Tierra, Techo y Trabajo",
             "fuente": "https://www.inforegion.com.ar/2026/08/06/san-cayetano-miles-de-fieles-celebraran-al-patrono-del-pan-y-el-trabajo-con-misas-y-una-marcha-a-plaza-de-mayo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-07",
-            "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma, UTEP, Territorios en Lucha (Libres del Sur y otros)",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas de ajuste del gobierno de Javier Milei, consigna 'Tierra, Techo y Trabajo' y defensa de derechos sociales",
-            "fuente": "https://www.infobae.com/politica/2026/07/31/movimientos-sociales-y-sindicales-preparan-la-marcha-mas-grande-de-la-decada-contra-javier-milei/, https://www.infobae.com/politica/2026/07/22/protestas-de-la-cgt-en-vivo-las-ultimas-noticias-sobre-los-cortes-y-acciones-hoy-22-de-julio/"
         },
         {
             "es_evento_relevante": true,
