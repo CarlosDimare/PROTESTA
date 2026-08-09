@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-09T02:01:35.056626-03:00",
+    "last_updated": "2026-08-09T02:51:43.513619-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14435,6 +14435,16 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Movilización popular",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la ley de inviolabilidad de la propiedad privada por atentar contra inquilinos y fábricas recuperadas",
+            "fuente": "https://www.laizquierdadiario.com/Una-gran-derrota-politica-de-Milei-vamos-por-mas-con-la-huelga-general, https://www.infobae.com/politica/2026/02/16/ate-realizara-un-paro-con-movilizacion-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
             "lugar": "En todo el país",
             "quien": "Asociación Obrera Textil (AOT)",
             "tipo_medida": "Movilización",
@@ -14480,16 +14490,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la reforma laboral de Milei y apoyo a trabajadores del neumático en lucha por salarios y fábricas",
             "fuente": "https://prensaobrera.com/sindicales/las-batallas-del-movimiento-obrero-de-cordoba-por-el-salario-y-contra-la-reforma-laboral"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "ATE y frente sindical",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Rechazo a reforma laboral por considerarla lesiva para trabajadores",
-            "fuente": "https://www.infobae.com/politica/2026/02/16/ate-realizara-un-paro-con-movilizacion-el-dia-que-se-trate-la-reforma-laboral-en-diputados/"
         },
         {
             "es_evento_relevante": true,
