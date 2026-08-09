@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-09T14:28:05.675206-03:00",
+    "last_updated": "2026-08-09T15:36:31.198765-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14210,6 +14210,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por derechos sagrados (Paz, Pan, Tierra, Techo y Trabajo) y respuesta a crisis económica y social",
             "fuente": "https://www.infobae.com/sociedad/2026/08/07/san-cayetano-en-vivo-las-ultimas-noticias-de-la-marcha-y-peregrinacion-hoy-7-de-agosto/, https://www.infobae.com/politica/2026/08/07/el-mapa-de-cortes-por-la-marcha-de-san-cayetano-hacia-plaza-de-mayo-encabezada-por-movimientos-sociales-y-sindicatos/, https://www.inforegion.com.ar/2026/08/05/crece-el-malestar-social-el-reclamo-toma-las-calles/, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://estadodealerta.com.ar/en-un-mes-cargado-de-reclamos-politicos-sociales-y-gremiales-la-cgt-y-las-dos-cta-se-suman-a-la-marcha-de-san-cayetano/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-10",
+            "horario": "10:00",
+            "lugar": "Plaza Leandro Alem, Condarco 2300, entre Ramón Cabrero y Domingo Purita, Monte Chingolo, Lanús",
+            "quien": "Familiares, allegados y vecinos de Nahuel Godoy",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de justicia por el asesinato de Nahuel Godoy y reclamo contra la violencia e impunidad",
+            "fuente": "https://www.inforegion.com.ar/2026/08/09/lanus-convocan-a-una-marcha-para-pedir-justicia-por-nahuel-godoy-el-nene-de-12-anos-asesinado-por-su-padre/"
         },
         {
             "es_evento_relevante": true,
