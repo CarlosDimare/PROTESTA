@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-10T12:59:16.408034-03:00",
+    "last_updated": "2026-08-10T13:50:50.970809-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14260,6 +14260,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
             "fuente": "https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-13",
+            "horario": "18:00",
+            "lugar": "Facultad de Ciencias Sociales de la UBA (Santiago del Estero 1029, CABA), Aula 402",
+            "quien": "Frente de Izquierda/PTS/FIT (referentes como Myriam Bregman)",
+            "tipo_medida": "Reunión preparatoria",
+            "motivo": "Preparar una gran movilización nacional ('Marcha de la bronca') contra el proyecto de Ley de Inviolabilidad de la Propiedad Privada y el gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Convocan-este-jueves-a-una-reunion-para-preparar-una-gran-Marcha-de-la-bronca-contra-Milei"
         },
         {
             "es_evento_relevante": true,
