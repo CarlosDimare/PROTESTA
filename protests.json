@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-10T18:39:55.606828-03:00",
+    "last_updated": "2026-08-10T19:33:46.477548-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14220,6 +14220,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigencia de justicia por el asesinato de Nahuel Godoy y reclamo contra la violencia e impunidad",
             "fuente": "https://www.inforegion.com.ar/2026/08/09/lanus-convocan-a-una-marcha-para-pedir-justicia-por-nahuel-godoy-el-nene-de-12-anos-asesinado-por-su-padre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-10",
+            "horario": "12:15",
+            "lugar": "Nación Servicios - Sede Rosario (calle Santa Fe al 1300)",
+            "quien": "La Bancaria - Seccional Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Reincorporación inmediata de dos trabajadores despedidos sin causa y protesta contra despidos arbitrarios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/despidieron-a-dos-trabajadores-de-nacion-servicios-y-la-bancaria-se-declaro-en-alerta-y-movilizacion/08/2026/, https://www.versionrosario.com.ar/la-bancaria-realiza-asambleas-en-rosario-por-despidos-en-banco-supervielle/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-10",
+            "horario": "14:00",
+            "lugar": "Calle Santa Fe 1300, Rosario",
+            "quien": "Asociación Bancaria seccional Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Reincorporación inmediata de trabajadores despedidos en Nación Servicios y rechazo a despidos arbitrarios",
+            "fuente": "https://elciudadanoweb.com/nacion-servicios-la-bancaria-denuncio-nuevos-despidos-y-se-declaro-en-estado-de-alerta-y-movilizacion/"
         },
         {
             "es_evento_relevante": true,
