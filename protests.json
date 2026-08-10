@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-10T14:48:47.183571-03:00",
+    "last_updated": "2026-08-10T15:49:32.481408-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14250,6 +14250,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y acta del 10/06, contra el ajuste",
             "fuente": "https://www.datagremial.com/informacion-general/fedun-y-otros-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380, https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "16:00",
+            "lugar": "Obelisco de Buenos Aires y localidades de todo el país",
+            "quien": "Comunidad científica (UBA, CONICET e instituciones)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la ciencia, educación y soberanía nacional",
+            "fuente": "https://www.conclusion.com.ar/politica/cientificos-de-todo-el-pais-convocaron-a-una-movilizacion-federal-este-miercoles-ponete-la-camiseta-en-defensa-de-nuestra-soberania/08/2026/"
         },
         {
             "es_evento_relevante": true,
