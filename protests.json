@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-10T17:38:08.671603-03:00",
+    "last_updated": "2026-08-10T18:39:55.606828-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14225,6 +14225,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-11",
             "horario": "No especificado",
+            "lugar": "Inmediaciones de las plantas de Mirgor en Río Grande, Tierra del Fuego",
+            "quien": "Trabajadores despedidos y delegados gremiales del grupo Mirgor",
+            "tipo_medida": "Piquete/Corte",
+            "motivo": "Reclamo por el pago de un premio no abonado desde marzo y rechazo a la reducción salarial del 30% y despidos",
+            "fuente": "https://www.datagremial.com/informacion-general/denuncian-que-mirgor-de-la-familia-caputo-despidio-a-300-trabajadores-incluidos-28-delegados-en-una-respuesta-caprichosa-al-reclamo-de-un-premio-202681017120"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-11",
+            "horario": "No especificado",
             "lugar": "Ministerio de Economía de la Nación",
             "quien": "ATE",
             "tipo_medida": "Marcha",
@@ -14290,6 +14300,16 @@
             "tipo_medida": "Movilización cultural",
             "motivo": "Festival 'Peña permanente' para compartir arte, cultura y construir comunidad como espacio revolucionario",
             "fuente": "https://www.laizquierdadiario.com/Digamos-Todo-el-comite-de-Merlo-y-Moreno-la-movilizacion-del-6-de-agosto-y-las-perspectivas-para-la"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-18",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicatos docentes y no docentes (Fatun, Conadu Histórica)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamos por recomposición salarial, pago de deuda del 28,5%, cumplimiento de Ley de Financiamiento Universitario y transferencia de fondos para universidades",
+            "fuente": "https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
         },
         {
             "es_evento_relevante": true,
