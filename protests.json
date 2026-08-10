@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-10T11:21:46.983337-03:00",
+    "last_updated": "2026-08-10T12:59:16.408034-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14260,6 +14260,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
             "fuente": "https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-15",
+            "horario": "No especificado",
+            "lugar": "Casa socialista de Merlo",
+            "quien": "Comité de Merlo y Moreno",
+            "tipo_medida": "Movilización cultural",
+            "motivo": "Festival 'Peña permanente' para compartir arte, cultura y construir comunidad como espacio revolucionario",
+            "fuente": "https://www.laizquierdadiario.com/Digamos-Todo-el-comite-de-Merlo-y-Moreno-la-movilizacion-del-6-de-agosto-y-las-perspectivas-para-la"
         },
         {
             "es_evento_relevante": true,
