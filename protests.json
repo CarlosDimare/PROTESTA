@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T17:41:46.626965-03:00",
+    "last_updated": "2026-08-11T18:45:09.307664-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14450,6 +14450,16 @@
             "tipo_medida": "Marcha federal y paro nacional",
             "motivo": "Rechazo a la Ley de Modernización Laboral, despidos, crisis de obras sociales y persecución sindical",
             "fuente": "https://estadodealerta.com.ar/la-cgt-define-plan-de-lucha-convocando-a-regionales-de-todo-el-pais-con-marchas-federales-y-paros-nacionales/, https://www.laizquierdadiario.com/Golpe-al-Gobierno-la-Corte-dejo-firme-el-fallo-por-la-Ley-de-Financiamiento-Universitario, https://www.datagremial.com/informacion-general/con-durisimas-criticas-al-gobierno-de-milei-y-fuertes-reivindicaciones-al-sindicalismo-argentino-la-itf-cerro-su-encuentro-ferroviario-mundial--202661619340, https://www.inforegion.com.ar/2026/06/08/medicos-de-cabecera-del-pami-inician-un-paro-de-72-horas/, https://misionescuatro.com/politica/la-itf-apoya-el-paro-del-transporte-en-el-feriado-del-1o-de-mayo/, https://www.datagremial.com/informacion-general/cristian-jeronimo-nunca-se-descarta-un-paro-general-como-medida-concreta-de-respuesta--20266420280"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por condiciones laborales, oposición a políticas de ajuste del gobierno de Milei y defensa de derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
         },
         {
             "es_evento_relevante": true,
