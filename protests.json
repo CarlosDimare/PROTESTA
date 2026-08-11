@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T14:59:15.628020-03:00",
+    "last_updated": "2026-08-11T15:58:57.153318-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14330,6 +14330,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra desalojos exprés, límites a expropiaciones en Ley de Inviolabilidad de Propiedad Privada y políticas habitacionales del GCBA",
             "fuente": "https://www.anred.org/tras-el-retroceso-del-gobierno-convocan-a-organizar-una-nueva-marcha-contra-la-ley-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas nacionales",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación total de Ley 27.795, recomposición salarial y respuesta a convocatoria paritaria del 1° de septiembre",
+            "fuente": "https://www.datagremial.com/paritarias/nodocentes-universitarios-la-fatun-ratifico-el-paro-de-manana-y-advierte-que-habra-una-huelga-de-48-horas-a-fin-de-mes-si-no-hay-respuestas-del-gobierno-202681115110"
         },
         {
             "es_evento_relevante": true,
