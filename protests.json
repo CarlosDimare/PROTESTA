@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T07:48:48.093513-03:00",
+    "last_updated": "2026-08-11T08:43:47.606934-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14240,6 +14240,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reincorporación inmediata de trabajadores despedidos en Nación Servicios y rechazo a despidos arbitrarios",
             "fuente": "https://elciudadanoweb.com/nacion-servicios-la-bancaria-denuncio-nuevos-despidos-y-se-declaro-en-estado-de-alerta-y-movilizacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-11",
+            "horario": "05:30",
+            "lugar": "Plantas de Grupo Mirgor en Río Grande (calle Einstein Nº 1.111 y calle Islas Malvinas Nº 3.091)",
+            "quien": "Unión Obrera Metalúrgica (UOM) Seccional Río Grande",
+            "tipo_medida": "Paro",
+            "motivo": "Represalias por reclamo de premio salarial histórico y despidos masivos",
+            "fuente": "https://www.anred.org/crisis-y-persecucion-sindical-en-tierra-del-fuego-300-despidos-en-mirgor/"
         },
         {
             "es_evento_relevante": true,
