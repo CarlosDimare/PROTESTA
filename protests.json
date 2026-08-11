@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T13:02:29.881827-03:00",
+    "last_updated": "2026-08-11T13:55:47.770940-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14300,6 +14300,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de sentencias judiciales y Ley de Financiamiento Universitario, afectando recomposiciones salariales",
             "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-no-habra-actividad-en-la-unr-por-paro-de-no-docentes/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "16:00",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN) y Acción Federal por la Ciencia y la Educación",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de universidades nacionales y sistema científico ante recortes del gobierno",
+            "fuente": "https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/"
         },
         {
             "es_evento_relevante": true,
