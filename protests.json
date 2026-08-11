@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T11:25:48.867764-03:00",
+    "last_updated": "2026-08-11T13:02:29.881827-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14255,6 +14255,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-11",
             "horario": "No especificado",
+            "lugar": "Provincia de Salta",
+            "quien": "Asociación Judicial Salta (AJS)",
+            "tipo_medida": "Asambleas",
+            "motivo": "Definir cómo continuar el reclamo salarial tras considerar insuficiente la propuesta de la Corte de Justicia",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-con-paros-y-asambleas-continua-el-plan-de-lucha-de-gremios-de-la-fja-en-varias-provincias-202681110300"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-11",
+            "horario": "No especificado",
             "lugar": "Inmediaciones de las plantas de Mirgor en Río Grande, Tierra del Fuego",
             "quien": "Trabajadores despedidos y delegados gremiales del grupo Mirgor",
             "tipo_medida": "Piquete/Corte",
@@ -14275,21 +14285,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "00:00",
-            "lugar": "Universidad Nacional de Rosario",
-            "quien": "FATUN y APUR",
+            "lugar": "No especificado",
+            "quien": "FEDUN, FAGDUT y FATUN",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de sentencias judiciales y Ley de Financiamiento Universitario, afectando recomposiciones salariales",
-            "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-no-habra-actividad-en-la-unr-por-paro-de-no-docentes/08/2026/"
+            "motivo": "Aplicación integral de Ley 27.795 de Financiamiento Universitario, reclamos por recomposición salarial, becas estudiantiles y fondos para hospitales universitarios",
+            "fuente": "https://www.infobae.com/politica/2026/08/11/el-ministerio-de-capital-humano-ratifico-los-pagos-al-sistema-universitario-en-medio-del-paro-convocado-para-manana/, https://www.conclusion.com.ar/gremiales/los-docentes-de-la-universidad-tecnologica-nacional-realizaran-un-paro-total-de-actividades-este-miercoles/08/2026/, https://www.datagremial.com/informacion-general/fedun-y-otros-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380, https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "FEDUN, FATUN y Frente Sindical de Universidades Nacionales",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "FATUN y APUR",
             "tipo_medida": "Paro",
-            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario y acta del 10/06, contra el ajuste",
-            "fuente": "https://www.datagremial.com/informacion-general/fedun-y-otros-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380, https://www.inforegion.com.ar/2026/08/06/el-gobierno-tildo-de-prematuro-el-paro-de-docentes-universitarios-y-afirmo-que-cumplio-con-el-acuerdo/, https://www.infobae.com/politica/2026/08/05/los-universitarios-reclaman-que-no-se-cumplio-con-el-financiamiento-y-anunciaron-un-nuevo-paro-nacional/, https://www.eldestapeweb.com/sociedad/marcha-federal-universitaria-el-minuto-a-minuto-de-la-protesta-20265128047"
+            "motivo": "Incumplimiento de sentencias judiciales y Ley de Financiamiento Universitario, afectando recomposiciones salariales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-miercoles-no-habra-actividad-en-la-unr-por-paro-de-no-docentes/08/2026/"
         },
         {
             "es_evento_relevante": true,
