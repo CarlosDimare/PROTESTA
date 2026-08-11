@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T09:55:20.564523-03:00",
+    "last_updated": "2026-08-11T11:25:48.867764-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14304,12 +14304,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
+            "horario": "17:00",
+            "lugar": "Parque Lezama, Defensa y Martín García (CABA)",
+            "quien": "Coordinadora Contra los Desalojos y por la Vivienda Digna y el Hábitat",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra desalojos exprés, límites a expropiaciones en Ley de Inviolabilidad de Propiedad Privada y políticas habitacionales del GCBA",
+            "fuente": "https://www.anred.org/tras-el-retroceso-del-gobierno-convocan-a-organizar-una-nueva-marcha-contra-la-ley-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
             "horario": "No especificado",
             "lugar": "Todo el país",
             "quien": "FEDUN (Federación de Docentes de las Universidades)",
             "tipo_medida": "Paro",
             "motivo": "Exigencia de cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
             "fuente": "https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "Todo el día",
+            "lugar": "Universidades nacionales de Argentina",
+            "quien": "Frente Sindical de Universidades Nacionales (con apoyo de CGT a través de UDA)",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento pleno de la Ley de Financiamiento Universitario, mejoras salariales acorde a la inflación, actualización de becas Progresar y Manuel Belgrano, transferencia de incrementos para gastos de funcionamiento y recursos para hospitales universitarios.",
+            "fuente": "https://www.datagremial.com/paritarias/el-gobierno-adelanta-la-paritaria-universitaria-pero-los-gremios-confirman-el-paro-de-esta-semana-20268119430"
         },
         {
             "es_evento_relevante": true,
