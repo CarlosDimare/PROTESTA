@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-11T18:45:09.307664-03:00",
+    "last_updated": "2026-08-11T19:37:35.424141-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14250,6 +14250,16 @@
             "tipo_medida": "Paro",
             "motivo": "Represalias por reclamo de premio salarial histórico y despidos masivos",
             "fuente": "https://www.anred.org/crisis-y-persecucion-sindical-en-tierra-del-fuego-300-despidos-en-mirgor/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-11",
+            "horario": "10:00",
+            "lugar": "Calle Santa Fe al 1300, Rosario",
+            "quien": "La Asociación Bancaria seccional Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Reincorporación inmediata de trabajadores despedidos en Nación Servicios",
+            "fuente": "https://elciudadanoweb.com/fuerte-respaldo-de-la-intersindical-a-la-bancaria-rosario-por-los-despidos-en-nacion-servicios/"
         },
         {
             "es_evento_relevante": true,
