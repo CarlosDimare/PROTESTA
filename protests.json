@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T09:58:27.996804-03:00",
+    "last_updated": "2026-08-12T11:22:04.760840-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14325,6 +14325,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "15:00",
+            "lugar": "Acampe frente a Casa de Gobierno (Ushuaia), Acampe en Delegación del Ministerio de Educación (Tolhuin), Acampe en Ministerio de Educación (Río Grande)",
+            "quien": "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamo por salario mínimo vital, cese de descuentos persecutorios, Ley de Financiamiento Educativo y plan de desendeudamiento familiar",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-10-dias-de-paro-docente-exige-un-salario-de-3-millones-para-cubrir-la-canasta"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "15:00",
             "lugar": "Tierra del Fuego, Argentina",
             "quien": "SUTEF",
             "tipo_medida": "Paro",
@@ -14335,11 +14345,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "16:00",
-            "lugar": "Obelisco, Ciudad de Buenos Aires",
-            "quien": "FEDUN y FATUN",
-            "tipo_medida": "Paro",
-            "motivo": "Exigir el cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
-            "fuente": "https://www.inforegion.com.ar/2026/08/12/nuevo-paro-en-las-universidades-publicas-por-financiamiento/, https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/, https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Gremios universitarios (ADUBA, CONADU) y Cabildo Abierto por la Educación",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la ciencia, tecnología y universidades nacionales; reclamo salarial contra despidos; y exigencia de cumplimiento de la Ley de Financiamiento Universitario y fallos judiciales",
+            "fuente": "https://www.anred.org/12-de-agosto-los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/, https://www.inforegion.com.ar/2026/08/12/nuevo-paro-en-las-universidades-publicas-por-financiamiento/, https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/, https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
         },
         {
             "es_evento_relevante": true,
@@ -14400,6 +14410,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamación por aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de fondos para becas y hospitales universitarios",
             "fuente": "https://elciudadanoweb.com/universitarios-reclaman-la-aplicacion-de-la-ley-de-financiamiento-y-comienzan-un-nuevo-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-13",
+            "horario": "16:00",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Trabajadores de ciencia y tecnología y universidades nacionales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por recorte presupuestario, paralización de proyectos estratégicos y pérdida de empleos científicos",
+            "fuente": "https://www.inforegion.com.ar/2026/08/12/jornada-de-protesta-en-defensa-del-sistema-cientifico-y-universitario/"
         },
         {
             "es_evento_relevante": true,
