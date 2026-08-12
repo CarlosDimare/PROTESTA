@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T11:22:04.760840-03:00",
+    "last_updated": "2026-08-12T12:57:43.632997-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14470,6 +14470,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar medidas urgentes frente al creciente sobreendeudamiento que afecta a trabajadores y familias en todo el país",
             "fuente": "https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "00:00",
+            "lugar": "No especificado (paro nacional)",
+            "quien": "CONADU",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por financiamiento universitario, cumplimiento de Ley de Financiamiento Universitario, actualización salarial y partida extraordinaria para hospitales universitarios, en rechazo a políticas de desfinanciamiento y despidos",
+            "fuente": "https://estadodealerta.com.ar/con-paro-nacional-y-movilizacion-al-obelisco-los-gremios-universitarios-vuelven-a-reclamar-contra-el-ajuste/"
         },
         {
             "es_evento_relevante": true,
