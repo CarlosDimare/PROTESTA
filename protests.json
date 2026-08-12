@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T08:46:18.784893-03:00",
+    "last_updated": "2026-08-12T09:58:27.996804-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14365,6 +14365,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "No especificado",
+            "lugar": "Facultad de Ciencias Sociales (UBA)",
+            "quien": "Trabajadores de GPS y delegados sindicales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por reincorporación de Luciano Corradi y denuncia de despido antisindical",
+            "fuente": "https://www.laizquierdadiario.com/Denuncian-despido-persecutorio-y-antisindical-de-un-delegado-de-GPS-tercerizada-de-Aerolineas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "No especificado",
             "lugar": "Universidades públicas nacionales",
             "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
             "tipo_medida": "Paro",
@@ -14414,12 +14424,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-18",
-            "horario": "No especificado",
+            "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "Sindicatos docentes y no docentes (Fatun, Conadu Histórica)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Reclamos por recomposición salarial, pago de deuda del 28,5%, cumplimiento de Ley de Financiamiento Universitario y transferencia de fondos para universidades",
-            "fuente": "https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
+            "quien": "Fedun, Fagdut, Fatun, Conadu (sindicatos docentes y no docentes universitarios)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de recursos para becas y hospitales universitarios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/miercoles-de-paro-universitario-insisten-en-pedir-la-aplicacion-de-la-ley-de-financiamiento-y-denuncian-atraso-salarial/08/2026/, https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
         },
         {
             "es_evento_relevante": true,
@@ -14430,6 +14440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Visibilizar el reclamo de las familias endeudadas afectadas por políticas económicas",
             "fuente": "https://www.infobae.com/politica/2026/08/11/la-cgt-le-puso-fecha-a-su-marcha-por-los-endeudados-pero-sigue-evaluando-si-hara-otro-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar medidas urgentes frente al creciente sobreendeudamiento que afecta a trabajadores y familias en todo el país",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
