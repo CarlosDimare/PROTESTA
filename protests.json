@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T13:54:31.824379-03:00",
+    "last_updated": "2026-08-12T14:55:52.718099-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14460,6 +14460,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Visibilizar el reclamo de las familias endeudadas afectadas por políticas económicas",
             "fuente": "https://www.infobae.com/politica/2026/08/11/la-cgt-le-puso-fecha-a-su-marcha-por-los-endeudados-pero-sigue-evaluando-si-hara-otro-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "10:00",
+            "lugar": "Ministerio de Economía (Edificio Néstor Kirchner, Puerto Madero)",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir respuestas ante el drama del sobreendeudamiento que afecta a 5,3 millones de trabajadores y familias argentinas",
+            "fuente": "https://www.conclusion.com.ar/sin-categoria/la-cgt-marchara-el-proximo-20-de-agosto-a-economia-para-reclamar-por-el-endeudamiento-de-las-familias/08/2026/"
         },
         {
             "es_evento_relevante": true,
