@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T19:36:12.367593-03:00",
+    "last_updated": "2026-08-12T20:38:24.969623-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14424,6 +14424,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-13",
+            "horario": "09:00",
+            "lugar": "Aeropuertos de Argentina",
+            "quien": "ATE-ANAC y ATE-SENASA",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial del 40% y paridad sectorial, además de exigir mayor seguridad ante obras de infraestructura en aeropuertos.",
+            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-de-ate-anac-protagonizaron-una-asamblea-en-el-aeropuerto-de-ezeiza-y-evaluan-la-posibilidad-de-llevar-a-cabo-un-paro-nacional-202681218420, https://www.perfil.com/noticias/actualidad/ate-anuncio-un-paro-de-una-semana-en-mas-de-27-aeropuertos-por-la-falta-de-pago-del-aumento-salarial-en-la-anac.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-13",
             "horario": "16:00",
             "lugar": "Obelisco de Buenos Aires",
             "quien": "Trabajadores de ciencia y tecnología y universidades nacionales",
@@ -14510,6 +14520,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamos salariales con salario inicial de 500.000 pesos por debajo de la línea de pobreza, crisis educativa y falta de financiación y reconocimiento estatal",
             "fuente": "https://www.infobae.com/politica/2026/08/03/sindicatos-docentes-de-la-cgt-confirmaron-un-plan-de-lucha-sin-paros-que-protestas-haran-durante-todo-agosto/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-15",
+            "horario": "11:00",
+            "lugar": "Plaza San Martín",
+            "quien": "AMSAFE",
+            "tipo_medida": "No especificado",
+            "motivo": "Derogación de la reforma previsional y eliminación del descuento del 2% ('aporte solidario')",
+            "fuente": "https://www.conclusion.com.ar/politica/docentes-y-jubilados-de-amsafe-ganaron-la-calle-contra-la-reforma-previsional-el-recorte-es-injusto-y-discriminatorio/08/2026/, https://santafe.mitelefe.com/informacion-general/amsafe-lleva-adelante-una-protesta-por-la-reforma-previsional-pid2562515"
         },
         {
             "es_evento_relevante": true,
