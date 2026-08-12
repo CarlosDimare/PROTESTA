@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T17:42:59.095904-03:00",
+    "last_updated": "2026-08-12T18:41:42.975646-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14345,21 +14345,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "16:00",
-            "lugar": "Obelisco",
-            "quien": "Trabajadores de Ciencia y Tecnología",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Sectores de ciencia y tecnología",
             "tipo_medida": "Movilización",
-            "motivo": "Defensa del sistema científico-tecnológico nacional",
-            "fuente": "https://www.datagremial.com/informacion-general/paro-universitario-con-acatamiento-casi-total-fedun-exige-al-gobierno-que-cumpla-la-ley-de-financiamiento-y-el-acta-firmada-el-10-de-junio-202681215140"
+            "motivo": "Contra el recorte de becas y salarios",
+            "fuente": "https://www.laizquierdadiario.com/Contra-los-DESALOJOS-y-la-mafia-INMOBILIARIA, https://www.anred.org/12-de-agosto-los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/, https://www.inforegion.com.ar/2026/08/12/nuevo-paro-en-las-universidades-publicas-por-financiamiento/, https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/, https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
             "horario": "16:00",
-            "lugar": "Obelisco de Buenos Aires",
-            "quien": "Gremios universitarios (ADUBA, CONADU) y Cabildo Abierto por la Educación",
+            "lugar": "Obelisco",
+            "quien": "Trabajadores de Ciencia y Tecnología",
             "tipo_medida": "Movilización",
-            "motivo": "Defensa de la ciencia, tecnología y universidades nacionales; reclamo salarial contra despidos; y exigencia de cumplimiento de la Ley de Financiamiento Universitario y fallos judiciales",
-            "fuente": "https://www.anred.org/12-de-agosto-los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/, https://www.inforegion.com.ar/2026/08/12/nuevo-paro-en-las-universidades-publicas-por-financiamiento/, https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/, https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
+            "motivo": "Defensa del sistema científico-tecnológico nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-universitario-con-acatamiento-casi-total-fedun-exige-al-gobierno-que-cumpla-la-ley-de-financiamiento-y-el-acta-firmada-el-10-de-junio-202681215140"
         },
         {
             "es_evento_relevante": true,
