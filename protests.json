@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T07:58:39.758737-03:00",
+    "last_updated": "2026-08-12T08:46:18.784893-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14324,12 +14324,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
-            "horario": "16:00",
-            "lugar": "Obelisco de Buenos Aires",
-            "quien": "AGD UBA, FEDUN, FAGDUT, FATUN y área de Ciencia y Técnica de la UBA",
+            "horario": "15:00",
+            "lugar": "Tierra del Fuego, Argentina",
+            "quien": "SUTEF",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de ley de financiamiento universitario, no aplicación de cautelar salarial y aumento de partidas para hospitales universitarios",
-            "fuente": "https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/"
+            "motivo": "Reclamo por recomposición salarial, cese de descuentos persecutorios y mayor inversión en educación pública",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-fresu-respaldo-el-paro-por-tiempo-indeterminado-de-docentes-de-tierra-del-fuego/08/2026/, https://www.airelibre.com.ar/continua-el-paro-docente-por-tiempo-indeterminado-en-tierra-del-fuego/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "16:00",
+            "lugar": "Obelisco, Ciudad de Buenos Aires",
+            "quien": "FEDUN y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
+            "fuente": "https://www.inforegion.com.ar/2026/08/12/nuevo-paro-en-las-universidades-publicas-por-financiamiento/, https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/, https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
         },
         {
             "es_evento_relevante": true,
@@ -14364,22 +14374,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-12",
-            "horario": "No especificado",
-            "lugar": "Todo el país",
-            "quien": "FEDUN (Federación de Docentes de las Universidades)",
-            "tipo_medida": "Paro",
-            "motivo": "Exigencia de cumplimiento efectivo de la Ley de Financiamiento Universitario y del acta firmada el 10 de junio",
-            "fuente": "https://www.inforegion.com.ar/2026/08/07/anunciaron-un-nuevo-paro-en-universidades-la-octava-medida-de-fuerza-del-ano/, https://www.datagremial.com/informacion-general/fedun-y-gremios-universitarios-vuelven-al-paro-para-presionar-por-la-ley-de-financiamiento-20268617380"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-12",
             "horario": "Todo el día",
             "lugar": "Universidades nacionales de Argentina",
             "quien": "Frente Sindical de Universidades Nacionales (con apoyo de CGT a través de UDA)",
             "tipo_medida": "Paro",
             "motivo": "Cumplimiento pleno de la Ley de Financiamiento Universitario, mejoras salariales acorde a la inflación, actualización de becas Progresar y Manuel Belgrano, transferencia de incrementos para gastos de funcionamiento y recursos para hospitales universitarios.",
             "fuente": "https://www.datagremial.com/paritarias/el-gobierno-adelanta-la-paritaria-universitaria-pero-los-gremios-confirman-el-paro-de-esta-semana-20268119430"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-13",
+            "horario": "00:00",
+            "lugar": "Casas de altos estudios públicas de todo el país",
+            "quien": "Frente Sindical de Universidades Nacionales (FEDUN, FATUN, CONADU, FAGDUT)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamación por aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de fondos para becas y hospitales universitarios",
+            "fuente": "https://elciudadanoweb.com/universitarios-reclaman-la-aplicacion-de-la-ley-de-financiamiento-y-comienzan-un-nuevo-paro/"
         },
         {
             "es_evento_relevante": true,
