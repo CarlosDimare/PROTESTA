@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T02:42:48.488942-03:00",
+    "last_updated": "2026-08-12T04:19:10.884271-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14326,10 +14326,10 @@
             "fecha": "2026-08-12",
             "horario": "16:00",
             "lugar": "Obelisco de Buenos Aires",
-            "quien": "Consejo Interuniversitario Nacional (CIN) y Acción Federal por la Ciencia y la Educación",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de universidades nacionales y sistema científico ante recortes del gobierno",
-            "fuente": "https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/"
+            "quien": "AGD UBA, FEDUN, FAGDUT, FATUN y área de Ciencia y Técnica de la UBA",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de ley de financiamiento universitario, no aplicación de cautelar salarial y aumento de partidas para hospitales universitarios",
+            "fuente": "https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/, https://www.conclusion.com.ar/gremiales/lucha-universitaria-la-conadu-historica-anuncia-un-paro-nacional-del-18-al-22-de-agosto/08/2026/"
         },
         {
             "es_evento_relevante": true,
