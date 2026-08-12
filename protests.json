@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-12T14:55:52.718099-03:00",
+    "last_updated": "2026-08-12T15:57:14.971027-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -13925,6 +13925,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-06",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT, CTAs y UTEP",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos contra el ajuste y políticas sociales que afectan a trabajadores informales y precarizados",
+            "fuente": "https://estadodealerta.com.ar/masiva-movilizacion-a-plaza-de-mayo-de-organizaciones-sociales-y-gremios-por-el-dia-de-san-cayetano/, https://www.infobae.com/teleshow/2026/08/05/la-patria-no-se-vende-el-reclamo-del-publico-en-el-show-de-rosalia-y-la-reaccion-de-la-cantante/, https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-06",
+            "horario": "10:00",
             "lugar": "Plaza Grigera, Lomas de Zamora",
             "quien": "SUTEBA Multicolor, Agrupación Marrón, docentes independientes y estudiantes",
             "tipo_medida": "Movilización",
@@ -14060,16 +14070,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Justicia para Carolina Monteros, contra la Ley de Inviolabilidad/Extranjerización de la Tierra y reclamo contra impunidad de poderosos",
             "fuente": "https://www.laizquierdadiario.com/El-reclamo-de-justicia-por-Carolina-Monteros-se-hace-sentir-distintos-puntos-de-Tucuman"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-06",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Artistas y colectivos sociales liderados por Lali Espósito",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la modificación de la Ley de Tierras y defensa de la soberanía territorial y recursos naturales",
-            "fuente": "https://www.infobae.com/teleshow/2026/08/05/la-patria-no-se-vende-el-reclamo-del-publico-en-el-show-de-rosalia-y-la-reaccion-de-la-cantante/, https://www.laizquierdadiario.com/Las-peleas-de-esta-semana-huelga-docente-ley-de-tierras-migrantes-en-Ceuta-Ni-una-menos-y-mas, https://www.datagremial.com/escenario/los-gremios-apuntan-a-una-gran-movilizacion-contra-la-ley-que-extranjeriza-de-tierras-sin-territorio-no-hay-nacion-2026821000, https://www.laizquierdadiario.com/Asamblea-del-AMBA-debate-plan-de-lucha-hacia-el-6-de-agosto"
         },
         {
             "es_evento_relevante": true,
@@ -14340,6 +14340,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por recomposición salarial, cese de descuentos persecutorios y mayor inversión en educación pública",
             "fuente": "https://www.conclusion.com.ar/gremiales/el-fresu-respaldo-el-paro-por-tiempo-indeterminado-de-docentes-de-tierra-del-fuego/08/2026/, https://www.airelibre.com.ar/continua-el-paro-docente-por-tiempo-indeterminado-en-tierra-del-fuego/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-12",
+            "horario": "16:00",
+            "lugar": "Obelisco",
+            "quien": "Trabajadores de Ciencia y Tecnología",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa del sistema científico-tecnológico nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/paro-universitario-con-acatamiento-casi-total-fedun-exige-al-gobierno-que-cumpla-la-ley-de-financiamiento-y-el-acta-firmada-el-10-de-junio-202681215140"
         },
         {
             "es_evento_relevante": true,
