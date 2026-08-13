@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T08:49:02.110195-03:00",
+    "last_updated": "2026-08-13T10:00:24.703006-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14450,6 +14450,16 @@
             "tipo_medida": "Reunión preparatoria",
             "motivo": "Preparar una gran movilización nacional ('Marcha de la bronca') contra el proyecto de Ley de Inviolabilidad de la Propiedad Privada y el gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Convocan-este-jueves-a-una-reunion-para-preparar-una-gran-Marcha-de-la-bronca-contra-Milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-15",
+            "horario": "18:30",
+            "lugar": "Oxido y Resistencia (Avenida Don Pedro de Mendoza 1667, CABA)",
+            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs",
+            "tipo_medida": "Movilización cultural",
+            "motivo": "Exigir la libertad de Milton Tolomeo y Eneas Gallo, denunciar criminalización de protesta laboral",
+            "fuente": "https://www.anred.org/criminalizacion-de-la-protesta-la-campana-por-la-libertad-para-milton-y-eneas-vuelve-a-las-calles/"
         },
         {
             "es_evento_relevante": true,
