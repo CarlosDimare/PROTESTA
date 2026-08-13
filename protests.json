@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T12:56:36.110963-03:00",
+    "last_updated": "2026-08-13T13:52:19.271863-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14465,11 +14465,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-14",
             "horario": "00:00",
-            "lugar": "Ciudades del interior del país, incluyendo Córdoba",
-            "quien": "Unión de Tranviarios Automotor (UTA)",
+            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Paro",
-            "motivo": "Equiparar salarios de choferes del interior con los del AMBA tras fracaso en negociaciones paritarias",
-            "fuente": "https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
+            "motivo": "Reclamo de recomposición salarial para equiparar ingresos del AMBA con el interior del país",
+            "fuente": "https://www.conclusion.com.ar/gremiales/uta-anuncio-un-paro-de-transporte-que-pasara-en-rosario/08/2026/, https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
         },
         {
             "es_evento_relevante": true,
