@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T11:22:57.601011-03:00",
+    "last_updated": "2026-08-13T12:56:36.110963-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14450,6 +14450,16 @@
             "tipo_medida": "Reunión preparatoria",
             "motivo": "Preparar una gran movilización nacional ('Marcha de la bronca') contra el proyecto de Ley de Inviolabilidad de la Propiedad Privada y el gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Convocan-este-jueves-a-una-reunion-para-preparar-una-gran-Marcha-de-la-bronca-contra-Milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-13",
+            "horario": "No especificado",
+            "lugar": "Frente al Obelisco",
+            "quien": "Comunidad científica y universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por crisis financiera en ciencia, despidos en Conicet, incumplimiento de Ley de Financiamiento y pérdida de poder adquisitivo salarial",
+            "fuente": "https://elciudadanoweb.com/fuerte-reclamo-al-gobierno-en-buenos-aires-tambien-hubo-marcha-en-defensa-de-la-ciencia-y-contra-del-ajuste-de-milei/"
         },
         {
             "es_evento_relevante": true,
