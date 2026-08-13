@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T14:55:16.851222-03:00",
+    "last_updated": "2026-08-13T15:57:18.215489-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14465,11 +14465,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-14",
             "horario": "00:00",
-            "lugar": "Área Metropolitana de Buenos Aires (AMBA)",
+            "lugar": "Interior del país",
             "quien": "Unión Tranviarios Automotor (UTA)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo de recomposición salarial para equiparar ingresos del AMBA con el interior del país",
-            "fuente": "https://www.conclusion.com.ar/gremiales/uta-anuncio-un-paro-de-transporte-que-pasara-en-rosario/08/2026/, https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
+            "tipo_medida": "Paro nacional de colectivos",
+            "motivo": "Reclamo salarial para igualar el salario de choferes del interior con el del AMBA ($1.740.000 + viáticos), ante la asimetría en subsidios estatales (60% en AMBA vs 10% en provincias)",
+            "fuente": "https://www.infobae.com/economia/2026/08/13/la-uta-postergo-un-paro-de-colectivos-previsto-para-manana-viernes-en-las-provincias-como-sigue-el-conflicto/, https://www.conclusion.com.ar/gremiales/uta-anuncio-un-paro-de-transporte-que-pasara-en-rosario/08/2026/, https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
         },
         {
             "es_evento_relevante": true,
