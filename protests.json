@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T10:00:24.703006-03:00",
+    "last_updated": "2026-08-13T11:22:57.601011-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14450,6 +14450,16 @@
             "tipo_medida": "Reunión preparatoria",
             "motivo": "Preparar una gran movilización nacional ('Marcha de la bronca') contra el proyecto de Ley de Inviolabilidad de la Propiedad Privada y el gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Convocan-este-jueves-a-una-reunion-para-preparar-una-gran-Marcha-de-la-bronca-contra-Milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-14",
+            "horario": "00:00",
+            "lugar": "Ciudades del interior del país, incluyendo Córdoba",
+            "quien": "Unión de Tranviarios Automotor (UTA)",
+            "tipo_medida": "Paro",
+            "motivo": "Equiparar salarios de choferes del interior con los del AMBA tras fracaso en negociaciones paritarias",
+            "fuente": "https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
         },
         {
             "es_evento_relevante": true,
