@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T18:40:05.891948-03:00",
+    "last_updated": "2026-08-13T19:36:35.714270-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14560,6 +14560,16 @@
             "tipo_medida": "No especificado",
             "motivo": "Derogación de la reforma previsional y eliminación del descuento del 2% ('aporte solidario')",
             "fuente": "https://www.conclusion.com.ar/politica/docentes-y-jubilados-de-amsafe-ganaron-la-calle-contra-la-reforma-previsional-el-recorte-es-injusto-y-discriminatorio/08/2026/, https://santafe.mitelefe.com/informacion-general/amsafe-lleva-adelante-una-protesta-por-la-reforma-previsional-pid2562515"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Frente de Izquierda de Trabajadores-Unidad (FITU) y organizaciones sociales/políticas/sindicales/estudiantiles/ambientales/feministas",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el plan de ajuste de Milei y en el camino de derrotar al gobierno",
+            "fuente": "https://www.laizquierdadiario.com/contenido"
         },
         {
             "es_evento_relevante": true,
