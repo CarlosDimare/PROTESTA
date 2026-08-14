@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14T11:15:31.442394-03:00",
+    "last_updated": "2026-08-14T12:48:13.903308-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14493,6 +14493,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-14",
+            "horario": "11:00",
+            "lugar": "Aeroparque Jorge Newbery",
+            "quien": "Trabajadores autoconvocados de Flybondi",
+            "tipo_medida": "Movilización",
+            "motivo": "Pago de indemnizaciones por despidos, salarios adeudados a trabajadores activos y cobertura de salud",
+            "fuente": "https://www.laizquierdadiario.com/Trabajadores-de-Flybondi-protestan-en-Aeroparque-por-el-pago-de-indemnizaciones"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-15",
             "horario": "18:30",
             "lugar": "Oxido y Resistencia (Avenida Don Pedro de Mendoza 1667, CABA)",
@@ -14566,10 +14576,10 @@
             "fecha": "2026-08-20",
             "horario": "No especificado",
             "lugar": "Ministerio de Economía",
-            "quien": "CGT",
+            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir respuestas ante el drama del endeudamiento que atraviesa trabajadores y familias argentinas",
-            "fuente": "https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+            "motivo": "Reclamar soluciones contra el endeudamiento familiar y la crisis económica, exigiendo medidas concretas al gobierno nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
