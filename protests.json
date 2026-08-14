@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13T20:38:07.985324-03:00",
+    "last_updated": "2026-08-13T22:26:08.043587-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14463,6 +14463,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-13",
+            "horario": "Todo el día",
+            "lugar": "Ushuaia, Río Grande y Tolhuin (acampes frente a Casa de Gobierno y permanencias en Ministerios de Educación)",
+            "quien": "SUTEF con apoyo de Frente de Sindicatos Unidos (FreSU Federal)",
+            "tipo_medida": "Paro docente + Acampes y Permanencias",
+            "motivo": "Reclamo salario mínimo vital ($3.000.352), cese de descuentos, ley de financiamiento educativo y crisis económica provincial",
+            "fuente": "https://www.anred.org/docentes-de-tierra-del-fuego-llevan-nueve-dias-de-paro-por-un-salario-minimo-vital-de-3-millones-acorde-a-la-constitucion/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-14",
             "horario": "00:00",
             "lugar": "Interior del país",
@@ -14470,6 +14480,16 @@
             "tipo_medida": "Paro",
             "motivo": "Igualdad salarial entre choferes de la Ciudad de Buenos Aires y las provincias, debido a la asimetría en subsidios",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-uta-postergo-el-paro-previsto-para-este-viernes-como-siguen-las-negociaciones/08/2026/, https://www.infobae.com/economia/2026/08/13/la-uta-postergo-un-paro-de-colectivos-previsto-para-manana-viernes-en-las-provincias-como-sigue-el-conflicto/, https://www.conclusion.com.ar/gremiales/uta-anuncio-un-paro-de-transporte-que-pasara-en-rosario/08/2026/, https://www.datagremial.com/paritarias/para-reclamar-la-equiparacion-salarial-con-el-amba-la-uta-lanzo-un-paro-de-colectivos-en-el-interior-20268139460"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-14",
+            "horario": "09:00",
+            "lugar": "Santa Fe al 1300, Rosario",
+            "quien": "Asociación Bancaria, seccional Rosario junto a trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por reincorporación de trabajadores despedidos en Nación Servicios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-bancaria-tendra-una-audiencia-y-protestara-frente-a-nacion-servicios-para-exigir-la-reincorporacion-de-los-trabajadores/08/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -14560,6 +14580,16 @@
             "tipo_medida": "No especificado",
             "motivo": "Derogación de la reforma previsional y eliminación del descuento del 2% ('aporte solidario')",
             "fuente": "https://www.conclusion.com.ar/politica/docentes-y-jubilados-de-amsafe-ganaron-la-calle-contra-la-reforma-previsional-el-recorte-es-injusto-y-discriminatorio/08/2026/, https://santafe.mitelefe.com/informacion-general/amsafe-lleva-adelante-una-protesta-por-la-reforma-previsional-pid2562515"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "08:00",
+            "lugar": "No especificado",
+            "quien": "Coalición de sindicatos (Ademys, ATE, Secco, FOETRA, CICOP, SUTEBA, etc.), organizaciones sociales (Asamblea contra despidos, Coordinadora contra desalojos, etc.), colectivos feministas, estudiantiles, ambientales y partidos de izquierda (PTS-FITU)",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición al proyecto de Ley de Inviolabilidad de la Propiedad Privada y rechazo a las políticas de Milei, convocando a una huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
