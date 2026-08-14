@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14T13:46:33.418445-03:00",
+    "last_updated": "2026-08-14T14:51:28.188740-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14503,6 +14503,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-14",
+            "horario": "23:59",
+            "lugar": "Tierra del Fuego",
+            "quien": "Sindicato de Empleados Judiciales de Tierra del Fuego (SEJUP)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir mejora salarial y resolución de situación con el Superior Tribunal de Justicia ante falta de respuestas del gobierno provincial",
+            "fuente": "https://www.datagremial.com/paritarias/con-un-paro-de-36-horas-judiciales-de-tierra-del-fuego-exigen-una-recomposicion-salarial-20268149540"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-15",
             "horario": "18:30",
             "lugar": "Oxido y Resistencia (Avenida Don Pedro de Mendoza 1667, CABA)",
@@ -14570,6 +14580,16 @@
             "tipo_medida": "Reunión de negociación",
             "motivo": "Igualación salarial entre choferes del AMBA y del interior del país, por asimetría en subsidios estatales",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-dejo-en-suspenso-el-paro-de-colectivos-en-el-interior-a-la-espera-de-una-definicion-salarial-en-la-reunion-paritaria-de-la-proxima-semana-202681321490"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
         },
         {
             "es_evento_relevante": true,
