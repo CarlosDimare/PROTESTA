@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-14T07:55:56.650205-03:00",
+    "last_updated": "2026-08-14T08:43:15.378218-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14520,6 +14520,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de recursos para becas y hospitales universitarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/miercoles-de-paro-universitario-insisten-en-pedir-la-aplicacion-de-la-ley-de-financiamiento-y-denuncian-atraso-salarial/08/2026/, https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-18",
+            "horario": "18:00",
+            "lugar": "Aeroparque Jorge Newbery",
+            "quien": "Trabajadores de GPS-Aerolíneas Argentinas y gremios aeronáuticos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por reincorporación de Luciano Corradi y contra despidos antisindicales",
+            "fuente": "https://www.laizquierdadiario.com/Protesta-en-Aeroparque-EN-VIVO-denuncian-el-despido-de-un-delegado-de-GPS-tercerizada-de-Aerolineas"
         },
         {
             "es_evento_relevante": true,
