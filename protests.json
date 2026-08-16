@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-16T19:16:00.709969-03:00",
+    "last_updated": "2026-08-16T20:16:09.153119-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14530,6 +14530,16 @@
             "tipo_medida": "Movilización cultural",
             "motivo": "Festival 'Peña permanente' para compartir arte, cultura y construir comunidad como espacio revolucionario",
             "fuente": "https://www.laizquierdadiario.com/Digamos-Todo-el-comite-de-Merlo-y-Moreno-la-movilizacion-del-6-de-agosto-y-las-perspectivas-para-la"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-16",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movilización de trabajadores, mujeres, disidencias, jóvenes, jubilados y CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Resistencia contra la Reforma laboral y la Ley de inviolabilidad de la propiedad privada",
+            "fuente": "https://www.laizquierdadiario.com/La-dirigencia-peronista-milita-la-rosca-pero-la-movilizacion-social-hizo-retroceder-a-Milei"
         },
         {
             "es_evento_relevante": true,
