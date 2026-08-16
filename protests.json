@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-16T02:23:31.514066-03:00",
+    "last_updated": "2026-08-16T03:31:48.518083-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14650,6 +14650,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el plan de ajuste de Milei y en el camino de derrotar al gobierno",
             "fuente": "https://www.laizquierdadiario.com/contenido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-17",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Presión por marginación sindical en armado electoral 2027",
+            "fuente": "https://www.infobae.com/politica/2026/08/16/en-medio-de-tensiones-la-cgt-planea-un-acto-por-el-17-de-octubre-en-una-cancha-para-presionar-al-peronismo/"
         },
         {
             "es_evento_relevante": true,
