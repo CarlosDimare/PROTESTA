@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-17T15:30:39.777972-03:00",
+    "last_updated": "2026-08-17T16:25:22.816633-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14570,6 +14570,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Visibilizar el reclamo de las familias endeudadas afectadas por políticas económicas",
             "fuente": "https://www.infobae.com/politica/2026/08/11/la-cgt-le-puso-fecha-a-su-marcha-por-los-endeudados-pero-sigue-evaluando-si-hara-otro-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "09:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Asamblea de Pequeños y Medianos Empresarios (APYME) y PyMEs del país",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar un giro en la política económica del gobierno de Javier Milei, visibilizar el deterioro productivo, cierres masivos de empresas y la precarización laboral, oponiéndose al modelo de ajuste y desnacionalización",
+            "fuente": "https://www.conclusion.com.ar/politica/pymes-marcharan-a-plaza-de-mayo-para-visibilizar-el-deterioro-del-entramado-productivo-y-en-rechazo-a-la-politica-economica/08/2026/"
         },
         {
             "es_evento_relevante": true,
