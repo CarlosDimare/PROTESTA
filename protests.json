@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-17T17:20:15.606302-03:00",
+    "last_updated": "2026-08-17T18:23:50.428002-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14554,6 +14554,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-18",
+            "horario": "08:00",
+            "lugar": "Universidad Nacional de Rosario",
+            "quien": "Conadu Histórica y Coad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación de Ley de Financiamiento Universitario, salarios por debajo de inflación y presupuesto para becas/hospitales",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-vuelven-al-paro-esta-semana-en-reclamo-al-incumplimiento-de-la-ley-de-financiamiento-universitario-por-parte-del-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-18",
             "horario": "18:00",
             "lugar": "Aeroparque Jorge Newbery",
             "quien": "Comisión Interna de GPS (tercerizada de Aerolíneas Argentinas) y trabajadores",
@@ -14630,6 +14640,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por financiamiento universitario, cumplimiento de Ley de Financiamiento Universitario, actualización salarial y partida extraordinaria para hospitales universitarios, en rechazo a políticas de desfinanciamiento y despidos",
             "fuente": "https://estadodealerta.com.ar/con-paro-nacional-y-movilizacion-al-obelisco-los-gremios-universitarios-vuelven-a-reclamar-contra-el-ajuste/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "10:00",
+            "lugar": "Salón Empresario (AER) de la ciudad de Rosario",
+            "quien": "CGT, UIA, CAME y Federación Industrial de Santa Fe",
+            "tipo_medida": "Encuentro bilateral",
+            "motivo": "Elaborar propuestas conjuntas sobre crisis económica, productiva y laboral para presentar al próximo presidente",
+            "fuente": "https://www.infobae.com/politica/2026/08/17/sindicalistas-y-empresarios-impulsan-nuevos-espacios-de-debate-por-que-los-acerco-milei-y-que-objetivo-buscan-como-aliados/"
         },
         {
             "es_evento_relevante": true,
