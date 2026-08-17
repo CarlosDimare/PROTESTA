@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-17T11:23:55.458100-03:00",
+    "last_updated": "2026-08-17T12:23:43.783357-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14670,6 +14670,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el plan de ajuste de Milei y en el camino de derrotar al gobierno",
             "fuente": "https://www.laizquierdadiario.com/contenido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
+            "lugar": "Marcha nacional (lugar específico no detallado)",
+            "quien": "Comités por Myriam Bregman",
+            "tipo_medida": "Marcha",
+            "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
         },
         {
             "es_evento_relevante": true,
