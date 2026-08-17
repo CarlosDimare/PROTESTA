@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-17T13:21:46.727641-03:00",
+    "last_updated": "2026-08-17T14:23:49.320277-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14555,21 +14555,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-18",
             "horario": "18:00",
-            "lugar": "Puesto Eco del Aeroparque Jorge Newbery",
-            "quien": "Comisión Interna de GPS (tercerizada de Aerolíneas Argentinas)",
-            "tipo_medida": "Acto",
-            "motivo": "Reincorporación del delegado Luciano Corradi, denunciando despido ilegal como represalia contra su activismo contra la privatización de Aerolíneas Argentinas",
-            "fuente": "https://www.laizquierdadiario.com/Convocan-en-Aeroparque-acto-por-la-reincorporacion-de-Luciano-Corradi-delegado-de-GPS-Aerolineas"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-18",
-            "horario": "18:00",
             "lugar": "Aeroparque Jorge Newbery",
-            "quien": "Trabajadores de GPS-Aerolíneas Argentinas y gremios aeronáuticos",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamo por reincorporación de Luciano Corradi y contra despidos antisindicales",
-            "fuente": "https://www.laizquierdadiario.com/Protesta-en-Aeroparque-EN-VIVO-denuncian-el-despido-de-un-delegado-de-GPS-tercerizada-de-Aerolineas"
+            "quien": "Comisión Interna de GPS (tercerizada de Aerolíneas Argentinas) y trabajadores",
+            "tipo_medida": "Acto de lucha",
+            "motivo": "Contra el despido ilegal del referente Luciano Corradi y en defensa de Aerolíneas Argentinas",
+            "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-la-semana-GPS-Fate-los-comites-y-seguimos-preparando-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Convocan-en-Aeroparque-acto-por-la-reincorporacion-de-Luciano-Corradi-delegado-de-GPS-Aerolineas, https://www.laizquierdadiario.com/Protesta-en-Aeroparque-EN-VIVO-denuncian-el-despido-de-un-delegado-de-GPS-tercerizada-de-Aerolineas"
         },
         {
             "es_evento_relevante": true,
