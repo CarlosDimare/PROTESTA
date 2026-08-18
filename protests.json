@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T17:20:45.779444-03:00",
+    "last_updated": "2026-08-18T18:21:29.831065-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14630,6 +14630,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitaria y recomposición salarial",
             "fuente": "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-19",
+            "horario": "18:30",
+            "lugar": "Plaza 25 de Mayo, La Rioja",
+            "quien": "Familia de Ilda Goyochea",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar esclarecimiento y justicia por la muerte de Ilda Goyochea, denunciando amenazas y hostigamiento",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/08/18/secreto-de-sumario-prision-domiciliaria-y-nueva-marcha-como-sigue-el-caso-de-la-mujer-que-murio-con-una-copa-de-vino/"
         },
         {
             "es_evento_relevante": true,
