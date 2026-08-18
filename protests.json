@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-17T20:19:24.176592-03:00",
+    "last_updated": "2026-08-17T21:55:12.782936-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14573,6 +14573,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-18",
+            "horario": "No especificado",
+            "lugar": "Todas las facultades universitarias nacionales",
+            "quien": "AGD-UBA y federaciones docentes",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir aplicación inmediata de Ley de Financiamiento Universitario, reclamo de salarios adeudados (31.2%) y actualización de presupuestos para hospitales y becas",
+            "fuente": "https://www.inforegion.com.ar/2026/08/17/esta-semana-vuelve-el-paro-universitario-en-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-19",
             "horario": "No especificado",
             "lugar": "Ministerio de Economía",
@@ -14676,10 +14686,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Coalición de sindicatos (Ademys, ATE, Secco, FOETRA, CICOP, SUTEBA, etc.), organizaciones sociales (Asamblea contra despidos, Coordinadora contra desalojos, etc.), colectivos feministas, estudiantiles, ambientales y partidos de izquierda (PTS-FITU)",
+            "quien": "Comité de Apoyo a Myriam Bregman",
             "tipo_medida": "Marcha",
-            "motivo": "Oposición al proyecto de Ley de Inviolabilidad de la Propiedad Privada y rechazo a las políticas de Milei, convocando a una huelga general",
-            "fuente": "https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra el ajuste y la represión, por derechos de trabajadores, jubilados, mujeres, diversidades y estudiantes",
+            "fuente": "https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
