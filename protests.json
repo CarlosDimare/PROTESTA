@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T07:24:43.059058-03:00",
+    "last_updated": "2026-08-18T08:23:28.299843-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14590,6 +14590,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir aplicación inmediata de Ley de Financiamiento Universitario, reclamo de salarios adeudados (31.2%) y actualización de presupuestos para hospitales y becas",
             "fuente": "https://www.inforegion.com.ar/2026/08/17/esta-semana-vuelve-el-paro-universitario-en-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-19",
+            "horario": "11:00",
+            "lugar": "Palacio Pizzurno, sede de la Secretaría de Educación",
+            "quien": "Frente Sindical, Federación Universitaria Argentina (FUA), Federación Universitaria de Buenos Aires (FUBA), Conadu Histórica",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitaria y recomposición salarial",
+            "fuente": "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
