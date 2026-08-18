@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T02:26:26.946256-03:00",
+    "last_updated": "2026-08-18T03:36:50.204024-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14543,6 +14543,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-17",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Economía",
+            "quien": "Gobernadores del Norte Grande",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por proyecto de zonas cálidas y obras en regiones del Norte Grande",
+            "fuente": "https://www.infobae.com/politica/2026/08/17/el-gobierno-recibira-a-las-provincias-del-norte-grande-para-negociar-por-las-zonas-calidas/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-18",
             "horario": "00:00",
             "lugar": "No especificado",
@@ -14620,6 +14630,16 @@
             "tipo_medida": "Reunión de negociación",
             "motivo": "Igualación salarial entre choferes del AMBA y del interior del país, por asimetría en subsidios estatales",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-dejo-en-suspenso-el-paro-de-colectivos-en-el-interior-a-la-espera-de-una-definicion-salarial-en-la-reunion-paritaria-de-la-proxima-semana-202681321490"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
+            "lugar": "Concentración en Paseo Colón y Estados Unidos, e intersección de Av. Independencia y Av. Paseo Colón; destino final: Ministerio de Economía (Hipólito Yrigoyen 250, Ciudad Autónoma de Buenos Aires)",
+            "quien": "Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP), Confederación General del Trabajo (CGT), CTA de los Trabajadores y CTA Autónoma",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar soluciones al sobreendeudamiento de familias argentinas y contra las políticas del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
