@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T14:27:34.696646-03:00",
+    "last_updated": "2026-08-18T15:34:27.118452-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14555,11 +14555,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-18",
             "horario": "00:00",
-            "lugar": "Universidades nacionales",
+            "lugar": "Universidades nacionales en todo el país",
             "quien": "Conadu Histórica",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por salarios y presupuesto universitario, frente al incumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.anred.org/salarios-el-fresu-presenta-una-nueva-actualizacion-del-indice-en-medio-de-la-jornada-de-protesta-universitaria/, https://elciudadanoweb.com/docentes-de-la-unr-vuelven-al-paro-esta-semana-en-reclamo-al-incumplimiento-de-la-ley-de-financiamiento-universitario-por-parte-del-gobierno-de-milei/"
+            "tipo_medida": "Paro nacional",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario ante 300 días de incumplimiento del gobierno de Milei y reclamo de recomposición salarial",
+            "fuente": "https://www.laizquierdadiario.com/Mas-de-300-dias-sin-Ley-de-Financiamiento-Universitario-una-semana-de-paro-nacional-docente, https://www.anred.org/salarios-el-fresu-presenta-una-nueva-actualizacion-del-indice-en-medio-de-la-jornada-de-protesta-universitaria/, https://elciudadanoweb.com/docentes-de-la-unr-vuelven-al-paro-esta-semana-en-reclamo-al-incumplimiento-de-la-ley-de-financiamiento-universitario-por-parte-del-gobierno-de-milei/"
         },
         {
             "es_evento_relevante": true,
@@ -14570,6 +14570,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de recursos para becas y hospitales universitarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/miercoles-de-paro-universitario-insisten-en-pedir-la-aplicacion-de-la-ley-de-financiamiento-y-denuncian-atraso-salarial/08/2026/, https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-18",
+            "horario": "12:00",
+            "lugar": "Frente al Tribunal Superior de Justicia de Córdoba",
+            "quien": "Trabajadores Judiciales de Córdoba",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales, devolución de descuentos y contra ajuste provincial",
+            "fuente": "https://www.laizquierdadiario.com/Judiciales-de-Cordoba-contra-el-ajuste-y-la-pasividad-de-la-burocracia-de-Cortelletti-hay-que, https://www.lavoz.com.ar/politica/empleados-judiciales-cordoba-inician-paro-60-horas_0_EIlASrSjvD.html"
         },
         {
             "es_evento_relevante": true,
