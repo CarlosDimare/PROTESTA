@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T10:45:21.713519-03:00",
+    "last_updated": "2026-08-18T11:33:48.706702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14665,21 +14665,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "No especificado",
-            "lugar": "Ministerio de Economía de la Nación",
-            "quien": "CGT",
+            "lugar": "Ministerio de Economía",
+            "quien": "Mesa Sindical, CGT y CTA",
             "tipo_medida": "Marcha",
-            "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
-            "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
+            "motivo": "Reclaman aumento salarial del 30%, emergencia laboral para frenar despidos y moratoria de deudas familiares, en contra de la inflación oficial y la pérdida de poder adquisitivo",
+            "fuente": "https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "No especificado",
-            "lugar": "Ministerio de Economía",
-            "quien": "CGT, CTA de los Trabajadores, CTA Autónoma y movimientos sociales",
+            "lugar": "Ministerio de Economía de la Nación",
+            "quien": "CGT",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar soluciones contra el endeudamiento familiar y la crisis económica, exigiendo medidas concretas al gobierno nacional",
-            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+            "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
         },
         {
             "es_evento_relevante": true,
