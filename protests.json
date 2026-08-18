@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T08:23:28.299843-03:00",
+    "last_updated": "2026-08-18T09:37:07.065331-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14555,21 +14555,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-18",
             "horario": "00:00",
+            "lugar": "Universidades nacionales",
+            "quien": "Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios y presupuesto universitario, frente al incumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.anred.org/salarios-el-fresu-presenta-una-nueva-actualizacion-del-indice-en-medio-de-la-jornada-de-protesta-universitaria/, https://elciudadanoweb.com/docentes-de-la-unr-vuelven-al-paro-esta-semana-en-reclamo-al-incumplimiento-de-la-ley-de-financiamiento-universitario-por-parte-del-gobierno-de-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-18",
+            "horario": "00:00",
             "lugar": "No especificado",
             "quien": "Fedun, Fagdut, Fatun, Conadu (sindicatos docentes y no docentes universitarios)",
             "tipo_medida": "Paro",
             "motivo": "Exigencia de aplicación inmediata de la Ley de Financiamiento Universitario, recomposición salarial y actualización de recursos para becas y hospitales universitarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/miercoles-de-paro-universitario-insisten-en-pedir-la-aplicacion-de-la-ley-de-financiamiento-y-denuncian-atraso-salarial/08/2026/, https://www.inforegion.com.ar/2026/08/10/el-gobierno-tildo-de-politico-el-paro-universitario-del-miercoles/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-18",
-            "horario": "08:00",
-            "lugar": "Universidad Nacional de Rosario",
-            "quien": "Conadu Histórica y Coad",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por aplicación de Ley de Financiamiento Universitario, salarios por debajo de inflación y presupuesto para becas/hospitales",
-            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-vuelven-al-paro-esta-semana-en-reclamo-al-incumplimiento-de-la-ley-de-financiamiento-universitario-por-parte-del-gobierno-de-milei/"
         },
         {
             "es_evento_relevante": true,
@@ -14590,6 +14590,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir aplicación inmediata de Ley de Financiamiento Universitario, reclamo de salarios adeudados (31.2%) y actualización de presupuestos para hospitales y becas",
             "fuente": "https://www.inforegion.com.ar/2026/08/17/esta-semana-vuelve-el-paro-universitario-en-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-19",
+            "horario": "11:00",
+            "lugar": "Facultad de Derecho de la Universidad Nacional de Rosario (Santa Fe y Moreno)",
+            "quien": "Coad y asociaciones nucleadas en Conadu Histórica",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitaria por parte del gobierno de Javier Milei",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comienzan-una-semana-de-paro-exigen-que-el-gobierno-aplique-la-ley-de-financiamiento/08/2026/"
         },
         {
             "es_evento_relevante": true,
