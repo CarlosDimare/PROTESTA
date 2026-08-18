@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T15:34:27.118452-03:00",
+    "last_updated": "2026-08-18T16:29:52.194788-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14760,6 +14760,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el ajuste y la represión, por derechos de trabajadores, jubilados, mujeres, diversidades y estudiantes",
             "fuente": "https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "11:00",
+            "lugar": "Marcha nacional",
+            "quien": "Plurisectorial (sindicatos, sociales, estudiantiles, etc.)",
+            "tipo_medida": "Marcha",
+            "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
         },
         {
             "es_evento_relevante": true,
