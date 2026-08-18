@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T19:20:42.822606-03:00",
+    "last_updated": "2026-08-18T20:19:46.132179-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14720,6 +14720,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
             "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "No especificado",
+            "lugar": "Plaza de Mayo",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (Sutna) y otros sindicatos como ATE y CTA Autónoma",
+            "tipo_medida": "Marcha",
+            "motivo": "Reapertura de la planta Fate y fin del lockout empresario",
+            "fuente": "https://elciudadanoweb.com/conflicto-en-fate-los-trabajadores-renuevan-la-protesta-y-convocaron-a-una-marcha-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
