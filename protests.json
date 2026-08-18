@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T16:29:52.194788-03:00",
+    "last_updated": "2026-08-18T17:20:45.779444-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14675,6 +14675,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
+            "lugar": "Ministerio de Economía",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir respuestas del gobierno sobre el endeudamiento familiar y un programa de desendeudamiento estatal",
+            "fuente": "https://motoreconomico.com.ar/ate-ratifico-la-movilizacion-contra-el-endeudamiento-de-las-familias-trabajadoras-estamos-frente-a-un-drama-social/, https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
             "lugar": "Palacio de Hacienda, Hipólito Yrigoyen 250",
             "quien": "UTEP (con CGT y CTA)",
             "tipo_medida": "Marcha",
@@ -14690,16 +14700,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar soluciones al sobreendeudamiento de familias argentinas y contra las políticas del gobierno de Javier Milei",
             "fuente": "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-20",
-            "horario": "No especificado",
-            "lugar": "Ministerio de Economía",
-            "quien": "Mesa Sindical, CGT y CTA",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclaman aumento salarial del 30%, emergencia laboral para frenar despidos y moratoria de deudas familiares, en contra de la inflación oficial y la pérdida de poder adquisitivo",
-            "fuente": "https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
