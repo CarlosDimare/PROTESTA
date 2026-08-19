@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T21:55:48.094598-03:00",
+    "last_updated": "2026-08-18T23:21:16.011205-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14685,21 +14685,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
-            "lugar": "Ministerio de Economía (Hipólito Yrigoyen 250), con concentración en Paseo Colón y Estados Unidos, e Independencia y Paseo Colón",
-            "quien": "CGT, CTA (de los Trabajadores y Autónoma), UTEP",
+            "lugar": "Ministerio de Economía",
+            "quien": "Libres del Sur",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar soluciones al endeudamiento familiar y rechazo a la intervención estatal",
-            "fuente": "https://elciudadanoweb.com/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/, https://www.conclusion.com.ar/politica/nacional-politica/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/08/2026/"
+            "motivo": "Denuncia de tasas de interés usureras y contra las políticas económicas del gobierno de Milei",
+            "fuente": "https://motoreconomico.com.ar/galperin-usurero-milei-complice-protesta-en-la-puerta-de-mercado-libre-para-denunciar-tasas-de-interes-de-hasta-1300/, https://motoreconomico.com.ar/ate-ratifico-la-movilizacion-contra-el-endeudamiento-de-las-familias-trabajadoras-estamos-frente-a-un-drama-social/, https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
-            "lugar": "Ministerio de Economía",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "lugar": "Ministerio de Economía (Hipólito Yrigoyen 250), con concentración en Paseo Colón y Estados Unidos, e Independencia y Paseo Colón",
+            "quien": "CGT, CTA (de los Trabajadores y Autónoma), UTEP",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir respuestas del gobierno sobre el endeudamiento familiar y un programa de desendeudamiento estatal",
-            "fuente": "https://motoreconomico.com.ar/ate-ratifico-la-movilizacion-contra-el-endeudamiento-de-las-familias-trabajadoras-estamos-frente-a-un-drama-social/, https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+            "motivo": "Reclamar soluciones al endeudamiento familiar y rechazo a la intervención estatal",
+            "fuente": "https://elciudadanoweb.com/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/, https://www.conclusion.com.ar/politica/nacional-politica/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/08/2026/"
         },
         {
             "es_evento_relevante": true,
