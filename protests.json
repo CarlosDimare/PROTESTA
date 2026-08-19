@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-19T13:28:14.218619-03:00",
+    "last_updated": "2026-08-19T14:25:32.284489-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14690,6 +14690,16 @@
             "tipo_medida": "Reunión de negociación",
             "motivo": "Igualación salarial entre choferes del AMBA y del interior del país, por asimetría en subsidios estatales",
             "fuente": "https://www.datagremial.com/paritarias/la-uta-dejo-en-suspenso-el-paro-de-colectivos-en-el-interior-a-la-espera-de-una-definicion-salarial-en-la-reunion-paritaria-de-la-proxima-semana-202681321490"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
+            "lugar": "Punto de partida: Paseo Colón y Estados Unidos, y avenida Independencia y Paseo Colón. Destino: Ministerio de Economía",
+            "quien": "CGT, CTA y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir soluciones al endeudamiento familiar causado por políticas de ajuste de Milei y el FMI, que afectan a 6 millones de personas en mora",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-los-endeudados-al-Ministerio-de-Economia-hay-6-millones-de-personas-mora-crediticia"
         },
         {
             "es_evento_relevante": true,
