@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-18T20:19:46.132179-03:00",
+    "last_updated": "2026-08-18T21:55:48.094598-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14710,6 +14710,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar soluciones al sobreendeudamiento de familias argentinas y contra las políticas del gobierno de Javier Milei",
             "fuente": "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "17:00",
+            "lugar": "Av. Rivadavia y Loria, Ciudad Autónoma de Buenos Aires",
+            "quien": "Comité por la reincorporación de Araceli Pintos",
+            "tipo_medida": "Corte de calle",
+            "motivo": "Reclamar reincorporación de Araceli Pintos y represalia por denuncia de acoso laboral/sexual",
+            "fuente": "https://www.laizquierdadiario.com/Anuncian-corte-de-calle-para-este-jueves-por-la-reincorporacion-de-Araceli-Pintos-al-Subte"
         },
         {
             "es_evento_relevante": true,
