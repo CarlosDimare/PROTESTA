@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-19T16:23:41.908388-03:00",
+    "last_updated": "2026-08-19T17:24:54.323139-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14694,22 +14694,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
-            "horario": "14:00",
-            "lugar": "Punto de partida: Paseo Colón y Estados Unidos, y avenida Independencia y Paseo Colón. Destino: Ministerio de Economía",
-            "quien": "CGT, CTA y movimientos sociales",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir soluciones al endeudamiento familiar causado por políticas de ajuste de Milei y el FMI, que afectan a 6 millones de personas en mora",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-de-los-endeudados-al-Ministerio-de-Economia-hay-6-millones-de-personas-mora-crediticia"
+            "horario": "13:00",
+            "lugar": "Centro de Justicia Penal, Rosario",
+            "quien": "Comunidad travesti-trans de Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir justicia por el asesinato de Gabriela Banach, caratular el caso como travesticidio, investigar componente de odio, reclamar políticas públicas para el colectivo y exigir respuestas estatales ante vulnerabilidades",
+            "fuente": "https://elciudadanoweb.com/marcha-por-gaby-banach-reclaman-que-el-crimen-sea-investigado-como-travesticidio/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
             "lugar": "Ministerio de Economía",
-            "quien": "Libres del Sur",
+            "quien": "CGT, dos CTA y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Denuncia de tasas de interés usureras y contra las políticas económicas del gobierno de Milei",
-            "fuente": "https://motoreconomico.com.ar/galperin-usurero-milei-complice-protesta-en-la-puerta-de-mercado-libre-para-denunciar-tasas-de-interes-de-hasta-1300/, https://motoreconomico.com.ar/ate-ratifico-la-movilizacion-contra-el-endeudamiento-de-las-familias-trabajadoras-estamos-frente-a-un-drama-social/, https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
+            "motivo": "Protesta por falta de respuestas oficiales para refinanciar deudas, denunciando la exclusión financiera de 20 millones de personas",
+            "fuente": "https://www.infobae.com/politica/2026/08/19/la-cgt-responsabilizo-a-milei-y-a-caputo-por-el-problema-de-las-familias-endeudadas-la-fuerte-amenaza-que-lanzo/, https://www.laizquierdadiario.com/Marcha-de-los-endeudados-al-Ministerio-de-Economia-hay-6-millones-de-personas-mora-crediticia, https://motoreconomico.com.ar/galperin-usurero-milei-complice-protesta-en-la-puerta-de-mercado-libre-para-denunciar-tasas-de-interes-de-hasta-1300/, https://motoreconomico.com.ar/ate-ratifico-la-movilizacion-contra-el-endeudamiento-de-las-familias-trabajadoras-estamos-frente-a-un-drama-social/, https://www.datagremial.com/informacion-general/la-mesa-sindical-alerta-sobre-el-avance-de-la-inflacion-real-los-despidos-y-el-endeudamiento-familiar-20268181130, https://www.datagremial.com/informacion-general/las-dos-cta-se-suman-al-reclamo-para-que-el-gobierno-busque-salidas-al-endeudamiento-familiar-202681411330, https://www.inforegion.com.ar/2026/08/12/la-cgt-toma-la-problematica-del-endeudamiento-y-marcha/, https://www.datagremial.com/informacion-general/la-cgt-confirmo-la-fecha-que-marchara-a-economia-para-pedir-soluciones-a-la-pandemia-de-endeudamiento-20268129400"
         },
         {
             "es_evento_relevante": true,
@@ -14730,6 +14730,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar soluciones al sobreendeudamiento de familias argentinas y contra las políticas del gobierno de Javier Milei",
             "fuente": "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "16:00",
+            "lugar": "Municipio de Lomas de Zamora",
+            "quien": "Jubilados y organizaciones sociales",
+            "tipo_medida": "Movilización con semaforazos",
+            "motivo": "Reclamo por jubilaciones dignas, restitución de medicamentos gratuitos para afiliados al PAMI y mejoras en el sistema de salud",
+            "fuente": "https://www.inforegion.com.ar/2026/08/19/jubilados-y-vecinos-de-lomas-de-zamora-marchan-en-la-plaza-grigera/"
         },
         {
             "es_evento_relevante": true,
