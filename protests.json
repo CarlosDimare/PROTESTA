@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-19T09:36:36.305394-03:00",
+    "last_updated": "2026-08-19T10:42:16.247066-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14600,6 +14600,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir aplicación inmediata de Ley de Financiamiento Universitario, reclamo de salarios adeudados (31.2%) y actualización de presupuestos para hospitales y becas",
             "fuente": "https://www.inforegion.com.ar/2026/08/17/esta-semana-vuelve-el-paro-universitario-en-reclamo-por-la-aplicacion-de-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-19",
+            "horario": "11:00",
+            "lugar": "Dirección de Higiene Urbana, Ciudad de Buenos Aires",
+            "quien": "Organizaciones cartoneras y cooperativas, Federación Argentina de Cartoneros, Carreros y Recuperadores (FACCyR)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la nueva licitación del servicio de reciclado que favorecería a empresas privadas, exigiendo garantías laborales para 7.000 trabajadores",
+            "fuente": "https://www.laizquierdadiario.com/Organizaciones-cartoneras-marchan-cuestionado-la-nueva-licitacion-del-sistema-que-impulsa-Macri"
         },
         {
             "es_evento_relevante": true,
