@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-19T21:56:46.435656-03:00",
+    "last_updated": "2026-08-19T23:23:27.331155-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14640,6 +14640,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitaria y recomposición salarial",
             "fuente": "https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-19",
+            "horario": "14:00",
+            "lugar": "Paseo Colón e Independencia, Ciudad Autónoma de Buenos Aires, con destino a Hipólito Yrigoyen 250 (Ministerio de Economía)",
+            "quien": "CGT, CTA y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo contra endeudamiento familiar, pérdida de poder adquisitivo y tasas abusivas por políticas económicas del gobierno de Milei",
+            "fuente": "https://elciudadanoweb.com/convocan-a-una-marcha-contra-el-endeudamiento-al-ministerio-de-economia-de-la-nacion/"
         },
         {
             "es_evento_relevante": true,
