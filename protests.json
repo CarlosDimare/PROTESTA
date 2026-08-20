@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T14:28:15.883209-03:00",
+    "last_updated": "2026-08-20T15:34:53.764929-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14833,6 +14833,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-22",
+            "horario": "**14:00**",
+            "lugar": "Ministerio de Economía",
+            "quien": "CGT, CTA, CTA Autónoma y UTEP",
+            "tipo_medida": "Marcha",
+            "motivo": "Denuncia endeudamiento familiar, pérdida de poder adquisitivo, caída del consumo y deterioro de condiciones de vida",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-marcha-este-jueves-hacia-el-ministerio-de-economia-junto-a-otras-organizaciones-gremiales-y-sociales/08/2026/, https://www.elnueve.com/argentina/marcha-de-la-cgt-contra-el-endeudamiento-familiar-de-que-se-trata-y-cuando-sera_20260820/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-25",
             "horario": "00:00",
             "lugar": "Salta",
@@ -14906,10 +14916,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Comité de Apoyo a Myriam Bregman",
+            "quien": "Sectores sociales y sindicales",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el ajuste y la represión, por derechos de trabajadores, jubilados, mujeres, diversidades y estudiantes",
-            "fuente": "https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Derrotar a Milei y su plan económico",
+            "fuente": "https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
