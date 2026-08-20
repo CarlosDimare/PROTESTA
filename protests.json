@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T16:29:36.629976-03:00",
+    "last_updated": "2026-08-20T17:24:58.435151-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14735,6 +14735,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
+            "lugar": "Paseo Colón y Estados Unidos, Buenos Aires",
+            "quien": "CGT, CTA, UTEP, movimientos sociales y partidos políticos de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Visibilizar la crisis de morosidad que afecta a 5.5 millones de familias con créditos impagos o atrasos graves",
+            "fuente": "https://www.infobae.com/politica/2026/08/20/marcha-contra-el-endeudamiento-el-gobierno-acusa-a-la-cgt-de-aprovechamiento-politico-del-reclamo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
             "lugar": "Ministerio de Economía (Hipólito Yrigoyen 250), Ciudad Autónoma de Buenos Aires",
             "quien": "CGT, UTEP y CTA",
             "tipo_medida": "Marcha",
@@ -14916,10 +14926,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Sectores sociales y sindicales",
+            "quien": "CGT, CTA y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Derrotar a Milei y su plan económico",
-            "fuente": "https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Derrotar al gobierno de Milei, su plan económico y cómplices, en el contexto de la crisis de endeudamiento familiar y la lucha por una huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
