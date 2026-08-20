@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-19T20:20:22.010851-03:00",
+    "last_updated": "2026-08-19T21:56:46.435656-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14760,6 +14760,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
             "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-25",
+            "horario": "00:00",
+            "lugar": "Salta",
+            "quien": "Agremiación Judicial de Salta (AJS)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial del 2% y exigencia de recomposición salarial para recuperar poder adquisitivo",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-saltenos-van-al-paro-tras-considerar-insuficiente-la-propuesta-de-2-de-aumento-salarial-ofrecido-por-el-maximo-tribunal-provincial-20268191700"
         },
         {
             "es_evento_relevante": true,
