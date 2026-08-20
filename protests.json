@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T11:38:59.710117-03:00",
+    "last_updated": "2026-08-20T12:32:41.439451-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14705,6 +14705,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "12:00",
+            "lugar": "Tribunales Federales de Oroño 490",
+            "quien": "Unión de Empleados Judiciales de la Nación (UEJN)",
+            "tipo_medida": "Movilización",
+            "motivo": "Mejora salarial, situación de obra social y defensa de la Justicia Laboral nacional",
+            "fuente": "https://www.conclusion.com.ar/gremiales/banderazo-y-paro-de-judiciales-nacionales-por-salarios-obra-social-y-contra-el-traspaso-de-la-justicia-laboral-a-buenos-aires/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "12:00",
             "lugar": "No especificado",
             "quien": "Unión Tranviarios Automotor (UTA)",
             "tipo_medida": "Reunión de negociación",
@@ -14800,6 +14810,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
             "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-21",
+            "horario": "17:30",
+            "lugar": "Plaza Sarmiento, Rosario",
+            "quien": "Multisectorial de Rosario (CGT, Catt, CCC y organizaciones sociales)",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a la visita del presidente Javier Milei y declaración como 'persona no grata', en rechazo a sus políticas económicas",
+            "fuente": "https://www.conclusion.com.ar/politica/no-grato-organizan-una-marcha-para-repudiar-la-presencia-de-milei-en-rosario/08/2026/"
         },
         {
             "es_evento_relevante": true,
