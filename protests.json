@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T17:24:58.435151-03:00",
+    "last_updated": "2026-08-20T18:27:15.227465-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14695,6 +14695,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "10:00",
+            "lugar": "Palacio de Hacienda (Ministerio de Economía)",
+            "quien": "Utep, CGT y CTA",
+            "tipo_medida": "Movilización",
+            "motivo": "Crisis de endeudamiento familiar y en barrios populares, falta de crédito formal",
+            "fuente": "https://www.inforegion.com.ar/2026/08/20/la-cgt-encabezo-una-marcha-por-las-familias-endeudadas-y-las-pymes-se-movilizaron-contra-el-cierre-de-las-empresas/, https://www.infobae.com/politica/2026/08/20/marcha-de-los-endeudados-en-vivo-las-ultimas-noticias-de-la-movilizacion-de-la-cgt-y-organizaciones-sociales/, https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "10:00",
             "lugar": "Ministerio de Economía (Edificio Néstor Kirchner, Puerto Madero)",
             "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Marcha",
@@ -14740,16 +14750,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Visibilizar la crisis de morosidad que afecta a 5.5 millones de familias con créditos impagos o atrasos graves",
             "fuente": "https://www.infobae.com/politica/2026/08/20/marcha-contra-el-endeudamiento-el-gobierno-acusa-a-la-cgt-de-aprovechamiento-politico-del-reclamo/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-20",
-            "horario": "14:00",
-            "lugar": "Ministerio de Economía (Hipólito Yrigoyen 250), Ciudad Autónoma de Buenos Aires",
-            "quien": "CGT, UTEP y CTA",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por endeudamiento familiar, acceso al crédito y crisis de morosidad",
-            "fuente": "https://www.infobae.com/politica/2026/08/20/marcha-de-los-endeudados-en-vivo-las-ultimas-noticias-de-la-movilizacion-de-la-cgt-y-organizaciones-sociales/"
         },
         {
             "es_evento_relevante": true,
@@ -14820,16 +14820,6 @@
             "tipo_medida": "Corte de calle",
             "motivo": "Reclamar reincorporación de Araceli Pintos y represalia por denuncia de acoso laboral/sexual",
             "fuente": "https://www.laizquierdadiario.com/Anuncian-corte-de-calle-para-este-jueves-por-la-reincorporacion-de-Araceli-Pintos-al-Subte"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-20",
-            "horario": "No especificado",
-            "lugar": "Ministerio de Economía de la Nación",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Visibilizar el drama del endeudamiento de las familias trabajadoras y reclamar frente a la falta de intervención estatal",
-            "fuente": "https://estadodealerta.com.ar/la-cgt-combina-calle-e-instancias-de-dialogo-marcha-contra-el-endeudamiento-y-participa-del-encuentro-argentina-produce/"
         },
         {
             "es_evento_relevante": true,
