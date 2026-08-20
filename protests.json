@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T08:25:29.170416-03:00",
+    "last_updated": "2026-08-20T09:39:43.689606-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14715,6 +14715,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "14:00",
+            "lugar": "Esquina de Paseo Colón y Estados Unidos, e intersección de avenidas Independencia y Paseo Colón (puntos de concentración), con destino final en Hipólito Yrigoyen 250 (Ministerio de Economía)",
+            "quien": "CGT, UTEP y las dos CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar medidas frente al endeudamiento familiar y la crisis de morosidad crediticia que afecta a millones de hogares",
+            "fuente": "https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
             "lugar": "Ministerio de Economía",
             "quien": "CGT, dos CTA y movimientos sociales",
             "tipo_medida": "Marcha",
@@ -14730,16 +14740,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar soluciones al endeudamiento familiar y rechazo a la intervención estatal",
             "fuente": "https://elciudadanoweb.com/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/, https://www.conclusion.com.ar/politica/nacional-politica/gremios-y-organizaciones-sociales-marcharan-en-protesta-por-el-endeudamiento-de-las-familias/08/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-20",
-            "horario": "14:00",
-            "lugar": "Concentración en Paseo Colón y Estados Unidos, e intersección de Av. Independencia y Av. Paseo Colón; destino final: Ministerio de Economía (Hipólito Yrigoyen 250, Ciudad Autónoma de Buenos Aires)",
-            "quien": "Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP), Confederación General del Trabajo (CGT), CTA de los Trabajadores y CTA Autónoma",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamar soluciones al sobreendeudamiento de familias argentinas y contra las políticas del gobierno de Javier Milei",
-            "fuente": "https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
