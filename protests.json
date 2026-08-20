@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20T10:49:44.263853-03:00",
+    "last_updated": "2026-08-20T11:38:59.710117-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14675,6 +14675,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-20",
             "horario": "09:00",
+            "lugar": "Plaza de Mayo, frente a la Casa Rosada",
+            "quien": "Pequeñas y Medianas Empresas (PyMEs) representadas por ENAC, APYME, Confederación Federal PyME Argentina y cámaras sectoriales",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar por crisis económica, cierres de empresas y exigir al Congreso que trate el proyecto de Ley de Emergencia Pyme para medidas de alivio fiscal, tarifario y financiero",
+            "fuente": "https://www.conclusion.com.ar/gremiales/pymes-de-santa-fe-se-suman-a-la-marcha-nacional-a-plaza-de-mayo-para-reclamar-medidas-ante-la-crisis-del-sector/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "09:00",
             "lugar": "Plaza de Mayo",
             "quien": "Asamblea de Pequeños y Medianos Empresarios (APYME) y PyMEs del país",
             "tipo_medida": "Marcha",
@@ -14710,6 +14720,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir justicia por el asesinato de Gabriela Banach, caratular el caso como travesticidio, investigar componente de odio, reclamar políticas públicas para el colectivo y exigir respuestas estatales ante vulnerabilidades",
             "fuente": "https://elciudadanoweb.com/marcha-por-gaby-banach-reclaman-que-el-crimen-sea-investigado-como-travesticidio/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
+            "lugar": "Hipólito Yrigoyen 250 (Ministerio de Economía)",
+            "quien": "CGT, CTA y UTEP, junto con cámaras empresariales de pymes",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar medidas ante el endeudamiento familiar masivo, caída del poder adquisitivo, cierre de empresas y consecuencias de la política económica del gobierno",
+            "fuente": "https://www.anred.org/movilizacion-al-ministerio-de-economia-6-de-cada-10-argentinos-se-endeuda-para-comer/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-20",
+            "horario": "14:00",
+            "lugar": "Palacio de Hacienda (Hipólito Yrigoyen 250), Buenos Aires",
+            "quien": "CGT, dos CTA, UTEP y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar respuestas ante el creciente endeudamiento familiar y condiciones abusivas de financiamiento",
+            "fuente": "https://www.inforegion.com.ar/2026/08/20/endeudamiento-familiar-sindicatos-y-organizaciones-sociales-marchan-al-ministerio-de-economia/"
         },
         {
             "es_evento_relevante": true,
