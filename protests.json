@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-21T19:19:50.150974-03:00",
+    "last_updated": "2026-08-21T20:20:22.365432-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14836,10 +14836,10 @@
             "fecha": "2026-08-21",
             "horario": "17:30",
             "lugar": "Plaza Sarmiento, Rosario",
-            "quien": "Multisectorial de Rosario (CGT, Catt, CCC y organizaciones sociales)",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio a la visita del presidente Javier Milei y declaración como 'persona no grata', en rechazo a sus políticas económicas",
-            "fuente": "https://www.conclusion.com.ar/politica/no-grato-organizan-una-marcha-para-repudiar-la-presencia-de-milei-en-rosario/08/2026/"
+            "quien": "CATT Rosario, CTA Autónoma y organizaciones sociales/políticas",
+            "tipo_medida": "Marcha concentrada",
+            "motivo": "Protesta contra la visita del presidente Javier Milei por la situación económica y su popularidad en caída",
+            "fuente": "https://elciudadanoweb.com/milei-en-rosario-fuerte-operativo-de-seguridad-y-marcha-de-repudio-en-nueva-visita-presidencial/, https://www.conclusion.com.ar/politica/no-grato-organizan-una-marcha-para-repudiar-la-presencia-de-milei-en-rosario/08/2026/"
         },
         {
             "es_evento_relevante": true,
