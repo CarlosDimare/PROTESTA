@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-21T15:29:37.497500-03:00",
+    "last_updated": "2026-08-21T16:24:34.741096-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15046,10 +15046,10 @@
             "fecha": "No especificado",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "CGT, CTA-A, CTA-T y UTEP",
-            "tipo_medida": "Paro nacional y Marcha federal",
-            "motivo": "Reclamo contra endeudamiento familiar, morosidad récord y políticas económicas del gobierno de Javier Milei, exigiendo refinanciación de deudas, reactivación productiva y regulación financiera",
-            "fuente": "https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
+            "quien": "CGT y CTA",
+            "tipo_medida": "Paro general",
+            "motivo": "Reclamos contra políticas económicas del gobierno, endeudamiento masivo de trabajadores, necesidad de recomponer salarios y abrir Consejo del Salario",
+            "fuente": "https://www.datagremial.com/escenario/masiva-marcha-por-los-endeudados-con-claro-mensaje-a-milei-si-hay-una-pistola-en-la-cabeza-y-es-la-politica-economica-20268211000, https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
         },
         {
             "es_evento_relevante": true,
