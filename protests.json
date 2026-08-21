@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-21T11:36:42.342767-03:00",
+    "last_updated": "2026-08-21T12:30:02.038053-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14840,6 +14840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir medidas urgentes para aliviar el endeudamiento y morosidad de familias y pymes, incluyendo límites a tasas de interés y programas de refinanciación",
             "fuente": "https://www.infobae.com/politica/2026/08/20/los-tres-reclamos-urgentes-que-le-hizo-la-cgt-al-gobierno-para-aliviar-el-endeudamiento-de-familias-y-pymes/, https://www.conclusion.com.ar/gremiales/la-cgt-marcha-este-jueves-hacia-el-ministerio-de-economia-junto-a-otras-organizaciones-gremiales-y-sociales/08/2026/, https://www.elnueve.com/argentina/marcha-de-la-cgt-contra-el-endeudamiento-familiar-de-que-se-trata-y-cuando-sera_20260820/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-22",
+            "horario": "16:00",
+            "lugar": "Bolsa de Comercio de Rosario",
+            "quien": "El Ciudadano",
+            "tipo_medida": "Corte",
+            "motivo": "Protocolo de seguridad para visita presidencial",
+            "fuente": "https://elciudadanoweb.com/ojo-llega-milei-a-rosario-y-por-eso-hay-desvios-y-cortes-de-transito-en-la-tarde-de-este-viernes/"
         },
         {
             "es_evento_relevante": true,
