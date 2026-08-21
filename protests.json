@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-21T14:25:05.236121-03:00",
+    "last_updated": "2026-08-21T15:29:37.497500-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14820,6 +14820,16 @@
             "tipo_medida": "Corte de calle",
             "motivo": "Reclamar reincorporación de Araceli Pintos y represalia por denuncia de acoso laboral/sexual",
             "fuente": "https://www.laizquierdadiario.com/Anuncian-corte-de-calle-para-este-jueves-por-la-reincorporacion-de-Araceli-Pintos-al-Subte"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-21",
+            "horario": "12:00",
+            "lugar": "Tribunales Federales de calle Oroño al 900 y Entre Ríos al 400 (Rosario)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos salariales, situación de la obra social y rechazo al traspaso de la Justicia Nacional del Trabajo a la Ciudad de Buenos Aires",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-de-24-horas-de-los-judiciales-nacionales-se-paraliza-la-actividad-en-los-tribunales-federales-de-rosario/08/2026/, https://algoencomun.com.ar/judiciales-nacionales-profundizan-el-plan-de-lucha-con-banderazo-y-paro-de-24-horas-por-salarios/"
         },
         {
             "es_evento_relevante": true,
