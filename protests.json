@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-21T05:37:52.048509-03:00",
+    "last_updated": "2026-08-21T06:37:32.939040-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14834,12 +14834,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-22",
-            "horario": "**14:00**",
+            "horario": "10:00",
             "lugar": "Ministerio de Economía",
-            "quien": "CGT, CTA, CTA Autónoma y UTEP",
+            "quien": "CGT, dos CTA y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Denuncia endeudamiento familiar, pérdida de poder adquisitivo, caída del consumo y deterioro de condiciones de vida",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-marcha-este-jueves-hacia-el-ministerio-de-economia-junto-a-otras-organizaciones-gremiales-y-sociales/08/2026/, https://www.elnueve.com/argentina/marcha-de-la-cgt-contra-el-endeudamiento-familiar-de-que-se-trata-y-cuando-sera_20260820/"
+            "motivo": "Exigir medidas urgentes para aliviar el endeudamiento y morosidad de familias y pymes, incluyendo límites a tasas de interés y programas de refinanciación",
+            "fuente": "https://www.infobae.com/politica/2026/08/20/los-tres-reclamos-urgentes-que-le-hizo-la-cgt-al-gobierno-para-aliviar-el-endeudamiento-de-familias-y-pymes/, https://www.conclusion.com.ar/gremiales/la-cgt-marcha-este-jueves-hacia-el-ministerio-de-economia-junto-a-otras-organizaciones-gremiales-y-sociales/08/2026/, https://www.elnueve.com/argentina/marcha-de-la-cgt-contra-el-endeudamiento-familiar-de-que-se-trata-y-cuando-sera_20260820/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-24",
+            "horario": "15:00",
+            "lugar": "Tierra del Fuego",
+            "quien": "SUTEF",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial y condiciones laborales en educación",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-tercera-semana-de-paro-docente-por-tiempo-indeterminado, https://www.infofueguina.com/tu-ciudad/2026/8/18/tras-mas-de-dos-semanas-de-bloqueo-la-educacion-el-sutef-el-gobierno-se-reunen-89412.html"
         },
         {
             "es_evento_relevante": true,
