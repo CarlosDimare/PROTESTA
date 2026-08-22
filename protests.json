@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-22T19:17:58.244307-03:00",
+    "last_updated": "2026-08-22T20:17:39.185617-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14895,6 +14895,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Coad (Confederación de Asociaciones de Docentes de la Universidad)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de la ley de financiamiento universitario 27.795 y reclamos salariales/becas/hospitales",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-confirman-paro-de-48-horas-para-jueves-27-y-viernes-28/, https://estadodealerta.com.ar/los-docentes-universitarios-sostienen-el-paro-y-reactivan-los-reclamos-respecto-del-financiamiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "00:00",
             "lugar": "Universidad Nacional de Rosario (UNR)",
             "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
             "tipo_medida": "Paro",
@@ -14920,16 +14930,6 @@
             "tipo_medida": "Encuentro bilateral",
             "motivo": "Elaborar propuestas conjuntas sobre crisis económica, productiva y laboral para presentar al próximo presidente",
             "fuente": "https://www.infobae.com/politica/2026/08/17/sindicalistas-y-empresarios-impulsan-nuevos-espacios-de-debate-por-que-los-acerco-milei-y-que-objetivo-buscan-como-aliados/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-27",
-            "horario": "11:00",
-            "lugar": "No especificado",
-            "quien": "FEDUN y FATUN (federaciones de docentes y no docentes universitarios)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario, recomposición salarial y actualización de becas",
-            "fuente": "https://estadodealerta.com.ar/los-docentes-universitarios-sostienen-el-paro-y-reactivan-los-reclamos-respecto-del-financiamiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
