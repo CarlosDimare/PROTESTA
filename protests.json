@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-22T15:24:25.791029-03:00",
+    "last_updated": "2026-08-22T16:20:57.484754-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14970,6 +14970,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:00",
+            "lugar": "Buenos Aires",
+            "quien": "Movimiento sindical, social, estudiantil, feminista, ambiental y de izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Derrotar al gobierno de Milei mediante una jornada de lucha nacional",
+            "fuente": "https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
         },
         {
             "es_evento_relevante": true,
