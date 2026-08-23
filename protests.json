@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-23T16:20:03.848908-03:00",
+    "last_updated": "2026-08-23T17:17:34.405292-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14930,6 +14930,16 @@
             "tipo_medida": "Encuentro bilateral",
             "motivo": "Elaborar propuestas conjuntas sobre crisis económica, productiva y laboral para presentar al próximo presidente",
             "fuente": "https://www.infobae.com/politica/2026/08/17/sindicalistas-y-empresarios-impulsan-nuevos-espacios-de-debate-por-que-los-acerco-milei-y-que-objetivo-buscan-como-aliados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "11:00",
+            "lugar": "Todas las universidades del país",
+            "quien": "CONADU y otros sindicatos docentes universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por financiamiento de la educación superior, situación salarial (recomposición, pago del 28,5% de junio con retroactivos, restitución del FONID, actualización de garantía salarial) y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/08/23/paro-universitario-nacional-docentes-confirmaron-una-medida-de-fuerza-de-48-horas-en-todo-el-pais/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
