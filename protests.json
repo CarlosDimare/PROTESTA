@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24T08:22:21.035261-03:00",
+    "last_updated": "2026-08-24T09:36:52.364478-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14860,6 +14860,16 @@
             "tipo_medida": "Corte",
             "motivo": "Protocolo de seguridad para visita presidencial",
             "fuente": "https://elciudadanoweb.com/ojo-llega-milei-a-rosario-y-por-eso-hay-desvios-y-cortes-de-transito-en-la-tarde-de-este-viernes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-24",
+            "horario": "09:00",
+            "lugar": "Edificio Centinela (Antártida Argentina 1480, Ciudad de Buenos Aires)",
+            "quien": "Fuerzas Federales de Seguridad",
+            "tipo_medida": "Marcha",
+            "motivo": "Sueldo digno y condiciones laborales justas",
+            "fuente": "https://www.conclusion.com.ar/politica/las-cinco-fuerzas-federales-marcharan-en-capital-federal-para-exigir-un-sueldo-digno/08/2026/"
         },
         {
             "es_evento_relevante": true,
