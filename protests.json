@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24T17:33:25.796703-03:00",
+    "last_updated": "2026-08-24T18:26:00.152185-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14983,6 +14983,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "12:00",
+            "lugar": "Estación Constitución → Ministerio de Capital Humano",
+            "quien": "Frente de Lucha Piquetero y organizaciones piqueteras",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el ajuste del Ministerio de Capital Humano, reclamo por la devolución de $78,000 a beneficiarios del programa Volver al Trabajo, exigencia de devolución de alimentos a comedores populares, y denuncia de crisis social (hambre, desocupación y endeudamiento)",
+            "fuente": "https://www.laizquierdadiario.com/Organizaciones-marcharan-a-Capital-Humano-denuncian-el-ajuste-y-piden-restituir-programas-sociales"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-31",
             "horario": "10:00",
             "lugar": "Palacio Pizzurno, Avda. Paseo Colón 1250, Buenos Aires",
@@ -15026,10 +15036,10 @@
             "fecha": "2026-09-19",
             "horario": "14:00",
             "lugar": "Buenos Aires",
-            "quien": "Movimiento sindical, social, estudiantil, feminista, ambiental y de izquierda",
+            "quien": "Movimiento por la Marcha de la Bronca",
             "tipo_medida": "Marcha",
-            "motivo": "Derrotar al gobierno de Milei mediante una jornada de lucha nacional",
-            "fuente": "https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
+            "motivo": "Contra las políticas de Milei y por la huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Con-una-exitosa-reunion-federal-crece-la-convocatoria-a-la-Marcha-de-la-Bronca-del-19-de-septiembre, https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
         },
         {
             "es_evento_relevante": true,
