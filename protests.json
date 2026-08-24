@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-23T21:55:01.993624-03:00",
+    "last_updated": "2026-08-23T23:23:01.395544-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14895,21 +14895,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Coad (Confederación de Asociaciones de Docentes de la Universidad)",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Coad (gremio de docentes e investigadores de la UNR)",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimiento de la ley de financiamiento universitario 27.795 y reclamos salariales/becas/hospitales",
-            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-confirman-paro-de-48-horas-para-jueves-27-y-viernes-28/, https://estadodealerta.com.ar/los-docentes-universitarios-sostienen-el-paro-y-reactivan-los-reclamos-respecto-del-financiamiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+            "motivo": "Cumplimiento de ley de financiamiento universitario, aumentos salariales y presupuestarios",
+            "fuente": "https://elciudadanoweb.com/reclamos-salariales-y-presupuestarios-esta-semana-habra-un-paro-de-48-horas-en-la-universidad-nacional-de-rosario/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-vuelven-al-paro-habra-una-nueva-medida-de-fuerza-el-27-y-28-de-agosto/08/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
-            "lugar": "Universidad Nacional de Rosario (UNR)",
-            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
+            "lugar": "No especificado",
+            "quien": "Coad (Confederación de Asociaciones de Docentes de la Universidad)",
             "tipo_medida": "Paro",
-            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial/presupuestaria",
-            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-vuelven-al-paro-habra-una-nueva-medida-de-fuerza-el-27-y-28-de-agosto/08/2026/"
+            "motivo": "Incumplimiento de la ley de financiamiento universitario 27.795 y reclamos salariales/becas/hospitales",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-confirman-paro-de-48-horas-para-jueves-27-y-viernes-28/, https://estadodealerta.com.ar/los-docentes-universitarios-sostienen-el-paro-y-reactivan-los-reclamos-respecto-del-financiamiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
