@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24T14:28:30.833731-03:00",
+    "last_updated": "2026-08-24T15:33:28.667771-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14893,6 +14893,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-25",
+            "horario": "10:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Junta interna de ATE Garrahan y Asociación de Profesionales y Técnicos (APyT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de salarios congelados, falta de personal, deterioro de infraestructura y gastos supérfluos por parte de la gestión",
+            "fuente": "https://www.datagremial.com/informacion-general/trabajadores-y-profesionales-del-garrahan-vuelven-a-las-protestas-para-denunciar-falta-peligrosa-de-personal-202682414130"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-26",
             "horario": "No especificado",
             "lugar": "Plaza de Mayo",
@@ -14940,6 +14950,16 @@
             "tipo_medida": "Encuentro bilateral",
             "motivo": "Elaborar propuestas conjuntas sobre crisis económica, productiva y laboral para presentar al próximo presidente",
             "fuente": "https://www.infobae.com/politica/2026/08/17/sindicalistas-y-empresarios-impulsan-nuevos-espacios-de-debate-por-que-los-acerco-milei-y-que-objetivo-buscan-como-aliados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "11:00",
+            "lugar": "Palacio Pizzurno (Secretaría de Educación) y otros puntos del país",
+            "quien": "CONADU, FEDUBA, AGD-UBA y gremios de base",
+            "tipo_medida": "Paro nacional de 48 horas y Carpas por la Universidad y la Soberanía",
+            "motivo": "Reclamo por desfinanciamiento salarial y presupuestario de universidades públicas e incumplimiento de la Ley 27.795",
+            "fuente": "https://estadodealerta.com.ar/ley-de-financiamiento-universitario-docentes-y-no-docentes-vuelven-al-paro-en-conmemoracion-al-ano-de-incumplimiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
