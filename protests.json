@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-24T16:30:59.813472-03:00",
+    "last_updated": "2026-08-24T17:33:25.796703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14903,6 +14903,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-25",
+            "horario": "11:00",
+            "lugar": "La Plata",
+            "quien": "Docentes de SUTEBA (Lista Multicolor)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el ajuste, reclamo salarial y condiciones laborales",
+            "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-la-semana-dia-a-dia-docentes-Fate-Garraham-hacia-la-marcha-de-la-bronca-y-crecen-los, https://www.laizquierdadiario.com/Crece-la-bronca-movilizacion-y-paro-docente-el-25-y-26-de-agosto-contra-el-ajuste"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-26",
             "horario": "No especificado",
             "lugar": "Plaza de Mayo",
@@ -15040,6 +15050,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
+            "horario": "15:00",
+            "lugar": "centro de la Ciudad de Buenos Aires",
+            "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el genocidio en Gaza y la ocupación palestina, con la consigna 'Argentina es antisionista'",
+            "fuente": "https://www.laizquierdadiario.com/Marcharon-en-el-centro-porteno-contra-el-genocidio-en-Gaza, https://www.laizquierdadiario.com/Argentina-se-moviliza-este-sabado-contra-el-genocidio-en-Gaza"
         },
         {
             "es_evento_relevante": true,
