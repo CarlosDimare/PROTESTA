@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25T12:38:57.300844-03:00",
+    "last_updated": "2026-08-25T13:32:03.498364-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14935,6 +14935,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
+            "lugar": "Todas las universidades públicas del país",
+            "quien": "FATUN y Conadu",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Efectivo cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/08/25/fatun-ratifico-el-paro-de-48-horas-por-la-ley-de-financiamiento-universitario/, https://www.inforegion.com.ar/2026/08/23/paro-universitario-nacional-docentes-confirmaron-una-medida-de-fuerza-de-48-horas-en-todo-el-pais/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "00:00",
             "lugar": "No especificado",
             "quien": "CONADU y gremios universitarios",
             "tipo_medida": "Huelga",
@@ -14980,16 +14990,6 @@
             "tipo_medida": "Paro nacional de 48 horas y Carpas por la Universidad y la Soberanía",
             "motivo": "Reclamo por desfinanciamiento salarial y presupuestario de universidades públicas e incumplimiento de la Ley 27.795",
             "fuente": "https://estadodealerta.com.ar/ley-de-financiamiento-universitario-docentes-y-no-docentes-vuelven-al-paro-en-conmemoracion-al-ano-de-incumplimiento/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-27",
-            "horario": "11:00",
-            "lugar": "Todas las universidades del país",
-            "quien": "CONADU y otros sindicatos docentes universitarios",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamos por financiamiento de la educación superior, situación salarial (recomposición, pago del 28,5% de junio con retroactivos, restitución del FONID, actualización de garantía salarial) y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/08/23/paro-universitario-nacional-docentes-confirmaron-una-medida-de-fuerza-de-48-horas-en-todo-el-pais/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
