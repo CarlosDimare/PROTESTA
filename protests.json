@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25T09:37:59.810263-03:00",
+    "last_updated": "2026-08-25T10:46:06.514490-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14910,6 +14910,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el ajuste, reclamo salarial y condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-la-semana-dia-a-dia-docentes-Fate-Garraham-hacia-la-marcha-de-la-bronca-y-crecen-los, https://www.laizquierdadiario.com/Crece-la-bronca-movilizacion-y-paro-docente-el-25-y-26-de-agosto-contra-el-ajuste"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional hacia Obelisco porteño (con conferencia de prensa en el Obelisco)",
+            "quien": "Coordinadora por la Libertad de lxs Presxs Políticxs (apoyada por organizaciones sociales, políticas, sindicales y de derechos humanos)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, denunciando la criminalización de la protesta social y la defensa de las libertades democráticas",
+            "fuente": "https://www.anred.org/presos-por-protestar-con-la-consigna-luchar-no-es-delito-vuelven-a-las-calles-por-la-libertad-de-milton-tolomeo-y-eneas-gallo/"
         },
         {
             "es_evento_relevante": true,
