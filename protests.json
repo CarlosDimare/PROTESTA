@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25T19:22:51.085446-03:00",
+    "last_updated": "2026-08-25T20:24:20.669927-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14910,6 +14910,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el ajuste, reclamo salarial y condiciones laborales",
             "fuente": "https://www.laizquierdadiario.com/Las-peleas-de-la-semana-dia-a-dia-docentes-Fate-Garraham-hacia-la-marcha-de-la-bronca-y-crecen-los, https://www.laizquierdadiario.com/Crece-la-bronca-movilizacion-y-paro-docente-el-25-y-26-de-agosto-contra-el-ajuste"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "13:00",
+            "lugar": "Parque Industrial de Río Grande",
+            "quien": "Unión Obrera Metalúrgica (UOM)",
+            "tipo_medida": "Paro",
+            "motivo": "Respuesta a 339 despidos y negativa de la empresa a permitir ingreso de delegados a pesar de conciliación obligatoria",
+            "fuente": "https://www.laizquierdadiario.com/Tras-un-provocador-discurso-del-CEO-de-Mirgor-la-UOM-anuncio-el-paro-de-todas-las-plantas"
         },
         {
             "es_evento_relevante": true,
