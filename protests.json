@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25T13:32:03.498364-03:00",
+    "last_updated": "2026-08-25T14:30:08.287890-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14920,6 +14920,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, denunciando la criminalización de la protesta social y la defensa de las libertades democráticas",
             "fuente": "https://www.anred.org/presos-por-protestar-con-la-consigna-luchar-no-es-delito-vuelven-a-las-calles-por-la-libertad-de-milton-tolomeo-y-eneas-gallo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Lista Multicolor de Suteba y otros sectores de estatales bonaerenses",
+            "tipo_medida": "Paro",
+            "motivo": "Salarios de miseria, desfinanciamiento de la escuela pública y descuentos a quienes protestan",
+            "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-de-Kicillof-miles-de-docentes-marchan-a-La-Plata-previo-al-paro-convocado-por-la"
         },
         {
             "es_evento_relevante": true,
