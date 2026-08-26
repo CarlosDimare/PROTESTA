@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26T10:55:35.222905-03:00",
+    "last_updated": "2026-08-26T11:51:18.211886-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15090,6 +15090,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:00",
+            "lugar": "Buenos Aires y todo el país",
+            "quien": "Organizaciones populares y sectores",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el endeudamiento de familias, los bancos, Marcos Galperín y la política económica del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-la-marcha-de-las-y-los-endeudados, https://www.datadiario.com/sociedad/marcha-contra-el-endeudamiento-familiar-y-la-morosidad-que-afecta-a-casi-6-millones-de-personas-en-argentina-quienes-participan-2026820920"
         },
         {
             "es_evento_relevante": true,
