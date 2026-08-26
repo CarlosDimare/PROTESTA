@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26T15:59:28.992018-03:00",
+    "last_updated": "2026-08-26T18:42:19.850295-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14960,6 +14960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, denunciando la criminalización de la protesta social y la defensa de las libertades democráticas",
             "fuente": "https://www.anred.org/presos-por-protestar-con-la-consigna-luchar-no-es-delito-vuelven-a-las-calles-por-la-libertad-de-milton-tolomeo-y-eneas-gallo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "16:30",
+            "lugar": "Plaza 25 de Mayo (Laprida y Córdoba)",
+            "quien": "Organizaciones feministas",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra violencia de género con víctimas fatales, bajo el lema 'Marchamos porque nuestras vidas están en emergencia'",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/desvian-el-recorrido-del-transporte-urbano-en-el-microcentro-por-la-marcha-contra-la-violencia-de-genero/08/2026/"
         },
         {
             "es_evento_relevante": true,
