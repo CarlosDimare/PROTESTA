@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25T21:57:32.501344-03:00",
+    "last_updated": "2026-08-25T23:27:54.974436-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14940,6 +14940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamar la libertad de Milton Tolomeo y Eneas Gallo, denunciando la criminalización de la protesta social y la defensa de las libertades democráticas",
             "fuente": "https://www.anred.org/presos-por-protestar-con-la-consigna-luchar-no-es-delito-vuelven-a-las-calles-por-la-libertad-de-milton-tolomeo-y-eneas-gallo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "17:00",
+            "lugar": "Plaza 25 de Mayo (inicio) y Plaza San Martín (destino)",
+            "quien": "Asamblea Lesbotransfeminista de Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por emergencia en violencia de género y feminicidios, exigencia de políticas públicas de atención y prevención",
+            "fuente": "https://elciudadanoweb.com/el-movimiento-lesbotransfeminista-marcha-este-miercoles-en-rosario-contra-la-violencia-de-genero/"
         },
         {
             "es_evento_relevante": true,
