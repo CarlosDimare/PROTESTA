@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26T13:20:04.290710-03:00",
+    "last_updated": "2026-08-26T15:59:28.992018-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14914,12 +14914,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-26",
+            "horario": "10:00",
+            "lugar": "Argentina",
+            "quien": "Frente de Sindicatos Unidos (Fresu)",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a las políticas económicas del gobierno de Javier Milei, incluyendo endeudamiento masivo, cierres de industrias y afectación de derechos laborales y sociales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-fresu-y-un-paro-general-las-politicas-de-milei-y-de-caputo-son-una-9-milimetros-en-la-cien-de-millones-de-argentinos/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
             "horario": "13:00",
             "lugar": "Parque Industrial de Río Grande",
             "quien": "Unión Obrera Metalúrgica (UOM)",
             "tipo_medida": "Paro",
             "motivo": "Respuesta a 339 despidos y negativa de la empresa a permitir ingreso de delegados a pesar de conciliación obligatoria",
             "fuente": "https://www.laizquierdadiario.com/Tras-un-provocador-discurso-del-CEO-de-Mirgor-la-UOM-anuncio-el-paro-de-todas-las-plantas"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-26",
+            "horario": "15:01",
+            "lugar": "Plaza de Mayo",
+            "quien": "Sutna",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al intento de cierre de la fábrica por parte de Javier Madanes Quintanilla",
+            "fuente": "https://www.laizquierdadiario.com/Sigue-la-lucha-de-los-trabajadores-de-Fate-marcha-y-Festival-en-Plaza-de-Mayo, https://elciudadanoweb.com/conflicto-en-fate-los-trabajadores-renuevan-la-protesta-y-convocaron-a-una-marcha-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
@@ -14960,16 +14980,6 @@
             "tipo_medida": "Paro",
             "motivo": "Salarios de miseria, desfinanciamiento de la escuela pública y descuentos a quienes protestan",
             "fuente": "https://www.laizquierdadiario.com/Contra-el-ajuste-de-Kicillof-miles-de-docentes-marchan-a-La-Plata-previo-al-paro-convocado-por-la"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-08-26",
-            "horario": "No especificado",
-            "lugar": "Plaza de Mayo",
-            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (Sutna) y otros sindicatos como ATE y CTA Autónoma",
-            "tipo_medida": "Marcha",
-            "motivo": "Reapertura de la planta Fate y fin del lockout empresario",
-            "fuente": "https://elciudadanoweb.com/conflicto-en-fate-los-trabajadores-renuevan-la-protesta-y-convocaron-a-una-marcha-a-plaza-de-mayo/"
         },
         {
             "es_evento_relevante": true,
@@ -15160,6 +15170,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos, ajustes salariales y cierres de empresas",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-30",
+            "horario": "00:00",
+            "lugar": "Rosario",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro regional",
+            "motivo": "Exigir Salario Mínimo, Vital y Móvil de $3.065.161, desendeudamiento, salud y universidades públicas, conforme a la Constitución Nacional",
+            "fuente": "https://motoreconomico.com.ar/el-fresu-prepara-paros-regionales-para-llegar-a-una-masiva-huelga-nacional-antes-de-fin-de-ano/"
         },
         {
             "es_evento_relevante": true,
