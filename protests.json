@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-26T23:56:02.639395-03:00",
+    "last_updated": "2026-08-27T10:40:32.488506-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15055,6 +15055,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "11:00",
+            "lugar": "Ministerio de Defensa",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro total y movilización",
+            "motivo": "Reclamo de mejoras salariales y laborales para personal civil de Fuerzas Armadas, apoyo a personal militar, reapertura de paritarias, situación financiera de OSFA y rechazo al cierre de Base Aeronaval Punta Indio",
+            "fuente": "https://elciudadanoweb.com/ate-marcha-al-ministerio-de-defensa-por-el-reclamo-salarial-de-militares-y-personal-de-las-fuerzas-armadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "11:00",
             "lugar": "Palacio Pizzurno (Secretaría de Educación) y otros puntos del país",
             "quien": "CONADU, FEDUBA, AGD-UBA y gremios de base",
             "tipo_medida": "Paro nacional de 48 horas y Carpas por la Universidad y la Soberanía",
@@ -15130,6 +15140,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:00",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Frente de organizaciones sociales y sindicales (coordinación nacional)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra el endeudamiento usurero, el ajuste de Milei y en apoyo al proyecto de desendeudamiento, como parte de la lucha por la huelga general",
+            "fuente": "https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
