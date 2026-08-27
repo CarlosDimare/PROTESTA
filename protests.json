@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-27T10:40:32.488506-03:00",
+    "last_updated": "2026-08-27T20:35:30.075192-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14995,21 +14995,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
-            "lugar": "Todas las universidades nacionales",
-            "quien": "Confederación Nacional de Docentes Universitarios (CONADU)",
-            "tipo_medida": "Paro de 48 horas",
-            "motivo": "Cumplimiento de Ley de Financiamiento Universitario y reclamo de mejoras salariales",
-            "fuente": "https://www.conclusion.com.ar/gremiales/universidades-de-todo-el-pais-realizaran-un-nuevo-paro-de-48-horas-en-reclamo-al-cumplimiento-de-la-ley-de-financiamiento/08/2026/, https://www.datagremial.com/informacion-general/en-la-previa-al-paro-universitario-walter-merkis-dijo-que-el-60-de-los-nodocentes-estan-bajo-la-linea-de-la-pobreza-202682617330"
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "Gremios universitarios (docentes y no docentes)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario, incluyendo salarios atrasados, becas, hospitales e infraestructura",
+            "fuente": "https://www.laizquierdadiario.com/El-Gobierno-quiere-cerrar-el-conflicto-universitario-pero-la-deuda-sigue-paro-de-48-horas-contra-el, https://www.inforegion.com.ar/2026/08/25/fatun-ratifico-el-paro-de-48-horas-por-la-ley-de-financiamiento-universitario/, https://www.inforegion.com.ar/2026/08/23/paro-universitario-nacional-docentes-confirmaron-una-medida-de-fuerza-de-48-horas-en-todo-el-pais/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-27",
             "horario": "00:00",
-            "lugar": "Todas las universidades públicas del país",
-            "quien": "FATUN y Conadu",
-            "tipo_medida": "Paro Nacional",
-            "motivo": "Efectivo cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/08/25/fatun-ratifico-el-paro-de-48-horas-por-la-ley-de-financiamiento-universitario/, https://www.inforegion.com.ar/2026/08/23/paro-universitario-nacional-docentes-confirmaron-una-medida-de-fuerza-de-48-horas-en-todo-el-pais/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+            "lugar": "Clínicas, sanatorios y hospitales privados del Conurbano bonaerense, Córdoba, San Juan y Mendoza",
+            "quien": "Cámara Argentina de Prestadores de la Seguridad Social (Capress)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por atraso en la actualización de aranceles y mora en los pagos de PAMI, con un retraso arancelario acumulado del 131,9% respecto de la inflación",
+            "fuente": "https://estadodealerta.com.ar/el-pami-profundiza-la-crisis-de-la-salud-nuevo-paro-de-prestadores-con-pacientes-desatendidos-en-mas-provincias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-27",
+            "horario": "00:00",
+            "lugar": "Todas las universidades nacionales",
+            "quien": "Confederación Nacional de Docentes Universitarios (CONADU)",
+            "tipo_medida": "Paro de 48 horas",
+            "motivo": "Cumplimiento de Ley de Financiamiento Universitario y reclamo de mejoras salariales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/universidades-de-todo-el-pais-realizaran-un-nuevo-paro-de-48-horas-en-reclamo-al-cumplimiento-de-la-ley-de-financiamiento/08/2026/, https://www.datagremial.com/informacion-general/en-la-previa-al-paro-universitario-walter-merkis-dijo-que-el-60-de-los-nodocentes-estan-bajo-la-linea-de-la-pobreza-202682617330"
         },
         {
             "es_evento_relevante": true,
@@ -15093,6 +15103,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-29",
+            "horario": "10:00",
+            "lugar": "Puerta de la Base Aeronaval de Punta Indio",
+            "quien": "Mesa en Defensa de la Base Aeronaval de Punta Indio",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al cierre de la Base Aeronaval de Punta Indio y reclamo de diálogo con autoridades nacionales",
+            "fuente": "https://www.conclusion.com.ar/politica/ate-realizo-un-paro-total-y-se-movilizo-contra-el-cierre-de-la-base-aeronaval-punta-indio/08/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-31",
             "horario": "10:00",
             "lugar": "Palacio Pizzurno, Avda. Paseo Colón 1250, Buenos Aires",
@@ -15126,10 +15146,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Comités del PTS-Frente de Izquierda",
+            "quien": "FOETRA (Sindicato de Trabajadores de Telecomunicaciones)",
             "tipo_medida": "Marcha",
-            "motivo": "Protesta general contra políticas económicas y sociales, convocada como 'Gran Marcha de la Bronca'",
-            "fuente": "https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra el congelamiento salarial, el desfinanciamiento y la desinversión de Arsat; en defensa de la soberanía satelital, la ciencia, técnica y los puestos de trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
