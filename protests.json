@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-28T05:35:55.994867-03:00",
+    "last_updated": "2026-08-28T17:44:05.289166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15113,6 +15113,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-08-29",
+            "horario": "18:00",
+            "lugar": "Plaza Houssay, Córdoba 2100, CABA",
+            "quien": "Comités del PTS",
+            "tipo_medida": "Movilización",
+            "motivo": "Preparación para la Gran Marcha de la Bronca y coordinación política",
+            "fuente": "https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-mas-de-160-Comites-junto-a-Myriam-Bregman"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-08-31",
             "horario": "10:00",
             "lugar": "Palacio Pizzurno, Avda. Paseo Colón 1250, Buenos Aires",
@@ -15130,6 +15140,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra despidos masivos y ataques a delegados sindicales",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-fuerte-paro-metalurgico-en-Rio-Grande-ante-el-ataque-criminal-de-Mirgor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "09:00-12:00 y 18:00-21:00",
+            "lugar": "Aeroparque Jorge Newbery y Aeropuerto Internacional Ministro Pistarini (Ezeiza)",
+            "quien": "ATE/ANAC",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por salarios contemplando aumentos extra paritarios, apertura de paritaria sectorial y financiamiento para tareas operativas del SSEI y Fiscalización en Aeropuertos",
+            "fuente": "https://www.inforegion.com.ar/2026/08/28/paro-de-ate-anac-habra-asambleas-y-manifestaciones-que-podrian-afectar-vuelos-en-aeroparque-y-ezeiza/"
         },
         {
             "es_evento_relevante": true,
@@ -15210,6 +15230,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "No especificado",
+            "lugar": "Plazas de todo el país",
+            "quien": "Diversas organizaciones obreras y populares",
+            "tipo_medida": "Marcha",
+            "motivo": "Derrotar a Milei, su plan y cómplices con huelga general",
+            "fuente": "https://www.laizquierdadiario.com/La-preparacion-de-la-Marcha-de-la-Bronca-gana-fuerza-en-las-calles-y-en-las-provincias"
         },
         {
             "es_evento_relevante": true,
