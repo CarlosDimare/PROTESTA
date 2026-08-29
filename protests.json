@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-29T15:11:06.826804-03:00",
+    "last_updated": "2026-08-29T18:32:22.931045-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -14900,6 +14900,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de salarios congelados, falta de personal, deterioro de infraestructura y gastos supérfluos por parte de la gestión",
             "fuente": "https://www.datagremial.com/informacion-general/trabajadores-y-profesionales-del-garrahan-vuelven-a-las-protestas-para-denunciar-falta-peligrosa-de-personal-202682414130"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-25",
+            "horario": "11:00",
+            "lugar": "Legislatura Provincial de Tierra del Fuego (Ushuaia)",
+            "quien": "SUTEF (Sindicato Unificado de las Trabajadoras y Trabajadores de la Educación Fueguina) con docentes y no docentes",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a oferta salarial provincial, restitución de días descontados, Ley de Financiamiento Educativo y mejoras en infraestructura escolar",
+            "fuente": "https://www.anred.org/tierra-del-fuego-cuarta-semana-de-paro-docente-por-tiempo-indeterminado/"
         },
         {
             "es_evento_relevante": true,
