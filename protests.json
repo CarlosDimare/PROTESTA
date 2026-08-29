@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-29T06:55:41.451667-03:00",
+    "last_updated": "2026-08-29T12:03:59.436098-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15114,6 +15114,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-29",
+            "horario": "00:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "FATUN, Conadu, Conadu Histórica (CTA Autónoma)",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de Ley de Financiamiento Universitario, restitución del FONID y cancelación de haberes adeudados",
+            "fuente": "https://www.inforegion.com.ar/2026/08/27/comenzo-un-nuevo-paro-universitario-por-48-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-29",
             "horario": "10:00",
             "lugar": "Puerta de la Base Aeronaval de Punta Indio",
             "quien": "Mesa en Defensa de la Base Aeronaval de Punta Indio",
@@ -15236,10 +15246,10 @@
             "fecha": "2026-09-19",
             "horario": "15:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Frente de Izquierda de Trabajadores-Unidad (FITU) y organizaciones sociales/políticas/sindicales/estudiantiles/ambientales/feministas",
+            "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el plan de ajuste de Milei y en el camino de derrotar al gobierno",
-            "fuente": "https://www.laizquierdadiario.com/contenido"
+            "motivo": "Derrota de Milei y su plan, con enfoque en la lucha contra la usura y el endeudamiento",
+            "fuente": "https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
         },
         {
             "es_evento_relevante": true,
