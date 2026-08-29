@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-28T17:44:05.289166-03:00",
+    "last_updated": "2026-08-29T00:09:12.324446-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15094,6 +15094,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-28",
+            "horario": "00:00",
+            "lugar": "Universidades públicas de Argentina",
+            "quien": "FATUN y FEDUN",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario y salarios dignos",
+            "fuente": "https://www.inforegion.com.ar/2026/08/28/segundo-dia-de-paro-en-las-universidades-publicas-2/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-28",
             "horario": "12:30",
             "lugar": "Secretaría de Trabajo, avenida Leandro N. Alem 650",
             "quien": "CGT y dos CTA",
@@ -15114,12 +15124,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-08-29",
-            "horario": "18:00",
-            "lugar": "Plaza Houssay, Córdoba 2100, CABA",
+            "horario": "15:00",
+            "lugar": "Holmberg y Tamborini (Anfiteatro), Zona Norte (CABA)",
             "quien": "Comités del PTS",
-            "tipo_medida": "Movilización",
-            "motivo": "Preparación para la Gran Marcha de la Bronca y coordinación política",
-            "fuente": "https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-mas-de-160-Comites-junto-a-Myriam-Bregman"
+            "tipo_medida": "Reunión organizativa",
+            "motivo": "Preparación para la Gran Marcha de la Bronca y organización del movimiento por un partido de la clase trabajadora",
+            "fuente": "https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-180-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-mas-de-160-Comites-junto-a-Myriam-Bregman"
         },
         {
             "es_evento_relevante": true,
@@ -15140,6 +15150,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra despidos masivos y ataques a delegados sindicales",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-fuerte-paro-metalurgico-en-Rio-Grande-ante-el-ataque-criminal-de-Mirgor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "09:00-12:00 y 18:00-21:00",
+            "lugar": "Aeroparque Metropolitano y Aeropuerto Internacional de Ezeiza",
+            "quien": "Trabajadores de ANAC - ATE",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por paritarias no resueltas, pago de salarios con ítems extra paritarios, financiamiento para tareas operativas en SSEI y fiscalización en aeropuertos, y mejoras en inversión para seguridad aerocomercial.",
+            "fuente": "https://www.datagremial.com/paritarias/trabajadores-de-la-anac-realizaran-protestas-por-suba-salarial-se-veran-afectados-los-vuelos-202682816520"
         },
         {
             "es_evento_relevante": true,
