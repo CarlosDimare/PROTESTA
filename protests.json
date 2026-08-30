@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-30T00:02:25.004983-03:00",
+    "last_updated": "2026-08-30T05:56:18.368508-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15150,6 +15150,16 @@
             "tipo_medida": "Reunión organizativa",
             "motivo": "Preparación para la Gran Marcha de la Bronca y organización del movimiento por un partido de la clase trabajadora",
             "fuente": "https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-180-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Fechas-y-lugares-se-parte-de-los-mas-de-160-Comites-junto-a-Myriam-Bregman"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-30",
+            "horario": "12:30",
+            "lugar": "Reunión virtual del Consejo del Salario",
+            "quien": "CGT, CTA de los Trabajadores y CTA Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la propuesta empresaria de aumento del salario mínimo y protesta contra el funcionamiento del Consejo",
+            "fuente": "https://www.datagremial.com/informacion-general/se-detono-todo-en-el-consejo-del-salario-minimo-empresarios-ofrecieron-una-cifra-irrisoria-en-8-minicuotas-y-las-tres-centrales-sindicales-se-retiraron-202682813200"
         },
         {
             "es_evento_relevante": true,
