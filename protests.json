@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-29T20:52:38.202450-03:00",
+    "last_updated": "2026-08-30T00:02:25.004983-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15170,6 +15170,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra despidos masivos y ataques a delegados sindicales",
             "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-fuerte-paro-metalurgico-en-Rio-Grande-ante-el-ataque-criminal-de-Mirgor"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "11:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a políticas económicas del gobierno de Milei y reclamo por salarios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/tras-la-reunion-por-el-salario-minimo-la-cgt-critico-al-gobierno-por-vivir-en-una-realidad-paralela-y-no-descarta-un-paro-general/08/2026/, https://www.perfil.com/noticias/sociedad/marcha-de-la-cgt-a-plaza-de-mayo-cortes-columnas-y-operativo-de-seguridad-en-el-centro-porteno.phtml"
         },
         {
             "es_evento_relevante": true,
