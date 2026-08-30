@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-30T15:25:53.037494-03:00",
+    "last_updated": "2026-08-30T18:52:55.355345-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15184,6 +15184,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-02",
+            "horario": "10:00",
+            "lugar": "Azopardo 830, Buenos Aires",
+            "quien": "CGT y CTA",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a oferta patronal por salario mínimo y aval gubernamental",
+            "fuente": "https://www.datagremial.com/escenario/habemus-paro-hay-consenso-para-realizar-la-quinta-medida-nacional-falta-determinar-el-momento-20268301000"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
             "horario": "11:00",
             "lugar": "Plaza de Mayo",
             "quien": "CGT",
@@ -15210,6 +15220,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por salarios contemplando aumentos extra paritarios, apertura de paritaria sectorial y financiamiento para tareas operativas del SSEI y Fiscalización en Aeropuertos",
             "fuente": "https://www.inforegion.com.ar/2026/08/28/paro-de-ate-anac-habra-asambleas-y-manifestaciones-que-podrian-afectar-vuelos-en-aeroparque-y-ezeiza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-06",
+            "horario": "17:00",
+            "lugar": "Casona de Humahuaca (Humahuaca 3508)",
+            "quien": "Asamblea 'Los glaciares no se to'",
+            "tipo_medida": "Movilización",
+            "motivo": "Por el Buen Vivir en territorios libres de extractivismo, Ni un desalojo más",
+            "fuente": "https://www.anred.org/exitosa-movilizacion-a-la-casa-de-peter-thiel/"
         },
         {
             "es_evento_relevante": true,
