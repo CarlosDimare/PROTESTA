@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-31T03:43:04.449914-03:00",
+    "last_updated": "2026-08-31T11:56:11.400627-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15193,6 +15193,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-01",
+            "horario": "17:00",
+            "lugar": "San José 1111, barrio de Constitución",
+            "quien": "Partido Justicialista y fuerzas aliadas",
+            "tipo_medida": "Concentración",
+            "motivo": "Cuestionar la investigación judicial del atentado contra Cristina Kirchner y denunciar persecución política",
+            "fuente": "https://www.infobae.com/politica/2026/08/31/a-cuatro-anos-del-intento-de-asesinato-a-cristina-kirchner-habra-una-muestra-de-fuerza-y-reclamos-a-la-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-02",
             "horario": "10:00",
             "lugar": "Azopardo 830, Buenos Aires",
@@ -15256,10 +15266,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "FOETRA (Sindicato de Trabajadores de Telecomunicaciones)",
+            "quien": "PTS en el Frente de Izquierda",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el congelamiento salarial, el desfinanciamiento y la desinversión de Arsat; en defensa de la soberanía satelital, la ciencia, técnica y los puestos de trabajo",
-            "fuente": "https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra el gobierno de Milei, expresando bronca social y buscando transformar el descontento en movilización organizada",
+            "fuente": "https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
@@ -15270,16 +15280,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "14:00",
-            "lugar": "Ciudad de Buenos Aires",
-            "quien": "Frente de organizaciones sociales y sindicales (coordinación nacional)",
-            "tipo_medida": "Marcha",
-            "motivo": "Protesta contra el endeudamiento usurero, el ajuste de Milei y en apoyo al proyecto de desendeudamiento, como parte de la lucha por la huelga general",
-            "fuente": "https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
@@ -15300,6 +15300,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra las políticas de Milei y por la huelga general",
             "fuente": "https://www.laizquierdadiario.com/Con-una-exitosa-reunion-federal-crece-la-convocatoria-a-la-Marcha-de-la-Bronca-del-19-de-septiembre, https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:00",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Organizaciones sociales y sindicales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste, aumento de tarifas y despidos bajo el gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Los-enfrentamos-en-las-calles-septiembre-llega-con-aumentos-en-transporte-alquileres-salud-y-otros, https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
