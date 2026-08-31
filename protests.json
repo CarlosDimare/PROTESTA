@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-30T18:52:55.355345-03:00",
+    "last_updated": "2026-08-30T21:13:26.296027-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15160,6 +15160,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo a la propuesta empresaria de aumento del salario mínimo y protesta contra el funcionamiento del Consejo",
             "fuente": "https://www.datagremial.com/informacion-general/se-detono-todo-en-el-consejo-del-salario-minimo-empresarios-ofrecieron-una-cifra-irrisoria-en-8-minicuotas-y-las-tres-centrales-sindicales-se-retiraron-202682813200"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-08-30",
+            "horario": "No especificado",
+            "lugar": "Sede de la CTA Autónoma Córdoba",
+            "quien": "CTA Autónoma Córdoba y FeNaT-CTAA Córdoba",
+            "tipo_medida": "Movilización",
+            "motivo": "Reivindicación por memoria activa y reclamo por alimentos para sectores populares",
+            "fuente": "https://www.datagremial.com/informacion-general/a-un-ano-de-la-detencion-de-federico-giuliani-durante-una-protesta-nos-encarcelaron-por-pedir-comida-para-los-merenderos-y-comedores-202682814530"
         },
         {
             "es_evento_relevante": true,
