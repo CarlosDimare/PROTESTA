@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01T13:00:52.916968-03:00",
+    "last_updated": "2026-09-01T16:13:20.504812-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15245,11 +15245,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-02",
             "horario": "12:00",
-            "lugar": "Puerta del Hospital Garrahan",
-            "quien": "APyT (Asociación de Profesionales y Técnicos) a través de Norma Lezana",
-            "tipo_medida": "Asamblea",
-            "motivo": "Despido de referente sindical y denuncia de irregularidades en contrataciones, licitaciones y uso de fondos hospitalarios",
-            "fuente": "https://www.datagremial.com/informacion-general/nuevo-intento-de-despedir-a-lider-sindical-en-el-hospital-garrahan-es-mentira-que-este-cesanteada-2026911080"
+            "lugar": "Hospital Garrahan (puerta e interior)",
+            "quien": "Norma Lezana / Asociación de Profesionales y Técnicos (APyT)",
+            "tipo_medida": "Movilización y Asamblea",
+            "motivo": "Represalia por desvinculación y defensa de derechos laborales",
+            "fuente": "https://estadodealerta.com.ar/la-direccion-del-garrahan-busca-despedir-a-norma-lezana-quien-tiene-inmunidad-gremial-y-apunta-contra-lugones/, https://www.datagremial.com/informacion-general/nuevo-intento-de-despedir-a-lider-sindical-en-el-hospital-garrahan-es-mentira-que-este-cesanteada-2026911080"
         },
         {
             "es_evento_relevante": true,
@@ -15270,6 +15270,26 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por salarios contemplando aumentos extra paritarios, apertura de paritaria sectorial y financiamiento para tareas operativas del SSEI y Fiscalización en Aeropuertos",
             "fuente": "https://www.inforegion.com.ar/2026/08/28/paro-de-ate-anac-habra-asambleas-y-manifestaciones-que-podrian-afectar-vuelos-en-aeroparque-y-ezeiza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "13:00",
+            "lugar": "Hospital Garrahan (lugar no especificado pero en unidad de gremios)",
+            "quien": "Unidad de gremios y trabajadores del Garrahan (APyT, ATE-Garrahan, Posta de Salud y CUidado, GPS-Aerolíneas Argentinas, etc.)",
+            "tipo_medida": "Asamblea general",
+            "motivo": "Denuncia de ataques a organizaciones sindicales, venganza por luchas anteriores y coordinación contra Reforma Laboral y ajuste",
+            "fuente": "https://www.laizquierdadiario.com/Nuevo-ataque-en-el-Garrahan-ahora-contra-una-dirigente-de-la-Asociacion-de-Profesionales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
+            "horario": "09:00",
+            "lugar": "Sucursales bancarias de Rosario",
+            "quien": "Asociación Bancaria (La Bancaria)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reincorporación de trabajadores despedidos y rechazo a despidos arbitrarios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/bancarios-protestaron-frente-al-credicoop-para-exigir-que-se-reincorpore-a-un-trabajador-despedido/09/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -15300,6 +15320,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra la mafia judicial, los buitres y la crisis política, en el marco de la crisis de endeudamiento de familias",
             "fuente": "https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "11:00",
+            "lugar": "Plaza de Mayo (AMBA) y múltiples ciudades del país",
+            "quien": "Marcha de la Bronca (coordinación de organizaciones sindicales y sociales)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra las políticas de ajuste, despidos, extractivismo y ataques a derechos del gobierno de Milei, en el marco de la huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
         },
         {
             "es_evento_relevante": true,
@@ -15456,10 +15486,10 @@
             "fecha": "No especificado",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "CGT y CTA",
-            "tipo_medida": "Paro general",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Marcha",
             "motivo": "Reclamos contra políticas económicas del gobierno, endeudamiento masivo de trabajadores, necesidad de recomponer salarios y abrir Consejo del Salario",
-            "fuente": "https://www.datagremial.com/escenario/masiva-marcha-por-los-endeudados-con-claro-mensaje-a-milei-si-hay-una-pistola-en-la-cabeza-y-es-la-politica-economica-20268211000, https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
+            "fuente": "https://www.laizquierdadiario.com/Coordinadora-de-Trabajadorxs-de-La-Matanza-gran-concurrencia-en-la-asamblea-abierta, https://www.datagremial.com/escenario/masiva-marcha-por-los-endeudados-con-claro-mensaje-a-milei-si-hay-una-pistola-en-la-cabeza-y-es-la-politica-economica-20268211000, https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
         },
         {
             "es_evento_relevante": true,
