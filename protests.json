@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01T08:09:46.310176-03:00",
+    "last_updated": "2026-09-01T13:00:52.916968-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15204,6 +15204,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-01",
+            "horario": "12:00",
+            "lugar": "Puerta del Hospital Garrahan",
+            "quien": "Asociación de Profesionales y Técnicos del Garrahan (APyT)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Rechazo al despato de Norma Lezana, defensa de derechos laborales y sindicales, y denuncia de irregularidades en la gestión del hospital",
+            "fuente": "https://www.infobae.com/politica/2026/09/01/voy-a-seguir-yendo-la-gremialista-norma-lezana-rechazo-su-desvinculacion-del-hospital-garrahan/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-01",
             "horario": "17:00",
             "lugar": "San José 1111, barrio de Constitución",
             "quien": "Partido Justicialista y fuerzas aliadas",
@@ -15230,6 +15240,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a políticas económicas del gobierno de Milei y reclamo por salarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/tras-la-reunion-por-el-salario-minimo-la-cgt-critico-al-gobierno-por-vivir-en-una-realidad-paralela-y-no-descarta-un-paro-general/08/2026/, https://www.perfil.com/noticias/sociedad/marcha-de-la-cgt-a-plaza-de-mayo-cortes-columnas-y-operativo-de-seguridad-en-el-centro-porteno.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "12:00",
+            "lugar": "Puerta del Hospital Garrahan",
+            "quien": "APyT (Asociación de Profesionales y Técnicos) a través de Norma Lezana",
+            "tipo_medida": "Asamblea",
+            "motivo": "Despido de referente sindical y denuncia de irregularidades en contrataciones, licitaciones y uso de fondos hospitalarios",
+            "fuente": "https://www.datagremial.com/informacion-general/nuevo-intento-de-despedir-a-lider-sindical-en-el-hospital-garrahan-es-mentira-que-este-cesanteada-2026911080"
         },
         {
             "es_evento_relevante": true,
