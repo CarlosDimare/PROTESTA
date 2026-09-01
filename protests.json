@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01T16:13:20.504812-03:00",
+    "last_updated": "2026-09-01T19:21:51.640786-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15224,6 +15224,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-02",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales",
+            "quien": "Gremios docentes y nodocentes universitarios (FAGDUT, UDA, CONADU, CONADU Histórica, FEDUN, ADUBA, APUBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del 6% bimestral y reclamo cumplimiento de la Ley de Financiamiento Universitario y la resolución judicial de la Corte Suprema",
+            "fuente": "https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "10:00",
+            "lugar": "Azopardo 802",
+            "quien": "CGT y CSIRA",
+            "tipo_medida": "Acto",
+            "motivo": "Debate sobre el futuro estratégico de la industria nacional",
+            "fuente": "https://www.infobae.com/politica/2026/09/01/la-cgt-baja-el-tono-del-plan-de-lucha-acto-sin-movilizacion-por-el-dia-de-la-industria-y-presencia-en-la-semana-social-de-la-iglesia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
             "horario": "10:00",
             "lugar": "Azopardo 830, Buenos Aires",
             "quien": "CGT y CTA",
@@ -15250,6 +15270,26 @@
             "tipo_medida": "Movilización y Asamblea",
             "motivo": "Represalia por desvinculación y defensa de derechos laborales",
             "fuente": "https://estadodealerta.com.ar/la-direccion-del-garrahan-busca-despedir-a-norma-lezana-quien-tiene-inmunidad-gremial-y-apunta-contra-lugones/, https://www.datagremial.com/informacion-general/nuevo-intento-de-despedir-a-lider-sindical-en-el-hospital-garrahan-es-mentira-que-este-cesanteada-2026911080"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas de Argentina",
+            "quien": "Frente Sindical de Universidades Nacionales (FEDUN-FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del 3% y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/paritarias/docentes-y-nodocentes-explotaron-contra-la-oferta-vergonzosa-de-la-paritaria-inician-paro-nacional-2026911800"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "09:00",
+            "lugar": "Aeropuertos de Argentina (incluyendo Ezeiza y Aeroparque)",
+            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Incumplimientos paritarios, deterioro laboral y desfinanciamiento en ANAC",
+            "fuente": "https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
