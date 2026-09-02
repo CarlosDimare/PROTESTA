@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-01T21:47:03.424659-03:00",
+    "last_updated": "2026-09-02T02:23:24.180520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15226,10 +15226,10 @@
             "fecha": "2026-09-02",
             "horario": "00:00",
             "lugar": "Universidades nacionales",
-            "quien": "Gremios docentes y nodocentes universitarios (FAGDUT, UDA, CONADU, CONADU Histórica, FEDUN, ADUBA, APUBA)",
+            "quien": "Federaciones de docentes y nodocentes universitarios",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a oferta salarial del 6% bimestral y reclamo cumplimiento de la Ley de Financiamiento Universitario y la resolución judicial de la Corte Suprema",
-            "fuente": "https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro/"
+            "motivo": "Rechazo a la magra oferta salarial del gobierno (3%) e incumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-este-miercoles-ante-la-burla-del-Gobierno-y-el-incumplimiento-de-la-Ley, https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro/"
         },
         {
             "es_evento_relevante": true,
