@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02T07:24:25.060456-03:00",
+    "last_updated": "2026-09-02T11:57:54.325420-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15235,6 +15235,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-02",
             "horario": "10:00",
+            "lugar": "Azopardo 802, sede central de la CGT",
+            "quien": "CGT (Confederación General del Trabajo)",
+            "tipo_medida": "Acto",
+            "motivo": "Conmemoración del Día de la Industria y debate sobre la situación industrial nacional en el marco del plan de lucha contra las políticas de ajuste del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/por-problemas-en-la-logistica-las-centrales-obreras-no-marcharan-este-dia-de-la-industria-20269210500"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "10:00",
             "lugar": "Azopardo 802",
             "quien": "CGT y CSIRA",
             "tipo_medida": "Acto",
@@ -15284,12 +15294,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-03",
-            "horario": "09:00",
-            "lugar": "Aeropuertos de Argentina (incluyendo Ezeiza y Aeroparque)",
+            "horario": "09:00-12:00 y 18:00-21:00",
+            "lugar": "Aeropuertos de todo el país (incluyendo Ezeiza, Aeroparque, Rosario)",
             "quien": "ATE (Asociación de Trabajadores del Estado)",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Incumplimientos paritarios, deterioro laboral y desfinanciamiento en ANAC",
-            "fuente": "https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimientos en pagos de adicionales, falta de respuestas paritarias y deterioro salarial",
+            "fuente": "https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
