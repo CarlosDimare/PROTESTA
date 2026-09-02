@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02T18:31:38.191742-03:00",
+    "last_updated": "2026-09-02T20:49:06.073117-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15226,10 +15226,10 @@
             "fecha": "2026-09-02",
             "horario": "00:00",
             "lugar": "Universidades nacionales",
-            "quien": "Federaciones de docentes y nodocentes universitarios",
+            "quien": "FEDUN (Federación de Docentes de las Universidades)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a la magra oferta salarial del gobierno (3%) e incumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-este-miercoles-ante-la-burla-del-Gobierno-y-el-incumplimiento-de-la-Ley, https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro/"
+            "motivo": "Reclamo por recomposición salarial, cumplimiento de la Ley de Financiamiento Universitario y recuperación del poder adquisitivo frente a la propuesta insuficiente del Gobierno",
+            "fuente": "https://www.datagremial.com/paritarias/la-fedun-endurece-el-reclamo-y-advierte-no-podemos-seguir-perdiendo-salario-20269218390, https://www.laizquierdadiario.com/Paro-universitario-este-miercoles-ante-la-burla-del-Gobierno-y-el-incumplimiento-de-la-Ley, https://www.infobae.com/politica/2026/09/01/los-docentes-universitarios-rechazaron-la-paritaria-que-ofrecio-el-gobierno-y-anunciaron-otro-paro/"
         },
         {
             "es_evento_relevante": true,
@@ -15285,6 +15285,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-02",
             "horario": "No especificado",
+            "lugar": "IOMA, La Plata",
+            "quien": "SUTEBA Multicolor",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos salariales (salario inicial de $1.600.000 y cláusula inflacionaria), mejora de prestaciones de IOMA, devolución de descuentos por huelgas, y condiciones socioeducativas",
+            "fuente": "https://www.inforegion.com.ar/2026/09/02/docentes-disidentes-marchan-a-ioma-y-profundizan-el-conflicto-salarial-en-la-provincia-de-buenos-aires/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-02",
+            "horario": "No especificado",
             "lugar": "Universidades públicas de Argentina",
             "quien": "Frente Sindical de Universidades Nacionales (FEDUN-FATUN)",
             "tipo_medida": "Paro",
@@ -15294,12 +15304,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-03",
-            "horario": "09:00-12:00 y 18:00-21:00",
-            "lugar": "Aeropuertos de todo el país (incluyendo Ezeiza, Aeroparque, Rosario)",
-            "quien": "ATE (Asociación de Trabajadores del Estado)",
+            "horario": "09:00",
+            "lugar": "Aeropuertos de todo el país, incluyendo Aeropuerto Internacional de Ezeiza y Aeroparque Jorge Newbery",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro",
-            "motivo": "Incumplimientos en pagos de adicionales, falta de respuestas paritarias y deterioro salarial",
-            "fuente": "https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
+            "motivo": "Reclamos salariales y laborales por deterioro del poder adquisitivo, incumplimiento de acuerdos paritarios, desfinanciamiento de áreas operativas y condiciones laborales críticas en ANAC",
+            "fuente": "https://www.infobae.com/politica/2026/09/02/el-gobierno-intimo-a-garantizar-el-75-de-los-servicios-tras-el-anuncio-de-paros-en-aeropuertos-de-todo-el-pais/, https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
