@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02T11:57:54.325420-03:00",
+    "last_updated": "2026-09-02T15:25:05.961778-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15350,6 +15350,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Por el Buen Vivir en territorios libres de extractivismo, Ni un desalojo más",
             "fuente": "https://www.anred.org/exitosa-movilizacion-a-la-casa-de-peter-thiel/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
+            "horario": "11:00",
+            "lugar": "Intersección de Hipólito Yrigoyen y Piedras, Ciudad Autónoma de Buenos Aires",
+            "quien": "UATRE, Federación de Trabajadores de la Industria Alimentación, Federación de la Carne y UOMA",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir intervención del gobierno federal en el conflicto de Granja Tres Arroyos para preservar más de 7000 puestos de trabajo y garantizar continuidad productiva",
+            "fuente": "https://www.datagremial.com/informacion-general/granja-tres-arroyos-gremios-marcharan-a-trabajo-contra-los-despidos-y-por-los-mas-de-7-000-puestos-en-riesgo-20269214110"
         },
         {
             "es_evento_relevante": true,
