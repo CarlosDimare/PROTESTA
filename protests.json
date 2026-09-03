@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-03T13:59:52.164624-03:00",
+    "last_updated": "2026-09-03T16:46:06.541682-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15305,11 +15305,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-03",
             "horario": "09:00-12:00",
-            "lugar": "Aeropuertos de Argentina (incluyendo Ezeiza y Aeroparque)",
-            "quien": "Asociación de Trabajadores del Estado (ATE) - ANAC",
-            "tipo_medida": "Paro",
-            "motivo": "Atraso salarial, reclamo de adicionales paritarios, reapertura de negociaciones y mayor financiamiento para áreas operativas de ANAC",
-            "fuente": "https://www.inforegion.com.ar/2026/09/03/el-gobierno-intimo-a-ate-a-garantizar-el-75-de-los-servicios-durante-el-paro-aeronautico/, https://www.datagremial.com/paritarias/paro-en-los-aeropuertos-ate-rechazo-la-intimacion-del-gobierno-y-exigio-una-audiencia-urgente-2026938260, https://www.infobae.com/politica/2026/09/02/el-gobierno-intimo-a-garantizar-el-75-de-los-servicios-tras-el-anuncio-de-paros-en-aeropuertos-de-todo-el-pais/, https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
+            "lugar": "Distintos aeropuertos de Argentina",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilizaciones",
+            "motivo": "Definición de áreas esenciales en ANAC y reactivación de medidas de fuerza",
+            "fuente": "https://www.inforegion.com.ar/2026/09/03/ate-postergo-el-paro-aeronautico-previsto-para-este-jueves-y-espera-una-audiencia-con-trabajo/, https://www.inforegion.com.ar/2026/09/03/el-gobierno-intimo-a-ate-a-garantizar-el-75-de-los-servicios-durante-el-paro-aeronautico/, https://www.datagremial.com/paritarias/paro-en-los-aeropuertos-ate-rechazo-la-intimacion-del-gobierno-y-exigio-una-audiencia-urgente-2026938260, https://www.infobae.com/politica/2026/09/02/el-gobierno-intimo-a-garantizar-el-75-de-los-servicios-tras-el-anuncio-de-paros-en-aeropuertos-de-todo-el-pais/, https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
@@ -15350,6 +15350,16 @@
             "tipo_medida": "Asamblea general",
             "motivo": "Denuncia de ataques a organizaciones sindicales, venganza por luchas anteriores y coordinación contra Reforma Laboral y ajuste",
             "fuente": "https://www.laizquierdadiario.com/Nuevo-ataque-en-el-Garrahan-ahora-contra-una-dirigente-de-la-Asociacion-de-Profesionales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "17:00",
+            "lugar": "Estación San Pedrito, Línea A",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Apertura de accesos",
+            "motivo": "Contra descuentos salariales ilegítimos y persecución antisindical de Emova",
+            "fuente": "https://www.laizquierdadiario.com/Liberan-molinetes-en-la-linea-A-del-Subte-contra-los-descuentos-y-la-persecucion-de-Emova"
         },
         {
             "es_evento_relevante": true,
@@ -15440,6 +15450,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el plan de ajuste de Milei, los gobernadores y el FMI; por huelga general",
             "fuente": "https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo y movilizaciones en todo el país",
+            "quien": "PTS-Frente de Izquierda y cientos de organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Derrota del plan de ajuste del gobierno de Milei y sus aliados",
+            "fuente": "https://www.laizquierdadiario.com/Bregman-y-Del-Cano-convocan-a-marchar-el-19S"
         },
         {
             "es_evento_relevante": true,
