@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-03T09:37:17.607188-03:00",
+    "last_updated": "2026-09-03T13:59:52.164624-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15304,12 +15304,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-03",
-            "horario": "09:00",
-            "lugar": "Aeropuertos de todo el país, incluyendo Aeropuerto Internacional de Ezeiza y Aeroparque Jorge Newbery",
-            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "horario": "09:00-12:00",
+            "lugar": "Aeropuertos de Argentina (incluyendo Ezeiza y Aeroparque)",
+            "quien": "Asociación de Trabajadores del Estado (ATE) - ANAC",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y laborales por deterioro del poder adquisitivo, incumplimiento de acuerdos paritarios, desfinanciamiento de áreas operativas y condiciones laborales críticas en ANAC",
-            "fuente": "https://www.infobae.com/politica/2026/09/02/el-gobierno-intimo-a-garantizar-el-75-de-los-servicios-tras-el-anuncio-de-paros-en-aeropuertos-de-todo-el-pais/, https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
+            "motivo": "Atraso salarial, reclamo de adicionales paritarios, reapertura de negociaciones y mayor financiamiento para áreas operativas de ANAC",
+            "fuente": "https://www.inforegion.com.ar/2026/09/03/el-gobierno-intimo-a-ate-a-garantizar-el-75-de-los-servicios-durante-el-paro-aeronautico/, https://www.datagremial.com/paritarias/paro-en-los-aeropuertos-ate-rechazo-la-intimacion-del-gobierno-y-exigio-una-audiencia-urgente-2026938260, https://www.infobae.com/politica/2026/09/02/el-gobierno-intimo-a-garantizar-el-75-de-los-servicios-tras-el-anuncio-de-paros-en-aeropuertos-de-todo-el-pais/, https://elciudadanoweb.com/un-paro-dispuesto-por-ate-en-todo-el-pais-afectara-funcionamiento-del-aeropuerto-rosario-este-jueves-y-viernes/, https://www.infobae.com/politica/2026/09/01/anunciaron-48-horas-de-paro-en-aeropuertos-de-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
@@ -15355,6 +15355,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-03",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra el impacto económico, el endeudamiento y la crisis de subsistencia",
+            "fuente": "https://www.laizquierdadiario.com/Trueque-en-Pilar-la-estrategia-que-expone-la-usura-y-la-crisis-salarial"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "No especificado",
             "lugar": "Universidades nacionales (con énfasis en UNLP)",
             "quien": "Sindicatos docentes (Conadu, Conadu Histórica, Fedun, Aduba, Apuba) y Frente de Trabajadores Universitarios (PTS-La Marrón)",
             "tipo_medida": "Asamblea interclaustro",
@@ -15370,6 +15380,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Reincorporación de trabajadores despedidos y rechazo a despidos arbitrarios",
             "fuente": "https://www.conclusion.com.ar/gremiales/bancarios-protestaron-frente-al-credicoop-para-exigir-que-se-reincorpore-a-un-trabajador-despedido/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
+            "horario": "09:00-12:00 y 18:00-21:00",
+            "lugar": "27 aeropuertos de Argentina (incluyendo Aeropuerto Internacional de Ezeiza y Aeroparque Jorge Newbery)",
+            "quien": "ATE-ANAC (Asociación Trabajadores del Estado - Administración Nacional de Aviación Civil)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por actualización salarial pendiente desde enero y renegociación de ingresos mensuales, además de exigir audiencia con el Ministerio de Trabajo para definir servicios esenciales",
+            "fuente": "https://www.infobae.com/politica/2026/09/03/paro-en-aeropuertos-en-todo-el-pais-en-vivo-la-medida-empezara-con-un-corte-en-aeroparque/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilizaciones",
+            "motivo": "Definición de secciones de esencialidad y derecho a protesta, tras falta de respuesta del Ministerio de Trabajo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/giro-inesperado-en-los-aeropuertos-ate-pospone-el-paro-y-pide-una-audiencia-urgente/09/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -15406,10 +15436,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "La izquierda",
+            "quien": "Organizaciones sindicales, sociales, estudiantiles y de derechos humanos de Neuquén",
             "tipo_medida": "Marcha",
-            "motivo": "Contra la mafia judicial, los buitres y la crisis política, en el marco de la crisis de endeudamiento de familias",
-            "fuente": "https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Contra el plan de ajuste de Milei, los gobernadores y el FMI; por huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
