@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-02T23:29:55.654667-03:00",
+    "last_updated": "2026-09-03T04:46:50.914956-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15330,6 +15330,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por salarios contemplando aumentos extra paritarios, apertura de paritaria sectorial y financiamiento para tareas operativas del SSEI y Fiscalización en Aeropuertos",
             "fuente": "https://www.inforegion.com.ar/2026/08/28/paro-de-ate-anac-habra-asambleas-y-manifestaciones-que-podrian-afectar-vuelos-en-aeroparque-y-ezeiza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-03",
+            "horario": "12:00",
+            "lugar": "Plaza Miserere (Buenos Aires) hacia el Congreso de la Nación",
+            "quien": "Warmis del Kollasuyu",
+            "tipo_medida": "Marcha",
+            "motivo": "Cese del saqueo minero y defensa de territorios originarios contra contaminación minera",
+            "fuente": "https://www.anred.org/contra-el-extractivismo-y-el-despojo-territorial-las-warmis-marchan-al-congreso/"
         },
         {
             "es_evento_relevante": true,
