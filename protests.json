@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04T17:22:47.998767-03:00",
+    "last_updated": "2026-09-04T19:48:37.216334-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15415,6 +15415,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-04",
             "horario": "No especificado",
+            "lugar": "Wanda y Colonia Esperanza, Misiones",
+            "quien": "Productores yerbateros, tealeros y tabacaleros de Misiones con apoyo del Sindicato de Tareferos de Jardín América",
+            "tipo_medida": "Movilización con tractores y camiones",
+            "motivo": "Repudio al DNU 70/2023 y Decreto 812 que desmantelaron el INYM, exigiendo precio base para productores ante crisis de abandono de yerbales y migración laboral",
+            "fuente": "https://motoreconomico.com.ar/fuerte-protesta-de-yerbateros-contra-javier-milei-en-misiones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Asociación de Trabajadores del Estado (ATE)",
             "tipo_medida": "Movilizaciones",
@@ -15430,6 +15440,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Por el Buen Vivir en territorios libres de extractivismo, Ni un desalojo más",
             "fuente": "https://www.anred.org/exitosa-movilizacion-a-la-casa-de-peter-thiel/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-08",
+            "horario": "No especificado",
+            "lugar": "Universidades Nacionales (todo el país)",
+            "quien": "Frente Sindical de las Universidades Nacionales / Coad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por financiamiento universitario, salarios, becas y presupuesto",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
         },
         {
             "es_evento_relevante": true,
