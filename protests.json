@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-03T19:08:43.006733-03:00",
+    "last_updated": "2026-09-03T21:43:58.793597-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15384,6 +15384,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-04",
+            "horario": "07:00",
+            "lugar": "Estaciones de subte de CABA",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subte y Premetro)",
+            "tipo_medida": "Medidas de autodefensa",
+            "motivo": "Contra descuentos salariales y persecución antisindical de Emova, pese a medidas cautelares judiciales",
+            "fuente": "https://www.laizquierdadiario.com/Liberaron-molinetes-en-la-linea-A-del-Subte-contra-los-descuentos-y-la-persecucion-de-Emova, https://www.perfil.com/noticias/sociedad/protesta-de-metrodelegados-en-la-linea-b-hasta-que-hora-liberan-los-molinetes-del-subte.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
             "horario": "09:00",
             "lugar": "Sucursales bancarias de Rosario",
             "quien": "Asociación Bancaria (La Bancaria)",
@@ -15446,10 +15456,10 @@
             "fecha": "2026-09-19",
             "horario": "08:00",
             "lugar": "No especificado",
-            "quien": "Organizaciones sindicales, sociales, estudiantiles y de derechos humanos de Neuquén",
+            "quien": "Autoconvocatoria multisectorial (sindicalismo combativo, centros de estudiantes, asambleas ambientalistas, jubilados, organismos de DDHH, movimiento feminista, comités por Myriam Bregman, laburantes, científicos, artistas)",
             "tipo_medida": "Marcha",
-            "motivo": "Contra el plan de ajuste de Milei, los gobernadores y el FMI; por huelga general",
-            "fuente": "https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Oposición a políticas de ajuste, endeudamiento y entrega de tierras del gobierno de Milei, y unidad de luchas sociales",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-la-Bronca-y-acto-de-Kicillof-aguantar-hasta-votar-o-enfrentar-a-Milei-ahora, https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
         },
         {
             "es_evento_relevante": true,
@@ -15530,6 +15540,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "17:00",
+            "lugar": "Jujuy (principalmente) y a nivel nacional",
+            "quien": "Comités de apoyo a la docencia, Lista Multicolor y trabajadores vinculados al PTS-FITU",
+            "tipo_medida": "Marcha",
+            "motivo": "Represión policial y fraude electoral en elecciones de CTERA, defensa de la democracia sindical y la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Diputados-del-PTS-FITU-y-docentes-se-abrazan-frente-a-la-represion-policial-para-defender-la, https://elsubmarinojujuy.com.ar/impulsan-comites-de-trabajadores-en-jujuy-y-a-marchar-en-apoyo-a-bolivia/"
         },
         {
             "es_evento_relevante": true,
