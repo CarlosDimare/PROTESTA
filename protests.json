@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04T15:01:02.341178-03:00",
+    "last_updated": "2026-09-04T17:22:47.998767-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15455,11 +15455,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "08:00",
-            "lugar": "No especificado",
-            "quien": "Autoconvocatoria multisectorial (sindicalismo combativo, centros de estudiantes, asambleas ambientalistas, jubilados, organismos de DDHH, movimiento feminista, comités por Myriam Bregman, laburantes, científicos, artistas)",
+            "lugar": "Plazas de todo el país",
+            "quien": "Comités de la Marcha de la Bronca",
             "tipo_medida": "Marcha",
-            "motivo": "Oposición a políticas de ajuste, endeudamiento y entrega de tierras del gobierno de Milei, y unidad de luchas sociales",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-de-la-Bronca-y-acto-de-Kicillof-aguantar-hasta-votar-o-enfrentar-a-Milei-ahora, https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/"
+            "motivo": "Derrotar a Milei, su plan y sus cómplices con la huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Ya-son-casi-200-en-todo-el-pais-vos-tenes-que-ser-parte-de-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Marcha-de-la-Bronca-y-acto-de-Kicillof-aguantar-hasta-votar-o-enfrentar-a-Milei-ahora, https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://www.laizquierdadiario.com/La-preparacion-de-la-Marcha-de-la-Bronca-gana-fuerza-en-las-calles-y-en-las-provincias"
         },
         {
             "es_evento_relevante": true,
@@ -15560,16 +15560,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Represión policial y fraude electoral en elecciones de CTERA, defensa de la democracia sindical y la educación pública",
             "fuente": "https://www.laizquierdadiario.com/Diputados-del-PTS-FITU-y-docentes-se-abrazan-frente-a-la-represion-policial-para-defender-la, https://elsubmarinojujuy.com.ar/impulsan-comites-de-trabajadores-en-jujuy-y-a-marchar-en-apoyo-a-bolivia/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "No especificado",
-            "lugar": "Plazas de todo el país",
-            "quien": "Diversas organizaciones obreras y populares",
-            "tipo_medida": "Marcha",
-            "motivo": "Derrotar a Milei, su plan y cómplices con huelga general",
-            "fuente": "https://www.laizquierdadiario.com/La-preparacion-de-la-Marcha-de-la-Bronca-gana-fuerza-en-las-calles-y-en-las-provincias"
         },
         {
             "es_evento_relevante": true,
