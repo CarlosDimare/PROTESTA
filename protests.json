@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-05T10:19:44.787617-03:00",
+    "last_updated": "2026-09-05T13:35:27.530740-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15440,6 +15440,16 @@
             "tipo_medida": "Movilizaciones",
             "motivo": "Definición de secciones de esencialidad y derecho a protesta, tras falta de respuesta del Ministerio de Trabajo",
             "fuente": "https://www.conclusion.com.ar/gremiales/giro-inesperado-en-los-aeropuertos-ate-pospone-el-paro-y-pide-una-audiencia-urgente/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-06",
+            "horario": "12:00",
+            "lugar": "27 aeropuertos del territorio nacional",
+            "quien": "ATE-ANAC (Asociación Trabajadores del Estado en ANAC)",
+            "tipo_medida": "Paro",
+            "motivo": "Definición de principios de esencialidad en medidas de fuerza y falta de diálogo con el gobierno",
+            "fuente": "https://www.datagremial.com/paritarias/la-paciencia-se-agoto-ate-anac-le-dio-un-ultimatum-al-gobierno-y-amenaza-con-un-paro-en-todos-los-aeropuertos-del-pais-si-no-hay-dialogo-202695900"
         },
         {
             "es_evento_relevante": true,
