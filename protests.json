@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-04T19:48:37.216334-03:00",
+    "last_updated": "2026-09-04T21:36:49.112897-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15410,6 +15410,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por actualización salarial pendiente desde enero y renegociación de ingresos mensuales, además de exigir audiencia con el Ministerio de Trabajo para definir servicios esenciales",
             "fuente": "https://www.infobae.com/politica/2026/09/03/paro-en-aeropuertos-en-todo-el-pais-en-vivo-la-medida-empezara-con-un-corte-en-aeroparque/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-04",
+            "horario": "No especificado",
+            "lugar": "Todos los edificios y dependencias del Poder Judicial de Mendoza",
+            "quien": "Asociación de Empleados y Funcionarios del Poder Judicial de Mendoza (FJA)",
+            "tipo_medida": "Asamblea",
+            "motivo": "Continuación del reclamo salarial tras el acampe, ante la falta de respuesta concreta del gobierno provincial",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-de-mendoza-realizan-un-acampe-en-la-corte-provincial-para-exigir-aumento-salarial-202694920"
         },
         {
             "es_evento_relevante": true,
