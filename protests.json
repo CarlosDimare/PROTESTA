@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-05T13:35:27.530740-03:00",
+    "last_updated": "2026-09-05T15:47:41.053439-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15460,6 +15460,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Por el Buen Vivir en territorios libres de extractivismo, Ni un desalojo más",
             "fuente": "https://www.anred.org/exitosa-movilizacion-a-la-casa-de-peter-thiel/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-08",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FEDUN - FATUN (docentes y nodocentes universitarios)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, paritarias, actualización salarial y becas, y presupuesto universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
         },
         {
             "es_evento_relevante": true,
