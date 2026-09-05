@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-05T17:57:09.374297-03:00",
+    "last_updated": "2026-09-05T19:38:10.471470-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15535,16 +15535,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "11:00",
-            "lugar": "Plaza de Mayo (y múltiples ciudades del país)",
-            "quien": "Marcha de la Bronca (coalición de sindicatos combativos, organizaciones ambientalistas, de mujeres y diversidades, de izquierda, y otros sectores)",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra el ajuste económico, despidos, ataques a derechos sociales y laborales, extractivismo, persecución a inmigrantes, y políticas de género",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-de-la-bronca-comenzo-la-autoconvocatoria-que-prepara-la-marcha-a-Plaza-de-Mayo, https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "11:00",
             "lugar": "Marcha nacional",
             "quien": "Plurisectorial (sindicatos, sociales, estudiantiles, etc.)",
             "tipo_medida": "Marcha",
@@ -15590,6 +15580,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrota de Milei y su plan, con enfoque en la lucha contra la usura y el endeudamiento",
             "fuente": "https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional a Plaza de Mayo",
+            "quien": "Marcha de la Bronca (colectivo de sindicatos combativos, organizaciones ambientalistas, de mujeres y diversidades, de izquierda, sociales y culturales)",
+            "tipo_medida": "Marcha",
+            "motivo": "Enfrentar el plan de ajuste del gobierno de Milei y políticas económicas adversas a trabajadores, incluyendo despidos y persecuciones",
+            "fuente": "https://www.laizquierdadiario.com/La-autoconvocatoria-en-Parque-Lezama-le-dio-nuevo-impulso-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marcha-de-la-bronca-comenzo-la-autoconvocatoria-que-prepara-la-marcha-a-Plaza-de-Mayo, https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
         },
         {
             "es_evento_relevante": true,
