@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-06T18:02:52.231097-03:00",
+    "last_updated": "2026-09-06T19:51:10.361942-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15465,11 +15465,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-08",
             "horario": "00:00",
-            "lugar": "Universidades nacionales de todo el país",
+            "lugar": "Universidades Nacionales",
             "quien": "Frente Sindical de las Universidades Nacionales",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
+            "motivo": "Reclamo por salario, presupuesto, ley de financiamiento universitario, actualización de becas y paritarias para recuperar pérdidas por inflación",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
         },
         {
             "es_evento_relevante": true,
