@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-06T13:40:02.240680-03:00",
+    "last_updated": "2026-09-06T15:49:45.116915-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15510,6 +15510,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar a Milei, su plan y sus cómplices con la huelga general",
             "fuente": "https://www.laizquierdadiario.com/Ya-son-casi-200-en-todo-el-pais-vos-tenes-que-ser-parte-de-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Marcha-de-la-Bronca-y-acto-de-Kicillof-aguantar-hasta-votar-o-enfrentar-a-Milei-ahora, https://www.laizquierdadiario.com/Sindicatos-y-organizaciones-se-reunen-este-viernes-para-organizar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Esta-semana-Mirgor-GPS-crece-la-marcha-de-la-bronca-y-el-PJ-se-une-con-Comodoro-Py-y-JP-Morgan, https://www.laizquierdadiario.com/Comites-por-Myriam-Bregman-una-nueva-fuerza-militante-para-impulsar-la-marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marchan-Sindicato-de-Telecomunicaciones-y-trabajadores-de-Arsat-contra-el-congelamiento-salarial-y, https://www.laizquierdadiario.com/Hacia-la-Marcha-de-la-Bronca-se-multiplican-y-crecen-los-Comites-junto-a-Myriam-Bregman, https://www.laizquierdadiario.com/Organizaciones-sindicales-sociales-y-politicas-marcharon-contra-el-endeudamiento-de-las-familias, https://www.laizquierdadiario.com/Ministerio-de-Economia-endeudados-marchan-y-exigen-solucion-al-drama-de-seis-millones-de-personas, https://www.laizquierdadiario.com/El-Comite-de-Quilmes-junto-a-Myriam-Bregman-debatio-como-impulsar-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Importante-reunion-de-coordinacion-se-empieza-a-construir-una-Gran-Marcha-de-la-Bronca, https://www.infobae.com/politica/2026/08/04/a-10-anos-de-la-primera-marcha-los-movimientos-sociales-vuelven-a-peregrinar-por-tierra-techo-y-trabajo/, https://www.laizquierdadiario.com/La-preparacion-de-la-Marcha-de-la-Bronca-gana-fuerza-en-las-calles-y-en-las-provincias"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Comités de Almagro y Cultura (más de 400 organizaciones)",
+            "tipo_medida": "Marcha",
+            "motivo": "Unión de sectores agraviados por el gobierno y en lucha contra ataques antisindicales y políticas precarizantes",
+            "fuente": "https://www.laizquierdadiario.com/El-19-tiene-que-ser-una-marcha-de-la-bronca-que-organice-y-que-luego-continue"
         },
         {
             "es_evento_relevante": true,
