@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07T17:32:25.071848-03:00",
+    "last_updated": "2026-09-07T20:19:59.378807-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15473,6 +15473,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-07",
+            "horario": "11:00",
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "Colectivo de la Discapacidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la prórroga de la Ley de Emergencia en Discapacidad y exigencia de cumplimiento total por parte del Gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Emergencia-en-Discapacidad-la-oposicion-pide-sesionar-el-miercoles-y-habra-movilizacion"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-08",
             "horario": "**11:00**",
             "lugar": "Congreso Nacional",
@@ -15488,8 +15498,8 @@
             "lugar": "Universidades Nacionales",
             "quien": "Frente Sindical de las Universidades Nacionales",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo por salario, presupuesto, ley de financiamiento universitario, actualización de becas y paritarias para recuperar pérdidas por inflación",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
+            "motivo": "Reclamo de recomposición salarial (31,2%) y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/09/07/paro-universitario-este-martes-los-gremios-profundizan-el-reclamo/, https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
         },
         {
             "es_evento_relevante": true,
