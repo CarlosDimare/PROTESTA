@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07T08:23:30.579297-03:00",
+    "last_updated": "2026-09-07T14:15:10.004872-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15464,6 +15464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-08",
+            "horario": "**11:00**",
+            "lugar": "Congreso Nacional",
+            "quien": "Transportistas de personas con discapacidad, prestadores, acompañantes y trabajadores del sector",
+            "tipo_medida": "Movilización",
+            "motivo": "Prórroga de la Ley de Emergencia en Discapacidad hasta 2027, cumplimiento integral de la normativa, actualización de costos, recomposición arancelaria y resolución de pagos y trámites administrativos",
+            "fuente": "https://www.conclusion.com.ar/politica/discapacidad-transportistas-marcharan-al-congreso-para-exigir-la-prorroga-de-la-ley-de-emergencia-hasta-2027/09/2026/, https://www.cronica.com.ar/politica/Vuelven-a-marchar-en-reclamo-de-la-aplicacion-de-la-Ley-de-Emergencia-en-Discapacidad-20251022-0040.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-08",
             "horario": "00:00",
             "lugar": "Universidades Nacionales",
             "quien": "Frente Sindical de las Universidades Nacionales",
@@ -15485,11 +15495,31 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-09",
             "horario": "11:00",
+            "lugar": "Congreso Nacional",
+            "quien": "FORO Permanente para la Promoción y la Defensa de los Derechos de las Personas con Discapacidad, familias, personas con discapacidad, trabajadores y prestadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar prórroga de la Ley de Emergencia en Discapacidad (Ley 27.793) y evitar modificaciones a la ley de prestaciones",
+            "fuente": "https://www.laizquierdadiario.com/El-Colectivo-de-Discapacidad-llama-a-marchar-este-miercoles-9-al-Congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
+            "horario": "11:00",
             "lugar": "Intersección de Hipólito Yrigoyen y Piedras, Ciudad Autónoma de Buenos Aires",
             "quien": "UATRE, Federación de Trabajadores de la Industria Alimentación, Federación de la Carne y UOMA",
             "tipo_medida": "Marcha",
             "motivo": "Exigir intervención del gobierno federal en el conflicto de Granja Tres Arroyos para preservar más de 7000 puestos de trabajo y garantizar continuidad productiva",
             "fuente": "https://www.datagremial.com/informacion-general/granja-tres-arroyos-gremios-marcharan-a-trabajo-contra-los-despidos-y-por-los-mas-de-7-000-puestos-en-riesgo-20269214110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-10",
+            "horario": "10:00",
+            "lugar": "No especificado",
+            "quien": "Sistema Nacional de Bomberos Voluntarios (Consejo de Federaciones y 29 federaciones provinciales)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de fondos retenidos por $59.330.748.051,41, aplicación de Leyes 25.054 y 27.629, agilización de pagos para importar equipamiento y reconocimiento por emergencias en rutas",
+            "fuente": "https://www.inforegion.com.ar/2026/09/07/los-bomberos-voluntarios-realizaran-un-sirenazo-en-reclamo-de-fondos/"
         },
         {
             "es_evento_relevante": true,
@@ -15584,12 +15614,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
-            "horario": "15:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional a Plaza de Mayo, Ciudad de Buenos Aires",
+            "quien": "Marcha de la Bronca (convocan Suteba, ATE, Frente de Lucha Piquetero, Basta de Falsas Soluciones, PTS, PO, MST, entre otros sectores)",
+            "tipo_medida": "Marcha",
+            "motivo": "En el camino de la huelga general para derrotar a Milei, su plan y sus cómplices",
+            "fuente": "https://www.laizquierdadiario.com/Asi-se-prepara-la-Marcha-de-la-Bronca-en-todo-el-pais-Que-organizaciones-llaman-a-movilizarse"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional",
             "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
-            "motivo": "Derrota de Milei y su plan, con enfoque en la lucha contra la usura y el endeudamiento",
-            "fuente": "https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
+            "motivo": "Rechazo al gobierno de Milei y sus políticas de ajuste, en defensa de salarios, empleo, educación, ciencia y salud pública.",
+            "fuente": "https://www.laizquierdadiario.com/Las-luchas-de-esta-semana-GPS-docentes-Garrahan-y-mas-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
         },
         {
             "es_evento_relevante": true,
@@ -15620,6 +15660,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Represión policial y fraude electoral en elecciones de CTERA, defensa de la democracia sindical y la educación pública",
             "fuente": "https://www.laizquierdadiario.com/Diputados-del-PTS-FITU-y-docentes-se-abrazan-frente-a-la-represion-policial-para-defender-la, https://elsubmarinojujuy.com.ar/impulsan-comites-de-trabajadores-en-jujuy-y-a-marchar-en-apoyo-a-bolivia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Artistas y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra las políticas de Javier Milei",
+            "fuente": "https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos"
         },
         {
             "es_evento_relevante": true,
