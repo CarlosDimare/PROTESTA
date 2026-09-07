@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07T14:15:10.004872-03:00",
+    "last_updated": "2026-09-07T17:32:25.071848-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15463,6 +15463,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-07",
+            "horario": "00:00",
+            "lugar": "No especificado (paro docente provincial)",
+            "quien": "Asociación de Maestros de la Provincia de Buenos Aires (AMPBA)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al aumento salarial de 2% en agosto, considerándolo salario de indigencia y exigiendo recomposición salarial urgente",
+            "fuente": "https://www.laizquierdadiario.com/Otro-sindicato-docente-esta-de-paro-y-denuncia-que-el-basico-no-llega-a-350-milpesos"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-08",
             "horario": "**11:00**",
             "lugar": "Congreso Nacional",
@@ -15486,10 +15496,10 @@
             "fecha": "2026-09-08",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "FEDUN - FATUN (docentes y nodocentes universitarios)",
+            "quien": "Trabajadores de las universidades",
             "tipo_medida": "Paro",
-            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, paritarias, actualización salarial y becas, y presupuesto universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
+            "motivo": "Reclamo salarial y contra el ajuste en el presupuesto universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/tras-el-incumplimiento-del-gobierno-sobre-la-ley-de-financiamiento-universidades-apuntan-a-convocar-a-una-nueva-marcha-federal/09/2026/, https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
         },
         {
             "es_evento_relevante": true,
