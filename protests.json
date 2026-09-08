@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-07T20:19:59.378807-03:00",
+    "last_updated": "2026-09-07T23:33:03.361215-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15510,6 +15510,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial y contra el ajuste en el presupuesto universitario",
             "fuente": "https://www.conclusion.com.ar/gremiales/tras-el-incumplimiento-del-gobierno-sobre-la-ley-de-financiamiento-universidades-apuntan-a-convocar-a-una-nueva-marcha-federal/09/2026/, https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
+            "horario": "11:00",
+            "lugar": "Polo Científico-Tecnológico de CABA (sede central) y Centros Científicos Tecnológicos de todo el país",
+            "quien": "Colectivo de Ingresantes a CONICET",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir la efectivización de cargos, derechos laborales adeudados y reparación por retrasos en incorporaciones y evaluaciones",
+            "fuente": "https://www.datagremial.com/informacion-general/en-medio-de-los-despidos-y-recortes-mas-de-1-000-cientificos-del-conicet-marcharan-para-exigir-el-pase-a-planta-permanente-2026971830"
         },
         {
             "es_evento_relevante": true,
