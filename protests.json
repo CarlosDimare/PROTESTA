@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T04:43:54.883476-03:00",
+    "last_updated": "2026-09-08T09:41:31.289189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15496,10 +15496,10 @@
             "fecha": "2026-09-08",
             "horario": "00:00",
             "lugar": "Universidades Nacionales",
-            "quien": "Frente Sindical de las Universidades Nacionales",
+            "quien": "Frente Sindical Universitario (ConaduH, Conadu, Fedun, Fatun, Ctera, Fagdut, UDA)",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo de recomposición salarial (31,2%) y cumplimiento de Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/09/07/paro-universitario-este-martes-los-gremios-profundizan-el-reclamo/, https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
+            "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, recorte presupuestario, actualización de becas Progresar y Belgrano, y rechazo al 21% de aumento salarial",
+            "fuente": "https://www.laizquierdadiario.com/Paro-nacional-universitario-este-martes-en-reclamo-de-la-aplicacion-de-la-Ley-de-Financiamiento, https://www.inforegion.com.ar/2026/09/07/paro-universitario-este-martes-los-gremios-profundizan-el-reclamo/, https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -15560,6 +15560,16 @@
             "tipo_medida": "No especificado",
             "motivo": "Derogación de la reforma previsional y eliminación del descuento del 2% ('aporte solidario')",
             "fuente": "https://www.conclusion.com.ar/politica/docentes-y-jubilados-de-amsafe-ganaron-la-calle-contra-la-reforma-previsional-el-recorte-es-injusto-y-discriminatorio/08/2026/, https://santafe.mitelefe.com/informacion-general/amsafe-lleva-adelante-una-protesta-por-la-reforma-previsional-pid2562515"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-15",
+            "horario": "No especificado",
+            "lugar": "Palacio Pizzurno, Buenos Aires",
+            "quien": "Frente Sindical Universitario (Fagdut, Apur, Fatun)",
+            "tipo_medida": "Acto",
+            "motivo": "Reclamos salariales, presupuestarios y por el financiamiento universitario",
+            "fuente": "https://elciudadanoweb.com/paro-universitario-en-todo-el-pais-docentes-y-no-docentes-llevan-adelante-la-medida-de-fuerza/"
         },
         {
             "es_evento_relevante": true,
