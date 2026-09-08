@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T09:41:31.289189-03:00",
+    "last_updated": "2026-09-08T14:09:43.101683-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15465,6 +15465,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-07",
             "horario": "00:00",
+            "lugar": "Casas de altos estudios públicas de Argentina",
+            "quien": "Frente Sindical de Universidades Nacionales y FEDUN",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario y propuesta salarial insuficiente (3% vs 32% necesario)",
+            "fuente": "https://www.datagremial.com/informacion-general/en-la-previa-a-un-nuevo-paro-daniel-ricci-afirmo-defendemos-un-modelo-de-pais-con-desarrollo-soberania-y-futuro-2026989450"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-07",
+            "horario": "00:00",
             "lugar": "No especificado (paro docente provincial)",
             "quien": "Asociación de Maestros de la Provincia de Buenos Aires (AMPBA)",
             "tipo_medida": "Paro",
@@ -15500,6 +15510,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de la Ley de Financiamiento Universitario, recorte presupuestario, actualización de becas Progresar y Belgrano, y rechazo al 21% de aumento salarial",
             "fuente": "https://www.laizquierdadiario.com/Paro-nacional-universitario-este-martes-en-reclamo-de-la-aplicacion-de-la-Ley-de-Financiamiento, https://www.inforegion.com.ar/2026/09/07/paro-universitario-este-martes-los-gremios-profundizan-el-reclamo/, https://www.conclusion.com.ar/la-ciudad/paro-de-los-docentes-de-la-utn-pensando-en-la-v-marcha-federal-universitaria/09/2026/, https://www.datagremial.com/informacion-general/recrudece-el-conflicto-universitario-docentes-y-nodocentes-paran-este-martes-y-preparan-una-nueva-marcha-federal-para-principios-de-octubre-20269516260, https://www.conclusion.com.ar/gremiales/paro-total-en-las-universidades-nacionales-para-el-proximo-martes/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-08",
+            "horario": "13:00",
+            "lugar": "Av. Corrientes 655, CABA",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Crisis en PAMI: falta de prestaciones, deuda con prestadores, muerte de jubilados por falta de medicamentos, y exigencia de respuestas del gobierno",
+            "fuente": "https://www.anred.org/ate-lanza-paro-y-movilizacion-al-pami-y-denuncia-la-crisis-y-colapso-de-la-obra-social-de-los-jubilados/"
         },
         {
             "es_evento_relevante": true,
@@ -15570,6 +15590,16 @@
             "tipo_medida": "Acto",
             "motivo": "Reclamos salariales, presupuestarios y por el financiamiento universitario",
             "fuente": "https://elciudadanoweb.com/paro-universitario-en-todo-el-pais-docentes-y-no-docentes-llevan-adelante-la-medida-de-fuerza/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona la fecha y hora de publicación del artículo (\"18 de septiembre 2025, 03:47 p.m.\"), pero **no indica una hora específica para el inicio del evento de protesta** (el boicot cultural \"No Music for Genocide\"). La acción de retirar música de plataformas digitales es una declaración pública sin un horario definido de inicio, por lo que no se puede extraer una hora de inicio del evento en sí.",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "No especificado (más de 400 organizaciones convocantes)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra ataques al sistema de salud, crisis de salud mental, morosidad, precarización laboral, recortes en educación, despidos, persecución a manteros, políticas anti-mujeres/diversidades, y por la reincorporación de Luciano Corradi",
+            "fuente": "https://www.laizquierdadiario.com/Gran-asamblea-de-los-comites-de-Zona-Sur-de-CABA, https://www.elimparcial.com/espectaculos/2025/09/18/no-music-for-genocide-mas-de-400-artistas-retiran-su-musica-de-israel-en-protesta-en-apoyo-a-gaza/"
         },
         {
             "es_evento_relevante": true,
@@ -15700,6 +15730,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Represión policial y fraude electoral en elecciones de CTERA, defensa de la democracia sindical y la educación pública",
             "fuente": "https://www.laizquierdadiario.com/Diputados-del-PTS-FITU-y-docentes-se-abrazan-frente-a-la-represion-policial-para-defender-la, https://elsubmarinojujuy.com.ar/impulsan-comites-de-trabajadores-en-jujuy-y-a-marchar-en-apoyo-a-bolivia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "La hora de inicio del evento de protesta es **15:00**.",
+            "lugar": "Plaza de Mayo (por contexto de Marcha de la Bronca)",
+            "quien": "Junta Interna de ATE Garrahan y Asociación de Profesionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a ataques antisindicales, defensa de Norma Lezana y reclamo contra ajustes en salud",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-del-Garrahan-vota-participar-de-la-marcha-de-la-bronca-el-19-de-septiembre, https://www.eldestapeweb.com/sociedad/marchas/marcha-del-garrahan-a-que-hora-es-donde-es-la-movilizacion-y-los-cortes-de-calle-2025717133633"
         },
         {
             "es_evento_relevante": true,
