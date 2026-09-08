@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T16:49:21.970634-03:00",
+    "last_updated": "2026-09-08T19:19:55.906822-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15526,10 +15526,10 @@
             "fecha": "2026-09-08",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Trabajadores de las universidades",
+            "quien": "Frente Sindical de las Universidades Nacionales",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo salarial y contra el ajuste en el presupuesto universitario",
-            "fuente": "https://www.conclusion.com.ar/gremiales/tras-el-incumplimiento-del-gobierno-sobre-la-ley-de-financiamiento-universidades-apuntan-a-convocar-a-una-nueva-marcha-federal/09/2026/, https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
+            "motivo": "Recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-este-martes-el-paro-de-docentes-y-no-docentes-universitarios-en-todo-el-pais/09/2026/, https://www.conclusion.com.ar/gremiales/tras-el-incumplimiento-del-gobierno-sobre-la-ley-de-financiamiento-universidades-apuntan-a-convocar-a-una-nueva-marcha-federal/09/2026/, https://www.inforegion.com.ar/2026/09/05/nuevo-paro-convocaran-a-una-otra-marcha-en-defensa-de-la-universidad/"
         },
         {
             "es_evento_relevante": true,
