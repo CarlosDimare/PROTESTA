@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09T18:37:18.889933-03:00",
+    "last_updated": "2026-09-09T20:49:54.797415-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15574,12 +15574,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-09",
-            "horario": "14:30",
-            "lugar": "Legislatura Provincial de Tierra del Fuego",
-            "quien": "SUTEF (Sindicato Unico de Trabajadores de la Educación de la Fueg)",
+            "horario": "14:00",
+            "lugar": "Casa de Gobierno de Ushuaia",
+            "quien": "SUTEF (Sindicato Unificado de Trabajadoras y Trabajadores de la Educación Fueguina)",
             "tipo_medida": "Movilización",
-            "motivo": "Denuncia contra congelamiento de cargos, reducción de horas cátedra, pérdida del poder adquisitivo y ajuste presupuestario; exige tratamiento de Ley de Financiamiento para propuestas salariales",
-            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-continua-el-paro-por-tiempo-indeterminado-y-convocan-un-maestrazo-provincial, https://www.infofueguina.com/tu-ciudad/2026/9/6/el-sutef-acuso-la-provincia-de-estirar-el-conflicto-inicia-la-sexta-semana-de-paro-indeterminado-89725.html"
+            "motivo": "Reclamos por recomposición salarial, mejora en condiciones laborales y educación pública, soluciones para el sector pasivo y cese de conflictos administrativos",
+            "fuente": "https://www.anred.org/tierra-del-fuego-sexta-semana-de-paro-docente-y-hay-nueva-reunion-con-el-gobierno/, https://www.laizquierdadiario.com/Tierra-del-Fuego-continua-el-paro-por-tiempo-indeterminado-y-convocan-un-maestrazo-provincial, https://www.infofueguina.com/tu-ciudad/2026/9/6/el-sutef-acuso-la-provincia-de-estirar-el-conflicto-inicia-la-sexta-semana-de-paro-indeterminado-89725.html"
         },
         {
             "es_evento_relevante": true,
@@ -15620,6 +15620,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de la ley de emergencia en discapacidad y respuestas del Gobierno",
             "fuente": "https://elciudadanoweb.com/discapacidad-transportistas-llevan-su-ya-cronico-reclamo-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-11",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Jubilados y sectores de discapacidad",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por recomposiciones haberes y entrega de medicamentos",
+            "fuente": "https://elciudadanoweb.com/otra-vez-la-represion-en-la-marcha-de-los-jubilados-golpes-empujones-y-gases-contra-los-manifestantes-por-parte-de-la-policia/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
         },
         {
             "es_evento_relevante": true,
@@ -15726,10 +15736,10 @@
             "fecha": "2026-09-19",
             "horario": "14:00",
             "lugar": "No especificado",
-            "quien": "Coalición de sindicatos, organizaciones sociales y políticas",
+            "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
             "motivo": "Oposición al gobierno de Milei y su plan económico",
-            "fuente": "https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+            "fuente": "https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
