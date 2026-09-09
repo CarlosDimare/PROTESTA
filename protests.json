@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T22:01:56.944407-03:00",
+    "last_updated": "2026-09-09T02:51:23.169449-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15605,6 +15605,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-15",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Frente Sindical de las universidades nacionales",
+            "tipo_medida": "Jornada nacional de clases públicas",
+            "motivo": "Reclamo por incumplimiento de Ley de Financiamiento Universitario y convocatoria a paritaria docente/nodocente",
+            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-los-salarios-docentes-estan-todos-por-debajo-de-la-linea-de-pobreza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-15",
+            "horario": "No especificado",
             "lugar": "Palacio Pizzurno, Buenos Aires",
             "quien": "Frente Sindical Universitario (Fagdut, Apur, Fatun)",
             "tipo_medida": "Acto",
@@ -15715,11 +15725,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "15:30",
-            "lugar": "Congreso Nacional a Plaza de Mayo, Ciudad de Buenos Aires",
-            "quien": "Marcha de la Bronca (convocan Suteba, ATE, Frente de Lucha Piquetero, Basta de Falsas Soluciones, PTS, PO, MST, entre otros sectores)",
+            "lugar": "Congreso Nacional hacia Plaza de Mayo (Ciudad y Gran Buenos Aires)",
+            "quien": "Comunidad de Izquierda junto a Myriam Bregman y comités locales",
             "tipo_medida": "Marcha",
-            "motivo": "En el camino de la huelga general para derrotar a Milei, su plan y sus cómplices",
-            "fuente": "https://www.laizquierdadiario.com/Asi-se-prepara-la-Marcha-de-la-Bronca-en-todo-el-pais-Que-organizaciones-llaman-a-movilizarse"
+            "motivo": "Resistencia al ajuste de Milei, defensa de derechos humanos, mujeres, LGTBIQ+, trabajadores y juventud, contra el plan económico del FMI y empresarios",
+            "fuente": "https://www.laizquierdadiario.com/Como-me-sumo-a-la-marcha-de-la-bronca-del-19-de-septiembre, https://www.laizquierdadiario.com/Asi-se-prepara-la-Marcha-de-la-Bronca-en-todo-el-pais-Que-organizaciones-llaman-a-movilizarse"
         },
         {
             "es_evento_relevante": true,
