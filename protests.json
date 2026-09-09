@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09T02:51:23.169449-03:00",
+    "last_updated": "2026-09-09T07:43:33.916298-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15590,6 +15590,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de fondos retenidos por $59.330.748.051,41, aplicación de Leyes 25.054 y 27.629, agilización de pagos para importar equipamiento y reconocimiento por emergencias en rutas",
             "fuente": "https://www.inforegion.com.ar/2026/09/07/los-bomberos-voluntarios-realizaran-un-sirenazo-en-reclamo-de-fondos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-11",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Federación Argentina de Transportistas de Personas con Discapacidad",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la ley de emergencia en discapacidad y respuestas del Gobierno",
+            "fuente": "https://elciudadanoweb.com/discapacidad-transportistas-llevan-su-ya-cronico-reclamo-al-congreso/"
         },
         {
             "es_evento_relevante": true,
