@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-08T19:19:55.906822-03:00",
+    "last_updated": "2026-09-08T22:01:56.944407-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15535,6 +15535,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-09",
             "horario": "11:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Organizaciones, personas con discapacidad, familias, trabajadores y prestadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar la continuidad de la Emergencia en Discapacidad y garantizar el cumplimiento efectivo de las prestaciones y derechos",
+            "fuente": "https://www.laizquierdadiario.com/Miercoles-sesion-Congreso-discapacidad-y-endeudamiento-dos-urgencias-que-el-Gobierno-quiere-postergar"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
+            "horario": "11:00",
             "lugar": "Polo Científico-Tecnológico de CABA (sede central) y Centros Científicos Tecnológicos de todo el país",
             "quien": "Colectivo de Ingresantes a CONICET",
             "tipo_medida": "Marcha",
@@ -15560,6 +15570,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir intervención del gobierno federal en el conflicto de Granja Tres Arroyos para preservar más de 7000 puestos de trabajo y garantizar continuidad productiva",
             "fuente": "https://www.datagremial.com/informacion-general/granja-tres-arroyos-gremios-marcharan-a-trabajo-contra-los-despidos-y-por-los-mas-de-7-000-puestos-en-riesgo-20269214110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
+            "horario": "La hora de inicio del evento de protesta es **11:00**.",
+            "lugar": "No especificado",
+            "quien": "FEDUN y Frente Sindical de las Universidades Nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial del 32% y actualización de becas",
+            "fuente": "https://www.datagremial.com/paritarias/paro-universitario-la-fedun-informo-un-acatamiento-cercano-al-100-y-advierte-que-no-va-a-aceptar-una-nueva-provocacion-del-gobierno-20269818570, https://www.infogremiales.com.ar/el-frente-sindical-de-universidades-convoco-a-realizar-clases-publicas-frente-a-tribunales-de-todo-el-pais-para-visibilizar-el-reclamo-por-salarios-y-presupuesto/"
         },
         {
             "es_evento_relevante": true,
@@ -15675,6 +15695,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento de trabajadores y organizaciones populares",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra despidos, persecución y ajuste económico; unificación de luchas sectoriales",
+            "fuente": "https://www.laizquierdadiario.com/De-cada-lucha-a-una-sola-fuerza-rumbo-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Las-luchas-de-esta-semana-GPS-docentes-Garrahan-y-mas-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:00",
             "lugar": "Ciudad de Buenos Aires",
             "quien": "Organizaciones sociales y sindicales",
             "tipo_medida": "Marcha",
@@ -15690,16 +15720,6 @@
             "tipo_medida": "Marcha",
             "motivo": "En el camino de la huelga general para derrotar a Milei, su plan y sus cómplices",
             "fuente": "https://www.laizquierdadiario.com/Asi-se-prepara-la-Marcha-de-la-Bronca-en-todo-el-pais-Que-organizaciones-llaman-a-movilizarse"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "15:30",
-            "lugar": "Congreso Nacional",
-            "quien": "La Izquierda Diario",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo al gobierno de Milei y sus políticas de ajuste, en defensa de salarios, empleo, educación, ciencia y salud pública.",
-            "fuente": "https://www.laizquierdadiario.com/Las-luchas-de-esta-semana-GPS-docentes-Garrahan-y-mas-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
         },
         {
             "es_evento_relevante": true,
