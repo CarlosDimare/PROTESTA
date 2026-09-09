@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-09T15:24:00.604284-03:00",
+    "last_updated": "2026-09-09T18:37:18.889933-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15574,6 +15574,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-09",
+            "horario": "14:30",
+            "lugar": "Legislatura Provincial de Tierra del Fuego",
+            "quien": "SUTEF (Sindicato Unico de Trabajadores de la Educación de la Fueg)",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia contra congelamiento de cargos, reducción de horas cátedra, pérdida del poder adquisitivo y ajuste presupuestario; exige tratamiento de Ley de Financiamiento para propuestas salariales",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-continua-el-paro-por-tiempo-indeterminado-y-convocan-un-maestrazo-provincial, https://www.infofueguina.com/tu-ciudad/2026/9/6/el-sutef-acuso-la-provincia-de-estirar-el-conflicto-inicia-la-sexta-semana-de-paro-indeterminado-89725.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-09",
             "horario": "La hora de inicio del evento de protesta es **11:00**.",
             "lugar": "No especificado",
             "quien": "FEDUN y Frente Sindical de las Universidades Nacionales",
@@ -15593,6 +15603,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-10",
+            "horario": "18:00",
+            "lugar": "Polo Tecnológico Migueletes",
+            "quien": "Trabajadores y comunidad de CNEA, INTI y UNSAM",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la soberanía científica, tecnológica e industrial; denuncia de despidos, vaciamiento, privatización, bajos salarios e incumplimiento de la ley de financiamiento universitario",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-este-jueves-en-defensa-de-la-soberania-cientifica-tecnologica-e-industrial"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-11",
             "horario": "10:00",
             "lugar": "Congreso Nacional, Buenos Aires",
@@ -15600,6 +15620,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de la ley de emergencia en discapacidad y respuestas del Gobierno",
             "fuente": "https://elciudadanoweb.com/discapacidad-transportistas-llevan-su-ya-cronico-reclamo-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-14",
+            "horario": "00:00",
+            "lugar": "Sede administrativa provincial (Contaduría General y Tesorería General de Buenos Aires)",
+            "quien": "APOC (Asociación del Personal de los Organismos de Control)",
+            "tipo_medida": "Paro general",
+            "motivo": "Reclamo por diferencias salariales pendientes desde la modificación de la jornada laboral en 2023, específicamente un 33% vs el 9.9% otorgado en bonificaciones",
+            "fuente": "https://www.datagremial.com/paritarias/por-una-protesta-en-organismos-de-control-kicillof-corre-el-riesgo-de-que-se-le-corte-la-cadena-de-pagos-2026991710"
         },
         {
             "es_evento_relevante": true,
@@ -15690,6 +15720,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Derrotar el plan de ajuste de Milei y el FMI, exigir paro nacional y huelga general",
             "fuente": "https://www.laizquierdadiario.com/Dimos-el-primer-paso-hacia-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://elciudadanoweb.com/la-calle-se-une-contra-el-ajuste-amplia-protesta-de-sindicatos-estudiantes-y-organizaciones-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:00",
+            "lugar": "No especificado",
+            "quien": "Coalición de sindicatos, organizaciones sociales y políticas",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición al gobierno de Milei y su plan económico",
+            "fuente": "https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
@@ -15790,16 +15830,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a ataques antisindicales, defensa de Norma Lezana y reclamo contra ajustes en salud",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-del-Garrahan-vota-participar-de-la-marcha-de-la-bronca-el-19-de-septiembre, https://www.eldestapeweb.com/sociedad/marchas/marcha-del-garrahan-a-que-hora-es-donde-es-la-movilizacion-y-los-cortes-de-calle-2025717133633"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Artistas y movimientos sociales",
-            "tipo_medida": "Marcha",
-            "motivo": "Protesta contra las políticas de Javier Milei",
-            "fuente": "https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos"
         },
         {
             "es_evento_relevante": true,
