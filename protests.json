@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10T16:29:57.300374-03:00",
+    "last_updated": "2026-09-10T19:16:47.875195-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15630,6 +15630,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por recomposiciones haberes y entrega de medicamentos",
             "fuente": "https://elciudadanoweb.com/otra-vez-la-represion-en-la-marcha-de-los-jubilados-golpes-empujones-y-gases-contra-los-manifestantes-por-parte-de-la-policia/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-13",
+            "horario": "No especificado",
+            "lugar": "Nuevo complejo penitenciario de Recreo",
+            "quien": "Familias de los internos",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por falta de comunicación en traslados, acceso a internos y pertenencias,以及对新监狱条件的不确定性",
+            "fuente": "https://elciudadanoweb.com/controversia-por-la-nueva-carcel-de-recreo-reclamos-de-familiares-ante-el-nuevo-dispositivo-penitenciario-provincial/"
         },
         {
             "es_evento_relevante": true,
