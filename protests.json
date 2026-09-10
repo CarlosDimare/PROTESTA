@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-10T04:55:25.675927-03:00",
+    "last_updated": "2026-09-10T09:41:03.806733-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15595,11 +15595,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-10",
             "horario": "10:00",
-            "lugar": "No especificado",
-            "quien": "Sistema Nacional de Bomberos Voluntarios (Consejo de Federaciones y 29 federaciones provinciales)",
+            "lugar": "Cuarteles de Bomberos Voluntarios de todo el país",
+            "quien": "Sistema Nacional de Bomberos Voluntarios (Consejo de Federaciones y federaciones provinciales)",
             "tipo_medida": "Movilización",
-            "motivo": "Reclamo de fondos retenidos por $59.330.748.051,41, aplicación de Leyes 25.054 y 27.629, agilización de pagos para importar equipamiento y reconocimiento por emergencias en rutas",
-            "fuente": "https://www.inforegion.com.ar/2026/09/07/los-bomberos-voluntarios-realizaran-un-sirenazo-en-reclamo-de-fondos/"
+            "motivo": "Exigir regularización de fondos pendientes (Ley 25.054), compensación por emergencias en rutas concesionadas, aplicación integral de Ley 27.629 y agilización de pagos internacionales",
+            "fuente": "https://www.conclusion.com.ar/info-general/bomberos-voluntarios-realizan-un-sirenazo-en-reclamo-de-fondos-nacionales-los-cuarteles-necesitan-recursos-para-seguir-respondiendo/09/2026/, https://www.inforegion.com.ar/2026/09/07/los-bomberos-voluntarios-realizaran-un-sirenazo-en-reclamo-de-fondos/"
         },
         {
             "es_evento_relevante": true,
