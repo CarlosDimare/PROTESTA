@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11T07:36:08.021086-03:00",
+    "last_updated": "2026-09-11T11:57:37.082336-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15794,16 +15794,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
-            "horario": "15:00",
-            "lugar": "Ciudad de Buenos Aires",
-            "quien": "Organizaciones sociales y sindicales",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas de ajuste, aumento de tarifas y despidos bajo el gobierno de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Los-enfrentamos-en-las-calles-septiembre-llega-con-aumentos-en-transporte-alquileres-salud-y-otros, https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
             "horario": "15:30",
             "lugar": "Congreso Nacional hacia Plaza de Mayo (Ciudad y Gran Buenos Aires)",
             "quien": "Comunidad de Izquierda junto a Myriam Bregman y comités locales",
@@ -15820,6 +15810,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Enfrentar el plan de ajuste del gobierno de Milei y políticas económicas adversas a trabajadores, incluyendo despidos y persecuciones",
             "fuente": "https://www.laizquierdadiario.com/La-autoconvocatoria-en-Parque-Lezama-le-dio-nuevo-impulso-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marcha-de-la-bronca-comenzo-la-autoconvocatoria-que-prepara-la-marcha-a-Plaza-de-Mayo, https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Movimientos sociales y sindicales disidentes",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el plan de ajuste de Milei, exigiendo huelga general y derrotar al gobierno",
+            "fuente": "https://www.anred.org/dos-caminos-para-el-19s-kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca/, https://www.laizquierdadiario.com/Los-enfrentamos-en-las-calles-septiembre-llega-con-aumentos-en-transporte-alquileres-salud-y-otros, https://www.laizquierdadiario.com/19-de-septiembre-la-Marcha-de-la-Bronca-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
