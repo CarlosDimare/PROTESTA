@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11T11:57:37.082336-03:00",
+    "last_updated": "2026-09-11T15:16:05.308408-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15860,6 +15860,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a ataques antisindicales, defensa de Norma Lezana y reclamo contra ajustes en salud",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-del-Garrahan-vota-participar-de-la-marcha-de-la-bronca-el-19-de-septiembre, https://www.eldestapeweb.com/sociedad/marchas/marcha-del-garrahan-a-que-hora-es-donde-es-la-movilizacion-y-los-cortes-de-calle-2025717133633"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "No especificado",
+            "lugar": "Marcha nacional en todo el país",
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar ajuste de Milei, políticas de Jalil y apoyo a comunidades indígenas contra mineras",
+            "fuente": "https://www.laizquierdadiario.com/Catamarca-importante-repercusion-de-la-visita-de-Vilca-para-convocar-a-la-Marcha-de-la-bronca"
         },
         {
             "es_evento_relevante": true,
