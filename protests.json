@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11T02:39:33.564656-03:00",
+    "last_updated": "2026-09-11T07:36:08.021086-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15633,6 +15633,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-11",
+            "horario": "21:30",
+            "lugar": "No especificado",
+            "quien": "Coordinación de trabajadores de CNEA, INTI, UNSAM, CONICET, CICOP, SECO, Fate, Madygraf, estudiantes, jubilados y vecinos",
+            "tipo_medida": "Marcha",
+            "motivo": "Continuidad de la lucha contra el ajuste del Gobierno de Javier Milei, en defensa de la soberanía científica, tecnológica, industrial, salud, educación y trabajo",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-antorchas-trabajadores-y-vecinos-contra-el-ajuste-de-Milei, https://www.laizquierdadiario.com/Marcha-de-antorchas-trabajadores-y-vecinos-contra-el-ajuste-de-Milei"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-13",
             "horario": "No especificado",
             "lugar": "Nuevo complejo penitenciario de Recreo",
@@ -15746,10 +15756,10 @@
             "fecha": "2026-09-19",
             "horario": "14:00",
             "lugar": "No especificado",
-            "quien": "Asociación Gremial Docente de la UBA (AGD-UBA)",
+            "quien": "Comités del Partido de la Nueva Clase Trabajadora / Frente de Izquierda y los Trabajadores (FITU)",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario, incremento salarial del 34% para docentes y nodocentes, presupuesto para becas y hospitales universitarios, y oposición al plan de ajuste de Milei y el FMI",
-            "fuente": "https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+            "motivo": "Contra políticas de ajuste y extractivismo de Milei y sus aliados",
+            "fuente": "https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
