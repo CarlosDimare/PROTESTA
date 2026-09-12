@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-11T20:55:59.349789-03:00",
+    "last_updated": "2026-09-11T23:39:11.595779-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15674,12 +15674,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-15",
-            "horario": "No especificado",
+            "horario": "15:00",
             "lugar": "No especificado",
-            "quien": "Frente Sindical de las universidades nacionales",
-            "tipo_medida": "Jornada nacional de clases públicas",
-            "motivo": "Reclamo por incumplimiento de Ley de Financiamiento Universitario y convocatoria a paritaria docente/nodocente",
-            "fuente": "https://www.laizquierdadiario.com/Paro-universitario-los-salarios-docentes-estan-todos-por-debajo-de-la-linea-de-pobreza"
+            "quien": "SUTEF",
+            "tipo_medida": "Reunión de negociación",
+            "motivo": "Exigir propuesta salarial que reconozca deuda, fin de descuentos y devolución de haberes, en el marco de la huelga docente",
+            "fuente": "https://www.laizquierdadiario.com/Tierra-del-Fuego-el-gobierno-quiere-mantener-el-ajuste-salarial-y-sigue-la-lucha-docente, https://www.laizquierdadiario.com/Paro-universitario-los-salarios-docentes-estan-todos-por-debajo-de-la-linea-de-pobreza"
         },
         {
             "es_evento_relevante": true,
