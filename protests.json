@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-13T11:54:40.132591-03:00",
+    "last_updated": "2026-09-13T15:06:44.192271-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15815,6 +15815,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "16:00",
+            "lugar": "Catamarca",
+            "quien": "Comité de Catamarca",
+            "tipo_medida": "Marcha",
+            "motivo": "Oposición al ajuste económico y convocatoria a la organización desde abajo",
+            "fuente": "https://www.laizquierdadiario.com/Crece-el-Comite-de-Catamarca-se-reunieron-con-Alejandro-Vilca-preparando-la-Marcha-de-la-Broca"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
             "lugar": "Ciudad Autónoma de Buenos Aires",
             "quien": "Movimientos sociales y sindicales disidentes",
             "tipo_medida": "Marcha",
@@ -15830,6 +15840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "17:00",
+            "lugar": "Plaza Belgrano, Jujuy",
+            "quien": "Cedems y sectores adheridos a la Marcha de la Bronca",
+            "tipo_medida": "Marcha",
+            "motivo": "Enfrentar el ajuste de Milei, exigir huelga general, contra descuentos salariales y fraude",
+            "fuente": "https://www.laizquierdadiario.com/Cedems-rechaza-la-oferta-salarial-y-adhiere-a-Marcha-de-la-Bronca-el-19S"
         },
         {
             "es_evento_relevante": true,
