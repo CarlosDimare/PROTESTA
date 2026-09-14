@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14T08:32:11.683561-03:00",
+    "last_updated": "2026-09-14T14:30:52.137652-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15755,11 +15755,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "14:00",
-            "lugar": "No especificado",
-            "quien": "La Izquierda Diario",
+            "lugar": "No especificado (marcha nacional)",
+            "quien": "Red Nacional de agrupaciones En Clave Roja, sindicatos, centros de estudiantes, organismos de DDHH, asambleas ambientales, colectivos de artistas y referentes de izquierda",
             "tipo_medida": "Marcha",
-            "motivo": "Protesta contra el ajuste de Milei y demanda de huelga general",
-            "fuente": "https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+            "motivo": "Contra las políticas de Milei, la precarización laboral, la represión a jubilados, ataques a derechos (salud/educación/aborto), inflación, política exterior pro-Israel y la entrega del peronismo/sindicalismo",
+            "fuente": "https://www.laizquierdadiario.com/Declaracion-de-la-Red-Nacional-de-Agrupaciones-En-Clave-Roja-La-juventud-copa-las-calles-en-la"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:00",
+            "lugar": "No especificado",
+            "quien": "Feministas y colectivos LGTBIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra políticas de ajuste y discriminación del gobierno de Milei, en defensa de derechos conquistados",
+            "fuente": "https://www.laizquierdadiario.com/Feministas-y-activista-LGTBIQ-convocan-a-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Mirta-Busnelli-Katja-Aleman-Carlos-Belloso-La-Bersuit-y-Los-Gardelitos-entre-muchos-otros-convocan, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
@@ -15785,11 +15795,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "15:30",
-            "lugar": "Congreso Nacional (CABA)",
-            "quien": "Coalición multisectorial (sindicatos, movimientos sociales, izquierda política)",
+            "lugar": "Congreso Nacional",
+            "quien": "Más de 200 organizaciones sindicales, sociales, políticas, de derechos humanos, feministas y ambientales",
             "tipo_medida": "Marcha",
-            "motivo": "Derrotar el plan de ajuste de Milei y avanzar hacia huelga general",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-de-la-Bronca-conoce-los-lugares-de-encuentro-para-movilizar, https://www.laizquierdadiario.com/De-cada-lucha-a-una-sola-fuerza-rumbo-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Las-luchas-de-esta-semana-GPS-docentes-Garrahan-y-mas-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
+            "motivo": "Contra la precarización, desfinanciamamiento de salud/educación, pérdida salarial, ajuste del gobierno de Milei y falta de derechos, coordinando luchas sectoriales",
+            "fuente": "https://www.laizquierdadiario.com/CICOP-VARELA-Crece-la-bronca-en-salud-y-en-coordinacion-con-otros-sectores-se-organiza-la-marcha, https://www.laizquierdadiario.com/Marcha-de-la-Bronca-conoce-los-lugares-de-encuentro-para-movilizar, https://www.laizquierdadiario.com/De-cada-lucha-a-una-sola-fuerza-rumbo-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Las-luchas-de-esta-semana-GPS-docentes-Garrahan-y-mas-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/La-Marcha-de-la-Bronca-del-19-de-septiembre-tambien-es-la-marcha-de-las-y-los-endeudados, https://www.laizquierdadiario.com/contenido"
         },
         {
             "es_evento_relevante": true,
