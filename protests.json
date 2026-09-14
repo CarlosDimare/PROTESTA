@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14T14:30:52.137652-03:00",
+    "last_updated": "2026-09-14T18:25:28.392204-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15716,10 +15716,10 @@
             "fecha": "2026-09-19",
             "horario": "10:00",
             "lugar": "Plaza de Mayo",
-            "quien": "Comités de Almagro y Cultura (más de 400 organizaciones)",
+            "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
-            "motivo": "Unión de sectores agraviados por el gobierno y en lucha contra ataques antisindicales y políticas precarizantes",
-            "fuente": "https://www.laizquierdadiario.com/El-19-tiene-que-ser-una-marcha-de-la-bronca-que-organice-y-que-luego-continue"
+            "motivo": "Rechazo a políticas económicas y despidos, contra la derecha representada por Milei",
+            "fuente": "https://www.laizquierdadiario.com/El-PJ-marcha-hacia-una-rosca-de-actos-homenajes-y-reuniones, https://www.laizquierdadiario.com/El-19-tiene-que-ser-una-marcha-de-la-bronca-que-organice-y-que-luego-continue"
         },
         {
             "es_evento_relevante": true,
@@ -15825,6 +15825,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "16:00",
+            "lugar": "Rosario, desde Plaza San Martín hasta Plaza 25 de Mayo",
+            "quien": "Coordinación de la Marcha de la Bronca en Rosario (sindicatos, organizaciones políticas, ambientales, feministas, de jubilados y pueblos originarios)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al plan económico y políticas del gobierno de Milei, reclamo de paro nacional y lucha contra ajustes que afectan trabajadores, jubilados, discapacidad, educación, salud, soberanía y derechos",
+            "fuente": "https://elciudadanoweb.com/rosario-se-suma-a-la-marcha-de-la-bronca/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
             "lugar": "Catamarca",
             "quien": "Comité de Catamarca",
             "tipo_medida": "Marcha",
@@ -15890,6 +15900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a ataques antisindicales, defensa de Norma Lezana y reclamo contra ajustes en salud",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-del-Garrahan-vota-participar-de-la-marcha-de-la-bronca-el-19-de-septiembre, https://www.eldestapeweb.com/sociedad/marchas/marcha-del-garrahan-a-que-hora-es-donde-es-la-movilizacion-y-los-cortes-de-calle-2025717133633"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "No especificado",
+            "lugar": "Distintos puntos de Misiones y Argentina",
+            "quien": "Comités del Movimiento por un Partido de la Nueva Clase Trabajadora, Pan y Rosas, Colectivo de Mujeres y Disidencias",
+            "tipo_medida": "Marcha",
+            "motivo": "Resistencia contra el plan de ajuste de Milei, el saqueo y la represión",
+            "fuente": "https://www.laizquierdadiario.com/Comites-en-marcha-la-bronca-se-transforma-en-organizacion-hacia-el-19-de-septiembre"
         },
         {
             "es_evento_relevante": true,
