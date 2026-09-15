@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14T21:13:55.322590-03:00",
+    "last_updated": "2026-09-15T02:52:41.837520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15800,6 +15800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra las políticas de Milei y por la huelga general",
             "fuente": "https://www.laizquierdadiario.com/Con-una-exitosa-reunion-federal-crece-la-convocatoria-a-la-Marcha-de-la-Bronca-del-19-de-septiembre, https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:30",
+            "lugar": "Congreso de la Nación (partida) hacia Plaza de Mayo (concentración final)",
+            "quien": "Coalición de organizaciones sindicales, sociales, políticas y de izquierda (incluyendo FIT-U, MST, PTS, gremios docentes, piqueteros, feministas y jubilados)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra las políticas de Milei y por organización sindical",
+            "fuente": "https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
         },
         {
             "es_evento_relevante": true,
