@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-14T18:25:28.392204-03:00",
+    "last_updated": "2026-09-14T21:13:55.322590-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15663,6 +15663,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-14",
+            "horario": "06:00",
+            "lugar": "Ruta 12",
+            "quien": "Trabajadores de Crucero del Norte y UTA",
+            "tipo_medida": "Corte",
+            "motivo": "Reclamo por pago íntegro de salarios y oposición al vaciamiento empresarial",
+            "fuente": "https://www.laizquierdadiario.com/Crucero-del-Norte-pasajeros-varados-trabajadores-sin-salario, https://misionesonline.net/2026/08/26/crucero-del-norte-cese-actividades/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-15",
             "horario": "11:00",
             "lugar": "Plaza San Martín",
@@ -15820,6 +15830,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Enfrentar el plan de ajuste del gobierno de Milei y políticas económicas adversas a trabajadores, incluyendo despidos y persecuciones",
             "fuente": "https://www.laizquierdadiario.com/La-autoconvocatoria-en-Parque-Lezama-le-dio-nuevo-impulso-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Marcha-de-la-bronca-comenzo-la-autoconvocatoria-que-prepara-la-marcha-a-Plaza-de-Mayo, https://www.laizquierdadiario.com/Seguimos-preparando-una-gran-Marcha-de-la-Bronca-este-sabado-5-nos-autoconvocamos-en-Parque-Lezama, https://www.clarin.com/ciudades/facciones-cta-marchan-plaza-mayo-estatales-suman-protesta_0_0uxWSC3Bvx.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
+            "lugar": "Plaza San Martín (Santa Fe y Moreno), Rosario",
+            "quien": "Frente de Izquierda y de los Trabajadores, organizaciones políticas, sociales y feministas",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo contra políticas de ajuste de Milei, recortes en educación/salud, afectación a soberanía y territorios, violencia machista y necesidad de recomposición salarial",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/rosario-se-suma-a-la-marcha-de-la-bronca-contra-las-politicas-de-ajuste-de-milei/09/2026/"
         },
         {
             "es_evento_relevante": true,
