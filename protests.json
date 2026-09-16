@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16T07:45:58.212510-03:00",
+    "last_updated": "2026-09-16T12:29:02.974679-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15723,6 +15723,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-16",
+            "horario": "22:00",
+            "lugar": "Liceo Aeronáutico Militar (LAM) de Funes",
+            "quien": "Trabajadores civiles y docentes civiles del LAM, organizados por ATE Rosario",
+            "tipo_medida": "Paro",
+            "motivo": "Restablecimiento de las prestaciones de la obra social Iosfa/Osfa y reapertura de la paritaria sectorial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-los-paros-apuntan-contra-la-obra-social-osfa/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-17",
+            "horario": "No especificado",
+            "lugar": "Palacio de Justicia de Mendoza",
+            "quien": "Asociación de Empleados y Funcionarios del Poder Judicial de Mendoza",
+            "tipo_medida": "Asamblea",
+            "motivo": "Exigir aumento salarial digno y partidas presupuestarias ante la propuesta insuficiente del gobierno provincial",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-de-mendoza-rechazan-por-absurdo-el-11-de-aumento-y-protagonizaran-una-masiva-asamblea-en-los-tribunales-de-la-provincia-20269169460"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona la fecha y hora de publicación del artículo (\"18 de septiembre 2025, 03:47 p.m.\"), pero **no indica una hora específica para el inicio del evento de protesta** (el boicot cultural \"No Music for Genocide\"). La acción de retirar música de plataformas digitales es una declaración pública sin un horario definido de inicio, por lo que no se puede extraer una hora de inicio del evento en sí.",
             "lugar": "Plaza de Mayo, Buenos Aires",
@@ -15776,20 +15796,20 @@
             "fecha": "2026-09-19",
             "horario": "14:00",
             "lugar": "No especificado",
-            "quien": "Marcha de la Bronca (STIA, Comités y Myriam Bregman)",
+            "quien": "PTS-FITU y movimientos sociales",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamos contra el fraude en Mondelez y otros conflictos laborales",
-            "fuente": "https://www.laizquierdadiario.com/Para-que-sirve-marchar, https://www.laizquierdadiario.com/De-la-bronca-a-la-organizacion-mujeres-y-disidencias-impulsan-la-marcha-del-19S, https://www.laizquierdadiario.com/Del-Cano-paso-por-Gelantina-y-llamo-a-la-Marcha-de-la-Bronca-Todos-los-enojados-estan-convocados, https://www.laizquierdadiario.com/Feministas-y-activista-LGTBIQ-convocan-a-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Mirta-Busnelli-Katja-Aleman-Carlos-Belloso-La-Bersuit-y-Los-Gardelitos-entre-muchos-otros-convocan, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+            "motivo": "Contra la crisis económica, el gobierno de Milei y por la unidad de la lucha obrera",
+            "fuente": "https://www.laizquierdadiario.com/Bregman-repudio-los-ataques-misoginos-de-Cuneo-y-llamo-a-la-Marcha-de-la-Bronca-Esta-realidad-no-se, https://www.laizquierdadiario.com/Para-que-sirve-marchar, https://www.laizquierdadiario.com/De-la-bronca-a-la-organizacion-mujeres-y-disidencias-impulsan-la-marcha-del-19S, https://www.laizquierdadiario.com/Del-Cano-paso-por-Gelantina-y-llamo-a-la-Marcha-de-la-Bronca-Todos-los-enojados-estan-convocados, https://www.laizquierdadiario.com/Feministas-y-activista-LGTBIQ-convocan-a-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Mirta-Busnelli-Katja-Aleman-Carlos-Belloso-La-Bersuit-y-Los-Gardelitos-entre-muchos-otros-convocan, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "14:00",
-            "lugar": "No especificado (marcha nacional)",
-            "quien": "Red Nacional de agrupaciones En Clave Roja, sindicatos, centros de estudiantes, organismos de DDHH, asambleas ambientales, colectivos de artistas y referentes de izquierda",
+            "lugar": "Diversas plazas y puntos de encuentro en todo el país (ej: Plaza San Martín, Plaza Rivadavia, etc.)",
+            "quien": "Sindicatos, centros de estudiantes, organismos de DDHH, asambleas ambientales, colectivos de artistas y referentes políticos de izquierda",
             "tipo_medida": "Marcha",
-            "motivo": "Contra las políticas de Milei, la precarización laboral, la represión a jubilados, ataques a derechos (salud/educación/aborto), inflación, política exterior pro-Israel y la entrega del peronismo/sindicalismo",
-            "fuente": "https://www.laizquierdadiario.com/Declaracion-de-la-Red-Nacional-de-Agrupaciones-En-Clave-Roja-La-juventud-copa-las-calles-en-la"
+            "motivo": "Derrotar al gobierno de Milei, su plan económico y sus cómplices a través de una jornada nacional de lucha previa a la huelga general",
+            "fuente": "https://www.anred.org/sabado-19-de-septiembre-la-marcha-de-la-bronca-se-prepara-en-todo-el-pais-conoce-los-lugares-de-encuentro-para-sumarte/, https://www.laizquierdadiario.com/Declaracion-de-la-Red-Nacional-de-Agrupaciones-En-Clave-Roja-La-juventud-copa-las-calles-en-la"
         },
         {
             "es_evento_relevante": true,
@@ -16086,10 +16106,10 @@
             "fecha": "No especificado",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "La Izquierda Diario",
+            "quien": "Frente Sindical",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamos contra políticas económicas del gobierno, endeudamiento masivo de trabajadores, necesidad de recomponer salarios y abrir Consejo del Salario",
-            "fuente": "https://www.laizquierdadiario.com/Coordinadora-de-Trabajadorxs-de-La-Matanza-gran-concurrencia-en-la-asamblea-abierta, https://www.datagremial.com/escenario/masiva-marcha-por-los-endeudados-con-claro-mensaje-a-milei-si-hay-una-pistola-en-la-cabeza-y-es-la-politica-economica-20268211000, https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
+            "motivo": "Reclamo por cumplimiento de Ley de Financiamiento Universitario y oposición a ajuste educativo",
+            "fuente": "https://www.inforegion.com.ar/2026/09/16/protesta-de-la-unlz-en-la-plaza-grigera/, https://www.laizquierdadiario.com/Coordinadora-de-Trabajadorxs-de-La-Matanza-gran-concurrencia-en-la-asamblea-abierta, https://www.datagremial.com/escenario/masiva-marcha-por-los-endeudados-con-claro-mensaje-a-milei-si-hay-una-pistola-en-la-cabeza-y-es-la-politica-economica-20268211000, https://motoreconomico.com.ar/la-cgt-las-cta-y-la-utep-marcharon-a-economia-el-endeudamiento-es-una-politica-de-gobierno/, https://www.conclusion.com.ar/gremiales/pablo-moyano-cruzo-a-galperin-reclamo-un-debate-en-el-peronismo-y-advirtio-las-protestas-iran-creciendo/08/2026/, https://www.clarosports.com/colombia/actualidad-co/paro-de-camioneros-hoy-a-que-hora-empieza-y-cuales-serian-las-vias-afectadas-por-la-protesta-este-lunes-6-de-enero/"
         },
         {
             "es_evento_relevante": true,
