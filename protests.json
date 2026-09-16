@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16T12:29:02.974679-03:00",
+    "last_updated": "2026-09-16T16:26:05.416214-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15724,12 +15724,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-16",
+            "horario": "14:30",
+            "lugar": "Plaza Olazábal (7 y 38) hasta Ministerio de Obras Públicas (7 y 59), La Plata",
+            "quien": "Unión de Estudiantes Secundarios (UES) de La Plata y Federación de Estudiantes Secundarios (FES)",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración de los 50 años de La Noche de los Lápices, reclamo por boleto estudiantil y libertad de Cristina Kirchner",
+            "fuente": "https://www.infobae.com/politica/2026/09/16/estudiantes-secundarios-criticaron-a-axel-kicillof-en-la-previa-de-la-marcha-por-los-50-anos-de-la-noche-de-los-lapices-en-la-plata/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-16",
             "horario": "22:00",
             "lugar": "Liceo Aeronáutico Militar (LAM) de Funes",
-            "quien": "Trabajadores civiles y docentes civiles del LAM, organizados por ATE Rosario",
+            "quien": "Trabajadores civiles y cuerpo docente civil del LAM, con apoyo de ATE Rosario",
             "tipo_medida": "Paro",
-            "motivo": "Restablecimiento de las prestaciones de la obra social Iosfa/Osfa y reapertura de la paritaria sectorial",
-            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-los-paros-apuntan-contra-la-obra-social-osfa/09/2026/"
+            "motivo": "Exigir restablecimiento de prestaciones de la obra social Iosfa/Osfa y reapertura de paritarias sectoriales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-paros-y-apuntan-contra-iosfa-estamos-sin-cobertura-medica/09/2026/, https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-los-paros-apuntan-contra-la-obra-social-osfa/09/2026/"
         },
         {
             "es_evento_relevante": true,
