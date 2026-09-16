@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-15T19:42:49.741580-03:00",
+    "last_updated": "2026-09-15T22:07:27.797176-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15713,6 +15713,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-16",
+            "horario": "13:00",
+            "lugar": "Plaza Moreno",
+            "quien": "Centros de estudiantes y listas combativas",
+            "tipo_medida": "Movilización",
+            "motivo": "Homenaje a los estudiantes detenidos-desaparecidos en la Noche de los Lápices y protesta contra el ajuste educativo y políticas del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/A-50-anos-de-la-Noche-de-los-Lapices-marchamos-de-forma-independiente-contra-Milei-y-sus-complices"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona la fecha y hora de publicación del artículo (\"18 de septiembre 2025, 03:47 p.m.\"), pero **no indica una hora específica para el inicio del evento de protesta** (el boicot cultural \"No Music for Genocide\"). La acción de retirar música de plataformas digitales es una declaración pública sin un horario definido de inicio, por lo que no se puede extraer una hora de inicio del evento en sí.",
             "lugar": "Plaza de Mayo, Buenos Aires",
@@ -15766,10 +15776,10 @@
             "fecha": "2026-09-19",
             "horario": "14:00",
             "lugar": "No especificado",
-            "quien": "Más de 250 organizaciones (incluyendo PTS-FITU)",
+            "quien": "Marcha de la Bronca (STIA, Comités y Myriam Bregman)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas económicas del gobierno que afectan ingresos de trabajadores y mayorías populares",
-            "fuente": "https://www.laizquierdadiario.com/Del-Cano-paso-por-Gelantina-y-llamo-a-la-Marcha-de-la-Bronca-Todos-los-enojados-estan-convocados, https://www.laizquierdadiario.com/Feministas-y-activista-LGTBIQ-convocan-a-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Mirta-Busnelli-Katja-Aleman-Carlos-Belloso-La-Bersuit-y-Los-Gardelitos-entre-muchos-otros-convocan, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
+            "motivo": "Reclamos contra el fraude en Mondelez y otros conflictos laborales",
+            "fuente": "https://www.laizquierdadiario.com/Para-que-sirve-marchar, https://www.laizquierdadiario.com/De-la-bronca-a-la-organizacion-mujeres-y-disidencias-impulsan-la-marcha-del-19S, https://www.laizquierdadiario.com/Del-Cano-paso-por-Gelantina-y-llamo-a-la-Marcha-de-la-Bronca-Todos-los-enojados-estan-convocados, https://www.laizquierdadiario.com/Feministas-y-activista-LGTBIQ-convocan-a-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Mirta-Busnelli-Katja-Aleman-Carlos-Belloso-La-Bersuit-y-Los-Gardelitos-entre-muchos-otros-convocan, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Alejandro-Vilca-visita-Catamarca-preparan-la-Marcha-de-la-Bronca-junto-al-Comite-local, https://www.laizquierdadiario.com/Docentes-universitarios-de-AGD-UBA-se-suman-a-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Dos-caminos-para-el-19S-Kicillof-organiza-la-esperanza-mientras-crece-la-marcha-de-la-bronca, https://www.laizquierdadiario.com/Ferroviarios-y-usuarios-convocaron-a-Marcha-de-la-Bronca-del-19S-denunciando-ajuste-en-transporte, https://www.laizquierdadiario.com/Carla-del-comite-de-Merlo-esto-se-puede-cambiar-si-nos-unimos-todos-este-19, https://www.laizquierdadiario.com/Mas-de-180-trabajadores-y-estudiantes-del-Comite-Flores-se-reunen-en-Filo-para-organizar-la-Marcha, https://www.laizquierdadiario.com/Bregman-crece-incomoda-al-poder-y-se-prepara-la-Marcha-de-la-Bronca, https://www.laizquierdadiario.com/Cientos-de-organizaciones-convocan-a-la-Marcha-de-la-Bronca-ademas-crece-la-repercusion-en-los, https://www.laizquierdadiario.com/Eli-Suarez-cantante-de-Gardelitos-invito-a-la-Marcha-de-la-Bronca-Para-todos-los-que-estamos, https://www.infobae.com/politica/2026/08/18/nueva-protesta-de-movimientos-sociales-y-sindicales-contra-el-gobierno-marcharan-por-el-endeudamiento-familiar/"
         },
         {
             "es_evento_relevante": true,
