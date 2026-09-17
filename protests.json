@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-16T19:45:52.492089-03:00",
+    "last_updated": "2026-09-16T22:14:36.549934-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15725,11 +15725,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-16",
             "horario": "14:30",
-            "lugar": "Plaza Olazábal (7 y 38) hasta Ministerio de Obras Públicas (7 y 59), La Plata",
-            "quien": "Unión de Estudiantes Secundarios (UES) de La Plata y Federación de Estudiantes Secundarios (FES)",
-            "tipo_medida": "Marcha",
-            "motivo": "Conmemoración de los 50 años de La Noche de los Lápices, reclamo por boleto estudiantil y libertad de Cristina Kirchner",
-            "fuente": "https://www.infobae.com/politica/2026/09/16/estudiantes-secundarios-criticaron-a-axel-kicillof-en-la-previa-de-la-marcha-por-los-50-anos-de-la-noche-de-los-lapices-en-la-plata/"
+            "lugar": "Ex Pozo de Banfield, Villa Centenario",
+            "quien": "Centros de estudiantes de Escuelas Secundarias N° 4, N° 40, N° 55, N° 62 Adriana Calvo, Frente de Estudiantes Secundarios y programa Jóvenes y Memoria",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por el boleto estudiantil y conmemoración de los 50 años de la Noche de los Lápices",
+            "fuente": "https://www.inforegion.com.ar/2026/09/15/estudiantes-de-lomas-marcharon-al-pozo-de-banfield-por-el-boleto-estudiantil/, https://www.infobae.com/politica/2026/09/16/estudiantes-secundarios-criticaron-a-axel-kicillof-en-la-previa-de-la-marcha-por-los-50-anos-de-la-noche-de-los-lapices-en-la-plata/"
         },
         {
             "es_evento_relevante": true,
@@ -15740,6 +15740,16 @@
             "tipo_medida": "Paro",
             "motivo": "Exigir restablecimiento de prestaciones de la obra social Iosfa/Osfa y reapertura de paritarias sectoriales",
             "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-paros-y-apuntan-contra-iosfa-estamos-sin-cobertura-medica/09/2026/, https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-de-funes-endurecen-los-paros-apuntan-contra-la-obra-social-osfa/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-16",
+            "horario": "Basado en el texto proporcionado, las horas de inicio de los eventos de protesta son:\n\n1.  **COMUNIDAD ESTUDIANTIL DE LA ESCUELA SUPERIOR DE INGENIERÍA MECÁNICA Y ELÉCTRICA, UNIDAD ZACATENCO:**  \n    **10:00**\n\n2.  **COALICIÓN DE TRABAJADORES DE LA COMISIÓN FEDERAL DE ELECTRICIDAD:**  \n    **08:00** (Primera hora mencionada para este evento con múltiples paradas)\n\n3.  **ALIANZA NACIONAL DE JUBILADOS:**  \n    **09:30**\n\n4.  **COLECTIVA “LAS TONANTZIN”:**  \n    **10:00**\n\n5.  **COLECTIVO NACIONAL “NO MAS PRESOS INOCENTES”:**  \n    **10:00**\n\n6.  **FAMILIARES Y AMIGOS DE VÍCTIMAS DE LA EXPLOSIÓN EN EL PUENTE DE LA CONCORDIA, IZTAPALAPA:**  \n    **15:30**",
+            "lugar": "No especificado",
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de manipulación estadística inflacionaria del Gobierno y reclamo de aumento salarial del 30%",
+            "fuente": "https://estadodealerta.com.ar/la-mesa-sindical-denuncia-el-caso-unico-argentino-donde-la-inflacion-baja-y-lo-necesario-para-vivir-sube/, https://newsreportmx.com/2026/09/10/manifestaciones-hoy-en-cdmx-10-de-septiembre-del-2026/"
         },
         {
             "es_evento_relevante": true,
@@ -15840,6 +15850,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra las políticas de Milei y por la huelga general",
             "fuente": "https://www.laizquierdadiario.com/Con-una-exitosa-reunion-federal-crece-la-convocatoria-a-la-Marcha-de-la-Bronca-del-19-de-septiembre, https://www.laizquierdadiario.com/Avanza-la-preparacion-nacional-de-una-gran-Marcha-de-la-Bronca-el-19-de-septiembre, https://www.infobae.com/politica/2026/08/20/marcha-de-la-cgt-y-los-movimientos-sociales-contra-el-endeudamiento-familiar-hora-convocatoria-y-cortes-de-calle/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "14:30",
+            "lugar": "La Plata",
+            "quien": "Estudiantes secundarios, docentes y agrupación Multicolor",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar contra el gobierno de Milei, por despidos y ajuste, en una 'marcha de la bronca'",
+            "fuente": "https://www.laizquierdadiario.com/Movilizacion-en-La-Plata-a-50-anos-de-la-Noche-de-los-Lapices, https://www.nodal.am/2026/09/argentina-a-50-anos-de-la-noche-de-los-lapices-estudiantes-secundarios-se-movilizan-en-todo-el-pais/"
         },
         {
             "es_evento_relevante": true,
