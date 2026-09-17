@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-17T16:35:07.043921-03:00",
+    "last_updated": "2026-09-17T19:44:47.791319-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15773,6 +15773,36 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "17:00",
+            "lugar": "Estadio Ciudad de Vicente López",
+            "quien": "Socios de Platense",
+            "tipo_medida": "Movilización social",
+            "motivo": "Rechazo a ceder localía tras eliminación en Copa Libertadores, desacuerdos económicos y temor a incidentes",
+            "fuente": "https://elciudadanoweb.com/pulgar-abajo-la-dirigencia-de-platense-dio-marcha-atras-y-cancelo-la-presencia-de-publico-visitante-ante-newells-en-vicente-lopez/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "17:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "Frente Sindical Universitario",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a la propuesta salarial del gobierno y exigencia de cumplimiento de la Ley de Financiamiento Universitario (33% de aumento)",
+            "fuente": "https://elciudadanoweb.com/coad-adhiere-al-paro-nacional-universitario-del-18-y-22-de-septiembre-ante-el-fracaso-en-la-paritaria/, https://www.ambito.com/politica/confirmaron-la-marcha-federal-universitaria-frente-al-congreso-y-anticipan-un-final-peleado-rechazar-el-veto-n6189887"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CONADU, CIN, FATUN y otros gremios universitarios",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de Ley de Financiamiento Universitario y rechazo a aumento salarial del 3%",
+            "fuente": "https://www.conclusion.com.ar/politica/nacional-politica/anuncian-nuevos-paros-universitarios-y-convocan-a-una-marcha-federal-tras-el-rechazo-a-la-oferta-del-gobierno-nacional/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "**No especificado**\n\n**Explicación:**  \nEl texto menciona la fecha y hora de publicación del artículo (\"18 de septiembre 2025, 03:47 p.m.\"), pero **no indica una hora específica para el inicio del evento de protesta** (el boicot cultural \"No Music for Genocide\"). La acción de retirar música de plataformas digitales es una declaración pública sin un horario definido de inicio, por lo que no se puede extraer una hora de inicio del evento en sí.",
             "lugar": "Plaza de Mayo, Buenos Aires",
@@ -16055,6 +16085,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "No especificado",
+            "lugar": "Todo el país (más de 60 localidades en 23 provincias)",
+            "quien": "Frente amplio de organizaciones sociales, sindicales y políticas",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al gobierno de Milei y su agenda de ajuste económico, machista y extractivista",
+            "fuente": "https://www.laizquierdadiario.com/Llega-la-Marcha-de-la-Bronca-Como-seguir-hasta-derrotar-el-ajuste-perpetuo-de-Milei-en-las-calles"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "No especificado",
             "lugar": "Distintos puntos de Misiones y Argentina",
             "quien": "Comités del Movimiento por un Partido de la Nueva Clase Trabajadora, Pan y Rosas, Colectivo de Mujeres y Disidencias",
             "tipo_medida": "Marcha",
@@ -16105,11 +16145,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
-            "lugar": "Palacio de Tribunales",
-            "quien": "ADUBA, APUBA y FEDUN",
+            "lugar": "frente al Palacio de Tribunales",
+            "quien": "Asociación de Docentes de la Universidad de Buenos Aires (ADUBA), Asociación del Personal de la UBA (APUBA), Federación Nacional de Docentes Universitarios (CONADU), Federación de Docentes de las Universidades (FEDUN), Unión de Docentes Argentinos (UDA), Frente Intersindical Universitario",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario (32,5% de recomposición salarial) y rechazar la oferta del 6% del Gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, aumento salarial cercano al 32%, y presupuesto real para universidades",
+            "fuente": "https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
         },
         {
             "es_evento_relevante": true,
