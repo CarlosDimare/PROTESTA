@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-18T11:57:03.915752-03:00",
+    "last_updated": "2026-09-18T15:14:55.728622-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15765,11 +15765,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-18",
             "horario": "09:00",
-            "lugar": "Portones de YPF, Axion y Profertil",
-            "quien": "Sindicato Único de Trabajadores de Vigilancia Privada (Sutravip)",
-            "tipo_medida": "Movilización",
-            "motivo": "Oposición al traslado arbitrario de trabajador, vinculado a persecución sindical por denuncias de irregularidades",
-            "fuente": "https://www.conclusion.com.ar/gremiales/vigiladores-de-san-lorenzo-protestaran-en-ypf-axion-y-profertil-por-el-accionar-de-una-empresa-de-seguridad/09/2026/"
+            "lugar": "Portones de las plantas de YPF, Axion y Profertil, y Puerto General San Martín",
+            "quien": "Sindicato de Trabajadores de Vigilancia Privada (Sutravip)",
+            "tipo_medida": "Piquete",
+            "motivo": "Rechazo al traslado arbitrario de un trabajador integrante de la comisión directiva, considerado persecución sindical, y defensa de la profesión de vigiladores frente a la designación de personal no sindicalizado",
+            "fuente": "https://elciudadanoweb.com/nacion-desplego-operativo-antipiquetes-con-gendarmes-en-san-lorenzo-por-conflicto-con-vigiladores/, https://www.conclusion.com.ar/gremiales/vigiladores-de-san-lorenzo-protestaran-en-ypf-axion-y-profertil-por-el-accionar-de-una-empresa-de-seguridad/09/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -16240,6 +16240,37 @@
             "tipo_medida": "Paro activo",
             "motivo": "Cese de cobros indebidos en IOMA, reclamo de recomposición salarial y fortalecimiento de la cobertura médica para empleados públicos",
             "fuente": "https://www.datagremial.com/informacion-general/seccional-bonaerense-de-ate-resolvio-un-paro-regional-para-el-reinicio-de-clases-y-redoblo-el-reclamo-contra-los-cobros-indebidos-de-ioma-202671622450"
+        },
+        {
+            "es_evento_relevante": true,
+            "eventos_futuros": [
+                {
+                    "fecha": "2026-09-18",
+                    "horario": "No especificado",
+                    "lugar": "No especificado",
+                    "quien": "Frente Sindical de las Universidades Nacionales (FATUN y FEDUN)",
+                    "tipo_medida": "Paro",
+                    "motivo": "Aumento salarial y cumplimiento de la Ley de Financiamiento Universitario"
+                },
+                {
+                    "fecha": "2026-10-15",
+                    "horario": "No especificado",
+                    "lugar": "No especificado",
+                    "quien": "Consejo Interuniversitario Nacional (CIN)",
+                    "tipo_medida": "Marcha",
+                    "motivo": "Defensa de la universidad pública, cumplimiento de la Ley de Financiamiento Universitario y debate del presupuesto 2027"
+                },
+                {
+                    "fecha": "2026-09-22",
+                    "horario": "No especificado",
+                    "lugar": "No especificado",
+                    "quien": "Frente Sindical de las Universidades Nacionales (FATUN y FEDUN)",
+                    "tipo_medida": "Medida de fuerza",
+                    "motivo": "Continuación del reclamo por aumento salarial y Ley de Financiamiento Universitario"
+                }
+            ],
+            "fuente": "https://www.inforegion.com.ar/2026/09/18/nueva-jornada-de-paro-en-defensa-de-la-universidad-publica/",
+            "quien": "INFOREGION"
         },
         {
             "es_evento_relevante": true,
