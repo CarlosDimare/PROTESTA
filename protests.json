@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-17T22:06:33.866318-03:00",
+    "last_updated": "2026-09-18T02:44:23.806769-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15775,6 +15775,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-18",
             "horario": "17:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "Frente Sindical de las Universidades Nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo salarial (33% de recomposición), cumplimiento de la Ley de Financiamiento Universitario y mayor presupuesto para universidades",
+            "fuente": "https://www.datagremial.com/paritarias/no-hubo-acuerdo-con-el-gobierno-y-docentes-y-nodocentes-van-al-paro-escalonado-mientras-preparan-la-5-marcha-nacional-universitaria-202691719380, https://elciudadanoweb.com/coad-adhiere-al-paro-nacional-universitario-del-18-y-22-de-septiembre-ante-el-fracaso-en-la-paritaria/, https://www.ambito.com/politica/confirmaron-la-marcha-federal-universitaria-frente-al-congreso-y-anticipan-un-final-peleado-rechazar-el-veto-n6189887"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "17:00",
             "lugar": "Estadio Ciudad de Vicente López",
             "quien": "Socios de Platense",
             "tipo_medida": "Movilización social",
@@ -15784,12 +15794,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-18",
-            "horario": "17:00",
-            "lugar": "Universidades Nacionales",
-            "quien": "Frente Sindical Universitario",
-            "tipo_medida": "Paro",
-            "motivo": "Rechazo a la propuesta salarial del gobierno y exigencia de cumplimiento de la Ley de Financiamiento Universitario (33% de aumento)",
-            "fuente": "https://elciudadanoweb.com/coad-adhiere-al-paro-nacional-universitario-del-18-y-22-de-septiembre-ante-el-fracaso-en-la-paritaria/, https://www.ambito.com/politica/confirmaron-la-marcha-federal-universitaria-frente-al-congreso-y-anticipan-un-final-peleado-rechazar-el-veto-n6189887"
+            "horario": "18:00",
+            "lugar": "Plaza 25 de Mayo, Córdoba y Buenos Aires",
+            "quien": "Familia de Camila Vecchiarello",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por Camila Vecchiarello, reclamando justicia por su femicidio",
+            "fuente": "https://elciudadanoweb.com/femicidio-en-san-juan-marchan-este-viernes-en-rosario-por-justicia-para-camila-vecchiarello/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "18:30",
+            "lugar": "Plaza San Martín (San Lorenzo)",
+            "quien": "Organizaciones de mujeres de San Lorenzo",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar verdad, justicia y esclarecimiento de la desaparición de Paula Perasi a 15 años de su desaparición",
+            "fuente": "https://elciudadanoweb.com/a-15-anos-de-la-desaparicion-de-paula-perassi-marchan-este-viernes-en-san-lorenzo/"
         },
         {
             "es_evento_relevante": true,
@@ -16020,6 +16040,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Unificar el malestar popular, articular luchas y movilizarse contra políticas de Milei",
             "fuente": "https://www.laizquierdadiario.com/Los-comites-en-apoyo-a-Myriam-Bregman-ya-preparan-el-19S, https://www.cuatromedios.com.ar/articulo/florencio-varela/florencio-varela-comite-myriam-bregman-reunion-villa-vatteone-marcha-bronca-reunion-comite-bregman-marcha-bronca/20260815002616026341.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "17:00",
+            "lugar": "Plaza Yrigoyen, Tucumán",
+            "quien": "350 organizaciones gremiales, sociales y políticas",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra el plan de ajuste del gobierno de Milei y sus cómplices, y por un plan de lucha y huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Politica-Obrera-y-una-posicion-sectaria-dentro-de-Adiunt-ante-la-Marcha-de-la-Bronca"
         },
         {
             "es_evento_relevante": true,
