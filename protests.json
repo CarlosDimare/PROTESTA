@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-18T07:27:50.807816-03:00",
+    "last_updated": "2026-09-18T11:57:03.915752-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15815,6 +15815,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-18",
             "horario": "No especificado",
+            "lugar": "Universidades nacionales de Argentina (con impacto en UNR y UTN Rosario)",
+            "quien": "Frente Sindical Universitario",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a oferta salarial del Gobierno nacional y reclamo de salarios dignos, mayor presupuesto y mejores condiciones laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-universitario-no-hay-clases-este-viernes-ni-el-martes-en-todo-el-pais/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-18",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "CONADU, CIN, FATUN y otros gremios universitarios",
             "tipo_medida": "Paro",
@@ -16165,11 +16175,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
-            "lugar": "frente al Palacio de Tribunales",
-            "quien": "Asociación de Docentes de la Universidad de Buenos Aires (ADUBA), Asociación del Personal de la UBA (APUBA), Federación Nacional de Docentes Universitarios (CONADU), Federación de Docentes de las Universidades (FEDUN), Unión de Docentes Argentinos (UDA), Frente Intersindical Universitario",
+            "lugar": "Frente al Palacio de Tribunales, Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN) junto a gremios docentes/nodocentes y representaciones estudiantiles",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, aumento salarial cercano al 32%, y presupuesto real para universidades",
-            "fuente": "https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
+            "motivo": "Rechazo al ajuste presupuestario 2027, reclamo por el cumplimiento de la Ley de Financiamiento Universitario y exigencia de recomposición salarial del 35%",
+            "fuente": "https://elciudadanoweb.com/se-viene-la-quinta-marcha-federal-universitaria-ante-los-incumplimientos-legales-del-gobierno/, https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
         },
         {
             "es_evento_relevante": true,
