@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19T11:15:59.254082-03:00",
+    "last_updated": "2026-09-19T14:48:41.887318-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16025,6 +16025,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "16:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Organizar la bronca para derrotar a Milei",
+            "fuente": "https://elciudadanoweb.com/rosario-tambien-hara-este-sabado-la-marcha-de-la-bronca-y-habra-cortes-de-transito-opr-la-tarde/, https://www.laizquierdadiario.com/Catamarca-importante-repercusion-de-la-visita-de-Vilca-para-convocar-a-la-Marcha-de-la-bronca"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "16:00",
             "lugar": "Plaza San Martín (Santa Fe y Moreno), Rosario",
             "quien": "Frente de Izquierda y de los Trabajadores, organizaciones políticas, sociales y feministas",
             "tipo_medida": "Marcha",
@@ -16133,16 +16143,6 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "No especificado",
-            "lugar": "Marcha nacional en todo el país",
-            "quien": "Frente de Izquierda",
-            "tipo_medida": "Marcha",
-            "motivo": "Denunciar ajuste de Milei, políticas de Jalil y apoyo a comunidades indígenas contra mineras",
-            "fuente": "https://www.laizquierdadiario.com/Catamarca-importante-repercusion-de-la-visita-de-Vilca-para-convocar-a-la-Marcha-de-la-bronca"
-        },
-        {
-            "es_evento_relevante": true,
             "fecha": "2026-09-20",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
@@ -16160,6 +16160,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio en Gaza y la ocupación palestina, con la consigna 'Argentina es antisionista'",
             "fuente": "https://www.laizquierdadiario.com/Marcharon-en-el-centro-porteno-contra-el-genocidio-en-Gaza, https://www.laizquierdadiario.com/Argentina-se-moviliza-este-sabado-contra-el-genocidio-en-Gaza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas nacionales (UNLa, UNAV, UNaB, UNLZ)",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa de las universidades públicas nacionales, reclamo por presupuesto universitario y aplicación plena de la Ley 27.795",
+            "fuente": "https://www.inforegion.com.ar/2026/09/19/ademas-del-paro-nacional-habra-otros-escalonados-en-distintas-universidades/"
         },
         {
             "es_evento_relevante": true,
