@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19T02:36:59.863593-03:00",
+    "last_updated": "2026-09-19T07:17:38.075450-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15935,6 +15935,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "15:30",
+            "lugar": "Plaza Congreso",
+            "quien": "Colectivo de organizaciones sociales, sindicales y políticas",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al ajuste de Milei y llamado a huelga general",
+            "fuente": "https://www.infobae.com/politica/2026/09/19/que-dice-el-documento-que-se-leera-en-la-marcha-de-la-bronca-organizada-por-la-izquierda/, https://www.laizquierdadiario.com/Llega-la-Marcha-de-la-Bronca-Como-seguir-hasta-derrotar-el-ajuste-perpetuo-de-Milei-en-las-calles"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "15:30",
             "lugar": "Congreso Nacional hasta Plaza de Mayo, Buenos Aires",
             "quien": "Frente de Izquierda y de Trabajadores Unidad (FIT-U), Partido de Trabajadores Socialistas (PTS) y más de 350 organizaciones sindicales, estudiantiles, feministas, de derechos humanos y de izquierda",
             "tipo_medida": "Marcha",
@@ -16110,16 +16120,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio a ataques antisindicales, defensa de Norma Lezana y reclamo contra ajustes en salud",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-del-Garrahan-vota-participar-de-la-marcha-de-la-bronca-el-19-de-septiembre, https://www.eldestapeweb.com/sociedad/marchas/marcha-del-garrahan-a-que-hora-es-donde-es-la-movilizacion-y-los-cortes-de-calle-2025717133633"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "No especificado",
-            "lugar": "Todo el país (más de 60 localidades en 23 provincias)",
-            "quien": "Frente amplio de organizaciones sociales, sindicales y políticas",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio al gobierno de Milei y su agenda de ajuste económico, machista y extractivista",
-            "fuente": "https://www.laizquierdadiario.com/Llega-la-Marcha-de-la-Bronca-Como-seguir-hasta-derrotar-el-ajuste-perpetuo-de-Milei-en-las-calles"
         },
         {
             "es_evento_relevante": true,
