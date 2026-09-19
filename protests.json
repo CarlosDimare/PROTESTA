@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19T16:58:21.407966-03:00",
+    "last_updated": "2026-09-19T19:14:16.644112-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15845,6 +15845,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "10:00",
+            "lugar": "Tribunales de Menores de Lomas de Zamora, Talcahuano 278, Banfield",
+            "quien": "Familiares de víctimas de homicidio",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir participación en procesos judiciales y repudiar medidas judiciales sobre ley de punibilidad adolescente",
+            "fuente": "https://www.inforegion.com.ar/2026/09/17/la-justicia-nos-tiene-olvidadas-familiares-de-victimas-de-inseguridad-marcharon-a-los-tribunales-de-lomas-de-zamora/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo",
             "quien": "La Izquierda Diario",
             "tipo_medida": "Marcha",
@@ -16124,6 +16134,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
+            "horario": "La hora de inicio del evento de protesta es **15:30**.",
+            "lugar": "No especificado",
+            "quien": "350 organizaciones y referentes firmantes",
+            "tipo_medida": "Marcha",
+            "motivo": "Enfrentar y derrotar al Gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Nuevo-articulo-No-284496, https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
             "horario": "No especificado",
             "lugar": "Distintos puntos de Misiones y Argentina",
             "quien": "Comités del Movimiento por un Partido de la Nueva Clase Trabajadora, Pan y Rosas, Colectivo de Mujeres y Disidencias",
@@ -16170,6 +16190,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a las políticas libertarias del Gobierno de Javier Milei, crisis por importaciones subsidiadas y despidos masivos en el sector",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-industria-del-calzado-planifica-una-marcha-nacional-por-despidos-cierre-de-empresas-e-importaciones-en-el-sector/09/2026/, https://www.perfil.com/noticias/politica/jueves-de-protestas-contra-el-gobierno-marchas-por-el-endeudamiento-familiar-y-la-crisis-de-las-pymes.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-25",
+            "horario": "21:30",
+            "lugar": "Esquina de La Quila y El Tiburón, Ciudad Evita (punto de encuentro) y recorrido hacia rotonda de La Tablada",
+            "quien": "Familiares de Brenda del Castillo, Morena Verdi y Lara Gutiérrez",
+            "tipo_medida": "Marcha con velas y corte",
+            "motivo": "Homenenaje y reclamo de justicia por los asesinatos de las tres jóvenes",
+            "fuente": "https://www.infobae.com/sociedad/policiales/2026/09/19/las-familias-de-brenda-morena-y-lara-marcharan-con-velas-y-presentaran-un-mural-a-un-ano-del-triple-femicidio/"
         },
         {
             "es_evento_relevante": true,
