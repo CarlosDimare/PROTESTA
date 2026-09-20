@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-19T19:14:16.644112-03:00",
+    "last_updated": "2026-09-19T21:12:45.567880-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -15855,16 +15855,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-19",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "La Izquierda Diario",
-            "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas económicas y despidos, contra la derecha representada por Milei",
-            "fuente": "https://www.laizquierdadiario.com/El-PJ-marcha-hacia-una-rosca-de-actos-homenajes-y-reuniones, https://www.laizquierdadiario.com/El-19-tiene-que-ser-una-marcha-de-la-bronca-que-organice-y-que-luego-continue"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-19",
-            "horario": "10:00",
             "lugar": "Entre Ríos (varias localidades)",
             "quien": "Myriam Bregman y agrupaciones (PTS, MST, PO, comités de apoyo, activistas ambientalistas/feministas, docentes, salud, jubilados)",
             "tipo_medida": "Marcha",
@@ -16120,6 +16110,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Represión policial y fraude electoral en elecciones de CTERA, defensa de la democracia sindical y la educación pública",
             "fuente": "https://www.laizquierdadiario.com/Diputados-del-PTS-FITU-y-docentes-se-abrazan-frente-a-la-represion-policial-para-defender-la, https://elsubmarinojujuy.com.ar/impulsan-comites-de-trabajadores-en-jujuy-y-a-marchar-en-apoyo-a-bolivia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-19",
+            "horario": "19:56",
+            "lugar": "Plaza de Mayo",
+            "quien": "Trabajadores, estudiantes, jubilados, organizaciones sociales, comités del país y la izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Coordinación de luchas contra el ajuste y defensa de derechos de la clase trabajadora",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-de-la-Bronca-una-jornada-masiva-que-gano-las-calles, https://www.laizquierdadiario.com/El-PJ-marcha-hacia-una-rosca-de-actos-homenajes-y-reuniones, https://www.laizquierdadiario.com/El-19-tiene-que-ser-una-marcha-de-la-bronca-que-organice-y-que-luego-continue"
         },
         {
             "es_evento_relevante": true,
