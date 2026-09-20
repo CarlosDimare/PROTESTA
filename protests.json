@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20T15:17:14.017060-03:00",
+    "last_updated": "2026-09-20T17:31:24.607284-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16213,6 +16213,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-27",
+            "horario": "16:00",
+            "lugar": "Rosario",
+            "quien": "Comités junto a Myriam Bregman",
+            "tipo_medida": "Acto",
+            "motivo": "Organizar la bronca social para confrontar el plan de ajuste del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Miles-en-Rosario-y-en-distintas-ciudades-de-la-provincia-de-Santa-Fe"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
             "lugar": "Frente al Palacio de Tribunales, Buenos Aires",
@@ -16240,6 +16250,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas y apoyo al sector industrial",
             "fuente": "https://motoreconomico.com.ar/marcha-nacional-del-calzado-empresarios-anuncian-masiva-protesta-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-XX",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Izquierda-Unidad y sectores autoconvocados",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al presupuesto 2027 y políticas de ajuste del gobierno de Milei",
+            "fuente": "https://elciudadanoweb.com/plaza-de-mayo-multitudinaria-marcha-de-la-bronca-apunto-a-milei-y-reclamo-un-plan-de-lucha/, https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
         },
         {
             "es_evento_relevante": true,
