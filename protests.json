@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-20T07:56:34.489764-03:00",
+    "last_updated": "2026-09-20T11:52:31.386194-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16190,6 +16190,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a las políticas libertarias del Gobierno de Javier Milei, crisis por importaciones subsidiadas y despidos masivos en el sector",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-industria-del-calzado-planifica-una-marcha-nacional-por-despidos-cierre-de-empresas-e-importaciones-en-el-sector/09/2026/, https://www.perfil.com/noticias/politica/jueves-de-protestas-contra-el-gobierno-marchas-por-el-endeudamiento-familiar-y-la-crisis-de-las-pymes.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-25",
+            "horario": "15:00",
+            "lugar": "Universidad Nacional de Mar del Plata (UNMDP)",
+            "quien": "Comité de Mar del Plata de PTS - FIT Unidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Presentación del libro 'Leer a Marx' y denuncia del plan de ajuste de Milei y el FMI",
+            "fuente": "https://www.laizquierdadiario.com/La-marcha-de-la-bronca-recorrio-la-costa-atlantica, https://www.laizquierdadiario.com/La-marcha-de-la-bronca-recorrio-la-costa-atlantica"
         },
         {
             "es_evento_relevante": true,
