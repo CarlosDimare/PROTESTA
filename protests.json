@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21T14:41:55.308016-03:00",
+    "last_updated": "2026-09-21T18:37:49.491235-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16223,6 +16223,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-09-26",
+            "horario": "15:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Fuerzas de izquierda y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas socioeconómicas de Milei y reclamos por jubilados, salarios y recortes",
+            "fuente": "https://elciudadanoweb.com/derrotemos-a-milei-su-plan-de-ajuste-y-complices-la-marcha-de-la-bronca-en-rosario/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-09-27",
             "horario": "16:00",
             "lugar": "Rosario",
@@ -16240,6 +16250,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir pago total de salarios, liquidaciones e indemnizaciones pendientes",
             "fuente": "https://www.datagremial.com/informacion-general/la-cadena-de-ropa-deportiva-mega-sports-echo-a-90-trabajadores-y-sigue-sin-pagar-indemnizaciones-preparan-una-nueva-protesta-para-octubre-202692111370"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
+            "lugar": "No especificado (Marcha Federal)",
+            "quien": "Federación de Docentes Universitarios e Investigadores (Conadu)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de aplicación de la Ley de Financiamiento Universitario (Ley 27.795) y rechazo al aumento salarial del 3%",
+            "fuente": "https://elciudadanoweb.com/los-docentes-universitarios-vuelven-al-paro-este-martes-y-los-nodocentes-el-viernes-proximo/"
         },
         {
             "es_evento_relevante": true,
