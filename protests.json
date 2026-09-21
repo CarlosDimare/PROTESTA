@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21T08:47:18.869958-03:00",
+    "last_updated": "2026-09-21T14:41:55.308016-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16164,6 +16164,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-22",
+            "horario": "11:00",
+            "lugar": "PAMI 2 (Olivé 1159)",
+            "quien": "Intersindical de gremios del sector jubilados, incluyendo Seccional Rosario de ATE",
+            "tipo_medida": "Movilización (Cacerolazo)",
+            "motivo": "Denuncia vaciamiento, falta de personal asistencial y escasa inversión en infraestructura del PAMI, en el contexto de denuncias de corrupción y deterioro de la atención médica",
+            "fuente": "https://elciudadanoweb.com/pami-en-lucha-la-intersindical-convoca-a-un-cacerolazo-en-el-pami-2-por-el-vaciamiento-de-la-obra-social/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
             "horario": "15:00",
             "lugar": "centro de la Ciudad de Buenos Aires",
             "quien": "Comité Argentino de Solidaridad con el Pueblo Palestino",
@@ -16220,6 +16230,16 @@
             "tipo_medida": "Acto",
             "motivo": "Organizar la bronca social para confrontar el plan de ajuste del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Miles-en-Rosario-y-en-distintas-ciudades-de-la-provincia-de-Santa-Fe"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-14",
+            "horario": "10:00",
+            "lugar": "Sede de Mega Sports",
+            "quien": "Trabajadores despedidos de Mega Sports",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir pago total de salarios, liquidaciones e indemnizaciones pendientes",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cadena-de-ropa-deportiva-mega-sports-echo-a-90-trabajadores-y-sigue-sin-pagar-indemnizaciones-preparan-una-nueva-protesta-para-octubre-202692111370"
         },
         {
             "es_evento_relevante": true,
