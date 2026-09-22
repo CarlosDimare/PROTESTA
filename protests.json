@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-21T18:37:49.491235-03:00",
+    "last_updated": "2026-09-21T21:34:56.315249-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16180,6 +16180,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio en Gaza y la ocupación palestina, con la consigna 'Argentina es antisionista'",
             "fuente": "https://www.laizquierdadiario.com/Marcharon-en-el-centro-porteno-contra-el-genocidio-en-Gaza, https://www.laizquierdadiario.com/Argentina-se-moviliza-este-sabado-contra-el-genocidio-en-Gaza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR) y Universidad Tecnológica Nacional (UTN) Regional Rosario",
+            "quien": "Frente Sindical Universitario y FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial del 3% del Gobierno y reclamo por el cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-nacional-universitario-este-martes-no-habra-clases-en-la-unr-y-la-utn/09/2026/"
         },
         {
             "es_evento_relevante": true,
