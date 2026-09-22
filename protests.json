@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-22T07:49:43.542564-03:00",
+    "last_updated": "2026-09-22T12:26:37.399507-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16185,6 +16185,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-22",
             "horario": "No especificado",
+            "lugar": "Todas las universidades públicas",
+            "quien": "FATUN y FEDUN",
+            "tipo_medida": "Paro",
+            "motivo": "Aumento salarial que no pierda contra la inflación y efectiva aplicación de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/09/22/paro-universitario-por-financiamiento-es-el-cuarto-del-mes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
+            "horario": "No especificado",
             "lugar": "Fábrica de FATE en San Fernando, provincia de Buenos Aires",
             "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA) y trabajadores de FATE",
             "tipo_medida": "Acampe",
@@ -16293,6 +16303,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Marcha Federal Universitaria",
+            "motivo": "Reclamo por presupuesto universitario y cumplimiento de la Ley de Financiamiento Universitario 27.795",
+            "fuente": "https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-17",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -16320,6 +16340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al presupuesto 2027 y políticas de ajuste del gobierno de Milei",
             "fuente": "https://elciudadanoweb.com/plaza-de-mayo-multitudinaria-marcha-de-la-bronca-apunto-a-milei-y-reclamo-un-plan-de-lucha/, https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "No especificado",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Organizaciones del Orgullo LGBTIQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Reprogramación de la Marcha del Orgullo por visita papal",
+            "fuente": "https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/"
         },
         {
             "es_evento_relevante": true,
