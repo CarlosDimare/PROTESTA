@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-22T02:46:35.524744-03:00",
+    "last_updated": "2026-09-22T07:49:43.542564-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16180,6 +16180,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el genocidio en Gaza y la ocupación palestina, con la consigna 'Argentina es antisionista'",
             "fuente": "https://www.laizquierdadiario.com/Marcharon-en-el-centro-porteno-contra-el-genocidio-en-Gaza, https://www.laizquierdadiario.com/Argentina-se-moviliza-este-sabado-contra-el-genocidio-en-Gaza"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-22",
+            "horario": "No especificado",
+            "lugar": "Fábrica de FATE en San Fernando, provincia de Buenos Aires",
+            "quien": "Sindicato Único de Trabajadores del Neumático Argentino (SUTNA) y trabajadores de FATE",
+            "tipo_medida": "Acampe",
+            "motivo": "Rechazo al desalojo judicial y defensa de puestos de trabajo frente a un lockout patronal",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-de-fate-resisten-el-desalojo-y-protestaron-frente-a-la-fabrica-de-san-fernando/09/2026/"
         },
         {
             "es_evento_relevante": true,
