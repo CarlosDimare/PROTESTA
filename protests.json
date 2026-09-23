@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-22T19:39:37.131088-03:00",
+    "last_updated": "2026-09-22T22:17:03.310296-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16340,6 +16340,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al presupuesto 2027 y políticas de ajuste del gobierno de Milei",
             "fuente": "https://elciudadanoweb.com/plaza-de-mayo-multitudinaria-marcha-de-la-bronca-apunto-a-milei-y-reclamo-un-plan-de-lucha/, https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "16:00",
+            "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por derechos LGBTIQ+ contra la prohibición del gobierno de la Ciudad para realizarse durante la visita papal",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-del-orgullo-el-no-de-Macri-y-la-visita-papal-organicemos-la-lucha-contra-los-antiderechos"
         },
         {
             "es_evento_relevante": true,
