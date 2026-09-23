@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23T04:12:42.710035-03:00",
+    "last_updated": "2026-09-23T10:19:40.351983-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16220,6 +16220,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa de las universidades públicas nacionales, reclamo por presupuesto universitario y aplicación plena de la Ley 27.795",
             "fuente": "https://www.inforegion.com.ar/2026/09/19/ademas-del-paro-nacional-habra-otros-escalonados-en-distintas-universidades/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-23",
+            "horario": "10:00",
+            "lugar": "Cámara de Apelaciones de San Isidro, Sala 2 (Ituzaingó 340)",
+            "quien": "Trabajadores de FATE/SUTNA",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el desalojo, exigir reapertura de la fábrica, rechazo a la criminalización de la protesta y reclamar intervención del gobernador Kicillof",
+            "fuente": "https://www.laizquierdadiario.com/FATE-sigue-el-alerta-contra-el-desalojo-y-marchan-al-Juzgado"
         },
         {
             "es_evento_relevante": true,
