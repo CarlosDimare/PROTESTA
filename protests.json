@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23T15:13:15.022845-03:00",
+    "last_updated": "2026-09-23T19:01:03.616081-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16240,6 +16240,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a las políticas libertarias del Gobierno de Javier Milei, crisis por importaciones subsidiadas y despidos masivos en el sector",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-industria-del-calzado-planifica-una-marcha-nacional-por-despidos-cierre-de-empresas-e-importaciones-en-el-sector/09/2026/, https://www.perfil.com/noticias/politica/jueves-de-protestas-contra-el-gobierno-marchas-por-el-endeudamiento-familiar-y-la-crisis-de-las-pymes.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-25",
+            "horario": "12:00",
+            "lugar": "Sede de CONADU o lugar de reunión del plenario",
+            "quien": "CONADU (Coordinadora Nacional de Docentes Universitarios)",
+            "tipo_medida": "Plenario",
+            "motivo": "Definición de medidas de fuerza por conflicto de financiamiento universitario y salarios docentes",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-votaron-un-paro-por-tiempo-indeterminado-y-llevaran-la-mocion-a-conadu-que-definira-la-medida/09/2026/, https://conaduhistorica.org.ar/prensa/conadu-historica-convoca-a-paro-nacional-activo-de-36-horas-el-24-y-25-de-septiembre/"
         },
         {
             "es_evento_relevante": true,
