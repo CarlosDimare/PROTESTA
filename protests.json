@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-24T16:45:34.998896-03:00",
+    "last_updated": "2026-09-24T20:00:27.399251-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16250,6 +16250,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a las políticas libertarias del Gobierno de Javier Milei, crisis por importaciones subsidiadas y despidos masivos en el sector",
             "fuente": "https://www.conclusion.com.ar/gremiales/la-industria-del-calzado-planifica-una-marcha-nacional-por-despidos-cierre-de-empresas-e-importaciones-en-el-sector/09/2026/, https://www.perfil.com/noticias/politica/jueves-de-protestas-contra-el-gobierno-marchas-por-el-endeudamiento-familiar-y-la-crisis-de-las-pymes.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-25",
+            "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Asociación del Personal de la Universidad Nacional de Rosario (APUR)",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa de la universidad pública, derechos de trabajadores no docentes, situación salarial y financiamiento universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/facultades-y-escuelas-de-la-unr-estaran-cerradas-este-viernes-por-paro-de-no-docentes/09/2026/"
         },
         {
             "es_evento_relevante": true,
