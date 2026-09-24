@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-24T12:45:55.886909-03:00",
+    "last_updated": "2026-09-24T16:45:34.998896-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16315,6 +16315,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
+            "lugar": "Buenos Aires",
+            "quien": "Frente Sindical de las Universidades Nacionales y FEDUN",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de cumplimiento de Ley de Financiamiento Universitario y aumento salarial para recuperar poder adquisitivo",
+            "fuente": "https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
             "lugar": "No especificado (Marcha Federal)",
             "quien": "Federación de Docentes Universitarios e Investigadores (Conadu)",
             "tipo_medida": "Marcha",
@@ -16330,16 +16340,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste presupuestario 2027, reclamo por el cumplimiento de la Ley de Financiamiento Universitario y exigencia de recomposición salarial del 35%",
             "fuente": "https://elciudadanoweb.com/se-viene-la-quinta-marcha-federal-universitaria-ante-los-incumplimientos-legales-del-gobierno/, https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Frente Sindical de las Universidades Nacionales y Federación de Docentes de las Universidades",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y actualización salarial para recuperar poder adquisitivo",
-            "fuente": "https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
         },
         {
             "es_evento_relevante": true,
