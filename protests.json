@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23T19:01:03.616081-03:00",
+    "last_updated": "2026-09-23T21:19:10.144549-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16234,6 +16234,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-24",
+            "horario": "10:30",
+            "lugar": "Esquina de Corrientes y Paso, Ciudad Autónoma de Buenos Aires",
+            "quien": "ATE Nacional",
+            "tipo_medida": "Movilización",
+            "motivo": "Jornada Nacional de Protesta contra despidos en IOSFA/OSFA, por la cobertura de salud y contra el desguace de la obra social",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-liceo-aeronautico-militar-van-por-un-paro-de-72-horas-la-proxima-semana/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-24",
             "horario": "14:00",
             "lugar": "Plaza de Mayo",
             "quien": "Empresarios y fabricantes de la industria del calzado",
@@ -16326,10 +16336,10 @@
             "fecha": "2026-10-15",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-            "tipo_medida": "Marcha Federal Universitaria",
-            "motivo": "Reclamo por presupuesto universitario y cumplimiento de la Ley de Financiamiento Universitario 27.795",
-            "fuente": "https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+            "quien": "Conadu",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos vinculados al sistema universitario y al modelo de país",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
         },
         {
             "es_evento_relevante": true,
