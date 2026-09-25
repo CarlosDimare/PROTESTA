@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-25T14:46:45.903654-03:00",
+    "last_updated": "2026-09-25T18:03:57.330246-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16310,6 +16310,26 @@
             "tipo_medida": "Acto",
             "motivo": "Organizar la bronca social para confrontar el plan de ajuste del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Miles-en-Rosario-y-en-distintas-ciudades-de-la-provincia-de-Santa-Fe"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-28",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Coad",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial urgente y cumplimiento de Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/sin-clases-en-la-unr-los-docentes-van-al-paro-durante-toda-la-semana/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-28",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR) y sedes de Córdoba",
+            "quien": "Coad (gremio docente UNR) y gremio de Córdoba",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial, incumplimiento de Ley de Financiamiento Universitario y precarización laboral",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-definieron-un-paro-de-una-semana-en-reclamo-de-salarios/09/2026/"
         },
         {
             "es_evento_relevante": true,
