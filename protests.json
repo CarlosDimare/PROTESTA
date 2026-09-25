@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-24T20:00:27.399251-03:00",
+    "last_updated": "2026-09-24T22:12:07.002894-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16313,6 +16313,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-01",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT y las dos CTA",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra las políticas de Javier Milei, deterioro del empleo, endeudamiento de hogares y jubilaciones congeladas",
+            "fuente": "https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-14",
             "horario": "10:00",
             "lugar": "Sede de Mega Sports",
@@ -16385,11 +16395,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
             "horario": "16:00",
-            "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
-            "quien": "Comisión Organizadora de la Marcha del Orgullo",
+            "lugar": "No especificado (Marcha callejera)",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo / Movimiento LGBTIQ+",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por derechos LGBTIQ+ contra la prohibición del gobierno de la Ciudad para realizarse durante la visita papal",
-            "fuente": "https://www.laizquierdadiario.com/Marcha-del-orgullo-el-no-de-Macri-y-la-visita-papal-organicemos-la-lucha-contra-los-antiderechos"
+            "motivo": "Defender la realización de la Marcha del Orgullo frente a restricciones del gobierno y mantener la independencia política frente a gobiernos e iglesias",
+            "fuente": "https://www.laizquierdadiario.com/Macri-quiere-mover-la-Marcha-del-Orgullo-Myriam-Bregman-llama-a-ganar-las-calles, https://www.laizquierdadiario.com/Marcha-del-orgullo-el-no-de-Macri-y-la-visita-papal-organicemos-la-lucha-contra-los-antiderechos"
         },
         {
             "es_evento_relevante": true,
