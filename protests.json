@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-25T04:02:02.618654-03:00",
+    "last_updated": "2026-09-25T09:38:42.127119-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16310,6 +16310,16 @@
             "tipo_medida": "Acto",
             "motivo": "Organizar la bronca social para confrontar el plan de ajuste del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Miles-en-Rosario-y-en-distintas-ciudades-de-la-provincia-de-Santa-Fe"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
+            "horario": "No especificado",
+            "lugar": "Frente al predio de Dánica en calle Asamblea, Llavallol",
+            "quien": "Trabajadores de la fábrica Dánica",
+            "tipo_medida": "Acampe",
+            "motivo": "Reclamar la continuidad de la producción y oponerse al cierre definitivo de la fábrica",
+            "fuente": "https://www.inforegion.com.ar/2026/09/25/acampe-de-trabajadores-en-la-fabrica-danica-de-llavallol/"
         },
         {
             "es_evento_relevante": true,
