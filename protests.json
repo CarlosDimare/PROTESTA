@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-25T09:38:42.127119-03:00",
+    "last_updated": "2026-09-25T14:46:45.903654-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16324,12 +16324,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-01",
+            "horario": "08:00",
+            "lugar": "Ministerio de Salud de la Ciudad de Buenos Aires",
+            "quien": "Asamblea de Residentes y Concurrentes de CABA",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Recomposición salarial urgente y defensa de la salud pública",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-residentes-y-concurrentes-movilizo-al-Ministerio-de-Salud-y-voto-un-nuevo-paro, https://www.infoban.com.ar/23/09/2026/residentes-de-hospitales-publicos-de-la-ciudad-paran-y-se-movilizan-al-ministerio-de-salud/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-01",
             "horario": "15:00",
             "lugar": "No especificado",
             "quien": "CGT y las dos CTA",
             "tipo_medida": "Movilización",
             "motivo": "Contra las políticas de Javier Milei, deterioro del empleo, endeudamiento de hogares y jubilaciones congeladas",
             "fuente": "https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-02",
+            "horario": "09:00",
+            "lugar": "Teatro de la Asociación de Empleados de Comercio, Corrientes 450",
+            "quien": "Movimiento de Adultos Mayores, Defensoría de los Derechos de las Personas Mayores de Rosario, Federación de Jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir participación activa en la redacción de la nueva carta orgánica de Rosario y presentar propuestas a distintos niveles de gobierno",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/a-una-semana-del-congreso-nacional-de-jubilados-y-pensionados-decidimos-pasar-de-la-protesta-a-la-propuesta/09/2026/, https://www.conclusion.com.ar/la-ciudad/adultos-mayores-se-manifestaron-en-la-peatonal-y-le-pusieron-fecha-al-primer-plenario-nacional-del-sector/09/2026/"
         },
         {
             "es_evento_relevante": true,
