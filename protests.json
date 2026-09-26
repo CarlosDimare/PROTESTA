@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-26T14:38:43.834517-03:00",
+    "last_updated": "2026-09-26T17:37:40.232390-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16410,6 +16410,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir pago total de salarios, liquidaciones e indemnizaciones pendientes",
             "fuente": "https://www.datagremial.com/informacion-general/la-cadena-de-ropa-deportiva-mega-sports-echo-a-90-trabajadores-y-sigue-sin-pagar-indemnizaciones-preparan-una-nueva-protesta-para-octubre-202692111370"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario y rechazo a aumentos salariales del 3%",
+            "fuente": "https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/"
         },
         {
             "es_evento_relevante": true,
