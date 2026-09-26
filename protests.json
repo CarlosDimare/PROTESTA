@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-26T00:01:10.633952-03:00",
+    "last_updated": "2026-09-26T05:24:30.016610-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16330,6 +16330,26 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por recomposición salarial, incumplimiento de Ley de Financiamiento Universitario y precarización laboral",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-definieron-un-paro-de-una-semana-en-reclamo-de-salarios/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
+            "horario": "16:00",
+            "lugar": "Frente a la sede de la ONU en Nueva York",
+            "quien": "Jewish Voice for Peace (Voces Judías por la Paz)",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta contra Benjamin Netanyahu en respaldo a Palestina",
+            "fuente": "https://elciudadanoweb.com/arrestaron-a-susan-sarandon-durante-una-marcha-contra-netanyahu-en-nueva-york/, https://elchamuco.com.mx/2026/09/23/marcha-contra-netanyahu-nueva-york-onu/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
+            "horario": "16:00",
+            "lugar": "Sede del sindicato de la UOCRA",
+            "quien": "CGT (más de 20 gremios)",
+            "tipo_medida": "Reunión de planificación de medidas de lucha",
+            "motivo": "Definir nuevas acciones en el marco del plan de contra el modelo de ajuste de Milei y la pérdida de derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/mientras-crece-la-idea-de-un-nuevo-paro-general-la-cgt-se-reunira-para-establecer-los-proximos-pasos/09/2026/"
         },
         {
             "es_evento_relevante": true,
