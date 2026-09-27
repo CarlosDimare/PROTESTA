@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27T00:07:16.041670-03:00",
+    "last_updated": "2026-09-27T06:12:54.679401-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16374,6 +16374,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-30",
+            "horario": "10:00",
+            "lugar": "Tribunal Federal de Bahía Blanca",
+            "quien": "Municipio de Bahía Blanca (Intendente Federico Susbielles)",
+            "tipo_medida": "Acción legal",
+            "motivo": "Defender el régimen de Zona Fría contra la ley nacional que elimina subsidios al gas",
+            "fuente": "https://motoreconomico.com.ar/intendentes-bonaerenses-estallaron-contra-lla-y-sus-aliados-por-el-recorte-de-la-zona-fria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
             "horario": "16:00",
             "lugar": "Sede del sindicato de la UOCRA",
             "quien": "CGT (más de 20 gremios)",
@@ -16420,6 +16430,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir participación activa en la redacción de la nueva carta orgánica de Rosario y presentar propuestas a distintos niveles de gobierno",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/a-una-semana-del-congreso-nacional-de-jubilados-y-pensionados-decidimos-pasar-de-la-protesta-a-la-propuesta/09/2026/, https://www.conclusion.com.ar/la-ciudad/adultos-mayores-se-manifestaron-en-la-peatonal-y-le-pusieron-fecha-al-primer-plenario-nacional-del-sector/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-05",
+            "horario": "No especificado",
+            "lugar": "Legislatura de la Ciudad de Buenos Aires",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por la inclusión de indemnizaciones para trabajadores en los pliegos de licitación del servicio de recolección de residuos",
+            "fuente": "https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/"
         },
         {
             "es_evento_relevante": true,
