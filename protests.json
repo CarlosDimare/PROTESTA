@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-26T20:24:24.297768-03:00",
+    "last_updated": "2026-09-27T00:07:16.041670-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16294,12 +16294,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-26",
+            "horario": "10:30",
+            "lugar": "Quinta de Olivos",
+            "quien": "UTEP, organizaciones de desocupados y precarizados, Corriente Clasista y Combativa (CCC)",
+            "tipo_medida": "Marcha",
+            "motivo": "Denunciar corrupción en gestión de alimentos oficiales, reclamar reintegración del Programa Volver al Trabajo (VAT) y entrega insumos para barrios populares",
+            "fuente": "https://elciudadanoweb.com/marcha-en-la-quinta-presidencial-tras-el-olivosgate-a-los-barrios-les-niegan-la-comida-y-aca-se-la-roban/, https://www.eldiarioar.com/politica/carne-falta-comedores-quinta-olivos-organizaciones-marcharon-frente-residencia-milei_1_13539001.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-26",
             "horario": "15:00",
             "lugar": "Plaza San Martín, Rosario",
             "quien": "Fuerzas de izquierda y movimientos sociales",
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas socioeconómicas de Milei y reclamos por jubilados, salarios y recortes",
             "fuente": "https://elciudadanoweb.com/derrotemos-a-milei-su-plan-de-ajuste-y-complices-la-marcha-de-la-bronca-en-rosario/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-26",
+            "horario": "18:30",
+            "lugar": "Puerta del Sol, Madrid",
+            "quien": "Sindicato de Inquilinas",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra desahucios y por medidas urgentes de vivienda",
+            "fuente": "https://www.laizquierdadiario.com/Multitudinaria-movilizacion-en-Madrid-contra-los-desalojos-y-por-la-vivienda"
         },
         {
             "es_evento_relevante": true,
