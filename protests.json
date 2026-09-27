@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27T06:12:54.679401-03:00",
+    "last_updated": "2026-09-27T12:00:52.638547-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16430,6 +16430,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir participación activa en la redacción de la nueva carta orgánica de Rosario y presentar propuestas a distintos niveles de gobierno",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/a-una-semana-del-congreso-nacional-de-jubilados-y-pensionados-decidimos-pasar-de-la-protesta-a-la-propuesta/09/2026/, https://www.conclusion.com.ar/la-ciudad/adultos-mayores-se-manifestaron-en-la-peatonal-y-le-pusieron-fecha-al-primer-plenario-nacional-del-sector/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-03",
+            "horario": "13:00",
+            "lugar": "Plaza Libertad, Rosario",
+            "quien": "Comunidad LGBTIQ+ de Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por derechos LGBTIQ+, diversidad e igualdad",
+            "fuente": "https://elciudadanoweb.com/rosario-se-prepara-para-la-historica-20-marcha-y-semana-del-orgullo-cultura-memoria-y-lucha-colectiva/, https://iesoc.edu.ar/genero/semana-del-orgullo-en-rosario/"
         },
         {
             "es_evento_relevante": true,
