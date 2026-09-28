@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27T21:18:29.820075-03:00",
+    "last_updated": "2026-09-28T03:19:00.211448-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16360,6 +16360,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por recomposición salarial, incumplimiento de Ley de Financiamiento Universitario y precarización laboral",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-definieron-un-paro-de-una-semana-en-reclamo-de-salarios/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
+            "horario": "14:00",
+            "lugar": "Leandro N. Alem 650, Ciudad Autónoma de Buenos Aires",
+            "quien": "Trabajadores de Flybondi y GPS-Aerolíneas",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamos laborales por indemnizaciones, reincorporación y contra despidos en sector aeronáutico",
+            "fuente": "https://www.laizquierdadiario.com/Aeronauticos-de-Flybondi-y-GPS-Aerolineas-Argentinas-convocan-concentracion-en-la-Secretaria-de"
         },
         {
             "es_evento_relevante": true,
