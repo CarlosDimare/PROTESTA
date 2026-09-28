@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27T18:57:37.170831-03:00",
+    "last_updated": "2026-09-27T21:18:29.820075-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16330,6 +16330,16 @@
             "tipo_medida": "Acto",
             "motivo": "Organizar la bronca social para confrontar el plan de ajuste del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/Miles-en-Rosario-y-en-distintas-ciudades-de-la-provincia-de-Santa-Fe"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-28",
+            "horario": "09:45",
+            "lugar": "Esquina de Ovidio Lagos y San Lorenzo, Rosario",
+            "quien": "Unión Obrera Metalúrgica (UOM) - Antonio Donello",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar por el resguardo de fuentes de trabajo y la nulidad de despidos ilegales tras el cierre de Electrolux",
+            "fuente": "https://elciudadanoweb.com/tras-el-cierre-de-electrolux-la-uom-marcha-este-lunes-al-ministerio-de-trabajo-en-defensa-de-los-puestos-laborales/"
         },
         {
             "es_evento_relevante": true,
