@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29T10:47:45.990015-03:00",
+    "last_updated": "2026-09-29T16:19:08.326860-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16375,6 +16375,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-29",
             "horario": "00:00",
+            "lugar": "Francia",
+            "quien": "Coalición de sindicatos (CGT, CFDT, UNSA, FSU, Solidaires, CFE-CGC, FA-FP)",
+            "tipo_medida": "Huelga",
+            "motivo": "Protesta contra el presupuesto de ajuste y ataques a servicios públicos",
+            "fuente": "https://www.laizquierdadiario.com/Los-trabajadores-publicos-van-a-la-huelga-contra-el-plan-de-ajuste-del-gobierno-frances, https://www.laizquierdadiario.com/Policia-francesa-dispara-gas-lacrimogeno-a-la-cara-de-un-estudiante-secundario-en-medio-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
+            "horario": "00:00",
             "lugar": "Universidades públicas de todo el país",
             "quien": "Conadu y Conadu Histórica",
             "tipo_medida": "Paro",
@@ -16423,13 +16433,13 @@
         },
         {
             "es_evento_relevante": true,
-            "fecha": "2026-09-29",
-            "horario": "No especificado",
-            "lugar": "Francia",
-            "quien": "Movimiento estudiantil secundario",
+            "fecha": "2026-09-30",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU Histórica",
             "tipo_medida": "Paro",
-            "motivo": "Exigencia de mejores condiciones educativas y aumento de presupuesto para educación",
-            "fuente": "https://www.laizquierdadiario.com/Policia-francesa-dispara-gas-lacrimogeno-a-la-cara-de-un-estudiante-secundario-en-medio-de"
+            "motivo": "Conmemoración del primer mes de la eliminación del programa 'Volver al Trabajo'",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre-articular-las-diferentes-luchas-20269299550, https://www.conclusion.com.ar/gremiales/gremios-docentes-nacionales-anunciaron-un-paro-universitario-de-72-horas-para-la-proxima-semana/09/2026/, https://www.infobae.com/politica/2026/09/26/los-docentes-universitarios-convocaron-a-un-paro-para-la-proxima-semana-podria-durar-entre-48-y-72-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -16440,16 +16450,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamos salariales y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comenzaron-la-semana-de-paro-y-anticipan-nuevas-medidas-de-fuerza/09/2026/, https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-09-30",
-            "horario": "00:00",
-            "lugar": "Universidades Nacionales",
-            "quien": "Frente Sindical de Universidades Nacionales (CONADU)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por aplicación efectiva de Ley de Financiamiento Universitario y recomposición salarial del 33,4%",
-            "fuente": "https://www.conclusion.com.ar/gremiales/gremios-docentes-nacionales-anunciaron-un-paro-universitario-de-72-horas-para-la-proxima-semana/09/2026/, https://www.infobae.com/politica/2026/09/26/los-docentes-universitarios-convocaron-a-un-paro-para-la-proxima-semana-podria-durar-entre-48-y-72-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -16484,12 +16484,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-01",
-            "horario": "08:00",
-            "lugar": "Ministerio de Salud de la Ciudad de Buenos Aires",
+            "horario": "11:00",
+            "lugar": "Obelisco de Buenos Aires",
             "quien": "Asamblea de Residentes y Concurrentes de CABA",
             "tipo_medida": "Paro con movilización",
-            "motivo": "Recomposición salarial urgente y defensa de la salud pública",
-            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-residentes-y-concurrentes-movilizo-al-Ministerio-de-Salud-y-voto-un-nuevo-paro, https://www.infoban.com.ar/23/09/2026/residentes-de-hospitales-publicos-de-la-ciudad-paran-y-se-movilizan-al-ministerio-de-salud/"
+            "motivo": "Reclamo de recomposición salarial y mejora de condiciones laborales en la salud pública de CABA",
+            "fuente": "https://www.laizquierdadiario.com/Residentes-y-concurrentes-ratifican-el-paro-y-movilizacion-del-1o-de-octubre, https://www.laizquierdadiario.com/Asamblea-de-residentes-y-concurrentes-movilizo-al-Ministerio-de-Salud-y-voto-un-nuevo-paro, https://www.infoban.com.ar/23/09/2026/residentes-de-hospitales-publicos-de-la-ciudad-paran-y-se-movilizan-al-ministerio-de-salud/"
         },
         {
             "es_evento_relevante": true,
@@ -16660,6 +16660,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos, ajustes salariales y cierres de empresas",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paro/Marcha",
+            "motivo": "Rechazo a políticas económicas y laborales del gobierno, incluyendo reforma laboral y Ley Bases",
+            "fuente": "https://estadodealerta.com.ar/cristian-jeronimo-y-pablo-moyano-endurecen-sus-criticas-contra-el-gobierno-tambien-mostrando-una-importante-grieta-sindical/"
         },
         {
             "es_evento_relevante": true,
