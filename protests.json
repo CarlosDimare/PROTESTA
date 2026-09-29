@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28T18:05:51.565186-03:00",
+    "last_updated": "2026-09-28T22:05:47.038671-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16374,6 +16374,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-29",
+            "horario": "00:00",
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "Conadu y Conadu Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por aplicación de la Ley de Financiamiento Universitario y recomposición salarial del 33,4%",
+            "fuente": "https://www.inforegion.com.ar/2026/09/28/paro-docente-tres-nuevos-dias-sin-clases-en-las-universidades-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
             "horario": "14:00",
             "lugar": "Leandro N. Alem 650, Ciudad Autónoma de Buenos Aires",
             "quien": "Trabajadores de Flybondi y GPS-Aerolíneas",
@@ -16394,12 +16404,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-29",
+            "horario": "19:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Inquilinas y organizaciones sindicales (CCOO, UGT, LAB, ELA) y plataformas por la vivienda",
+            "tipo_medida": "Huelga general",
+            "motivo": "En contra de la reforma de vivienda considerada insuficiente, exigiendo el decreto Maricarmen con medidas concretas como contratos indefinidos y congelación de alquileres",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-general-para-conseguir-la-ley-del-sindicato-de-inquilinas-el-gobierno-de-Sanchez-solo-quiere-reformas, https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-manifestarse-lunes-barcelona-durante-visita-sanchez_1_13541647.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
             "horario": "No especificado",
             "lugar": "Francia",
             "quien": "Movimiento estudiantil secundario",
             "tipo_medida": "Paro",
             "motivo": "Exigencia de mejores condiciones educativas y aumento de presupuesto para educación",
             "fuente": "https://www.laizquierdadiario.com/Policia-francesa-dispara-gas-lacrimogeno-a-la-cara-de-un-estudiante-secundario-en-medio-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CONADU y CONADU Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de aumento salarial y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
@@ -16480,6 +16510,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por derechos LGBTIQ+, diversidad e igualdad",
             "fuente": "https://elciudadanoweb.com/rosario-se-prepara-para-la-historica-20-marcha-y-semana-del-orgullo-cultura-memoria-y-lucha-colectiva/, https://iesoc.edu.ar/genero/semana-del-orgullo-en-rosario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-05",
+            "horario": "08:00",
+            "lugar": "Empresas de recolección de residuos de la Ciudad de Buenos Aires",
+            "quien": "Sindicato de Camioneros (Pablo Moyano y Marcelo Aparicio)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir que el pliego de licitación 2028-2038 incluya indemnizaciones por recambio de concesiones (Ley Moyano) para 7 mil trabajadores",
+            "fuente": "https://www.infobae.com/politica/2026/09/28/el-sindicato-de-camioneros-presiona-con-asambleas-y-otras-medidas-por-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/"
         },
         {
             "es_evento_relevante": true,
