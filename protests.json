@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29T16:19:08.326860-03:00",
+    "last_updated": "2026-09-29T20:28:20.370226-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16426,10 +16426,10 @@
             "fecha": "2026-09-29",
             "horario": "19:00",
             "lugar": "No especificado",
-            "quien": "Estudiantes secundarios",
-            "tipo_medida": "Movilización",
-            "motivo": "Denuncia de condiciones educativas degradadas, falta de inversión en educación y apoyo a Palestina",
-            "fuente": "https://www.laizquierdadiario.com/Francia-a-pesar-de-la-represion-la-movilizacion-de-secundarios-se-extiende-a-300-colegios-en-todo, https://www.laizquierdadiario.com/Huelga-general-para-conseguir-la-ley-del-sindicato-de-inquilinas-el-gobierno-de-Sanchez-solo-quiere-reformas, https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-manifestarse-lunes-barcelona-durante-visita-sanchez_1_13541647.html"
+            "quien": "Médicos de cabecera y odontólogos del PAMI",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de aumento en pagos del sistema capitado (de $270/$374 a $1.000 por paciente por mes)",
+            "fuente": "https://www.inforegion.com.ar/2026/09/29/medicos-del-pami-anunciaron-un-paro-el-gobierno-trata-de-frenarlo/, https://www.laizquierdadiario.com/Francia-a-pesar-de-la-represion-la-movilizacion-de-secundarios-se-extiende-a-300-colegios-en-todo, https://www.laizquierdadiario.com/Huelga-general-para-conseguir-la-ley-del-sindicato-de-inquilinas-el-gobierno-de-Sanchez-solo-quiere-reformas, https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-manifestarse-lunes-barcelona-durante-visita-sanchez_1_13541647.html"
         },
         {
             "es_evento_relevante": true,
@@ -16553,6 +16553,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "15:30",
+            "lugar": "Secretaría de Industria de la Nación, Avenida Julio Roca 651, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la industria nacional",
+            "fuente": "https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-14",
             "horario": "10:00",
             "lugar": "Sede de Mega Sports",
@@ -16620,6 +16630,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas y apoyo al sector industrial",
             "fuente": "https://motoreconomico.com.ar/marcha-nacional-del-calzado-empresarios-anuncian-masiva-protesta-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CTA Autónoma",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al ajuste, reclamo por salarios dignos y defensa de puestos de trabajo frente a despidos y precarización",
+            "fuente": "https://elciudadanoweb.com/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre/"
         },
         {
             "es_evento_relevante": true,
