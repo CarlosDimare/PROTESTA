@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-28T22:05:47.038671-03:00",
+    "last_updated": "2026-09-29T03:37:23.981936-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16380,6 +16380,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por aplicación de la Ley de Financiamiento Universitario y recomposición salarial del 33,4%",
             "fuente": "https://www.inforegion.com.ar/2026/09/28/paro-docente-tres-nuevos-dias-sin-clases-en-las-universidades-del-pais/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-29",
+            "horario": "11:00",
+            "lugar": "Av. Roque Sáenz Peña 760, CABA (a dos cuadras de Plaza de Mayo)",
+            "quien": "SUTNA y trabajadores de Fate",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar la liberación de salarios adeudados bloqueados por la justicia y contra la orden de desalojo",
+            "fuente": "https://www.laizquierdadiario.com/Fate-marchan-al-juzgado-a-exigir-pago-de-salarios-y-sigue-el-alerta-contra-el-desalojo"
         },
         {
             "es_evento_relevante": true,
