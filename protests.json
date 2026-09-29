@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29T03:37:23.981936-03:00",
+    "last_updated": "2026-09-29T10:47:45.990015-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16416,10 +16416,10 @@
             "fecha": "2026-09-29",
             "horario": "19:00",
             "lugar": "No especificado",
-            "quien": "Sindicato de Inquilinas y organizaciones sindicales (CCOO, UGT, LAB, ELA) y plataformas por la vivienda",
-            "tipo_medida": "Huelga general",
-            "motivo": "En contra de la reforma de vivienda considerada insuficiente, exigiendo el decreto Maricarmen con medidas concretas como contratos indefinidos y congelación de alquileres",
-            "fuente": "https://www.laizquierdadiario.com/Huelga-general-para-conseguir-la-ley-del-sindicato-de-inquilinas-el-gobierno-de-Sanchez-solo-quiere-reformas, https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-manifestarse-lunes-barcelona-durante-visita-sanchez_1_13541647.html"
+            "quien": "Estudiantes secundarios",
+            "tipo_medida": "Movilización",
+            "motivo": "Denuncia de condiciones educativas degradadas, falta de inversión en educación y apoyo a Palestina",
+            "fuente": "https://www.laizquierdadiario.com/Francia-a-pesar-de-la-represion-la-movilizacion-de-secundarios-se-extiende-a-300-colegios-en-todo, https://www.laizquierdadiario.com/Huelga-general-para-conseguir-la-ley-del-sindicato-de-inquilinas-el-gobierno-de-Sanchez-solo-quiere-reformas, https://www.eldiario.es/catalunya/sindicato-inquilinas-llama-manifestarse-lunes-barcelona-durante-visita-sanchez_1_13541647.html"
         },
         {
             "es_evento_relevante": true,
@@ -16436,10 +16436,10 @@
             "fecha": "2026-09-30",
             "horario": "00:00",
             "lugar": "No especificado",
-            "quien": "CONADU y CONADU Histórica",
+            "quien": "Asociaciones de base de CONADU y CONADU Histórica",
             "tipo_medida": "Paro",
-            "motivo": "Reclamo de aumento salarial y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
+            "motivo": "Reclamos salariales y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comenzaron-la-semana-de-paro-y-anticipan-nuevas-medidas-de-fuerza/09/2026/, https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
@@ -16520,6 +16520,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por derechos LGBTIQ+, diversidad e igualdad",
             "fuente": "https://elciudadanoweb.com/rosario-se-prepara-para-la-historica-20-marcha-y-semana-del-orgullo-cultura-memoria-y-lucha-colectiva/, https://iesoc.edu.ar/genero/semana-del-orgullo-en-rosario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-03",
+            "horario": "17:00",
+            "lugar": "Monumento a la Bandera, Rosario",
+            "quien": "Coordinadora de Organizaciones del Orgullo",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia por el travesticidio de Gabriela Banach, reclamar la Ley Integral Trans y visibilizar violencias contra identidades disidentes",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/comenzo-la-semana-del-orgullo-rumbo-a-la-20-marcha-en-rosario/09/2026/"
         },
         {
             "es_evento_relevante": true,
