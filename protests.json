@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T00:34:52.054510-03:00",
+    "last_updated": "2026-09-30T07:19:35.356159-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16670,6 +16670,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al presupuesto 2027 y políticas de ajuste del gobierno de Milei",
             "fuente": "https://elciudadanoweb.com/plaza-de-mayo-multitudinaria-marcha-de-la-bronca-apunto-a-milei-y-reclamo-un-plan-de-lucha/, https://www.infobae.com/politica/2026/09/15/los-detalles-de-la-marcha-de-la-bronca-organizada-por-piqueteros-y-partidos-de-izquierda-contra-las-politicas-de-javier-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-01",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CGT y diputados sindicales de Unión por la Patria",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a la implementación del Fondo de Asistencia Laboral (FAL) y defensa del sistema previsional",
+            "fuente": "https://estadodealerta.com.ar/proyecto-de-diputados-de-extraccion-gremial-para-derogar-el-fal-antes-que-de-que-entre-en-vigencia-en-noviembre/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
         },
         {
             "es_evento_relevante": true,
