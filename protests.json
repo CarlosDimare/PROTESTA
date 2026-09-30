@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T13:57:38.193799-03:00",
+    "last_updated": "2026-09-30T18:17:39.557657-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16464,6 +16464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-30",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Unión por la Patria, Partido Socialista y Frente de Izquierda",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la derogación de la Ley de Tierras y defensa de la soberanía nacional",
+            "fuente": "https://www.infobae.com/politica/2026/09/30/la-oposicion-critico-a-la-corte-por-el-fallo-que-dejo-sin-limites-la-venta-de-tierras-a-extranjeros-y-llamo-a-otra-movilizacion/, https://www.mdzol.com/politica/2026/7/22/pese-al-acuerdo-los-fondos-la-cgt-las-cta-y-organizaciones-sociales-marchan-al-congreso-contra-el-gobierno-1968563.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
             "horario": "15:30",
             "lugar": "Congreso Nacional",
             "quien": "Frente de Izquierda",
@@ -16490,6 +16500,16 @@
             "tipo_medida": "Acampe",
             "motivo": "Reclamar la continuidad de la producción y oponerse al cierre definitivo de la fábrica",
             "fuente": "https://www.inforegion.com.ar/2026/09/25/acampe-de-trabajadores-en-la-fabrica-danica-de-llavallol/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-01",
+            "horario": "00:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Frente de Unidad Docente Bonaerense (FUDB)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por agresiones a docentes, incumplimiento de acuerdos de seguridad, mejora en salud (IOMA) y salarios",
+            "fuente": "https://www.infobae.com/politica/2026/09/30/los-gremios-docentes-bonaerenses-convocaron-a-un-paro-sorpresivo-por-la-violencia-en-las-aulas/"
         },
         {
             "es_evento_relevante": true,
@@ -16574,12 +16594,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-05",
-            "horario": "No especificado",
-            "lugar": "Legislatura de la Ciudad de Buenos Aires",
-            "quien": "Sindicato de Camioneros",
+            "horario": "12:00",
+            "lugar": "Legislatura de la Ciudad Autónoma de Buenos Aires",
+            "quien": "Sindicato de Camioneros (Los Moyano)",
             "tipo_medida": "Movilización",
-            "motivo": "Reclamo por la inclusión de indemnizaciones para trabajadores en los pliegos de licitación del servicio de recolección de residuos",
-            "fuente": "https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/"
+            "motivo": "Exigir el pago de USD 200 millones en indemnizaciones para trabajadores de recolección de residuos en la nueva licitación del servicio (2028-2038)",
+            "fuente": "https://www.infobae.com/politica/2026/09/30/el-sindicato-de-camioneros-se-movilizara-ante-la-legislatura-portena-para-reclamar-los-usd-200-millones-en-indemnizaciones/, https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/"
         },
         {
             "es_evento_relevante": true,
@@ -16600,6 +16620,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la industria nacional, producción, empleo y salarios",
             "fuente": "https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-10",
+            "horario": "No especificado",
+            "lugar": "Córdoba",
+            "quien": "Encuentro Plurinacional de Mujeres y Diversidades",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de los derechos de mujeres y diversidades",
+            "fuente": "https://www.datagremial.com/informacion-general/giuliani-y-aguiar-buscan-profundizar-la-resistencia-sindical-contra-el-ajuste-de-milei-en-la-calle-estatales-como-promotores-en-la-pelea-sin-cuartel-202693015450"
         },
         {
             "es_evento_relevante": true,
@@ -16656,10 +16686,10 @@
             "fecha": "2026-10-15",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "FAGDUT y sindicatos universitarios",
+            "quien": "Comunidad universitaria (docentes, estudiantes y no docentes)",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por aplicación de Ley de Financiamiento Universitario, recuperación salarial y convocatoria a negociaciones paritarias",
-            "fuente": "https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/"
+            "motivo": "Exigir cumplimiento de la ley de financiamiento universitario y fallos judiciales por parte del Gobierno",
+            "fuente": "https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/"
         },
         {
             "es_evento_relevante": true,
