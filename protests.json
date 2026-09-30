@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-29T20:28:20.370226-03:00",
+    "last_updated": "2026-09-30T00:34:52.054510-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16464,6 +16464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-30",
+            "horario": "15:30",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte Suprema que habilita la extranjerización de tierras y exigencia de anulación del DNU 70/23 para defender la soberanía nacional",
+            "fuente": "https://www.laizquierdadiario.com/Del-Cano-y-Bregman-Hay-que-hacer-como-el-2x1-y-salir-con-todo-a-las-calles, https://www.perfil.com/noticias/politica/marcha-de-la-bronca-la-izquierda-se-movilizo-contra-milei-y-reclamo-un-nuevo-paro-general.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-09-30",
             "horario": "16:00",
             "lugar": "Sede del sindicato de la UOCRA",
             "quien": "CGT (más de 20 gremios)",
@@ -16555,11 +16565,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria de la Nación, Avenida Julio Roca 651, Ciudad Autónoma de Buenos Aires",
+            "lugar": "Secretaría de Industria de la Nación",
             "quien": "CGT",
             "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional",
-            "fuente": "https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "motivo": "En defensa de la industria nacional y por el día de la industria",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -16640,6 +16650,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al ajuste, reclamo por salarios dignos y defensa de puestos de trabajo frente a despidos y precarización",
             "fuente": "https://elciudadanoweb.com/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-31",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CTA Autónoma y CTA de los Trabajadores",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Rechazo al ajuste, reclamo por salarios dignos y defensa de puestos de trabajo frente a despidos y precarización laboral",
+            "fuente": "https://estadodealerta.com.ar/la-cta-autonoma-acelera-su-plan-de-lucha-con-anuncios-de-paro-y-movilizacion-nacional-para-fines-de-octubre/"
         },
         {
             "es_evento_relevante": true,
