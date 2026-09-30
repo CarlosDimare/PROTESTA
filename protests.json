@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T07:19:35.356159-03:00",
+    "last_updated": "2026-09-30T13:57:38.193799-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16523,6 +16523,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-02",
+            "horario": "17:00",
+            "lugar": "Parque Lezama",
+            "quien": "Organizaciones Marcha de la Bronca",
+            "tipo_medida": "Reunión organizativa",
+            "motivo": "Preparar respuesta masiva contra la Corte Suprema de Justicia",
+            "fuente": "https://www.laizquierdadiario.com/Autoconvocatoria-en-Parque-Lezama-preparemos-una-gran-movilizacion-contra-el-fallo-de-la-Corte-y-el"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-03",
             "horario": "13:00",
             "lugar": "Plaza Libertad, Rosario",
@@ -16540,6 +16550,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir justicia por el travesticidio de Gabriela Banach, reclamar la Ley Integral Trans y visibilizar violencias contra identidades disidentes",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/comenzo-la-semana-del-orgullo-rumbo-a-la-20-marcha-en-rosario/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-04",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "PTS-FITU (Frente de Izquierda de Trabajadores-Unidad)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte Suprema que deroga la Ley de Tierras y defensa de la soberanía nacional",
+            "fuente": "https://www.laizquierdadiario.com/Ley-de-Tierras-hay-que-tirar-el-fallo-de-la-Corte-Suprema-con-una-rebelion-nacional"
         },
         {
             "es_evento_relevante": true,
@@ -16565,11 +16585,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria de la Nación",
+            "lugar": "Secretaría de Industria de la Nación, avenida Julio Roca 651, Capital Federal",
             "quien": "CGT",
             "tipo_medida": "Movilización",
-            "motivo": "En defensa de la industria nacional y por el día de la industria",
-            "fuente": "https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "motivo": "Defensa de la industria nacional",
+            "fuente": "https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "15:30",
+            "lugar": "Secretaría de Industria, Comercio y PyME, sobre Diagonal Sur (Julio A. Roca al 600)",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la industria nacional, producción, empleo y salarios",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
         },
         {
             "es_evento_relevante": true,
@@ -16595,16 +16625,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
-            "lugar": "Buenos Aires",
-            "quien": "Frente Sindical de las Universidades Nacionales y FEDUN",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigencia de cumplimiento de Ley de Financiamiento Universitario y aumento salarial para recuperar poder adquisitivo",
-            "fuente": "https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "10:00",
             "lugar": "No especificado (Marcha Federal)",
             "quien": "Federación de Docentes Universitarios e Investigadores (Conadu)",
             "tipo_medida": "Marcha",
@@ -16620,6 +16640,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste presupuestario 2027, reclamo por el cumplimiento de la Ley de Financiamiento Universitario y exigencia de recomposición salarial del 35%",
             "fuente": "https://elciudadanoweb.com/se-viene-la-quinta-marcha-federal-universitaria-ante-los-incumplimientos-legales-del-gobierno/, https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "11:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Frente Sindical de Universidades Nacionales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir aplicación de la Ley de Financiamiento Universitaria y recomposición salarial del 33,4%",
+            "fuente": "https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "FAGDUT y sindicatos universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por aplicación de Ley de Financiamiento Universitario, recuperación salarial y convocatoria a negociaciones paritarias",
+            "fuente": "https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/"
         },
         {
             "es_evento_relevante": true,
