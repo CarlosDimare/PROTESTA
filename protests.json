@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-01T11:23:37.467963-03:00",
+    "last_updated": "2026-10-01T17:10:05.292333-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16506,10 +16506,10 @@
             "fecha": "2026-10-01",
             "horario": "00:00",
             "lugar": "Provincia de Buenos Aires",
-            "quien": "Frente de Unidad Docente Bonaerense (FUDB)",
+            "quien": "Frente de Unidad Docente",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos por agresiones a docentes, incumplimiento de acuerdos de seguridad, mejora en salud (IOMA) y salarios",
-            "fuente": "https://www.infobae.com/politica/2026/09/30/los-gremios-docentes-bonaerenses-convocaron-a-un-paro-sorpresivo-por-la-violencia-en-las-aulas/"
+            "motivo": "Miseria salarial, falta de respuesta del gobierno provincial, endeudamiento y violencia en las escuelas",
+            "fuente": "https://www.anred.org/docentes-bonaerenses-la-bronca-en-las-escuelas-les-impuso-un-paro-a-las-conducciones-sindicales-aliadas-de-kicillof/, https://www.infobae.com/politica/2026/09/30/los-gremios-docentes-bonaerenses-convocaron-a-un-paro-sorpresivo-por-la-violencia-en-las-aulas/"
         },
         {
             "es_evento_relevante": true,
@@ -16526,10 +16526,10 @@
             "fecha": "2026-10-01",
             "horario": "15:00",
             "lugar": "No especificado",
-            "quien": "Frente de Unidad Docente",
-            "tipo_medida": "Paro",
-            "motivo": "Miseria salarial, falta de respuesta en paritarias, endeudamiento y violencia en escuelas",
-            "fuente": "https://www.laizquierdadiario.com/La-bronca-en-las-escuelas-les-impuso-un-paro-a-las-conducciones-sindicales-aliadas-de-Kicillof, https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
+            "quien": "Confederación de Estudiantes de Chile (Confech)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo a recortes en educación y ajustes del presupuesto 2027 impulsado por el gobierno de Antonio Kast",
+            "fuente": "https://www.laizquierdadiario.com/El-movimiento-estudiantil-chileno-sale-nuevamente-a-la-calle-este-1o-de-octubre-con-un-paro-y, https://www.laizquierdadiario.com/La-bronca-en-las-escuelas-les-impuso-un-paro-a-las-conducciones-sindicales-aliadas-de-Kicillof, https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
         },
         {
             "es_evento_relevante": true,
@@ -16560,6 +16560,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo contra aumento de pobreza (23.1% en Gran Rosario), desocupación (11.5%) y deterioro de condiciones de vida, bajo la consigna 'El hambre no espera'",
             "fuente": "https://www.conclusion.com.ar/gremiales/el-hambre-no-espera-organizaciones-sindicales-de-rosario-preparan-un-paro-regional-ante-el-aumento-de-la-pobreza-y-la-desocupacion/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-02",
+            "horario": "15:00",
+            "lugar": "Parque Lezama, Ciudad de Buenos Aires",
+            "quien": "Organizaciones populares y sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Anulación total del DNU 70/23",
+            "fuente": "https://www.laizquierdadiario.com/Ley-de-Tierras-la-Corte-se-defiende-del-repudio-popular-con-una-aclaracion-que-sigue-oscureciendo"
         },
         {
             "es_evento_relevante": true,
@@ -16643,6 +16653,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "15:00",
+            "lugar": "Frente a la Corte Suprema de Justicia (Plaza de los Dos Congresos)",
+            "quien": "CTAs (Autónoma y de los Trabajadores), junto a un amplio arco de organizaciones sindicales y sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte Suprema que derogó la Ley de Tierras y defensa de la soberanía nacional frente a la extranjerización de tierras",
+            "fuente": "https://estadodealerta.com.ar/las-centrales-gremiales-repudiaron-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras-y-preparan-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
             "lugar": "Diagonal Sur",
@@ -16720,6 +16740,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir aplicación de la Ley de Financiamiento Universitaria y recomposición salarial del 33,4%",
             "fuente": "https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento estudiantil universitario",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la ley de financiamiento de la educación superior ante la negativa oficial",
+            "fuente": "https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
