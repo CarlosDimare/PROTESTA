@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-01T04:05:51.494285-03:00",
+    "last_updated": "2026-10-01T11:23:37.467963-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16525,21 +16525,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-01",
             "horario": "15:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Partido Obrero",
-            "tipo_medida": "Movilización",
-            "motivo": "Exigir la renuncia de la Corte Suprema y presionar al Congreso para anular decretos",
-            "fuente": "https://www.conclusion.com.ar/politica/romina-del-pla-la-corte-suprema-le-hace-el-trabajo-sucio-a-milei-y-se-tiene-que-ir-con-movilizacion-popular/09/2026/, https://www.mdzol.com/politica/2026/7/22/pese-al-acuerdo-los-fondos-la-cgt-las-cta-y-organizaciones-sociales-marchan-al-congreso-contra-el-gobierno-1968563.html"
+            "lugar": "No especificado",
+            "quien": "Frente de Unidad Docente",
+            "tipo_medida": "Paro",
+            "motivo": "Miseria salarial, falta de respuesta en paritarias, endeudamiento y violencia en escuelas",
+            "fuente": "https://www.laizquierdadiario.com/La-bronca-en-las-escuelas-les-impuso-un-paro-a-las-conducciones-sindicales-aliadas-de-Kicillof, https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-01",
             "horario": "15:00",
-            "lugar": "No especificado",
-            "quien": "CGT y las dos CTA",
+            "lugar": "Congreso Nacional",
+            "quien": "Partido Obrero",
             "tipo_medida": "Movilización",
-            "motivo": "Contra las políticas de Javier Milei, deterioro del empleo, endeudamiento de hogares y jubilaciones congeladas",
-            "fuente": "https://www.infobae.com/politica/2026/09/24/la-cgt-seguira-con-el-plan-de-lucha-cual-es-la-protesta-que-podrian-hacer-antes-de-la-visita-del-papa/, https://www.perfil.com/noticias/politica/la-cgt-marcha-este-miercoles-lanza-un-plan-de-lucha-contra-javier-milei-en-el-inicio-de-una-serie-de-protestas.phtml"
+            "motivo": "Exigir la renuncia de la Corte Suprema y presionar al Congreso para anular decretos",
+            "fuente": "https://www.conclusion.com.ar/politica/romina-del-pla-la-corte-suprema-le-hace-el-trabajo-sucio-a-milei-y-se-tiene-que-ir-con-movilizacion-popular/09/2026/, https://www.mdzol.com/politica/2026/7/22/pese-al-acuerdo-los-fondos-la-cgt-las-cta-y-organizaciones-sociales-marchan-al-congreso-contra-el-gobierno-1968563.html"
         },
         {
             "es_evento_relevante": true,
@@ -16570,6 +16570,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al fallo de la Corte Suprema que mantiene derogación de Ley de Tierras",
             "fuente": "https://www.laizquierdadiario.com/Del-Cano-Hagamos-una-gran-movilizacion-para-tirar-el-fallo-y-el-DNU-70-23-que-entrega-nuestras, https://www.laizquierdadiario.com/Autoconvocatoria-en-Parque-Lezama-preparemos-una-gran-movilizacion-contra-el-fallo-de-la-Corte-y-el"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-02",
+            "horario": "18:00",
+            "lugar": "Place de la República, París",
+            "quien": "Colectivo Argentina en Lucha París",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste, saqueo y represión del gobierno de Milei durante su visita a París",
+            "fuente": "https://www.anred.org/abajo-la-facho-week-manifestacion-en-rechazo-a-la-visita-de-javier-milei-a-paris/"
         },
         {
             "es_evento_relevante": true,
