@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T22:07:55.852426-03:00",
+    "last_updated": "2026-10-01T04:05:51.494285-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16620,6 +16620,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir el pago de USD 200 millones en indemnizaciones para trabajadores de recolección de residuos en la nueva licitación del servicio (2028-2038)",
             "fuente": "https://www.infobae.com/politica/2026/09/30/el-sindicato-de-camioneros-se-movilizara-ante-la-legislatura-portena-para-reclamar-los-usd-200-millones-en-indemnizaciones/, https://www.infobae.com/politica/2026/09/27/la-polemica-ley-moyano-vuelve-a-escena-con-la-nueva-licitacion-para-la-recoleccion-de-residuos-en-caba/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-05",
+            "horario": "No especificado",
+            "lugar": "Congreso Nacional",
+            "quien": "Organizaciones sociales, sindicatos y auto convocados",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al DNU 70/23 que deroga la Ley de Tierras y oposición a la extranjerización de la tierra",
+            "fuente": "https://www.conclusion.com.ar/politica/grabois-cruzo-a-legisladores-libertarios-por-el-fallo-judicial-contra-la-ley-de-tierras-vendepatrias-tienen-la-corte-comprada/09/2026/"
         },
         {
             "es_evento_relevante": true,
