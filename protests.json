@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-30T18:17:39.557657-03:00",
+    "last_updated": "2026-09-30T22:07:55.852426-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16435,21 +16435,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-09-30",
             "horario": "00:00",
-            "lugar": "Universidades nacionales",
-            "quien": "CONADU Histórica",
+            "lugar": "No especificado",
+            "quien": "APPAMIA",
             "tipo_medida": "Paro",
-            "motivo": "Conmemoración del primer mes de la eliminación del programa 'Volver al Trabajo'",
-            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre-articular-las-diferentes-luchas-20269299550, https://www.conclusion.com.ar/gremiales/gremios-docentes-nacionales-anunciaron-un-paro-universitario-de-72-horas-para-la-proxima-semana/09/2026/, https://www.infobae.com/politica/2026/09/26/los-docentes-universitarios-convocaron-a-un-paro-para-la-proxima-semana-podria-durar-entre-48-y-72-horas/"
+            "motivo": "Reclamo de recomposición salarial frente a propuesta insuficiente de PAMI por parte de médicos y odontólogos",
+            "fuente": "https://www.conclusion.com.ar/gremiales/medicos-y-odontologos-de-pami-iniciaron-un-paro-de-72-horas-por-recomposicion-salarial/09/2026/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comenzaron-la-semana-de-paro-y-anticipan-nuevas-medidas-de-fuerza/09/2026/, https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-09-30",
             "horario": "00:00",
-            "lugar": "No especificado",
-            "quien": "Asociaciones de base de CONADU y CONADU Histórica",
+            "lugar": "Universidades nacionales",
+            "quien": "CONADU Histórica",
             "tipo_medida": "Paro",
-            "motivo": "Reclamos salariales y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-comenzaron-la-semana-de-paro-y-anticipan-nuevas-medidas-de-fuerza/09/2026/, https://elciudadanoweb.com/comenzo-el-paro-de-semana-completa-en-la-unr-exigimos-que-se-cumpla-con-la-ley-de-financiamiento/"
+            "motivo": "Conmemoración del primer mes de la eliminación del programa 'Volver al Trabajo'",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre-articular-las-diferentes-luchas-20269299550, https://www.conclusion.com.ar/gremiales/gremios-docentes-nacionales-anunciaron-un-paro-universitario-de-72-horas-para-la-proxima-semana/09/2026/, https://www.infobae.com/politica/2026/09/26/los-docentes-universitarios-convocaron-a-un-paro-para-la-proxima-semana-podria-durar-entre-48-y-72-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -16476,10 +16476,10 @@
             "fecha": "2026-09-30",
             "horario": "15:30",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Izquierda",
+            "quien": "CGT",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo al fallo de la Corte Suprema que habilita la extranjerización de tierras y exigencia de anulación del DNU 70/23 para defender la soberanía nacional",
-            "fuente": "https://www.laizquierdadiario.com/Del-Cano-y-Bregman-Hay-que-hacer-como-el-2x1-y-salir-con-todo-a-las-calles, https://www.perfil.com/noticias/politica/marcha-de-la-bronca-la-izquierda-se-movilizo-contra-milei-y-reclamo-un-nuevo-paro-general.phtml"
+            "motivo": "Rechazo al DNU 70/2023 por considerar que atenta contra la soberanía nacional y la protección de tierras argentinas",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-cruzo-a-la-corte-por-el-fallo-que-dejo-vigente-la-extranjerizacion-de-tierras-de-milei-y-exigio-al-congreso-rechazar-el-dnu-70-2023-la-soberania-no-se-negocia-20269301910, https://www.laizquierdadiario.com/Del-Cano-y-Bregman-Hay-que-hacer-como-el-2x1-y-salir-con-todo-a-las-calles, https://www.perfil.com/noticias/politica/marcha-de-la-bronca-la-izquierda-se-movilizo-contra-milei-y-reclamo-un-nuevo-paro-general.phtml"
         },
         {
             "es_evento_relevante": true,
@@ -16525,6 +16525,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-01",
             "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Partido Obrero",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la renuncia de la Corte Suprema y presionar al Congreso para anular decretos",
+            "fuente": "https://www.conclusion.com.ar/politica/romina-del-pla-la-corte-suprema-le-hace-el-trabajo-sucio-a-milei-y-se-tiene-que-ir-con-movilizacion-popular/09/2026/, https://www.mdzol.com/politica/2026/7/22/pese-al-acuerdo-los-fondos-la-cgt-las-cta-y-organizaciones-sociales-marchan-al-congreso-contra-el-gobierno-1968563.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-01",
+            "horario": "15:00",
             "lugar": "No especificado",
             "quien": "CGT y las dos CTA",
             "tipo_medida": "Movilización",
@@ -16544,12 +16554,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-02",
+            "horario": "11:00",
+            "lugar": "Sede de Aceiteros de García Velloso 791, Rosario",
+            "quien": "CATT Regional Rosario, CTA Autónoma, ATE Rosario, COAD y Aceiteros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo contra aumento de pobreza (23.1% en Gran Rosario), desocupación (11.5%) y deterioro de condiciones de vida, bajo la consigna 'El hambre no espera'",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-hambre-no-espera-organizaciones-sindicales-de-rosario-preparan-un-paro-regional-ante-el-aumento-de-la-pobreza-y-la-desocupacion/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-02",
             "horario": "17:00",
             "lugar": "Parque Lezama",
-            "quien": "Organizaciones Marcha de la Bronca",
-            "tipo_medida": "Reunión organizativa",
-            "motivo": "Preparar respuesta masiva contra la Corte Suprema de Justicia",
-            "fuente": "https://www.laizquierdadiario.com/Autoconvocatoria-en-Parque-Lezama-preparemos-una-gran-movilizacion-contra-el-fallo-de-la-Corte-y-el"
+            "quien": "Organizaciones de la Marcha de la Bronca y PTS-FITU",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte Suprema que mantiene derogación de Ley de Tierras",
+            "fuente": "https://www.laizquierdadiario.com/Del-Cano-Hagamos-una-gran-movilizacion-para-tirar-el-fallo-y-el-DNU-70-23-que-entrega-nuestras, https://www.laizquierdadiario.com/Autoconvocatoria-en-Parque-Lezama-preparemos-una-gran-movilizacion-contra-el-fallo-de-la-Corte-y-el"
         },
         {
             "es_evento_relevante": true,
@@ -16605,11 +16625,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria de la Nación, avenida Julio Roca 651, Capital Federal",
+            "lugar": "Diagonal Sur",
             "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional",
-            "fuente": "https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "tipo_medida": "Marcha",
+            "motivo": "Por la industria nacional",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
