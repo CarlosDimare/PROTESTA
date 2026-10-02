@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-01T21:33:08.421368-03:00",
+    "last_updated": "2026-10-02T03:40:56.662863-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16613,6 +16613,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-03",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Confederación General del Trabajo (CGT)",
+            "tipo_medida": "Manifestación",
+            "motivo": "Repudio a la derogación de la Ley de Tierras y apertura a la extranjerización del territorio",
+            "fuente": "https://www.datagremial.com/informacion-general/derogacion-de-la-ley-de-tierras-la-fja-acuso-a-la-corte-suprema-de-ser-funcional-al-saqueo-de-la-patria-20261019330"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-04",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -16655,11 +16665,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-06",
             "horario": "15:00",
-            "lugar": "Frente a la Corte Suprema de Justicia (Plaza de los Dos Congresos)",
-            "quien": "CTAs (Autónoma y de los Trabajadores), junto a un amplio arco de organizaciones sindicales y sociales",
+            "lugar": "frente a la Corte Suprema",
+            "quien": "CTA Autónoma y CTA de los Trabajadores, junto a sindicatos y organizaciones sociales",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo al fallo de la Corte Suprema que derogó la Ley de Tierras y defensa de la soberanía nacional frente a la extranjerización de tierras",
-            "fuente": "https://estadodealerta.com.ar/las-centrales-gremiales-repudiaron-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras-y-preparan-movilizaciones/"
+            "motivo": "contra el fallo de la Corte Suprema que reactivó la derogación de la Ley de Tierras",
+            "fuente": "https://www.anred.org/se-vuelven-a-encender-las-calles-tras-el-fallo-de-la-corte-que-reactivo-la-extranjerizacion-de-la-tierra/, https://estadodealerta.com.ar/las-centrales-gremiales-repudiaron-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras-y-preparan-movilizaciones/"
         },
         {
             "es_evento_relevante": true,
