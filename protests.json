@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03T14:01:33.173399-03:00",
+    "last_updated": "2026-10-03T16:44:10.791489-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16605,6 +16605,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-03",
             "horario": "17:00",
+            "lugar": "Plaza Libertrans (Mitre y Pasco), Rosario",
+            "quien": "Comunidad LGBTIQNB+ y organizaciones sociales/políticas (Coordinadora del Orgullo)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por derechos LGBTIQNB+, especialmente travesti-trans, y políticas contra la violencia",
+            "fuente": "https://elciudadanoweb.com/rosario-se-viste-de-orgullo-20-anos-de-marcha-memoria-y-lucha-en-las-calles/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-03",
+            "horario": "17:00",
             "lugar": "Monumento a la Bandera, Rosario",
             "quien": "Coordinadora de Organizaciones del Orgullo",
             "tipo_medida": "Marcha",
@@ -16700,6 +16710,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la industria nacional, producción, empleo y salarios",
             "fuente": "https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Lomas de Zamora (UNLZ)",
+            "quien": "FATUN (Federación Argentina de Trabajadores Universitarios No Docentes)",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa de la universidad pública y plan de lucha gremial",
+            "fuente": "https://www.inforegion.com.ar/2026/10/03/universidades-resisten-habra-un-paro-en-la-unlz/"
         },
         {
             "es_evento_relevante": true,
@@ -17001,6 +17021,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a oferta de aumento cero y reclamo de revisión salarial acorde a inflación y SMVM",
             "fuente": "https://www.datagremial.com/paritarias/dictan-la-conciliacion-obligatoria-en-la-huelga-aceitera-pedimos-un-salario-conforme-a-las-necesidades--20265281400, https://pregon.me/aceiteros-iran-a-un-paro-nacional-tras-rechazar-la-oferta-salarial-de-la-patronal/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "08:00",
+            "lugar": "Región de Rosario",
+            "quien": "Sindicato de Dragado y Balizamiento, Coad, Ate Rosario, Recolectores Rosario, Siconara, Sutpa, Aceiteros Rosario, Siprus, Centro Cultural La Toma, CCC",
+            "tipo_medida": "Paro",
+            "motivo": "Contra la pobreza (20%), desocupación (11%), precarización laboral, muertes en el trabajo, modelo económico que genera desigualdad y falta de industria nacional",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/sindicatos-y-organizaciones-sociales-se-reunieron-de-cara-a-un-posible-paro-regional-queremos-sumar-mas-gremios/10/2026/, https://www.conclusion.com.ar/gremiales/dragado-y-balizamiento-se-moviliza-en-el-puerto-de-rosario-tras-denunciar-un-saqueo/04/2026/"
         },
         {
             "es_evento_relevante": true,
