@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02T22:42:58.138267-03:00",
+    "last_updated": "2026-10-03T04:30:37.054304-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16665,6 +16665,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-06",
             "horario": "15:00",
+            "lugar": "Plaza Lavalle (Talcahuano 550), Ciudad de Buenos Aires",
+            "quien": "Centro de ex combatientes de Malvinas (CECIM), CTA Autónoma y CTA de las y los Trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al fallo de la Corte Suprema que habilita el DNU 70/2023 de Milei, derogando la Ley de Tierras y permitiendo la venta de tierras nacionales, lagos y fuentes de agua, bajo la consigna 'la patria no se vende: la soberanía tampoco'",
+            "fuente": "https://www.conclusion.com.ar/gremiales/ex-combatientes-de-malvinas-y-las-dos-cta-movilizaran-el-martes-contra-el-fallo-de-la-corte-por-la-ley-de-tierras/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "15:00",
             "lugar": "frente a la Corte Suprema",
             "quien": "CTA Autónoma y CTA de los Trabajadores, junto a sindicatos y organizaciones sociales",
             "tipo_medida": "Movilización",
@@ -16675,11 +16685,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Diagonal Sur",
+            "lugar": "Diagonal Sur, Buenos Aires",
             "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Por la industria nacional",
-            "fuente": "https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la industria nacional",
+            "fuente": "https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -17086,11 +17096,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "17:00",
-            "lugar": "Congreso Nacional, Buenos Aires",
+            "lugar": "Organismos públicos afectados",
             "quien": "ATE (Asociación de Trabajadores del Estado)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Contra despidos en la CNEA, política de ajuste del gobierno, reclamo por salarios congelados y oposición a privatizaciones",
-            "fuente": "https://www.conclusion.com.ar/gremiales/ate-cuestiono-el-ajuste-del-gobierno-rechazo-las-cifras-oficiales-de-despidos-y-advirtio-por-un-nuevo-paro-nacional/07/2026/, https://elciudadanoweb.com/tras-el-dato-de-inflacion-en-ascenso-desde-ate-culparon-al-gobierno-de-milei-es-el-artifice-de-una-pesadilla-economica/, https://www.laizquierdadiario.com/Fuera-el-imperialismo-yanqui-de-Venezuela-Por-la-movilizacion-continental-e-internacional-contra-la, https://www.laizquierdadiario.com/Multitudinaria-marcha-Bolivia-no-se-vende, https://www.datagremial.com/informacion-general/la-clate-condeno-la-invasion-de-estados-unidos-contra-venezuela-y-llamo-a-la-movilizacion-regional-20261318430, https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales, https://www.infobae.com/politica/2025/11/28/ate-convoco-a-un-paro-nacional-y-movilizacion-para-el-dia-en-que-se-trate-la-reforma-laboral/, https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
+            "tipo_medida": "Medidas de fuerza",
+            "motivo": "Rechazo a despidos encubiertos y achique del Estado",
+            "fuente": "https://www.infobae.com/politica/2026/10/03/sigue-la-motosierra-el-gobierno-prepara-un-decreto-con-un-plan-de-retiros-voluntarios-para-empleados-publicos/, https://www.conclusion.com.ar/gremiales/ate-cuestiono-el-ajuste-del-gobierno-rechazo-las-cifras-oficiales-de-despidos-y-advirtio-por-un-nuevo-paro-nacional/07/2026/, https://elciudadanoweb.com/tras-el-dato-de-inflacion-en-ascenso-desde-ate-culparon-al-gobierno-de-milei-es-el-artifice-de-una-pesadilla-economica/, https://www.laizquierdadiario.com/Fuera-el-imperialismo-yanqui-de-Venezuela-Por-la-movilizacion-continental-e-internacional-contra-la, https://www.laizquierdadiario.com/Multitudinaria-marcha-Bolivia-no-se-vende, https://www.datagremial.com/informacion-general/la-clate-condeno-la-invasion-de-estados-unidos-contra-venezuela-y-llamo-a-la-movilizacion-regional-20261318430, https://estadodealerta.com.ar/mesa-sindical-ironiza-las-mediciones-del-indec-gobierno-mentime-con-la-inflacion-el-dibujo-oficial/, https://www.laizquierdadiario.com/La-Justicia-anulo-el-Protocolo-Antipiquetes-por-ilegal-y-lo-resucito-en-24-horas, https://otrasvoceseneducacion.org/archivos/tag/dirigentes-sindicales, https://www.infobae.com/politica/2025/11/28/ate-convoco-a-un-paro-nacional-y-movilizacion-para-el-dia-en-que-se-trate-la-reforma-laboral/, https://www.pagina12.com.ar/856885-con-un-fuerte-operativo-policial-jubilados-y-jubiladas-vuelv, https://www.infobae.com/politica/2025/04/09/el-mapa-de-la-marcha-de-la-cgt-movimientos-sociales-y-piqueteros-en-apoyo-a-los-reclamos-de-los-jubilados-y-contra-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
