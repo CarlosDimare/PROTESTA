@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-02T19:53:28.483683-03:00",
+    "last_updated": "2026-10-02T22:42:58.138267-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16754,6 +16754,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
+            "horario": "13:30",
+            "lugar": "Congreso de la Nación (Ciudad de Buenos Aires)",
+            "quien": "Federación de Docentes de las Universidades (FEDUN)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la educación, soberanía y democracia; cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial docente, actualización de becas y recursos para universidades públicas",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
             "horario": "La hora de inicio del evento de protesta es **12:00**.  \n\n**Explicación:**  \nEl texto indica claramente: *\"La marcha convocada para este jueves 6 de agosto frente al Congreso comenzará a las 12 del mediodía\"*.  \n- **Formato:** HH:MM (12:00).  \n- **Ubicación:** Plaza de los Dos Congresos.",
             "lugar": "Congreso de la Nación Argentina",
             "quien": "Diversos sectores sociales, sindicales y estudiantiles",
@@ -16764,22 +16774,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
+            "horario": "La hora de inicio del evento de protesta es **15:00**.",
+            "lugar": "No especificado",
+            "quien": "Autoconvocatoria Coordinar la Bronca",
+            "tipo_medida": "Paro general",
+            "motivo": "Contra el fallo de la Corte Suprema y el DNU 70/23, que derogó la Ley de Tierras y afectó derechos laborales, alquileres, salud y regulaciones económicas",
+            "fuente": "https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "Movimiento estudiantil universitario",
             "tipo_medida": "Marcha",
             "motivo": "Exigir cumplimiento de la ley de financiamiento de la educación superior ante la negativa oficial",
             "fuente": "https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Comunidad universitaria (docentes, estudiantes y no docentes)",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la ley de financiamiento universitario y fallos judiciales por parte del Gobierno",
-            "fuente": "https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/"
         },
         {
             "es_evento_relevante": true,
