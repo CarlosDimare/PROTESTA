@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03T23:23:45.693145-03:00",
+    "last_updated": "2026-10-04T06:20:57.972903-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16697,9 +16697,9 @@
             "horario": "15:30",
             "lugar": "Diagonal Sur, Buenos Aires",
             "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional",
-            "fuente": "https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de la industria",
+            "fuente": "https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -16720,6 +16720,16 @@
             "tipo_medida": "Paro",
             "motivo": "Defensa de la universidad pública y plan de lucha gremial",
             "fuente": "https://www.inforegion.com.ar/2026/10/03/universidades-resisten-habra-un-paro-en-la-unlz/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-09",
+            "horario": "15:30",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "En defensa de la industria",
+            "fuente": "https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/, https://www.mdzol.com/politica/2026/9/29/la-cgt-se-movilizara-el-8-octubre-y-ahora-no-habra-un-nuevo-paro-nacional-1984356.html"
         },
         {
             "es_evento_relevante": true,
