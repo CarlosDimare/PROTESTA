@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-03T19:47:23.221599-03:00",
+    "last_updated": "2026-10-03T23:23:45.693145-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16604,6 +16604,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-03",
+            "horario": "16:00",
+            "lugar": "No especificado",
+            "quien": "Movilización de izquierda (coordinación de fuerzas como FITU, MST, PO, IS y Autodeterminación y Libertad)",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el fallo de la Corte que libera la extranjerización de tierras mediante la rehabilitación del DNU 70/23",
+            "fuente": "https://www.laizquierdadiario.com/Debates-y-desafios-luego-de-la-Marcha-de-la-Bronca, https://www.datagremial.com/informacion-general/derogacion-de-la-ley-de-tierras-la-fja-acuso-a-la-corte-suprema-de-ser-funcional-al-saqueo-de-la-patria-20261019330, https://www.elimparcial.com/mexico/2026/10/01/marcha-del-2-de-octubre-2026-a-que-hora-y-donde-sera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-03",
             "horario": "17:00",
             "lugar": "Plaza Libertrans (Mitre y Pasco), Rosario",
             "quien": "Comunidad LGBTIQNB+ y organizaciones sociales/políticas (Coordinadora del Orgullo)",
@@ -16620,16 +16630,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir justicia por el travesticidio de Gabriela Banach, reclamar la Ley Integral Trans y visibilizar violencias contra identidades disidentes",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/comenzo-la-semana-del-orgullo-rumbo-a-la-20-marcha-en-rosario/09/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-03",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Manifestación",
-            "motivo": "Repudio a la derogación de la Ley de Tierras y apertura a la extranjerización del territorio",
-            "fuente": "https://www.datagremial.com/informacion-general/derogacion-de-la-ley-de-tierras-la-fja-acuso-a-la-corte-suprema-de-ser-funcional-al-saqueo-de-la-patria-20261019330"
         },
         {
             "es_evento_relevante": true,
