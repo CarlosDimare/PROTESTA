@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-04T06:20:57.972903-03:00",
+    "last_updated": "2026-10-04T12:10:46.508772-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16815,11 +16815,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "La hora de inicio del evento de protesta es **15:00**.",
-            "lugar": "No especificado",
-            "quien": "Autoconvocatoria Coordinar la Bronca",
-            "tipo_medida": "Paro general",
-            "motivo": "Contra el fallo de la Corte Suprema y el DNU 70/23, que derogó la Ley de Tierras y afectó derechos laborales, alquileres, salud y regulaciones económicas",
-            "fuente": "https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/"
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento universitario federal",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la universidad pública y gratuita frente a recortes presupuestarios",
+            "fuente": "https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
@@ -16830,16 +16830,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la universidad pública y gratuita, mejora salarial docente y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "No especificado",
-            "lugar": "Congreso Nacional",
-            "quien": "Movimiento estudiantil universitario",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la ley de financiamiento de la educación superior ante la negativa oficial",
-            "fuente": "https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
