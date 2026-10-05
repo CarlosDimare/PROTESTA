@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-04T22:32:08.214595-03:00",
+    "last_updated": "2026-10-05T05:08:49.152702-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16710,6 +16710,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de la industria nacional, producción, empleo y salarios",
             "fuente": "https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "17:00",
+            "lugar": "Plaza Libertad (Mitre y Pasco) hasta Monumento Nacional a la Bandera",
+            "quien": "Comunidad LGBTIQNB+ y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra travesticidios, reclamo de Ley Integral Trans, acceso a empleo/salud/educación, emergencia habitacional y políticas públicas para derechos",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/con-una-agenda-plagada-de-actividades-rosario-conmemoro-la-20o-edicion-de-la-marcha-del-orgullo/10/2026/"
         },
         {
             "es_evento_relevante": true,
