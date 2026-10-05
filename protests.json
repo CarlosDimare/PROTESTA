@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-05T14:45:13.971044-03:00",
+    "last_updated": "2026-10-05T20:41:01.468947-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16664,6 +16664,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-05",
+            "horario": "16:00",
+            "lugar": "Tribunales, Capital Federal",
+            "quien": "CTA-Autónoma, CTA de las y los Trabajadores (CTA-T), Frente de la Izquierda de los Trabajadores (FIT) y organizaciones sociales/ambientalistas",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte Suprema que permite la extranjerización de tierras y exigencia de derogación del DNU 70/23 por considerarlo inconstitucional",
+            "fuente": "https://www.conclusion.com.ar/politica/gremios-ambientalistas-y-organizaciones-sociales-movilizaran-este-martes-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-05",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "Organizaciones sociales, sindicatos y auto convocados",
@@ -16690,6 +16700,26 @@
             "tipo_medida": "Movilización",
             "motivo": "contra el fallo de la Corte Suprema que reactivó la derogación de la Ley de Tierras",
             "fuente": "https://www.anred.org/se-vuelven-a-encender-las-calles-tras-el-fallo-de-la-corte-que-reactivo-la-extranjerizacion-de-la-tierra/, https://estadodealerta.com.ar/las-centrales-gremiales-repudiaron-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras-y-preparan-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "19:00",
+            "lugar": "Línea A del Subte, Ciudad Autónoma de Buenos Aires",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subterráneo y Premetro)",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra descuentos ilegales de salarios aplicados por Emova a pesar de fallos judiciales adversos para la empresa",
+            "fuente": "https://www.laizquierdadiario.com/Realizan-paro-en-el-subte-contra-descuentos-ilegales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
+            "horario": "10:00",
+            "lugar": "Superior Tribunal de Justicia de Formosa",
+            "quien": "Asociación Judicial de Formosa (AJUFSA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo salarial y denuncia de aumentos a la cúpula judicial",
+            "fuente": "https://www.datagremial.com/paritarias/judiciales-de-mendoza-tierra-del-fuego-formosa-y-nacion-van-al-paro-contra-el-ajuste-salarial-y-la-perdida-de-derechos-202610518240"
         },
         {
             "es_evento_relevante": true,
@@ -16810,6 +16840,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la educación, soberanía y democracia; cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial docente, actualización de becas y recursos para universidades públicas",
             "fuente": "https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "16:00",
+            "lugar": "Tribunales federales de la Ciudad de Buenos Aires",
+            "quien": "Organizaciones de la Marcha de la Bronca",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el DNU 70/23 (extranjerización de tierras, aumento de alquileres y tasas, ajuste económico)",
+            "fuente": "https://www.laizquierdadiario.com/Este-martes-a-las-calles-contra-el-fallo-de-la-Corte-y-el-DNU-70-23-a-las-16h-en-Tribunales"
         },
         {
             "es_evento_relevante": true,
