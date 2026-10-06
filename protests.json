@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T01:20:47.820859-03:00",
+    "last_updated": "2026-10-06T08:43:20.482221-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16680,6 +16680,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al DNU 70/23 que deroga la Ley de Tierras y oposición a la extranjerización de la tierra",
             "fuente": "https://www.conclusion.com.ar/politica/grabois-cruzo-a-legisladores-libertarios-por-el-fallo-judicial-contra-la-ley-de-tierras-vendepatrias-tienen-la-corte-comprada/09/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "13:30",
+            "lugar": "Ministerio de Capital Humano (ex Desarrollo Social)",
+            "quien": "70 organizaciones sociales, territoriales y piqueteras",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de ajuste del gobierno y fallo de Corte Suprema sobre tierras rurales, en defensa de programas sociales como Volver al Trabajo y comedores populares",
+            "fuente": "https://www.anred.org/organizaciones-sociales-marchan-a-la-corte-contra-el-ajuste-y-por-la-recuperacion-de-la-ley-de-tierras/"
         },
         {
             "es_evento_relevante": true,
