@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-05T20:41:01.468947-03:00",
+    "last_updated": "2026-10-06T01:20:47.820859-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16700,6 +16700,16 @@
             "tipo_medida": "Movilización",
             "motivo": "contra el fallo de la Corte Suprema que reactivó la derogación de la Ley de Tierras",
             "fuente": "https://www.anred.org/se-vuelven-a-encender-las-calles-tras-el-fallo-de-la-corte-que-reactivo-la-extranjerizacion-de-la-tierra/, https://estadodealerta.com.ar/las-centrales-gremiales-repudiaron-el-fallo-de-la-corte-suprema-sobre-la-ley-de-tierras-y-preparan-movilizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "16:00",
+            "lugar": "Tribunales de la Ciudad de Buenos Aires",
+            "quien": "CTA-A, CTA-T, FIT y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al fallo de la Corte sobre extranjerización de tierras y derogación del DNU 70/23",
+            "fuente": "https://elciudadanoweb.com/ley-de-tierras-organizaciones-politicas-sociales-y-gremiales-se-movilizan-en-contra-del-fallo-de-la-corte/"
         },
         {
             "es_evento_relevante": true,
