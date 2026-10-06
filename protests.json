@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T14:49:43.589356-03:00",
+    "last_updated": "2026-10-06T19:13:21.276689-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16684,6 +16684,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-06",
+            "horario": "11:00",
+            "lugar": "No especificado",
+            "quien": "Estudiantes secundarios, universitarios y trabajadores",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra políticas de ajuste y por mejores condiciones de vida y estudio",
+            "fuente": "https://www.laizquierdadiario.com/Francia-los-universitarios-se-suman-a-las-protestas-de-los-secundarios, https://www.infobae.com/politica/2026/10/06/pablo-moyano-amenaza-con-un-paro-total-en-la-recoleccion-de-residuos-a-la-indemnizacion-la-vamos-a-defender-con-nuestra-vida/, https://www.chilevision.cl/noticias/nacional/reportan-desvios-en-la-alameda-por-marcha-de-estudiantes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
             "horario": "13:30",
             "lugar": "Ministerio de Capital Humano (ex Desarrollo Social)",
             "quien": "70 organizaciones sociales, territoriales y piqueteras",
@@ -16734,22 +16744,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-06",
+            "horario": "17:30",
+            "lugar": "Técnica 1 de Escobar",
+            "quien": "Familias, docentes y estudiantes de la comunidad educativa",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el cese de clases y fumigación ante la crisis sanitaria por roedores",
+            "fuente": "https://www.laizquierdadiario.com/Tecnica-1-de-Escobar-ratas-abandono-y-policia-ante-el-reclamo-de-las-familias"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
             "horario": "19:00",
             "lugar": "Línea A del Subte, Ciudad Autónoma de Buenos Aires",
             "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subterráneo y Premetro)",
             "tipo_medida": "Paro",
             "motivo": "Protesta contra descuentos ilegales de salarios aplicados por Emova a pesar de fallos judiciales adversos para la empresa",
             "fuente": "https://www.laizquierdadiario.com/Realizan-paro-en-el-subte-contra-descuentos-ilegales"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-06",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Sindicato de Camioneros",
-            "tipo_medida": "Paro total",
-            "motivo": "Exigir el pago de indemnizaciones por USD 200 millones a trabajadores de recolección de residuos, excluidas en los nuevos contratos del gobierno porteño",
-            "fuente": "https://www.infobae.com/politica/2026/10/06/pablo-moyano-amenaza-con-un-paro-total-en-la-recoleccion-de-residuos-a-la-indemnizacion-la-vamos-a-defender-con-nuestra-vida/"
         },
         {
             "es_evento_relevante": true,
@@ -16864,6 +16874,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
+            "horario": "**15:30**",
+            "lugar": "Tribunales federales (sede de la Corte Suprema de Justicia), Ciudad de Buenos Aires",
+            "quien": "Coordinación de la Marcha de la Bronca (cientos de organizaciones)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el DNU 70/23 (extranjerización de tierras, aumento de alquileres y tasas) y en rechazo al plan de ajuste de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Tribunales-concentracion-contra-el-fallo-de-la-Corte-y-el-DNU-70-23, https://www.infobae.com/politica/2026/09/17/el-mapa-de-la-marcha-de-la-bronca-los-cortes-y-los-puntos-de-concentracion-el-gobierno-aplicara-el-protocolo-antipiquetes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Comunidad universitaria y organizaciones sociales/gremiales",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a la derogación de la Ley de Tierras por parte de la Corte Suprema",
+            "fuente": "https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
             "horario": "10:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
             "quien": "Consejo Interuniversitario Nacional (CIN)",
@@ -16930,16 +16960,6 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al DNU 70/23 y al fallo de la Corte Suprema",
             "fuente": "https://www.laizquierdadiario.com/Parque-Lezama-asamblea-prepara-una-gran-movilizacion-contra-la-Corte-Suprema-y-el-DNU-70-2023, https://www.mdzol.com/sociedad/2026/8/6/marcha-el-congreso-que-hora-arranca-la-movilizacion-y-como-sera-el-operativo-seguridad-1971902.html"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "La hora de inicio del evento de protesta es **15:00**.",
-            "lugar": "Congreso Nacional",
-            "quien": "Colectivos universitarios",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa de la universidad pública y gratuita ante recortes presupuestales",
-            "fuente": "https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
