@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T08:43:20.482221-03:00",
+    "last_updated": "2026-10-06T14:49:43.589356-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16715,6 +16715,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-06",
             "horario": "16:00",
+            "lugar": "Palacio de Justicia (Corte Suprema de Justicia de la Nación), Comodoro Py 200, Ciudad Autónoma de Buenos Aires",
+            "quien": "CTA Autónoma, CTA de los Trabajadores, CECIM La Plata y organismos de Derechos Humanos",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al fallo de la Corte Suprema que rehabilitó el DNU 70/23 que deroga la Ley de Tierras, y exigencia al Congreso para que rechace definitivamente el decreto",
+            "fuente": "https://www.datagremial.com/informacion-general/previo-a-la-marcha-matias-fachal-cruzo-fuerte-a-la-corte-suprema-no-defiende-los-intereses-de-quienes-vivimos-en-la-argentina-20261068430"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "16:00",
             "lugar": "Tribunales de la Ciudad de Buenos Aires",
             "quien": "CTA-A, CTA-T, FIT y organizaciones sociales",
             "tipo_medida": "Movilización",
@@ -16733,6 +16743,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-06",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Paro total",
+            "motivo": "Exigir el pago de indemnizaciones por USD 200 millones a trabajadores de recolección de residuos, excluidas en los nuevos contratos del gobierno porteño",
+            "fuente": "https://www.infobae.com/politica/2026/10/06/pablo-moyano-amenaza-con-un-paro-total-en-la-recoleccion-de-residuos-a-la-indemnizacion-la-vamos-a-defender-con-nuestra-vida/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-07",
             "horario": "10:00",
             "lugar": "Superior Tribunal de Justicia de Formosa",
@@ -16740,6 +16760,36 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo salarial y denuncia de aumentos a la cúpula judicial",
             "fuente": "https://www.datagremial.com/paritarias/judiciales-de-mendoza-tierra-del-fuego-formosa-y-nacion-van-al-paro-contra-el-ajuste-salarial-y-la-perdida-de-derechos-202610518240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
+            "horario": "12:00",
+            "lugar": "Candelária, centro de Río de Janeiro",
+            "quien": "Asociaciones estudiantiles y sindicatos",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra Flávio Bolsonaro y la ultraderecha",
+            "fuente": "https://www.laizquierdadiario.com/Estudiantes-y-trabajadores-convocan-una-marcha-contra-Bolsonaro-y-la-derecha-este-martes-en-Rio-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
+            "horario": "15:00",
+            "lugar": "Ex Ministerio de Producción (Buenos Aires)",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Denuncia crisis industrial y pérdida de empleos bajo el gobierno de Milei/Caputo",
+            "fuente": "https://www.datagremial.com/informacion-general/antes-de-marchar-la-cgt-apunto-contra-el-modelo-de-persianas-bajas-de-milei-y-caputo-20261069340, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
+            "horario": "16:00",
+            "lugar": "Tribunales",
+            "quien": "CTA Autónoma, CTA de los Trabajadores y Frente de Izquierda de los Trabajadores (FIT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Apoyo a la vigencia de la Ley de Tierras y rechazo al DNU 70/23 por considerarlo inconstitucional",
+            "fuente": "https://elciudadanoweb.com/organizaciones-marcharan-por-la-ley-de-tierras-y-en-reclamo-de-que-se-derogue-el-dnu-70-23/"
         },
         {
             "es_evento_relevante": true,
@@ -17241,6 +17291,16 @@
             "tipo_medida": "Marcha Federal Universitaria",
             "motivo": "Reclamo por recomposición salarial, convocatoria a paritarias y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.datagremial.com/informacion-general/paro-universitario-fedun-relevo-un-acatamiento-casi-total-en-todo-el-pais-y-anticipo-nuevas-medidas-202692312250, https://www.infogremiales.com.ar/el-frente-sindical-de-universidades-convoco-a-realizar-clases-publicas-frente-a-tribunales-de-todo-el-pais-para-visibilizar-el-reclamo-por-salarios-y-presupuesto/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "No especificado",
+            "lugar": "Estado español",
+            "quien": "CCOO y UGT",
+            "tipo_medida": "Huelga general",
+            "motivo": "Salarios y vivienda",
+            "fuente": "https://www.laizquierdadiario.com/Estado-espanol-por-las-masivas-movilizaciones-las-grandes-centrales-sindicales-anunciaron-un-paro-general"
         },
         {
             "es_evento_relevante": true,
