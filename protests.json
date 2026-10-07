@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T13:03:28.469367-03:00",
+    "last_updated": "2026-10-07T18:07:01.152065-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16800,6 +16800,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Debate sobre Ley de Tierras, DNU 70/2023 y políticas sociales",
             "fuente": "https://www.conclusion.com.ar/politica/monica-frade-pidio-una-movilizacion-masiva-en-defensa-de-la-ley-de-tierras/10/2026/, https://www.cba24n.com.ar/argentina/la-marcha-federal-universitaria-marchara-al-congreso-de-la-nacion_a6abee317407f37cb3adbaade"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
+            "horario": "15:00",
+            "lugar": "Palacio de los Tribunales de Justicia",
+            "quien": "Gremios, organizaciones sociales, de Derechos Humanos y el CECIM",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar contra el fallo de la Ley de Tierras y la nulidad del artículo 154 del DNU 70/23",
+            "fuente": "https://motoreconomico.com.ar/la-corte-abre-la-puerta-a-un-nuevo-fallo-sobre-ley-de-tierras/, https://diariohoy.net/politica/excombatientes-gremios-y-organizaciones-marchan-en-defensa-de-la-soberania-288818"
         },
         {
             "es_evento_relevante": true,
