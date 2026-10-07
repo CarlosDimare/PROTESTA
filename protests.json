@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T05:11:15.876189-03:00",
+    "last_updated": "2026-10-07T13:03:28.469367-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16774,6 +16774,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-07",
+            "horario": "11:00",
+            "lugar": "Centro de CABA",
+            "quien": "Médicas y médicos residentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de condiciones salariales y laborales",
+            "fuente": "https://www.laizquierdadiario.com/Paro-y-movilizacion-de-trabajadores-de-la-Salud-en-CABA, https://dataconurbano.net/politica/conflicto-en-la-salud-publica-residentes-y-concurrentes-paran-en-caba-y-la-provincia-de-buenos-aires-por-recomposicion-salarial/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
             "horario": "12:00",
             "lugar": "Candelária, centro de Río de Janeiro",
             "quien": "Asociaciones estudiantiles y sindicatos",
@@ -16846,10 +16856,10 @@
             "fecha": "2026-10-08",
             "horario": "No especificado",
             "lugar": "Universidad Nacional de Lomas de Zamora (UNLZ)",
-            "quien": "FATUN (Federación Argentina de Trabajadores Universitarios No Docentes)",
+            "quien": "FATUN (Federación Argentina de Trabajadores de la Universidad Nacional)",
             "tipo_medida": "Paro",
-            "motivo": "Defensa de la universidad pública y plan de lucha gremial",
-            "fuente": "https://www.inforegion.com.ar/2026/10/03/universidades-resisten-habra-un-paro-en-la-unlz/"
+            "motivo": "Plan de lucha por reclamos laborales en el marco de medidas escalonadas universitarias y previo a la marcha federal del 15 de octubre",
+            "fuente": "https://www.inforegion.com.ar/2026/10/07/el-jueves-habra-un-paro-en-la-universidad-nacional-de-lomas-de-zamora/, https://www.inforegion.com.ar/2026/10/03/universidades-resisten-habra-un-paro-en-la-unlz/"
         },
         {
             "es_evento_relevante": true,
@@ -16884,6 +16894,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
+            "horario": "**14:30**",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Colectivo universitario (docentes y estudiantes)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por financiamiento universitario, cumplimiento de acuerdos paritarios y actualización salarial/becas",
+            "fuente": "https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
             "horario": "**15:30**",
             "lugar": "Tribunales federales (sede de la Corte Suprema de Justicia), Ciudad de Buenos Aires",
             "quien": "Coordinación de la Marcha de la Bronca (cientos de organizaciones)",
@@ -16896,20 +16916,20 @@
             "fecha": "2026-10-15",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Frente de Izquierda de Trabajadores (FIT)",
+            "quien": "CTA de los Trabajadores, CTA Autónoma, Mesa de Organismos de Derechos Humanos (APDH), Mesa Ecuménica, Partido Piquetero, Unidad Popular, Barrios de Pie, Unión de Trabajadores de la Tierra (UTT), CONADU, CONADU Histórica, CTERA, SERPAJ, CECIM La Plata",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo masivo al DNU 70/23 por extranjerización de tierras y defensa de soberanía nacional",
-            "fuente": "https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
+            "motivo": "Reclamar la nulidad del DNU 70/2023 por considerarlo inconstitucional y contrario a la soberanía nacional, en rechazo al fallo de la Corte Suprema que permite la extranjerización de la tierra",
+            "fuente": "https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
             "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Consejo Interuniversitario Nacional (CIN)",
+            "quien": "Frente Sindical de Universidades Nacionales (FEDUN)",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario y rechazo a aumentos salariales del 3%",
-            "fuente": "https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/"
+            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y mejorar salarios y recursos",
+            "fuente": "https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
         },
         {
             "es_evento_relevante": true,
@@ -16930,16 +16950,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste presupuestario 2027, reclamo por el cumplimiento de la Ley de Financiamiento Universitario y exigencia de recomposición salarial del 35%",
             "fuente": "https://elciudadanoweb.com/se-viene-la-quinta-marcha-federal-universitaria-ante-los-incumplimientos-legales-del-gobierno/, https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "11:00",
-            "lugar": "Plaza de Mayo",
-            "quien": "Frente Sindical de Universidades Nacionales",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir aplicación de la Ley de Financiamiento Universitaria y recomposición salarial del 33,4%",
-            "fuente": "https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
         },
         {
             "es_evento_relevante": true,
