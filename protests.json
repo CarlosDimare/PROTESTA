@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T19:13:21.276689-03:00",
+    "last_updated": "2026-10-06T23:01:26.444674-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16784,6 +16784,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-07",
+            "horario": "13:30",
+            "lugar": "Congreso Nacional",
+            "quien": "Marcha Federal Universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Debate sobre Ley de Tierras, DNU 70/2023 y políticas sociales",
+            "fuente": "https://www.conclusion.com.ar/politica/monica-frade-pidio-una-movilizacion-masiva-en-defensa-de-la-ley-de-tierras/10/2026/, https://www.cba24n.com.ar/argentina/la-marcha-federal-universitaria-marchara-al-congreso-de-la-nacion_a6abee317407f37cb3adbaade"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-07",
             "horario": "15:00",
             "lugar": "Ex Ministerio de Producción (Buenos Aires)",
             "quien": "CGT",
@@ -16886,10 +16896,10 @@
             "fecha": "2026-10-15",
             "horario": "10:00",
             "lugar": "Congreso Nacional",
-            "quien": "Comunidad universitaria y organizaciones sociales/gremiales",
+            "quien": "Frente de Izquierda de Trabajadores (FIT)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a la derogación de la Ley de Tierras por parte de la Corte Suprema",
-            "fuente": "https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
+            "motivo": "Rechazo masivo al DNU 70/23 por extranjerización de tierras y defensa de soberanía nacional",
+            "fuente": "https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
