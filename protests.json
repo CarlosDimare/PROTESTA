@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-06T23:01:26.444674-03:00",
+    "last_updated": "2026-10-07T05:11:15.876189-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16815,21 +16815,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Diagonal Sur, Buenos Aires",
-            "quien": "CGT",
+            "lugar": "Plaza de Mayo, Buenos Aires",
+            "quien": "Confederación General del Trabajo (CGT)",
             "tipo_medida": "Marcha",
-            "motivo": "En defensa de la industria",
-            "fuente": "https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "motivo": "Defensa de la industria nacional",
+            "fuente": "https://www.infobae.com/politica/2026/10/07/tierras-industria-y-universidades-los-reclamos-y-protestas-de-sindicatos-y-piqueteros-previstos-para-octubre/, https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria, Comercio y PyME, sobre Diagonal Sur (Julio A. Roca al 600)",
-            "quien": "Confederación General del Trabajo (CGT)",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional, producción, empleo y salarios",
-            "fuente": "https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
+            "lugar": "Diagonal Sur, Buenos Aires",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "En defensa de la industria",
+            "fuente": "https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -16940,6 +16940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir aplicación de la Ley de Financiamiento Universitaria y recomposición salarial del 33,4%",
             "fuente": "https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "12:00",
+            "lugar": "No especificado",
+            "quien": "ATE Rosario y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Derogación del DNU 70/2023 y rechazo a la extranjerización de tierras",
+            "fuente": "https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html"
         },
         {
             "es_evento_relevante": true,
