@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T13:07:42.963874-03:00",
+    "last_updated": "2026-10-08T18:22:33.766585-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16875,11 +16875,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria de la Nación, avenida Julio Roca 651, Buenos Aires",
+            "lugar": "Secretaría de Industria de la Nación, Avenida Julio Roca 651",
             "quien": "CGT",
             "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional y crítica al rumbo económico del gobierno",
-            "fuente": "https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/, https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "motivo": "Defensa de la industria nacional, críticas al rumbo económico del gobierno y políticas del FMI",
+            "fuente": "https://www.infobae.com/politica/2026/10/08/la-cgt-se-moviliza-en-defensa-de-la-industria-el-duro-documento-que-se-leera-en-el-acto-central/, https://estadodealerta.com.ar/la-cgt-marcha-en-defensa-de-la-industria-nacional-mientras-la-produccion-automotriz-acumula-una-caida-del-169/, https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/, https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -16980,6 +16980,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el DNU 70/23 (extranjerización de tierras, aumento de alquileres y tasas) y en rechazo al plan de ajuste de Milei",
             "fuente": "https://www.laizquierdadiario.com/Tribunales-concentracion-contra-el-fallo-de-la-Corte-y-el-DNU-70-23, https://www.infobae.com/politica/2026/09/17/el-mapa-de-la-marcha-de-la-bronca-los-cortes-y-los-puntos-de-concentracion-el-gobierno-aplicara-el-protocolo-antipiquetes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
+            "lugar": "Rosario",
+            "quien": "Gremio de docentes universitarios (Coad) y Conadu",
+            "tipo_medida": "Marcha y Paro",
+            "motivo": "Rechazo al decreto 759/2025 que suspende financiamiento universitario y protesta contra políticas de ajuste del gobierno de Milei",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-universitarios-preparan-un-paro-regional-junto-a-otros-gremios-para-rechazar-el-ajuste-de-milei/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17347,10 +17357,10 @@
             "fecha": "No especificado",
             "horario": "11:00",
             "lugar": "No especificado",
-            "quien": "CGT Rosario y UOM",
-            "tipo_medida": "Movilización y paro regional",
-            "motivo": "Defender los puestos de trabajo de Electrolux y el cordón industrial de Rosario",
-            "fuente": "https://www.conclusion.com.ar/gremiales/dictaron-la-conciliacion-obligatoria-en-electrolux-hasta-el-20-de-octubre-la-cgt-rosario-anticipa-paros-regionales/09/2026/, https://www.infobae.com/politica/2026/09/20/la-izquierda-se-movilizo-en-la-marcha-de-la-bronca-el-amor-vence-al-odio-pero-mejor-es-la-huelga-general/, https://www.infobae.com/politica/2026/09/17/el-gobierno-vuelve-a-convocar-a-los-gremios-universitarios-y-hay-expectativa-de-mas-paros-por-la-falta-de-acuerdos/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+            "quien": "Gremios docentes",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la educación pública, salarios dignos y derechos laborales",
+            "fuente": "https://infonoroeste.com.ar/nota/55290/docentes-bonaerenses-pararan-durante-la-jornada-nacional-de-protesta-por-salarios-y-fondos-para-educacion/, https://www.conclusion.com.ar/gremiales/dictaron-la-conciliacion-obligatoria-en-electrolux-hasta-el-20-de-octubre-la-cgt-rosario-anticipa-paros-regionales/09/2026/, https://www.infobae.com/politica/2026/09/20/la-izquierda-se-movilizo-en-la-marcha-de-la-bronca-el-amor-vence-al-odio-pero-mejor-es-la-huelga-general/, https://www.infobae.com/politica/2026/09/17/el-gobierno-vuelve-a-convocar-a-los-gremios-universitarios-y-hay-expectativa-de-mas-paros-por-la-falta-de-acuerdos/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
