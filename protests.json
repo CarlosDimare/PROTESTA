@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T05:21:59.126817-03:00",
+    "last_updated": "2026-10-08T13:07:42.963874-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16844,22 +16844,52 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
-            "horario": "15:30",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Confederación General del Trabajo (CGT)",
+            "horario": "10:00",
+            "lugar": "La Plata",
+            "quien": "Comisión Provincial de Residentes (CPR) y equipos de salud",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Contra salarios de pobreza y vaciamiento de salud pública",
+            "fuente": "https://www.laizquierdadiario.com/Residentes-bonaerenses-van-al-paro-y-marchan-a-La-Plata"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "15:00",
+            "lugar": "Edificio del ex Ministerio de Industria (microcentro porteño)",
+            "quien": "CGT (Central General de Trabajadores)",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la industria nacional",
-            "fuente": "https://www.infobae.com/politica/2026/10/07/tierras-industria-y-universidades-los-reclamos-y-protestas-de-sindicatos-y-piqueteros-previstos-para-octubre/, https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
+            "motivo": "Defensa de la industria nacional, contra políticas económicas de Milei, por producción y empleo",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-marchara-por-el-microcentro-porteno-en-defensa-de-la-industria-nacional/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "15:00",
+            "lugar": "Diagonal Sur y Perú (concentración), luego al ex Ministerio de Industria (destino)",
+            "quien": "CGT (Confederación General del Trabajo)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la industria nacional, reclamo por producción, empleo y desarrollo; crítica a políticas económicas del Gobierno de Milei",
+            "fuente": "https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/, https://www.infobae.com/politica/2026/10/07/tierras-industria-y-universidades-los-reclamos-y-protestas-de-sindicatos-y-piqueteros-previstos-para-octubre/, https://estadodealerta.com.ar/la-cgt-movilizara-por-la-industria-el-8-de-octubre-dejando-en-suspenso-el-plan-de-paro-general/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Diagonal Sur, Buenos Aires",
+            "lugar": "Secretaría de Industria de la Nación, avenida Julio Roca 651, Buenos Aires",
             "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de la industria nacional y crítica al rumbo económico del gobierno",
+            "fuente": "https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/, https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "15:30",
+            "lugar": "Diagonal Sur, frente a la sede de la Secretaría de Industria, Ciudad de Buenos Aires",
+            "quien": "Asamblea de Pequeños y Medianos Empresarios (APYME)",
             "tipo_medida": "Marcha",
-            "motivo": "En defensa de la industria",
-            "fuente": "https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
+            "motivo": "Defensa de la industria nacional, las pymes, el empleo formal y el mercado interno; crítica al modelo económico extractivo y recesivo",
+            "fuente": "https://www.datagremial.com/informacion-general/las-pymes-se-suman-a-la-marcha-de-la-cgt-en-defensa-del-empleo-formal-y-el-mercado-interno-20261081000"
         },
         {
             "es_evento_relevante": true,
@@ -16870,6 +16900,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra travesticidios, reclamo de Ley Integral Trans, acceso a empleo/salud/educación, emergencia habitacional y políticas públicas para derechos",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/con-una-agenda-plagada-de-actividades-rosario-conmemoro-la-20o-edicion-de-la-marcha-del-orgullo/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "20:00",
+            "lugar": "Calle Alcalde Sainz de Baranda, 46 (Madrid)",
+            "quien": "Sindicato de Inquilinas e Inquilinos de Madrid",
+            "tipo_medida": "Marcha",
+            "motivo": "En memoria de Maricarmen Abascal y contra desahucios",
+            "fuente": "https://www.laizquierdadiario.com/Madrid-sale-a-la-calle-por-Maricarmen-el-Sindicato-de-Inquilinas-convoca-una-marcha-de-homenaje"
         },
         {
             "es_evento_relevante": true,
@@ -17010,6 +17050,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al DNU 70/23 y al fallo de la Corte Suprema",
             "fuente": "https://www.laizquierdadiario.com/Parque-Lezama-asamblea-prepara-una-gran-movilizacion-contra-la-Corte-Suprema-y-el-DNU-70-2023, https://www.mdzol.com/sociedad/2026/8/6/marcha-el-congreso-que-hora-arranca-la-movilizacion-y-como-sera-el-operativo-seguridad-1971902.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra la extranjerización de la tierra y la avanzada imperialista",
+            "fuente": "https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew"
         },
         {
             "es_evento_relevante": true,
