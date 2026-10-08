@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-07T22:33:27.570879-03:00",
+    "last_updated": "2026-10-08T05:21:59.126817-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17100,6 +17100,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reprogramación de la Marcha del Orgullo por visita papal",
             "fuente": "https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-11",
+            "horario": "20:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Inquilinas junto con CCOO y UGT",
+            "tipo_medida": "Paro",
+            "motivo": "Conquista del acceso a la vivienda y todas las demandas del pueblo trabajador contra la especulación inmobiliaria y el rentismo",
+            "fuente": "https://www.laizquierdadiario.com/Por-Maricarmen-huelga-general-en-ocho-dias-de-movilizacion-hicimos-mas-que-en-ocho-anos-de, https://www.infobae.com/espana/2026/09/30/todas-las-manifestaciones-por-la-vivienda-este-fin-de-semana-fechas-horas-y-ciudades-confirmadas/"
         },
         {
             "es_evento_relevante": true,
