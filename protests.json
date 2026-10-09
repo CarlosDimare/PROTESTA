@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-09T12:59:31.108902-03:00",
+    "last_updated": "2026-10-09T17:35:08.173262-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16936,10 +16936,10 @@
             "fecha": "2026-10-09",
             "horario": "15:30",
             "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "En defensa de la industria",
-            "fuente": "https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/, https://www.mdzol.com/politica/2026/9/29/la-cgt-se-movilizara-el-8-octubre-y-ahora-no-habra-un-nuevo-paro-nacional-1984356.html"
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro por tiempo indeterminado",
+            "motivo": "Rechazo a las políticas del gobierno de Milei, especialmente la reforma laboral y la defensa de derechos sindicales",
+            "fuente": "https://www.datagremial.com/informacion-general/el-fresu-llamo-a-fortalecer-la-unidad-obrera-para-construir-una-huelga-por-tiempo-indefinido-202610818480, https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/, https://www.mdzol.com/politica/2026/9/29/la-cgt-se-movilizara-el-8-octubre-y-ahora-no-habra-un-nuevo-paro-nacional-1984356.html"
         },
         {
             "es_evento_relevante": true,
@@ -16960,6 +16960,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de los derechos de mujeres y diversidades",
             "fuente": "https://www.datagremial.com/informacion-general/giuliani-y-aguiar-buscan-profundizar-la-resistencia-sindical-contra-el-ajuste-de-milei-en-la-calle-estatales-como-promotores-en-la-pelea-sin-cuartel-202693015450"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "No especificado",
+            "lugar": "Francia",
+            "quien": "Estudiantes y docentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Demandas por más presupuesto, docentes, condiciones edilicias, horarios más cortos, fin de discriminación en universidad y futuro mejor, en contra de recortes presupuestarios del gobierno de Macron",
+            "fuente": "https://www.laizquierdadiario.com/En-vivo-Francia-nueva-jornada-de-lucha-de-estudiantes-secundarios-en-todo-el-pais"
         },
         {
             "es_evento_relevante": true,
@@ -17060,6 +17070,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la educación, soberanía y democracia; cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial docente, actualización de becas y recursos para universidades públicas",
             "fuente": "https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Acompañamiento a la Marcha Federal Universitaria",
+            "fuente": "https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/"
         },
         {
             "es_evento_relevante": true,
