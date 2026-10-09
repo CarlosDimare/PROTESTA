@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T22:45:45.340262-03:00",
+    "last_updated": "2026-10-09T05:31:00.274606-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16915,6 +16915,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-09",
             "horario": "10:00",
+            "lugar": "Puerto General San Martín, intersección de Combate de Punta Quebracho y Vucetich",
+            "quien": "Familiares de trabajadores fallecidos",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia y esclarecimiento de las causas del siniestro en Albardón Bio",
+            "fuente": "https://elciudadanoweb.com/exigen-justicia-por-las-victimas-de-la-tragedia-laboral-con-una-marcha-a-la-planta-de-puerto-san-martin/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-09",
+            "horario": "10:00",
             "lugar": "Predio en el paraje El Pedregoso, Villa La Angostura",
             "quien": "Comunidad mapuche Lof Melo y organizaciones aliadas (sindicatos, referentes políticos, sociedad civil)",
             "tipo_medida": "Concentración",
@@ -16930,6 +16940,16 @@
             "tipo_medida": "Movilización",
             "motivo": "En defensa de la industria",
             "fuente": "https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/, https://www.mdzol.com/politica/2026/9/29/la-cgt-se-movilizara-el-8-octubre-y-ahora-no-habra-un-nuevo-paro-nacional-1984356.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-10",
+            "horario": "20:00",
+            "lugar": "Barcelona",
+            "quien": "Organizaciones en defensa del derecho a la vivienda de la región",
+            "tipo_medida": "Manifestación",
+            "motivo": "Contra las muertes vinculadas a la crisis de la vivienda bajo el lema 'Por Olga y Maricarmen: ¡El negocio de la vivienda mata!'",
+            "fuente": "https://elciudadanoweb.com/miles-de-personas-marcharon-en-madrid-en-memoria-de-maricarmen-y-su-lucha-por-la-vivienda/, https://www.elperiodico.com/es/barcelona/20261001/caceroladas-vivienda-barcelona-hoy-1-octubre-134876029"
         },
         {
             "es_evento_relevante": true,
@@ -17080,6 +17100,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la universidad pública y gratuita, mejora salarial docente y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "13:30",
+            "lugar": "No especificado",
+            "quien": "Universidades",
+            "tipo_medida": "Marcha",
+            "motivo": "Incumplimiento de fallo sobre fondos universitarios y recortes para discapacidad",
+            "fuente": "https://www.infobae.com/politica/2026/10/09/preocupa-la-economia-en-la-casa-rosada-pero-el-gobierno-descarta-un-escenario-de-crispacion-social/, https://www.clarin.com/informacion-general/nuevo-paro-universitario-pasa-clases-buenos-aires_0_vtL4tw5X9O.html"
         },
         {
             "es_evento_relevante": true,
