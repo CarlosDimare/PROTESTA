@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-08T18:22:33.766585-03:00",
+    "last_updated": "2026-10-08T22:45:45.340262-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16855,16 +16855,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:00",
-            "lugar": "Edificio del ex Ministerio de Industria (microcentro porteño)",
-            "quien": "CGT (Central General de Trabajadores)",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa de la industria nacional, contra políticas económicas de Milei, por producción y empleo",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-cgt-marchara-por-el-microcentro-porteno-en-defensa-de-la-industria-nacional/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-08",
-            "horario": "15:00",
             "lugar": "Diagonal Sur y Perú (concentración), luego al ex Ministerio de Industria (destino)",
             "quien": "CGT (Confederación General del Trabajo)",
             "tipo_medida": "Marcha",
@@ -16875,21 +16865,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-08",
             "horario": "15:30",
-            "lugar": "Secretaría de Industria de la Nación, Avenida Julio Roca 651",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Defensa de la industria nacional, críticas al rumbo económico del gobierno y políticas del FMI",
-            "fuente": "https://www.infobae.com/politica/2026/10/08/la-cgt-se-moviliza-en-defensa-de-la-industria-el-duro-documento-que-se-leera-en-el-acto-central/, https://estadodealerta.com.ar/la-cgt-marcha-en-defensa-de-la-industria-nacional-mientras-la-produccion-automotriz-acumula-una-caida-del-169/, https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/, https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-08",
-            "horario": "15:30",
             "lugar": "Diagonal Sur, frente a la sede de la Secretaría de Industria, Ciudad de Buenos Aires",
             "quien": "Asamblea de Pequeños y Medianos Empresarios (APYME)",
             "tipo_medida": "Marcha",
             "motivo": "Defensa de la industria nacional, las pymes, el empleo formal y el mercado interno; crítica al modelo económico extractivo y recesivo",
             "fuente": "https://www.datagremial.com/informacion-general/las-pymes-se-suman-a-la-marcha-de-la-cgt-en-defensa-del-empleo-formal-y-el-mercado-interno-20261081000"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-08",
+            "horario": "16:00",
+            "lugar": "Avenida Julio Roca, frente a la Secretaría de Industria",
+            "quien": "CGT (Central General de Trabajadores)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el plan económico del gobierno, en defensa de la industria nacional y contra el deterioro laboral y social",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-marcha-contra-Milei-pero-negocia-con-el-Gobierno-y-espera-a-2027-la-lucha-es-ahora, https://www.conclusion.com.ar/gremiales/la-cgt-marchara-por-el-microcentro-porteno-en-defensa-de-la-industria-nacional/10/2026/, https://www.infobae.com/politica/2026/10/08/la-cgt-se-moviliza-en-defensa-de-la-industria-el-duro-documento-que-se-leera-en-el-acto-central/, https://estadodealerta.com.ar/la-cgt-marcha-en-defensa-de-la-industria-nacional-mientras-la-produccion-automotriz-acumula-una-caida-del-169/, https://www.infobae.com/politica/2026/10/08/la-cgt-hace-una-fuerte-apuesta-a-la-movilizacion-de-hoy-en-defensa-de-la-industria-que-denuncia-el-duro-documento-que-se-leera/, https://www.infobae.com/politica/2026/10/04/el-gobierno-busca-fecha-para-debatir-la-eliminacion-de-las-paso-entre-sesiones-adversas-marchas-y-la-visita-del-papa/, https://elciudadanoweb.com/la-cgt-rosario-confirmo-que-se-suma-a-las-marchas-de-octubre/, https://www.laizquierdadiario.com/La-CGT-exige-que-Diputados-rechace-el-DNU-70-23-que-convoque-paro-general-y-movilizacion, https://elciudadanoweb.com/la-cgt-recalibra-su-estrategia-sin-paro-general-apuesta-a-dos-masivas-movilizaciones-en-octubre/, https://www.datagremial.com/informacion-general/sin-paro-pero-con-marcha-la-cgt-resolvio-volver-a-las-calles-para-reclamar-por-la-industria-20269309520, https://www.laizquierdadiario.com/La-CGT-descarto-llamar-a-un-paro-a-pesar-de-la-crisis-social-y-la-entrega-de-soberania, https://www.conclusion.com.ar/gremiales/la-cgt-descarto-un-paro-pero-retoma-el-plan-de-lucha-con-dos-marchas-para-octubre/09/2026/, https://www.infobae.com/politica/2026/09/29/la-cgt-descarto-un-paro-general-pero-hara-una-movilizacion-el-8-de-octubre-en-defensa-de-la-industria/"
         },
         {
             "es_evento_relevante": true,
@@ -16950,6 +16940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de los derechos de mujeres y diversidades",
             "fuente": "https://www.datagremial.com/informacion-general/giuliani-y-aguiar-buscan-profundizar-la-resistencia-sindical-contra-el-ajuste-de-milei-en-la-calle-estatales-como-promotores-en-la-pelea-sin-cuartel-202693015450"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "No especificado",
+            "lugar": "Francia (manifestaciones nacionales)",
+            "quien": "Union Étudiante y organizaciones estudiantiles",
+            "tipo_medida": "Movilización y huelga",
+            "motivo": "Reclamos por condiciones de aprendizaje en liceos y universidades, incluyendo reemplazo de docentes, sistema de acceso a estudios superiores (Parcoursup) y mejoras en infraestructura",
+            "fuente": "https://www.conclusion.com.ar/internacionales/continuan-las-protestas-estudiantiles-en-francia-miles-de-jovenes-se-concentraron-en-la-plaza-de-la-bastilla-de-paris/10/2026/"
         },
         {
             "es_evento_relevante": true,
