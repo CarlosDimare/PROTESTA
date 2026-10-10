@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-10T03:43:14.600244-03:00",
+    "last_updated": "2026-10-10T10:21:06.507333-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16963,6 +16963,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-12",
+            "horario": "10:00",
+            "lugar": "Sistema de transporte público de Bélgica (ferrocarril y servicios)",
+            "quien": "Sindicatos del transporte",
+            "tipo_medida": "Huelga",
+            "motivo": "Rechazo a las medidas de ajuste del gobierno y continuidad de la lucha contra recortes en educación, pensiones y servicios sociales",
+            "fuente": "https://www.laizquierdadiario.com/Masiva-movilizacion-de-trabajadores-y-estudiantes-en-Belgica-contra-el-ajuste-del-gobierno, https://www.abc.com.py/internacionales/2025/10/14/aeropuertos-de-belgica-afectados-por-gran-jornada-de-protesta-contra-reformas-del-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-13",
             "horario": "No especificado",
             "lugar": "Francia",
@@ -17090,6 +17100,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Acompañamiento a la Marcha Federal Universitaria",
             "fuente": "https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín (Dorrego y Santa Fe), Rosario",
+            "quien": "UNR, FUR, Coad, Apur, CGT Rosario, CTA Autónoma, ATE, CCC, Aceiteros de Rosario, Centro Cultural La Toma, CATT Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario y rechazo al DNU 70/23",
+            "fuente": "https://elciudadanoweb.com/en-rosario-tambien-este-jueves-los-universitarios-marcharan-por-el-cumplimiento-de-la-ley-de-financiamiento/, https://www.conclusion.com.ar/la-ciudad/quinta-a-fondo-la-unr-y-los-sindicatos-convocaron-a-la-marcha-federal-por-la-educacion-la-soberania-y-la-democracia/10/2026/"
         },
         {
             "es_evento_relevante": true,
