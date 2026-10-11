@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-10T19:17:15.919007-03:00",
+    "last_updated": "2026-10-10T22:35:07.694663-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16940,6 +16940,16 @@
             "tipo_medida": "Paro por tiempo indeterminado",
             "motivo": "Rechazo a las políticas del gobierno de Milei, especialmente la reforma laboral y la defensa de derechos sindicales",
             "fuente": "https://www.datagremial.com/informacion-general/el-fresu-llamo-a-fortalecer-la-unidad-obrera-para-construir-una-huelga-por-tiempo-indefinido-202610818480, https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/, https://www.mdzol.com/politica/2026/9/29/la-cgt-se-movilizara-el-8-octubre-y-ahora-no-habra-un-nuevo-paro-nacional-1984356.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-10",
+            "horario": "18:44",
+            "lugar": "Av. Gral Paz y La Tablada (punto de partida)",
+            "quien": "Campaña Nacional por el Derecho al Aborto, con participación de Pan y Rosas, comités por un partido de la nueva clase trabajadora y Asamblea de Disidencias Sexuales de Córdoba",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio a crímenes de odio contra la diversidad sexual, rechazo a discursos estigmatizantes del gobierno de Milei y exigencia de derechos para personas LGBTIQ+",
+            "fuente": "https://www.laizquierdadiario.com/Cordoba-miles-marcharon-en-el-Encuentro-Plurinacional-contra-los-travesticidios-transfemicidios-y"
         },
         {
             "es_evento_relevante": true,
