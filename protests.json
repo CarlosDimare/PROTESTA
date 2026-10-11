@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11T12:21:34.286078-03:00",
+    "last_updated": "2026-10-11T16:58:09.167072-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16983,6 +16983,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-12",
+            "horario": "18:00",
+            "lugar": "Intersección de Olmos y Maipú, Córdoba",
+            "quien": "39° Encuentro Plurinacional de Mujeres y Diversidades",
+            "tipo_medida": "Marcha",
+            "motivo": "Acto de cierre del Encuentro con reivindicaciones de mujeres y diversidades",
+            "fuente": "https://www.anred.org/cordoba-desbordan-los-talleres-y-se-prepara-la-marcha-del-39-encuentro-plurinacional/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "00:00",
+            "lugar": "Escuela N.º 284 'Tomás Espora' de Jardín América",
+            "quien": "Docentes de distintos sectores de Misiones (con UDNAM)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al apartamiento de la directora sindical Miriam Elizabeth Quiroz y denuncia de persecución gremial",
+            "fuente": "https://www.laizquierdadiario.com/Convocan-a-un-paro-docente-de-48-horas-en-apoyo-a-Miriam-Quiroz"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-13",
             "horario": "No especificado",
             "lugar": "Francia",
@@ -17105,21 +17125,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "15:00",
-            "lugar": "No especificado",
-            "quien": "Frente de Izquierda y de los Trabajadores (FIT)",
-            "tipo_medida": "Movilización",
-            "motivo": "Derrotar el DNU 70/23 y oponerse al gobierno de Milei",
-            "fuente": "https://elciudadanoweb.com/carla-deiana-aca-se-derrota-a-la-ultraderecha-con-los-trabajadores-en-la-calle-y-haciendo-una-huelga-general/, https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "15:00",
             "lugar": "Frente al Congreso Nacional",
-            "quien": "PTS-Frente de Izquierda Unidad",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo al DNU 70/2023 y denuncia de maniobras judiciales/gubernamentales que afectan a trabajadores, inquilinos y usuarios de salud",
-            "fuente": "https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
+            "quien": "Frente de Izquierda de Trabajadores - Unidad",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el DNU 70/2023 y las políticas de ajuste del gobierno de Milei",
+            "fuente": "https://elciudadanoweb.com/encuentro-nacional-de-mujeres-myriam-bregman-llamo-a-enfrentar-a-milei-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/, https://www.conclusion.com.ar/la-ciudad/los-estudiantes-rosarinos-se-preparan-para-la-quinta-marcha-federal-educativa/10/2026/, https://elciudadanoweb.com/carla-deiana-aca-se-derrota-a-la-ultraderecha-con-los-trabajadores-en-la-calle-y-haciendo-una-huelga-general/, https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/, https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
         },
         {
             "es_evento_relevante": true,
