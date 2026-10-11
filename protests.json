@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11T05:13:23.367034-03:00",
+    "last_updated": "2026-10-11T12:21:34.286078-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17105,21 +17105,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "15:00",
-            "lugar": "Frente al Congreso Nacional",
-            "quien": "PTS-Frente de Izquierda Unidad",
+            "lugar": "No especificado",
+            "quien": "Frente de Izquierda y de los Trabajadores (FIT)",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo al DNU 70/2023 y denuncia de maniobras judiciales/gubernamentales que afectan a trabajadores, inquilinos y usuarios de salud",
-            "fuente": "https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
+            "motivo": "Derrotar el DNU 70/23 y oponerse al gobierno de Milei",
+            "fuente": "https://elciudadanoweb.com/carla-deiana-aca-se-derrota-a-la-ultraderecha-con-los-trabajadores-en-la-calle-y-haciendo-una-huelga-general/, https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "15:00",
-            "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Marcha",
-            "motivo": "Acompañamiento a la Marcha Federal Universitaria",
-            "fuente": "https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/"
+            "lugar": "Frente al Congreso Nacional",
+            "quien": "PTS-Frente de Izquierda Unidad",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al DNU 70/2023 y denuncia de maniobras judiciales/gubernamentales que afectan a trabajadores, inquilinos y usuarios de salud",
+            "fuente": "https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
         },
         {
             "es_evento_relevante": true,
