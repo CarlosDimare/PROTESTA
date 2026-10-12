@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T08:37:18.375849-03:00",
+    "last_updated": "2026-10-12T17:54:28.258481-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16985,6 +16985,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-12",
             "horario": "18:00",
+            "lugar": "Plaza de los Dos Congresos",
+            "quien": "Organización de Comunidades y Pueblos Originarios (ORCOPO)",
+            "tipo_medida": "Marcha y Contrafestejo",
+            "motivo": "Denuncia contra desalojos, criminalización de comunidades indígenas, extranjerización de tierras, proyectos extractivistas y reclamo de justicia por Rafael Nahuel y libertad para presos políticos",
+            "fuente": "https://www.anred.org/12-de-octubre-nada-que-celebrar-pueblos-originarios-marchan-contra-los-desalojos-y-la-extranjerizacion-de-la-tierra/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-12",
+            "horario": "18:00",
             "lugar": "Intersección de Olmos y Maipú, Córdoba",
             "quien": "39° Encuentro Plurinacional de Mujeres y Diversidades",
             "tipo_medida": "Marcha",
@@ -17050,6 +17060,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir pago total de salarios, liquidaciones e indemnizaciones pendientes",
             "fuente": "https://www.datagremial.com/informacion-general/la-cadena-de-ropa-deportiva-mega-sports-echo-a-90-trabajadores-y-sigue-sin-pagar-indemnizaciones-preparan-una-nueva-protesta-para-octubre-202692111370"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-14",
+            "horario": "10:30",
+            "lugar": "Congreso Nacional",
+            "quien": "Coalición de movimientos sociales, sindicatos y organizaciones",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra el DNU 70/2023, prórroga de la Emergencia en Discapacidad y proyectos sobre morosidad familiar, en el marco de la sesión parlamentaria del jueves",
+            "fuente": "https://www.infobae.com/politica/2026/10/12/semana-caliente-en-el-congreso-debate-por-la-ley-de-tierras-presupuesto-2027-marcha-y-sesion-para-derogar-el-dnu-70/"
         },
         {
             "es_evento_relevante": true,
@@ -17496,11 +17516,11 @@
             "es_evento_relevante": true,
             "fecha": "No especificado",
             "horario": "11:00",
-            "lugar": "No especificado",
-            "quien": "Gremios docentes",
+            "lugar": "Universidades nacionales (con convocatoria simbólica en plazas públicas)",
+            "quien": "Comunidad universitaria",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la educación pública, salarios dignos y derechos laborales",
-            "fuente": "https://infonoroeste.com.ar/nota/55290/docentes-bonaerenses-pararan-durante-la-jornada-nacional-de-protesta-por-salarios-y-fondos-para-educacion/, https://www.conclusion.com.ar/gremiales/dictaron-la-conciliacion-obligatoria-en-electrolux-hasta-el-20-de-octubre-la-cgt-rosario-anticipa-paros-regionales/09/2026/, https://www.infobae.com/politica/2026/09/20/la-izquierda-se-movilizo-en-la-marcha-de-la-bronca-el-amor-vence-al-odio-pero-mejor-es-la-huelga-general/, https://www.infobae.com/politica/2026/09/17/el-gobierno-vuelve-a-convocar-a-los-gremios-universitarios-y-hay-expectativa-de-mas-paros-por-la-falta-de-acuerdos/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/"
+            "motivo": "Exigir la plena implementación de la Ley de Financiamiento Universitaria, vetada por el Presidente y ratificada por el Congreso",
+            "fuente": "https://infonoroeste.com.ar/nota/55314/semana-con-paro-docente-y-movilizacion-en-universidades-y-escuelas-bonaerenses/, https://infonoroeste.com.ar/nota/55290/docentes-bonaerenses-pararan-durante-la-jornada-nacional-de-protesta-por-salarios-y-fondos-para-educacion/, https://www.conclusion.com.ar/gremiales/dictaron-la-conciliacion-obligatoria-en-electrolux-hasta-el-20-de-octubre-la-cgt-rosario-anticipa-paros-regionales/09/2026/, https://www.infobae.com/politica/2026/09/20/la-izquierda-se-movilizo-en-la-marcha-de-la-bronca-el-amor-vence-al-odio-pero-mejor-es-la-huelga-general/, https://www.infobae.com/politica/2026/09/17/el-gobierno-vuelve-a-convocar-a-los-gremios-universitarios-y-hay-expectativa-de-mas-paros-por-la-falta-de-acuerdos/, https://www.infobae.com/educacion/2026/08/18/las-universidades-iniciaron-otra-semana-de-conflicto-con-paros-y-un-banderazo-por-la-ley-de-financiamiento/, https://www.datagremial.com/informacion-general/paro-universitario-fedun-relevo-un-acatamiento-casi-total-en-todo-el-pais-y-anticipo-nuevas-medidas-202692312250, https://www.infogremiales.com.ar/el-frente-sindical-de-universidades-convoco-a-realizar-clases-publicas-frente-a-tribunales-de-todo-el-pais-para-visibilizar-el-reclamo-por-salarios-y-presupuesto/"
         },
         {
             "es_evento_relevante": true,
@@ -17561,16 +17581,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial por actualización de ingresos para recuperar poder adquisitivo, rechazo a que empresas trasladen conflictos por subsidios a los trabajadores",
             "fuente": "https://www.inforegion.com.ar/2026/06/19/paro-de-colectivos-la-uta-amenaza-con-una-nueva-medida-de-fuerza-por-falta-de-acuerdo-salarial/, https://www.conclusion.com.ar/gremiales/la-uta-le-exigio-a-nacion-un-aumento-salarial-podria-haber-paro-de-colectivos-en-el-pais/06/2026/, https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "La hora de inicio del evento de protesta es:  \n**11:00**",
-            "lugar": "Universidades nacionales (con convocatoria simbólica en plazas públicas)",
-            "quien": "FEDUN y comunidad universitaria",
-            "tipo_medida": "Marcha Federal Universitaria",
-            "motivo": "Reclamo por recomposición salarial, convocatoria a paritarias y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.datagremial.com/informacion-general/paro-universitario-fedun-relevo-un-acatamiento-casi-total-en-todo-el-pais-y-anticipo-nuevas-medidas-202692312250, https://www.infogremiales.com.ar/el-frente-sindical-de-universidades-convoco-a-realizar-clases-publicas-frente-a-tribunales-de-todo-el-pais-para-visibilizar-el-reclamo-por-salarios-y-presupuesto/"
         },
         {
             "es_evento_relevante": true,
