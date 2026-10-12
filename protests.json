@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-11T20:25:35.989573-03:00",
+    "last_updated": "2026-10-12T00:52:23.317846-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -16995,6 +16995,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-13",
             "horario": "00:00",
+            "lugar": "Argentina",
+            "quien": "Asociación de Profesionales de la Salud (APPAMIA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por actualización de las 'cápitas' por paciente asignado (de $2.700 a $4.500 para médicos y de $374 a $3.000 para odontólogos) ante reducciones de ingresos desde abril y falta de respuestas oficiales",
+            "fuente": "https://www.inforegion.com.ar/2026/10/11/pami-medicos-y-odontologos-realizaran-un-paro-nacional-de-96-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "00:00",
             "lugar": "Escuela N.º 284 'Tomás Espora' de Jardín América",
             "quien": "Docentes de distintos sectores de Misiones (con UDNAM)",
             "tipo_medida": "Paro",
@@ -17160,6 +17170,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al DNU 70/23 y al fallo de la Corte Suprema",
             "fuente": "https://www.laizquierdadiario.com/Parque-Lezama-asamblea-prepara-una-gran-movilizacion-contra-la-Corte-Suprema-y-el-DNU-70-2023, https://www.mdzol.com/sociedad/2026/8/6/marcha-el-congreso-que-hora-arranca-la-movilizacion-y-como-sera-el-operativo-seguridad-1971902.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "La hora de inicio del evento de protesta es **16:00**.",
+            "lugar": "Congreso Nacional, Buenos Aires y plazas del país",
+            "quien": "Bloque independiente de organizaciones sindicales y políticas con mujeres al frente",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al DNU 70/2023, políticas de ajuste de Milei, violencia de género y crímenes de odio",
+            "fuente": "https://www.laizquierdadiario.com/Una-fuerza-enorme-multitudinaria-marcha-de-mujeres-y-la-diversidad-sexual-recorre-Cordoba, https://gestionsindical.com/protesta-mujeres-congreso-primera-vez-marchan-juntas-cgt-las-dos-cta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Pan y Rosas/Frente de Izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el DNU 70/2023 y políticas de ajuste de Milei, con reclamo de paro general y unidad de la clase trabajadora",
+            "fuente": "https://elciudadanoweb.com/bregman-llamo-a-enfrentar-a-milei-en-el-encuentro-nacional-de-mujeres-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/"
         },
         {
             "es_evento_relevante": true,
