@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T00:52:23.317846-03:00",
+    "last_updated": "2026-10-12T08:37:18.375849-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17010,6 +17010,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo al apartamiento de la directora sindical Miriam Elizabeth Quiroz y denuncia de persecución gremial",
             "fuente": "https://www.laizquierdadiario.com/Convocan-a-un-paro-docente-de-48-horas-en-apoyo-a-Miriam-Quiroz"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "15:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Marcha Federal Universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial de docentes y trabajadores, y presupuesto para funcionamiento de universidades públicas",
+            "fuente": "https://www.infobae.com/politica/2026/10/12/la-justicia-federal-ordeno-recuperar-las-clases-perdidas-por-los-paros-en-colegios-universitarios-de-san-juan/"
         },
         {
             "es_evento_relevante": true,
