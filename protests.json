@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13T07:02:44.348918-03:00",
+    "last_updated": "2026-10-13T14:35:11.951969-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17074,16 +17074,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
-            "horario": "**14:30**",
-            "lugar": "Congreso Nacional, Buenos Aires",
-            "quien": "Colectivo universitario (docentes y estudiantes)",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamo por financiamiento universitario, cumplimiento de acuerdos paritarios y actualización salarial/becas",
-            "fuente": "https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
             "horario": "**15:30**",
             "lugar": "Tribunales federales (sede de la Corte Suprema de Justicia), Ciudad de Buenos Aires",
             "quien": "Coordinación de la Marcha de la Bronca (cientos de organizaciones)",
@@ -17125,16 +17115,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
-            "lugar": "Plaza de Mayo, Buenos Aires",
-            "quien": "Frente Sindical de Universidades Nacionales (FEDUN)",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y mejorar salarios y recursos",
-            "fuente": "https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "10:00",
             "lugar": "No especificado (Marcha Federal)",
             "quien": "Federación de Docentes Universitarios e Investigadores (Conadu)",
             "tipo_medida": "Marcha",
@@ -17155,21 +17135,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "13:30",
-            "lugar": "Congreso de la Nación",
-            "quien": "Consejo Interuniversitario Nacional (CIN), Federación de Docentes de Universidades Nacionales (FEDUN), Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
-            "tipo_medida": "Marcha",
-            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario, derogación del DNU 70, emergencia en discapacidad y endeudamiento de las familias",
-            "fuente": "https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
+            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro con movilizaciones",
+            "motivo": "Derogación del Decreto de Necesidad y Urgencia (DNU) 70/2023",
+            "fuente": "https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://www.datagremial.com/informacion-general/ate-convoco-a-un-paro-nacional-para-este-jueves-con-el-objetivo-de-voltear-el-decreto-70-23-completo-2026101311360, https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno, https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "13:30",
-            "lugar": "Congreso de la Nación (Ciudad de Buenos Aires)",
-            "quien": "Federación de Docentes de las Universidades (FEDUN)",
+            "lugar": "Congreso de la Nación",
+            "quien": "CIN, FUA y Frente Sindical de Universidades Nacionales",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de la educación, soberanía y democracia; cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial docente, actualización de becas y recursos para universidades públicas",
-            "fuente": "https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitaria, recomposición salarial para docentes y nodocentes, recursos para universidades públicas y sostenimiento del sistema científico nacional",
+            "fuente": "https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17180,6 +17160,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el DNU 70/2023 y las políticas de ajuste del gobierno de Milei",
             "fuente": "https://elciudadanoweb.com/encuentro-nacional-de-mujeres-myriam-bregman-llamo-a-enfrentar-a-milei-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/, https://www.conclusion.com.ar/la-ciudad/los-estudiantes-rosarinos-se-preparan-para-la-quinta-marcha-federal-educativa/10/2026/, https://elciudadanoweb.com/carla-deiana-aca-se-derrota-a-la-ultraderecha-con-los-trabajadores-en-la-calle-y-haciendo-una-huelga-general/, https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/, https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín, Rosario, avanzando hacia el Monumento Nacional a la Bandera",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR), Sindicatos del sector privado (incluido SOEAR), Organizaciones sociales y estudiantiles",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra el hambre, el ajuste y la entrega; reclamo por incumplimiento de ley universitaria, derogación del DNU 70/2023, defensa del sistema universitario y científico-tecnológico, y frente a la desocupación",
+            "fuente": "https://www.conclusion.com.ar/gremiales/rosario-tiene-que-volver-a-ser-la-capital-del-paro-universitarios-y-otros-sindicatos-preparan-una-nueva-movilizacion/10/2026/"
         },
         {
             "es_evento_relevante": true,
