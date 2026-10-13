@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13T14:35:11.951969-03:00",
+    "last_updated": "2026-10-13T19:15:01.582139-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17024,12 +17024,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-13",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional (y movilizaciones en todo el país)",
+            "quien": "Oposición política",
+            "tipo_medida": "Marcha",
+            "motivo": "Derogación del DNU 70/23 y defensa de la Ley de Tierras para limitar la extranjerización de tierras",
+            "fuente": "https://elciudadanoweb.com/durante-los-10-dias-que-la-corte-suprema-dejo-inactiva-la-ley-de-tierras-intentaron-vender-zonas-estrategicas-de-frontera/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
             "horario": "15:00",
             "lugar": "Congreso de la Nación",
             "quien": "Marcha Federal Universitaria",
             "tipo_medida": "Marcha",
             "motivo": "Cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial de docentes y trabajadores, y presupuesto para funcionamiento de universidades públicas",
             "fuente": "https://www.infobae.com/politica/2026/10/12/la-justicia-federal-ordeno-recuperar-las-clases-perdidas-por-los-paros-en-colegios-universitarios-de-san-juan/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-13",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Asociación de Profesionales del Programa de Atención Médica Integral y Afines (Appamia)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de actualización de honorarios para médicos y odontólogos del PAMI, específicamente aumento de las cápitas de $2.700 a $4.500 para médicos y de $374 a $1.500-$3.000 para odontólogos",
+            "fuente": "https://estadodealerta.com.ar/paro-de-96-horas-en-pami-medicos-de-cabecera-y-odontologos-reclaman-actualizacion-de-las-capitas/"
         },
         {
             "es_evento_relevante": true,
@@ -17095,16 +17115,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
-            "lugar": "Congreso Nacional",
-            "quien": "La Izquierda Diario",
-            "tipo_medida": "Marcha",
-            "motivo": "Contra los recortes en salud y educación, la subordinación a EE.UU. y el Presupuesto 2027",
-            "fuente": "https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "10:00",
             "lugar": "Rosario",
             "quien": "Gremio de docentes universitarios (Coad) y Conadu",
             "tipo_medida": "Marcha y Paro",
@@ -17130,6 +17140,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al ajuste presupuestario 2027, reclamo por el cumplimiento de la Ley de Financiamiento Universitario y exigencia de recomposición salarial del 35%",
             "fuente": "https://elciudadanoweb.com/se-viene-la-quinta-marcha-federal-universitaria-ante-los-incumplimientos-legales-del-gobierno/, https://elciudadanoweb.com/fracaso-la-paritaria-universitaria-los-gremios-llaman-al-paro-y-convocan-a-la-quinta-marcha-nacional-universitaria/, https://www.inforegion.com.ar/2026/09/17/no-hubo-acuerdo-en-la-paritaria-docente-universitaria-habra-una-nueva-marcha-y-paro-de-23-dias/, https://www.infobae.com/politica/2026/09/17/los-docentes-de-la-uba-confirmaron-una-nueva-marcha-federal-universitaria-tras-el-fracaso-de-las-paritarias/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "12:00",
+            "lugar": "Facultad de Filosofía y Letras (UBA) hacia Tribunales",
+            "quien": "Comunidad educativa de la Facultad de Filosofía y Letras (UBA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por la aplicación inmediata de la Ley de Financiamiento Universitario (ley 27.795)",
+            "fuente": "https://www.infobae.com/politica/2026/10/13/tomaron-la-facultad-de-filosofia-y-letras-de-la-uba-y-permanecera-asi-hasta-la-marcha-del-15-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "12:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Frente de Izquierda y los Comités junto a Myriam Bregman",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el DNU 70/23 de Milei, en defensa de la tierra, universidades públicas y emergencia en discapacidad, exigiendo su derogación y una huelga general",
+            "fuente": "https://www.laizquierdadiario.com/Que-la-bronca-se-haga-movilizacion-Bregman-te-invita-a-marchar-este-Jueves-15, https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew"
         },
         {
             "es_evento_relevante": true,
@@ -17250,6 +17280,26 @@
             "tipo_medida": "Marcha",
             "motivo": "Incumplimiento de fallo sobre fondos universitarios y recortes para discapacidad",
             "fuente": "https://www.infobae.com/politica/2026/10/09/preocupa-la-economia-en-la-casa-rosada-pero-el-gobierno-descarta-un-escenario-de-crispacion-social/, https://www.clarin.com/informacion-general/nuevo-paro-universitario-pasa-clases-buenos-aires_0_vtL4tw5X9O.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "17:00",
+            "lugar": "C Art Media, Avenida Corrientes 6271 (Chacarita)",
+            "quien": "CGT",
+            "tipo_medida": "Festival artístico (Fuerza Festival)",
+            "motivo": "Conmemoración del 17 de octubre de 1945 con presión política interna en el peronismo y presentación de la plataforma cultural FUERZA de la CGT",
+            "fuente": "https://www.infobae.com/politica/2026/10/13/acto-sindical-sin-bombos-y-un-festival-de-rock-cumbia-y-rap-como-sera-el-festejo-de-la-cgt-por-el-17-de-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-17",
+            "horario": "13:30",
+            "lugar": "Congreso Nacional",
+            "quien": "ATE y universidades públicas",
+            "tipo_medida": "Paro y Marcha",
+            "motivo": "Derogación del Decreto 70/23 y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/ate-convoca-a-un-paro-nacional-de-24-horas-en-todo-el-pais-para-este-jueves/"
         },
         {
             "es_evento_relevante": true,
