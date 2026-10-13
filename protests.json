@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-12T23:26:23.822041-03:00",
+    "last_updated": "2026-10-13T07:02:44.348918-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17090,6 +17090,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el DNU 70/23 (extranjerización de tierras, aumento de alquileres y tasas) y en rechazo al plan de ajuste de Milei",
             "fuente": "https://www.laizquierdadiario.com/Tribunales-concentracion-contra-el-fallo-de-la-Corte-y-el-DNU-70-23, https://www.infobae.com/politica/2026/09/17/el-mapa-de-la-marcha-de-la-bronca-los-cortes-y-los-puntos-de-concentracion-el-gobierno-aplicara-el-protocolo-antipiquetes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional y principales ciudades del país",
+            "quien": "Trabajadores, estudiantes, jóvenes precarizados, mujeres, jubilados y sectores afectados por el ajuste",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al DNU 70/23, defensa de Ley de Tierras, educación pública, situación de familias endeudadas y emergencia en discapacidad contra el ajuste de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Por-que-la-CGT-aun-no-llamo-a-paro-general-activo-para-el-15-de-octubre"
         },
         {
             "es_evento_relevante": true,
