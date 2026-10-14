@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T09:47:45.596216-03:00",
+    "last_updated": "2026-10-14T14:50:25.027036-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17075,6 +17075,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-14",
             "horario": "10:00",
+            "lugar": "Sedes de los dos policlínicos propios de Pami en Rosario",
+            "quien": "Trabajadores de Pami Rosario (UTI y ATE) y jubilados afiliados",
+            "tipo_medida": "Concentración",
+            "motivo": "Protesta por falta de personal, salarios bajos, escasez de recursos y vaciamiento institucional en los policlínicos de Pami",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/reclamo-de-trabajadores-y-afiliados-del-pami-la-crisis-mas-fuerte-es-en-el-tema-de-las-areas-criticas/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-14",
+            "horario": "10:00",
             "lugar": "Sede de Mega Sports",
             "quien": "Trabajadores despedidos de Mega Sports",
             "tipo_medida": "Movilización",
@@ -17155,16 +17165,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "12:00",
-            "lugar": "Congreso Nacional",
-            "quien": "La Izquierda Diario",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra el DNU 70/23 y la extranjerización de tierras, en rechazo al programa de ajuste de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Las-maniobras-del-Congreso-y-la-Corte-solo-buscan-evitar-otro-6-de-agosto-en-las-calles, https://www.laizquierdadiario.com/Que-la-bronca-se-haga-movilizacion-Bregman-te-invita-a-marchar-este-Jueves-15, https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "12:00",
             "lugar": "Facultad de Filosofía y Letras (UBA) hacia Tribunales",
             "quien": "Comunidad educativa de la Facultad de Filosofía y Letras (UBA)",
             "tipo_medida": "Marcha",
@@ -17175,11 +17175,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "13:30",
-            "lugar": "Congreso Nacional, Ciudad de Buenos Aires",
-            "quien": "Asociación Trabajadores del Estado (ATE)",
-            "tipo_medida": "Paro con movilizaciones",
-            "motivo": "Derogación del Decreto de Necesidad y Urgencia (DNU) 70/2023",
-            "fuente": "https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://www.datagremial.com/informacion-general/ate-convoco-a-un-paro-nacional-para-este-jueves-con-el-objetivo-de-voltear-el-decreto-70-23-completo-2026101311360, https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno, https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+            "lugar": "Congreso Nacional",
+            "quien": "ATE (Asociación Trabajadores del Estado)",
+            "tipo_medida": "Paro y Movilización",
+            "motivo": "Derogación del DNU 70/2023 y disputa por presupuesto universitario",
+            "fuente": "https://www.infobae.com/politica/2026/10/14/el-gobierno-descontara-el-dia-laboral-a-los-estatales-que-adhieran-al-paro-nacional-de-ate/, https://www.laizquierdadiario.com/Las-maniobras-del-Congreso-y-la-Corte-solo-buscan-evitar-otro-6-de-agosto-en-las-calles, https://www.laizquierdadiario.com/Que-la-bronca-se-haga-movilizacion-Bregman-te-invita-a-marchar-este-Jueves-15, https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://www.datagremial.com/informacion-general/ate-convoco-a-un-paro-nacional-para-este-jueves-con-el-objetivo-de-voltear-el-decreto-70-23-completo-2026101311360, https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno, https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
         },
         {
             "es_evento_relevante": true,
@@ -17200,6 +17200,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Contra el DNU 70/2023 y las políticas de ajuste del gobierno de Milei",
             "fuente": "https://elciudadanoweb.com/encuentro-nacional-de-mujeres-myriam-bregman-llamo-a-enfrentar-a-milei-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/, https://www.conclusion.com.ar/la-ciudad/los-estudiantes-rosarinos-se-preparan-para-la-quinta-marcha-federal-educativa/10/2026/, https://elciudadanoweb.com/carla-deiana-aca-se-derrota-a-la-ultraderecha-con-los-trabajadores-en-la-calle-y-haciendo-una-huelga-general/, https://www.infobae.com/politica/2026/10/09/a-la-espera-del-quinto-paro-general-la-cgt-acumula-protestas-de-baja-densidad-y-el-ala-dura-sindical-se-repliega/, https://www.inforegion.com.ar/2026/10/08/la-cgt-vuelve-a-marchar-en-defensa-de-la-industria-nacional/, https://www.laizquierdadiario.com/Bregman-La-Corte-nos-toma-el-pelo-el-15-de-octubre-todos-y-todas-frente-al-Congreso"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Estudiantes universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por desfinanciamiento de la educación superior, congelamiento de becas y exigencia de aplicación de la ley de financiamiento",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17290,6 +17300,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de complicidad política, impunidad, precarización laboral y exigencia de justicia por violencia de género",
             "fuente": "https://www.laizquierdadiario.com/Laura-Vilches-Exigimos-la-huelga-general-para-que-la-tierra-tiemble"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "10:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Federación Universitaria de Rosario (FUR) con agrupaciones estudiantiles (FEU, Frejuni, Franja Morada, MUE)",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la universidad pública, oposición al DNU 70/2023, reclamo por soberanía nacional y modelo de país inclusivo",
+            "fuente": "https://elciudadanoweb.com/toma-de-facultades-en-la-unr-como-previa-de-la-gran-marcha-defender-la-conquista-mas-grande/"
         },
         {
             "es_evento_relevante": true,
