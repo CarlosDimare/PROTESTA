@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-13T19:15:01.582139-03:00",
+    "last_updated": "2026-10-13T22:37:12.879216-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17093,6 +17093,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-14",
+            "horario": "11:00 - 13:00",
+            "lugar": "Anexo de Sarmiento 455, Rosario",
+            "quien": "Intersindical PAMI Rosario (con ATE Rosario, SUTEPA Rosario, INSSJP UTI Rosario y N.Or.T.E.)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por salud de jubilados, recomposición salarial, defensa de puestos de trabajo y soluciones urgentes a problemas laborales/prestacionales de PAMI",
+            "fuente": "https://www.conclusion.com.ar/gremiales/trabajadores-del-pami-rosario-protestan-este-miercoles-por-salarios-empleo-y-atencion-a-los-jubilados/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "**15:30**",
             "lugar": "Tribunales federales (sede de la Corte Suprema de Justicia), Ciudad de Buenos Aires",
@@ -17250,6 +17260,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo al DNU 70/2023, políticas de ajuste de Milei, violencia de género y crímenes de odio",
             "fuente": "https://www.laizquierdadiario.com/Una-fuerza-enorme-multitudinaria-marcha-de-mujeres-y-la-diversidad-sexual-recorre-Cordoba, https://gestionsindical.com/protesta-mujeres-congreso-primera-vez-marchan-juntas-cgt-las-dos-cta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
+            "lugar": "Diversas ciudades de Argentina, con movilización específica en Rosario",
+            "quien": "Comunidad universitaria y gremios docentes (liderados por Coad)",
+            "tipo_medida": "Marcha Federal con paro universitario",
+            "motivo": "Rechazo a políticas de ajuste, incumplimiento de fallos judiciales y recortes presupuestarios en educación superior",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/crisis-universitaria-marchas-tomas-estudiantiles-y-amenazas-al-rector-de-unr/10/2026/"
         },
         {
             "es_evento_relevante": true,
