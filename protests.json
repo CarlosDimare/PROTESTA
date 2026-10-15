@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-15T16:43:09.247572-03:00",
+    "last_updated": "2026-10-15T19:54:47.885970-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17074,6 +17074,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-14",
+            "horario": "08:00",
+            "lugar": "Comunidad de Madrid",
+            "quien": "Sindicatos CCOO, CGT, CNT, Solidaridad Obrera, STEM, UGT; plataformas Educación Especial Digna, Menos Lectivas, Queremos FP; docentes y educadoras de 0-3 años",
+            "tipo_medida": "Huelga educativa indefinida con piquetes y cortes",
+            "motivo": "Reclamos por financiación educativa, reducción de ratios en aulas, mejoras salariales y apoyo a huelga de educadoras 0-3 años",
+            "fuente": "https://www.laizquierdadiario.com/Inicia-una-huelga-educativa-indefinida-en-Madrid-en-medio-de-provocaciones-de-la-Policia"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-14",
             "horario": "10:00",
             "lugar": "Sedes de los dos policlínicos propios de Pami en Rosario",
             "quien": "Trabajadores de Pami Rosario (UTI y ATE) y jubilados afiliados",
@@ -17390,6 +17400,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Incumplimiento de fallo sobre fondos universitarios y recortes para discapacidad",
             "fuente": "https://www.infobae.com/politica/2026/10/09/preocupa-la-economia-en-la-casa-rosada-pero-el-gobierno-descarta-un-escenario-de-crispacion-social/, https://www.clarin.com/informacion-general/nuevo-paro-universitario-pasa-clases-buenos-aires_0_vtL4tw5X9O.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "16:00",
+            "lugar": "Rosario",
+            "quien": "UBA, AGD-UBA, CTA, CGT, ATE, Utep, La Cámpora, FIT y movimientos sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario, defensa de la educación pública, ciencia y reclamos salariales docentes",
+            "fuente": "https://www.conclusion.com.ar/politica/comenzo-la-marcha-universitaria-en-buenos-aires-miles-de-personas-se-movilizan-hacia-el-congreso/10/2026/"
         },
         {
             "es_evento_relevante": true,
