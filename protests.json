@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T21:22:12.961655-03:00",
+    "last_updated": "2026-10-15T02:33:53.600763-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17174,6 +17174,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
+            "horario": "10:30",
+            "lugar": "Congreso de la Nación",
+            "quien": "Foro Permanente de Discapacidad",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al ajuste del Gobierno y exigencia de derechos para personas con discapacidad",
+            "fuente": "https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-al-congreso-el-foro-de-discapacidad-cruzo-a-milei-las-causas-nobles-se-defienden-con-derechos/10/2026/, https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
             "horario": "12:00",
             "lugar": "Facultad de Filosofía y Letras (UBA) hacia Tribunales",
             "quien": "Comunidad educativa de la Facultad de Filosofía y Letras (UBA)",
@@ -17190,16 +17200,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y denunciar el endeudamiento de las familias",
             "fuente": "https://www.inforegion.com.ar/2026/10/14/marcha-federal-universitaria-el-punto-de-encuentro-de-la-comunidad-unlz-2/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "13:30",
-            "lugar": "Congreso de la Nación",
-            "quien": "CIN, FUA y Frente Sindical de Universidades Nacionales",
-            "tipo_medida": "Marcha",
-            "motivo": "Cumplimiento de la Ley de Financiamiento Universitaria, recomposición salarial para docentes y nodocentes, recursos para universidades públicas y sostenimiento del sistema científico nacional",
-            "fuente": "https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17236,20 +17236,10 @@
             "fecha": "2026-10-15",
             "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario",
-            "quien": "Estudiantes y docentes universitarios",
+            "quien": "Intersindical Rosario y CATT Rosario",
             "tipo_medida": "Marcha",
-            "motivo": "Defensa de carreras universitarias y Ley de Financiamiento Universitario",
-            "fuente": "https://www.infobae.com/sociedad/2026/10/14/tension-en-la-previa-de-la-marcha-universitaria-detuvieron-a-un-hombre-en-un-semaforazo-en-defensa-por-los-profesorados/, https://elciudadanoweb.com/la-quinta-marcha-federal-universitaria-suma-voluntades-la-intersindical-rosario-moviliza-este-jueves/, https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "15:30",
-            "lugar": "Plaza San Martín, Rosario",
-            "quien": "Comunidad universitaria (estudiantes, docentes, nodocentes) e Intersindical Rosario",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa de la educación pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://elciudadanoweb.com/marcha-federal-universitaria-rosario-se-moviliza-en-defensa-de-la-educacion-publica-y-exigiendo-el-cumplimiento-de-la-ley-de-financiamiento/"
+            "motivo": "Defensa de educación pública y reclamo del cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-intersindical-y-la-catt-rosario-se-suman-este-jueves-a-la-marcha-federal-universitaria/10/2026/, https://www.infobae.com/sociedad/2026/10/14/tension-en-la-previa-de-la-marcha-universitaria-detuvieron-a-un-hombre-en-un-semaforazo-en-defensa-por-los-profesorados/, https://elciudadanoweb.com/la-quinta-marcha-federal-universitaria-suma-voluntades-la-intersindical-rosario-moviliza-este-jueves/, https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/, https://elciudadanoweb.com/marcha-federal-universitaria-rosario-se-moviliza-en-defensa-de-la-educacion-publica-y-exigiendo-el-cumplimiento-de-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
