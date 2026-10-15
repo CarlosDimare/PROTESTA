@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-15T12:34:09.124325-03:00",
+    "last_updated": "2026-10-15T16:43:09.247572-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17176,10 +17176,10 @@
             "fecha": "2026-10-15",
             "horario": "10:30",
             "lugar": "Congreso de la Nación",
-            "quien": "Movimiento estudiantil y universitario",
+            "quien": "CIN, FATUN, FEDUN y centrales obreras",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo a políticas de tierras, universidades, endeudados y discapacidad",
-            "fuente": "https://www.infobae.com/politica/2026/10/15/diputados-en-vivo-ultimas-noticias-sobre-el-rechazo-al-dnu-702023-endeudamiento-y-emergencia-en-discapacidad/, https://www.infobae.com/politica/2026/10/15/el-mapa-de-la-marcha-al-congreso-los-ejes-de-los-reclamos-al-gobierno-y-el-operativo-de-seguridad/, https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-al-congreso-el-foro-de-discapacidad-cruzo-a-milei-las-causas-nobles-se-defienden-con-derechos/10/2026/, https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitaria, aumento salarial y fondos para becas, rechazo al ajuste económico del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/en-la-previa-a-la-marcha-universitaria-confirman-multas-a-funcionarios-por-la-ley-de-financiamiento-202610159380, https://www.infobae.com/politica/2026/10/15/diputados-en-vivo-ultimas-noticias-sobre-el-rechazo-al-dnu-702023-endeudamiento-y-emergencia-en-discapacidad/, https://www.infobae.com/politica/2026/10/15/el-mapa-de-la-marcha-al-congreso-los-ejes-de-los-reclamos-al-gobierno-y-el-operativo-de-seguridad/, https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-al-congreso-el-foro-de-discapacidad-cruzo-a-milei-las-causas-nobles-se-defienden-con-derechos/10/2026/, https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17200,6 +17200,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir el cumplimiento de la Ley de Financiamiento Universitario y denunciar el endeudamiento de las familias",
             "fuente": "https://www.inforegion.com.ar/2026/10/14/marcha-federal-universitaria-el-punto-de-encuentro-de-la-comunidad-unlz-2/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "14:00",
+            "lugar": "Plaza del Congreso, Ciudad de Buenos Aires",
+            "quien": "Consejo Interuniversitario Nacional (CIN), federaciones estudiantiles y gremios universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al congelamiento presupuestario y reclamo por salarios, becas y financiamiento para 2027",
+            "fuente": "https://www.inforegion.com.ar/2026/10/15/marcha-federal-universitaria-la-comunidad-academica-se-movilizo-en-todo-el-pais-contra-el-congelamiento-de-fondos/"
         },
         {
             "es_evento_relevante": true,
@@ -17350,6 +17360,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Denuncia de complicidad política, impunidad, precarización laboral y exigencia de justicia por violencia de género",
             "fuente": "https://www.laizquierdadiario.com/Laura-Vilches-Exigimos-la-huelga-general-para-que-la-tierra-tiemble"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "09:00",
+            "lugar": "Anexo del Palacio Vasallo, Concejo Municipal de Rosario",
+            "quien": "Sindicato de Peones de Taxis (SPT)",
+            "tipo_medida": "Movilización",
+            "motivo": "Objeciones y consultas sobre la regulación de Uber y DiDi, buscando equiparar requisitos con taxis y denunciar sobreoferta de unidades",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-sindicato-de-peones-de-taxis-lleva-al-concejo-sus-reclamos-por-la-regulacion-uber-y-didi/10/2026/"
         },
         {
             "es_evento_relevante": true,
