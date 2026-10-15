@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-14T18:17:37.565830-03:00",
+    "last_updated": "2026-10-14T21:22:12.961655-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17125,6 +17125,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo (principal) y otras plazas del país",
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a los datos oficiales de inflación, exigencia de aumento salarial del 30%, emergencia laboral y moratoria de deudas familiares",
+            "fuente": "https://www.datagremial.com/informacion-general/la-mesa-sindical-sobre-la-inflacion-oficial-de-septiembre-los-datos-se-parecen-cada-vez-mas-a-un-gran-grotesco-2026101415340, https://www.datagremial.com/informacion-general/la-mesa-sindical-sobre-la-inflacion-oficial-de-septiembre-los-los-datos-se-parecen-cada-vez-mas-a-un-gran-grotesco-2026101415340, https://elnacionaldematanza.com.ar/2026/10/11/jueves-sin-clases-en-provincia-que-escuelas-paran-y-por-que-ctera-suteba-y-feb-marchan-al-congreso/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
             "lugar": "Congreso Nacional y principales ciudades del país",
             "quien": "Trabajadores, estudiantes, jóvenes precarizados, mujeres, jubilados y sectores afectados por el ajuste",
             "tipo_medida": "Movilización",
@@ -17184,16 +17194,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
-            "horario": "13:00",
-            "lugar": "Plazas de Argentina",
-            "quien": "Mesa Sindical",
-            "tipo_medida": "Movilización",
-            "motivo": "Rechazo a las estadísticas oficiales de inflación, exigencia de aumento salarial del 30%, emergencia laboral para frenar despidos y moratoria de deudas familiares",
-            "fuente": "https://www.datagremial.com/informacion-general/la-mesa-sindical-sobre-la-inflacion-oficial-de-septiembre-los-los-datos-se-parecen-cada-vez-mas-a-un-gran-grotesco-2026101415340, https://elnacionaldematanza.com.ar/2026/10/11/jueves-sin-clases-en-provincia-que-escuelas-paran-y-por-que-ctera-suteba-y-feb-marchan-al-congreso/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
             "horario": "13:30",
             "lugar": "Congreso de la Nación",
             "quien": "CIN, FUA y Frente Sindical de Universidades Nacionales",
@@ -17236,10 +17236,20 @@
             "fecha": "2026-10-15",
             "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario",
-            "quien": "Estudiantes universitarios",
+            "quien": "Estudiantes y docentes universitarios",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamo por desfinanciamiento de la educación superior, congelamiento de becas y exigencia de aplicación de la ley de financiamiento",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/"
+            "motivo": "Defensa de carreras universitarias y Ley de Financiamiento Universitario",
+            "fuente": "https://www.infobae.com/sociedad/2026/10/14/tension-en-la-previa-de-la-marcha-universitaria-detuvieron-a-un-hombre-en-un-semaforazo-en-defensa-por-los-profesorados/, https://elciudadanoweb.com/la-quinta-marcha-federal-universitaria-suma-voluntades-la-intersindical-rosario-moviliza-este-jueves/, https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "15:30",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Comunidad universitaria (estudiantes, docentes, nodocentes) e Intersindical Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de la educación pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/marcha-federal-universitaria-rosario-se-moviliza-en-defensa-de-la-educacion-publica-y-exigiendo-el-cumplimiento-de-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
@@ -17305,6 +17315,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "No especificado",
+            "lugar": "Plaza de Mayo, Buenos Aires (inferido como destino federal)",
+            "quien": "Conjunto de sindicatos (CTA de los Trabajadores, ATE Santa Fe, SICONARA, CATT) y estudiantes universitarios",
+            "tipo_medida": "Marcha",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario, recomposición salarial docentes/nodocentes y aumento de recursos para universidades",
+            "fuente": "https://elciudadanoweb.com/marcha-federal-universitaria-fuerte-respaldo-del-movimiento-obrero-a-la-lucha-de-los-estudiantes/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
             "lugar": "Diversas ciudades de Argentina, con movilización específica en Rosario",
             "quien": "Comunidad universitaria y gremios docentes (liderados por Coad)",
             "tipo_medida": "Marcha Federal con paro universitario",
@@ -17365,21 +17385,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-17",
             "horario": "13:30",
+            "lugar": "No especificado",
+            "quien": "Comunidad universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Financiamiento universitario y cumplimiento de la ley",
+            "fuente": "https://elciudadanoweb.com/la-gente-se-enoja-el-insolito-pedido-de-ravier-a-los-periodistas-sobre-el-reclamo-universitario/, https://www.infobae.com/politica/2026/08/16/en-medio-de-tensiones-la-cgt-planea-un-acto-por-el-17-de-octubre-en-una-cancha-para-presionar-al-peronismo/, https://www.eldestapeweb.com/sociedad/hora-5-marcha-federal-universitaria-jueves-15-octubre-2026-20261014182142"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-17",
+            "horario": "13:30",
             "lugar": "Congreso Nacional",
             "quien": "ATE y universidades públicas",
             "tipo_medida": "Paro y Marcha",
             "motivo": "Derogación del Decreto 70/23 y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/ate-convoca-a-un-paro-nacional-de-24-horas-en-todo-el-pais-para-este-jueves/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-17",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Movilización",
-            "motivo": "Presión por marginación sindical en armado electoral 2027",
-            "fuente": "https://www.infobae.com/politica/2026/08/16/en-medio-de-tensiones-la-cgt-planea-un-acto-por-el-17-de-octubre-en-una-cancha-para-presionar-al-peronismo/"
         },
         {
             "es_evento_relevante": true,
