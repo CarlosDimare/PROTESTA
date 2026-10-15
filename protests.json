@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-15T02:33:53.600763-03:00",
+    "last_updated": "2026-10-15T07:52:21.046011-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17176,10 +17176,10 @@
             "fecha": "2026-10-15",
             "horario": "10:30",
             "lugar": "Congreso de la Nación",
-            "quien": "Foro Permanente de Discapacidad",
+            "quien": "Amplios sectores sociales, sindicales y estudiantiles (CGT, CTA, ATE, UTEP, universidades, movimientos sociales)",
             "tipo_medida": "Marcha",
-            "motivo": "Rechazo al ajuste del Gobierno y exigencia de derechos para personas con discapacidad",
-            "fuente": "https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-al-congreso-el-foro-de-discapacidad-cruzo-a-milei-las-causas-nobles-se-defienden-con-derechos/10/2026/, https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
+            "motivo": "Rechazo a políticas del Gobierno de Milei (tierras, universidades, endeudados y discapacidad) y apoyo a la derogación del DNU 70/23",
+            "fuente": "https://www.infobae.com/politica/2026/10/15/el-mapa-de-la-marcha-al-congreso-los-ejes-de-los-reclamos-al-gobierno-y-el-operativo-de-seguridad/, https://www.conclusion.com.ar/politica/en-la-previa-de-la-marcha-al-congreso-el-foro-de-discapacidad-cruzo-a-milei-las-causas-nobles-se-defienden-con-derechos/10/2026/, https://www.anred.org/milei-cumpli-la-ley-con-tomas-cortes-y-vigilias-estudiantes-preparan-la-quinta-marcha-federal-universitaria/, https://www.datagremial.com/escenario/pese-al-fallo-a-favor-los-gremios-universitarios-mantienen-la-marcha-federal-no-esperamos-el-cumplimiento-20261071000, https://www.inforegion.com.ar/2026/09/26/comenzaron-los-paros-escalonados-en-las-universidades-de-cara-a-la-marcha/, https://www.datagremial.com/informacion-general/se-vencio-el-plazo-para-cumplir-la-ley-de-financiamiento-universitario-el-frente-sindical-ratifica-medidas-20269301110, https://www.inforegion.com.ar/2026/09/24/los-gremios-ratifican-la-marcha-federal-universitaria-pese-al-ultimo-fallo/, https://elciudadanoweb.com/conflicto-universitario-los-gremios-ratifican-la-marcha-federal-pese-al-ultimo-fallo/, https://www.conclusion.com.ar/gremiales/el-fresu-reunio-a-organizaciones-sindicales-y-sociales-y-definio-profundizar-el-plan-de-lucha/09/2026/, https://www.datagremial.com/paritarias/fatun-confirma-cronograma-de-paros-por-15-dias-para-desembarcar-en-la-quinta-marcha-federal-universitaria-20269229320, https://www.inforegion.com.ar/2026/10/10/se-viene-la-quinta-marcha-federal-universitaria/, https://www.conclusion.com.ar/gremiales/docentes-de-la-cgt-se-suman-a-la-quinta-marcha-federal-universitaria-en-defensa-de-la-universidad-publica/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17305,6 +17305,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación Médica de Rosario (AMR) e instituciones de RED AMR",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la ley de financiamiento para educación pública y defender el derecho a la educación superior pública, gratuita y de calidad",
+            "fuente": "https://elciudadanoweb.com/defensa-de-la-educacion-publica-la-asociacion-medica-adhiere-a-la-marcha-federal-universitaria/, https://elciudadanoweb.com/bregman-llamo-a-enfrentar-a-milei-en-el-encuentro-nacional-de-mujeres-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "No especificado",
             "lugar": "Plaza de Mayo, Buenos Aires (inferido como destino federal)",
             "quien": "Conjunto de sindicatos (CTA de los Trabajadores, ATE Santa Fe, SICONARA, CATT) y estudiantes universitarios",
             "tipo_medida": "Marcha",
@@ -17320,16 +17330,6 @@
             "tipo_medida": "Marcha Federal con paro universitario",
             "motivo": "Rechazo a políticas de ajuste, incumplimiento de fallos judiciales y recortes presupuestarios en educación superior",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/crisis-universitaria-marchas-tomas-estudiantiles-y-amenazas-al-rector-de-unr/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Pan y Rosas/Frente de Izquierda",
-            "tipo_medida": "Movilización",
-            "motivo": "Contra el DNU 70/2023 y políticas de ajuste de Milei, con reclamo de paro general y unidad de la clase trabajadora",
-            "fuente": "https://elciudadanoweb.com/bregman-llamo-a-enfrentar-a-milei-en-el-encuentro-nacional-de-mujeres-nuestra-perspectiva-es-derrotarlo-con-la-huelga-general-y-las-mujeres-al-frente/"
         },
         {
             "es_evento_relevante": true,
