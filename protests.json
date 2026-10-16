@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-16T02:26:48.503987-03:00",
+    "last_updated": "2026-10-16T07:34:05.611469-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17400,6 +17400,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Incumplimiento de fallo sobre fondos universitarios y recortes para discapacidad",
             "fuente": "https://www.infobae.com/politica/2026/10/09/preocupa-la-economia-en-la-casa-rosada-pero-el-gobierno-descarta-un-escenario-de-crispacion-social/, https://www.clarin.com/informacion-general/nuevo-paro-universitario-pasa-clases-buenos-aires_0_vtL4tw5X9O.html"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-16",
+            "horario": "15:30",
+            "lugar": "Plaza de los Dos Congresos, Buenos Aires",
+            "quien": "Estudiantes universitarios (CIN, FUA, Frente Sindical de Universidades Nacionales) y sindicatos (CGT, CTA, ATE)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al DNU 70/23, defensa de la educación pública, contra la extranjerización de la tierra y políticas de ajuste",
+            "fuente": "https://motoreconomico.com.ar/masiva-movilizacion-al-congreso-en-defensa-de-la-universidad-publica-en-medio-de-un-fuerte-operativo-policial/"
         },
         {
             "es_evento_relevante": true,
