@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-15T22:04:19.961041-03:00",
+    "last_updated": "2026-10-16T02:26:48.503987-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17440,6 +17440,16 @@
             "tipo_medida": "Paro y Marcha",
             "motivo": "Derogación del Decreto 70/23 y cumplimiento de la Ley de Financiamiento Universitario",
             "fuente": "https://elciudadanoweb.com/ate-convoca-a-un-paro-nacional-de-24-horas-en-todo-el-pais-para-este-jueves/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-20",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Federación de Asociaciones de Trabajadores de la Sanidad Argentina (FATSA)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por actualización salarial y condiciones laborales ante congelamiento de salarios y aumento de costos",
+            "fuente": "https://estadodealerta.com.ar/paro-de-sanidad-el-martes-20-fatsa-con-su-paritaria-vencida-hace-45-dias-reclama-salarios/"
         },
         {
             "es_evento_relevante": true,
