@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-15T19:54:47.885970-03:00",
+    "last_updated": "2026-10-15T22:04:19.961041-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17245,16 +17245,6 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "15:30",
-            "lugar": "Plaza San Martín, Rosario",
-            "quien": "Intersindical Rosario y CATT Rosario",
-            "tipo_medida": "Marcha",
-            "motivo": "Defensa de educación pública y reclamo del cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-intersindical-y-la-catt-rosario-se-suman-este-jueves-a-la-marcha-federal-universitaria/10/2026/, https://www.infobae.com/sociedad/2026/10/14/tension-en-la-previa-de-la-marcha-universitaria-detuvieron-a-un-hombre-en-un-semaforazo-en-defensa-por-los-profesorados/, https://elciudadanoweb.com/la-quinta-marcha-federal-universitaria-suma-voluntades-la-intersindical-rosario-moviliza-este-jueves/, https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/, https://elciudadanoweb.com/marcha-federal-universitaria-rosario-se-moviliza-en-defensa-de-la-educacion-publica-y-exigiendo-el-cumplimiento-de-la-ley-de-financiamiento/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "15:30",
             "lugar": "Plaza San Martín, Rosario, avanzando hacia el Monumento Nacional a la Bandera",
             "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR), Sindicatos del sector privado (incluido SOEAR), Organizaciones sociales y estudiantiles",
             "tipo_medida": "Marcha",
@@ -17310,6 +17300,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el DNU 70/23 (extranjerización de tierras, aumento de alquileres y tasas, ajuste económico)",
             "fuente": "https://www.laizquierdadiario.com/Este-martes-a-las-calles-contra-el-fallo-de-la-Corte-y-el-DNU-70-23-a-las-16h-en-Tribunales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "17:00",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Marcha Federal Universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Protesta universitaria federal con lectura de documento multisectorial",
+            "fuente": "https://elciudadanoweb.com/marcha-federal-universitaria-habra-desvios-del-transporte-y-cortes-de-transito-en-el-centro-de-la-ciudad/, https://www.conclusion.com.ar/gremiales/la-intersindical-y-la-catt-rosario-se-suman-este-jueves-a-la-marcha-federal-universitaria/10/2026/, https://www.infobae.com/sociedad/2026/10/14/tension-en-la-previa-de-la-marcha-universitaria-detuvieron-a-un-hombre-en-un-semaforazo-en-defensa-por-los-profesorados/, https://elciudadanoweb.com/la-quinta-marcha-federal-universitaria-suma-voluntades-la-intersindical-rosario-moviliza-este-jueves/, https://www.conclusion.com.ar/la-ciudad/unr-estudiantes-mantienen-la-toma-y-estiman-que-la-marcha-del-jueves-va-a-ser-algo-muy-grande-y-muy-importante/10/2026/, https://elciudadanoweb.com/marcha-federal-universitaria-rosario-se-moviliza-en-defensa-de-la-educacion-publica-y-exigiendo-el-cumplimiento-de-la-ley-de-financiamiento/"
         },
         {
             "es_evento_relevante": true,
