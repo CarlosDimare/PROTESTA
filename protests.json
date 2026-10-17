@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-17T10:34:58.105655-03:00",
+    "last_updated": "2026-10-17T13:54:35.504445-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17435,21 +17435,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-17",
             "horario": "13:30",
-            "lugar": "No especificado",
-            "quien": "Comunidad universitaria",
+            "lugar": "Congreso Nacional",
+            "quien": "Estudiantes universitarios y secundarios (Federación Universitaria Argentina - FUA)",
             "tipo_medida": "Marcha",
-            "motivo": "Financiamiento universitario y cumplimiento de la ley",
-            "fuente": "https://elciudadanoweb.com/la-gente-se-enoja-el-insolito-pedido-de-ravier-a-los-periodistas-sobre-el-reclamo-universitario/, https://www.infobae.com/politica/2026/08/16/en-medio-de-tensiones-la-cgt-planea-un-acto-por-el-17-de-octubre-en-una-cancha-para-presionar-al-peronismo/, https://www.eldestapeweb.com/sociedad/hora-5-marcha-federal-universitaria-jueves-15-octubre-2026-20261014182142"
+            "motivo": "Defensa de la universidad pública, oposición al DNU 12/70, Ley de Tierras y Emergencia en Discapacidad",
+            "fuente": "https://www.anred.org/apuntes-apurados-tras-la-movilizacion-frente-al-congreso-en-algun-momento-hay-que-pegar-el-salto/, https://elciudadanoweb.com/ate-convoca-a-un-paro-nacional-de-24-horas-en-todo-el-pais-para-este-jueves/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-17",
             "horario": "13:30",
-            "lugar": "Congreso Nacional",
-            "quien": "ATE y universidades públicas",
-            "tipo_medida": "Paro y Marcha",
-            "motivo": "Derogación del Decreto 70/23 y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://elciudadanoweb.com/ate-convoca-a-un-paro-nacional-de-24-horas-en-todo-el-pais-para-este-jueves/"
+            "lugar": "No especificado",
+            "quien": "Comunidad universitaria",
+            "tipo_medida": "Marcha",
+            "motivo": "Financiamiento universitario y cumplimiento de la ley",
+            "fuente": "https://elciudadanoweb.com/la-gente-se-enoja-el-insolito-pedido-de-ravier-a-los-periodistas-sobre-el-reclamo-universitario/, https://www.infobae.com/politica/2026/08/16/en-medio-de-tensiones-la-cgt-planea-un-acto-por-el-17-de-octubre-en-una-cancha-para-presionar-al-peronismo/, https://www.eldestapeweb.com/sociedad/hora-5-marcha-federal-universitaria-jueves-15-octubre-2026-20261014182142"
         },
         {
             "es_evento_relevante": true,
