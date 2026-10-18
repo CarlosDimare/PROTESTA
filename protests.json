@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-17T20:45:32.765376-03:00",
+    "last_updated": "2026-10-17T23:35:57.024604-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17453,6 +17453,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-18",
+            "horario": "14:00",
+            "lugar": "París, Marsella y Lyon",
+            "quien": "Movimiento 'Amarillos y Jóvenes'",
+            "tipo_medida": "Marcha y Piquete",
+            "motivo": "Contra el aumento del costo de vida y por mejores condiciones educativas",
+            "fuente": "https://elciudadanoweb.com/el-17-de-octubre-galo-estudiantes-sindicalistas-y-chalecos-amarillos-se-movilizan-en-toda-francia-contra-el-aumento-del-costo-de-la-vida-y-por-mejores-condiciones-educativas/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-20",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -17460,6 +17470,16 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por actualización salarial y condiciones laborales ante congelamiento de salarios y aumento de costos",
             "fuente": "https://estadodealerta.com.ar/paro-de-sanidad-el-martes-20-fatsa-con-su-paritaria-vencida-hace-45-dias-reclama-salarios/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-22",
+            "horario": "13:30",
+            "lugar": "Plaza de los dos Congresos, Congreso Nacional, Buenos Aires",
+            "quien": "Sectores universitarios y estudiantiles",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al DNU 70/2023 y contra las políticas del gobierno de Milei",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-no-llamo-al-paro-solo-puso-la-bandera-y-se-tomo-el-palo-cuando-empezo-la-represion, https://www.agencianova.com/gremiales/2026/10/15/173928/video-jueves-super-caliente-con-marcha-al-congreso-en-reclamo-de-la-ley-universitaria-y-contra-el-dnu-7023/"
         },
         {
             "es_evento_relevante": true,
