@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-17T23:35:57.024604-03:00",
+    "last_updated": "2026-10-18T04:44:05.761601-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17460,6 +17460,16 @@
             "tipo_medida": "Marcha y Piquete",
             "motivo": "Contra el aumento del costo de vida y por mejores condiciones educativas",
             "fuente": "https://elciudadanoweb.com/el-17-de-octubre-galo-estudiantes-sindicalistas-y-chalecos-amarillos-se-movilizan-en-toda-francia-contra-el-aumento-del-costo-de-la-vida-y-por-mejores-condiciones-educativas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-18",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Clínicas y sanatorios privados",
+            "tipo_medida": "Suspensión de servicios",
+            "motivo": "Crisis financiera ante la posible no prórroga de la emergencia sanitaria y quiebra del sistema de seguridad social",
+            "fuente": "https://www.infobae.com/politica/2026/10/18/circulo-rojo-preocupacion-por-la-crisis-que-atraviesa-el-sector-de-la-salud-y-relaciones-cruzadas-en-la-eleccion-del-consejo-de-la-magistratura/"
         },
         {
             "es_evento_relevante": true,
