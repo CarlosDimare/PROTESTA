@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T15:12:44.760591-03:00",
+    "last_updated": "2026-10-19T19:52:16.228669-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17470,6 +17470,16 @@
             "tipo_medida": "Suspensión de servicios",
             "motivo": "Crisis financiera ante la posible no prórroga de la emergencia sanitaria y quiebra del sistema de seguridad social",
             "fuente": "https://www.infobae.com/politica/2026/10/18/circulo-rojo-preocupacion-por-la-crisis-que-atraviesa-el-sector-de-la-salud-y-relaciones-cruzadas-en-la-eleccion-del-consejo-de-la-magistratura/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-20",
+            "horario": "09:00",
+            "lugar": "Escuelas de toda la Provincia de Buenos Aires",
+            "quien": "Asociación de Maestros de la Provincia de Buenos Aires",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo a propuesta salarial del gobierno de Kicillof por considerar un ajuste que no compensa la pérdida del poder adquisitivo",
+            "fuente": "https://www.inforegion.com.ar/2026/10/19/el-acuerdo-paritario-no-freno-los-paros-docentes-en-la-provincia/"
         },
         {
             "es_evento_relevante": true,
