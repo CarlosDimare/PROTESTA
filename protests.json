@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T08:56:22.300619-03:00",
+    "last_updated": "2026-10-19T15:12:44.760591-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17483,6 +17483,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-21",
+            "horario": "17:00",
+            "lugar": "Quinta de Olivos",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Protesta contra el régimen de retiros voluntarios del gobierno, calificado como 'despido extorsivo' y parte del plan de ajuste estatal",
+            "fuente": "https://www.conclusion.com.ar/gremiales/ate-denuncia-despido-extorsivo-y-prepara-una-marcha-a-olivos-contra-el-plan-de-retiros-de-milei/10/2026/, https://www.opinandosannicolas.ar/2026/10/ate-marcha-olivos-retiros-voluntarios/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-22",
             "horario": "13:30",
             "lugar": "Plaza de los dos Congresos, Congreso Nacional, Buenos Aires",
@@ -17490,6 +17500,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al DNU 70/2023 y contra las políticas del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-no-llamo-al-paro-solo-puso-la-bandera-y-se-tomo-el-palo-cuando-empezo-la-represion, https://www.agencianova.com/gremiales/2026/10/15/173928/video-jueves-super-caliente-con-marcha-al-congreso-en-reclamo-de-la-ley-universitaria-y-contra-el-dnu-7023/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-22",
+            "horario": "No especificado",
+            "lugar": "Dirección General de Cultura y Educación (DGCyE)",
+            "quien": "SUTEBA Multicolor",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo al acuerdo salarial del 6%, reclamo de asambleas por establecimiento, devolución de descuentos por paros, defensa del estatuto docente, rechazo al presentismo y mejoras en IOMA y condiciones laborales",
+            "fuente": "https://www.anred.org/no-es-aumento-es-ajuste-docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizacione/"
         },
         {
             "es_evento_relevante": true,
