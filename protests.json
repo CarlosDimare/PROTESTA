@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-18T19:13:09.486431-03:00",
+    "last_updated": "2026-10-18T21:45:50.344305-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17574,12 +17574,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-20",
-            "horario": "No especificado",
+            "horario": "La hora de inicio del evento de protesta es:  \n**14:00**",
             "lugar": "No especificado",
-            "quien": "CGIL y centrales sindicales italianas",
-            "tipo_medida": "Huelga General",
-            "motivo": "Rechazo a la situación económica",
-            "fuente": "https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/"
+            "quien": "Confederación General Italiana del Trabajo (CGIL)",
+            "tipo_medida": "Huelga general",
+            "motivo": "Contra recortes presupuestarios y pedido de más fondos para educación",
+            "fuente": "https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
         },
         {
             "es_evento_relevante": true,
