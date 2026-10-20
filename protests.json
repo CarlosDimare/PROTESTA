@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-19T19:52:16.228669-03:00",
+    "last_updated": "2026-10-19T22:32:13.733196-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17530,6 +17530,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas y apoyo al sector industrial",
             "fuente": "https://motoreconomico.com.ar/marcha-nacional-del-calzado-empresarios-anuncian-masiva-protesta-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-24",
+            "horario": "No especificado",
+            "lugar": "Francia",
+            "quien": "Chalecos Amarillos y organizaciones sociales",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigencia de renuncia de Macron, democracia, dignidad y justicia ante represión",
+            "fuente": "https://www.laizquierdadiario.com/Crece-la-rebelion-en-Europa-huelga-educativa-en-Madrid-nuevas-protestas-juveniles-en-Francia-e"
         },
         {
             "es_evento_relevante": true,
