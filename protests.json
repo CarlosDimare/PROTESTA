@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20T09:41:21.672364-03:00",
+    "last_updated": "2026-10-20T14:49:59.725188-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17135,6 +17135,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-15",
             "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Movimiento universitario, sindicatos y organizaciones sociales",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo contra el ajuste, defensa de educación pública, soberanía, derechos sociales y bienes comunes; exigencia de cumplimiento de la Ley de Financiamiento Universitario y rechazo al DNU 70/23",
+            "fuente": "https://www.anred.org/argentina-no-la-entenderias-la-marcha-que-transformo-un-reclamo-universitario-en-una-batalla-contra-el-ajuste/, https://www.inforegion.com.ar/2026/10/15/quinta-marcha-federal-universitaria-estudiantes-docentes-y-rectores-se-movilizan-al-congreso/, https://www.infobae.com/politica/2026/10/14/en-la-previa-de-la-marcha-las-universidades-se-muestran-combativas-la-multa-al-gobierno-es-muy-importante/, https://www.infobae.com/politica/2026/10/14/el-gobierno-descontara-el-dia-laboral-a-los-estatales-que-adhieran-al-paro-nacional-de-ate/, https://www.laizquierdadiario.com/Las-maniobras-del-Congreso-y-la-Corte-solo-buscan-evitar-otro-6-de-agosto-en-las-calles, https://www.laizquierdadiario.com/Que-la-bronca-se-haga-movilizacion-Bregman-te-invita-a-marchar-este-Jueves-15, https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://www.datagremial.com/informacion-general/ate-convoco-a-un-paro-nacional-para-este-jueves-con-el-objetivo-de-voltear-el-decreto-70-23-completo-2026101311360, https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno, https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-15",
+            "horario": "10:00",
             "lugar": "Plaza de Mayo (principal) y otras plazas del país",
             "quien": "Mesa Sindical",
             "tipo_medida": "Movilización",
@@ -17270,16 +17280,6 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir la aplicación inmediata de la Ley de Financiamiento Universitaria y rechazo al DNU 70/2023",
             "fuente": "https://www.infobae.com/politica/2026/10/15/marcha-universitaria-y-contra-el-dnu-702023-en-vivo-las-ultimas-noticias-de-las-protestas-en-congreso/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-15",
-            "horario": "16:00",
-            "lugar": "Congreso Nacional",
-            "quien": "Comunidad universitaria y gremios educativos",
-            "tipo_medida": "Marcha",
-            "motivo": "Financiamiento universitario, recomposición salarial y cumplimiento de leyes educativas",
-            "fuente": "https://www.inforegion.com.ar/2026/10/15/quinta-marcha-federal-universitaria-estudiantes-docentes-y-rectores-se-movilizan-al-congreso/, https://www.infobae.com/politica/2026/10/14/en-la-previa-de-la-marcha-las-universidades-se-muestran-combativas-la-multa-al-gobierno-es-muy-importante/, https://www.infobae.com/politica/2026/10/14/el-gobierno-descontara-el-dia-laboral-a-los-estatales-que-adhieran-al-paro-nacional-de-ate/, https://www.laizquierdadiario.com/Las-maniobras-del-Congreso-y-la-Corte-solo-buscan-evitar-otro-6-de-agosto-en-las-calles, https://www.laizquierdadiario.com/Que-la-bronca-se-haga-movilizacion-Bregman-te-invita-a-marchar-este-Jueves-15, https://www.laizquierdadiario.com/Presupuesto-2027-entre-recortes-a-educacion-y-gasto-numeros-truchos-y-sometimiento-al-FMI, https://www.laizquierdadiario.com/La-Corte-suspendio-la-derogacion-de-la-Ley-de-Tierras-el-15-copemos-las-calles-para-tirar-todo-el, https://www.laizquierdadiario.com/La-Corte-Suprema-recalcula-A-las-calles-el-15-10-contra-el-ajuste-y-el-remate-del-pais, https://www.datagremial.com/informacion-general/las-dos-cta-marcharon-contra-el-plan-sistematico-de-entrega-de-la-soberania-de-milei-avalado-por-la-corte-20261079530, https://elciudadanoweb.com/ley-de-tierras-hubo-marcha-hacia-tribunales-en-contra-del-fallo-de-la-corte-que-permite-la-extranjerizacion/, https://elciudadanoweb.com/la-corte-suprema-convoco-a-dos-conjueces-para-un-nuevo-fallo-sobre-la-ley-de-tierras/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-15-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://elciudadanoweb.com/rumbo-a-la-movilizacion-del-14-de-octubre-las-universidades-nacionales-enfrentan-las-politicas-de-milei/, https://www.laizquierdadiario.com/Coordinar-la-bronca-seamos-miles-el-6-y-el-15-contra-la-Corte-y-el-DNU-70-2023-por-un-paro-nacional, https://www.conclusion.com.ar/gremiales/paro-hasta-el-viernes-en-la-utn-es-muy-dificil-continuar-es-muy-dificil-la-situacion-es-muy-cansadora/09/2026/, https://elciudadanoweb.com/utn-docentes-iniciaron-un-paro-de-72-horas-por-reclamos-salariales/, https://www.baenegocios.com/politica/marcha-de-la-bronca-2026-en-argentina-fecha-hora-y-puntos-de-concentracion/, https://elciudadanoweb.com/tras-el-fallo-de-la-corte-que-permite-la-venta-ilimitada-de-tierras-a-extranjeros-la-oposicion-convoco-a-sesion-especial-en-diputados-para-voltear-el-dnu-70/, https://www.conclusion.com.ar/gremiales/organizaciones-sociales-y-gremios-movilizaron-en-rosario-contra-el-fallo-de-la-corte-que-derogo-la-ley-de-tierras/10/2026/, https://www.aterosario.org.ar/ate-rosario-prepara-una-gran-jornada-de-protesta-y-desobligacion.html, https://www.laizquierdadiario.com/Agua-en-emergencia-negocios-en-marcha-Torres-impulsa-el-mega-data-center-en-Trelew, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://www.datagremial.com/informacion-general/ate-convoco-a-un-paro-nacional-para-este-jueves-con-el-objetivo-de-voltear-el-decreto-70-23-completo-2026101311360, https://www.infobae.com/politica/2026/10/07/financiamiento-universitario-el-gobierno-apelo-el-fallo-judicial-y-las-universidades-preparan-una-movilizacion-al-congreso/, https://www.elterritorio.com.ar/noticias/2026/10/07/918795-rectores-universitarios-se-movilizan-a-plaza-de-mayo-y-crece-la-tension-con-el-gobierno, https://www.datagremial.com/informacion-general/fedun-confirmo-la-5-marcha-federal-universitaria-los-docentes-vuelven-a-las-calles-contra-el-incumplimiento-de-la-ley-20261021520"
         },
         {
             "es_evento_relevante": true,
@@ -17484,6 +17484,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-20",
+            "horario": "11:00",
+            "lugar": "Estación de Subte B (lugar exacto no especificado)",
+            "quien": "Prensa del Subte (@prensadelsubte) y sindicatos adherentes",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir la liberación inmediata de los delegados del subte Claudio Dellecarbonara, Néstor Segovia y Facundo Heredia, y repudiar la represión policial durante una protesta",
+            "fuente": "https://www.laizquierdadiario.com/La-CGT-Garrahan-Ademys-APA-Suteba-Matanza-y-centros-de-estudiantes-exigen-la-liberacion-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-20",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Federación de Asociaciones de Trabajadores de la Sanidad Argentina (FATSA)",
@@ -17540,6 +17550,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigencia de renuncia de Macron, democracia, dignidad y justicia ante represión",
             "fuente": "https://www.laizquierdadiario.com/Crece-la-rebelion-en-Europa-huelga-educativa-en-Madrid-nuevas-protestas-juveniles-en-Francia-e"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-26",
+            "horario": "07:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos estudiantiles y chalecos amarillos",
+            "tipo_medida": "Movilización",
+            "motivo": "Descontento social, inseguridad y malestar económico",
+            "fuente": "https://www.conclusion.com.ar/internacionales/se-avecinan-mas-protestas-en-francia-macron-se-debilita-y-le-pen-capitaliza-el-desgaste/10/2026/, https://www.infobae.com/america/mundo/2026/10/17/chalecos-amarillos-estudiantes-y-sindicatos-se-preparan-para-una-jornada-de-protestas-en-francia/"
         },
         {
             "es_evento_relevante": true,
