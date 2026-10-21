@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T13:00:21.707853-03:00",
+    "last_updated": "2026-10-21T16:56:44.533433-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17530,6 +17530,16 @@
             "tipo_medida": "Paro",
             "motivo": "Rechazo a propuesta salarial 6% y reclamo por condiciones laborales",
             "fuente": "https://www.inforegion.com.ar/2026/10/21/paritaria-docente-la-feb-rechazo-el-aumento-y-va-al-paro/, https://www.datagremial.com/paritarias/los-gremios-docentes-de-la-feb-rechazaron-por-unanimidad-la-oferta-salarial-de-kicillof-y-activaran-un-paro-de-48-horas-en-toda-la-provincia-2026102019510, https://www.infobae.com/politica/2026/10/20/un-gremio-docente-rechazo-la-mejora-salarial-del-gobierno-bonaerense-y-anuncio-un-nuevo-paro-de-48-horas/, https://infonoroeste.com.ar/nota/55401/feb-rechazo-la-oferta-de-la-provincia-y-va-al-paro-por-48-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-22",
+            "horario": "10:00",
+            "lugar": "La Plata",
+            "quien": "SUTEBA Multicolor y sectores disidentes de la docencia bonaerense (incluyendo FEB)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a la paritaria del 6% del gobierno de Kicillof; reclamo de recomposición salarial real, cláusula gatillo automática, indexación por inflación, aumento del presupuesto educativo y soluciones al deterioro edilicio",
+            "fuente": "https://www.laizquierdadiario.com/Arranco-el-paro-docente-en-PBA-rechazo-al-aumento-miserable-propuesto-por-Kicillof"
         },
         {
             "es_evento_relevante": true,
