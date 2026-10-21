@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T16:56:44.533433-03:00",
+    "last_updated": "2026-10-21T20:03:54.699036-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17640,6 +17640,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a la implementación del Fondo de Asistencia Laboral (FAL) y defensa del sistema previsional",
             "fuente": "https://estadodealerta.com.ar/proyecto-de-diputados-de-extraccion-gremial-para-derogar-el-fal-antes-que-de-que-entre-en-vigencia-en-noviembre/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-02",
+            "horario": "No especificado",
+            "lugar": "Universidad Le Mirail, Toulouse",
+            "quien": "Estudiantes y trabajadores universitarios",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por sistema de calificaciones flexible, postergación de exámenes y oposición a represión gubernamental",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-estudiantiles-en-distintos-puntos-de-Francia-impulsan-la-autoorganizacion-contra-Macron"
         },
         {
             "es_evento_relevante": true,
