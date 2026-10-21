@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-20T18:11:17.348039-03:00",
+    "last_updated": "2026-10-20T21:25:44.908208-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17504,6 +17504,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-21",
+            "horario": "09:00",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Camioneros",
+            "tipo_medida": "Paro",
+            "motivo": "Defensa de indemnizaciones para personal de recolección de residuos en contratos 2028-2038",
+            "fuente": "https://www.infobae.com/politica/2026/10/20/el-conflicto-de-los-metrodelegados-una-tormenta-perfecta-que-refleja-las-necesidades-electorales/, https://www.telediario.mx/comunidad/marchas-cdmx-21-octubre-2026-rutas-y-horarios"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-21",
             "horario": "17:00",
             "lugar": "Quinta de Olivos",
             "quien": "Asociación Trabajadores del Estado (ATE)",
@@ -17518,8 +17528,8 @@
             "lugar": "Provincia de Buenos Aires",
             "quien": "Federación de Educadores Bonaerenses (FEB)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a propuesta salarial del 6% del gobierno de Axel Kicillof; reclamo por recomposición salarial y condiciones laborales",
-            "fuente": "https://www.infobae.com/politica/2026/10/20/un-gremio-docente-rechazo-la-mejora-salarial-del-gobierno-bonaerense-y-anuncio-un-nuevo-paro-de-48-horas/, https://infonoroeste.com.ar/nota/55401/feb-rechazo-la-oferta-de-la-provincia-y-va-al-paro-por-48-horas/"
+            "motivo": "Rechazo a propuesta salarial del 6% por insuficiente frente a la pérdida del poder adquisitivo",
+            "fuente": "https://www.datagremial.com/paritarias/los-gremios-docentes-de-la-feb-rechazaron-por-unanimidad-la-oferta-salarial-de-kicillof-y-activaran-un-paro-de-48-horas-en-toda-la-provincia-2026102019510, https://www.infobae.com/politica/2026/10/20/un-gremio-docente-rechazo-la-mejora-salarial-del-gobierno-bonaerense-y-anuncio-un-nuevo-paro-de-48-horas/, https://infonoroeste.com.ar/nota/55401/feb-rechazo-la-oferta-de-la-provincia-y-va-al-paro-por-48-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -17650,6 +17660,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra recortes presupuestarios y pedido de más fondos para educación",
             "fuente": "https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-XX",
+            "horario": "La hora de inicio del evento de protesta en Bogotá es:  \n**10:00**",
+            "lugar": "Colombia",
+            "quien": "UTRADEC-CGT y centrales sindicales colombianas",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Rechazo a políticas del gobierno de Abelardo de la Espriella, defensa del salario mínimo vital y oposición a proyectos que afectan empleo público",
+            "fuente": "https://www.datagremial.com/informacion-general/estatales-colombianos-protagonizan-la-primera-gran-movilizacion-contra-las-politicas-abelardo-de-la-espriella-202610209590, https://elpais.com/america-colombia/2026-10-14/marchas-del-14-de-octubre-en-colombia-horarios-puntos-de-encuentro-y-motivos-de-las-protestas-contra-de-la-espriella.html"
         },
         {
             "es_evento_relevante": true,
