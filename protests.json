@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-21T08:10:32.829291-03:00",
+    "last_updated": "2026-10-21T13:00:21.707853-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17515,21 +17515,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-21",
             "horario": "17:00",
-            "lugar": "Quinta de Olivos",
+            "lugar": "Quinta Presidencial de Olivos",
             "quien": "Asociación Trabajadores del Estado (ATE)",
             "tipo_medida": "Movilización",
-            "motivo": "Protesta contra el régimen de retiros voluntarios del gobierno, calificado como 'despido extorsivo' y parte del plan de ajuste estatal",
-            "fuente": "https://www.conclusion.com.ar/gremiales/ate-denuncia-despido-extorsivo-y-prepara-una-marcha-a-olivos-contra-el-plan-de-retiros-de-milei/10/2026/, https://www.opinandosannicolas.ar/2026/10/ate-marcha-olivos-retiros-voluntarios/"
+            "motivo": "Contra el régimen de retiros voluntarios para empleados públicos, despidos, pérdida de poder adquisitivo, paritarias por debajo de la inflación y cierre de organismos públicos, bajo la consigna 'No se aguanta más'",
+            "fuente": "https://www.anred.org/ate-marcha-a-la-quinta-de-olivos-contra-los-retiros-voluntarios-se-endeudan-en-dolares-para-despedir-en-pesos/, https://www.conclusion.com.ar/gremiales/ate-denuncia-despido-extorsivo-y-prepara-una-marcha-a-olivos-contra-el-plan-de-retiros-de-milei/10/2026/, https://www.opinandosannicolas.ar/2026/10/ate-marcha-olivos-retiros-voluntarios/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-22",
-            "horario": "13:00",
+            "horario": "00:00",
             "lugar": "Provincia de Buenos Aires",
             "quien": "Federación de Educadores Bonaerenses (FEB)",
             "tipo_medida": "Paro",
-            "motivo": "Rechazo a propuesta salarial del 6% por insuficiente frente a la pérdida del poder adquisitivo",
-            "fuente": "https://www.datagremial.com/paritarias/los-gremios-docentes-de-la-feb-rechazaron-por-unanimidad-la-oferta-salarial-de-kicillof-y-activaran-un-paro-de-48-horas-en-toda-la-provincia-2026102019510, https://www.infobae.com/politica/2026/10/20/un-gremio-docente-rechazo-la-mejora-salarial-del-gobierno-bonaerense-y-anuncio-un-nuevo-paro-de-48-horas/, https://infonoroeste.com.ar/nota/55401/feb-rechazo-la-oferta-de-la-provincia-y-va-al-paro-por-48-horas/"
+            "motivo": "Rechazo a propuesta salarial 6% y reclamo por condiciones laborales",
+            "fuente": "https://www.inforegion.com.ar/2026/10/21/paritaria-docente-la-feb-rechazo-el-aumento-y-va-al-paro/, https://www.datagremial.com/paritarias/los-gremios-docentes-de-la-feb-rechazaron-por-unanimidad-la-oferta-salarial-de-kicillof-y-activaran-un-paro-de-48-horas-en-toda-la-provincia-2026102019510, https://www.infobae.com/politica/2026/10/20/un-gremio-docente-rechazo-la-mejora-salarial-del-gobierno-bonaerense-y-anuncio-un-nuevo-paro-de-48-horas/, https://infonoroeste.com.ar/nota/55401/feb-rechazo-la-oferta-de-la-provincia-y-va-al-paro-por-48-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -17540,6 +17540,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al DNU 70/2023 y contra las políticas del gobierno de Milei",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-no-llamo-al-paro-solo-puso-la-bandera-y-se-tomo-el-palo-cuando-empezo-la-represion, https://www.agencianova.com/gremiales/2026/10/15/173928/video-jueves-super-caliente-con-marcha-al-congreso-en-reclamo-de-la-ley-universitaria-y-contra-el-dnu-7023/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-22",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CATT (Confederación Argentina de Trabajadores del Transporte) en coordinación con CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a detenciones de dirigentes sindicales, defensa de derechos laborales y protesta contra represión y criminalización de la protesta",
+            "fuente": "https://www.conclusion.com.ar/politica/schmid-repudio-la-detencion-de-los-metrodelegados-y-advirtio-sobre-la-criminalizacion-de-la-protesta/10/2026/"
         },
         {
             "es_evento_relevante": true,
