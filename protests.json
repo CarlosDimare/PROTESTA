@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22T04:01:55.815709-03:00",
+    "last_updated": "2026-10-22T09:56:56.225674-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17554,6 +17554,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-22",
+            "horario": "18:30",
+            "lugar": "Parque Las Heras (avenida Las Heras y Bulnes)",
+            "quien": "Asamblea de Residentes y Concurrentes de la Ciudad de Buenos Aires",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por recomposición salarial del 30%, contra deterioro laboral y en defensa de salud pública",
+            "fuente": "https://www.anred.org/que-no-se-apague-la-salud-residentes-y-concurrentes-realizan-marcha-de-las-velas-contra-el-ajuste-en-los-hospitales-portenos/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-22",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "CATT (Confederación Argentina de Trabajadores del Transporte) en coordinación con CGT",
@@ -17613,6 +17623,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "Sindicatos portuarios internacionales",
+            "tipo_medida": "Huelga y movilización",
+            "motivo": "Contra transporte de armas, militarización de puertos y economía de guerra",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-portuaria-internacional-el-30-de-octubre-contra-el-trafico-de-armas-y-la-economia-de-guerra"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-31",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -17650,6 +17670,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo por sistema de calificaciones flexible, postergación de exámenes y oposición a represión gubernamental",
             "fuente": "https://www.laizquierdadiario.com/Asambleas-estudiantiles-en-distintos-puntos-de-Francia-impulsan-la-autoorganizacion-contra-Macron"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-05",
+            "horario": "00:00",
+            "lugar": "Francia",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Ampliación de la huelga general en respuesta a políticas del gobierno y represión",
+            "fuente": "https://www.laizquierdadiario.com/Francia-por-la-presion-de-la-historica-movilizacion-del-17-de-octubre-la-CGT-habla-de-generalizar"
         },
         {
             "es_evento_relevante": true,
