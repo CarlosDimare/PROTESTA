@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22T18:13:53.801616-03:00",
+    "last_updated": "2026-10-22T21:26:22.477952-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17593,6 +17593,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-23",
+            "horario": "12:00",
+            "lugar": "Todas las dependencias judiciales de Tierra del Fuego",
+            "quien": "SEJUP (Sindicato Judicial Provincial de Tierra del Fuego)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo de urgente recomposición salarial y defensa de derechos laborales ante falta de respuestas del Ejecutivo provincial",
+            "fuente": "https://www.datagremial.com/informacion-general/los-judiciales-de-varias-provincias-profundizan-sus-reclamos-por-mejoras-salariales-y-laborales-202610229320"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-24",
             "horario": "No especificado",
             "lugar": "Francia",
@@ -17610,6 +17620,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Descontento social, inseguridad y malestar económico",
             "fuente": "https://www.conclusion.com.ar/internacionales/se-avecinan-mas-protestas-en-francia-macron-se-debilita-y-le-pen-capitaliza-el-desgaste/10/2026/, https://www.infobae.com/america/mundo/2026/10/17/chalecos-amarillos-estudiantes-y-sindicatos-se-preparan-para-una-jornada-de-protestas-en-francia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "15:00",
+            "lugar": "Todas las universidades nacionales del país",
+            "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales) y Frente Sindical de Universidades Nacionales",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial de trabajadores docentes y nodocentes",
+            "fuente": "https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "No especificado",
+            "lugar": "Universidades públicas de todo el país",
+            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por la aplicación de la Ley de Financiamiento Universitario y recomposición salarial de los trabajadores",
+            "fuente": "https://www.inforegion.com.ar/2026/10/22/universidades-trabajadores-nodocentes-realizaran-cuatro-dias-de-paro/"
         },
         {
             "es_evento_relevante": true,
@@ -17710,6 +17740,16 @@
             "tipo_medida": "Paro",
             "motivo": "Conquista del acceso a la vivienda y todas las demandas del pueblo trabajador contra la especulación inmobiliaria y el rentismo",
             "fuente": "https://www.laizquierdadiario.com/Por-Maricarmen-huelga-general-en-ocho-dias-de-movilizacion-hicimos-mas-que-en-ocho-anos-de, https://www.infobae.com/espana/2026/09/30/todas-las-manifestaciones-por-la-vivienda-este-fin-de-semana-fechas-horas-y-ciudades-confirmadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-15",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paro general",
+            "motivo": "Rechazo a la política socioeconómica del gobierno de Javier Milei",
+            "fuente": "https://www.infobae.com/politica/2026/10/22/la-cgt-ya-recibio-senales-positivas-sobre-la-visita-del-papa-pero-podrian-reprogramarse-algunas-actividades/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
         },
         {
             "es_evento_relevante": true,
