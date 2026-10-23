@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-23T07:55:47.810715-03:00",
+    "last_updated": "2026-10-23T12:43:46.554733-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17634,22 +17634,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-28",
+            "horario": "00:00",
+            "lugar": "Universidades Nacionales",
+            "quien": "Federación Argentina de los Trabajadores de las Universidades Nacionales (Fatun)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.conclusion.com.ar/gremiales/los-no-docentes-universitarios-lanzan-un-plan-de-lucha-con-cuatro-paros-para-exigir-la-aplicacion-de-la-ley-universitaria/10/2026/, https://www.inforegion.com.ar/2026/10/22/universidades-trabajadores-nodocentes-realizaran-cuatro-dias-de-paro/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
             "horario": "15:00",
             "lugar": "Todas las universidades nacionales del país",
             "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales) y Frente Sindical de Universidades Nacionales",
             "tipo_medida": "Paro",
             "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial de trabajadores docentes y nodocentes",
             "fuente": "https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-28",
-            "horario": "No especificado",
-            "lugar": "Universidades públicas de todo el país",
-            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por la aplicación de la Ley de Financiamiento Universitario y recomposición salarial de los trabajadores",
-            "fuente": "https://www.inforegion.com.ar/2026/10/22/universidades-trabajadores-nodocentes-realizaran-cuatro-dias-de-paro/"
         },
         {
             "es_evento_relevante": true,
