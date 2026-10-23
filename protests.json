@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-22T21:26:22.477952-03:00",
+    "last_updated": "2026-10-23T02:45:50.125345-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17590,6 +17590,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas económicas y apoyo al sector industrial",
             "fuente": "https://motoreconomico.com.ar/marcha-nacional-del-calzado-empresarios-anuncian-masiva-protesta-contra-milei/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-23",
+            "horario": "10:00",
+            "lugar": "Estadio Único de La Plata",
+            "quien": "UPSRA (Unión Personal de Seguridad de la República Argentina)",
+            "tipo_medida": "Movilización",
+            "motivo": "Fiscalizar el cumplimiento del convenio laboral CCT 507/07 para trabajadores de control de acceso y permanencia",
+            "fuente": "https://www.datagremial.com/informacion-general/bts-un-estadio-repleto-y-una-pelea-gremial-upsra-entro-sutcapra-se-quedo-en-la-puerta-2026102221520"
         },
         {
             "es_evento_relevante": true,
