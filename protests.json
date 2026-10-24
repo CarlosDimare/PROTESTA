@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T12:19:07.357219-03:00",
+    "last_updated": "2026-10-24T15:36:08.629636-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17474,6 +17474,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-20",
+            "horario": "05:00",
+            "lugar": "Red de Subte y Premetro de Buenos Aires",
+            "quien": "AGTSyP (Metrodelegados)",
+            "tipo_medida": "Paro total",
+            "motivo": "Exigir la liberación de trabajadores detenidos y el cese de prácticas laborales abusivas y tercerización",
+            "fuente": "https://www.datagremial.com/informacion-general/metrodelegados-lanzaron-un-paro-total-del-subte-y-el-premetro-tras-la-detencion-de-dos-delegados-de-la-linea-b-202610201110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-20",
             "horario": "09:00",
             "lugar": "Escuelas de toda la Provincia de Buenos Aires",
             "quien": "Asociación de Maestros de la Provincia de Buenos Aires",
@@ -17675,11 +17685,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-28",
             "horario": "15:00",
-            "lugar": "Todas las universidades nacionales del país",
-            "quien": "FATUN (Federación Argentina del Trabajador de Universidades Nacionales) y Frente Sindical de Universidades Nacionales",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial de trabajadores docentes y nodocentes",
-            "fuente": "https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
+            "lugar": "Todas las universidades públicas nacionales",
+            "quien": "CONADU Histórica y FATUN (Frente Sindical de Universidades Nacionales)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, pago de deuda salarial y partidas para funcionamiento de universidades, contra el ajuste presupuestario y pérdida de poder adquisitivo",
+            "fuente": "https://www.infobae.com/politica/2026/10/24/conflicto-universitario-convocaron-a-un-nuevo-paro-nacional-por-una-semana/, https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
         },
         {
             "es_evento_relevante": true,
