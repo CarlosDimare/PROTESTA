@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T03:53:03.362999-03:00",
+    "last_updated": "2026-10-24T08:52:46.961466-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17645,6 +17645,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-10-28",
             "horario": "00:00",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Asociación Gremial de Docentes e Investigadores de la UNR (CONADU Histórica)",
+            "tipo_medida": "Paro",
+            "motivo": "Incumplimiento de presupuesto universitario y reclamo salarial del 32% y pago de deudas",
+            "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-por-una-semana-ante-la-falta-de-respuesta-del-gobierno-nacional/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anuncian-una-semana-completa-de-paro/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "00:00",
             "lugar": "Universidades Nacionales",
             "quien": "Federación Argentina de los Trabajadores de las Universidades Nacionales (Fatun)",
             "tipo_medida": "Paro",
@@ -17660,16 +17670,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario y recomposición salarial de trabajadores docentes y nodocentes",
             "fuente": "https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-28",
-            "horario": "No especificado",
-            "lugar": "Universidad Nacional de Rosario",
-            "quien": "COAD (Consejo de Asociaciones de Docentes de la Universidad Nacional de Rosario) en conjunto con Conadu Histórica y otras asociaciones de base",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por el cumplimiento de la Ley de Financiamiento Universitario, exigencia de recomposición salarial del 32% y pago de 5 salarios adeudados por incumplimiento gubernamental",
-            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anuncian-una-semana-completa-de-paro/10/2026/"
         },
         {
             "es_evento_relevante": true,
