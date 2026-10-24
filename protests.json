@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T08:52:46.961466-03:00",
+    "last_updated": "2026-10-24T12:19:07.357219-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17630,6 +17630,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigencia de renuncia de Macron, democracia, dignidad y justicia ante represión",
             "fuente": "https://www.laizquierdadiario.com/Crece-la-rebelion-en-Europa-huelga-educativa-en-Madrid-nuevas-protestas-juveniles-en-Francia-e"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-26",
+            "horario": "00:00",
+            "lugar": "Ciudad Autónoma de Buenos Aires",
+            "quien": "Federación Judicial Argentina (FJA) e Intersindical de Mujeres",
+            "tipo_medida": "Movilización federal",
+            "motivo": "Lucha por derechos sindicales feministas y diversidad en el Encuentro Plurinacional",
+            "fuente": "https://www.datagremial.com/genero/trabajadoras-judiciales-participaron-activamente-de-nueva-edicion-del-encuentro-plurinacional-de-mujeres-202610149480, https://www.diariojudicial.com/news-104606-nuevo-paro-de-judiciales"
         },
         {
             "es_evento_relevante": true,
