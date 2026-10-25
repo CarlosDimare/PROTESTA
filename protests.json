@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T21:01:15.991661-03:00",
+    "last_updated": "2026-10-24T23:48:16.743109-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17650,6 +17650,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigencia de renuncia de Macron, democracia, dignidad y justicia ante represión",
             "fuente": "https://www.laizquierdadiario.com/Crece-la-rebelion-en-Europa-huelga-educativa-en-Madrid-nuevas-protestas-juveniles-en-Francia-e"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-25",
+            "horario": "13:00",
+            "lugar": "No especificado",
+            "quien": "CATT y CGT con sindicatos afiliados (AGTSyP, Camioneros, UTA, La Fraternidad)",
+            "tipo_medida": "Movilización",
+            "motivo": "Represión a trabajadores, defensa de derechos sindicales y oposición al modelo económico del gobierno de Milei",
+            "fuente": "https://estadodealerta.com.ar/se-levanto-el-paro-de-subtes-y-la-catt-junto-a-la-cgt-y-camioneros-respaldo-a-los-metrodelegados/, https://www.datagremial.com/informacion-general/los-gremios-se-movilizan-al-congreso-que-servicios-se-veran-afectados-por-la-protesta--202621018120"
         },
         {
             "es_evento_relevante": true,
