@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-24T18:28:34.637906-03:00",
+    "last_updated": "2026-10-24T21:01:15.991661-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17620,6 +17620,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamo de urgente recomposición salarial y defensa de derechos laborales ante falta de respuestas del Ejecutivo provincial",
             "fuente": "https://www.datagremial.com/informacion-general/los-judiciales-de-varias-provincias-profundizan-sus-reclamos-por-mejoras-salariales-y-laborales-202610229320"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-24",
+            "horario": "10:00",
+            "lugar": "Plantas industriales de Mirgor en Río Grande",
+            "quien": "Trabajadores de Mirgor y cuerpo de delegados",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a las suspensiones coercitivas y defensa del convenio colectivo metalúrgico",
+            "fuente": "https://www.laizquierdadiario.com/El-kit-esclavista-de-Caputo-y-Mirgor-despidos-flexibilizacion-y-persecucion-sindical, https://gremialesdelsur.com.ar/nota/31317-Mirgor-contin--a-sin-dejar-ingresar-a-los-Delegados"
         },
         {
             "es_evento_relevante": true,
