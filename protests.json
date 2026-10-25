@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25T10:11:09.052681-03:00",
+    "last_updated": "2026-10-25T14:26:41.161038-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17840,6 +17840,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra recortes presupuestarios y pedido de más fondos para educación",
             "fuente": "https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-29",
+            "horario": "No especificado",
+            "lugar": "España",
+            "quien": "CCOO y UGT",
+            "tipo_medida": "Huelga general",
+            "motivo": "Crisis de vivienda, desahucios, salarios insuficientes, deterioro de servicios públicos y rechazo a políticas de gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Estado-espanol-De-la-rebelion-por-la-vivienda-a-la-huelga-general-Hay-que-tomar-partido"
         },
         {
             "es_evento_relevante": true,
