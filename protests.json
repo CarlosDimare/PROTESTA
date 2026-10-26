@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-25T20:03:00.756781-03:00",
+    "last_updated": "2026-10-25T22:04:50.470200-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17730,6 +17730,16 @@
             "tipo_medida": "Huelga y movilización",
             "motivo": "Contra transporte de armas, militarización de puertos y economía de guerra",
             "fuente": "https://www.laizquierdadiario.com/Huelga-portuaria-internacional-el-30-de-octubre-contra-el-trafico-de-armas-y-la-economia-de-guerra"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Jubilados",
+            "tipo_medida": "Marcha",
+            "motivo": "Descontento contra políticas económicas y sociales del gobierno nacional",
+            "fuente": "https://www.datagremial.com/escenario/represion-de-la-protesta-el-gobierno-libertario-hirio-5-personas-por-dia-que-se-manifestaban-en-su-contra-202610251000"
         },
         {
             "es_evento_relevante": true,
