@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-26T02:58:22.758869-03:00",
+    "last_updated": "2026-10-26T09:18:11.619801-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17683,6 +17683,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-27",
+            "horario": "10:00",
+            "lugar": "Fiscalía de El Talar, calle Suiza 1000, Tigre, Buenos Aires",
+            "quien": "Familia de Camila Denise Algozzino",
+            "tipo_medida": "Acampe",
+            "motivo": "Exigir revisión y revocación de prisión domiciliaria del conductor responsable del siniestro vial",
+            "fuente": "https://elciudadanoweb.com/movilizacion-y-pedido-de-justicia-por-la-muerte-de-camila-algozzino-exigen-prision-efectiva-para-el-acusado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "00:00",
+            "lugar": "Universidades nacionales",
+            "quien": "FEDUN (Federación de Docentes de las Universidades)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir recursos para funcionamiento universitario, recomposición salarial y cumplimiento de la Ley de Financiamiento Educativo",
+            "fuente": "https://www.inforegion.com.ar/2026/10/26/la-fedun-convoca-a-un-paro-fecha-a-definir/, https://www.conclusion.com.ar/gremiales/los-no-docentes-universitarios-lanzan-un-plan-de-lucha-con-cuatro-paros-para-exigir-la-aplicacion-de-la-ley-universitaria/10/2026/, https://www.inforegion.com.ar/2026/10/22/universidades-trabajadores-nodocentes-realizaran-cuatro-dias-de-paro/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-28",
             "horario": "00:00",
             "lugar": "Universidad Nacional de Rosario (UNR)",
@@ -17690,16 +17710,6 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de presupuesto universitario y reclamo salarial del 32% y pago de deudas",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-por-una-semana-ante-la-falta-de-respuesta-del-gobierno-nacional/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anuncian-una-semana-completa-de-paro/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-28",
-            "horario": "00:00",
-            "lugar": "Universidades Nacionales",
-            "quien": "Federación Argentina de los Trabajadores de las Universidades Nacionales (Fatun)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por incumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.conclusion.com.ar/gremiales/los-no-docentes-universitarios-lanzan-un-plan-de-lucha-con-cuatro-paros-para-exigir-la-aplicacion-de-la-ley-universitaria/10/2026/, https://www.inforegion.com.ar/2026/10/22/universidades-trabajadores-nodocentes-realizaran-cuatro-dias-de-paro/"
         },
         {
             "es_evento_relevante": true,
