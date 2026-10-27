@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-27T06:37:45.999768-03:00",
+    "last_updated": "2026-10-27T12:46:06.246652-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17693,6 +17693,46 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-27",
+            "horario": "11:00",
+            "lugar": "Mitre y Pellegrini, CABA",
+            "quien": "SUTEBA Multicolor",
+            "tipo_medida": "Movilización",
+            "motivo": "Por la aparición con vida de la docente correntina Nanci Godoy",
+            "fuente": "https://www.anred.org/suteba-multicolor-vuelve-al-paro-con-protestas-y-movilizaciones-en-distintos-puntos-de-la-provincia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-27",
+            "horario": "18:00",
+            "lugar": "Hotel Casino de la capital provincial, Catamarca",
+            "quien": "Partidos de izquierda",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a la visita del presidente Javier Milei y al gobernador Raúl Jalil",
+            "fuente": "https://www.infobae.com/politica/2026/10/27/javier-milei-inaugurara-una-planta-de-litio-y-se-mostrara-con-un-gobernador-peronista-aliado/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-27",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicato de Empleadas y Empleados Judiciales de Neuquén (Sejun)",
+            "tipo_medida": "Paro activo",
+            "motivo": "Rechazo a oferta salarial del 4% desdoblado, reclamo por aumento salarial acorde a ATE, recategorización y contra la sobrecarga laboral",
+            "fuente": "https://www.laizquierdadiario.com/Judiciales-de-Neuquen-rechazan-el-4-y-votan-paro-y-plan-de-lucha"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "00:00",
+            "lugar": "No especificado",
+            "quien": "CONADU Histórica",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al desguace presupuestario y reclamo por cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.datagremial.com/informacion-general/fedun-realizara-un-paro-y-una-vigilia-en-el-congreso-cuando-se-trate-el-presupuesto-2027-202610279440, https://www.conclusion.com.ar/gremiales/la-conadu-historica-anuncio-un-paro-nacional-de-una-semana-para-docentes-y-no-docentes-universitarios/10/2026/, https://elciudadanoweb.com/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-28",
             "horario": "00:00",
             "lugar": "Universidades nacionales",
@@ -17730,16 +17770,6 @@
             "tipo_medida": "Paro nacional",
             "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, pago de deuda salarial y partidas para funcionamiento de universidades, contra el ajuste presupuestario y pérdida de poder adquisitivo",
             "fuente": "https://www.infobae.com/politica/2026/10/24/conflicto-universitario-convocaron-a-un-nuevo-paro-nacional-por-una-semana/, https://www.datagremial.com/informacion-general/con-cuatro-paros-en-un-mes-la-fatun-acordo-una-nueva-etapa-de-su-plan-de-lucha-2026102217120, https://www.junindigital.com/ciudad/2026-9-22-21-0-0-atunnoba-se-suma-al-plan-de-lucha-de-fatun-detalle-y-conograma-de-paros-escalonados-en-las-universidades-nacionales"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-28",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Conadu Histórica",
-            "tipo_medida": "Paro",
-            "motivo": "Exigir cumplimiento de Ley de Financiamiento Universitario, pago de deuda salarial y presupuesto para universidades nacionales",
-            "fuente": "https://www.conclusion.com.ar/gremiales/la-conadu-historica-anuncio-un-paro-nacional-de-una-semana-para-docentes-y-no-docentes-universitarios/10/2026/, https://elciudadanoweb.com/las-dos-cta-le-meten-presion-a-la-cgt-y-acuerdan-un-paro-para-octubre/"
         },
         {
             "es_evento_relevante": true,
