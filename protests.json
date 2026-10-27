@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-26T16:03:52.283603-03:00",
+    "last_updated": "2026-10-27T00:18:08.809976-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17780,6 +17780,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a la implementación del Fondo de Asistencia Laboral (FAL) y defensa del sistema previsional",
             "fuente": "https://estadodealerta.com.ar/proyecto-de-diputados-de-extraccion-gremial-para-derogar-el-fal-antes-que-de-que-entre-en-vigencia-en-noviembre/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-01",
+            "horario": "No especificado",
+            "lugar": "Planta de BASF en General Lagos, Rosario",
+            "quien": "Sindicato de Industrias Químicas y Petroquímicas de Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de puestos laborales ante la reducción de turnos y despidos en BASF",
+            "fuente": "https://www.conclusion.com.ar/gremiales/el-gremio-quimico-de-rosario-se-declara-en-asamblea-permanente-por-la-reduccion-de-turnos-en-basf/10/2026/"
         },
         {
             "es_evento_relevante": true,
