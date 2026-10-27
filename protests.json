@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-27T00:18:08.809976-03:00",
+    "last_updated": "2026-10-27T06:37:45.999768-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17710,6 +17710,16 @@
             "tipo_medida": "Paro",
             "motivo": "Incumplimiento de presupuesto universitario y reclamo salarial del 32% y pago de deudas",
             "fuente": "https://elciudadanoweb.com/docentes-de-la-unr-van-al-paro-por-una-semana-ante-la-falta-de-respuesta-del-gobierno-nacional/, https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-anuncian-una-semana-completa-de-paro/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
+            "horario": "10:30",
+            "lugar": "Avenida Crovara 5199 hasta predio Las 3T, barrio Puerta de Hierro, partido de La Matanza",
+            "quien": "Movimientos populares de América Latina, Iglesia, y Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP)",
+            "tipo_medida": "Peregrinación",
+            "motivo": "Cierre del Encuentro Regional de Movimientos Populares – Capítulo Argentina 2026 y entrega de documento regional al Papa León XIV",
+            "fuente": "https://www.infobae.com/politica/2026/10/27/los-movimientos-de-la-region-y-enviados-del-vaticano-peregrinaran-en-la-matanza-y-entregaran-un-documento-a-leon-xiv/"
         },
         {
             "es_evento_relevante": true,
