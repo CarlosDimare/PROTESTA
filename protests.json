@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28T10:47:15.540413-03:00",
+    "last_updated": "2026-10-28T16:19:05.983958-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17764,6 +17764,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-28",
+            "horario": "10:00",
+            "lugar": "Sede del Tribunal de Justicia de Formosa",
+            "quien": "Asociación Judicial de Formosa (AJUFSA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo contra desigualdad salarial y rechazo a aumentos unilaterales",
+            "fuente": "https://www.datagremial.com/informacion-general/tras-recibir-propuestas-insuficientes-judiciales-de-neuquen-formosa-y-tierra-del-fuego-profundizan-sus-reclamos-salariales-con-paros-ruidazos-y-asambleas-2026102810120, https://www.guauformosa.com.ar/noticias/2026/10/26/42057-judiciales-de-formosa-anunciaron-un-paro-con-movilizacion-para-este-miercoles-y-otra-protesta-el-viernes"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-28",
             "horario": "10:30",
             "lugar": "Avenida Crovara 5199 hasta predio Las 3T, barrio Puerta de Hierro, partido de La Matanza",
             "quien": "Movimientos populares de América Latina, Iglesia, y Unión de Trabajadores y Trabajadoras de la Economía Popular (UTEP)",
@@ -17783,6 +17793,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-29",
+            "horario": "08:30",
+            "lugar": "Rioja y 1º de Mayo, Rosario",
+            "quien": "Sindicatos y movimientos sociales (Dragado y Balizamiento, CCC)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el RIGI y políticas económicas antipopulares",
+            "fuente": "https://www.conclusion.com.ar/politica/anuncian-protesta-contra-karina-y-caputo-vayanse-no-soportamos-mas-la-politica-de-entrega-que-estan-llevando-adelante/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
+            "horario": "13:30",
+            "lugar": "No especificado",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Defensa de las 31 farmacias de IOSFA y los 1.450 puestos de trabajo en riesgo",
+            "fuente": "https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-30",
             "horario": "00:00",
             "lugar": "No especificado",
@@ -17790,6 +17820,16 @@
             "tipo_medida": "Huelga y movilización",
             "motivo": "Contra transporte de armas, militarización de puertos y economía de guerra",
             "fuente": "https://www.laizquierdadiario.com/Huelga-portuaria-internacional-el-30-de-octubre-contra-el-trafico-de-armas-y-la-economia-de-guerra"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "08:00",
+            "lugar": "Universidades públicas de Argentina",
+            "quien": "FATUN",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/10/28/se-pone-en-marcha-un-nuevo-plan-de-lucha-por-las-universidades/"
         },
         {
             "es_evento_relevante": true,
