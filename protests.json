@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28T16:19:05.983958-03:00",
+    "last_updated": "2026-10-28T20:50:55.608219-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17804,6 +17804,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-29",
+            "horario": "11:00",
+            "lugar": "Santa Fe 3160, área de Salud",
+            "quien": "Docentes de la UNR (Coad)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exposición de pérdida de poder adquisitivo y recorte de becas estudiantiles",
+            "fuente": "https://elciudadanoweb.com/docentes-universitarios-inician-un-nuevo-plan-de-lucha-en-reclamo-de-presupuesto-y-salarios/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
             "horario": "13:30",
             "lugar": "No especificado",
             "quien": "Asociación Trabajadores del Estado (ATE)",
@@ -18016,10 +18026,10 @@
             "fecha": "2026-12-31",
             "horario": "16:00",
             "lugar": "No especificado",
-            "quien": "Frente de Sindicatos Unidos (Fresu)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Salarios dignos, Salario Mínimo Vital y Móvil, desendeudamiento de familias, defensa de universidades y salud pública",
-            "fuente": "https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-paros-regionales-por-salarios-dignos-y-mejoras-salariales/, https://lavozderosario.com/este-martes-se-presenta-el-indice-salarial-del-fresu-en-el-marco-de-la-jornada-de-protesta-universitaria/"
+            "quien": "CGT",
+            "tipo_medida": "Huelga parcial",
+            "motivo": "Visibilizar reclamos sin afectar salarios ni presentismo",
+            "fuente": "https://www.infobae.com/politica/2026/10/28/sin-paros-generales-y-con-un-acto-en-una-cancha-la-nueva-estrategia-de-la-cgt-que-pone-en-la-mira-tanto-al-gobierno-como-al-pj/, https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-paros-regionales-por-salarios-dignos-y-mejoras-salariales/, https://lavozderosario.com/este-martes-se-presenta-el-indice-salarial-del-fresu-en-el-marco-de-la-jornada-de-protesta-universitaria/"
         },
         {
             "es_evento_relevante": true,
