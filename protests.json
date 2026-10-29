@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-28T20:50:55.608219-03:00",
+    "last_updated": "2026-10-29T00:59:01.361758-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17820,6 +17820,26 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de las 31 farmacias de IOSFA y los 1.450 puestos de trabajo en riesgo",
             "fuente": "https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
+            "horario": "18:00",
+            "lugar": "Plaza 25 de Mayo",
+            "quien": "CTERA y CGT (gremios docentes nucleados)",
+            "tipo_medida": "Paro",
+            "motivo": "En repudio al asesinato de la maestra Nancy Estela Godoy y por condiciones de precariedad laboral",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-asesinato-de-una-maestra-en-corrientes-amsafe-y-sadop-adhieren/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
+            "horario": "No especificado",
+            "lugar": "En todo el país (ejemplo específico: Plaza 25 de Mayo, Rosario)",
+            "quien": "Confederación de Trabajadores de la Educación de la República Argentina (CTERA) y sindicatos base como Amsafé",
+            "tipo_medida": "Paro Nacional, Movilizaciones y Acciones",
+            "motivo": "Exigencia de justicia por el femicidio de Nancy Estela Godoy y condiciones laborales precarias en educación",
+            "fuente": "https://elciudadanoweb.com/femicidio-de-nancy-godoy-ctera-convoca-a-una-jornada-nacional-de-duelo-paro-nacional-y-movilizaciones-en-todo-el-pais-para-exigir-justicia/"
         },
         {
             "es_evento_relevante": true,
