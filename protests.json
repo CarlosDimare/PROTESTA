@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29T14:22:44.567082-03:00",
+    "last_updated": "2026-10-29T19:23:54.938862-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17798,8 +17798,8 @@
             "lugar": "Casa de la Provincia de Corrientes (Maipú 271, CABA) y movilizaciones en provincias",
             "quien": "CTERA",
             "tipo_medida": "Paro",
-            "motivo": "Justicia por Nancy Godoy y reclamo por condiciones laborales docentes",
-            "fuente": "https://www.laizquierdadiario.com/Finocchiaro-exministro-de-educacion-de-Macri-se-burlo-del-reclamo-de-justicia-por-Nancy-Godoy, https://www.inforegion.com.ar/2026/10/29/paro-nacional-docente-ctera-convoco-a-una-jornada-de-duelo-por-la-muerte-de-una-maestra-rural-en-corrientes/, https://www.datagremial.com/informacion-general/ctera-lanzo-un-paro-nacional-por-el-asesinato-de-una-maestra-rural-venimos-luchando-contra-los-femicidios-202610299430"
+            "motivo": "Justicia por el femicidio de Nancy Godoy",
+            "fuente": "https://www.laizquierdadiario.com/Finocchiaro-exministro-de-Educacion-de-Macri-se-burlo-del-reclamo-de-justicia-por-Nancy-Godoy, https://www.laizquierdadiario.com/Finocchiaro-exministro-de-educacion-de-Macri-se-burlo-del-reclamo-de-justicia-por-Nancy-Godoy, https://www.inforegion.com.ar/2026/10/29/paro-nacional-docente-ctera-convoco-a-una-jornada-de-duelo-por-la-muerte-de-una-maestra-rural-en-corrientes/, https://www.datagremial.com/informacion-general/ctera-lanzo-un-paro-nacional-por-el-asesinato-de-una-maestra-rural-venimos-luchando-contra-los-femicidios-202610299430"
         },
         {
             "es_evento_relevante": true,
@@ -17990,6 +17990,16 @@
             "tipo_medida": "Paro general",
             "motivo": "Rechazo a la política socioeconómica del gobierno de Javier Milei",
             "fuente": "https://www.infobae.com/politica/2026/10/22/la-cgt-ya-recibio-senales-positivas-sobre-la-visita-del-papa-pero-podrian-reprogramarse-algunas-actividades/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
+            "horario": "No especificado",
+            "lugar": "Ministerio de Capital Humano",
+            "quien": "UTHGRA (Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos de la República Argentina)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Reclamo por certificación de autoridades electorales y homologación de aumento salarial",
+            "fuente": "https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
