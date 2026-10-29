@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29T07:45:44.641339-03:00",
+    "last_updated": "2026-10-29T14:22:44.567082-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17794,6 +17794,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-29",
+            "horario": "00:00",
+            "lugar": "Casa de la Provincia de Corrientes (Maipú 271, CABA) y movilizaciones en provincias",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Justicia por Nancy Godoy y reclamo por condiciones laborales docentes",
+            "fuente": "https://www.laizquierdadiario.com/Finocchiaro-exministro-de-educacion-de-Macri-se-burlo-del-reclamo-de-justicia-por-Nancy-Godoy, https://www.inforegion.com.ar/2026/10/29/paro-nacional-docente-ctera-convoco-a-una-jornada-de-duelo-por-la-muerte-de-una-maestra-rural-en-corrientes/, https://www.datagremial.com/informacion-general/ctera-lanzo-un-paro-nacional-por-el-asesinato-de-una-maestra-rural-venimos-luchando-contra-los-femicidios-202610299430"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
+            "horario": "08:30",
+            "lugar": "Casa de la provincia de Corrientes, Maipú 271, Ciudad de Buenos Aires",
+            "quien": "CTERA Confederación de Trabajadores de la Educación de la República Argentina",
+            "tipo_medida": "Paro nacional docente con movilizaciones",
+            "motivo": "Justicia por femicidio de Nanci Godoy y reclamos laborales contra precarización, desfinanciamiento educativo y salarios",
+            "fuente": "https://www.anred.org/nos-falta-una-maestra-paro-nacional-de-docentes-y-auxiliares-por-justicia-para-nanci-godoy-y-condiciones-laborales-dignas/, https://estadodealerta.com.ar/ctera-con-medida-de-fuerza-nacional-paro-y-jornada-de-duelo-por-el-asesinato-de-la-maestra-rural-nancy-godoy/, https://www.laizquierdadiario.com/Ctera-convoco-a-paro-nacional-para-este-jueves-movilicemos-para-exigir-Justicia-por-Nancy, https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://elciudadanoweb.com/femicidio-de-nancy-godoy-ctera-convoca-a-una-jornada-nacional-de-duelo-paro-nacional-y-movilizaciones-en-todo-el-pais-para-exigir-justicia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-29",
             "horario": "08:30",
             "lugar": "Rioja y 1º de Mayo, Rosario",
             "quien": "Sindicatos y movimientos sociales (Dragado y Balizamiento, CCC)",
@@ -17814,32 +17834,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-10-29",
-            "horario": "13:30",
-            "lugar": "En todo el país (ejemplo específico: Plaza 25 de Mayo, Rosario)",
-            "quien": "CTERA (Confederación de Trabajadores de la Educación de la República Argentina)",
-            "tipo_medida": "Paro nacional, Movilizaciones",
-            "motivo": "Exigir justicia por el femicidio de Nancy Godoy, condiciones laborales dignas y seguridad para docentes",
-            "fuente": "https://www.laizquierdadiario.com/Ctera-convoco-a-paro-nacional-para-este-jueves-movilicemos-para-exigir-Justicia-por-Nancy, https://www.infobae.com/politica/2026/10/28/crisis-en-iosfa-el-gobierno-dicto-un-nuevo-dnu-para-seguir-con-el-ajuste-y-evitar-un-grave-desequilibrio-financiero/, https://www.infobae.com/politica/2026/10/13/ate-convoco-a-un-paro-nacional-para-el-jueves-contra-el-dnu-7023-que-servicios-se-veran-afectados/, https://elciudadanoweb.com/femicidio-de-nancy-godoy-ctera-convoca-a-una-jornada-nacional-de-duelo-paro-nacional-y-movilizaciones-en-todo-el-pais-para-exigir-justicia/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-29",
-            "horario": "18:00",
-            "lugar": "Plaza 25 de Mayo (Santa Fe)",
-            "quien": "CTERA y gremios docentes nucleados en CGT (Amsafe, Sadop, UDA, CEA, AMET)",
-            "tipo_medida": "Paro nacional con movilización",
-            "motivo": "Exigir justicia por la muerte de la maestra Nancy Godoy y condiciones laborales dignas",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-asesinato-nany-godoy-la-maestra-correntina-asesinada-amsafe-y-sadop-adhieren/10/2026/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-10-29",
             "horario": "18:00",
             "lugar": "Plaza 25 de Mayo",
-            "quien": "CTERA y CGT (gremios docentes nucleados)",
-            "tipo_medida": "Paro",
-            "motivo": "En repudio al asesinato de la maestra Nancy Estela Godoy y por condiciones de precariedad laboral",
-            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-asesinato-de-una-maestra-en-corrientes-amsafe-y-sadop-adhieren/10/2026/"
+            "quien": "CTERA y gremios docentes nucleados en la CGT (con adhesión de Amsafe, Sadop, UDA, CEA, AMET)",
+            "tipo_medida": "Paro nacional y movilización",
+            "motivo": "Repudio por el fallecimiento de la maestra Nancy Estela Godoy y reclamo por condiciones laborales dignas y seguras en el sistema educativo",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-femicidio-de-nancy-godoy-la-maestra-correntina-asesinada-amsafe-y-sadop-adhieren/10/2026/, https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-asesinato-nany-godoy-la-maestra-correntina-asesinada-amsafe-y-sadop-adhieren/10/2026/, https://www.conclusion.com.ar/la-ciudad/paro-nacional-docente-este-jueves-por-el-asesinato-de-una-maestra-en-corrientes-amsafe-y-sadop-adhieren/10/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -17850,6 +17850,16 @@
             "tipo_medida": "Huelga y movilización",
             "motivo": "Contra transporte de armas, militarización de puertos y economía de guerra",
             "fuente": "https://www.laizquierdadiario.com/Huelga-portuaria-internacional-el-30-de-octubre-contra-el-trafico-de-armas-y-la-economia-de-guerra"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "08:00",
+            "lugar": "Avenida 9 de Julio (altura Obelisco) y sedes provinciales de CTERA",
+            "quien": "Confederación de Trabajadores de la Educación (CTERA)",
+            "tipo_medida": "Paro Nacional con Movilización",
+            "motivo": "Duelo y exigencia de justicia por el femicidio de Nancy Godoy, reclamos contra precariedad laboral y condiciones de desprotección en zonas rurales",
+            "fuente": "https://www.infobae.com/politica/2026/10/29/nos-falta-una-maestra-los-sindicatos-docentes-se-movilizan-hoy-a-la-casa-de-corrientes-en-el-centro-porteno/"
         },
         {
             "es_evento_relevante": true,
