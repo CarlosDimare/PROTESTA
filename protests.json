@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-29T19:23:54.938862-03:00",
+    "last_updated": "2026-10-29T23:26:57.186835-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17920,6 +17920,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Defensa de puestos laborales ante la reducción de turnos y despidos en BASF",
             "fuente": "https://www.conclusion.com.ar/gremiales/el-gremio-quimico-de-rosario-se-declara-en-asamblea-permanente-por-la-reduccion-de-turnos-en-basf/10/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-02",
+            "horario": "10:00",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "Ctera y docentes opositores a la burocracia sindical",
+            "tipo_medida": "Paro nacional y movilización",
+            "motivo": "Justicia por el femicidio de Nancy Godoy y reclamo contra el vaciamiento de la educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Vivo-docentes-movilizan-y-cortan-el-Obelisco-exigiendo-justicia-por-la-maestra-Nancy-Godoy"
         },
         {
             "es_evento_relevante": true,
