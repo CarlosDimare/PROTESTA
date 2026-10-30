@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-30T13:30:20.342208-03:00",
+    "last_updated": "2026-10-30T18:22:52.215603-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17886,10 +17886,10 @@
             "fecha": "2026-10-31",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "CTA Autónoma y CTA de los Trabajadores",
-            "tipo_medida": "Paro y movilización",
-            "motivo": "Rechazo al ajuste, reclamo por salarios dignos y defensa de puestos de trabajo frente a despidos y precarización laboral",
-            "fuente": "https://estadodealerta.com.ar/la-cta-autonoma-acelera-su-plan-de-lucha-con-anuncios-de-paro-y-movilizacion-nacional-para-fines-de-octubre/"
+            "quien": "Organizaciones estudiantiles y sindicales de Francia",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al aumento del costo de vida y a las políticas represivas del gobierno de Macron",
+            "fuente": "https://www.laizquierdadiario.com/Francia-se-prepara-para-salir-a-la-calle-este-sabado-y-para-la-huelga-general-del-5-de-noviembre, https://estadodealerta.com.ar/la-cta-autonoma-acelera-su-plan-de-lucha-con-anuncios-de-paro-y-movilizacion-nacional-para-fines-de-octubre/"
         },
         {
             "es_evento_relevante": true,
