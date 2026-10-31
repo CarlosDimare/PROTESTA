@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-31T04:56:18.799135-03:00",
+    "last_updated": "2026-10-31T11:20:52.658857-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17893,6 +17893,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "16:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Coordinadora por la Libertad de los Presos por Luchar, CORREPI, AGTSyP, ADEMYS, Polo Obrero, CTA Autónoma",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir libertad de Milton Tolomeo y Eneas Gallo, derogación de la Ley Antiterrorista y protesta contra detenciones arbitrarias",
+            "fuente": "https://www.laizquierdadiario.com/Denunciaron-en-Diputados-los-casos-de-Milton-Tolomeo-Eneas-Gallo-y-otros-procesados-por-luchar"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-10-31",
             "horario": "No especificado",
             "lugar": "No especificado",
@@ -17920,6 +17930,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Oposición a la implementación del Fondo de Asistencia Laboral (FAL) y defensa del sistema previsional",
             "fuente": "https://estadodealerta.com.ar/proyecto-de-diputados-de-extraccion-gremial-para-derogar-el-fal-antes-que-de-que-entre-en-vigencia-en-noviembre/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-01",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "APJ Gas y usuarios afectados",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a los aumentos de tarifas de gas por eliminación de la Zona Fría y defensa de subsidios",
+            "fuente": "https://www.datagremial.com/informacion-general/apj-gas-denuncio-que-3-300-000-de-argentinos-pagaran-tarifas-mas-caras-tras-la-reglamentacion-del-recorte-de-la-zona-fria-202610291010"
         },
         {
             "es_evento_relevante": true,
