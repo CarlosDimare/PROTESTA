@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-30T18:22:52.215603-03:00",
+    "last_updated": "2026-10-30T22:26:49.761371-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17880,6 +17880,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Descontento contra políticas económicas y sociales del gobierno nacional",
             "fuente": "https://www.datagremial.com/escenario/represion-de-la-protesta-el-gobierno-libertario-hirio-5-personas-por-dia-que-se-manifestaban-en-su-contra-202610251000"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-10-30",
+            "horario": "15:00",
+            "lugar": "Frente al Coliseo, Roma",
+            "quien": "Unione Sindicale di Base (USB)",
+            "tipo_medida": "Acampe",
+            "motivo": "Rechazo al aumento del costo de vida, bajos salarios, recortes educativos e incremento del gasto militar; exigen medidas para enfrentar el aumento de precios, más recursos educativos y políticas de acceso a la vivienda.",
+            "fuente": "https://www.conclusion.com.ar/internacionales/violenta-protesta-en-italia-huelga-general-contra-el-gobierno-de-meloni-termino-con-enfrentamientos-y-detenidos/10/2026/, https://areastampa.usb.it/leggi-notizia/morto-sul-lavoro-al-colosseo-iniziativa-di-protesta-usb-oggi-ore-1500-1434.html"
         },
         {
             "es_evento_relevante": true,
