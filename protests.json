@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-31T11:20:52.658857-03:00",
+    "last_updated": "2026-10-31T16:03:35.414954-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18034,12 +18034,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-16",
-            "horario": "No especificado",
-            "lugar": "Ministerio de Capital Humano",
-            "quien": "UTHGRA (Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos de la República Argentina)",
-            "tipo_medida": "Paro con movilización",
-            "motivo": "Reclamo por certificación de autoridades electorales y homologación de aumento salarial",
-            "fuente": "https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
+            "horario": "16:00",
+            "lugar": "Av. de Mayo 930 (sede sindical) hacia Secretaría de Trabajo de la Nación",
+            "quien": "Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos (UTHGRA)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir homologación de paritarias y certificación de autoridades gremiales",
+            "fuente": "https://www.datagremial.com/informacion-general/el-gobierno-profundiza-el-conflicto-con-su-exaliado-barrionuevo-no-homologa-las-paritarias-ni-entrega-el-certificado-de-autoridades-y-habra-una-marcha-a-trabajo-2026103114440, https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
