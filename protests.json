@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02T04:21:47.132268-03:00",
+    "last_updated": "2026-11-02T14:44:16.591518-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18000,6 +18000,16 @@
             "tipo_medida": "Huelga General",
             "motivo": "Contradicciones políticas y económicas",
             "fuente": "https://www.laizquierdadiario.com/Medio-millon-de-jovenes-y-trabajadores-se-manifestaron-en-toda-Francia-camino-a-la-huelga-del-5-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-06",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro",
+            "motivo": "Desfinanciamiento del sistema aerocomercial y reclamos salariales",
+            "fuente": "https://www.inforegion.com.ar/2026/11/02/ate-lanza-una-jornada-de-protesta-en-aeropuertos/"
         },
         {
             "es_evento_relevante": true,
