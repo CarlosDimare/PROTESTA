@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-01T21:12:04.477955-03:00",
+    "last_updated": "2026-11-02T04:21:47.132268-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17990,6 +17990,16 @@
             "tipo_medida": "Paro",
             "motivo": "En contra de las políticas de ajuste y militarización del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Macron-militariza-Francia-despliegue-represivo-sin-precedentes-no-logra-frenar-la-protesta-social, https://www.laizquierdadiario.com/Francia-por-la-presion-de-la-historica-movilizacion-del-17-de-octubre-la-CGT-habla-de-generalizar"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-05",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "La Izquierda Diario",
+            "tipo_medida": "Huelga General",
+            "motivo": "Contradicciones políticas y económicas",
+            "fuente": "https://www.laizquierdadiario.com/Medio-millon-de-jovenes-y-trabajadores-se-manifestaron-en-toda-Francia-camino-a-la-huelga-del-5-de"
         },
         {
             "es_evento_relevante": true,
