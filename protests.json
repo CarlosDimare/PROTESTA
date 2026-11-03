@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02T21:25:33.910245-03:00",
+    "last_updated": "2026-11-03T04:35:05.502041-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18015,11 +18015,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-06",
             "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "lugar": "Más de 27 aeropuertos del país, incluyendo Aeropuerto Internacional de Ezeiza y Aeroparque Jorge Newbery",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
             "tipo_medida": "Paro",
-            "motivo": "Desfinanciamiento del sistema aerocomercial y reclamos salariales",
-            "fuente": "https://www.inforegion.com.ar/2026/11/02/ate-lanza-una-jornada-de-protesta-en-aeropuertos/"
+            "motivo": "Rechazo al desfinanciamiento del sistema aerocomercial, incumplimientos en seguridad operacional y reclamo de paritarias sectoriales",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-anac-lanza-protestas-en-mas-de-27-aeropuertos-contra-el-desfinanciamiento-del-sistema-y-advierte-que-podria-haber-demoras-y-cancelaciones-202611212480, https://www.inforegion.com.ar/2026/11/02/ate-lanza-una-jornada-de-protesta-en-aeropuertos/"
         },
         {
             "es_evento_relevante": true,
