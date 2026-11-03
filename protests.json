@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T04:35:05.502041-03:00",
+    "last_updated": "2026-11-03T12:54:02.792470-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17985,11 +17985,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-03",
             "horario": "No especificado",
-            "lugar": "Todo el país",
-            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "lugar": "Universidades nacionales de Argentina",
+            "quien": "Sindicatos universitarios (Conadu Histórica y FATUN)",
             "tipo_medida": "Paro",
-            "motivo": "Exigir recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario",
-            "fuente": "https://www.inforegion.com.ar/2026/11/02/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas/"
+            "motivo": "Cumplimiento de Ley de Financiamiento Universitario, recomposición salarial y presupuesto para universidades públicas",
+            "fuente": "https://elciudadanoweb.com/paro-universitario-docentes-y-nodocentes-van-a-la-huelga-este-martes/, https://www.datagremial.com/informacion-general/se-reactivan-los-paros-nodocentes-para-pedir-una-urgente-recomposicion-salarial-en-el-sector-universitario-202611310120"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-03",
+            "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Fatun (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario, además de recursos para funcionamiento universitario e investigación",
+            "fuente": "https://www.conclusion.com.ar/gremiales/los-no-docentes-llevan-adelante-el-primero-de-los-tres-paros-anunciados-por-mejoras-salariales-y-la-ley-de-financiamiento-universitario/11/2026/, https://www.inforegion.com.ar/2026/11/02/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas/"
         },
         {
             "es_evento_relevante": true,
@@ -18010,6 +18020,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "En contra de las políticas de ajuste y militarización del gobierno",
             "fuente": "https://www.laizquierdadiario.com/Francia-denuncian-armas-de-guerra-y-mutilaciones-en-la-represion-contra-la-juventud, https://www.laizquierdadiario.com/Macron-militariza-Francia-despliegue-represivo-sin-precedentes-no-logra-frenar-la-protesta-social, https://www.laizquierdadiario.com/Francia-por-la-presion-de-la-historica-movilizacion-del-17-de-octubre-la-CGT-habla-de-generalizar, https://www.laizquierdadiario.com/Medio-millon-de-jovenes-y-trabajadores-se-manifestaron-en-toda-Francia-camino-a-la-huelga-del-5-de"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-05",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Sindicatos franceses (grupo intersindical)",
+            "tipo_medida": "Paro",
+            "motivo": "Protesta contra políticas del gobierno de Macron y represión",
+            "fuente": "https://www.laizquierdadiario.com/Francia-hacia-la-huelga-general-del-5-de-noviembre-que-esperar"
         },
         {
             "es_evento_relevante": true,
