@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-02T14:44:16.591518-03:00",
+    "last_updated": "2026-11-02T21:25:33.910245-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -17954,6 +17954,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-02",
+            "horario": "07:00",
+            "lugar": "Red de subterráneos y Premetro de Buenos Aires",
+            "quien": "AGTSyP – Metrodelegados",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por errores en liquidaciones de sueldos y descuentos indebidos al personal",
+            "fuente": "https://www.conclusion.com.ar/gremiales/metrodelegados-advierten-por-un-posible-paro-sorpresivo-de-subtes-en-todas-las-lineas/11/2026/, https://www.inforegion.com.ar/2026/11/02/metrodelegados-advierten-por-paros-sorpresivos-en-el-subte/, https://www.perfil.com/noticias/sociedad/protesta-de-metrodelegados-en-la-linea-b-hasta-que-hora-liberan-los-molinetes-del-subte.phtml"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-02",
             "horario": "10:00",
             "lugar": "Obelisco de Buenos Aires",
             "quien": "Ctera y docentes opositores a la burocracia sindical",
@@ -17975,6 +17985,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-03",
             "horario": "No especificado",
+            "lugar": "Todo el país",
+            "quien": "Federación Argentina del Trabajador de las Universidades Nacionales (FATUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Exigir recomposición salarial y cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/11/02/el-personal-universitario-nodocente-comenzara-un-paro-por-24-horas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-03",
+            "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Ammar (Asociación de Mujeres Meretrices de Argentina)",
             "tipo_medida": "Paro",
@@ -17986,20 +18006,10 @@
             "fecha": "2026-11-05",
             "horario": "00:00",
             "lugar": "Francia",
-            "quien": "CGT",
-            "tipo_medida": "Paro",
-            "motivo": "En contra de las políticas de ajuste y militarización del gobierno",
-            "fuente": "https://www.laizquierdadiario.com/Macron-militariza-Francia-despliegue-represivo-sin-precedentes-no-logra-frenar-la-protesta-social, https://www.laizquierdadiario.com/Francia-por-la-presion-de-la-historica-movilizacion-del-17-de-octubre-la-CGT-habla-de-generalizar"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-11-05",
-            "horario": "No especificado",
-            "lugar": "No especificado",
             "quien": "La Izquierda Diario",
-            "tipo_medida": "Huelga General",
-            "motivo": "Contradicciones políticas y económicas",
-            "fuente": "https://www.laizquierdadiario.com/Medio-millon-de-jovenes-y-trabajadores-se-manifestaron-en-toda-Francia-camino-a-la-huelga-del-5-de"
+            "tipo_medida": "Huelga general",
+            "motivo": "En contra de las políticas de ajuste y militarización del gobierno",
+            "fuente": "https://www.laizquierdadiario.com/Francia-denuncian-armas-de-guerra-y-mutilaciones-en-la-represion-contra-la-juventud, https://www.laizquierdadiario.com/Macron-militariza-Francia-despliegue-represivo-sin-precedentes-no-logra-frenar-la-protesta-social, https://www.laizquierdadiario.com/Francia-por-la-presion-de-la-historica-movilizacion-del-17-de-octubre-la-CGT-habla-de-generalizar, https://www.laizquierdadiario.com/Medio-millon-de-jovenes-y-trabajadores-se-manifestaron-en-toda-Francia-camino-a-la-huelga-del-5-de"
         },
         {
             "es_evento_relevante": true,
@@ -18080,6 +18090,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra recortes presupuestarios y pedido de más fondos para educación",
             "fuente": "https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
+            "horario": "15:30",
+            "lugar": "No especificado",
+            "quien": "Colectivos de docentes y organizaciones feministas",
+            "tipo_medida": "Marcha",
+            "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
+            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
         },
         {
             "es_evento_relevante": true,
