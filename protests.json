@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-04T05:30:19.271758-03:00",
+    "last_updated": "2026-11-04T13:50:43.392708-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18025,21 +18025,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-04",
             "horario": "17:00",
-            "lugar": "Plaza Houssay (Buenos Aires)",
-            "quien": "Federación Universitaria de Buenos Aires (FUBA), Federación Universitaria Argentina (FUA), ADUBA, APUBA y centros de estudiantes",
+            "lugar": "Plaza Houssay y marcha hacia Tribunales",
+            "quien": "Federación Universitaria Argentina (FUA) con gremios de la UBA y centros de estudiantes",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar el cumplimiento de la Ley 27.795 de Financiamiento Universitario para salarios, becas y recursos",
-            "fuente": "https://elciudadanoweb.com/marcha-de-las-velas-universidades-vuelven-a-reclamar-a-milei-por-el-financiamiento/"
+            "motivo": "Defensa de la educación pública y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://www.inforegion.com.ar/2026/11/04/marcha-de-las-velas-la-accion-de-la-fua-en-defensa-de-la-universidad/, https://www.conclusion.com.ar/politica/universitarios-realizaran-una-nueva-marcha-de-las-velas-para-exigir-el-cumplimiento-de-la-ley-de-financiamiento/11/2026/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-04",
             "horario": "17:00",
-            "lugar": "Plaza Houssay",
-            "quien": "FUBA, FUA, ADUBA, APUBA y centros de estudiantes",
+            "lugar": "Plaza Houssay (Buenos Aires)",
+            "quien": "Federación Universitaria de Buenos Aires (FUBA), Federación Universitaria Argentina (FUA), ADUBA, APUBA y centros de estudiantes",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y defensa de la educación pública",
-            "fuente": "https://www.conclusion.com.ar/politica/universitarios-realizaran-una-nueva-marcha-de-las-velas-para-exigir-el-cumplimiento-de-la-ley-de-financiamiento/11/2026/"
+            "motivo": "Reclamar el cumplimiento de la Ley 27.795 de Financiamiento Universitario para salarios, becas y recursos",
+            "fuente": "https://elciudadanoweb.com/marcha-de-las-velas-universidades-vuelven-a-reclamar-a-milei-por-el-financiamiento/"
         },
         {
             "es_evento_relevante": true,
