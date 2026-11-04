@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T22:57:59.428483-03:00",
+    "last_updated": "2026-11-04T05:30:19.271758-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18060,6 +18060,16 @@
             "tipo_medida": "Paro",
             "motivo": "Protesta contra políticas del gobierno de Macron y represión",
             "fuente": "https://www.laizquierdadiario.com/Francia-hacia-la-huelga-general-del-5-de-noviembre-que-esperar"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-06",
+            "horario": "09:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a las políticas de la administración libertaria y adhesión a la movilización de jubilados",
+            "fuente": "https://www.infobae.com/politica/2026/11/04/sindicatos-del-transporte-y-de-la-industria-se-diferencian-de-la-estrategia-de-la-cgt-y-deciden-acciones-propias/"
         },
         {
             "es_evento_relevante": true,
