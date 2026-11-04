@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-03T18:30:38.396036-03:00",
+    "last_updated": "2026-11-03T22:57:59.428483-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18013,6 +18013,36 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-04",
+            "horario": "10:30",
+            "lugar": "Tribunales Federales de Rosario, bulevar Oroño 940",
+            "quien": "Organizaciones políticas, sindicales, sociales y de derechos humanos",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el cierre de la causa judicial contra Mariano Soria, defender su libertad de expresión y solidarizar con Palestina",
+            "fuente": "https://www.conclusion.com.ar/politica/nueva-audiencia-y-movilizacion-en-rosario-para-exigir-la-absolucion-del-docente-mariano-soria/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-04",
+            "horario": "17:00",
+            "lugar": "Plaza Houssay (Buenos Aires)",
+            "quien": "Federación Universitaria de Buenos Aires (FUBA), Federación Universitaria Argentina (FUA), ADUBA, APUBA y centros de estudiantes",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar el cumplimiento de la Ley 27.795 de Financiamiento Universitario para salarios, becas y recursos",
+            "fuente": "https://elciudadanoweb.com/marcha-de-las-velas-universidades-vuelven-a-reclamar-a-milei-por-el-financiamiento/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-04",
+            "horario": "17:00",
+            "lugar": "Plaza Houssay",
+            "quien": "FUBA, FUA, ADUBA, APUBA y centros de estudiantes",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir cumplimiento de la Ley de Financiamiento Universitario y defensa de la educación pública",
+            "fuente": "https://www.conclusion.com.ar/politica/universitarios-realizaran-una-nueva-marcha-de-las-velas-para-exigir-el-cumplimiento-de-la-ley-de-financiamiento/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-05",
             "horario": "00:00",
             "lugar": "Francia",
@@ -18054,12 +18084,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
+            "horario": "10:00",
+            "lugar": "Marcha del Orgullo (escenario principal)",
+            "quien": "Comunidad LGBTIQ+ y aliados",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al ataque violento contra trabajadoras trans y reclamo por derechos y seguridad",
+            "fuente": "https://www.infobae.com/teleshow/2026/11/03/lali-esposito-tini-stoessel-y-maria-becerra-encabezaron-el-repudio-de-las-artistas-por-el-ataque-a-mujeres-trans-en-palermo/, https://www.infobae.com/mexico/2026/06/27/onu-respalda-la-marcha-del-orgullo-en-cdmx-pide-garantizar-una-vida-libre-de-discriminacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
             "horario": "16:00",
             "lugar": "Centro de Buenos Aires (Obelisco, Congreso, Avenida de Mayo)",
             "quien": "Comisión Organizadora de la Marcha del Orgullo",
             "tipo_medida": "Marcha",
             "motivo": "Reivindicación de derechos de la comunidad LGBTQ+",
             "fuente": "https://www.infobae.com/sociedad/2026/09/25/el-gobierno-porteno-y-el-colectivo-lgbtiq-llegaron-a-un-acuerdo-y-confirmaron-la-fecha-de-la-marcha-del-orgullo/, https://www.laizquierdadiario.com/Macri-quiere-mover-la-Marcha-del-Orgullo-Myriam-Bregman-llama-a-ganar-las-calles, https://www.laizquierdadiario.com/Marcha-del-orgullo-el-no-de-Macri-y-la-visita-papal-organicemos-la-lucha-contra-los-antiderechos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Comunidad LGBTQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al ataque transfóbico en Bosques de Palermo y reclamo de justicia",
+            "fuente": "https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/"
         },
         {
             "es_evento_relevante": true,
