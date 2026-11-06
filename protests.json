@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-05T15:30:27.858758-03:00",
+    "last_updated": "2026-11-05T21:00:36.023512-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18054,6 +18054,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-05",
+            "horario": "15:00",
+            "lugar": "Congreso Nacional",
+            "quien": "CATT y organizaciones de jubilados",
+            "tipo_medida": "Movilización",
+            "motivo": "Actualización de haberes, restitución de descuentos para medicamentos y otros reclamos vitales de jubilados",
+            "fuente": "https://estadodealerta.com.ar/la-catt-se-sump-este-miercoles-a-la-protesta-de-jubilados-y-le-pidio-empatia-a-milei/, https://www.eldestapeweb.com/sociedad/hora-donde-marcha-cgt-congreso-junto-jubilados-2026722135929"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-05",
             "horario": "No especificado",
             "lugar": "No especificado",
             "quien": "Sindicatos franceses (grupo intersindical)",
@@ -18094,12 +18104,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
+            "horario": "08:00",
+            "lugar": "Provincia de Buenos Aires",
+            "quien": "Asociación de Maestros de la provincia de Buenos Aires",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo de aumento salarial superior al 3% acordado, con exigencia de ingresos superiores a 3 millones de pesos para docentes con cargo",
+            "fuente": "https://www.inforegion.com.ar/2026/11/05/otro-paro-de-gremios-docentes-complica-las-clases-en-provincia/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
             "horario": "10:00",
             "lugar": "Marcha del Orgullo (escenario principal)",
             "quien": "Comunidad LGBTIQ+ y aliados",
             "tipo_medida": "Marcha",
             "motivo": "Repudio al ataque violento contra trabajadoras trans y reclamo por derechos y seguridad",
             "fuente": "https://www.infobae.com/teleshow/2026/11/03/lali-esposito-tini-stoessel-y-maria-becerra-encabezaron-el-repudio-de-las-artistas-por-el-ataque-a-mujeres-trans-en-palermo/, https://www.infobae.com/mexico/2026/06/27/onu-respalda-la-marcha-del-orgullo-en-cdmx-pide-garantizar-una-vida-libre-de-discriminacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "15:00",
+            "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
+            "quien": "Colectivos LGBTIQ+ y sectores populares",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra ataques a travestis y políticas de odio de Macri/Milei",
+            "fuente": "https://www.laizquierdadiario.com/Orgullo-una-fiesta-a-la-medida-de-Macri-o-una-marcha-politica-contra-los-ataques-de-odio"
         },
         {
             "es_evento_relevante": true,
