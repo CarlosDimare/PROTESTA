@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-06T01:43:02.310028-03:00",
+    "last_updated": "2026-11-06T09:51:58.412744-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18124,6 +18124,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
+            "horario": "14:00",
+            "lugar": "Ciudad de Buenos Aires",
+            "quien": "Agrupación Pan y Rosas",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra ataques transodiantes, discursos de odio y por separación de la Iglesia del Estado, en perspectiva de huelga general contra Milei y Macri",
+            "fuente": "https://www.laizquierdadiario.com/Pan-y-Rosas-convoca-a-la-Marcha-del-Orgullo-contra-los-discursos-y-ataques-transodiantes, https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "14:00",
+            "lugar": "Lima y Belgrano",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio al ataque contra trabajadoras trans y defensa de derechos de diversidades",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-repudio-el-ataque-a-trabajadoras-trans-en-palermo-y-convoco-a-la-marcha-del-orgullo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
             "horario": "15:00",
             "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
             "quien": "Colectivos LGBTIQ+ y sectores populares",
@@ -18145,21 +18165,21 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
             "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Comunidad LGBTQ+",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio al ataque transfóbico en Bosques de Palermo y reclamo de justicia",
-            "fuente": "https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/"
+            "lugar": "Congreso Nacional",
+            "quien": "Trabajadoras sexuales",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir justicia por el asesinato de cuatro trabajadoras sexuales y denunciar violencia, discriminación y precarización",
+            "fuente": "https://www.anred.org/trabajadoras-sexuales-en-paro-contra-la-violencia-y-por-justicia-para-las-companeras-asesinadas/"
         },
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
             "horario": "No especificado",
-            "lugar": "Ciudad Autónoma de Buenos Aires",
-            "quien": "Organizaciones del Orgullo LGBTIQ+",
+            "lugar": "No especificado",
+            "quien": "Comunidad LGBTQ+",
             "tipo_medida": "Marcha",
-            "motivo": "Reprogramación de la Marcha del Orgullo por visita papal",
-            "fuente": "https://www.infobae.com/politica/2026/09/22/jorge-macri-anticipo-que-hubo-un-acuerdo-para-posponer-la-marcha-del-orgullo-por-la-visita-del-papa/"
+            "motivo": "Repudio al ataque transfóbico en Bosques de Palermo y reclamo de justicia",
+            "fuente": "https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/"
         },
         {
             "es_evento_relevante": true,
@@ -18371,6 +18391,16 @@
             "tipo_medida": "Paro",
             "motivo": "Contra la pobreza (20%), desocupación (11%), precarización laboral, muertes en el trabajo, modelo económico que genera desigualdad y falta de industria nacional",
             "fuente": "https://www.conclusion.com.ar/la-ciudad/sindicatos-y-organizaciones-sociales-se-reunieron-de-cara-a-un-posible-paro-regional-queremos-sumar-mas-gremios/10/2026/, https://www.conclusion.com.ar/gremiales/dragado-y-balizamiento-se-moviliza-en-el-puerto-de-rosario-tras-denunciar-un-saqueo/04/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
+            "horario": "09:00",
+            "lugar": "27 aeropuertos del país, incluyendo Aeropuerto Internacional de Ezeiza y Aeroparque Metropolitano",
+            "quien": "Coordinación nacional de ATE-ANAC",
+            "tipo_medida": "Paro a la japonesa",
+            "motivo": "Rechazo al desfinanciamiento del sistema aerocomercial e incumplimientos del Gobierno nacional en materia de seguridad operacional",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-suspende-las-protestas-en-la-anac-por-la-visita-del-papa-y-una-llamado-al-dialogo-de-economia-202611516340, https://www.lanoticia1.com/noticia/ate-llamo-a-un-paro-por-48-horas-en-27-aeropuertos-del-pais"
         },
         {
             "es_evento_relevante": true,
