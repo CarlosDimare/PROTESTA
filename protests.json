@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-06T09:51:58.412744-03:00",
+    "last_updated": "2026-11-06T16:54:41.251940-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18074,6 +18074,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-06",
+            "horario": "00:00",
+            "lugar": "Argentina (seccionales de todo el país)",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Recomposición salarial, oposición al traspaso de fueros nacionales a Buenos Aires, solución de la obra social y defensa de derechos laborales",
+            "fuente": "https://www.conclusion.com.ar/gremiales/transcurre-este-viernes-el-paro-de-24-horas-de-los-trabajadores-judiciales-de-la-nacion-por-salarios-y-otros-reclamos/11/2026/, https://www.adnsur.com.ar/sociedad/trabajadores-de-la-justicia-federal-paran-24-horas-en-todo-el-pais-en-reclamo-de-recomposicion-salarial_a6ac65ad95d2575edcf138a14"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-06",
             "horario": "09:00",
             "lugar": "Congreso Nacional, Buenos Aires",
             "quien": "Confederación Argentina de Trabajadores del Transporte (CATT)",
@@ -18145,6 +18155,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
             "horario": "15:00",
+            "lugar": "Recorrido desde Plaza de Mayo hasta Congreso de la Nación, Ciudad de Buenos Aires",
+            "quien": "Comunidad LGBTQ+",
+            "tipo_medida": "Marcha",
+            "motivo": "Resistencia contra el odio y reivindicación de derechos en el marco del orgullo",
+            "fuente": "https://elciudadanoweb.com/este-sabado-es-la-35-marcha-del-orgullo-la-historia-desde-la-primera-en-julio-de-1992/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "15:00",
             "lugar": "Avenida de Mayo y 9 de Julio, Buenos Aires",
             "quien": "Colectivos LGBTIQ+ y sectores populares",
             "tipo_medida": "Marcha",
@@ -18164,22 +18184,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
+            "horario": "La hora de inicio del evento de protesta es:  \n**10:00**",
+            "lugar": "No especificado",
+            "quien": "Marcha del Orgullo",
+            "tipo_medida": "Marcha",
+            "motivo": "Respuesta al ataque transfóbico en Bosques de Palermo y contra los gobiernos de Milei y Macri",
+            "fuente": "https://www.laizquierdadiario.com/Jubilades-trabajadores-de-Madygraf-y-de-la-Alimentacion-convocan-a-la-Marcha-del-Orgullo, https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/, https://www.infobae.com/sociedad/2026/11/04/marcha-del-orgullo-2026-donde-es-a-que-hora-empieza-y-como-es-el-lineup-de-los-artistas-que-tocaran/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
             "horario": "No especificado",
             "lugar": "Congreso Nacional",
             "quien": "Trabajadoras sexuales",
             "tipo_medida": "Movilización",
             "motivo": "Exigir justicia por el asesinato de cuatro trabajadoras sexuales y denunciar violencia, discriminación y precarización",
             "fuente": "https://www.anred.org/trabajadoras-sexuales-en-paro-contra-la-violencia-y-por-justicia-para-las-companeras-asesinadas/"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-11-07",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Comunidad LGBTQ+",
-            "tipo_medida": "Marcha",
-            "motivo": "Repudio al ataque transfóbico en Bosques de Palermo y reclamo de justicia",
-            "fuente": "https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/"
         },
         {
             "es_evento_relevante": true,
