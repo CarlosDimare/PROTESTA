@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07T14:36:34.923210-03:00",
+    "last_updated": "2026-11-07T18:23:43.378825-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18220,6 +18220,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Respuesta al ataque transfóbico en Bosques de Palermo y contra los gobiernos de Milei y Macri",
             "fuente": "https://www.laizquierdadiario.com/Jubilades-trabajadores-de-Madygraf-y-de-la-Alimentacion-convocan-a-la-Marcha-del-Orgullo, https://www.infobae.com/teleshow/2026/11/04/el-fuerte-repudio-de-flor-de-la-v-al-ataque-transfobico-a-trabajadoras-sexuales-en-palermo-los-discursos-de-odio-matan/, https://www.infobae.com/sociedad/2026/11/04/marcha-del-orgullo-2026-donde-es-a-que-hora-empieza-y-como-es-el-lineup-de-los-artistas-que-tocaran/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "No especificado",
+            "lugar": "Cruce de avenidas Bartolomé Mitre y Montes de Oca, Avellaneda",
+            "quien": "Colectiveros",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por recomposición salarial y mejores condiciones laborales",
+            "fuente": "https://www.inforegion.com.ar/2026/11/06/protesta-de-colectiveros-en-avellaneda/"
         },
         {
             "es_evento_relevante": true,
