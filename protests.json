@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-06T20:59:47.062976-03:00",
+    "last_updated": "2026-11-07T01:15:25.739807-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18130,6 +18130,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Repudio al ataque violento contra trabajadoras trans y reclamo por derechos y seguridad",
             "fuente": "https://www.infobae.com/teleshow/2026/11/03/lali-esposito-tini-stoessel-y-maria-becerra-encabezaron-el-repudio-de-las-artistas-por-el-ataque-a-mujeres-trans-en-palermo/, https://www.infobae.com/mexico/2026/06/27/onu-respalda-la-marcha-del-orgullo-en-cdmx-pide-garantizar-una-vida-libre-de-discriminacion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "13:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT) y sindicatos afiliados",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar aumento de haberes jubilatorios, restitución de beneficios recortados y cese de políticas de ajuste del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/la-catt-acompano-a-los-jubilados-en-su-tradicional-marcha-estan-pidiendo-la-dignidad-que-no-tienen-202611512150, https://www.lanoticia1.com/noticia/paro-de-transporte-este-miercoles-desde-las-13-gremios-se-movilizan-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
