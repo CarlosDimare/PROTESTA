@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07T08:36:26.646176-03:00",
+    "last_updated": "2026-11-07T14:36:34.923210-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18125,6 +18125,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
             "horario": "10:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Pan y Rosas y comités por un partido de la nueva clase trabajadora",
+            "tipo_medida": "Marcha",
+            "motivo": "Contra ataques de odio, discursos discriminatorios del Estado (Macri, Milei, Muzzio) y represión policial hacia la diversidad sexual",
+            "fuente": "https://www.laizquierdadiario.com/Marcha-del-orgullo-miles-se-preparan-para-movilizar-contra-los-ataques-de-odio"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "10:00",
             "lugar": "Marcha del Orgullo (escenario principal)",
             "quien": "Comunidad LGBTIQ+ y aliados",
             "tipo_medida": "Marcha",
@@ -18194,6 +18204,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
+            "horario": "23:00",
+            "lugar": "Ruta 4, tramo entre Rotonda El Vapor y puente de Claypole (avenida Monteverde, Almirante Brown)",
+            "quien": "INFOREGION",
+            "tipo_medida": "Corte",
+            "motivo": "Operativo de seguridad por la visita del Papa León XIV al Pequeño Cottolengo Don Orione",
+            "fuente": "https://www.inforegion.com.ar/2026/11/06/cortes-en-camino-de-cintura-por-la-visita-del-papa-leon-xiv-desde-cuando-rigen-y-cuales-son-los-desvios/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
             "horario": "La hora de inicio del evento de protesta es:  \n**10:00**",
             "lugar": "No especificado",
             "quien": "Marcha del Orgullo",
@@ -18210,6 +18230,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir justicia por el asesinato de cuatro trabajadoras sexuales y denunciar violencia, discriminación y precarización",
             "fuente": "https://www.anred.org/trabajadoras-sexuales-en-paro-contra-la-violencia-y-por-justicia-para-las-companeras-asesinadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-09",
+            "horario": "14:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo – Línea Histórica (OLH) y Frente Orgullo y Lucha",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo a políticas de exclusión del gobierno libertario y exigencia de aprobación de la ley 'Reconocer es Reparar' para travestis y trans adultas mayores",
+            "fuente": "https://elciudadanoweb.com/el-odio-al-carajo-consigna-con-la-que-este-sabado-se-hara-la-marcha-del-orgullo-numero-35/"
         },
         {
             "es_evento_relevante": true,
