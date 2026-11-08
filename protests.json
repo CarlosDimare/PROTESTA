@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07T18:23:43.378825-03:00",
+    "last_updated": "2026-11-07T22:06:04.719547-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18144,16 +18144,6 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-07",
-            "horario": "13:00",
-            "lugar": "Congreso de la Nación",
-            "quien": "Confederación Argentina de Trabajadores del Transporte (CATT) y sindicatos afiliados",
-            "tipo_medida": "Marcha",
-            "motivo": "Reclamar aumento de haberes jubilatorios, restitución de beneficios recortados y cese de políticas de ajuste del gobierno",
-            "fuente": "https://www.datagremial.com/informacion-general/la-catt-acompano-a-los-jubilados-en-su-tradicional-marcha-estan-pidiendo-la-dignidad-que-no-tienen-202611512150, https://www.lanoticia1.com/noticia/paro-de-transporte-este-miercoles-desde-las-13-gremios-se-movilizan-contra-la-reforma-laboral"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-11-07",
             "horario": "14:00",
             "lugar": "Ciudad de Buenos Aires",
             "quien": "Agrupación Pan y Rosas",
@@ -18200,6 +18190,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reivindicación de derechos de la comunidad LGBTQ+",
             "fuente": "https://www.infobae.com/sociedad/2026/09/25/el-gobierno-porteno-y-el-colectivo-lgbtiq-llegaron-a-un-acuerdo-y-confirmaron-la-fecha-de-la-marcha-del-orgullo/, https://www.laizquierdadiario.com/Macri-quiere-mover-la-Marcha-del-Orgullo-Myriam-Bregman-llama-a-ganar-las-calles, https://www.laizquierdadiario.com/Marcha-del-orgullo-el-no-de-Macri-y-la-visita-papal-organicemos-la-lucha-contra-los-antiderechos"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-07",
+            "horario": "17:30",
+            "lugar": "Congreso de la Nación",
+            "quien": "Comisión Organizadora de la Marcha del Orgullo – Línea Histórica (OLH) y Frente Orgullo y Lucha",
+            "tipo_medida": "Marcha",
+            "motivo": "Rechazo al intento de borramiento y exclusión del colectivo LGBT+ por parte del gobierno, exigencia de políticas de inclusión y aprobación de la ley 'Reconocer es Reparar'",
+            "fuente": "https://www.conclusion.com.ar/info-general/buenos-aires-marcha-con-orgullo-la-comunidad-lgbt-copa-las-calles-portenas/11/2026/, https://www.datagremial.com/informacion-general/la-catt-acompano-a-los-jubilados-en-su-tradicional-marcha-estan-pidiendo-la-dignidad-que-no-tienen-202611512150, https://www.lanoticia1.com/noticia/paro-de-transporte-este-miercoles-desde-las-13-gremios-se-movilizan-contra-la-reforma-laboral"
         },
         {
             "es_evento_relevante": true,
