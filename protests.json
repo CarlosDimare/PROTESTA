@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-09T09:46:50.073343-03:00",
+    "last_updated": "2026-11-09T19:55:46.930659-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18250,6 +18250,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Rechazo a políticas de exclusión del gobierno libertario y exigencia de aprobación de la ley 'Reconocer es Reparar' para travestis y trans adultas mayores",
             "fuente": "https://elciudadanoweb.com/el-odio-al-carajo-consigna-con-la-que-este-sabado-se-hara-la-marcha-del-orgullo-numero-35/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-11",
+            "horario": "10:00",
+            "lugar": "Lugares de trabajo",
+            "quien": "CGT",
+            "tipo_medida": "Paro parcial",
+            "motivo": "Crecimiento económico y respeto a derechos laborales",
+            "fuente": "https://www.infobae.com/politica/2026/11/09/por-que-la-cgt-cree-que-el-discurso-del-papa-apuntalara-sus-reclamos-y-le-dara-mas-fuerza-a-su-nueva-protesta-contra-milei/"
         },
         {
             "es_evento_relevante": true,
