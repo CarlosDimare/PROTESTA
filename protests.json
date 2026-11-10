@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T01:34:41.875282-03:00",
+    "last_updated": "2026-11-10T10:20:40.223325-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18280,6 +18280,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al modelo neoliberal y políticas económicas ajustadoras, defensa de derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/la-cta-autonoma-de-cordoba-marcha-a-la-fundacion-mediterraneo-referencia-para-el-modelo-neoliberal-202610239110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-15",
+            "horario": "00:00",
+            "lugar": "Penal Federal de Marcos Paz",
+            "quien": "Coordinadora de Presxs Políticxs",
+            "tipo_medida": "Huelga de hambre",
+            "motivo": "Reclamar por condiciones carcelarias, acceso a salud, educación y visitas, y exigir la libertad de Milton Tolomeo y Eneas Gallo",
+            "fuente": "https://www.anred.org/de-la-bendicion-de-devoto-al-calvario-de-marcos-paz-milton-tolomeo-preso-por-luchar-contra-la-reforma-laboral-inicio-una-huelga-de-hambre/"
         },
         {
             "es_evento_relevante": true,
