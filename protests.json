@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T10:20:40.223325-03:00",
+    "last_updated": "2026-11-10T17:55:49.789821-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18253,6 +18253,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-10",
+            "horario": "10:00",
+            "lugar": "Neuquén Capital",
+            "quien": "SEJuN",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Rechazo de propuesta salarial del TSJ y reclamo por justicia salarial",
+            "fuente": "https://www.laizquierdadiario.com/Recorten-sus-sueldos-de-27-millones-el-mensaje-de-judiciales-a-los-vocales-del-TSJ"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-11",
             "horario": "10:00",
             "lugar": "Lugares de trabajo",
@@ -18280,6 +18290,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al modelo neoliberal y políticas económicas ajustadoras, defensa de derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/la-cta-autonoma-de-cordoba-marcha-a-la-fundacion-mediterraneo-referencia-para-el-modelo-neoliberal-202610239110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-13",
+            "horario": "09:00",
+            "lugar": "27 terminales aéreos del país, con epicentro en Aeropuerto Internacional de Ezeiza y Aeroparque Metropolitano",
+            "quien": "ATE-ANAC (Asociación de Trabajadores del Estado en la Administración Nacional de Aviación Civil)",
+            "tipo_medida": "Movilización",
+            "motivo": "Falta de financiamiento, atraso salarial y desfinanciamiento operativo del organismo",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-ratifica-plan-de-lucha-en-la-anac-con-retencion-de-tareas-y-paro-a-la-japonesa-2026111016220, https://www.cipo360.com.ar/noticias/2026/09/03/73706-rige-el-paro-de-trabajadores-de-ate-en-27-aeropuertos-del-pais"
         },
         {
             "es_evento_relevante": true,
