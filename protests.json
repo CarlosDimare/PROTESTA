@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11T04:43:19.778469-03:00",
+    "last_updated": "2026-11-11T12:58:11.356039-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18324,12 +18324,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-12",
+            "horario": "11:00",
+            "lugar": "Cámara Federal de Casación Penal, Comodoro Py",
+            "quien": "Organizaciones de derechos humanos y familiares",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir el destino de desaparecidos durante la dictadura, análisis genéticos masivos y apertura de archivos en el marco de un hábeas corpus",
+            "fuente": "https://www.anred.org/el-reclamo-de-mirtha-baravalle-vuelve-a-poner-en-cuestion-a-la-justicia-convocan-a-comodoro-py-por-los-bebes-apropiados-en-la-dictadura/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-12",
             "horario": "21:00",
-            "lugar": "Subte y Premetro de Buenos Aires (seis líneas)",
-            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subterráneo y Premetro)",
+            "lugar": "Red de Subte de Buenos Aires y Premetro",
+            "quien": "Asociación Gremial de Trabajadores del Subte y Premetro (AGTSyP)",
             "tipo_medida": "Paro",
-            "motivo": "Denuncia de contaminación con asbesto que causó muertes y enfermedades; reclamo por incumplimiento de medidas de seguridad por parte de Emova, Grupo Roggio y Gobierno porteño",
-            "fuente": "https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
+            "motivo": "Muerte de trabajador por exposición a asbesto; reclamo de desasbestización total, reemplazo de flotas contaminadas, incorporación al RAR y reducción de jornada laboral",
+            "fuente": "https://estadodealerta.com.ar/paro-de-subtes-el-jueves-12-metrodelegados-denuncian-una-nueva-muerte-por-asbesto/, https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
         },
         {
             "es_evento_relevante": true,
