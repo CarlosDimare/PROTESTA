@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T22:11:34.363005-03:00",
+    "last_updated": "2026-11-11T04:43:19.778469-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18264,6 +18264,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-11",
+            "horario": "00:00",
+            "lugar": "Estado español",
+            "quien": "Comités de huelga unitarios y trabajadores",
+            "tipo_medida": "Huelga general con piquetes",
+            "motivo": "Lucha por vivienda digna, contra alquiler imposibles y precariedad laboral",
+            "fuente": "https://www.laizquierdadiario.com/Comienza-la-huelga-general-en-el-Estado-espanol-con-piquetes-y-movilizaciones"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-11",
             "horario": "10:00",
             "lugar": "Lugares de trabajo",
             "quien": "CGT",
@@ -18285,6 +18295,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-11",
             "horario": "No especificado",
+            "lugar": "Ministerio de Trabajo bonaerense, La Plata",
+            "quien": "UEJN PBA (Unión de Empleados de la Justicia de la Nación – Seccional Buenos Aires)",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a aumento del 3% propuesto por el Gobierno provincial, reclamo por equiparación salarial con la Justicia Nacional y exigencia de diálogo con el Ministerio de Trabajo",
+            "fuente": "https://www.datagremial.com/paritarias/uejn-pba-volvio-a-protestar-contra-la-oferta-salarial-de-kicillof-para-los-judiciales-bonaerenses-no-vamos-a-resignarnos-a-cobrar-salarios-de-pobreza-2026103014580"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-11",
+            "horario": "No especificado",
             "lugar": "España",
             "quien": "CCOO y UGT junto a sindicatos del País Vasco, Galicia, Catalunya y la izquierda sindical de CGT, Co.Bas, Solidaridad Obrera y la Confederación de Sindicatos de Inquilinas",
             "tipo_medida": "Huelga general",
@@ -18300,6 +18320,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Rechazo al modelo neoliberal y políticas económicas ajustadoras, defensa de derechos laborales",
             "fuente": "https://www.datagremial.com/informacion-general/la-cta-autonoma-de-cordoba-marcha-a-la-fundacion-mediterraneo-referencia-para-el-modelo-neoliberal-202610239110"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-12",
+            "horario": "21:00",
+            "lugar": "Subte y Premetro de Buenos Aires (seis líneas)",
+            "quien": "AGTSyP (Asociación Gremial de Trabajadores del Subterráneo y Premetro)",
+            "tipo_medida": "Paro",
+            "motivo": "Denuncia de contaminación con asbesto que causó muertes y enfermedades; reclamo por incumplimiento de medidas de seguridad por parte de Emova, Grupo Roggio y Gobierno porteño",
+            "fuente": "https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
         },
         {
             "es_evento_relevante": true,
