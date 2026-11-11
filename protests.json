@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-10T17:55:49.789821-03:00",
+    "last_updated": "2026-11-10T22:11:34.363005-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18280,6 +18280,16 @@
             "tipo_medida": "Paro",
             "motivo": "Conquista del acceso a la vivienda y todas las demandas del pueblo trabajador contra la especulación inmobiliaria y el rentismo",
             "fuente": "https://www.laizquierdadiario.com/Por-Maricarmen-huelga-general-en-ocho-dias-de-movilizacion-hicimos-mas-que-en-ocho-anos-de, https://www.infobae.com/espana/2026/09/30/todas-las-manifestaciones-por-la-vivienda-este-fin-de-semana-fechas-horas-y-ciudades-confirmadas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-11",
+            "horario": "No especificado",
+            "lugar": "España",
+            "quien": "CCOO y UGT junto a sindicatos del País Vasco, Galicia, Catalunya y la izquierda sindical de CGT, Co.Bas, Solidaridad Obrera y la Confederación de Sindicatos de Inquilinas",
+            "tipo_medida": "Huelga general",
+            "motivo": "Por la vivienda y los salarios",
+            "fuente": "https://www.laizquierdadiario.com/Huelga-general-frente-unico-y-autoorganizacion-debates-en-Francia-Italia-y-el-Estado-espanol"
         },
         {
             "es_evento_relevante": true,
