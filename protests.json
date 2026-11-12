@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-12T09:11:04.032975-03:00",
+    "last_updated": "2026-11-12T17:44:20.125366-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18335,11 +18335,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-12",
             "horario": "21:00",
-            "lugar": "Red de Subterráneo y Premetro de Buenos Aires (seis líneas)",
-            "quien": "Asociación Gremial de Trabajadores del Subterráneo y Premetro (AGTSyP)",
+            "lugar": "Red de Subterráneos de Buenos Aires y Premetro",
+            "quien": "Asociación Gremial de Trabajadores del Subte y Premetro (AGTSyP)",
             "tipo_medida": "Paro",
-            "motivo": "Repudio a la muerte de trabajador por exposición a asbesto y exigencias de retiro del mineral",
-            "fuente": "https://motoreconomico.com.ar/paro-en-todo-el-subte-el-jueves-a-la-noche-por-la-muerte-de-un-trabajador-que-el-gremio-atribuye-al-asbesto/, https://www.inforegion.com.ar/2026/11/11/la-visita-del-papa-pauso-la-protesta-pero-se-reactiva-manana/, https://estadodealerta.com.ar/paro-de-subtes-el-jueves-12-metrodelegados-denuncian-una-nueva-muerte-por-asbesto/, https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
+            "motivo": "Fallecimiento de trabajador por exposición a asbesto y crisis sanitaria laboral",
+            "fuente": "https://www.inforegion.com.ar/2026/11/12/paro-de-subtes-cuando-comienza-y-que-lineas-estan-afectadas/, https://motoreconomico.com.ar/paro-en-todo-el-subte-el-jueves-a-la-noche-por-la-muerte-de-un-trabajador-que-el-gremio-atribuye-al-asbesto/, https://www.inforegion.com.ar/2026/11/11/la-visita-del-papa-pauso-la-protesta-pero-se-reactiva-manana/, https://estadodealerta.com.ar/paro-de-subtes-el-jueves-12-metrodelegados-denuncian-una-nueva-muerte-por-asbesto/, https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
         },
         {
             "es_evento_relevante": true,
@@ -18374,12 +18374,42 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-16",
+            "horario": "12:00",
+            "lugar": "Esquina de Sáenz y Manuel Castro, frente a la Plaza Grigera, Lomas de Zamora",
+            "quien": "Familia de Mirta Fernández",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo de justicia por la muerte de Mirta Fernández",
+            "fuente": "https://www.inforegion.com.ar/2026/11/12/lomas-de-zamora-convocan-a-una-marcha-en-para-pedir-justicia-por-la-jubilada-atropellada-por-un-colectivo/, https://lomasconectado.com/2026/11/12/convocan-a-marcha-por-la-muerte-de-la-mujer-de-73-anos-atropellada-por-un-colectivo/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
             "horario": "16:00",
             "lugar": "Av. de Mayo 930 (sede sindical) hacia Secretaría de Trabajo de la Nación",
             "quien": "Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos (UTHGRA)",
             "tipo_medida": "Marcha",
             "motivo": "Exigir homologación de paritarias y certificación de autoridades gremiales",
             "fuente": "https://www.datagremial.com/informacion-general/el-gobierno-profundiza-el-conflicto-con-su-exaliado-barrionuevo-no-homologa-las-paritarias-ni-entrega-el-certificado-de-autoridades-y-habra-una-marcha-a-trabajo-2026103114440, https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
+            "horario": "No especificado",
+            "lugar": "Universidad Nacional de Rosario (UNR)",
+            "quien": "Apur (Asociación de Personal Universitario de Rosario)",
+            "tipo_medida": "Paro",
+            "motivo": "Cumplimiento de la ley de financiamiento universitario y reclamo por pérdida salarial acumulada",
+            "fuente": "https://elciudadanoweb.com/la-unr-tendra-dos-dias-de-paro-de-trabajadores-no-docentes-en-reclamo-de-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-17",
+            "horario": "10:00",
+            "lugar": "Ministerio de Capital Humano",
+            "quien": "Sindicato de Gastronómicos (UTHGRA)",
+            "tipo_medida": "Movilización",
+            "motivo": "Reconocimiento de autoridades electadas y homologación de aumento salarial",
+            "fuente": "https://www.infobae.com/politica/2026/11/12/el-trasfondo-de-la-fuerte-discusion-entre-pettovello-y-barrionuevo-antes-del-discurso-del-papa-en-la-uca/"
         },
         {
             "es_evento_relevante": true,
