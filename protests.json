@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-11T19:36:29.956489-03:00",
+    "last_updated": "2026-11-12T00:44:06.070502-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18335,11 +18335,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-12",
             "horario": "21:00",
-            "lugar": "Seis líneas del subte y Premetro de Buenos Aires",
-            "quien": "Metrodelegados",
+            "lugar": "Red de Subterráneo y Premetro de Buenos Aires (seis líneas)",
+            "quien": "Asociación Gremial de Trabajadores del Subterráneo y Premetro (AGTSyP)",
             "tipo_medida": "Paro",
-            "motivo": "Protesta por el fallecimiento de un trabajador producto de la supuesta exposición al asbesto",
-            "fuente": "https://www.inforegion.com.ar/2026/11/11/la-visita-del-papa-pauso-la-protesta-pero-se-reactiva-manana/, https://estadodealerta.com.ar/paro-de-subtes-el-jueves-12-metrodelegados-denuncian-una-nueva-muerte-por-asbesto/, https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
+            "motivo": "Repudio a la muerte de trabajador por exposición a asbesto y exigencias de retiro del mineral",
+            "fuente": "https://motoreconomico.com.ar/paro-en-todo-el-subte-el-jueves-a-la-noche-por-la-muerte-de-un-trabajador-que-el-gremio-atribuye-al-asbesto/, https://www.inforegion.com.ar/2026/11/11/la-visita-del-papa-pauso-la-protesta-pero-se-reactiva-manana/, https://estadodealerta.com.ar/paro-de-subtes-el-jueves-12-metrodelegados-denuncian-una-nueva-muerte-por-asbesto/, https://www.laizquierdadiario.com/Paro-en-el-subte-por-la-muerte-de-otro-trabajador-a-causa-del-Asbesto-Emova-y-Macri-son"
         },
         {
             "es_evento_relevante": true,
