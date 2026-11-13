@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-13T06:09:45.843080-03:00",
+    "last_updated": "2026-11-13T14:09:17.711685-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18353,6 +18353,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-14",
+            "horario": "10:00",
+            "lugar": "Ministerio de Trabajo bonaerense",
+            "quien": "Sindicato Papelero",
+            "tipo_medida": "Reunión de Negociación",
+            "motivo": "Discutir alternativas para revertir el cierre de Papelera del Sur y recuperar puestos de trabajo",
+            "fuente": "https://www.datagremial.com/informacion-general/a-la-espera-de-audiencia-clave-trabajadores-de-papelera-del-sur-mantienen-un-acampe-por-tiempo-indeterminado-202611129510"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-15",
             "horario": "00:00",
             "lugar": "Penal Federal de Marcos Paz",
@@ -18360,6 +18370,16 @@
             "tipo_medida": "Huelga de hambre",
             "motivo": "Reclamar por condiciones carcelarias, acceso a salud, educación y visitas, y exigir la libertad de Milton Tolomeo y Eneas Gallo",
             "fuente": "https://www.anred.org/de-la-bendicion-de-devoto-al-calvario-de-marcos-paz-milton-tolomeo-preso-por-luchar-contra-la-reforma-laboral-inicio-una-huelga-de-hambre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-15",
+            "horario": "06:00",
+            "lugar": "Ezeiza y Aeroparque",
+            "quien": "ATE/ANAC",
+            "tipo_medida": "Paro",
+            "motivo": "Denuncia congelamiento salarial, falta de negociaciones paritarias sectoriales y desfinanciamiento de áreas operativas de la ANAC",
+            "fuente": "https://www.inforegion.com.ar/2026/11/13/protesta-de-ate-anac-por-salarios-y-desfinanciamiento/, https://radiomitre.cienradios.com/sociedad/los-trabajadores-de-la-anac-anunciaron-un-paro-a-la-japonesa-en-aeroparque-y-ezeiza-como-es-y-a-quienes-afecta/"
         },
         {
             "es_evento_relevante": true,
@@ -18390,6 +18410,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir homologación de paritarias y certificación de autoridades gremiales",
             "fuente": "https://www.datagremial.com/informacion-general/el-gobierno-profundiza-el-conflicto-con-su-exaliado-barrionuevo-no-homologa-las-paritarias-ni-entrega-el-certificado-de-autoridades-y-habra-una-marcha-a-trabajo-2026103114440, https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
+            "horario": "No especificado",
+            "lugar": "Todos los aeropuertos del país",
+            "quien": "ATE-ANAC (Asociación de Trabajadores del Estado de la ANAC)",
+            "tipo_medida": "Retención de tareas",
+            "motivo": "Reclamo salarial (salarios congelados desde hace más de 10 meses), presupuestario (desfinanciamiento de áreas operativas), condiciones laborales y seguridad (falta de equipos de protección, ambulancias e insumos)",
+            "fuente": "https://estadodealerta.com.ar/ate-anac-con-paro-a-la-japonesa-en-ezeiza-aeroparque-y-anticipo-de-retencion-de-tareas-de-bomberos-aeroportuarios/"
         },
         {
             "es_evento_relevante": true,
