@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-12T17:44:20.125366-03:00",
+    "last_updated": "2026-11-12T22:43:57.609562-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18395,6 +18395,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-16",
             "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "COAD (Asociación Gremial de Docentes e Investigadores de la UNR)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo del cumplimiento de la Ley de Financiamiento Universitario y convocatoria urgente a la paritaria nacional",
+            "fuente": "https://elciudadanoweb.com/coad-lanzo-un-paro-para-toda-la-semana-que-viene-y-convoco-a-un-cabildo-abierto-para-visibilizar-la-lucha-universitaria/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
+            "horario": "No especificado",
             "lugar": "Universidad Nacional de Rosario (UNR)",
             "quien": "Apur (Asociación de Personal Universitario de Rosario)",
             "tipo_medida": "Paro",
@@ -18486,10 +18496,10 @@
             "fecha": "2026-12-31",
             "horario": "16:00",
             "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Huelga parcial",
-            "motivo": "Visibilizar reclamos sin afectar salarios ni presentismo",
-            "fuente": "https://www.infobae.com/politica/2026/10/28/sin-paros-generales-y-con-un-acto-en-una-cancha-la-nueva-estrategia-de-la-cgt-que-pone-en-la-mira-tanto-al-gobierno-como-al-pj/, https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-paros-regionales-por-salarios-dignos-y-mejoras-salariales/, https://lavozderosario.com/este-martes-se-presenta-el-indice-salarial-del-fresu-en-el-marco-de-la-jornada-de-protesta-universitaria/"
+            "quien": "CGT y otras centrales sindicales",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamos por pérdida de empleo, crisis económica, sistema de salud, educación y exclusión de trabajadores informales y de plataformas",
+            "fuente": "https://www.datagremial.com/informacion-general/la-cgt-prepara-antes-que-cierre-el-ano-una-medida-de-accion-gremial-para-dejar-plasmados-sus-reclamos-2026111211240, https://www.infobae.com/politica/2026/10/28/sin-paros-generales-y-con-un-acto-en-una-cancha-la-nueva-estrategia-de-la-cgt-que-pone-en-la-mira-tanto-al-gobierno-como-al-pj/, https://elciudadanoweb.com/el-frente-de-sindicatos-unidos-anuncio-paros-regionales-por-salarios-dignos-y-mejoras-salariales/, https://lavozderosario.com/este-martes-se-presenta-el-indice-salarial-del-fresu-en-el-marco-de-la-jornada-de-protesta-universitaria/"
         },
         {
             "es_evento_relevante": true,
