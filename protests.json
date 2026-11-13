@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-12T22:43:57.609562-03:00",
+    "last_updated": "2026-11-13T06:09:45.843080-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18345,11 +18345,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-13",
             "horario": "09:00",
-            "lugar": "27 terminales aéreos del país, con epicentro en Aeropuerto Internacional de Ezeiza y Aeroparque Metropolitano",
-            "quien": "ATE-ANAC (Asociación de Trabajadores del Estado en la Administración Nacional de Aviación Civil)",
-            "tipo_medida": "Movilización",
-            "motivo": "Falta de financiamiento, atraso salarial y desfinanciamiento operativo del organismo",
-            "fuente": "https://www.datagremial.com/informacion-general/ate-ratifica-plan-de-lucha-en-la-anac-con-retencion-de-tareas-y-paro-a-la-japonesa-2026111016220, https://www.cipo360.com.ar/noticias/2026/09/03/73706-rige-el-paro-de-trabajadores-de-ate-en-27-aeropuertos-del-pais"
+            "lugar": "Aeropuertos de Ezeiza y Aeroparque (áreas de control terrestre)",
+            "quien": "ATE-ANAC (Asociación Trabajadores del Estado y de la Administración Nacional de la Aviación Civil)",
+            "tipo_medida": "Paro a la japonesa",
+            "motivo": "Denuncia de 3 años sin paritaria sectorial, más de 10 meses con salario congelado, desfinanciamiento de áreas operativas de ANAC y exigencia de volcar recursos recaudados (>220.000 millones) en mejoras salariales",
+            "fuente": "https://www.datagremial.com/informacion-general/se-viene-el-paro-a-la-japonesa-de-los-trabajadores-de-la-anac-en-ezeiza-y-aeroparque-buscamos-visibilizar-la-crisis-2026111215570, https://www.datagremial.com/informacion-general/ate-ratifica-plan-de-lucha-en-la-anac-con-retencion-de-tareas-y-paro-a-la-japonesa-2026111016220, https://www.cipo360.com.ar/noticias/2026/09/03/73706-rige-el-paro-de-trabajadores-de-ate-en-27-aeropuertos-del-pais"
         },
         {
             "es_evento_relevante": true,
@@ -18420,6 +18420,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reconocimiento de autoridades electadas y homologación de aumento salarial",
             "fuente": "https://www.infobae.com/politica/2026/11/12/el-trasfondo-de-la-fuerte-discusion-entre-pettovello-y-barrionuevo-antes-del-discurso-del-papa-en-la-uca/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-18",
+            "horario": "11:00",
+            "lugar": "Sede de ANSES (Córdoba 1144) y luego Congreso Nacional",
+            "quien": "Mesa Coordinadora Nacional de Organizaciones de Jubilados y Pensionados de la República Argentina",
+            "tipo_medida": "Marcha",
+            "motivo": "Incremento inmediato de jubilaciones mínimas, cobertura de medicamentos al 100%, restitución de PAMI, control sobre el FGS y rechazo al FAL",
+            "fuente": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/"
         },
         {
             "es_evento_relevante": true,
