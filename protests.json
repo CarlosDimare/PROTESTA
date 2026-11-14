@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-13T19:31:04.931315-03:00",
+    "last_updated": "2026-11-14T00:04:52.417874-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18353,6 +18353,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-13",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Mesa Sindical (integrada por ATE, CTERA, AJB, AGTSyP, SEC, CICOP, Federación Gráfica Bonaerense, SOERM, AMM, FETERA, entre otros)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir aumento del 35% en salarios y jubilaciones, declaración de emergencia laboral para frenar despidos, moratoria de deudas familiares y restitución de la zona frías, en rechazo a la inflación oficial y la política económica del gobierno",
+            "fuente": "https://www.datagremial.com/informacion-general/tras-el-2-2-de-octubre-la-mesa-sindical-remarco-que-los-datos-reales-de-inflacion-no-pueden-estar-a-merced-de-un-gobierno-2026111310550"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-14",
             "horario": "10:00",
             "lugar": "Ministerio de Trabajo bonaerense",
@@ -18440,6 +18450,16 @@
             "tipo_medida": "Paro",
             "motivo": "Cumplimiento de la ley de financiamiento universitario y reclamo por pérdida salarial acumulada",
             "fuente": "https://elciudadanoweb.com/la-unr-tendra-dos-dias-de-paro-de-trabajadores-no-docentes-en-reclamo-de-la-ley-de-financiamiento-universitario/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-17",
+            "horario": "09:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "CGT",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la burocracia sindical y por aumento salarial",
+            "fuente": "https://www.laizquierdadiario.com/Francia-despues-de-la-huelga-cual-es-el-rol-de-los-sindicatos-y-como-seguir-la-lucha"
         },
         {
             "es_evento_relevante": true,
