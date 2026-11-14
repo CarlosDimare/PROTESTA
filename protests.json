@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-14T00:04:52.417874-03:00",
+    "last_updated": "2026-11-14T06:49:28.294829-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18360,6 +18360,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Exigir aumento del 35% en salarios y jubilaciones, declaración de emergencia laboral para frenar despidos, moratoria de deudas familiares y restitución de la zona frías, en rechazo a la inflación oficial y la política económica del gobierno",
             "fuente": "https://www.datagremial.com/informacion-general/tras-el-2-2-de-octubre-la-mesa-sindical-remarco-que-los-datos-reales-de-inflacion-no-pueden-estar-a-merced-de-un-gobierno-2026111310550"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-14",
+            "horario": "10:00",
+            "lugar": "Ministerio de Trabajo",
+            "quien": "Trabajadores despedidos de Gentec-Plantium con apoyo de sindicatos y organizaciones",
+            "tipo_medida": "Audiencia",
+            "motivo": "Exigir reincorporaciones, pago de salarios adeudados y respuesta del gobierno de Pullaro ante el vaciamiento patronal",
+            "fuente": "https://www.laizquierdadiario.com/Gran-movilizacion-en-Villa-Constitucion-contra-los-despidos-en-Gentec-Plantium"
         },
         {
             "es_evento_relevante": true,
