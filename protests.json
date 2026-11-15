@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-15T13:08:54.233829-03:00",
+    "last_updated": "2026-11-15T18:00:22.197709-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18400,6 +18400,16 @@
             "tipo_medida": "Paro",
             "motivo": "Denuncia congelamiento salarial, falta de negociaciones paritarias sectoriales y desfinanciamiento de áreas operativas de la ANAC",
             "fuente": "https://www.inforegion.com.ar/2026/11/13/protesta-de-ate-anac-por-salarios-y-desfinanciamiento/, https://radiomitre.cienradios.com/sociedad/los-trabajadores-de-la-anac-anunciaron-un-paro-a-la-japonesa-en-aeroparque-y-ezeiza-como-es-y-a-quienes-afecta/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-15",
+            "horario": "13:00",
+            "lugar": "Place de la República a Place de la Nation, París",
+            "quien": "Movimiento \"contra la vida chère\"",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamos contra el elevado costo de vida",
+            "fuente": "https://www.conclusion.com.ar/internacionales/mas-de-200-mil-personas-marcharon-en-francia-hubo-disturbios-ataques-a-periodistas-y-casi-220-detenidos/11/2026/"
         },
         {
             "es_evento_relevante": true,
