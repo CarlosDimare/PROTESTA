@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-14T22:37:12.757295-03:00",
+    "last_updated": "2026-11-15T05:52:17.654855-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18413,6 +18413,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-15",
+            "horario": "No especificado",
+            "lugar": "Avenida Rivadavia 4283, sede central del IOSFA",
+            "quien": "Asociación Trabajadores del Estado (ATE)",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Contra despidos masivos en IOSFA y por inconstitucionalidad del DNU 1286/2026 y Disposición 709/2026",
+            "fuente": "https://www.datagremial.com/informacion-general/ate-presento-una-accion-de-amparo-con-cautelar-para-frenar-los-despidos-y-el-desguace-en-iosfa-202611141000"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
+            "horario": "10:00",
+            "lugar": "Capital Humano",
+            "quien": "Luis Barrionuevo y Gastronómicos",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir reconocimiento oficial a su triunfo electoral",
+            "fuente": "https://www.infobae.com/politica/2026/11/15/la-cgt-entre-un-fallido-encuentro-con-pettovello-la-inedita-modalidad-de-los-paros-y-una-marcha-por-las-obras-sociales/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-16",
             "horario": "12:00",
             "lugar": "Esquina de Sáenz y Manuel Castro, frente a la Plaza Grigera, Lomas de Zamora",
@@ -18425,11 +18445,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-16",
             "horario": "16:00",
-            "lugar": "Av. de Mayo 930 (sede sindical) hacia Secretaría de Trabajo de la Nación",
-            "quien": "Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos (UTHGRA)",
-            "tipo_medida": "Marcha",
-            "motivo": "Exigir homologación de paritarias y certificación de autoridades gremiales",
-            "fuente": "https://www.datagremial.com/informacion-general/el-gobierno-profundiza-el-conflicto-con-su-exaliado-barrionuevo-no-homologa-las-paritarias-ni-entrega-el-certificado-de-autoridades-y-habra-una-marcha-a-trabajo-2026103114440, https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
+            "lugar": "Avenida de Mayo 930, Ciudad de Buenos Aires",
+            "quien": "UTHGRA (Unión de Trabajadores del Turismo, Hoteleros y Gastronómicos de la República Argentina)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir homologación inmediata de acuerdos salariales, paritarias libres, salarios dignos, respeto a autoridades sindicales democráticas y rechazo a la demora del Gobierno nacional",
+            "fuente": "https://www.conclusion.com.ar/gremiales/gastronomicos-de-rosario-se-suman-a-la-marcha-nacional-para-exigir-la-homologacion-de-las-paritarias/11/2026/, https://www.datagremial.com/informacion-general/el-gobierno-profundiza-el-conflicto-con-su-exaliado-barrionuevo-no-homologa-las-paritarias-ni-entrega-el-certificado-de-autoridades-y-habra-una-marcha-a-trabajo-2026103114440, https://www.infobae.com/politica/2026/10/29/50-sindicatos-iran-a-la-justicia-en-reclamo-de-688-mil-millones-de-las-obras-sociales-que-retiene-el-gobierno/"
         },
         {
             "es_evento_relevante": true,
