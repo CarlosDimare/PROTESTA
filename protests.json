@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-15T21:40:37.829433-03:00",
+    "last_updated": "2026-11-16T04:40:58.363735-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18513,6 +18513,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-17",
+            "horario": "17:00",
+            "lugar": "Federación Argentina de Box, Castro Barros 75",
+            "quien": "62 Organizaciones",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamar espacios políticos para el sindicalismo peronista en las elecciones de 2027 y criticar la designación de candidatos por dirigentes",
+            "fuente": "https://www.infobae.com/politica/2026/11/16/no-queremos-que-los-candidatos-del-pj-se-designen-a-dedo-o-por-whatsapp-la-advertencia-del-lider-de-las-62-organizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-18",
             "horario": "11:00",
             "lugar": "Sede de ANSES (Córdoba 1144) y luego Congreso Nacional",
@@ -18570,6 +18580,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos, ajustes salariales y cierres de empresas",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "No especificado",
+            "lugar": "La Matanza, Provincia de Buenos Aires",
+            "quien": "Coordinadora de Trabajadorxs de La Matanza",
+            "tipo_medida": "Jornada de lucha",
+            "motivo": "Campaña contra reforma laboral, devolución de descuentos a docentes y justicia por femicidios (Brenda, Lara y Morena)",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-la-Coordinadora-en-Suteba-Matanza-campanas-de-difusion-y-jornadas-de-lucha-para"
         },
         {
             "es_evento_relevante": true,
