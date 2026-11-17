@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-16T14:52:36.173317-03:00",
+    "last_updated": "2026-11-16T22:28:28.518470-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18464,6 +18464,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-16",
+            "horario": "18:00",
+            "lugar": "Remedios de Escalada, Lanús",
+            "quien": "Vecinos de Remedios de Escalada",
+            "tipo_medida": "Marcha",
+            "motivo": "Repudio por presuntos crímenes sociales de Metrogas",
+            "fuente": "https://www.laizquierdadiario.com/Crimen-social-en-Lanus-huelga-en-Estado-espanol-y-el-fetiche-de-Milei"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-16",
             "horario": "No especificado",
             "lugar": "Todos los aeropuertos del país",
             "quien": "ATE-ANAC (Asociación de Trabajadores del Estado de la ANAC)",
@@ -18847,10 +18857,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "FEDUN (Federación de Docentes de las Universidades)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamo por el tratamiento del Presupuesto 2027 y recuperación del poder adquisitivo con incremento salarial del 32%",
-            "fuente": "https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
+            "quien": "Mesa Sindical",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a datos oficiales de inflación y exigencia de 35% de aumento salarial, emergencia laboral, moratoria de deudas familiares y restitución de la zona fría",
+            "fuente": "https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
         },
         {
             "es_evento_relevante": true,
