@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-16T22:28:28.518470-03:00",
+    "last_updated": "2026-11-17T07:07:48.704006-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18504,6 +18504,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-17",
+            "horario": "06:00",
+            "lugar": "Todas las terminales aeroportuarias del país",
+            "quien": "Trabajadores de Servicios de Salvamento y Extinción de Incendios (SSEI) de ATE-ANAC",
+            "tipo_medida": "Retención de tareas",
+            "motivo": "Reclamo por recomposición salarial, mayor presupuesto para ANAC y condiciones laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/luego-del-paro-a-la-japonesa-ate-anac-comienza-una-semana-de-protesta-en-todo-el-pais-202611169500"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-17",
             "horario": "09:00",
             "lugar": "Plaza de Mayo",
             "quien": "CGT",
@@ -18530,6 +18540,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Reclamar espacios políticos para el sindicalismo peronista en las elecciones de 2027 y criticar la designación de candidatos por dirigentes",
             "fuente": "https://www.infobae.com/politica/2026/11/16/no-queremos-que-los-candidatos-del-pj-se-designen-a-dedo-o-por-whatsapp-la-advertencia-del-lider-de-las-62-organizaciones/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-18",
+            "horario": "00:00",
+            "lugar": "España 1540 (sede de Osfa) y delegaciones en todo el país",
+            "quien": "Asociación de Trabajadores del Estado (ATE) seccional Rosario",
+            "tipo_medida": "Paro",
+            "motivo": "Denuncia contra el desguace de la Obra Social de las Fuerzas Armadas (Osfa), despidos masivos de 1.450 trabajadores y política de ajuste del gobierno",
+            "fuente": "https://www.conclusion.com.ar/gremiales/nueva-protesta-de-trabajadores-de-osfa-en-rosario-van-a-quedar-60-familias-en-la-calle/11/2026/"
         },
         {
             "es_evento_relevante": true,
@@ -18857,10 +18877,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Mesa Sindical",
+            "quien": "ATILRA",
             "tipo_medida": "Movilización",
-            "motivo": "Rechazo a datos oficiales de inflación y exigencia de 35% de aumento salarial, emergencia laboral, moratoria de deudas familiares y restitución de la zona fría",
-            "fuente": "https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
+            "motivo": "Reclamar resolución definitiva del proceso de quiebra de SanCor y fin de las demoras judiciales que mantienen a los trabajadores en incertidumbre",
+            "fuente": "https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
         },
         {
             "es_evento_relevante": true,
