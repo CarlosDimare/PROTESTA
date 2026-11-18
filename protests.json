@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-17T22:37:41.220533-03:00",
+    "last_updated": "2026-11-18T06:46:30.012377-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18593,6 +18593,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-20",
+            "horario": "No especificado",
+            "lugar": "Sede de Amsafe Santa Fe",
+            "quien": "Tribuna Docente",
+            "tipo_medida": "Movilización",
+            "motivo": "Rechazo a reforma estatutaria de Amsafe que consideran antidemocrática y concentradora de poder",
+            "fuente": "https://prensaobrera.com/sindicales/amsafe-no-a-la-reforma-del-estatuto-defendamos-la-democracia-sindical-y-el-principio-de-un-docente-un-voto"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-25",
             "horario": "15:30",
             "lugar": "No especificado",
@@ -18897,10 +18907,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "ATILRA",
-            "tipo_medida": "Movilización",
-            "motivo": "Reclamar resolución definitiva del proceso de quiebra de SanCor y fin de las demoras judiciales que mantienen a los trabajadores en incertidumbre",
-            "fuente": "https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
+            "quien": "Trabajadores y jóvenes",
+            "tipo_medida": "Huelga General",
+            "motivo": "Contra la reforma laboral y el ajuste de Milei",
+            "fuente": "https://www.laizquierdadiario.com/Como-armamos-una-huelga-general-desde-abajo, https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
         },
         {
             "es_evento_relevante": true,
