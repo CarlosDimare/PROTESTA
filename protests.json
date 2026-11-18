@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-18T06:46:30.012377-03:00",
+    "last_updated": "2026-11-18T15:40:14.900805-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18564,12 +18564,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-18",
+            "horario": "10:00",
+            "lugar": "Sede de Cutral Co del Poder Judicial de Neuquén, Juan José Valle 510, esquina Chubut",
+            "quien": "Familia de Emanuel Amadore y organizaciones solidarias (Agrupación Negra en ATEN-Ccoph, Agrupación Pan y Rosas)",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir justicia por la muerte de Emanuel Amadore, denunciando irregularidades en la investigación del Poder Judicial y Policía de Neuquén",
+            "fuente": "https://www.laizquierdadiario.com/No-se-mato-lo-mataron-este-miercoles-marcharan-en-Cutral-Co-por-justicia-para-Emanuel-Amadore"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-18",
             "horario": "11:00",
             "lugar": "Sede de ANSES (Córdoba 1144) y luego Congreso Nacional",
             "quien": "Mesa Coordinadora Nacional de Organizaciones de Jubilados y Pensionados de la República Argentina",
             "tipo_medida": "Marcha",
             "motivo": "Incremento inmediato de jubilaciones mínimas, cobertura de medicamentos al 100%, restitución de PAMI, control sobre el FGS y rechazo al FAL",
             "fuente": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-18",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Seccionales de oposición junto a la Multicolor de SUTEBA",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra la sumisión de la conducción de SUTEBA al gobierno provincial, los ataques de Milei y los descuentos contra el derecho a huelga de Kicillof",
+            "fuente": "https://www.laizquierdadiario.com/Basta-de-sindicatos-complices-plan-de-lucha-contra-los-descuentos-de-Kicillof-y-presupuesto"
         },
         {
             "es_evento_relevante": true,
@@ -18907,10 +18927,10 @@
             "fecha": "No especificado",
             "horario": "No especificado",
             "lugar": "No especificado",
-            "quien": "Trabajadores y jóvenes",
-            "tipo_medida": "Huelga General",
-            "motivo": "Contra la reforma laboral y el ajuste de Milei",
-            "fuente": "https://www.laizquierdadiario.com/Como-armamos-una-huelga-general-desde-abajo, https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
+            "quien": "Federación de Docentes de las Universidades (FEDUN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamar incremento salarial del 32% y cumplimiento de la Ley de Financiamiento Educativo",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-cumplio-su-tercer-paro-de-su-nuevo-plan-de-lucha-necesitamos-un-incremento-salarial-202611161770, https://www.laizquierdadiario.com/Como-armamos-una-huelga-general-desde-abajo, https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
         },
         {
             "es_evento_relevante": true,
