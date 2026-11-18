@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-17T16:05:26.134421-03:00",
+    "last_updated": "2026-11-17T22:37:41.220533-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18570,6 +18570,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Incremento inmediato de jubilaciones mínimas, cobertura de medicamentos al 100%, restitución de PAMI, control sobre el FGS y rechazo al FAL",
             "fuente": "https://www.infobae.com/politica/2026/11/13/jubilados-piqueteros-y-partidos-de-izquierda-reactivan-el-plan-de-lucha-contra-el-gobierno-a-horas-de-la-partida-del-papa/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-19",
+            "horario": "14:00",
+            "lugar": "Avenida Belgrano y Tacuarí hacia Secretaría de Industria",
+            "quien": "UTICRA, CIC, Zapateros Unidos y FAICA",
+            "tipo_medida": "Movilización",
+            "motivo": "Crisis industrial y reclamo de políticas estatales para evitar la extinción del sector",
+            "fuente": "https://estadodealerta.com.ar/trabajadores-y-empresarios-del-calzado-marchan-juntos-a-la-secretaria-de-industria-el-problema-es-politico/"
         },
         {
             "es_evento_relevante": true,
