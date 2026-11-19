@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-18T21:59:35.953105-03:00",
+    "last_updated": "2026-11-19T05:27:35.962570-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18594,6 +18594,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-19",
+            "horario": "09:30",
+            "lugar": "Zanon (Capital), Ruta 7, Ruta 22 y Plottier (Neuquén)",
+            "quien": "ATEN (Asociación de Trabajadores de la Educación de Neuquén) - Seccionales Combativas",
+            "tipo_medida": "Paro con movilización en rutas",
+            "motivo": "Reclamo del 50% de aumento al básico, incorporación del presentismo al salario, presupuesto educativo, rechazo a la reforma educativa y repudio a la alianza política de Quintriqueo con Sobisch",
+            "fuente": "https://www.laizquierdadiario.com/ATEN-arranco-el-paro-de-48-horas-con-volanteadas-en-las-rutas-En-la-provincia-de-Vaca-Muerta-plata"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-19",
             "horario": "14:00",
             "lugar": "Avenida Belgrano y Tacuarí hacia Secretaría de Industria",
             "quien": "UTICRA, CIC, Zapateros Unidos y FAICA",
@@ -18610,6 +18620,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Contra políticas del gobierno de Meloni, incluyendo recortes en educación/sanidad y acuerdo sobre salario justo",
             "fuente": "https://www.laizquierdadiario.com/Huelga-del-20-de-noviembre-en-Italia-unir-la-radicalidad-juvenil-a-la-lucha-de-la-clase-trabajadora, https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-20",
+            "horario": "No especificado",
+            "lugar": "Embajada de Francia en Argentina",
+            "quien": "Movimiento estudiantil argentino",
+            "tipo_medida": "Movilización",
+            "motivo": "Solidaridad con rebeliones juveniles internacionales contra el ajuste y el guerrerismo, y reclamos contra el gobierno de Milei",
+            "fuente": "https://prensaobrera.com/juventud/la-huelga-internacional-de-jovenes-y-el-plenario-nacional-de-la-ujs"
         },
         {
             "es_evento_relevante": true,
