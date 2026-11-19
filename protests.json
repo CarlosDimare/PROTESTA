@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-19T05:27:35.962570-03:00",
+    "last_updated": "2026-11-19T15:02:32.942785-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18643,6 +18643,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-21",
+            "horario": "18:30",
+            "lugar": "Esquina de avenida Hipólito Yrigoyen y Oliden, Lomas de Zamora",
+            "quien": "Secretaría de Mujeres, Géneros y Diversidades del Municipio de Lomas de Zamora",
+            "tipo_medida": "Marcha",
+            "motivo": "Defensa de derechos LGBTIQ+, rechazo a discriminación y violencia, y pedido de Ley Integral Trans",
+            "fuente": "https://www.inforegion.com.ar/2026/11/19/marcha-del-orgullo-en-lomas-cuando-donde-y-que-reclamos-habra-en-la-octava-edicion/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-25",
             "horario": "15:30",
             "lugar": "No especificado",
@@ -18650,6 +18660,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
             "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-28",
+            "horario": "14:30",
+            "lugar": "Plaza de Mayo",
+            "quien": "Mesa AMBA y colectivos cannábicos (Quilmes Cultiva Conciencia, Argentina Regenerativa)",
+            "tipo_medida": "Marcha",
+            "motivo": "Derogación de Ley 23.737, libertad de presos por cannabis y apoyo a víctimas de criminalización",
+            "fuente": "https://www.laizquierdadiario.com/Solidaridad-y-soberania-semillera-la-campana-de-la-Mesa-de-Organizacion-de-la-Marcha-de-cannabis-de"
         },
         {
             "es_evento_relevante": true,
@@ -18895,6 +18915,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "No especificado",
+            "horario": "14:00",
+            "lugar": "No especificado",
+            "quien": "Frente de Sindicatos Unidos (FreSU)",
+            "tipo_medida": "Paro general",
+            "motivo": "Defensa del salario mínimo y oposición a las políticas económicas del Gobierno de Javier Milei",
+            "fuente": "https://www.datagremial.com/informacion-general/para-el-fresu-milei-no-va-a-dejar-de-atacar-a-la-clase-trabajadora-y-pidio-como-respuesta-un-paro-nacional-202611199120, https://estadodealerta.com.ar/aeronauticos-protestaron-contra-joy-airline-cuestionando-los-antecedentes-de-uno-de-sus-socios/, https://www.datagremial.com/informacion-general/fatun-cumplio-su-tercer-paro-de-su-nuevo-plan-de-lucha-necesitamos-un-incremento-salarial-202611161770, https://www.laizquierdadiario.com/Como-armamos-una-huelga-general-desde-abajo, https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/, https://www.infogremiales.com.ar/hoy-el-fresu-denunciara-cara-a-cara-al-estado-argentino-en-la-cidh-por-la-reforma-laboral-regresiva-y-por-la-represion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "No especificado",
             "horario": "15:00",
             "lugar": "Frente al Congreso Nacional y movilizaciones regionales (Córdoba, Rosario)",
             "quien": "Frente de Sindicatos Estatales y Gremios de Empresas Públicas (APJBO, ATE, Federación Judicial Argentina, entre otros) y más de 80 organizaciones sindicales de CGT, CTA Autónoma y CTA de los Trabajadores",
@@ -18941,16 +18971,6 @@
             "tipo_medida": "Paro",
             "motivo": "Reclamo salarial por actualización de ingresos para recuperar poder adquisitivo, rechazo a que empresas trasladen conflictos por subsidios a los trabajadores",
             "fuente": "https://www.inforegion.com.ar/2026/06/19/paro-de-colectivos-la-uta-amenaza-con-una-nueva-medida-de-fuerza-por-falta-de-acuerdo-salarial/, https://www.conclusion.com.ar/gremiales/la-uta-le-exigio-a-nacion-un-aumento-salarial-podria-haber-paro-de-colectivos-en-el-pais/06/2026/, https://www.inforegion.com.ar/2025/11/20/paro-de-colectivos-la-uta-amenaza-con-medidas-de-fuerza-por-un-nuevo-conflicto-salarial/, https://www.laizquierdadiario.com/Lo-que-dejo-la-Marcha-Nacional-de-la-Marihuana-La-libertad-no-se-pide-se-ejerce, https://estadodealerta.com.ar/la-mesa-sindical-descree-de-los-datos-oficiales-de-inflacion-y-propone-una-campana-nacional-por-aumento-salarial-del-20/, https://estadodealerta.com.ar/el-sindicato-de-jetsmart-aprueba-en-asamblea-abierta-a-los-afiliados-postergar-paro-y-seguir-negociando-la-reincorporacion-de-trabajadores-despedidos-y-una-urgente-actualizacion-salarial/, https://www.inforegion.com.ar/2025/11/11/ate-se-reune-para-definir-un-nuevo-paro-en-rechazo-a-la-reforma-laboral/, https://estadodealerta.com.ar/la-flexibilizacion-laboral-se-discute-en-las-regionales-provinciales-y-en-un-congreso-con-sindicalismo-en-minoria/, https://prensaobrera.com/politicas/reforma-laboral-la-cgt-entreguista-no-debe-decidir-por-los-trabajadores, https://estadodealerta.com.ar/cuota-solidaria-libertarios-vs-sindicalismo-caputo-y-sturzenegger-van-contra-la-representacion-gremial/, https://estadodealerta.com.ar/profundizacion-de-la-flexibilizacion-laboral-el-sindicalismo-frente-al-recargado-proyecto-de-ley-libertario/, https://www.infobae.com/politica/2025/10/08/luis-barrionuevo-hara-una-marcha-pacifica-ante-tribunales-en-reclamo-de-las-elecciones-en-gastronomicos/, https://prensaobrera.com/politicas/a-milei-ni-trump-lo-puede-salvar-y-espert-lo-entierra-mas, https://prensaobrera.com/politicas/concentracion-frente-a-cancilleria-repudio-el-encuentro-milei-netanyahu, https://www.infobae.com/politica/2025/09/13/en-medio-de-las-internas-el-gobierno-se-propuso-reactivar-la-gestion-para-paliar-el-efecto-de-la-derrota/, https://www.infobae.com/politica/2025/09/10/como-efecto-del-triunfo-bonaerense-del-pj-el-ala-dura-del-sindicalismo-debatira-nuevas-acciones-contra-el-gobierno/, https://www.laizquierdadiario.com/El-bono-a-docentes-universitarios-equivale-a-tres-alfajores, https://prensaobrera.com/politicas/acampe-contra-el-cierre-de-la-ceramista-ilva-y-en-defensa-de-mas-de-300-puestos-de-trabajo, https://www.eldestapeweb.com/politica/marcha-universitaria/a-que-hora-y-donde-es-la-marcha-universitaria-del-2-de-octubre-en-argentina--202410115540, https://www.datagremial.com/informacion-general/la-uta-advierte-que-habra-paro-de-colectivos-si-las-empresas-pagan-salarios-y-aguinaldo-en-cuotas-2025111917470"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "No especificado",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "Federación de Docentes de las Universidades (FEDUN)",
-            "tipo_medida": "Paro",
-            "motivo": "Reclamar incremento salarial del 32% y cumplimiento de la Ley de Financiamiento Educativo",
-            "fuente": "https://www.datagremial.com/informacion-general/fatun-cumplio-su-tercer-paro-de-su-nuevo-plan-de-lucha-necesitamos-un-incremento-salarial-202611161770, https://www.laizquierdadiario.com/Como-armamos-una-huelga-general-desde-abajo, https://www.datagremial.com/informacion-general/atilra-anuncio-una-movilizacion-por-sancor-y-exigio-una-resolucion-definitiva-de-la-quiebra-piensen-en-la-gente-2026111619360, https://estadodealerta.com.ar/la-mesa-sindical-denuncio-que-el-dato-de-inflacion-de-octubre-es-un-dibujo-y-reclamo-un-aumento-del-35-de-salarios-y-jubilaciones/, https://www.inforegion.com.ar/2026/11/16/tercer-paro-de-fatun-en-noviembre-por-financiamiento-de-universidades/"
         },
         {
             "es_evento_relevante": true,
