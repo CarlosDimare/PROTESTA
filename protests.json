@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-20T13:54:59.703811-03:00",
+    "last_updated": "2026-11-20T20:02:57.862608-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18605,11 +18605,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-19",
             "horario": "14:00",
-            "lugar": "Avenida Belgrano y Tacuarí hacia Secretaría de Industria",
-            "quien": "UTICRA, CIC, Zapateros Unidos y FAICA",
-            "tipo_medida": "Movilización",
-            "motivo": "Crisis industrial y reclamo de políticas estatales para evitar la extinción del sector",
-            "fuente": "https://estadodealerta.com.ar/trabajadores-y-empresarios-del-calzado-marchan-juntos-a-la-secretaria-de-industria-el-problema-es-politico/"
+            "lugar": "Secretaría de Industria y Comercio",
+            "quien": "UTICRA, CIC, FAICA y Zapateros Unidos",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar medidas contra importaciones, contrabando y dumping para defender la industria del calzado y los puestos de trabajo",
+            "fuente": "https://estadodealerta.com.ar/miles-de-trabajadores-y-empresarios-del-calzado-marcharon-a-industria-sin-medidas-urgentes-se-seguira-perdiendo-empleo-y-empresas/, https://estadodealerta.com.ar/trabajadores-y-empresarios-del-calzado-marchan-juntos-a-la-secretaria-de-industria-el-problema-es-politico/"
         },
         {
             "es_evento_relevante": true,
