@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-19T21:16:47.067064-03:00",
+    "last_updated": "2026-11-20T05:08:59.118943-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18634,12 +18634,22 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-20",
+            "horario": "15:00",
+            "lugar": "Puertos, molinos, rutas, universidades, hospitales y aeropuertos de Rosario",
+            "quien": "Frente de Sindicatos Unidos (FreSU-Federal)",
+            "tipo_medida": "Paro Nacional",
+            "motivo": "Denuncia de retroceso salarial (21% sector público, 7% privado) y rechazo a la política económica de Javier Milei, reclama ingresos acordes al artículo 14 bis de la Constitución",
+            "fuente": "https://elciudadanoweb.com/segun-un-relevamiento-sindical-el-salario-minimo-deberia-superar-los-32-millones-de-pesos-para-cubrir-las-necesidades-basicas/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-20",
             "horario": "La hora de inicio del evento de protesta es:  \n**14:00**",
             "lugar": "No especificado",
-            "quien": "CGIL",
-            "tipo_medida": "Huelga general",
-            "motivo": "Contra políticas del gobierno de Meloni, incluyendo recortes en educación/sanidad y acuerdo sobre salario justo",
-            "fuente": "https://www.laizquierdadiario.com/Huelga-del-20-de-noviembre-en-Italia-unir-la-radicalidad-juvenil-a-la-lucha-de-la-clase-trabajadora, https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
+            "quien": "11noticias",
+            "tipo_medida": "No especificado",
+            "motivo": "Rechazo al proyecto de presupuesto nacional",
+            "fuente": "https://11noticias.com/gremial/docentes-universitarios-convocan-a-un-nuevo-paro-en-la-unr-el-25-de-noviembre_53638, https://www.laizquierdadiario.com/Huelga-del-20-de-noviembre-en-Italia-unir-la-radicalidad-juvenil-a-la-lucha-de-la-clase-trabajadora, https://www.conclusion.com.ar/internacionales/protestas-en-italia-por-recortes-en-educacion-aumento-del-costo-de-vida-y-bajos-salarios-el-principal-sindicato-del-pais-convoco-a-una-huelga-general/10/2026/, https://elciudadanoweb.com/protestas-violentas-y-saqueos-en-milan-dejan-mas-de-60-detenidos/, https://es.lamilano.it/Roma/La-CGIL-en-Piazza-Landini-anuncia-una-huelga-general-el-20-de-noviembre--enfrentamientos-en-Milán-y-tensiones-en-Turín./"
         },
         {
             "es_evento_relevante": true,
@@ -18730,6 +18740,16 @@
             "tipo_medida": "Paro y movilización",
             "motivo": "Recomposición salarial y rechazo al ajuste del gobierno de Macri y Quirós",
             "fuente": "https://prensaobrera.com/sindicales/como-sigue-el-plan-de-lucha-de-la-asamblea-de-residentes-y-concurrentes-de-caba"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-30",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "CGT",
+            "tipo_medida": "Paro a la francesa",
+            "motivo": "Presión contra el gobierno de Javier Milei en reclamo de justicia social y oposición a reformas laborales",
+            "fuente": "https://www.datagremial.com/informacion-general/se-revitaliza-en-la-cgt-la-idea-de-realizar-una-protesta-a-la-francesa-para-cerrar-el-2026-2026111911350"
         },
         {
             "es_evento_relevante": true,
