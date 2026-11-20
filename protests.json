@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-19T15:02:32.942785-03:00",
+    "last_updated": "2026-11-19T21:16:47.067064-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18613,6 +18613,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-19",
+            "horario": "15:00",
+            "lugar": "No especificado",
+            "quien": "CTERA",
+            "tipo_medida": "Paro",
+            "motivo": "Duelo por el asesinato de la maestra rural Nancy Godoy",
+            "fuente": "https://estadodealerta.com.ar/asesinato-a-fuentealba-sobisch-resucita-su-candidatura-en-alianza-con-sindicalista-docente-de-neuquen/, https://www.eluniversal.com.co/cartagena/2026/11/17/esta-es-la-hora-y-el-recorrido-de-la-marcha-del-19-de-noviembre-en-cartagena/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-20",
+            "horario": "00:00",
+            "lugar": "Rosario y todo el país",
+            "quien": "Unión de Empleados de la Justicia de la Nación (UEJN)",
+            "tipo_medida": "Paro",
+            "motivo": "Reclamo por recomposición salarial, rechazo a medidas que afectan al sector, defensa de la obra social y convocatoria a mesa paritaria",
+            "fuente": "https://www.conclusion.com.ar/gremiales/judiciales-nacionales-paran-este-viernes-en-rosario-por-reclamo-salarial/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-20",
             "horario": "La hora de inicio del evento de protesta es:  \n**14:00**",
             "lugar": "No especificado",
@@ -18654,12 +18674,32 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-25",
+            "horario": "13:00",
+            "lugar": "Congreso de la Nación",
+            "quien": "COAD y Conadu (Federación Nacional de Docentes Universitarios)",
+            "tipo_medida": "Paro nacional universitario con movilización",
+            "motivo": "Rechazo al Presupuesto 2027 por recortes al sistema universitario, exigencia de cumplimiento de la Ley de Financiamiento Universitario y reclamo de recomposición salarial",
+            "fuente": "https://www.conclusion.com.ar/gremiales/docentes-de-la-unr-adhieren-al-paro-nacional-universitario-del-miercoles-25-contra-el-presupuesto-2027/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
             "horario": "15:30",
             "lugar": "No especificado",
             "quien": "Colectivos de docentes y organizaciones feministas",
             "tipo_medida": "Marcha",
             "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
             "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-26",
+            "horario": "10:00",
+            "lugar": "Bartolomé Mitre 400, sede de la Superintendencia de Servicios de Salud (SSS)",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamar al Gobierno una solución urgente a la crisis financiera de las obras sociales, calificada como 'casi terminal'",
+            "fuente": "https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
         },
         {
             "es_evento_relevante": true,
@@ -18680,6 +18720,16 @@
             "tipo_medida": "Huelga general",
             "motivo": "Crisis de vivienda, desahucios, salarios insuficientes, deterioro de servicios públicos y rechazo a políticas de gobierno",
             "fuente": "https://www.laizquierdadiario.com/Estado-espanol-De-la-rebelion-por-la-vivienda-a-la-huelga-general-Hay-que-tomar-partido"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-30",
+            "horario": "08:00",
+            "lugar": "Plaza de Mayo",
+            "quien": "Asamblea de Residentes de CABA",
+            "tipo_medida": "Paro y movilización",
+            "motivo": "Recomposición salarial y rechazo al ajuste del gobierno de Macri y Quirós",
+            "fuente": "https://prensaobrera.com/sindicales/como-sigue-el-plan-de-lucha-de-la-asamblea-de-residentes-y-concurrentes-de-caba"
         },
         {
             "es_evento_relevante": true,
