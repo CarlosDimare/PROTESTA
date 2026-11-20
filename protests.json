@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-20T05:08:59.118943-03:00",
+    "last_updated": "2026-11-20T13:54:59.703811-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18683,6 +18683,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-23",
+            "horario": "10:00",
+            "lugar": "Frente a la Cámara de Diputados de la Nación",
+            "quien": "CIN (Consejo Interuniversitario Nacional) y FEDUN (Federación de Docentes de las Universidades)",
+            "tipo_medida": "Movilización",
+            "motivo": "Contra el recorte presupuestario del 30% para la educación universitaria y la 'continuidad del ajuste' en el proyecto de Presupuesto 2027",
+            "fuente": "https://www.datagremial.com/escenario/milei-le-quito-5-3-billones-a-las-universidades-anuncian-jornada-de-protesta-contra-el-brutal-ajuste-202611207270"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-25",
             "horario": "13:00",
             "lugar": "Congreso de la Nación",
@@ -18705,11 +18715,11 @@
             "es_evento_relevante": true,
             "fecha": "2026-11-26",
             "horario": "10:00",
-            "lugar": "Bartolomé Mitre 400, sede de la Superintendencia de Servicios de Salud (SSS)",
+            "lugar": "Superintendencia de Servicios de Salud (SSS), Bartolomé Mitre al 400",
             "quien": "CGT",
             "tipo_medida": "Marcha",
-            "motivo": "Reclamar al Gobierno una solución urgente a la crisis financiera de las obras sociales, calificada como 'casi terminal'",
-            "fuente": "https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
+            "motivo": "Exigir al Gobierno una respuesta urgente a la crisis financiera de las obras sociales sindicales",
+            "fuente": "https://estadodealerta.com.ar/la-cgt-marcha-el-26-a-la-superintendencia-de-servicios-de-salud-por-la-crisis-de-las-obras-sociales/, https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
         },
         {
             "es_evento_relevante": true,
