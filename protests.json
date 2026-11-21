@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-21T09:07:44.245624-03:00",
+    "last_updated": "2026-11-21T15:53:14.541703-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18693,6 +18693,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-24",
+            "horario": "No especificado",
+            "lugar": "Italia",
+            "quien": "CGIL (Confederación General Italiana del Trabajo)",
+            "tipo_medida": "Huelga",
+            "motivo": "Reclamos contra la política económica de Giorgia Meloni, por salarios más altos, mejores servicios públicos, medidas contra el aumento del costo de vida, deterioro del poder adquisitivo, falta de inversión en educación y salud, y aumento del gasto militar.",
+            "fuente": "https://www.conclusion.com.ar/internacionales/miles-de-trabajadores-y-estudiantes-marchan-en-italia-contra-la-politica-economica-de-meloni/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-25",
             "horario": "13:00",
             "lugar": "Congreso de la Nación",
@@ -18710,6 +18720,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
             "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
+            "horario": "No especificado",
+            "lugar": "Congreso de la Nación (movilización en AMBA)",
+            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
+            "tipo_medida": "Paro nacional",
+            "motivo": "Reclamo de recomposición salarial, cumplimiento de Ley de Financiamiento Universitario y rechazo al Presupuesto 2027",
+            "fuente": "https://www.datagremial.com/informacion-general/fatun-endurece-su-plan-de-lucha-paro-nacional-nodocente-el-25-de-noviembre-y-otras-tres-huelgas-en-diciembre-2026112017400"
         },
         {
             "es_evento_relevante": true,
