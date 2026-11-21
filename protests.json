@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-21T00:50:00.277981-03:00",
+    "last_updated": "2026-11-21T09:07:44.245624-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18714,12 +18714,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-26",
-            "horario": "10:00",
-            "lugar": "Superintendencia de Servicios de Salud (SSS), Bartolomé Mitre al 400",
+            "horario": "15:00",
+            "lugar": "Bartolomé Mitre al 400, Ciudad de Buenos Aires (sede de la Superintendencia de Servicios de Salud - SSS)",
             "quien": "CGT",
             "tipo_medida": "Marcha",
-            "motivo": "Exigir al Gobierno una respuesta urgente a la crisis financiera de las obras sociales sindicales",
-            "fuente": "https://estadodealerta.com.ar/la-cgt-marcha-el-26-a-la-superintendencia-de-servicios-de-salud-por-la-crisis-de-las-obras-sociales/, https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
+            "motivo": "Reclamo por la crisis de financiamiento de las obras sociales sindicales, exigiendo que el Estado asuma los gastos de transporte y educación de personas con discapacidad para preservar la cobertura de 17 millones de afiliados",
+            "fuente": "https://www.datagremial.com/informacion-general/por-el-riesgo-la-continuidad-de-muchas-de-sus-obras-sociales-la-cgt-marchara-para-pedir-financiamiento-202611209340, https://estadodealerta.com.ar/la-cgt-marcha-el-26-a-la-superintendencia-de-servicios-de-salud-por-la-crisis-de-las-obras-sociales/, https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
         },
         {
             "es_evento_relevante": true,
