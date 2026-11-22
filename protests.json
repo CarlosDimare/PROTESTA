@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-22T10:07:19.889965-03:00",
+    "last_updated": "2026-11-22T17:20:30.891631-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18680,6 +18680,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Defensa de derechos LGBTIQ+, rechazo a discriminación y violencia, y pedido de Ley Integral Trans",
             "fuente": "https://www.inforegion.com.ar/2026/11/19/marcha-del-orgullo-en-lomas-cuando-donde-y-que-reclamos-habra-en-la-octava-edicion/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-22",
+            "horario": "**05:00**",
+            "lugar": "No especificado",
+            "quien": "Trabajadores",
+            "tipo_medida": "Movilización",
+            "motivo": "Oposición a proyecto de ley votado en Senado",
+            "fuente": "https://11noticias.com/gremial/mariano-moreno-repudio-la-media-sancion-a-la-reforma-del-cabotaje-y-denuncio-una-amp;quot;entrega-de-soberania-amp;quot;_53664, https://www.bloomberglinea.com/latinoamerica/colombia/paro-nacional-del-19-de-noviembre-en-bogota-horarios-puntos-de-concentracion-y-vias-que-debe-evitar/"
         },
         {
             "es_evento_relevante": true,
