@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-22T17:20:30.891631-03:00",
+    "last_updated": "2026-11-22T22:31:09.625104-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18693,6 +18693,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-22",
+            "horario": "No especificado",
+            "lugar": "Hospital Garrahan",
+            "quien": "Asociación de Trabajadores del Estado (ATE)",
+            "tipo_medida": "Movilización",
+            "motivo": "Despidos y suspensiones de trabajadores del centro de salud pediátrico",
+            "fuente": "https://www.inforegion.com.ar/2026/11/22/ate-convoco-a-una-movilizacion-al-hospital-garrahan-por-despidos-y-suspensiones/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-23",
             "horario": "10:00",
             "lugar": "Frente a la Cámara de Diputados de la Nación",
@@ -18700,6 +18710,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Contra el recorte presupuestario del 30% para la educación universitaria y la 'continuidad del ajuste' en el proyecto de Presupuesto 2027",
             "fuente": "https://www.datagremial.com/escenario/milei-le-quito-5-3-billones-a-las-universidades-anuncian-jornada-de-protesta-contra-el-brutal-ajuste-202611207270"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-24",
+            "horario": "14:00",
+            "lugar": "Mitre 1500, Rosario",
+            "quien": "Vecinos de Rosario",
+            "tipo_medida": "Movilización",
+            "motivo": "Muerte de caniche por ataque de pitbulls; reclamo de justicia y control de animales peligrosos",
+            "fuente": "https://elciudadanoweb.com/indignacion-en-el-centro-vecinos-protestaron-frente-a-la-casa-del-dueno-de-los-pitbulls-que-mataron-a-un-caniche/"
         },
         {
             "es_evento_relevante": true,
@@ -18730,6 +18750,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
             "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
+            "horario": "17:00",
+            "lugar": "Sindicato Sitratel (Dorrego 733, frente a Plaza San Martín), Rosario",
+            "quien": "Intersindical de Mujeres Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigencia de políticas contra la violencia de género en el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-intersindical-de-mujeres-marcha-contra-la-violencia-de-genero/11/2026/"
         },
         {
             "es_evento_relevante": true,
