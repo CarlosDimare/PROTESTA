@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-22T22:31:09.625104-03:00",
+    "last_updated": "2026-11-23T07:13:54.534316-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18720,6 +18720,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Muerte de caniche por ataque de pitbulls; reclamo de justicia y control de animales peligrosos",
             "fuente": "https://elciudadanoweb.com/indignacion-en-el-centro-vecinos-protestaron-frente-a-la-casa-del-dueno-de-los-pitbulls-que-mataron-a-un-caniche/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-24",
+            "horario": "No especificado",
+            "lugar": "No especificado",
+            "quien": "Facción Multicolor de Suteba (ej. La Matanza, Tigre)",
+            "tipo_medida": "NO inicio de clases",
+            "motivo": "Devolver descuentos masivos por paros, oponerse a ajustes de Kicillof y defender educación pública",
+            "fuente": "https://www.laizquierdadiario.com/Asambleas-ordinarias-Suteba-sindicato-para-organizar-la-fuerza-docente-o-ministerio-del-Gobierno-y"
         },
         {
             "es_evento_relevante": true,
