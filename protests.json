@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-23T07:13:54.534316-03:00",
+    "last_updated": "2026-11-23T19:29:07.825520-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18713,6 +18713,26 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-23",
+            "horario": "15:00",
+            "lugar": "Bartolomé Mitre al 400, Superintendencia de Servicios de Salud (SSS)",
+            "quien": "CGT",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir solución a la crisis financiera de las obras sociales",
+            "fuente": "https://www.infobae.com/politica/2026/11/23/agitado-debate-en-la-cgt-sobre-la-nueva-modalidad-de-protesta-que-estrenaran-en-diciembre/, https://www.eldestapeweb.com/politica/cgt-marcha-desfinanciamiento-obras-sociales-2026111918545"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-24",
+            "horario": "07:00",
+            "lugar": "Ruta 6, La Merced, San Vicente",
+            "quien": "Vecinos y familias del barrio La Merced",
+            "tipo_medida": "Corte",
+            "motivo": "Visibilizar conflicto de desalojo y frenar expulsiones de viviendas",
+            "fuente": "https://www.anred.org/represion-y-detenciones-durante-la-protesta-de-los-vecinos-estafados-en-el-barrio-la-merced-en-san-vicente/"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-24",
             "horario": "14:00",
             "lugar": "Mitre 1500, Rosario",
@@ -18774,6 +18794,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-25",
+            "horario": "17:30",
+            "lugar": "Plaza San Martín, Rosario",
+            "quien": "Asamblea Lesbostransfeminista de Rosario e Intersindical de Mujeres Rosario",
+            "tipo_medida": "Marcha",
+            "motivo": "Exigir declaración de emergencia en violencia de género en Santa Fe y visibilizar femicidios",
+            "fuente": "https://www.conclusion.com.ar/la-ciudad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-masiva-marcha-en-rosario-para-exigir-la-emergencia-provincial/11/2026/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
             "horario": "No especificado",
             "lugar": "Congreso de la Nación (movilización en AMBA)",
             "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
@@ -18790,6 +18820,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por la crisis de financiamiento de las obras sociales sindicales, exigiendo que el Estado asuma los gastos de transporte y educación de personas con discapacidad para preservar la cobertura de 17 millones de afiliados",
             "fuente": "https://www.datagremial.com/informacion-general/por-el-riesgo-la-continuidad-de-muchas-de-sus-obras-sociales-la-cgt-marchara-para-pedir-financiamiento-202611209340, https://estadodealerta.com.ar/la-cgt-marcha-el-26-a-la-superintendencia-de-servicios-de-salud-por-la-crisis-de-las-obras-sociales/, https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-27",
+            "horario": "10:00",
+            "lugar": "Congreso Nacional",
+            "quien": "Federación Nacional de Docentes Universitarios (Conadu), Conadu Histórica y Federación Argentina del Trabajador de las Universidades Nacionales (Fatun)",
+            "tipo_medida": "Paro con movilización",
+            "motivo": "Reclamo por cumplimiento de la ley de financiamiento universitario, pago de deuda salarial y rechazo al Presupuesto 2027 por insuficiencia de fondos",
+            "fuente": "https://www.inforegion.com.ar/2026/11/23/universidades-otra-semana-de-paro-y-movilizacion-a-diputados/"
         },
         {
             "es_evento_relevante": true,
