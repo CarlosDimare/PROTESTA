@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-24T03:51:11.936526-03:00",
+    "last_updated": "2026-11-24T15:39:23.137666-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18740,6 +18740,16 @@
             "tipo_medida": "Movilización",
             "motivo": "Muerte de caniche por ataque de pitbulls; reclamo de justicia y control de animales peligrosos",
             "fuente": "https://elciudadanoweb.com/indignacion-en-el-centro-vecinos-protestaron-frente-a-la-casa-del-dueno-de-los-pitbulls-que-mataron-a-un-caniche/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-24",
+            "horario": "No especificado",
+            "lugar": "Plantas de producción metalúrgica y electrónica de Alemania",
+            "quien": "IG Metall",
+            "tipo_medida": "Huelga",
+            "motivo": "Disputa salarial y de puestos de trabajo, con exigencias de aumento salarial del 5%, seguridad laboral y defensa del empleo frente a recortes y reconversión industrial.",
+            "fuente": "https://www.laizquierdadiario.com/Huelgas-de-24-horas-sacuden-el-corazon-industrial-de-Alemania"
         },
         {
             "es_evento_relevante": true,
