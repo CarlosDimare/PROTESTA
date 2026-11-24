@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-23T19:29:07.825520-03:00",
+    "last_updated": "2026-11-24T03:51:11.936526-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18890,6 +18890,16 @@
             "tipo_medida": "Paro",
             "motivo": "Despidos, ajustes salariales y cierres de empresas",
             "fuente": "https://www.laizquierdadiario.com/La-CGT-y-las-CTA-juegan-para-la-eliminacion, https://www.infobae.com/politica/2026/04/30/el-mapa-de-la-marcha-a-plaza-de-mayo-por-el-dia-del-trabajador-convocada-por-la-cgt/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "00:00",
+            "lugar": "Aeropuertos de todo el país",
+            "quien": "Coordinación Nacional de ATE-ANAC",
+            "tipo_medida": "Plan de lucha",
+            "motivo": "Congelamiento salarial, falta de convocatoria paritaria y desfinanciamiento de ANAC",
+            "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-medidas-de-fuerza-del-1-al-31-de-diciembre-en-todos-los-aeropuertos-del-pais-habra-paros-y-retencion-de-tareas-2026112312460"
         },
         {
             "es_evento_relevante": true,
