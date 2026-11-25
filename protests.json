@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-25T09:07:48.879552-03:00",
+    "last_updated": "2026-11-25T18:19:59.145575-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18796,10 +18796,20 @@
             "fecha": "2026-11-25",
             "horario": "15:30",
             "lugar": "No especificado",
-            "quien": "Colectivos de docentes y organizaciones feministas",
+            "quien": "Sindicato de Camioneros (Pablo Moyano)",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigir explicaciones a las autoridades de OCA sobre el pago de salarios en partes y su impacto en los servicios",
+            "fuente": "https://www.conclusion.com.ar/gremiales/pablo-moyano-denuncia-que-oca-paga-el-salario-en-cuotas-y-advierte-por-una-movilizacion/11/2026/, https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
+            "horario": "16:00",
+            "lugar": "Plaza Congreso, Ciudad de Buenos Aires",
+            "quien": "Colectivos feministas, organizaciones sindicales, sociales y políticas, jubiladas",
             "tipo_medida": "Marcha",
-            "motivo": "Justicia por el femicidio de Nanci Godoy y contra la precarización de las escuelas",
-            "fuente": "https://www.laizquierdadiario.com/Justicia-por-Nanci-Godoy-la-bronca-impuso-paro-nacional-docente-y-jornada-de-lucha-como-seguir, https://www.eldestapeweb.com/politica/javier-milei-presidente/marcha-federal-universitaria-a-que-hora-es-la-protesta-contra-el-veto-de-milei-20259121240"
+            "motivo": "Contra la violencia machista, recortes en programas de género, presupuesto de ajuste del FMI y cuestionamiento a la justicia",
+            "fuente": "https://www.laizquierdadiario.com/Movilizacion-al-Congreso-con-familiares-de-victimas-de-femicidio-en-el-Dia-Internacional-de-lucha, https://elciudadanoweb.com/rosario-marcha-este-25n-en-reclamo-de-politicas-publicas-y-presupuesto-para-combatir-la-violencia-contra-las-mujeres/"
         },
         {
             "es_evento_relevante": true,
@@ -18814,6 +18824,26 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-25",
+            "horario": "18:00",
+            "lugar": "Plaza Montenegro (San Martín y San Luis), Rosario",
+            "quien": "El Ciudadano",
+            "tipo_medida": "Marcha",
+            "motivo": "Conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer y protesta contra la violencia de género",
+            "fuente": "https://elciudadanoweb.com/para-tener-en-cuenta-cortes-de-calle-y-desvios-en-recorridos-de-colectivos-por-la-marcha-del-25n/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
+            "horario": "18:00",
+            "lugar": "Obelisco de Buenos Aires",
+            "quien": "INFOREGION",
+            "tipo_medida": "Movilización",
+            "motivo": "Justicia por Diego",
+            "fuente": "https://www.inforegion.com.ar/2026/11/25/seis-anos-sin-diego-maradona-concentracion-en-el-obelisco/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
             "horario": "18:30",
             "lugar": "Paseo del Pino",
             "quien": "Multisectorial de Mujeres del Cordón Industrial",
@@ -18824,12 +18854,42 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-26",
+            "horario": "13:00",
+            "lugar": "Congreso Nacional, Buenos Aires",
+            "quien": "CONADU y gremios docentes universitarios",
+            "tipo_medida": "Movilización",
+            "motivo": "Reclamo por financiamiento pendiente y contra el proyecto de Presupuesto 2027, que consideran profundiza el ajuste y la asfixia a la universidad pública",
+            "fuente": "https://estadodealerta.com.ar/paro-universitario-conadu-y-gremios-de-distintas-universidades-rechazan-el-presupuesto-2027/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-26",
+            "horario": "15:00",
+            "lugar": "Bartolomé Mitre 400, Microcentro porteño (frente a la Superintendencia de Servicios de Salud)",
+            "quien": "CGT (Central General de Trabajadores)",
+            "tipo_medida": "Concentración",
+            "motivo": "Exigir respuesta urgente del Gobierno Nacional ante la crisis financiera y desfinanciamiento de las obras sociales sindicales",
+            "fuente": "https://elciudadanoweb.com/la-cgt-se-movilizara-este-jueves-por-la-crisis-financiera-de-las-obras-sociales-sindicales/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-26",
             "horario": "15:00",
             "lugar": "Bartolomé Mitre al 400, Ciudad de Buenos Aires (sede de la Superintendencia de Servicios de Salud - SSS)",
             "quien": "CGT",
             "tipo_medida": "Marcha",
             "motivo": "Reclamo por la crisis de financiamiento de las obras sociales sindicales, exigiendo que el Estado asuma los gastos de transporte y educación de personas con discapacidad para preservar la cobertura de 17 millones de afiliados",
             "fuente": "https://www.datagremial.com/informacion-general/por-el-riesgo-la-continuidad-de-muchas-de-sus-obras-sociales-la-cgt-marchara-para-pedir-financiamiento-202611209340, https://estadodealerta.com.ar/la-cgt-marcha-el-26-a-la-superintendencia-de-servicios-de-salud-por-la-crisis-de-las-obras-sociales/, https://www.infobae.com/politica/2026/11/19/la-cgt-saldra-a-la-calle-por-la-crisis-de-las-obras-sociales-y-definio-como-sera-su-protesta-sin-paros-en-diciembre/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-27",
+            "horario": "10:00",
+            "lugar": "Superintendencia de Servicios de Salud (SSS), calle Azopardo, Ciudad Autónoma de Buenos Aires",
+            "quien": "CGT (Central General de Trabajadores)",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por demora en transferencias de recursos a obras sociales y desfinanciamiento del sistema de salud",
+            "fuente": "https://www.datagremial.com/informacion-general/a-horas-de-marchar-a-la-superintendencia-de-salud-la-cgt-es-llamada-a-negociar-por-las-obras-sociales-202611251090"
         },
         {
             "es_evento_relevante": true,
@@ -18910,6 +18970,16 @@
             "tipo_medida": "Plan de lucha",
             "motivo": "Congelamiento salarial, falta de convocatoria paritaria y desfinanciamiento de ANAC",
             "fuente": "https://www.datagremial.com/paritarias/ate-anac-anuncio-medidas-de-fuerza-del-1-al-31-de-diciembre-en-todos-los-aeropuertos-del-pais-habra-paros-y-retencion-de-tareas-2026112312460"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "09:00",
+            "lugar": "Sucursales de Banco Santander",
+            "quien": "Asociación Bancaria",
+            "tipo_medida": "Paro",
+            "motivo": "Despidos, cierres de sucursales e incumplimiento del convenio colectivo 18/75",
+            "fuente": "https://www.conclusion.com.ar/gremiales/la-bancaria-va-al-paro-nacional-el-1-y-1-de-diciembre-en-el-santander-por-despidos-y-cierres-de-sucursales/11/2026/, https://gestionsindical.com/paros-despidos-banco-santander-que-dias-se-vera-afectada-atencion/"
         },
         {
             "es_evento_relevante": true,
