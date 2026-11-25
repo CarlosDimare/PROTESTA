@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-24T15:39:23.137666-03:00",
+    "last_updated": "2026-11-25T00:03:36.064166-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18774,6 +18774,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-25",
+            "horario": "08:00",
+            "lugar": "Universidad Nacional de Rosario (UNR) y Facultad Regional Rosario de la Universidad Tecnológica Nacional (UTN)",
+            "quien": "Asociación Gremial de Docentes e Investigadores (Coad), Asociación del Personal de la Universidad de Rosario (Apur) y Federación de Asociaciones de Docentes de la Universidad Tecnológica (Fagdut Rosario)",
+            "tipo_medida": "Paro",
+            "motivo": "Rechazo al proyecto de Presupuesto 2027, reclamo de recomposición salarial y exigencia de cumplimiento de la Ley de Financiamiento Universitario",
+            "fuente": "https://elciudadanoweb.com/paro-universitario-de-24-horas-este-miercoles-no-habra-clases-en-la-unr-ni-en-la-utn-por-el-debate-del-presupuesto/, https://www.datagremial.com/informacion-general/fatun-endurece-su-plan-de-lucha-paro-nacional-nodocente-el-25-de-noviembre-y-otras-tres-huelgas-en-diciembre-2026112017400"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-25",
             "horario": "13:00",
             "lugar": "Congreso de la Nación",
             "quien": "COAD y Conadu (Federación Nacional de Docentes Universitarios)",
@@ -18814,12 +18824,12 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-25",
-            "horario": "No especificado",
-            "lugar": "Congreso de la Nación (movilización en AMBA)",
-            "quien": "FATUN (Federación Argentina del Trabajador de las Universidades Nacionales)",
-            "tipo_medida": "Paro nacional",
-            "motivo": "Reclamo de recomposición salarial, cumplimiento de Ley de Financiamiento Universitario y rechazo al Presupuesto 2027",
-            "fuente": "https://www.datagremial.com/informacion-general/fatun-endurece-su-plan-de-lucha-paro-nacional-nodocente-el-25-de-noviembre-y-otras-tres-huelgas-en-diciembre-2026112017400"
+            "horario": "18:30",
+            "lugar": "Paseo del Pino",
+            "quien": "Multisectorial de Mujeres del Cordón Industrial",
+            "tipo_medida": "Marcha",
+            "motivo": "Nuestras vidas están en emergencia",
+            "fuente": "https://11noticias.com/san-lorenzo/convocan-a-una-marcha-en-san-lorenzo-por-el-dia-internacional-de-la-eliminacion-de-la-violencia-contra-la-mujer_53695"
         },
         {
             "es_evento_relevante": true,
