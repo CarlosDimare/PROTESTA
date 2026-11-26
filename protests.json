@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-25T18:19:59.145575-03:00",
+    "last_updated": "2026-11-26T01:05:22.363697-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -19000,6 +19000,16 @@
             "tipo_medida": "Paro/Marcha",
             "motivo": "Rechazo a políticas económicas y laborales del gobierno, incluyendo reforma laboral y Ley Bases",
             "fuente": "https://estadodealerta.com.ar/cristian-jeronimo-y-pablo-moyano-endurecen-sus-criticas-contra-el-gobierno-tambien-mostrando-una-importante-grieta-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-10",
+            "horario": "No especificado",
+            "lugar": "Patio interno 'Indio Solari' de la sede de la Facultad de Ciencias Sociales (UBA) en Constitución",
+            "quien": "Colectivo Cultural Contramuro y cátedra Bonavena de Sociología, con apoyo de la agrupación estudiantil La Mella",
+            "tipo_medida": "Homenaje institucional",
+            "motivo": "Homenaje a Mario Roberto Santucho en el marco del Día Internacional de los Derechos Humanos y aniversario de la recuperación de la democracia",
+            "fuente": "https://elciudadanoweb.com/marcha-atras-la-uba-suspendio-el-homenaje-a-mario-santucho/"
         },
         {
             "es_evento_relevante": true,
