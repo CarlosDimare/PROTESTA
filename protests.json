@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-26T01:05:22.363697-03:00",
+    "last_updated": "2026-11-26T10:34:23.242931-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18883,6 +18883,16 @@
         },
         {
             "es_evento_relevante": true,
+            "fecha": "2026-11-26",
+            "horario": "No especificado",
+            "lugar": "Alto Verde, Colastiné Sur y Norte, Rincón y Arroyo Leyes (costa santafesina)",
+            "quien": "Familias trabajadoras de la costa santafesinas",
+            "tipo_medida": "Movilización",
+            "motivo": "Exigencias urgentes ante inundaciones: obras de defensa (Defensa Oeste), ayuda humanitaria (agua potable, subsidios, viviendas dignas), atención sanitaria 24h y transporte educativo",
+            "fuente": "https://prensaobrera.com/sociedad/asambleas-frente-a-el-nino-en-santa-fe-contra-la-negligencia-de-pullaro-y-los-intendentes"
+        },
+        {
+            "es_evento_relevante": true,
             "fecha": "2026-11-27",
             "horario": "10:00",
             "lugar": "Superintendencia de Servicios de Salud (SSS), calle Azopardo, Ciudad Autónoma de Buenos Aires",
@@ -18900,6 +18910,16 @@
             "tipo_medida": "Paro con movilización",
             "motivo": "Reclamo por cumplimiento de la ley de financiamiento universitario, pago de deuda salarial y rechazo al Presupuesto 2027 por insuficiencia de fondos",
             "fuente": "https://www.inforegion.com.ar/2026/11/23/universidades-otra-semana-de-paro-y-movilizacion-a-diputados/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-28",
+            "horario": "09:00",
+            "lugar": "CABA",
+            "quien": "UJS (Unión de Juventudes Socialistas)",
+            "tipo_medida": "Reunión organizativa",
+            "motivo": "Preparación de huelga general y movilizaciones contra presupuesto 2027 y recortes universitarios",
+            "fuente": "https://prensaobrera.com/universidad/universidad-de-cordoba-un-paro-masivo-marco-la-necesidad-de-profundizar-las-medidas"
         },
         {
             "es_evento_relevante": true,
