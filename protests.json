@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27T11:44:00.366474-03:00",
+    "last_updated": "2026-11-27T20:14:06.706182-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -19005,6 +19005,16 @@
             "es_evento_relevante": true,
             "fecha": "2026-12-01",
             "horario": "00:00",
+            "lugar": "Todo el país",
+            "quien": "CGT",
+            "tipo_medida": "Paro",
+            "motivo": "Profundizar protestas contra el Gobierno por políticas socioeconómicas y salariales",
+            "fuente": "https://www.infobae.com/politica/2026/11/27/los-sindicatos-ya-proyectan-protestas-para-2027-paros-progresivos-de-la-cgt-y-una-huelga-docente/, https://estadodealerta.com.ar/cristian-jeronimo-y-pablo-moyano-endurecen-sus-criticas-contra-el-gobierno-tambien-mostrando-una-importante-grieta-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-01",
+            "horario": "00:00",
             "lugar": "Aeropuertos de todo el país",
             "quien": "Coordinación Nacional de ATE-ANAC",
             "tipo_medida": "Plan de lucha",
@@ -19030,16 +19040,6 @@
             "tipo_medida": "Jornada de lucha",
             "motivo": "Campaña contra reforma laboral, devolución de descuentos a docentes y justicia por femicidios (Brenda, Lara y Morena)",
             "fuente": "https://www.laizquierdadiario.com/Asamblea-de-la-Coordinadora-en-Suteba-Matanza-campanas-de-difusion-y-jornadas-de-lucha-para"
-        },
-        {
-            "es_evento_relevante": true,
-            "fecha": "2026-12-01",
-            "horario": "No especificado",
-            "lugar": "No especificado",
-            "quien": "CGT",
-            "tipo_medida": "Paro/Marcha",
-            "motivo": "Rechazo a políticas económicas y laborales del gobierno, incluyendo reforma laboral y Ley Bases",
-            "fuente": "https://estadodealerta.com.ar/cristian-jeronimo-y-pablo-moyano-endurecen-sus-criticas-contra-el-gobierno-tambien-mostrando-una-importante-grieta-sindical/"
         },
         {
             "es_evento_relevante": true,
