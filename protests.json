@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-27T01:50:00.828599-03:00",
+    "last_updated": "2026-11-27T11:44:00.366474-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18944,6 +18944,16 @@
         {
             "es_evento_relevante": true,
             "fecha": "2026-11-29",
+            "horario": "00:00",
+            "lugar": "Centros de salud y clínicas adheridas a PAMI",
+            "quien": "Médicos de cabecera y odontólogos de PAMI",
+            "tipo_medida": "Paro",
+            "motivo": "Actualización de las cápitas y regularización de pagos",
+            "fuente": "https://estadodealerta.com.ar/cambio-de-mando-en-un-pami-en-caida-libre-el-gobierno-desplazo-a-leguizamo-y-zamparolo-y-puso-a-veronica-perez/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-29",
             "horario": "No especificado",
             "lugar": "España",
             "quien": "CCOO y UGT",
@@ -19030,6 +19040,16 @@
             "tipo_medida": "Paro/Marcha",
             "motivo": "Rechazo a políticas económicas y laborales del gobierno, incluyendo reforma laboral y Ley Bases",
             "fuente": "https://estadodealerta.com.ar/cristian-jeronimo-y-pablo-moyano-endurecen-sus-criticas-contra-el-gobierno-tambien-mostrando-una-importante-grieta-sindical/"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-12-02",
+            "horario": "07:00",
+            "lugar": "Hospital Garrahan",
+            "quien": "Junta Interna de ATE y APyT (Asociación de Profesionales y Técnicos) del Hospital Garrahan",
+            "tipo_medida": "Movilización",
+            "motivo": "Repudio a despidos y suspensiones arbitrarias del gobierno, defensa del Hospital Garrahan contra la privatización y en apoyo a trabajadores perseguidos",
+            "fuente": "https://www.laizquierdadiario.com/Asamblea-de-trabajadores-del-Garrahan-responde-a-los-despidos-y-suspensiones-No-tenemos-miedo, https://www.dataclave.com.ar/poder/ate-convoco-a-una-protesta-con-movilizacion-en-el-garrahan-por-despidos-y-suspensiones_a6b043bf75c10a3d25268f074"
         },
         {
             "es_evento_relevante": true,
