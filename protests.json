@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-28T02:55:56.257021-03:00",
+    "last_updated": "2026-11-28T12:00:43.421467-03:00",
     "events": [
         {
             "es_evento_relevante": true,
@@ -18940,6 +18940,16 @@
             "tipo_medida": "Marcha",
             "motivo": "Exigir la legalización del cannabis y fin de la persecución penal",
             "fuente": "https://www.laizquierdadiario.com/Por-que-el-movimiento-cannabico-tiene-dos-marchas-durante-el-ano, https://www.eldestapeweb.com/sociedad/cuando-marcha-bronca-2026-argentina-fecha-donde-cuales-puntos-concentracion-202691894826"
+        },
+        {
+            "es_evento_relevante": true,
+            "fecha": "2026-11-28",
+            "horario": "No especificado",
+            "lugar": "Facultad de Medicina de la UBA, sede de la Asociación de Médicos Municipales (AMM), Federación de Profesionales y Ministerio de Salud de la Ciudad",
+            "quien": "Residentes y concurrentes porteños autorganizados en asamblea",
+            "tipo_medida": "Marcha",
+            "motivo": "Reclamo por recomposición salarial y defensa de la salud pública, exigiendo a gremios mayoritarios tomar medidas de fuerza",
+            "fuente": "https://www.laizquierdadiario.com/Decima-semana-de-paro-y-movilizacion-de-residentes-y-concurrentes-portenos"
         },
         {
             "es_evento_relevante": true,
